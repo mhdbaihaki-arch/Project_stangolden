@@ -1,0 +1,2000 @@
+<?php
+/**
+ * STANGOLDEN.exam — Nilai-Nilai Kemenkeu Halaman 7–16
+ * Autentikasi & otorisasi memakai Moodle Stangolden saja.
+ * Semua soal, desain, anotasi, dan hasil dijalankan pada halaman ini;
+ * tabel ranking/review/anotasi pada database elearning, prefix Moodle mdlhv_.
+ * Moodle $DB otomatis menambahkan prefix sesuai config.php; jangan masukkan mdlhv_ di konstanta tabel.
+ */
+declare(strict_types=1);
+$configCandidates = [
+    rtrim((string)($_SERVER['DOCUMENT_ROOT'] ?? ''), '/') . '/elearning/config.php',
+    __DIR__ . '/config.php',
+    __DIR__ . '/elearning/config.php',
+    dirname(__DIR__) . '/config.php',
+    dirname(__DIR__) . '/elearning/config.php',
+    dirname(__DIR__, 2) . '/elearning/config.php',
+];
+$configPath = null;
+foreach ($configCandidates as $candidate) {
+    if (is_file($candidate)) { $configPath = $candidate; break; }
+}
+if ($configPath === null) {
+    http_response_code(500);
+    exit('Konfigurasi Stangolden belum ditemukan. Hubungi administrator.');
+}
+require_once($configPath);
+require_login();
+
+// ID course hanya untuk otorisasi backend; tidak ditampilkan ke peserta.
+$requiredCourseId = 255;
+$context = context_course::instance($requiredCourseId);
+$authorized = is_siteadmin($USER) || is_enrolled($context, $USER, '', true);
+if (!$authorized) {
+    http_response_code(403);
+    header('Content-Type: text/html; charset=utf-8');
+    $dashboardUrl = htmlspecialchars((new moodle_url('/my/'))->out(false), ENT_QUOTES, 'UTF-8');
+    echo '<!doctype html><html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Akses Terbatas — STANGOLDEN</title><style>body{font-family:system-ui,sans-serif;background:#f2eeff;min-height:100vh;margin:0;display:grid;place-items:center;color:#17131f}.card{background:white;border:3px solid #17131f;border-radius:18px;box-shadow:6px 6px 0 #17131f;padding:30px;max-width:500px;margin:20px;text-align:center}a{display:inline-block;background:#c7ff42;color:#17131f;padding:12px 18px;border:2px solid #17131f;border-radius:10px;font-weight:800;text-decoration:none}</style></head><body><div class="card"><h1>🔒 Akses Terbatas</h1><p>Materi latihan ini hanya tersedia untuk peserta yang terdaftar pada program persiapan UPKP Kemenkeu 2026 di Stangolden.</p><a href="' . $dashboardUrl . '">Kembali ke Dashboard</a></div></body></html>';
+    exit;
+}
+
+// Database Moodle: elearning; prefix fisik mdlhv_ diambil otomatis dari config.php.
+// $DB->get_record("stgnk716_rank") => tabel fisik "mdlhv_stgnk716_rank".
+// Jangan menambahkan prefix secara manual di konstanta berikut.
+// Penyimpanan bersama melalui database Moodle. Nama tabel pendek, kompatibel dengan batas Moodle.
+const STG_LB_T = 'stgnk716_rank';
+const STG_REVIEW_T = 'stgnk716_review';
+const STG_ANNO_T = 'stgnk716_anno';
+const STG_KEY = [1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,0,3,2,4,1,0,3,2,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4,1,2,0,3,4];
+// Cek tabel saja; tidak ada migrasi otomatis ketika peserta membuka halaman.
+function stgnk_table(string $name, bool $review): void {
+    global $DB, $CFG;
+    require_once($CFG->libdir . '/ddllib.php');
+    if (!$DB->get_manager()->table_exists(new xmldb_table($name))) {
+        throw new RuntimeException('Tabel latihan belum disiapkan oleh administrator.');
+    }
+}
+function stgnk_create_table(string $name, bool $review): void {
+    global $CFG;
+    require_once($CFG->libdir . '/ddllib.php');
+    global $DB;
+    $mgr=$DB->get_manager(); $t=new xmldb_table($name);
+    if($mgr->table_exists($t)) return;
+    $t->add_field('id',XMLDB_TYPE_INTEGER,'10',null,XMLDB_NOTNULL,XMLDB_SEQUENCE);
+    $t->add_field('userid',XMLDB_TYPE_INTEGER,'10',null,XMLDB_NOTNULL,null,0);
+    $t->add_field('username',XMLDB_TYPE_CHAR,'100',null,XMLDB_NOTNULL,null,'');
+    $t->add_field('score',XMLDB_TYPE_INTEGER,'4',null,XMLDB_NOTNULL,null,0);
+    $t->add_field('correct',XMLDB_TYPE_INTEGER,'4',null,XMLDB_NOTNULL,null,0);
+    $t->add_field('timetaken',XMLDB_TYPE_INTEGER,'10',null,XMLDB_NOTNULL,null,0);
+    $t->add_field('attempts',XMLDB_TYPE_INTEGER,'10',null,XMLDB_NOTNULL,null,1);
+    if($review) $t->add_field('answersjson',XMLDB_TYPE_TEXT,null,null,XMLDB_NOTNULL);
+    $t->add_field('timecreated',XMLDB_TYPE_INTEGER,'10',null,XMLDB_NOTNULL,null,0);
+    $t->add_field('timemodified',XMLDB_TYPE_INTEGER,'10',null,XMLDB_NOTNULL,null,0);
+    $t->add_key('primary',XMLDB_KEY_PRIMARY,['id']);
+    $t->add_key('user_unique',XMLDB_KEY_UNIQUE,['userid']);
+    $mgr->create_table($t);
+}
+function stgnk_create_annotation_table(): void {
+    global $CFG, $DB;
+    require_once($CFG->libdir . '/ddllib.php');
+    $mgr = $DB->get_manager();
+    $t = new xmldb_table(STG_ANNO_T);
+    if ($mgr->table_exists($t)) { return; }
+    $t->add_field('id', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, XMLDB_SEQUENCE);
+    $t->add_field('userid', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, 0);
+    $t->add_field('questionnum', XMLDB_TYPE_INTEGER, '4', null, XMLDB_NOTNULL, null, 0);
+    $t->add_field('strokesjson', XMLDB_TYPE_TEXT, null, null, XMLDB_NOTNULL);
+    $t->add_field('timemodified', XMLDB_TYPE_INTEGER, '10', null, XMLDB_NOTNULL, null, 0);
+    $t->add_key('primary', XMLDB_KEY_PRIMARY, ['id']);
+    $t->add_index('user_question_unique', XMLDB_INDEX_UNIQUE, ['userid', 'questionnum']);
+    $mgr->create_table($t);
+}
+function stgnk_annotation_exists(): void {
+    global $CFG, $DB;
+    require_once($CFG->libdir . '/ddllib.php');
+    if (!$DB->get_manager()->table_exists(new xmldb_table(STG_ANNO_T))) {
+        throw new RuntimeException('Tabel anotasi belum disiapkan oleh administrator.');
+    }
+}
+function stgnk_json(array $data,int $status=200): void {
+    http_response_code($status);
+    header('Content-Type: application/json; charset=utf-8');
+    header('Cache-Control: no-store');
+    echo json_encode($data,JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);exit;
+}
+$stgaction=optional_param('action','',PARAM_ALPHANUMEXT);
+if ($stgaction === 'setup') {
+    if (!is_siteadmin($USER)) {
+        http_response_code(403);
+        exit('Akses hanya untuk administrator Stangolden.');
+    }
+    if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+        require_sesskey();
+        try {
+            stgnk_create_table(STG_LB_T, false);
+            stgnk_create_table(STG_REVIEW_T, true);
+            stgnk_create_annotation_table();
+            echo '<h2>✅ Tabel ranking, review dan anotasi berhasil disiapkan.</h2><p>Database Moodle memakai prefix dari config.php (contoh: mdlhv_). Tidak perlu membuat tabel tambahan apabila tiga tabel sudah ada.</p><p><a href="' . htmlspecialchars((new moodle_url('/my/'))->out(false), ENT_QUOTES, 'UTF-8') . '">Kembali ke dashboard</a></p>';
+        } catch (Throwable $e) {
+            error_log('STANGOLDEN NK716 SETUP: ' . $e->getMessage());
+            http_response_code(500);
+            echo '<h2>Gagal menyiapkan tabel</h2><p>Periksa PHP error log dan hak CREATE TABLE pengguna database Moodle.</p><pre>' . htmlspecialchars($e->getMessage(), ENT_QUOTES, 'UTF-8') . '</pre>';
+        }
+    } else {
+        header('Content-Type: text/html; charset=utf-8');
+        echo '<!doctype html><html lang="id"><meta charset="utf-8"><title>Setup Latihan STANGOLDEN</title><body style="font:16px system-ui;max-width:650px;margin:60px auto"><h2>Persiapan Ranking, Review & Anotasi</h2><p>Jalankan satu kali sebagai administrator. Tidak memengaruhi tabel Mini TO lain.</p><form method="post"><input type="hidden" name="sesskey" value="' . htmlspecialchars(sesskey(), ENT_QUOTES, 'UTF-8') . '"><button style="padding:14px 20px">Siapkan tabel latihan</button></form></body></html>';
+    }
+    exit;
+}
+
+if($stgaction!=='') {
+    // Semua tindakan tetap di balik verifikasi login + enrollment di atas.
+    try {
+        if($stgaction==='save_score') {
+            if($_SERVER['REQUEST_METHOD']!=='POST') stgnk_json(['success'=>false,'message'=>'Metode tidak valid.'],405);
+            require_sesskey();
+            $raw=required_param('answersjson',PARAM_RAW);
+            $a=json_decode($raw,true);
+            if(!is_array($a)||count($a)!==100||array_keys($a)!==range(0,99)) stgnk_json(['success'=>false,'message'=>'Format jawaban tidak valid.'],400);
+            $clean=[];$correct=0;
+            foreach($a as $i=>$v){
+                if($v===null){$clean[]=-1;continue;}
+                if(!is_int($v)||$v<0||$v>4) stgnk_json(['success'=>false,'message'=>'Pilihan jawaban tidak valid.'],400);
+                $clean[]=$v;
+                if($v===STG_KEY[$i]) $correct++;
+            }
+            $score=$correct;
+            $time=max(0,min(3900,required_param('timetaken',PARAM_INT)));
+            stgnk_table(STG_LB_T,false);stgnk_table(STG_REVIEW_T,true);
+            $now=time();$userid=(int)$USER->id;
+            $existing=$DB->get_record(STG_LB_T,['userid'=>$userid]);
+            $first=(!$existing);
+            if($first){
+                $record=(object)['userid'=>$userid,'username'=>$USER->username,'score'=>$score,'correct'=>$correct,'timetaken'=>$time,'attempts'=>1,'timecreated'=>$now,'timemodified'=>$now];
+                $DB->insert_record(STG_LB_T,$record);
+            }else{
+                $existing->attempts=(int)$existing->attempts+1;
+                $existing->timemodified=$now;$existing->username=$USER->username;
+                $DB->update_record(STG_LB_T,$existing);
+            }
+            $last=$DB->get_record(STG_REVIEW_T,['userid'=>$userid]);
+            if(!$last) $last=(object)['userid'=>$userid,'timecreated'=>$now];
+            $last->username=$USER->username;$last->score=$score;$last->correct=$correct;
+            $last->timetaken=$time;$last->answersjson=json_encode($clean);$last->attempts=($existing?(int)$existing->attempts:1);$last->timemodified=$now;
+            if(!empty($last->id)) $DB->update_record(STG_REVIEW_T,$last);else $DB->insert_record(STG_REVIEW_T,$last);
+            stgnk_json(['success'=>true,'firstattemptsaved'=>$first]);
+        }
+        if ($stgaction === 'anno_load') {
+            stgnk_annotation_exists();
+            $rows = $DB->get_records(STG_ANNO_T, ['userid'=>(int)$USER->id]);
+            $out = new stdClass();
+            foreach ($rows as $r) {
+                $q = (int)$r->questionnum;
+                if ($q < 0 || $q > 99) { continue; }
+                $strokes = json_decode((string)$r->strokesjson, true);
+                $out->{(string)$q} = is_array($strokes) ? $strokes : [];
+            }
+            stgnk_json(['success'=>true,'annotations'=>$out]);
+        }
+        if ($stgaction === 'anno_save') {
+            if ($_SERVER['REQUEST_METHOD'] !== 'POST') stgnk_json(['success'=>false,'message'=>'Metode tidak valid.'],405);
+            require_sesskey();
+            stgnk_annotation_exists();
+            // Anotasi hanya boleh disimpan setelah peserta punya review yang tersimpan.
+            stgnk_table(STG_REVIEW_T,true);
+            if (!$DB->record_exists(STG_REVIEW_T, ['userid'=>(int)$USER->id])) {
+                stgnk_json(['success'=>false,'message'=>'Selesaikan ujian dahulu.'],403);
+            }
+            $q = required_param('question', PARAM_INT);
+            if ($q < 0 || $q >= 100) stgnk_json(['success'=>false,'message'=>'Nomor soal tidak valid.'],400);
+            $raw = required_param('strokesjson', PARAM_RAW);
+            if (strlen($raw) > 250000) stgnk_json(['success'=>false,'message'=>'Coretan terlalu besar.'],413);
+            $strokes = json_decode($raw, true);
+            if (!is_array($strokes) || count($strokes)>350) stgnk_json(['success'=>false,'message'=>'Data coretan tidak valid.'],400);
+            foreach ($strokes as $stroke) {
+                if (!is_array($stroke) || !isset($stroke['tool'], $stroke['points']) ||
+                    !in_array($stroke['tool'], ['pen','marker','eraser'], true) || !is_array($stroke['points']) || count($stroke['points']) > 3000) {
+                    stgnk_json(['success'=>false,'message'=>'Format coretan tidak valid.'],400);
+                }
+                foreach ($stroke['points'] as $point) {
+                    if (!is_array($point) || count($point)!==2 || !is_numeric($point[0]) || !is_numeric($point[1]) ||
+                        $point[0]<0 || $point[0]>1 || $point[1]<0 || $point[1]>1) {
+                        stgnk_json(['success'=>false,'message'=>'Koordinat coretan tidak valid.'],400);
+                    }
+                }
+            }
+            $where = ['userid'=>(int)$USER->id,'questionnum'=>$q];
+            $r = $DB->get_record(STG_ANNO_T,$where);
+            if (!$r) $r = (object)$where;
+            $r->strokesjson = json_encode($strokes,JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);
+            $r->timemodified = time();
+            if (isset($r->id)) $DB->update_record(STG_ANNO_T,$r);
+            else $DB->insert_record(STG_ANNO_T,$r);
+            stgnk_json(['success'=>true]);
+        }
+        if ($stgaction === 'anno_clear') {
+            if ($_SERVER['REQUEST_METHOD'] !== 'POST') stgnk_json(['success'=>false,'message'=>'Metode tidak valid.'],405);
+            require_sesskey();
+            stgnk_annotation_exists();
+            $DB->delete_records(STG_ANNO_T, ['userid'=>(int)$USER->id]);
+            stgnk_json(['success'=>true]);
+        }
+        if($stgaction==='leaderboard') {
+            stgnk_table(STG_LB_T,false);
+            $records=$DB->get_records(STG_LB_T,null,'score DESC, timetaken ASC, timecreated ASC');
+            $rows=[];$rank=0;
+            foreach($records as $r){$rank++;$rows[]=['rank'=>$rank,'username'=>$r->username,'score'=>(int)$r->score,'correct'=>(int)$r->correct,'timetaken'=>(int)$r->timetaken,'isme'=>((int)$r->userid===(int)$USER->id)];}
+            stgnk_json(['success'=>true,'leaderboard'=>$rows]);
+        }
+        if($stgaction==='last_review') {
+            stgnk_table(STG_REVIEW_T,true);
+            $r=$DB->get_record(STG_REVIEW_T,['userid'=>(int)$USER->id]);
+            if(!$r) stgnk_json(['success'=>false,'message'=>'Belum ada jawaban terakhir.'],404);
+            $a=json_decode($r->answersjson,true);
+            if(!is_array($a)||count($a)!==100) stgnk_json(['success'=>false,'message'=>'Data jawaban tidak valid.'],500);
+            stgnk_json(['success'=>true,'review'=>['answers'=>array_map(static function($v) { return ((int)$v < 0) ? null : (int)$v; }, $a),'score'=>(int)$r->score,'correct'=>(int)$r->correct,'timetaken'=>(int)$r->timetaken]]);
+        }
+        stgnk_json(['success'=>false,'message'=>'Aksi tidak dikenal.'],400);
+    }catch(Throwable $e){error_log('STANGOLDEN NK716: '.$e->getMessage());stgnk_json(['success'=>false,'message'=>($e instanceof RuntimeException ? $e->getMessage() : 'Penyimpanan belum tersedia. Hubungi administrator.')],500);}
+}
+
+header('Content-Type: text/html; charset=utf-8');
+header('X-Frame-Options: SAMEORIGIN');
+header('X-Content-Type-Options: nosniff');
+header('Cache-Control: private, no-store, no-cache, must-revalidate');
+?>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="icon" type="image/png" href="https://stangolden.com/elearning/JOSS.png">
+<title>Latihan Nilai-Nilai Kemenkeu Hlm. 7–16 — STANGOLDEN</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F2EEFF;--ink:#17131F;--violet:#7C3FFF;--lime:#C7FF42;--pink:#FF4D8D;--sky:#CDEBFF;--muted:#665E7C;--white:#fff;--red:#D84461;--green:#17865F;--border:3px solid var(--ink);--shadow:6px 6px 0 var(--ink);--shadow-sm:4px 4px 0 var(--ink)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);background-image:radial-gradient(circle,rgba(23,19,31,.08) 1.4px,transparent 1.4px);background-size:22px 22px;color:var(--ink);font-family:'Plus Jakarta Sans',sans-serif}h1,h2,h3{font-family:'Space Grotesk',sans-serif}
+.wrap{max-width:1160px;margin:auto;padding:18px 18px 52px}.topbar{display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:18px}.brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:21px}.brandmark{width:42px;height:42px;display:grid;place-items:center;border:var(--border);background:var(--ink);color:var(--lime);border-radius:10px;transform:rotate(-5deg);font-family:'Space Grotesk',sans-serif}.brand span{color:var(--violet)}
+.btn{border:var(--border);border-radius:10px;padding:10px 14px;background:#fff;box-shadow:var(--shadow-sm);font-weight:800;cursor:pointer;font-family:inherit}.btn:hover{transform:translate(2px,2px);box-shadow:2px 2px 0 var(--ink)}.btn.primary{background:var(--pink);color:#fff}.btn.dark{background:var(--ink);color:var(--lime)}
+.hero{border:var(--border);border-radius:18px;background:#fff;box-shadow:var(--shadow);padding:22px;margin-bottom:18px;position:relative;overflow:hidden}.hero:after{content:"✦";position:absolute;right:24px;top:8px;font-size:76px;color:var(--lime);transform:rotate(12deg);text-shadow:3px 3px 0 var(--ink)}.hero .eyebrow{display:inline-block;border:2px solid var(--ink);border-radius:999px;background:var(--lime);padding:6px 10px;font-size:12px;font-weight:900}.hero h1{font-size:34px;margin:10px 0 6px}.hero p{max-width:780px;color:var(--muted);margin:0;line-height:1.55}
+.status{display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;border:var(--border);border-radius:14px;background:#fff;box-shadow:var(--shadow);padding:13px 15px;margin-bottom:18px}.subject{border:2px solid var(--ink);border-radius:999px;padding:7px 11px;font-weight:900;font-size:12px;background:var(--sky)}.progress-wrap{min-width:180px}.progress-meta{display:flex;justify-content:space-between;font-size:12px;font-weight:800;color:var(--muted);margin-bottom:5px}.track{height:11px;border:2px solid var(--ink);border-radius:999px;overflow:hidden;background:#eee7ff}.fill{height:100%;width:0;background:repeating-linear-gradient(45deg,var(--lime),var(--lime) 10px,#b8ef36 10px,#b8ef36 20px)}.timer{background:var(--ink);color:#fff;border-radius:10px;padding:9px 13px;font-weight:900;font-variant-numeric:tabular-nums}
+.grid{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:18px;align-items:start}.card{border:var(--border);border-radius:18px;background:#fff;box-shadow:var(--shadow)}.qcard{padding:24px}.qmeta{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}.badge{border:2px solid var(--ink);border-radius:8px;padding:5px 9px;font-size:12px;font-weight:900}.badge.no{background:var(--lime)}.badge.tpa{background:var(--sky)}.badge.tsk{background:#FFD5E4}.badge.diff{background:#FFE49A}.qtext{font-size:20px;font-weight:800;line-height:1.5;margin-bottom:18px;text-align:justify;text-justify:inter-word}.passage{background:#F7F3FF;border:2px dashed var(--ink);padding:14px;border-radius:12px;margin-bottom:16px;line-height:1.6;color:#453D58}
+.options{display:flex;flex-direction:column;gap:10px}.option{display:flex;gap:12px;align-items:flex-start;border:var(--border);border-radius:12px;padding:13px 14px;background:#fff;box-shadow:3px 3px 0 var(--ink);cursor:pointer;font-weight:700;line-height:1.45}.option:hover{transform:translate(-1px,-1px);box-shadow:5px 5px 0 var(--ink)}.option.selected{background:var(--violet);color:#fff;transform:translate(2px,2px);box-shadow:2px 2px 0 var(--ink)}.letter{width:30px;height:30px;display:grid;place-items:center;border:2px solid var(--ink);border-radius:8px;background:#EFE8FF;color:var(--ink);font-family:'Space Grotesk',sans-serif;flex:0 0 auto}.option.selected .letter{background:var(--lime)}.qnav{display:flex;justify-content:space-between;gap:10px;margin-top:20px}
+.sidebar{position:sticky;top:10px;display:flex;flex-direction:column;gap:14px}.side{padding:16px}.side h3{margin:0 0 10px;font-size:15px}.numgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:7px}.numgrid button{aspect-ratio:1;border:2px solid var(--ink);border-radius:8px;background:#fff;font-weight:800;cursor:pointer}.numgrid button.answered{background:var(--lime)}.numgrid button.current{background:var(--ink);color:#fff}
+.fig-wrap{margin:4px 0 18px}.fig-board{display:grid;align-items:center;gap:8px;padding:12px;border:2px dashed #BFAFF0;border-radius:14px;background:#FAF8FF}.analogy-board{grid-template-columns:1fr auto 1fr auto 1fr auto 1fr}.figbox{position:relative;min-height:145px;display:grid;place-items:center}.figbox>span{position:absolute;left:6px;top:6px;width:26px;height:26px;border:2px solid var(--ink);border-radius:50%;display:grid;place-items:center;background:var(--lime);font-weight:900;z-index:2}.figsym{font-size:26px;font-weight:900}.qmark{border:3px solid var(--ink);border-radius:14px;background:#fff}.qmark b{font-size:56px}.fig-options{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}.fig-option{position:relative;border:var(--border);border-radius:12px;background:#fff;box-shadow:3px 3px 0 var(--ink);cursor:pointer;padding:8px}.fig-option.selected{outline:4px solid var(--violet);transform:translate(2px,2px);box-shadow:1px 1px 0 var(--ink)}.fig-option .flabel{position:absolute;left:8px;top:8px;width:29px;height:29px;border:2px solid var(--ink);border-radius:50%;display:grid;place-items:center;background:var(--lime);font-weight:900;z-index:2}.fig-svg{width:100%;height:auto;display:block}.fig-note{border:2px dashed var(--ink);background:#FFF9D9;border-radius:10px;padding:10px;font-size:13px;font-weight:700;margin-bottom:10px}
+.result{display:none}.result-card{padding:24px}.scorehead{display:grid;grid-template-columns:150px 1fr;gap:20px;align-items:center}.scorebox{width:140px;height:140px;border:var(--border);border-radius:26px;background:var(--lime);box-shadow:var(--shadow);display:grid;place-items:center;transform:rotate(-2deg)}.scorebox strong{font-size:44px;font-family:'Space Grotesk',sans-serif}.breakdown{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:18px 0}.break{border:var(--border);border-radius:14px;padding:14px;box-shadow:var(--shadow-sm)}.break.tpa{background:#DDF1FF}.break.tsk{background:#FFE0EA}.review{border:var(--border);border-radius:14px;padding:16px;margin:13px 0;box-shadow:var(--shadow-sm)}.ok{color:var(--green);font-weight:900}.bad{color:var(--red);font-weight:900}.source{display:inline-block;border:2px solid var(--ink);background:#F5F1FF;border-radius:8px;padding:6px 8px;font-size:12px;font-weight:800}
+.modal-overlay{position:fixed;inset:0;background:rgba(23,19,31,.55);display:none;align-items:center;justify-content:center;padding:20px;z-index:50}.modal-overlay.show{display:flex}.modal{max-width:430px;width:100%;border:var(--border);border-radius:18px;background:#fff;box-shadow:8px 8px 0 var(--ink);padding:24px;text-align:center}
+@media(max-width:850px){.grid{grid-template-columns:1fr}.sidebar{position:static;order:-1}.numgrid{grid-template-columns:repeat(10,1fr)}}
+@media(max-width:620px){.wrap{padding:10px 10px 34px}.hero h1{font-size:26px}.hero:after{font-size:52px}.status{grid-template-columns:1fr auto}.progress-wrap{grid-column:1/-1;order:3}.qcard{padding:16px 13px}.qtext{font-size:17px}.numgrid{grid-template-columns:repeat(6,1fr)}.analogy-board{grid-template-columns:1fr}.figsym{transform:rotate(90deg);text-align:center}.fig-options{grid-template-columns:repeat(2,1fr)}.scorehead{grid-template-columns:1fr}.breakdown{grid-template-columns:1fr}}
+
+.series-tag{display:inline-block;font-size:.48em;vertical-align:middle;background:var(--pink);color:#fff;border:2px solid var(--ink);border-radius:9px;padding:4px 9px;transform:rotate(-2deg);margin-left:7px;box-shadow:3px 3px 0 var(--ink)}
+.learn-box{background:linear-gradient(180deg,#fff,#fbf9ff);border:2px solid #d9cff7;border-radius:14px;padding:15px 16px;line-height:1.65}
+.learn-title{font-family:'Space Grotesk',sans-serif;font-weight:800;font-size:16px;margin-bottom:8px;color:#38206c}
+.hl{background:#dfff72;padding:1px 4px;border-radius:4px;color:#17131f}
+.steps{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px;margin:10px 0}
+.steps.vertical{grid-template-columns:1fr}
+.steps span,.formula{border:2px solid #17131f;border-radius:9px;background:#fff;padding:8px 10px;font-family:'Space Grotesk',sans-serif}
+.formula{margin:8px 0;background:#f0e9ff}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:10px 0}
+.two-col>div{border:2px solid #17131f;border-radius:10px;padding:10px;background:#fff}
+.why{border-left:5px solid var(--violet);background:#f2edff;padding:10px 12px;border-radius:8px;margin:10px 0}
+.takeaway{background:#fff4b8;border:2px solid #17131f;border-radius:10px;padding:10px 12px;margin-top:10px;font-weight:700}
+.flow{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin:10px 0}
+.flow span{border:2px solid #17131f;border-radius:9px;padding:7px 9px;background:#fff}
+.logic-row{display:grid;grid-template-columns:repeat(5,1fr);gap:7px;margin:12px 0}
+.logic-row span{border:2px solid #17131f;border-radius:9px;padding:10px 6px;text-align:center;background:#fff;font-weight:800}
+.logic-row .fixed{background:#ffd7e5}
+.logic-row.final span{background:#dfff72}
+.review{background:linear-gradient(180deg,#fff,#fdfcff)}
+.review .explanation{line-height:1.7;margin-top:12px}
+@media(max-width:620px){
+ .steps,.two-col{grid-template-columns:1fr}
+ .logic-row{grid-template-columns:repeat(5,minmax(54px,1fr));overflow-x:auto}
+ .series-tag{display:block;width:max-content;margin:8px 0 0}
+}
+
+
+.start-screen{
+  max-width:820px;
+  margin:36px auto 0;
+}
+.start-card{
+  border:var(--border);
+  border-radius:22px;
+  background:#fff;
+  box-shadow:var(--shadow);
+  padding:29px;
+  position:relative;
+  overflow:hidden;
+}
+.start-card:after{
+  content:"✦";
+  position:absolute;
+  right:29px;
+  top:18px;
+  font-size:72px;
+  color:var(--lime);
+  text-shadow:3px 3px 0 var(--ink);
+  transform:rotate(10deg);
+}
+.start-badge{
+  display:inline-block;
+  border:2px solid var(--ink);
+  border-radius:999px;
+  background:var(--lime);
+  padding:7px 12px;
+  font-size:12px;
+  font-weight:900;
+}
+.start-title{
+  font-family:'Space Grotesk',sans-serif;
+  font-size:34px;
+  line-height:1.15;
+  margin:14px 0 10px;
+  max-width:650px;
+}
+.start-title .series-tag{
+  font-size:.45em;
+}
+.start-sub{
+  color:var(--muted);
+  line-height:1.65;
+  max-width:670px;
+  margin-bottom:22px;
+}
+.start-info{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:12px;
+  margin:20px 0 24px;
+}
+.start-info-box{
+  border:2px solid var(--ink);
+  border-radius:13px;
+  padding:14px;
+  background:#faf8ff;
+}
+.start-info-box small{
+  display:block;
+  color:var(--muted);
+  font-weight:700;
+  margin-bottom:4px;
+}
+.start-info-box strong{
+  font-family:'Space Grotesk',sans-serif;
+  font-size:18px;
+}
+.start-rules{
+  border:2px dashed #b9a8ef;
+  background:#f8f5ff;
+  border-radius:14px;
+  padding:15px 16px;
+  margin-bottom:22px;
+}
+.start-rules h3{
+  margin:0 0 9px;
+  font-size:16px;
+}
+.start-rules ul{
+  margin:0;
+  padding-left:20px;
+  line-height:1.7;
+  color:#4d4560;
+}
+.start-btn{
+  width:100%;
+  border:var(--border);
+  border-radius:14px;
+  background:var(--pink);
+  color:#fff;
+  padding:15px 18px;
+  box-shadow:var(--shadow);
+  font-family:'Space Grotesk',sans-serif;
+  font-size:17px;
+  font-weight:800;
+  cursor:pointer;
+  transition:.12s ease;
+}
+.start-btn:hover{
+  transform:translate(3px,3px);
+  box-shadow:3px 3px 0 var(--ink);
+}
+#examScreen{
+  display:none;
+}
+@media(max-width:620px){
+  .start-screen{margin-top:18px}
+  .start-card{padding:20px 16px}
+  .start-card:after{font-size:48px;right:16px}
+  .start-title{font-size:27px}
+  .start-info{grid-template-columns:1fr}
+}
+
+
+.top-actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.leaderboard-overlay{
+  position:fixed;
+  inset:0;
+  background:rgba(23,19,31,.58);
+  display:none;
+  align-items:center;
+  justify-content:center;
+  padding:18px;
+  z-index:80;
+}
+.leaderboard-overlay.show{display:flex}
+.leaderboard-modal{
+  width:min(720px,100%);
+  max-height:88vh;
+  overflow:auto;
+  border:var(--border);
+  border-radius:20px;
+  background:#fff;
+  box-shadow:9px 9px 0 var(--ink);
+  padding:22px;
+}
+.leaderboard-head{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  gap:12px;
+  margin-bottom:16px;
+}
+.leaderboard-title{
+  margin:0;
+  font-size:24px;
+}
+.leaderboard-sub{
+  margin:5px 0 0;
+  color:var(--muted);
+  font-size:13px;
+  line-height:1.5;
+}
+.lb-close{
+  width:40px;
+  height:40px;
+  padding:0;
+  border:var(--border);
+  border-radius:10px;
+  background:#fff;
+  box-shadow:var(--shadow-sm);
+  font-size:18px;
+  font-weight:900;
+  cursor:pointer;
+}
+.lb-table-wrap{
+  overflow-x:auto;
+  border:var(--border);
+  border-radius:14px;
+}
+.lb-table{
+  width:100%;
+  border-collapse:collapse;
+  min-width:500px;
+}
+.lb-table th,
+.lb-table td{
+  padding:12px 13px;
+  border-bottom:2px solid var(--ink);
+  text-align:left;
+}
+.lb-table th{
+  background:#f2ecff;
+  font-family:'Space Grotesk',sans-serif;
+  font-size:12px;
+  text-transform:uppercase;
+  letter-spacing:.04em;
+}
+.lb-table tr:last-child td{border-bottom:0}
+.lb-table tbody tr.me td{background:#efffc5}
+.lb-rank{
+  width:44px;
+  height:32px;
+  display:grid;
+  place-items:center;
+  border:2px solid var(--ink);
+  border-radius:8px;
+  font-family:'Space Grotesk',sans-serif;
+  font-weight:900;
+  background:#fff;
+}
+.lb-rank.top1{background:#ffd94f}
+.lb-rank.top2{background:#e8e8ee}
+.lb-rank.top3{background:#e8b779}
+.lb-user{
+  font-weight:900;
+  word-break:break-word;
+}
+.lb-score{
+  display:inline-block;
+  min-width:54px;
+  text-align:center;
+  border:2px solid var(--ink);
+  border-radius:8px;
+  background:var(--lime);
+  padding:5px 8px;
+  font-family:'Space Grotesk',sans-serif;
+  font-weight:900;
+}
+.lb-empty,
+.lb-loading{
+  padding:29px 16px;
+  text-align:center;
+  color:var(--muted);
+}
+.lb-note{
+  margin-top:12px;
+  padding:10px 12px;
+  border:2px dashed #b8a9e9;
+  border-radius:10px;
+  background:#faf8ff;
+  font-size:12px;
+  color:#5b526f;
+  line-height:1.55;
+}
+
+.ranking-locked{
+  text-align:center;
+  padding:8px 0 4px;
+}
+.ranking-locked-icon{
+  width:54px;
+  height:54px;
+  margin:2px auto 10px;
+  display:grid;
+  place-items:center;
+  border:var(--border);
+  border-radius:14px;
+  background:var(--ink);
+  color:var(--lime);
+  font-size:25px;
+  box-shadow:3px 3px 0 var(--violet);
+}
+.ranking-locked h3{
+  margin:0 0 7px;
+  font-size:20px;
+}
+.ranking-locked p{
+  margin:0 auto;
+  max-width:560px;
+  color:var(--muted);
+  line-height:1.55;
+  font-size:13px;
+}
+.ranking-promo{
+  width:min(420px,100%);
+  margin:16px auto 0;
+}
+.ranking-promo img{
+  display:block;
+  width:100%;
+  height:auto;
+  border:2px solid var(--ink);
+  border-radius:12px;
+  box-shadow:3px 3px 0 var(--ink);
+}
+.ranking-register-btn{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap:8px;
+  margin-top:14px;
+  padding:11px 16px;
+  border:2px solid var(--ink);
+  border-radius:10px;
+  background:var(--lime);
+  color:var(--ink);
+  font-weight:900;
+  text-decoration:none;
+  box-shadow:3px 3px 0 var(--ink);
+  transition:.15s ease;
+}
+.ranking-register-btn:hover{
+  transform:translate(-1px,-1px);
+  box-shadow:4px 4px 0 var(--ink);
+}
+.ranking-register-btn:active{
+  transform:translate(2px,2px);
+  box-shadow:1px 1px 0 var(--ink);
+}
+.save-status{
+  margin-top:10px;
+  font-size:12px;
+  color:var(--muted);
+}
+
+
+.admin-question-stat{
+  margin:10px 0 12px;
+  padding:10px 12px;
+  border:2px solid var(--ink);
+  border-radius:10px;
+  background:#eef8ff;
+  box-shadow:2px 2px 0 var(--ink);
+  font-size:12px;
+  line-height:1.5;
+  font-weight:700;
+}
+.admin-question-stat strong{
+  font-weight:900;
+}
+.admin-question-stat .stat-good{
+  color:#247500;
+}
+.admin-question-stat .stat-bad{
+  color:#d92f55;
+}
+.review-locked{
+  border:var(--border);
+  border-radius:14px;
+  padding:22px 18px;
+  margin:13px 0;
+  box-shadow:var(--shadow-sm);
+  background:linear-gradient(135deg,#fff 0%,#f7f1ff 100%);
+  text-align:center;
+}
+.review-lock-icon{
+  width:52px;
+  height:52px;
+  margin:0 auto 10px;
+  display:grid;
+  place-items:center;
+  border:var(--border);
+  border-radius:14px;
+  background:var(--ink);
+  color:var(--lime);
+  font-size:24px;
+  box-shadow:3px 3px 0 var(--violet);
+}
+.review-locked h4{margin:0 0 6px;font-size:17px}
+.review-locked p{margin:0;color:var(--muted);line-height:1.55;font-size:13px}
+.review-locked-promo{
+  width:min(420px,100%);
+  margin:16px auto 0;
+}
+.review-locked-promo img{
+  display:block;
+  width:100%;
+  height:auto;
+  border:2px solid var(--ink);
+  border-radius:12px;
+  box-shadow:3px 3px 0 var(--ink);
+}
+.review-register-btn{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap:8px;
+  margin-top:14px;
+  padding:11px 16px;
+  border:2px solid var(--ink);
+  border-radius:10px;
+  background:var(--lime);
+  color:var(--ink);
+  font-weight:900;
+  text-decoration:none;
+  box-shadow:3px 3px 0 var(--ink);
+  transition:.15s ease;
+}
+.review-register-btn:hover{
+  transform:translate(-1px,-1px);
+  box-shadow:4px 4px 0 var(--ink);
+}
+.review-register-btn:active{
+  transform:translate(2px,2px);
+  box-shadow:1px 1px 0 var(--ink);
+}
+@media(max-width:620px){
+  .top-actions{width:100%;justify-content:flex-end}
+  .leaderboard-modal{padding:16px 12px}
+  .leaderboard-title{font-size:21px}
+}
+
+
+.review-options{
+  display:flex;
+  flex-direction:column;
+  gap:7px;
+  margin:12px 0 14px;
+}
+.review-option{
+  display:flex;
+  gap:9px;
+  align-items:flex-start;
+  border:2px solid #d9d2e8;
+  border-radius:9px;
+  padding:9px 10px;
+  background:#fff;
+  line-height:1.45;
+}
+.review-option .review-letter{
+  width:27px;
+  height:27px;
+  flex:0 0 auto;
+  display:grid;
+  place-items:center;
+  border:2px solid var(--ink);
+  border-radius:7px;
+  background:#f2edff;
+  font-family:'Space Grotesk',sans-serif;
+  font-weight:900;
+}
+.review-option.correct-option{
+  background:#efffc5;
+  border-color:#88b92f;
+}
+.review-option.user-wrong-option{
+  background:#ffe8ee;
+  border-color:#e797aa;
+}
+.review-option .option-note{
+  margin-left:auto;
+  flex:0 0 auto;
+  font-size:11px;
+  font-weight:900;
+  border-radius:999px;
+  padding:3px 7px;
+  border:1.5px solid var(--ink);
+  white-space:nowrap;
+}
+.review-option.correct-option .option-note{background:var(--lime)}
+.review-option.user-wrong-option .option-note{background:#ffb7c9}
+@media(max-width:620px){
+  .review-option{padding:8px;font-size:13px}
+  .review-option .option-note{font-size:10px}
+}
+
+
+.review-question-head{
+  display:flex;
+  align-items:flex-start;
+  gap:10px;
+  margin-bottom:8px;
+}
+.review-number{
+  flex:0 0 auto;
+  min-width:34px;
+  height:34px;
+  display:grid;
+  place-items:center;
+  border:2px solid var(--ink);
+  border-radius:9px;
+  background:var(--lime);
+  box-shadow:2px 2px 0 var(--ink);
+  font-family:'Space Grotesk',sans-serif;
+  font-size:14px;
+  font-weight:900;
+  line-height:1;
+}
+.review-question-text{
+  flex:1;
+  font-family:'Plus Jakarta Sans',sans-serif;
+  font-size:15px;
+  font-weight:800;
+  line-height:1.55;
+  text-align:justify;
+  text-justify:inter-word;
+  padding-top:4px;
+}
+@media(max-width:620px){
+  .review-question-head{gap:8px}
+  .review-number{
+    min-width:31px;
+    height:31px;
+    font-size:13px;
+    border-radius:8px;
+  }
+  .review-question-text{
+    font-size:14px;
+    line-height:1.5;
+  }
+}
+
+
+.review-figure-wrap{
+  margin:10px 0 14px;
+  padding:12px;
+  border:2px dashed #c8b8f1;
+  border-radius:14px;
+  background:#faf8ff;
+}
+.review-figure-wrap .fig-board{
+  margin-bottom:10px;
+}
+.review-figure-wrap .fig-options{
+  display:grid;
+  grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:8px;
+}
+.review-figure-wrap .fig-option{
+  border:2px solid var(--ink);
+  border-radius:11px;
+  background:#fff;
+  padding:6px;
+  position:relative;
+}
+.review-figure-wrap .fig-option.correct-option{
+  background:#efffc5;
+  border-color:#88b92f;
+}
+.review-figure-wrap .fig-option.user-option{
+  background:#ffe8ee;
+  border-color:#e797aa;
+}
+.review-figure-wrap .fig-option.correct-option.user-option{
+  background:#dff7a8;
+}
+.review-figure-wrap .fig-option .flabel{
+  position:absolute;
+  left:6px;
+  top:6px;
+  width:22px;
+  height:22px;
+  border:2px solid var(--ink);
+  border-radius:7px;
+  display:grid;
+  place-items:center;
+  background:#f2edff;
+  font-family:'Space Grotesk',sans-serif;
+  font-weight:900;
+  font-size:11px;
+  z-index:2;
+}
+.review-figure-wrap .fig-option .option-note{
+  position:absolute;
+  right:6px;
+  bottom:6px;
+  font-size:10px;
+  font-weight:900;
+  border-radius:999px;
+  padding:2px 6px;
+  border:1.5px solid var(--ink);
+  white-space:nowrap;
+  background:#fff;
+  z-index:2;
+}
+.review-figure-wrap .fig-option.correct-option .option-note{
+  background:var(--lime);
+}
+.review-figure-wrap .fig-option.user-option .option-note{
+  background:#ffb7c9;
+}
+.review-figure-wrap .fig-option.correct-option.user-option .option-note{
+  background:#dfff72;
+}
+.review-figure-wrap .fig-svg{
+  width:100%;
+  height:auto;
+}
+@media(max-width:620px){
+  .review-figure-wrap .fig-options{
+    grid-template-columns:repeat(2,minmax(0,1fr));
+  }
+}
+
+
+.matrix-board{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:9px;
+  max-width:540px;
+  margin:0 auto;
+  padding:10px;
+  border:2px dashed #bfaef0;
+  border-radius:14px;
+  background:#faf8ff;
+}
+.matrix-cell{
+  position:relative;
+  border:2px solid var(--ink);
+  border-radius:11px;
+  background:#fff;
+  min-height:135px;
+  display:grid;
+  place-items:center;
+  overflow:hidden;
+}
+.matrix-cell.missing{
+  background:#fff7c9;
+  font-family:'Space Grotesk',sans-serif;
+  font-size:48px;
+  font-weight:900;
+}
+.matrix-cell .cell-label{
+  position:absolute;
+  top:5px;
+  left:6px;
+  font-size:10px;
+  font-weight:900;
+  color:#756c89;
+}
+@media(max-width:620px){
+  .matrix-board{gap:5px;padding:6px}
+  .matrix-cell{min-height:92px}
+}
+
+
+.series-hots-board{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:10px;
+  margin:10px 0 14px;
+}
+.series-hots-frame{
+  position:relative;
+  border:2px solid var(--ink);
+  border-radius:12px;
+  background:#fff;
+  padding:5px;
+}
+.series-hots-frame .seq-label{
+  position:absolute;
+  top:6px;
+  left:7px;
+  z-index:3;
+  min-width:24px;
+  height:24px;
+  padding:0 5px;
+  border:2px solid var(--ink);
+  border-radius:7px;
+  background:var(--lime);
+  display:grid;
+  place-items:center;
+  font:900 11px 'Space Grotesk',sans-serif;
+}
+.xor-matrix-board{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:9px;
+  max-width:560px;
+  margin:10px auto 14px;
+}
+.xor-cell{
+  position:relative;
+  border:2px solid var(--ink);
+  border-radius:11px;
+  background:#fff;
+  padding:4px;
+  min-height:138px;
+  display:grid;
+  place-items:center;
+}
+.xor-cell.missing{
+  background:#fff7c9;
+  font:900 48px 'Space Grotesk',sans-serif;
+}
+.xor-cell .cell-label{
+  position:absolute;
+  top:5px;
+  left:6px;
+  font:900 10px 'Space Grotesk',sans-serif;
+  color:#756c89;
+}
+@media(max-width:620px){
+  .series-hots-board{grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}
+  .xor-matrix-board{gap:5px}
+  .xor-cell{min-height:95px}
+}
+
+
+.data-table-wrap{
+  margin:10px 0 18px;
+  overflow-x:auto;
+}
+.data-table{
+  width:100%;
+  border-collapse:separate;
+  border-spacing:0;
+  background:#fff;
+  border:2px solid var(--ink);
+  border-radius:12px;
+  overflow:hidden;
+  font-size:14px;
+}
+.data-table th,
+.data-table td{
+  padding:10px 12px;
+  border-right:1px solid #b8afc9;
+  border-bottom:1px solid #b8afc9;
+  text-align:center;
+}
+.data-table th{
+  background:#efe8ff;
+  font-family:'Space Grotesk',sans-serif;
+  font-weight:900;
+}
+.data-table tr:last-child td{border-bottom:none}
+.data-table th:last-child,
+.data-table td:last-child{border-right:none}
+
+
+/* Rangkuman belajar per soal: nyaman dibaca di desktop dan ponsel */
+.lesson-card{padding:19px 20px;background:#fff;border:2px solid #d6c8ff;box-shadow:3px 3px 0 #e9e0ff;color:#292238;line-height:1.75}
+.lesson-card .learn-title{font-size:17px;letter-spacing:-.25px;color:#332064;margin-bottom:16px}
+.lesson-section{margin:12px 0;padding:13px 15px;border:1.5px solid #ddd6ef;border-radius:11px;background:#faf8ff}
+.lesson-section.lesson-reason{background:#f1fff0;border-color:#b8e8b2}
+.lesson-kicker{font-weight:900;font-size:11px;letter-spacing:.06em;color:#6552a0;text-transform:uppercase;margin-bottom:7px}
+.lesson-section p{margin:7px 0;font-size:14px;text-align:left;line-height:1.75}
+.lesson-section strong{color:#275c41}
+.lesson-memory{display:flex;flex-direction:column;gap:7px;border:2px solid #24202f;border-radius:11px;padding:13px 15px;background:#fff2b5;font-size:13px;line-height:1.7}
+.lesson-memory strong{font-size:13px}
+.lesson-source{font-size:12px;color:#5c536d;margin-top:13px;padding-top:11px;border-top:1px dashed #c7bde3}
+@media(max-width:620px){.lesson-card{padding:12px}.lesson-section{padding:11px 12px}.lesson-section p{font-size:13px}.lesson-card .learn-title{font-size:15px}}
+
+/* Penanda konsep inti dalam rangkuman */
+.study-highlight{background:linear-gradient(180deg,transparent 33%,#ffec83 33%,#ffec83 92%,transparent 92%);color:#28203c;font-weight:850;padding:0 2px;border-radius:2px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.lesson-reason .study-highlight{background:linear-gradient(180deg,transparent 33%,#b7f4bd 33%,#b7f4bd 92%,transparent 92%)}
+.lesson-memory .study-highlight{background:#fff;color:#3b2b73;padding:1px 4px;border-radius:4px;box-shadow:inset 0 -2px #d6bcff}
+.study-highlight::selection{background:#c1a9ff}
+
+/* ANOTASI PESERTA — overlay di atas kartu soal */
+.qcard{position:relative}
+/* Coretan hanya tersedia dalam kartu pembahasan, bukan saat ujian. */
+.review{position:relative;isolation:isolate}
+.review-annotation-toolbar{position:sticky;top:10px;z-index:20;display:flex;align-items:center;gap:7px;flex-wrap:wrap;padding:10px;margin:12px 0;background:#f4efff;border:2px dashed #bba9ed;border-radius:12px}
+.review-annotation-toolbar button{border:2px solid #17131f;background:#fff;border-radius:9px;padding:8px 10px;font:800 12px 'Plus Jakarta Sans',sans-serif;cursor:pointer}
+.review-annotation-toolbar button.active{background:#c7ff42;box-shadow:2px 2px 0 #17131f}
+.review-annotation-toolbar button:disabled{opacity:.4;cursor:default}
+.review-annotation-toolbar small{font-size:11px;color:#665e7c;font-weight:700;width:100%}
+.review-annotation-canvas{position:absolute;inset:0;width:100%;height:100%;z-index:3;pointer-events:none;touch-action:none;border-radius:13px}
+.review.annotating{z-index:4}
+.review.annotating .review-annotation-canvas{pointer-events:auto;cursor:crosshair}
+@media(max-width:620px){.review-annotation-toolbar{top:6px;gap:5px;padding:8px}.review-annotation-toolbar button{padding:7px 8px;font-size:11px}}
+
+/* Peta Soal versi lebar: memanfaatkan area kanan layar, tanpa mengubah UI lainnya. */
+#examScreen.wrap{max-width:1560px;width:calc(100% - 20px)}
+#examScreen .grid{grid-template-columns:minmax(0,1fr) minmax(360px,430px);gap:16px}
+#examScreen .sidebar{top:12px;max-height:calc(100vh - 24px);min-width:0}
+#examScreen .side{min-height:0;display:flex;flex-direction:column}
+#examScreen .map-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px}
+#examScreen .map-head h3{margin:0}
+#examScreen .map-toggle{border:2px solid var(--ink);background:#f2eeff;border-radius:9px;padding:7px 10px;font:800 12px 'Plus Jakarta Sans',sans-serif;cursor:pointer;white-space:nowrap}
+#examScreen .map-toggle:hover{background:var(--lime)}
+#examScreen .numgrid{grid-template-columns:repeat(10,minmax(0,1fr));gap:5px;overflow-y:auto;min-height:0;max-height:calc(100vh - 190px);padding:1px 3px 4px 1px;scrollbar-width:thin}
+#examScreen .numgrid button{min-width:0;aspect-ratio:1;padding:0;font-size:12px;border-width:1.5px;border-radius:6px}
+#examScreen .map-reopen{display:none;justify-self:end;align-self:start}
+#examScreen .grid.map-hidden{grid-template-columns:minmax(0,1fr)}
+#examScreen .grid.map-hidden .sidebar{display:none}
+#examScreen .grid.map-hidden .map-reopen{display:block}
+#examScreen .grid.map-hidden .qcard{grid-row:2}
+@media(max-width:1000px){
+ #examScreen.wrap{width:auto;max-width:1160px}
+ #examScreen .grid{grid-template-columns:minmax(0,1fr) minmax(275px,320px)}
+ #examScreen .numgrid{grid-template-columns:repeat(7,minmax(0,1fr))}
+}
+@media(max-width:850px){
+ #examScreen .grid{grid-template-columns:minmax(0,1fr)}
+ #examScreen .sidebar{position:static;order:-1;max-height:none}
+ #examScreen .numgrid{grid-template-columns:repeat(10,minmax(0,1fr));max-height:225px}
+ #examScreen .grid.map-hidden .qcard{grid-row:auto}
+}
+@media(max-width:620px){
+ #examScreen .numgrid{grid-template-columns:repeat(8,minmax(0,1fr));max-height:195px}
+ #examScreen .numgrid button{font-size:11px}
+}
+</style>
+</head><body>
+
+<div class="wrap start-screen" id="startScreen">
+  <div class="topbar">
+    <div class="brand">
+      <div class="brandmark">S</div>
+      STANGOLDEN<span>.exam</span>
+    </div>
+    <div class="top-actions">
+      
+      <button class="btn" onclick="openLeaderboard()">🏆 Lihat Ranking</button>
+      <button class="btn" onclick="reviewLastAttempt()">📝 Review Jawaban Terakhir</button>
+    </div>
+  </div>
+
+  <div class="start-card">
+    <span class="start-badge">BOOTCAMP UPKP 2026</span>
+
+    <h1 class="start-title">
+      Latihan Nilai-Nilai Kemenkeu
+      <span class="series-tag">Hlm. 7–16</span>
+    </h1>
+
+    <p class="start-sub">
+      Ujian belum dimulai. Baca informasi singkat di bawah, lalu klik
+      <b>Mulai Ujian</b> jika sudah siap.
+    </p>
+
+    <div class="start-info">
+      <div class="start-info-box">
+        <small>Jumlah Soal</small>
+        <strong>100 Soal</strong>
+      </div>
+      <div class="start-info-box">
+        <small>Waktu</small>
+        <strong>65 Menit</strong>
+      </div>
+      <div class="start-info-box">
+        <small>Komposisi</small>
+        <strong>10 halaman × 10 soal</strong>
+      </div>
+    </div>
+
+    <div class="start-rules">
+      <h3>📌 Sebelum mulai</h3>
+      <ul>
+        <li>Timer baru berjalan setelah tombol <b>Mulai Ujian</b> diklik.</li>
+        <li>Durasi latihan ditetapkan 65 menit.</li>
+        <li>Jawaban dapat diubah selama ujian belum dikumpulkan.</li>
+        <li>Gunakan peta soal untuk berpindah antarsoal.</li>
+        <li>Jika waktu habis, jawaban akan dikumpulkan otomatis.</li>
+      </ul>
+    </div>
+
+    <button class="start-btn" onclick="startExam()">Mulai Ujian →</button>
+  </div>
+</div>
+
+<div class="wrap" id="examScreen">
+<div class="topbar"><div class="brand"><div class="brandmark">S</div> STANGOLDEN<span>.exam</span></div><div class="top-actions"><button class="btn" onclick="openLeaderboard()">🏆 Lihat Ranking</button><button class="btn" onclick="openSubmit()">Selesai ujian</button></div></div>
+<section class="hero">
+<span class="eyebrow">BOOTCAMP UPKP 2026</span>
+<h1>Latihan Nilai-Nilai Kemenkeu <span class="series-tag">Hlm. 7–16</span></h1>
+</section>
+<div class="status"><div class="subject" id="subject" style="display:none"></div><div class="progress-wrap"><div class="progress-meta"><span id="progText">0 dari 100 dijawab</span><span id="progPct">0%</span></div><div class="track"><div class="fill" id="progFill"></div></div></div><div class="timer" id="timer">65:00</div></div>
+<div class="grid" id="examQuestionGrid"><button type="button" class="map-toggle map-reopen" id="mapReopenButton" onclick="toggleQuestionMap(true)" aria-controls="questionMapPanel" aria-expanded="false">☷ Tampilkan Peta Soal</button><main class="card qcard"><div class="qmeta"><span class="badge no" id="qNo">Soal 1</span></div><div id="passage"></div><div class="qtext" id="qText"></div><div id="figArea" class="fig-wrap"></div><div class="options" id="options"></div><div class="qnav"><button class="btn" id="prevBtn" onclick="prevQ()">← Sebelumnya</button><button class="btn primary" id="nextBtn" onclick="nextQ()">Berikutnya →</button></div></main><aside class="sidebar" id="questionMapPanel"><div class="card side"><div class="map-head"><h3>Peta Soal</h3><button type="button" class="map-toggle" id="mapHideButton" onclick="toggleQuestionMap(false)" aria-controls="questionMapPanel" aria-expanded="true">Sembunyikan ✕</button></div><div class="numgrid" id="numGrid"></div></div><button class="btn dark" onclick="openSubmit()">Kumpulkan Jawaban</button><button type="button" class="btn primary" onclick="openSubmit()" style="width:100%;">Selesai Ujian →</button></aside></div>
+</div>
+<div class="wrap result" id="resultScreen"><div class="topbar"><div class="brand"><div class="brandmark">S</div> STANGOLDEN<span>.exam</span></div><div class="top-actions"><button class="btn" onclick="openLeaderboard()">🏆 Lihat Ranking</button><button class="btn" onclick="reviewLastAttempt()">📝 Review Jawaban Terakhir</button><button class="btn" onclick="retakeQuiz()">Ulangi tes</button></div></div><div id="resultContent"></div></div>
+
+<div class="modal-overlay" id="modal"><div class="modal"><h3 style="font-size:22px;margin:0 0 8px">🚀 Kumpulkan jawaban?</h3><p id="modalText" style="color:var(--muted);line-height:1.55"></p><div style="display:flex;gap:10px"><button class="btn" style="flex:1" onclick="closeSubmit()">Cek lagi</button><button class="btn primary" style="flex:1" onclick="submitExam()">Kumpulkan</button></div></div></div>
+<!-- Dialog ranking: dipakai tombol Lihat Ranking di awal, ujian, hasil dan pembahasan. -->
+<div class="leaderboard-overlay" id="leaderboardOverlay" role="dialog" aria-modal="true" aria-labelledby="rankingModalTitle" onclick="leaderboardBackdrop(event)">
+  <div class="leaderboard-modal">
+    <div class="leaderboard-head">
+      <div>
+        <h2 class="leaderboard-title" id="rankingModalTitle">🏆 Lihat Ranking Hlm. 7–16</h2>
+        <p class="leaderboard-sub" id="rankingModalSub">Ranking berdasarkan hasil percobaan pertama.</p>
+      </div>
+      <button type="button" class="lb-close" onclick="closeLeaderboard()" aria-label="Tutup ranking">✕</button>
+    </div>
+    <div id="leaderboardContent" aria-live="polite"><div class="lb-loading">Memuat ranking...</div></div>
+    <div class="lb-note">Nilai ranking hanya diambil dari percobaan pertama. Jika nilai sama, peserta dengan waktu pengerjaan lebih cepat mendapat posisi lebih tinggi.</div>
+  </div>
+</div>
+<script>
+const MOODLE_SESSKEY=<?= json_encode(sesskey()) ?>;
+const STG_LOCAL_KEY="stg_nk_0716_review_user_<?= (int)$USER->id ?>";
+const HAS_FULL_REVIEW=true;
+const IS_SITE_ADMIN=<?= is_siteadmin($USER) ? "true" : "false" ?>;
+const LEADERBOARD_ENDPOINT=window.location.href.split("?")[0].split("#")[0];
+const questions=[{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 7","difficulty":"HOTS • Analitis","question":"Seorang pegawai menolak suatu pilihan karena keyakinannya sendiri, meskipun pilihan itu menjanjikan keuntungan karier. Definisi nilai yang paling langsung menekankan tindakan berdasarkan pilihan keyakinan adalah pendapat ...","options":["Danandjaja","Gordon Allport","Antony Giddens","Kluckhohn","Koentjaraningrat"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 7","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 7</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Allport menekankan keyakinan sebagai alasan seseorang memilih tindakan. Titik tekannya bukan apakah pilihan itu menguntungkan, melainkan keterkaitan keyakinan dan tindakan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Gordon Allport</mark> menyatakan nilai sebagai keyakinan yang membuat seseorang bertindak berdasarkan pilihannya. Fokusnya hubungan keyakinan dan <mark class=\"study-highlight\">pilihan tindakan</mark>.</p><p>Jawaban yang sesuai adalah <strong>B. Gordon Allport</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Perhatikan kata kunci pada definisi ahli: <mark class=\"study-highlight\">pilihan tindakan</mark>, kepantasan, <mark class=\"study-highlight\">cara dan tujuan</mark>, <mark class=\"study-highlight\">prioritas</mark>, atau karya budaya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Allport menekankan keyakinan sebagai alasan seseorang memilih tindakan. Titik tekannya bukan apakah pilihan itu menguntungkan, melainkan keterkaitan keyakinan dan tindakan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 7.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 7","difficulty":"HOTS • Analitis","question":"Suatu komunitas menyusun daftar hal yang layak diinginkan serta tidak layak dilakukan. Unsur “layak, dikehendaki, baik dan buruk” dalam rumusan tersebut paling dekat dengan definisi ...","options":["Richard T. Schaefer dan Robert P. Lamm","Gordon Allport","Antony Giddens","Danandjaja","Kluckhohn"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 7","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 7</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Giddens melihat nilai sebagai gagasan individu atau kelompok tentang kepantasan, sesuatu yang dikehendaki, serta <mark class=\"study-highlight\">baik dan buruk</mark>. Perhatikan empat unsur itu ketika membedakan para ahli.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Antony Giddens</mark> menjelaskan nilai sebagai gagasan individu atau kelompok mengenai apa yang <mark class=\"study-highlight\">layak</mark>, dikehendaki, baik, dan buruk.</p><p>Jawaban yang sesuai adalah <strong>C. Antony Giddens</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Perhatikan kata kunci pada definisi ahli: <mark class=\"study-highlight\">pilihan tindakan</mark>, kepantasan, <mark class=\"study-highlight\">cara dan tujuan</mark>, <mark class=\"study-highlight\">prioritas</mark>, atau karya budaya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Giddens melihat nilai sebagai gagasan individu atau kelompok tentang kepantasan, sesuatu yang dikehendaki, serta <mark class=\"study-highlight\">baik dan buruk</mark>. Perhatikan empat unsur itu ketika membedakan para ahli.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 7.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 7","difficulty":"HOTS • Analitis","question":"Pimpinan mengkaji mengapa suatu tujuan dianggap diinginkan dan bagaimana pegawai memilih cara mencapainya. Definisi nilai yang mencakup sekaligus cara dan tujuan dikemukakan oleh ...","options":["Kluckhohn","Koentjaraningrat","Gordon Allport","Danandjaja","Antony Giddens"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 7","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 7</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Kluckhohn</mark> menghubungkan konsepsi tentang sesuatu yang diinginkan dengan penentuan cara bertindak dan tujuan. Artinya, nilai memandu proses sekaligus arah tindakan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Kluckhohn</mark> menekankan konsepsi tentang yang diinginkan yang memengaruhi penentuan tindakan terhadap cara sekaligus tujuan.</p><p>Jawaban yang sesuai adalah <strong>A. Kluckhohn</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Perhatikan kata kunci pada definisi ahli: <mark class=\"study-highlight\">pilihan tindakan</mark>, kepantasan, <mark class=\"study-highlight\">cara dan tujuan</mark>, <mark class=\"study-highlight\">prioritas</mark>, atau karya budaya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Kluckhohn</mark> menghubungkan konsepsi tentang sesuatu yang diinginkan dengan penentuan cara bertindak dan tujuan. Artinya, nilai memandu proses sekaligus arah tindakan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 7.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 7","difficulty":"HOTS • Analitis","question":"Dua unit sama-sama mengejar hasil baik, tetapi berbeda dalam menentukan mana yang lebih penting dan lebih benar. Pasangan pertimbangan ini secara eksplisit dikemukakan oleh ...","options":["Antony Giddens","Koentjaraningrat","Gordon Allport","Danandjaja","Richard T. Schaefer dan Robert P. Lamm"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 7","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 7</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Danandjaja</mark> menyoroti perbandingan <mark class=\"study-highlight\">prioritas</mark>: lebih atau kurang penting, lebih atau kurang baik, serta benar atau salah. Ini adalah petunjuk khas rumusannya.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Danandjaja</mark> menjabarkan nilai dalam perbandingan lebih atau kurang penting, lebih atau kurang baik, benar atau salah.</p><p>Jawaban yang sesuai adalah <strong>D. Danandjaja</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Perhatikan kata kunci pada definisi ahli: <mark class=\"study-highlight\">pilihan tindakan</mark>, kepantasan, <mark class=\"study-highlight\">cara dan tujuan</mark>, <mark class=\"study-highlight\">prioritas</mark>, atau karya budaya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Danandjaja</mark> menyoroti perbandingan <mark class=\"study-highlight\">prioritas</mark>: lebih atau kurang penting, lebih atau kurang baik, serta benar atau salah. Ini adalah petunjuk khas rumusannya.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 7.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 7","difficulty":"HOTS • Analitis","question":"Dalam kajian nilai, seseorang memandang suatu gagasan penting sekaligus sebagai landasan bagi karya budaya yang terwujud. Rumusan ini paling sesuai dengan ahli ...","options":["Gordon Allport","Kluckhohn","Danandjaja","Antony Giddens","Richard T. Schaefer dan Robert P. Lamm"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 7","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 7</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Schaefer dan Lamm</mark> tidak hanya menyebut baik, <mark class=\"study-highlight\">layak</mark>, dan diinginkan, tetapi juga kaitannya dengan gagasan dan <mark class=\"study-highlight\">karya budaya</mark> dalam kehidupan individu maupun masyarakat.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Schaefer dan Lamm</mark> secara eksplisit mengaitkan yang berharga, penting, <mark class=\"study-highlight\">layak</mark> serta diinginkan dengan <mark class=\"study-highlight\">karya budaya</mark> berdasarkan gagasan tersebut.</p><p>Jawaban yang sesuai adalah <strong>E. Richard T. Schaefer dan Robert P. Lamm</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Perhatikan kata kunci pada definisi ahli: <mark class=\"study-highlight\">pilihan tindakan</mark>, kepantasan, <mark class=\"study-highlight\">cara dan tujuan</mark>, <mark class=\"study-highlight\">prioritas</mark>, atau karya budaya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Schaefer dan Lamm</mark> tidak hanya menyebut baik, <mark class=\"study-highlight\">layak</mark>, dan diinginkan, tetapi juga kaitannya dengan gagasan dan <mark class=\"study-highlight\">karya budaya</mark> dalam kehidupan individu maupun masyarakat.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 7.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 7","difficulty":"HOTS • Analitis","question":"Perusahaan memiliki panduan tertulis tetapi keputusannya selalu mengabaikan panduan tersebut. Menurut pengantar Bab II, unsur fungsi nilai organisasi yang paling langsung belum berjalan adalah ...","options":["Menetapkan setiap target produksi secara rinci","Menjadi pedoman perilaku dan kegiatan organisasi","Menyeragamkan bentuk seluruh layanan ke publik","Membatasi tanggung jawab hanya pada manajer","Memusatkan hasil kerja pada satu kelompok"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 7","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 7</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Menurut pendahuluan Bab II, nilai organisasi menjadi guidance dalam berperilaku, bekerja, dan beraktivitas. <mark class=\"study-highlight\">Pedoman</mark> belum efektif apabila tidak dipakai saat mengambil keputusan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Disebutkan nilai organisasi sebagai <mark class=\"study-highlight\">pedoman</mark> (guidance) seluruh elemen dalam berperilaku, bekerja, dan beraktivitas demi <mark class=\"study-highlight\">tujuan organisasi</mark>.</p><p>Jawaban yang sesuai adalah <strong>B. Menjadi pedoman perilaku dan kegiatan organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Perhatikan kata kunci pada definisi ahli: <mark class=\"study-highlight\">pilihan tindakan</mark>, kepantasan, <mark class=\"study-highlight\">cara dan tujuan</mark>, <mark class=\"study-highlight\">prioritas</mark>, atau karya budaya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Menurut pendahuluan Bab II, nilai organisasi menjadi guidance dalam berperilaku, bekerja, dan beraktivitas. <mark class=\"study-highlight\">Pedoman</mark> belum efektif apabila tidak dipakai saat mengambil keputusan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 7.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 7","difficulty":"HOTS • Analitis","question":"Seorang pegawai mengutamakan sasaran pribadi, sedangkan satuan kerja membutuhkan orientasi bersama. Berdasarkan ketentuannya, cakupan pihak yang harus meyakini nilai organisasi adalah ...","options":["Pegawai operasional tanpa melibatkan pimpinan","Pimpinan formal di luar pemangku kepentingan","Anggota organisasi dan para pemangku kepentingan","Manajer saja karena bertanggung jawab atas keputusan","Penyusun standar organisasi pada tahap pembentukan"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 7","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 7</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Hal ini menempatkan nilai sebagai <mark class=\"study-highlight\">keyakinan bersama</mark> anggota dan para <mark class=\"study-highlight\">pemangku kepentingan</mark>. Karena itu, nilainya tidak hanya menjadi milik pimpinan atau tim penyusun.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Nilai menjadi keyakinan anggota organisasi serta pemangku kepentingannya, tidak terbatas pada satu tingkatan jabatan.</p><p>Jawaban yang sesuai adalah <strong>C. Anggota organisasi dan para pemangku kepentingan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Perhatikan kata kunci pada definisi ahli: <mark class=\"study-highlight\">pilihan tindakan</mark>, kepantasan, <mark class=\"study-highlight\">cara dan tujuan</mark>, <mark class=\"study-highlight\">prioritas</mark>, atau karya budaya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Hal ini menempatkan nilai sebagai <mark class=\"study-highlight\">keyakinan bersama</mark> anggota dan para <mark class=\"study-highlight\">pemangku kepentingan</mark>. Karena itu, nilainya tidak hanya menjadi milik pimpinan atau tim penyusun.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 7.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 7","difficulty":"HOTS • Analitis","question":"Salah satu definisi nilai menghubungkan sesuatu yang diinginkan dengan penentuan tindakan untuk mencapai sasaran. Perbedaan kuncinya dibanding definisi yang hanya menekankan pilihan tindakan ialah adanya perhatian pada ...","options":["Cara dan tujuan yang hendak dicapai","Perbedaan hak dan kewajiban kelompok","Kemampuan menilai karya budaya","Kesepakatan lintas lembaga pemerintah","Pembakuan indikator budaya organisasi"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 7","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 7</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Dalam definisi <mark class=\"study-highlight\">Kluckhohn</mark>, unsur <mark class=\"study-highlight\">cara dan tujuan</mark> perlu dibaca bersama. Pemilihan cara mencapai sasaran bukan sekadar urusan teknis, tetapi dipengaruhi nilai yang diyakini.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Kluckhohn</mark> secara eksplisit memasukkan pilihan <mark class=\"study-highlight\">cara dan tujuan</mark> ke dalam definisi nilai.</p><p>Jawaban yang sesuai adalah <strong>A. Cara dan tujuan yang hendak dicapai</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Perhatikan kata kunci pada definisi ahli: <mark class=\"study-highlight\">pilihan tindakan</mark>, kepantasan, <mark class=\"study-highlight\">cara dan tujuan</mark>, <mark class=\"study-highlight\">prioritas</mark>, atau karya budaya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Dalam definisi <mark class=\"study-highlight\">Kluckhohn</mark>, unsur <mark class=\"study-highlight\">cara dan tujuan</mark> perlu dibaca bersama. Pemilihan cara mencapai sasaran bukan sekadar urusan teknis, tetapi dipengaruhi nilai yang diyakini.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 7.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 7","difficulty":"HOTS • Analitis","question":"Ketika nilai organisasi benar-benar diterapkan, tujuan yang menurut uraian awal Bab II semestinya dicapai adalah ...","options":["Tercapainya penilaian kinerja individu tanpa kerja tim","Terbentuknya hierarki pengambilan keputusan tunggal","Keseragaman penuh kepentingan semua pihak","Tercapainya tujuan organisasi dan manfaat bagi pihak terkait","Terhapusnya keharusan berkomunikasi dengan stakeholders"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 7","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 7</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Tujuan akhir penerapan <mark class=\"study-highlight\">pedoman</mark> nilai adalah tercapainya <mark class=\"study-highlight\">tujuan organisasi</mark> dan manfaat bagi pihak terkait. Rumusan nilai saja tidak otomatis menghasilkan dampak tersebut.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Nilai memandu anggota berperilaku, bekerja, beraktivitas sehingga <mark class=\"study-highlight\">tujuan organisasi</mark> tercapai dan manfaatnya dinikmati seluruh pihak.</p><p>Jawaban yang sesuai adalah <strong>D. Tercapainya tujuan organisasi dan manfaat bagi pihak terkait</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Perhatikan kata kunci pada definisi ahli: <mark class=\"study-highlight\">pilihan tindakan</mark>, kepantasan, <mark class=\"study-highlight\">cara dan tujuan</mark>, <mark class=\"study-highlight\">prioritas</mark>, atau karya budaya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Tujuan akhir penerapan <mark class=\"study-highlight\">pedoman</mark> nilai adalah tercapainya <mark class=\"study-highlight\">tujuan organisasi</mark> dan manfaat bagi pihak terkait. Rumusan nilai saja tidak otomatis menghasilkan dampak tersebut.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 7.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 7","difficulty":"HOTS • Analitis","question":"Pernyataan yang menghubungkan nilai dengan keyakinan mengenai hal yang baik atau tidak baik, layak atau tidak layak, sekaligus yang diinginkan merupakan pengertian dari ...","options":["Kluckhohn","Antony Giddens","Gordon Allport","Danandjaja","Schaefer dan Lamm"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 7","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 7</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Schaefer dan Lamm</mark> memasukkan penilaian <mark class=\"study-highlight\">layak</mark>/tidak <mark class=\"study-highlight\">layak</mark>, baik/tidak baik, diinginkan/tidak diinginkan, dan kaitannya dengan karya budaya. Gabungan unsur itulah pembeda rumusan mereka.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Schaefer dan Lamm</mark> memerinci pasangan baik/tidak baik, <mark class=\"study-highlight\">layak</mark>/tidak <mark class=\"study-highlight\">layak</mark>, diinginkan/tidak diinginkan dan karya budaya.</p><p>Jawaban yang sesuai adalah <strong>E. Schaefer dan Lamm</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Perhatikan kata kunci pada definisi ahli: <mark class=\"study-highlight\">pilihan tindakan</mark>, kepantasan, <mark class=\"study-highlight\">cara dan tujuan</mark>, <mark class=\"study-highlight\">prioritas</mark>, atau karya budaya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Schaefer dan Lamm</mark> memasukkan penilaian <mark class=\"study-highlight\">layak</mark>/tidak <mark class=\"study-highlight\">layak</mark>, baik/tidak baik, diinginkan/tidak diinginkan, dan kaitannya dengan karya budaya. Gabungan unsur itulah pembeda rumusan mereka.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 7.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 8","difficulty":"HOTS • Analitis","question":"Seseorang memandang suatu adat sebagai pedoman bermasyarakat, tetapi kelompok lain justru menilainya tidak dikehendaki. Pendekatan nilai tersebut sejalan dengan pandangan ...","options":["Gordon Allport","Koentjaraningrat","Danandjaja","Kluckhohn","Susan Heathfield"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 8","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 8</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Koentjaraningrat</mark> mengaitkan nilai dengan bentuk budaya yang menjadi pedoman masyarakat. Suatu bentuk budaya dapat diterima atau ditolak berdasarkan anggapan baik dan buruk yang <mark class=\"study-highlight\">berkembang</mark>.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Koentjaraningrat</mark> menyebut nilai sebagai bentuk budaya pedoman masyarakat yang dapat dikehendaki atau dibenci bergantung pada penilaian baik-buruk.</p><p>Jawaban yang sesuai adalah <strong>B. Koentjaraningrat</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan sifat nilai sebagai pedoman <mark class=\"study-highlight\">normatif</mark> dari bentuk abstrak, daya motivasi, dan sifatnya yang <mark class=\"study-highlight\">berkembang</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Koentjaraningrat</mark> mengaitkan nilai dengan bentuk budaya yang menjadi pedoman masyarakat. Suatu bentuk budaya dapat diterima atau ditolak berdasarkan anggapan baik dan buruk yang <mark class=\"study-highlight\">berkembang</mark>.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 8.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 8","difficulty":"HOTS • Analitis","question":"Dalam karakteristik nilai, pernyataan bahwa nilai memuat harapan, cita-cita dan keharusan menunjuk pada sifat ...","options":["Abstrak","Dinamis","Normatif","Instrumental","Kognitif"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 8","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 8</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Sifat <mark class=\"study-highlight\">normatif</mark> berarti nilai mengandung <mark class=\"study-highlight\">harapan, cita-cita, dan keharusan</mark>; hal tersebut berkaitan dengan kondisi ideal atau <mark class=\"study-highlight\">das sollen</mark>.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Nilai bersifat <mark class=\"study-highlight\">normatif</mark> karena mengandung harapan, cita-cita dan keharusan; hal tersebut berkaitan dengan ideal atau <mark class=\"study-highlight\">das sollen</mark>.</p><p>Jawaban yang sesuai adalah <strong>C. Normatif</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan sifat nilai sebagai pedoman <mark class=\"study-highlight\">normatif</mark> dari bentuk abstrak, daya motivasi, dan sifatnya yang <mark class=\"study-highlight\">berkembang</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Sifat <mark class=\"study-highlight\">normatif</mark> berarti nilai mengandung <mark class=\"study-highlight\">harapan, cita-cita, dan keharusan</mark>; hal tersebut berkaitan dengan kondisi ideal atau <mark class=\"study-highlight\">das sollen</mark>.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 8.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 8","difficulty":"HOTS • Analitis","question":"Sebuah unit menilai nilai organisasi tidak mungkin diamati seperti benda fisik, tetapi keberadaannya terasa dalam tindakan harian. Karakteristik yang tepat adalah ...","options":["Realitas abstrak dalam kehidupan manusia","Sifat ideal yang tidak berubah sepanjang masa","Kewajiban administratif yang selalu tertulis","Kesepakatan yang hanya mengikat pimpinan","Instrumen evaluasi yang selalu berbentuk angka"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 8","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 8</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Nilai merupakan <mark class=\"study-highlight\">realitas abstrak</mark> dalam kehidupan manusia. Ia tidak harus berupa benda yang dapat disentuh, tetapi memengaruhi pilihan dan perbuatan nyata.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Halaman 8 menyatakan nilai merupakan <mark class=\"study-highlight\">realitas abstrak</mark> dan ada dalam kehidupan manusia.</p><p>Jawaban yang sesuai adalah <strong>A. Realitas abstrak dalam kehidupan manusia</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan sifat nilai sebagai pedoman <mark class=\"study-highlight\">normatif</mark> dari bentuk abstrak, daya motivasi, dan sifatnya yang <mark class=\"study-highlight\">berkembang</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Nilai merupakan <mark class=\"study-highlight\">realitas abstrak</mark> dalam kehidupan manusia. Ia tidak harus berupa benda yang dapat disentuh, tetapi memengaruhi pilihan dan perbuatan nyata.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 8.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 8","difficulty":"HOTS • Analitis","question":"Pegawai menjadikan keyakinan tertentu sebagai energi untuk memperbaiki pelayanan. Hal tersebut terutama memperlihatkan sifat nilai sebagai ...","options":["Kondisi statis organisasi","Pedoman budaya yang ditolak","Ukuran kesamaan struktural","Daya dorong atau motivator","Rumusan kebutuhan kelompok eksternal"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 8","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 8</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Nilai juga merupakan <mark class=\"study-highlight\">daya dorong</mark> atau <mark class=\"study-highlight\">motivator</mark>. Dalam organisasi, keyakinan yang hidup dapat mendorong anggota untuk mengambil tindakan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Karakteristik ketiga adalah nilai sebagai <mark class=\"study-highlight\">daya dorong</mark> atau <mark class=\"study-highlight\">motivator</mark>; manusia merupakan pendukung nilai.</p><p>Jawaban yang sesuai adalah <strong>D. Daya dorong atau motivator</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan sifat nilai sebagai pedoman <mark class=\"study-highlight\">normatif</mark> dari bentuk abstrak, daya motivasi, dan sifatnya yang <mark class=\"study-highlight\">berkembang</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Nilai juga merupakan <mark class=\"study-highlight\">daya dorong</mark> atau <mark class=\"study-highlight\">motivator</mark>. Dalam organisasi, keyakinan yang hidup dapat mendorong anggota untuk mengambil tindakan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 8.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 8","difficulty":"HOTS • Analitis","question":"Dalam organisasi yang terus menyesuaikan diri dengan lingkungan, nilai dapat terus mengalami perkembangan. Pernyataan ini merujuk karakteristik nilai yang ...","options":["Tidak dapat dipengaruhi manusia","Selalu terukur secara kuantitatif","Hanya berlaku di dalam organisasi","Terbentuk semata melalui keputusan formal","Berkembang seiring kehidupan manusia"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 8","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 8</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Nilai <mark class=\"study-highlight\">berkembang</mark> seiring perkembangan kehidupan manusia. Sifat ini tidak meniadakan perannya sebagai pedoman, tetapi menunjukkan bahwa nilai tidak statis.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Karakteristik keempat menyatakan nilai selalu <mark class=\"study-highlight\">berkembang</mark> seperti halnya kehidupan manusia.</p><p>Jawaban yang sesuai adalah <strong>E. Berkembang seiring kehidupan manusia</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan sifat nilai sebagai pedoman <mark class=\"study-highlight\">normatif</mark> dari bentuk abstrak, daya motivasi, dan sifatnya yang <mark class=\"study-highlight\">berkembang</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Nilai <mark class=\"study-highlight\">berkembang</mark> seiring perkembangan kehidupan manusia. Sifat ini tidak meniadakan perannya sebagai pedoman, tetapi menunjukkan bahwa nilai tidak statis.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 8.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 8","difficulty":"HOTS • Analitis","question":"Para pemangku kepentingan berunding hingga menyepakati pedoman perilaku. Berdasarkan ketentuannya, kebutuhan atas kesepakatan nilai bersama terutama berkaitan dengan upaya organisasi agar ...","options":["Mengurangi komunikasi antarunit","Tetap eksis, kokoh, dan berkembang terarah","Menghilangkan semua nilai pribadi pegawai","Memindahkan seluruh keputusan kepada pimpinan","Memusatkan perhatian pada aturan kepegawaian"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 8","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 8</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Dari <mark class=\"study-highlight\">nilai pribadi</mark> menuju <mark class=\"study-highlight\">nilai organisasi</mark> diperlukan kesepakatan para pemangku kepentingan. <mark class=\"study-highlight\">Kesepakatan bersama</mark> membantu organisasi tetap kokoh, eksis, dan berkembang terarah.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Stakeholders menyepakati nilai agar organisasi tetap eksis, kokoh dan <mark class=\"study-highlight\">berkembang</mark> terarah sesuai nilai yang disepakati.</p><p>Jawaban yang sesuai adalah <strong>B. Tetap eksis, kokoh, dan berkembang terarah</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan sifat nilai sebagai pedoman <mark class=\"study-highlight\">normatif</mark> dari bentuk abstrak, daya motivasi, dan sifatnya yang <mark class=\"study-highlight\">berkembang</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Dari <mark class=\"study-highlight\">nilai pribadi</mark> menuju <mark class=\"study-highlight\">nilai organisasi</mark> diperlukan kesepakatan para pemangku kepentingan. <mark class=\"study-highlight\">Kesepakatan bersama</mark> membantu organisasi tetap kokoh, eksis, dan berkembang terarah.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 8.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 8","difficulty":"HOTS • Analitis","question":"Pernyataan paling lengkap tentang organizational values dalam paragraf awal subbagian nilai organisasi adalah keyakinan para pemangku kepentingan yang digunakan untuk ...","options":["Menentukan struktur pangkat dan jabatan","Mengevaluasi laporan keuangan bulanan","Berpikir, bertindak, dan bertingkah laku","Menggantikan ketentuan hukum organisasi","Menilai efektivitas anggaran tahunan"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 8","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 8</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Organizational values ialah <mark class=\"study-highlight\">keyakinan dan kepercayaan</mark> pemangku kepentingan organisasi yang digunakan untuk berpikir, bertindak, dan bertingkah laku.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Organizational values diartikan sebagai <mark class=\"study-highlight\">keyakinan dan kepercayaan</mark> stakeholder yang digunakan dalam berpikir, bertindak, dan bertingkah laku.</p><p>Jawaban yang sesuai adalah <strong>C. Berpikir, bertindak, dan bertingkah laku</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan sifat nilai sebagai pedoman <mark class=\"study-highlight\">normatif</mark> dari bentuk abstrak, daya motivasi, dan sifatnya yang <mark class=\"study-highlight\">berkembang</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Organizational values ialah <mark class=\"study-highlight\">keyakinan dan kepercayaan</mark> pemangku kepentingan organisasi yang digunakan untuk berpikir, bertindak, dan bertingkah laku.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 8.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 8","difficulty":"HOTS • Analitis","question":"Ketika istilah das sollen dipakai untuk menerangkan sifat nilai, konteks yang tepat berdasarkan ketentuannya adalah ...","options":["Nilai sebagai sesuatu yang ideal dan mengandung keharusan","Nilai sebagai data aktual yang harus diukur berulang","Nilai sebagai kesepakatan yang tidak dapat berubah","Nilai sebagai keputusan yang berasal dari satu pihak","Nilai sebagai gambaran perilaku masa lalu semata"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 8","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 8</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Das sollen</mark> adalah istilah untuk keadaan yang diidealkan atau seharusnya. Di halaman ini istilah tersebut menjelaskan sisi <mark class=\"study-highlight\">normatif</mark> nilai.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Das sollen</mark> dipakai sebagai penjelas sifat ideal dari nilai yang <mark class=\"study-highlight\">normatif</mark>.</p><p>Jawaban yang sesuai adalah <strong>A. Nilai sebagai sesuatu yang ideal dan mengandung keharusan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan sifat nilai sebagai pedoman <mark class=\"study-highlight\">normatif</mark> dari bentuk abstrak, daya motivasi, dan sifatnya yang <mark class=\"study-highlight\">berkembang</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Das sollen</mark> adalah istilah untuk keadaan yang diidealkan atau seharusnya. Di halaman ini istilah tersebut menjelaskan sisi <mark class=\"study-highlight\">normatif</mark> nilai.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 8.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 8","difficulty":"HOTS • Analitis","question":"Manakah pembedaan paling tepat antara nilai pribadi dan nilai organisasi sebagaimana transisi uraian halaman 8?","options":["Nilai pribadi diwajibkan tertulis; organisasi tidak perlu rumusan","Nilai pribadi ditetapkan pemimpin; organisasi ditetapkan individu","Nilai pribadi bersifat ideal; organisasi selalu objektif","Nilai pribadi melekat individu; organisasi disepakati sebagai pedoman bersama","Nilai pribadi selalu berubah; organisasi tidak pernah berubah"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 8","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 8</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Nilai pribadi</mark> melekat pada keyakinan individu; <mark class=\"study-highlight\">nilai organisasi</mark> dirumuskan dan disepakati sebagai <mark class=\"study-highlight\">pedoman bersama</mark>. Perbedaan utamanya ada pada cakupan serta konsensus.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Nilai pribadi</mark> berkaitan dengan keyakinan individu, sedangkan organisasi memerlukan kesepakatan stakeholder menjadi <mark class=\"study-highlight\">pedoman bersama</mark>.</p><p>Jawaban yang sesuai adalah <strong>D. Nilai pribadi melekat individu; organisasi disepakati sebagai pedoman bersama</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan sifat nilai sebagai pedoman <mark class=\"study-highlight\">normatif</mark> dari bentuk abstrak, daya motivasi, dan sifatnya yang <mark class=\"study-highlight\">berkembang</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Nilai pribadi</mark> melekat pada keyakinan individu; <mark class=\"study-highlight\">nilai organisasi</mark> dirumuskan dan disepakati sebagai <mark class=\"study-highlight\">pedoman bersama</mark>. Perbedaan utamanya ada pada cakupan serta konsensus.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 8.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 8","difficulty":"HOTS • Analitis","question":"Jika suatu organisasi menyatakan daftar nilainya secara resmi, fungsi utama langkah itu menurut halaman 8 adalah ...","options":["Menjadikan manajer satu-satunya penjaga nilai","Membatasi nilai pada kepentingan kelompok tertentu","Menempatkan nilai di luar proses keputusan","Mempertahankan nilai yang tidak perlu diterapkan","Membuat pedoman bersama bagi seluruh anggota dan stakeholder"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 8","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 8</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Memproklamasikan <mark class=\"study-highlight\">nilai organisasi</mark> berarti menegaskan <mark class=\"study-highlight\">pedoman bersama</mark> bagi anggota dan pemangku kepentingan. Namun penerapannya masih harus diwujudkan dalam tindakan sehari-hari.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Organisasi dapat memproklamasikan nilainya menjadi guidance bersama seluruh anggota dan pemangku kepentingan.</p><p>Jawaban yang sesuai adalah <strong>E. Membuat pedoman bersama bagi seluruh anggota dan stakeholder</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan sifat nilai sebagai pedoman <mark class=\"study-highlight\">normatif</mark> dari bentuk abstrak, daya motivasi, dan sifatnya yang <mark class=\"study-highlight\">berkembang</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Memproklamasikan <mark class=\"study-highlight\">nilai organisasi</mark> berarti menegaskan <mark class=\"study-highlight\">pedoman bersama</mark> bagi anggota dan pemangku kepentingan. Namun penerapannya masih harus diwujudkan dalam tindakan sehari-hari.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 8.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 9","difficulty":"HOTS • Analitis","question":"Nilai organisasi dianalogikan sebagai fondasi rumah. Konsekuensi utama dari analogi tersebut adalah ...","options":["Nilai terbatas pada citra organisasi di luar","Lemahnya nilai melemahkan penopang perilaku organisasi","Nilai menentukan pengadaan sarana fisik kantor","Nilai berfungsi terutama sebagai identitas visual","Perubahan nilai perlu dihindari pada semua kondisi"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 9","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 9</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Nilai digambarkan sebagai <mark class=\"study-highlight\">fondasi</mark> rumah: perilaku anggota organisasi bertumpu padanya. <mark class=\"study-highlight\">Fondasi</mark> yang lemah menunjukkan rapuhnya landasan perilaku organisasi.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Nilai membentuk <mark class=\"study-highlight\">tingkah laku</mark> dan menyangga organisasi layaknya <mark class=\"study-highlight\">fondasi</mark>; <mark class=\"study-highlight\">fondasi</mark> yang lemah mengancam keberlangsungan bangunan.</p><p>Jawaban yang sesuai adalah <strong>B. Lemahnya nilai melemahkan penopang perilaku organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan fungsi nilai sebagai keyakinan bersama, pembentuk perilaku, <mark class=\"study-highlight\">dasar keputusan</mark>, dan <mark class=\"study-highlight\">identitas organisasi</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Nilai digambarkan sebagai <mark class=\"study-highlight\">fondasi</mark> rumah: perilaku anggota organisasi bertumpu padanya. <mark class=\"study-highlight\">Fondasi</mark> yang lemah menunjukkan rapuhnya landasan perilaku organisasi.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 9.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 9","difficulty":"HOTS • Analitis","question":"Tiga komponen organizational values yang disebut berinteraksi terus-menerus meliputi ...","options":["Kognitif, afektif, dan tingkah laku","Visi, misi, dan sasaran kinerja","Struktur, prosedur, dan pengawasan","Kebijakan, anggaran, dan pelaporan","Kepemimpinan, strategi, dan inovasi"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 9","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 9</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Nilai organisasi</mark> mempunyai komponen <mark class=\"study-highlight\">kognitif, afektif, dan tingkah laku</mark> yang terus berinteraksi. Dengan demikian, nilai tidak berhenti pada apa yang diketahui, tetapi juga tampak pada respons dan tindakan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Disebutkan komponen <mark class=\"study-highlight\">kognitif, afektif, dan tingkah laku</mark> yang berinteraksi kontinu.</p><p>Jawaban yang sesuai adalah <strong>A. Kognitif, afektif, dan tingkah laku</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan fungsi nilai sebagai keyakinan bersama, pembentuk perilaku, <mark class=\"study-highlight\">dasar keputusan</mark>, dan <mark class=\"study-highlight\">identitas organisasi</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Nilai organisasi</mark> mempunyai komponen <mark class=\"study-highlight\">kognitif, afektif, dan tingkah laku</mark> yang terus berinteraksi. Dengan demikian, nilai tidak berhenti pada apa yang diketahui, tetapi juga tampak pada respons dan tindakan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 9.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 9","difficulty":"HOTS • Analitis","question":"Penggunaan nilai untuk memilih tindakan dan membuat keputusan secara konsisten secara langsung berdampak pada ...","options":["Terhapusnya kebutuhan pembinaan pegawai","Dihilangkannya keberagaman karakter organisasi","Pemindahan keputusan ke unit pengawasan","Meningkatnya kohesi dan rasa kesatuan kelompok","Munculnya struktur unit kerja yang seragam"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 9","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 9</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Nilai yang dipercaya menjadi pedoman tindakan dan keputusan. Pemakaian bersama dapat meningkatkan rasa percaya diri, <mark class=\"study-highlight\">kohesi</mark>, dan kesatuan kelompok maupun organisasi.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Pedoman nilai yang diyakini meningkatkan kepercayaan diri kelompok, selanjutnya <mark class=\"study-highlight\">kohesi</mark> dan <mark class=\"study-highlight\">rasa kesatuan</mark>.</p><p>Jawaban yang sesuai adalah <strong>D. Meningkatnya kohesi dan rasa kesatuan kelompok</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan fungsi nilai sebagai keyakinan bersama, pembentuk perilaku, <mark class=\"study-highlight\">dasar keputusan</mark>, dan <mark class=\"study-highlight\">identitas organisasi</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Nilai yang dipercaya menjadi pedoman tindakan dan keputusan. Pemakaian bersama dapat meningkatkan rasa percaya diri, <mark class=\"study-highlight\">kohesi</mark>, dan kesatuan kelompok maupun organisasi.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 9.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 9","difficulty":"HOTS • Analitis","question":"Roope Heinila menyebut nilai perusahaan sebagai DNA organisasi terutama karena nilai tersebut ...","options":["Berbentuk kode tertulis yang tidak boleh berubah","Mewakili strategi pemasaran saja","Membantu membedakan organisasi dari organisasi lain","Menentukan seluruh struktur organisasi secara rinci","Menjadi pengganti semua analisis sebelum keputusan"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 9","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 9</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Menurut <mark class=\"study-highlight\">Roope Heinila</mark>, nilai-nilai adalah <mark class=\"study-highlight\">DNA organisasi</mark> yang membedakannya dari organisasi lain. Karena itu, nilai perlu menjadi dasar saat keputusan penting dibuat.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Dalam analogi DNA, nilai membedakan perusahaan dari perusahaan lain di tengah kompetisi.</p><p>Jawaban yang sesuai adalah <strong>C. Membantu membedakan organisasi dari organisasi lain</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan fungsi nilai sebagai keyakinan bersama, pembentuk perilaku, <mark class=\"study-highlight\">dasar keputusan</mark>, dan <mark class=\"study-highlight\">identitas organisasi</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Menurut <mark class=\"study-highlight\">Roope Heinila</mark>, nilai-nilai adalah <mark class=\"study-highlight\">DNA organisasi</mark> yang membedakannya dari organisasi lain. Karena itu, nilai perlu menjadi dasar saat keputusan penting dibuat.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 9.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 9","difficulty":"HOTS • Analitis","question":"Seorang kepala unit membuat keputusan penting tanpa mempertimbangkan nilai yang dianut organisasi. Kritik berdasarkan penjelasan Heinila adalah ...","options":["Keputusan wajib bergantung pada kepentingan luar","Keputusan tidak memerlukan konsensus seluruh unit","Keputusan hanya boleh dibuat setelah audit eksternal","Keputusan cukup memperhitungkan pencapaian target","Keputusan penting memerlukan basis nilai yang diyakini"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 9","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 9</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Heinila menekankan bahwa keputusan penting memerlukan landasan nilai yang diyakini. Mengabaikan nilai berarti melepaskan dasar bersama yang membentuk <mark class=\"study-highlight\">identitas organisasi</mark>.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Heinila menegaskan keputusan penting tidak seharusnya dibuat tanpa nilai yang diyakini sebagai dasar.</p><p>Jawaban yang sesuai adalah <strong>E. Keputusan penting memerlukan basis nilai yang diyakini</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan fungsi nilai sebagai keyakinan bersama, pembentuk perilaku, <mark class=\"study-highlight\">dasar keputusan</mark>, dan <mark class=\"study-highlight\">identitas organisasi</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Heinila menekankan bahwa keputusan penting memerlukan landasan nilai yang diyakini. Mengabaikan nilai berarti melepaskan dasar bersama yang membentuk <mark class=\"study-highlight\">identitas organisasi</mark>.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 9.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 9","difficulty":"HOTS • Analitis","question":"Nilai yang harus hadir mulai dari pimpinan, manajer, supervisor sampai pegawai dimaksudkan agar ...","options":["Pedoman tindakan hanya mengikat pejabat struktural","Nilai terwujud pada tindakan di semua lapisan organisasi","Manfaat budaya organisasi terbatas pada pimpinan","Penilaian moral dipindahkan kepada unit kepegawaian","Budaya ditentukan hanya oleh faktor eksternal"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 9","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 9</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Nilai organisasi</mark> harus tumbuh pada semua jenjang, dari pimpinan dan manajer sampai supervisor serta pegawai. Penanaman nilai tidak memadai jika hanya dilakukan oleh satu kelompok.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Disebutkan nilai perlu muncul dalam diri seluruh stakeholder dari pimpinan hingga pegawai.</p><p>Jawaban yang sesuai adalah <strong>B. Nilai terwujud pada tindakan di semua lapisan organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan fungsi nilai sebagai keyakinan bersama, pembentuk perilaku, <mark class=\"study-highlight\">dasar keputusan</mark>, dan <mark class=\"study-highlight\">identitas organisasi</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Nilai organisasi</mark> harus tumbuh pada semua jenjang, dari pimpinan dan manajer sampai supervisor serta pegawai. Penanaman nilai tidak memadai jika hanya dilakukan oleh satu kelompok.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 9.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 9","difficulty":"HOTS • Analitis","question":"Dalam konteks halaman 9, istilah afektif mengacu pada bagian nilai yang berhubungan dengan ...","options":["Perasaan atau sikap terhadap sesuatu","Susunan jabatan dalam organisasi","Proses penganggaran organisasi","Format dokumentasi kebijakan","Pencapaian target operasional"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 9","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 9</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Komponen <mark class=\"study-highlight\">afektif</mark> dapat dipahami sebagai dimensi sikap atau perasaan dalam kerangka tiga komponen. Disebutkannya bersama <mark class=\"study-highlight\">kognitif</mark> dan <mark class=\"study-highlight\">tingkah laku</mark> sebagai unsur yang terus berinteraksi.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Afektif</mark> merupakan dimensi sikap/perasaan dalam komponen nilai bersama <mark class=\"study-highlight\">kognitif</mark> dan <mark class=\"study-highlight\">tingkah laku</mark>.</p><p>Jawaban yang sesuai adalah <strong>A. Perasaan atau sikap terhadap sesuatu</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan fungsi nilai sebagai keyakinan bersama, pembentuk perilaku, <mark class=\"study-highlight\">dasar keputusan</mark>, dan <mark class=\"study-highlight\">identitas organisasi</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Komponen <mark class=\"study-highlight\">afektif</mark> dapat dipahami sebagai dimensi sikap atau perasaan dalam kerangka tiga komponen. Disebutkannya bersama <mark class=\"study-highlight\">kognitif</mark> dan <mark class=\"study-highlight\">tingkah laku</mark> sebagai unsur yang terus berinteraksi.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 9.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 9","difficulty":"HOTS • Analitis","question":"Pernyataan mana yang paling sesuai dengan peran komunikasi organizational values?","options":["Nilai hanya disebarkan pada rapat tahunan","Nilai menggantikan setiap instruksi pimpinan","Nilai menetapkan target produksi tiap unit","Nilai mengomunikasikan apa yang diyakini organisasi","Nilai memberi wewenang tanpa pembatasan"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 9","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 9</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Nilai mengomunikasikan hal-hal yang dipercayai dalam organisasi. Dengan demikian, nilai bukan sekadar jargon, tetapi petunjuk dalam tindakan dan keputusan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Halaman 9 menyebut organizational values mengomunikasikan apa yang dipercaya atau diyakini dalam organisasi.</p><p>Jawaban yang sesuai adalah <strong>D. Nilai mengomunikasikan apa yang diyakini organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan fungsi nilai sebagai keyakinan bersama, pembentuk perilaku, <mark class=\"study-highlight\">dasar keputusan</mark>, dan <mark class=\"study-highlight\">identitas organisasi</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Nilai mengomunikasikan hal-hal yang dipercayai dalam organisasi. Dengan demikian, nilai bukan sekadar jargon, tetapi petunjuk dalam tindakan dan keputusan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 9.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 9","difficulty":"HOTS • Analitis","question":"Rangkaian yang paling sesuai berdasarkan ketentuannya adalah ...","options":["Pengendalian → nilai → penilaian jabatan","Kinerja → anggaran → nilai personal","Nilai diyakini → pedoman tindakan → kohesi organisasi","Keseragaman struktur → nilai → perubahan visi","Keputusan pimpinan → kompetisi → nilai"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 9","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 9</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Alurnya: nilai diyakini dan menjadi petunjuk, lalu meningkatkan keyakinan diri kelompok serta <mark class=\"study-highlight\">kohesi</mark> dan <mark class=\"study-highlight\">rasa kesatuan</mark> organisasi.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Nilai diyakini menjadi petunjuk tindakan dan keputusan; kemudian meningkatkan kepercayaan diri, <mark class=\"study-highlight\">kohesi</mark>, dan kesatuan.</p><p>Jawaban yang sesuai adalah <strong>C. Nilai diyakini → pedoman tindakan → kohesi organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan fungsi nilai sebagai keyakinan bersama, pembentuk perilaku, <mark class=\"study-highlight\">dasar keputusan</mark>, dan <mark class=\"study-highlight\">identitas organisasi</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Alurnya: nilai diyakini dan menjadi petunjuk, lalu meningkatkan keyakinan diri kelompok serta <mark class=\"study-highlight\">kohesi</mark> dan <mark class=\"study-highlight\">rasa kesatuan</mark> organisasi.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 9.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 9","difficulty":"HOTS • Analitis","question":"Hal yang paling tepat menggambarkan karakter organisasi menurut uraian halaman 9 adalah ...","options":["Besarnya anggaran yang berhasil diserap","Tingginya jumlah aturan internal organisasi","Lama masa jabatan para pengelola unit","Banyaknya unit yang menggunakan sistem elektronik","Pilihan baik-buruk dan penting-tidak penting yang dituntun nilai"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 9","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 9</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Identitas atau karakter organisasi terbentuk melalui nilai yang diyakini dan diwujudkan dalam perilaku anggota. Heinila memakai analogi DNA untuk fungsi pembeda ini.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Nilai organisasi</mark> mengarahkan pilihan mengenai baik-buruk, penting-tidak penting, sekaligus membentuk karakter organisasi.</p><p>Jawaban yang sesuai adalah <strong>E. Pilihan baik-buruk dan penting-tidak penting yang dituntun nilai</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan fungsi nilai sebagai keyakinan bersama, pembentuk perilaku, <mark class=\"study-highlight\">dasar keputusan</mark>, dan <mark class=\"study-highlight\">identitas organisasi</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Identitas atau karakter organisasi terbentuk melalui nilai yang diyakini dan diwujudkan dalam perilaku anggota. Heinila memakai analogi DNA untuk fungsi pembeda ini.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 9.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 10","difficulty":"HOTS • Analitis","question":"Menurut Heinila, pemimpin membangun kepercayaan dunia kerja terutama dengan cara ...","options":["Mendelegasikan seluruh perilaku teladan kepada staf","Memegang nilai secara konsisten dan memberikan contoh","Menetapkan aturan baru setiap kali terjadi perubahan","Memusatkan keputusan kepada kelompok informal","Menerapkan penghargaan tanpa komunikasi nilai"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 10","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 10</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Heinila</mark> menekankan <mark class=\"study-highlight\">keteladanan</mark>: pimpinan berpegang teguh pada nilai dalam tindakannya. <mark class=\"study-highlight\">Keteladanan</mark> tersebut disebut sebagai cara membangun kepercayaan di dunia kerja.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Heinila</mark> menekankan berpegang teguh pada nilai dalam setiap tindakan serta menjadi teladan sebagai jalan membangun kepercayaan.</p><p>Jawaban yang sesuai adalah <strong>B. Memegang nilai secara konsisten dan memberikan contoh</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Urutan pembentukan nilai dimulai dari <mark class=\"study-highlight\">menggali</mark> praktik, mencari <mark class=\"study-highlight\">konsensus</mark>, memimpin perumusan, lalu menuliskannya dengan <mark class=\"study-highlight\">dukungan staf</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Heinila</mark> menekankan <mark class=\"study-highlight\">keteladanan</mark>: pimpinan berpegang teguh pada nilai dalam tindakannya. <mark class=\"study-highlight\">Keteladanan</mark> tersebut disebut sebagai cara membangun kepercayaan di dunia kerja.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 10.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 10","difficulty":"HOTS • Analitis","question":"Tiga unsur yang disebut Heinila sebagai pendorong organisasi adalah ...","options":["Visi, misi, dan indikator","Sikap, pengetahuan, dan aturan","Kepercayaan, filosofi, dan prinsip","Struktur, strategi, dan sistem","Kompetensi, wewenang, dan tanggung jawab"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 10","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 10</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Menurut <mark class=\"study-highlight\">Heinila</mark>, <mark class=\"study-highlight\">beliefs</mark>, <mark class=\"study-highlight\">philosophies</mark>, dan principles adalah pendorong organisasi. Ketiganya menunjukkan bahwa nilai merupakan landasan arah, bukan sekadar daftar slogan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Disebutkan <mark class=\"study-highlight\">beliefs</mark>, <mark class=\"study-highlight\">philosophies</mark>, dan <mark class=\"study-highlight\">principles</mark> sebagai driver organisasi.</p><p>Jawaban yang sesuai adalah <strong>C. Kepercayaan, filosofi, dan prinsip</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Urutan pembentukan nilai dimulai dari <mark class=\"study-highlight\">menggali</mark> praktik, mencari <mark class=\"study-highlight\">konsensus</mark>, memimpin perumusan, lalu menuliskannya dengan <mark class=\"study-highlight\">dukungan staf</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Menurut <mark class=\"study-highlight\">Heinila</mark>, <mark class=\"study-highlight\">beliefs</mark>, <mark class=\"study-highlight\">philosophies</mark>, dan principles adalah pendorong organisasi. Ketiganya menunjukkan bahwa nilai merupakan landasan arah, bukan sekadar daftar slogan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 10.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 10","difficulty":"HOTS • Analitis","question":"Dalam artikel Organizational values guide everything you at work, nilai kuat terutama diperlukan agar ...","options":["Organisasi mencerminkan perilaku tepat dan budaya kerja positif","Semua pegawai memiliki batasan kreativitas identik","Peraturan eksternal tidak lagi diperlukan","Penilaian pegawai hanya berfokus pada hasil","Standar perilaku berubah mengikuti individu"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 10","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 10</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Nilai organisasi menerangkan prinsip serta batas perilaku yang <mark class=\"study-highlight\">boleh dan tidak boleh</mark>. Nilai yang dirumuskan secara jelas dapat menuntun perilaku tepat dan <mark class=\"study-highlight\">budaya kerja positif</mark>.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Nilai yang kuat dan diartikulasikan jelas memandu perilaku yang tepat serta membangun <mark class=\"study-highlight\">budaya kerja positif</mark>.</p><p>Jawaban yang sesuai adalah <strong>A. Organisasi mencerminkan perilaku tepat dan budaya kerja positif</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Urutan pembentukan nilai dimulai dari <mark class=\"study-highlight\">menggali</mark> praktik, mencari <mark class=\"study-highlight\">konsensus</mark>, memimpin perumusan, lalu menuliskannya dengan <mark class=\"study-highlight\">dukungan staf</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Nilai organisasi menerangkan prinsip serta batas perilaku yang <mark class=\"study-highlight\">boleh dan tidak boleh</mark>. Nilai yang dirumuskan secara jelas dapat menuntun perilaku tepat dan <mark class=\"study-highlight\">budaya kerja positif</mark>.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 10.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 10","difficulty":"HOTS • Analitis","question":"Menurut urutan pengidentifikasian nilai Susan M. Heathfield, langkah awal sebelum mencari konsensus pimpinan adalah ...","options":["Menetapkan pengawasan formal setiap individu","Mencetak pernyataan nilai untuk publik","Melibatkan pihak eksternal sebagai pengambil keputusan","Menggali, mempelajari, dan mendiskusikan nilai yang berkembang","Menggabungkan seluruh program pelatihan ke dalam kebijakan"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 10","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 10</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Heathfield</mark> menyarankan memulai dari <mark class=\"study-highlight\">menggali</mark>, mempelajari, dan <mark class=\"study-highlight\">mendiskusikan</mark> nilai yang hidup dalam keseharian organisasi. Tahap ini mendahului perumusan kesepakatan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Tahap pertama yang disebut ialah <mark class=\"study-highlight\">menggali</mark>, mempelajari, serta <mark class=\"study-highlight\">mendiskusikan</mark> nilai yang berkembang sehari-hari di organisasi.</p><p>Jawaban yang sesuai adalah <strong>D. Menggali, mempelajari, dan mendiskusikan nilai yang berkembang</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Urutan pembentukan nilai dimulai dari <mark class=\"study-highlight\">menggali</mark> praktik, mencari <mark class=\"study-highlight\">konsensus</mark>, memimpin perumusan, lalu menuliskannya dengan <mark class=\"study-highlight\">dukungan staf</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Heathfield</mark> menyarankan memulai dari <mark class=\"study-highlight\">menggali</mark>, mempelajari, dan <mark class=\"study-highlight\">mendiskusikan</mark> nilai yang hidup dalam keseharian organisasi. Tahap ini mendahului perumusan kesepakatan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 10.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 10","difficulty":"HOTS • Analitis","question":"Sesudah nilai dikaji, tahap mengenai komitmen para leader atau manager pada rumusan nilai adalah ...","options":["Pengujian efektivitas layanan","Pemutakhiran standar kinerja","Penunjukan auditor program","Penyusunan daftar sarana kerja","Pencarian kesepakatan atau konsensus"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 10","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 10</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Setelah eksplorasi nilai, pimpinan atau manajer mencari <mark class=\"study-highlight\">konsensus</mark> dan berkomitmen terhadap rumusan bersama. Kesepakatan tidak seharusnya berhenti pada pernyataan formal.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Heathfield</mark> menyebut mencari <mark class=\"study-highlight\">konsensus</mark> yang didukung komitmen para pemimpin atau manajer.</p><p>Jawaban yang sesuai adalah <strong>E. Pencarian kesepakatan atau konsensus</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Urutan pembentukan nilai dimulai dari <mark class=\"study-highlight\">menggali</mark> praktik, mencari <mark class=\"study-highlight\">konsensus</mark>, memimpin perumusan, lalu menuliskannya dengan <mark class=\"study-highlight\">dukungan staf</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Setelah eksplorasi nilai, pimpinan atau manajer mencari <mark class=\"study-highlight\">konsensus</mark> dan berkomitmen terhadap rumusan bersama. Kesepakatan tidak seharusnya berhenti pada pernyataan formal.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 10.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 10","difficulty":"HOTS • Analitis","question":"Mengapa peran para eksekutif ditetapkan dalam proses perumusan nilai?","options":["Agar seluruh pegawai hanya mengikuti hasil akhir","Karena mereka paling bertanggung jawab atas penerapannya","Karena mereka tidak memerlukan keterlibatan staf","Agar nilai organisasi tidak membutuhkan kesepakatan","Karena penyusunan nilai adalah tugas administratif semata"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 10","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 10</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Peran eksekutif ditentukan karena mereka bertanggung jawab memimpin <mark class=\"study-highlight\">proses perumusan</mark> dan kemudian penerapannya. Jadi, kepemimpinan melekat sejak awal proses.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p> eksekutif perlu memimpin perumusan sebab nantinya paling bertanggung jawab pada penerapan nilai.</p><p>Jawaban yang sesuai adalah <strong>B. Karena mereka paling bertanggung jawab atas penerapannya</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Urutan pembentukan nilai dimulai dari <mark class=\"study-highlight\">menggali</mark> praktik, mencari <mark class=\"study-highlight\">konsensus</mark>, memimpin perumusan, lalu menuliskannya dengan <mark class=\"study-highlight\">dukungan staf</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Peran eksekutif ditentukan karena mereka bertanggung jawab memimpin <mark class=\"study-highlight\">proses perumusan</mark> dan kemudian penerapannya. Jadi, kepemimpinan melekat sejak awal proses.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 10.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 10","difficulty":"HOTS • Analitis","question":"Rumusan nilai yang telah disepakati oleh para eksekutif menurut tahapan Heathfield seharusnya ...","options":["Ditetapkan secara tidak tertulis untuk fleksibilitas","Dibagikan setelah seluruh program audit selesai","Dituliskan dengan dukungan penuh para staf","Diserahkan kepada pihak luar untuk diubah","Diterapkan terbatas pada tingkat manajemen"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 10","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 10</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Kesepakatan eksekutif harus dituangkan secara tertulis serta memperoleh <mark class=\"study-highlight\">dukungan penuh staf</mark>. Rumusan tertulis dan dukungan pelaksana merupakan dua hal yang berjalan bersama.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Tahap tersebut adalah merumuskan tertulis apa yang disepakati eksekutif dan mendapat <mark class=\"study-highlight\">dukungan penuh staf</mark>.</p><p>Jawaban yang sesuai adalah <strong>C. Dituliskan dengan dukungan penuh para staf</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Urutan pembentukan nilai dimulai dari <mark class=\"study-highlight\">menggali</mark> praktik, mencari <mark class=\"study-highlight\">konsensus</mark>, memimpin perumusan, lalu menuliskannya dengan <mark class=\"study-highlight\">dukungan staf</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Kesepakatan eksekutif harus dituangkan secara tertulis serta memperoleh <mark class=\"study-highlight\">dukungan penuh staf</mark>. Rumusan tertulis dan dukungan pelaksana merupakan dua hal yang berjalan bersama.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 10.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 10","difficulty":"HOTS • Analitis","question":"Untuk organisasi berskala sedang atau besar, peserta yang diperlukan dalam menginisiasi perumusan nilai adalah ...","options":["Pegawai lintas sektor dan semua jenjang bersama eksekutif","Eksekutif puncak tanpa keterlibatan lintas bagian","Hanya pihak pengawas kegiatan organisasi","Staf dari satu bagian yang ditetapkan lebih dahulu","Pihak eksternal sebagai pengganti seluruh pegawai"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 10","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 10</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Pada organisasi sedang atau besar, pegawai <mark class=\"study-highlight\">lintas sektor</mark> di semua jenjang perlu dilibatkan. Ini membuat proses tidak semata-mata dimonopoli puncak organisasi.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Heathfield</mark> menekankan keterlibatan pegawai lintas sektoral pada semua jenjang untuk bekerja sama dengan eksekutif.</p><p>Jawaban yang sesuai adalah <strong>A. Pegawai lintas sektor dan semua jenjang bersama eksekutif</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Urutan pembentukan nilai dimulai dari <mark class=\"study-highlight\">menggali</mark> praktik, mencari <mark class=\"study-highlight\">konsensus</mark>, memimpin perumusan, lalu menuliskannya dengan <mark class=\"study-highlight\">dukungan staf</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Pada organisasi sedang atau besar, pegawai <mark class=\"study-highlight\">lintas sektor</mark> di semua jenjang perlu dilibatkan. Ini membuat proses tidak semata-mata dimonopoli puncak organisasi.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 10.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 10","difficulty":"HOTS • Analitis","question":"Pada beberapa kasus, pengembangan nilai organisasi dilakukan bersamaan dengan ...","options":["Pembatasan diskusi nilai di tingkat tertentu","Pelaporan hasil tahunan kepada stakeholder","Perubahan struktur organisasi yang bersifat tetap","Pelatihan manajer menengah atau atas melalui brainstorming intensif","Penghapusan konsensus dan penggantian dengan evaluasi"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 10","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 10</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Heathfield</mark> menyebut bahwa pada beberapa kasus <mark class=\"study-highlight\">proses perumusan</mark> berjalan bersama pelatihan manajer menengah atau puncak dengan <mark class=\"study-highlight\">brainstorming</mark> intensif.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p> <mark class=\"study-highlight\">brainstorming</mark> intensif dalam pelatihan middle atau top manager.</p><p>Jawaban yang sesuai adalah <strong>D. Pelatihan manajer menengah atau atas melalui brainstorming intensif</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Urutan pembentukan nilai dimulai dari <mark class=\"study-highlight\">menggali</mark> praktik, mencari <mark class=\"study-highlight\">konsensus</mark>, memimpin perumusan, lalu menuliskannya dengan <mark class=\"study-highlight\">dukungan staf</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Heathfield</mark> menyebut bahwa pada beberapa kasus <mark class=\"study-highlight\">proses perumusan</mark> berjalan bersama pelatihan manajer menengah atau puncak dengan <mark class=\"study-highlight\">brainstorming</mark> intensif.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 10.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 10","difficulty":"HOTS • Analitis","question":"Dalam uraian tentang nilai yang membatasi tindakan di tempat kerja, arti pembatasan yang dimaksud terutama adalah ...","options":["Menjaga jumlah pekerjaan tidak melebihi target","Memastikan penilaian hanya dari pejabat tertentu","Mewajibkan seluruh tindakan atas dasar prosedur anggaran","Membatasi kesempatan pengembangan pegawai","Memberi koridor mengenai hal yang boleh dan tidak boleh"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 10","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 10</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Nilai organisasi menjelaskan batasan tindakan yang dapat atau tidak dapat dilakukan di tempat kerja. Batasan ini terhubung dengan prinsip bersama dan perilaku tepat, bukan sekadar target kinerja.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Nilai organisasi memberi inspirasi terbaik sekaligus batasan perilaku, termasuk yang <mark class=\"study-highlight\">boleh dan tidak boleh</mark>.</p><p>Jawaban yang sesuai adalah <strong>E. Memberi koridor mengenai hal yang boleh dan tidak boleh</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Urutan pembentukan nilai dimulai dari <mark class=\"study-highlight\">menggali</mark> praktik, mencari <mark class=\"study-highlight\">konsensus</mark>, memimpin perumusan, lalu menuliskannya dengan <mark class=\"study-highlight\">dukungan staf</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Nilai organisasi menjelaskan batasan tindakan yang dapat atau tidak dapat dilakukan di tempat kerja. Batasan ini terhubung dengan prinsip bersama dan perilaku tepat, bukan sekadar target kinerja.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 10.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 11","difficulty":"HOTS • Analitis","question":"Sebelum mengembangkan nilai, para manajer disarankan membagikan materi tertulis hasil diskusi awal. Fungsi langkah itu adalah ...","options":["Menggantikan kebutuhan partisipasi unit lain","Menunjukkan kegiatan pendahuluan dan komitmen stakeholder","Memastikan nilai tidak perlu lagi disepakati","Menetapkan sanksi sebelum nilai diterapkan","Membatasi diskusi hanya pada keputusan terdahulu"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 11","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 11</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Hasil diskusi awal dibagikan secara tertulis untuk memperlihatkan kesiapan dan <mark class=\"study-highlight\">komitmen awal</mark> para pemangku kepentingan. Kegiatan pendahuluan tidak harus formal.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Materi tertulis menunjukkan stakeholder telah melakukan kegiatan pendahuluan dan <mark class=\"study-highlight\">komitmen</mark> mengembangkan nilai.</p><p>Jawaban yang sesuai adalah <strong>B. Menunjukkan kegiatan pendahuluan dan komitmen stakeholder</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan tahapan persiapan perumusan nilai dengan fungsi nilai setelah disepakati dan digunakan.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Hasil diskusi awal dibagikan secara tertulis untuk memperlihatkan kesiapan dan <mark class=\"study-highlight\">komitmen awal</mark> para pemangku kepentingan. Kegiatan pendahuluan tidak harus formal.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 11.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 11","difficulty":"HOTS • Analitis","question":"Langkah mempromosikan rasionalitas perumusan nilai dimaksudkan untuk menjelaskan ...","options":["Tata cara penilaian kinerja tiap pegawai","Kebutuhan anggaran kegiatan internalisasi","Alasan kebutuhan nilai dan dampaknya bagi kemajuan organisasi","Kewenangan tunggal pimpinan atas setiap nilai","Format baku dokumen yang disahkan organisasi"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 11","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 11</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Pimpinan perlu menjelaskan alasan perlunya nilai organisasi, proses pembentukan, dan dampaknya terhadap kemajuan organisasi. Ini membantu peserta memahami tujuan proses.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Halaman 11 meminta promosi <mark class=\"study-highlight\">rasionalitas</mark> perlunya nilai, proses perumusan, dan dampak pembentukannya pada kemajuan organisasi.</p><p>Jawaban yang sesuai adalah <strong>C. Alasan kebutuhan nilai dan dampaknya bagi kemajuan organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan tahapan persiapan perumusan nilai dengan fungsi nilai setelah disepakati dan digunakan.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Pimpinan perlu menjelaskan alasan perlunya nilai organisasi, proses pembentukan, dan dampaknya terhadap kemajuan organisasi. Ini membantu peserta memahami tujuan proses.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 11.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 11","difficulty":"HOTS • Analitis","question":"Dalam tahap awal pengembangan nilai, pimpinan perlu memastikan keterlibatan semua unit terutama agar ...","options":["Partisipasi pihak-pihak terkait mewarnai perumusan","Proses pembentukan dibatasi pada pejabat tertentu","Kesepakatan nilai dapat diganti instruksi lisan","Komunikasi antarpihak tidak memengaruhi keputusan","Nilai hanya diterapkan oleh unit pembentuknya"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 11","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 11</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Partisipasi semua unit</mark> penting dalam proses pengembangan nilai. Nilai yang disepakati bersama seharusnya didukung unsur organisasi yang akan menerapkannya.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p> pentingnya <mark class=\"study-highlight\">partisipasi semua unit</mark> yang <mark class=\"study-highlight\">terlibat</mark> pada pengembangan nilai organisasi.</p><p>Jawaban yang sesuai adalah <strong>A. Partisipasi pihak-pihak terkait mewarnai perumusan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan tahapan persiapan perumusan nilai dengan fungsi nilai setelah disepakati dan digunakan.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Partisipasi semua unit</mark> penting dalam proses pengembangan nilai. Nilai yang disepakati bersama seharusnya didukung unsur organisasi yang akan menerapkannya.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 11.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 11","difficulty":"HOTS • Analitis","question":"Salah satu kewajiban manajer sebelum perumusan nilai adalah meyakinkan para pihak agar ...","options":["Menyerahkan usulan tanpa menghadiri diskusi","Membatasi keterlibatan hanya tahap konsultasi","Mengikuti penilaian individu secara terpisah","Hadir dan terlibat dalam seluruh proses diskusi dan perumusan","Menunggu kesepakatan akhir sebelum ikut terlibat"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 11","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 11</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Salah satu persiapan pemimpin ialah memastikan peserta hadir dan benar-benar <mark class=\"study-highlight\">terlibat</mark> sepanjang diskusi serta perumusan. Kehadiran simbolis saja tidak cukup.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Halaman 11 menyebut keterlibatan dan kehadiran semua pihak selama diskusi hingga perumusan.</p><p>Jawaban yang sesuai adalah <strong>D. Hadir dan terlibat dalam seluruh proses diskusi dan perumusan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan tahapan persiapan perumusan nilai dengan fungsi nilai setelah disepakati dan digunakan.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Salah satu persiapan pemimpin ialah memastikan peserta hadir dan benar-benar <mark class=\"study-highlight\">terlibat</mark> sepanjang diskusi serta perumusan. Kehadiran simbolis saja tidak cukup.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 11.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 11","difficulty":"HOTS • Analitis","question":"Persiapan pemimpin terhadap pertanyaan dan umpan balik dimaksudkan untuk menjangkau proses ...","options":["Sesudah pembentukan struktur organisasi","Hanya saat sosialisasi program baru","Sebelum bahan diskusi dikirimkan","Sesudah seluruh nilai dianggap mapan","Pengembangan sampai perumusan nilai organisasi"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 11","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 11</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Pimpinan juga perlu menyiapkan jawaban atas pertanyaan dan <mark class=\"study-highlight\">umpan balik</mark> yang muncul selama pengembangan hingga perumusan. Masukan merupakan bagian dari proses.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Pimpinan diminta menyiapkan jawaban atas pertanyaan dan <mark class=\"study-highlight\">umpan balik</mark> selama proses pengembangan hingga perumusan.</p><p>Jawaban yang sesuai adalah <strong>E. Pengembangan sampai perumusan nilai organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan tahapan persiapan perumusan nilai dengan fungsi nilai setelah disepakati dan digunakan.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Pimpinan juga perlu menyiapkan jawaban atas pertanyaan dan <mark class=\"study-highlight\">umpan balik</mark> yang muncul selama pengembangan hingga perumusan. Masukan merupakan bagian dari proses.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 11.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 11","difficulty":"HOTS • Analitis","question":"Menurut halaman 11, fungsi utama nilai organisasi paling tepat adalah ...","options":["Menilai hanya performa pimpinan unit","Membimbing kegiatan pegawai, manajer, dan pimpinan di tempat kerja","Menggantikan target dan sasaran organisasi","Mengatur hanya komunikasi dengan pihak eksternal","Menyamakan semua proses bisnis antarunit"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 11","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 11</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Fungsi utama</mark> nilai menurut bagian ini adalah membimbing kegiatan pegawai, manajer, dan pimpinan di tempat kerja. Nilai menjadi <mark class=\"study-highlight\">pedoman</mark> lintas jenjang.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Fungsi utamanya membimbing kegiatan pegawai, manajer, serta pimpinan di tempat kerja.</p><p>Jawaban yang sesuai adalah <strong>B. Membimbing kegiatan pegawai, manajer, dan pimpinan di tempat kerja</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan tahapan persiapan perumusan nilai dengan fungsi nilai setelah disepakati dan digunakan.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Fungsi utama</mark> nilai menurut bagian ini adalah membimbing kegiatan pegawai, manajer, dan pimpinan di tempat kerja. Nilai menjadi <mark class=\"study-highlight\">pedoman</mark> lintas jenjang.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 11.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 11","difficulty":"HOTS • Analitis","question":"Ketika pegawai memutuskan suatu tindakan dengan merujuk nilai organisasi, peran nilai yang tampak ialah ...","options":["Pengganti pengukuran capaian organisasi","Tanda bahwa budaya tidak dapat berubah","Pedoman dalam berpikir, memutuskan, bersikap, dan bertindak","Penghapus kebutuhan pertanggungjawaban individu","Alat pembeda pegawai yang hanya bersifat simbolik"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 11","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 11</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Nilai mendasari cara <mark class=\"study-highlight\">berpikir</mark>, keputusan, sikap, dan tindakan. Fungsi itu tampak nyata ketika suatu pilihan dipertimbangkan dengan acuan bersama.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p> nilai sebagai <mark class=\"study-highlight\">pedoman</mark> <mark class=\"study-highlight\">berpikir</mark>, <mark class=\"study-highlight\">mengambil keputusan</mark>, bersikap, dan bertindak.</p><p>Jawaban yang sesuai adalah <strong>C. Pedoman dalam berpikir, memutuskan, bersikap, dan bertindak</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan tahapan persiapan perumusan nilai dengan fungsi nilai setelah disepakati dan digunakan.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Nilai mendasari cara <mark class=\"study-highlight\">berpikir</mark>, keputusan, sikap, dan tindakan. Fungsi itu tampak nyata ketika suatu pilihan dipertimbangkan dengan acuan bersama.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 11.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 11","difficulty":"HOTS • Analitis","question":"Seorang atasan menggunakan nilai untuk menentukan batas diperbolehkan atau tidaknya tindakan pegawai. Ini menunjukkan nilai sebagai ...","options":["Batasan boleh-tidak dan benar-salah bagi SDM","Pengganti seluruh standar operasional organisasi","Sarana untuk mengurangi kebutuhan pembinaan","Keputusan yang hanya berlaku di luar organisasi","Ukuran perubahan nilai berdasarkan masa jabatan"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 11","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 11</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Nilai menetapkan batas <mark class=\"study-highlight\">boleh/tidak boleh</mark> dan <mark class=\"study-highlight\">benar/salah</mark> bagi SDM. Batas tersebut merupakan fungsi pengarah, bukan sekadar aturan administratif.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Salah satu fungsi nilai adalah menjadi batasan boleh-tidak serta benar-salah bagi SDM terkait kegiatan organisasi.</p><p>Jawaban yang sesuai adalah <strong>A. Batasan boleh-tidak dan benar-salah bagi SDM</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan tahapan persiapan perumusan nilai dengan fungsi nilai setelah disepakati dan digunakan.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Nilai menetapkan batas <mark class=\"study-highlight\">boleh/tidak boleh</mark> dan <mark class=\"study-highlight\">benar/salah</mark> bagi SDM. Batas tersebut merupakan fungsi pengarah, bukan sekadar aturan administratif.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 11.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 11","difficulty":"HOTS • Analitis","question":"Perumpamaan nilai sebagai “bangunan rumah yang ditinggali bersama” menekankan ...","options":["Kesamaan kebutuhan sarana dan prasarana","Pengutamaan pemangku kepentingan internal saja","Struktur nilai yang tidak memengaruhi pihak luar","Keterlibatan pegawai, pemimpin, dan stakeholder terkait","Perbedaan tanggung jawab keuangan tiap unit"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 11","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 11</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Perumpamaan bangunan </mark>rumah menekankan bahwa seluruh anggota serta pemangku kepentingan berbagi landasan kehidupan organisasi. Nilai bukan milik satu unit saja.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Metafora rumah dalam uraian meliputi pegawai, manajer, pimpinan dan pemangku kepentingan luar yang berkaitan dengan perilaku organisasi.</p><p>Jawaban yang sesuai adalah <strong>D. Keterlibatan pegawai, pemimpin, dan stakeholder terkait</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan tahapan persiapan perumusan nilai dengan fungsi nilai setelah disepakati dan digunakan.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Perumpamaan bangunan rumah menekankan bahwa seluruh anggota serta pemangku kepentingan berbagi landasan kehidupan organisasi. Nilai bukan milik satu unit saja.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 11.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 11","difficulty":"HOTS • Analitis","question":"Dalam hubungan nilai dan budaya organisasi, fungsi nilai yang disebut secara tegas adalah ...","options":["Menentukan jumlah standar evaluasi","Menjamin tidak ada perbedaan pendapat","Menetapkan rincian jabatan pegawai","Mengurangi kebutuhan pengembangan budaya","Menjadi fondasi pembangunan budaya organisasi"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 11","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 11</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p> nilai merupakan <mark class=\"study-highlight\">fondasi pembangunan budaya</mark> organisasi. Budaya terbentuk melalui nilai yang benar-benar dihidupi bersama.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Halaman 11 menyebut nilai-nilai organisasi sebagai <mark class=\"study-highlight\">fondasi pembangunan budaya</mark> organisasi.</p><p>Jawaban yang sesuai adalah <strong>E. Menjadi fondasi pembangunan budaya organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan tahapan persiapan perumusan nilai dengan fungsi nilai setelah disepakati dan digunakan.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span> nilai merupakan <mark class=\"study-highlight\">fondasi pembangunan budaya</mark> organisasi. Budaya terbentuk melalui nilai yang benar-benar dihidupi bersama.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 11.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 12","difficulty":"HOTS • Analitis","question":"Istilah enduring belief yang dipakai dalam fungsi nilai organisasi merujuk pada ...","options":["Penilaian sementara atas sebuah kebijakan","Keyakinan abadi sebagai dasar cara bertindak atau tujuan akhir","Persetujuan jangka pendek setiap unit kerja","Ukuran kinerja yang disahkan setahun sekali","Standar teknis dari hasil perundingan antarunit"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 12","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 12</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Enduring belief</mark> adalah keyakinan yang bertahan sebagai landasan perilaku (<mark class=\"study-highlight\">mode of conduct</mark>) atau tujuan akhir (<mark class=\"study-highlight\">end state of existence</mark>). Kedua peran ini disebut dalam fungsi nilai.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Nilai</mark> semestinya menjadi <mark class=\"study-highlight\">enduring belief</mark> yang dipilih sebagai dasar <mark class=\"study-highlight\">mode of conduct</mark> atau end state of existence.</p><p>Jawaban yang sesuai adalah <strong>B. Keyakinan abadi sebagai dasar cara bertindak atau tujuan akhir</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan <mark class=\"study-highlight\">nilai</mark> yang dirumuskan, <mark class=\"study-highlight\">nilai</mark> yang dipraktikkan, serta standar untuk menilai perilaku dan <mark class=\"study-highlight\">kinerja</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Enduring belief</mark> adalah keyakinan yang bertahan sebagai landasan perilaku (<mark class=\"study-highlight\">mode of conduct</mark>) atau tujuan akhir (<mark class=\"study-highlight\">end state of existence</mark>). Kedua peran ini disebut dalam fungsi nilai.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 12.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 12","difficulty":"HOTS • Analitis","question":"Seorang pimpinan memakai nilai untuk menilai kinerja, memilih tindakan, dan menyusun argumentasi. Hal tersebut merupakan fungsi nilai sebagai ...","options":["Pengganti seluruh tata laksana kegiatan","Alat untuk menyamakan seluruh pegawai","Kriteria atau standar melakukan penilaian dan pilihan","Pengatur anggaran yang terpisah dari perilaku","Pernyataan identitas tanpa konsekuensi kerja"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 12","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 12</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Nilai</mark> dapat menjadi <mark class=\"study-highlight\">kriteria/standar</mark> untuk penilaian, pilihan, sikap, argumentasi, dan <mark class=\"study-highlight\">kinerja</mark>. Karena itu, nilai bisa digunakan sebagai tolok ukur keputusan dan evaluasi.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Dijelaskan <mark class=\"study-highlight\">nilai</mark> sebagai kriteria untuk penilaian, pilihan, sikap, argumentasi dan <mark class=\"study-highlight\">kinerja</mark>.</p><p>Jawaban yang sesuai adalah <strong>C. Kriteria atau standar melakukan penilaian dan pilihan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan <mark class=\"study-highlight\">nilai</mark> yang dirumuskan, <mark class=\"study-highlight\">nilai</mark> yang dipraktikkan, serta standar untuk menilai perilaku dan <mark class=\"study-highlight\">kinerja</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Nilai</mark> dapat menjadi <mark class=\"study-highlight\">kriteria/standar</mark> untuk penilaian, pilihan, sikap, argumentasi, dan <mark class=\"study-highlight\">kinerja</mark>. Karena itu, nilai bisa digunakan sebagai tolok ukur keputusan dan evaluasi.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 12.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 12","difficulty":"HOTS • Analitis","question":"Mengapa rumusan nilai yang telah disetujui belum cukup bagi organisasi?","options":["Nilai baru bermakna jika diterapkan dalam keseharian","Nilai harus diubah menjadi anggaran baru lebih dahulu","Nilai hanya perlu diketahui oleh para pemimpin","Nilai dapat diterapkan tanpa kebiasaan bersama","Nilai tidak boleh menjadi pedoman tindakan"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 12","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 12</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p> <mark class=\"study-highlight\">nilai</mark> yang telah dirumuskan tidak bermakna jika tidak diterapkan dalam kegiatan sehari-hari. Inilah kebutuhan mendasar <mark class=\"study-highlight\">internalisasi</mark>.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p> <mark class=\"study-highlight\">nilai</mark> yang dirumuskan tidak bermakna tanpa implementasi sehari-hari oleh stakeholder.</p><p>Jawaban yang sesuai adalah <strong>A. Nilai baru bermakna jika diterapkan dalam keseharian</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan <mark class=\"study-highlight\">nilai</mark> yang dirumuskan, <mark class=\"study-highlight\">nilai</mark> yang dipraktikkan, serta standar untuk menilai perilaku dan <mark class=\"study-highlight\">kinerja</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span> <mark class=\"study-highlight\">nilai</mark> yang telah dirumuskan tidak bermakna jika tidak diterapkan dalam kegiatan sehari-hari. Inilah kebutuhan mendasar <mark class=\"study-highlight\">internalisasi</mark>.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 12.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 12","difficulty":"HOTS • Analitis","question":"Dalam contoh internalisasi budaya “kerapian administrasi”, cakupan proses yang disajikan meliputi ...","options":["Hanya laporan keuangan dan agenda rapat","Dokumentasi pengaduan dan surat keputusan saja","Evaluasi pegawai tanpa administrasi barang","Surat-menyurat, keuangan, kepegawaian, dan keluar-masuk barang","Pengawasan kinerja pimpinan dan pendataan tamu saja"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 12","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 12</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Kerapian administrasi</mark> dicontohkan mulai dari surat-menyurat, keuangan, proses memperoleh pegawai, sampai alur keluar masuk barang. Kebiasaan tertib mendukung <mark class=\"study-highlight\">kinerja</mark>.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Contoh <mark class=\"study-highlight\">kerapian administrasi</mark> mencakup surat-menyurat, keuangan, memperoleh pegawai, dan proses barang.</p><p>Jawaban yang sesuai adalah <strong>D. Surat-menyurat, keuangan, kepegawaian, dan keluar-masuk barang</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan <mark class=\"study-highlight\">nilai</mark> yang dirumuskan, <mark class=\"study-highlight\">nilai</mark> yang dipraktikkan, serta standar untuk menilai perilaku dan <mark class=\"study-highlight\">kinerja</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Kerapian administrasi</mark> dicontohkan mulai dari surat-menyurat, keuangan, proses memperoleh pegawai, sampai alur keluar masuk barang. Kebiasaan tertib mendukung <mark class=\"study-highlight\">kinerja</mark>.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 12.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 12","difficulty":"HOTS • Analitis","question":"Dalam ilmu manajemen berdasarkan ketentuannya, pembagian wewenang yang jelas terutama memberi pegawai ...","options":["Kesempatan menyusun aturan tanpa koordinasi","Hak mengabaikan batas kegiatan rutin","Ruang menghindari pertanggungjawaban","Kebebasan penuh menentukan semua keputusan","Kejelasan tindakan serta batas yang boleh dan tidak boleh"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 12","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 12</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Pembagian wewenang</mark> yang jelas membantu pegawai mengetahui ruang tindakan dan batas yang boleh maupun tidak boleh dilakukan. Ini merupakan kunci tata kelola kerja.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Pembagian wewenang</mark> memberi kejelasan bertindak dan berperilaku serta batas boleh atau tidak.</p><p>Jawaban yang sesuai adalah <strong>E. Kejelasan tindakan serta batas yang boleh dan tidak boleh</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan <mark class=\"study-highlight\">nilai</mark> yang dirumuskan, <mark class=\"study-highlight\">nilai</mark> yang dipraktikkan, serta standar untuk menilai perilaku dan <mark class=\"study-highlight\">kinerja</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Pembagian wewenang</mark> yang jelas membantu pegawai mengetahui ruang tindakan dan batas yang boleh maupun tidak boleh dilakukan. Ini merupakan kunci tata kelola kerja.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 12.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 12","difficulty":"HOTS • Analitis","question":"Disiplin dalam ketepatan waktu dan ketaatan aturan berdasarkan ketentuannya dipandang sebagai ...","options":["Kebiasaan yang cukup dilakukan saat audit","Karakter prasyarat untuk mencapai keberhasilan","Tugas pelaksana administrasi saja","Kewajiban yang terpisah dari budaya organisasi","Sikap yang tidak relevan bagi organisasi modern"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 12","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 12</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Kedisiplinan waktu dan kepatuhan pada aturan disebut sebagai budaya yang semestinya melekat pada anggota organisasi.  <mark class=\"study-highlight\">disiplin</mark> sebagai prasyarat keberhasilan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Disiplin</mark> disebut budaya yang semestinya melekat dan karakter prasyarat sukses.</p><p>Jawaban yang sesuai adalah <strong>B. Karakter prasyarat untuk mencapai keberhasilan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan <mark class=\"study-highlight\">nilai</mark> yang dirumuskan, <mark class=\"study-highlight\">nilai</mark> yang dipraktikkan, serta standar untuk menilai perilaku dan <mark class=\"study-highlight\">kinerja</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Kedisiplinan waktu dan kepatuhan pada aturan disebut sebagai budaya yang semestinya melekat pada anggota organisasi.  <mark class=\"study-highlight\">disiplin</mark> sebagai prasyarat keberhasilan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 12.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 12","difficulty":"HOTS • Analitis","question":"Tujuan inovasi dalam mengelola budaya organisasi yang disebut pada halaman 12 adalah ...","options":["Membatasi perubahan agar struktur tetap stabil","Memusatkan ide kepada sebagian kecil pimpinan","Mendorong ide kreatif dan inovasi baru anggota tim","Mengganti perencanaan dengan improvisasi","Memisahkan upaya budaya dari tujuan organisasi"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 12","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 12</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Inovasi</mark> budaya mendorong tim menghasilkan gagasan kreatif untuk kemajuan organisasi. Kebiasaan belajar dan memperbaiki cara kerja lebih berguna daripada rutinitas tanpa pembaruan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Inovasi</mark> budaya semestinya memicu tim menghasilkan ide kreatif demi kemajuan organisasi.</p><p>Jawaban yang sesuai adalah <strong>C. Mendorong ide kreatif dan inovasi baru anggota tim</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan <mark class=\"study-highlight\">nilai</mark> yang dirumuskan, <mark class=\"study-highlight\">nilai</mark> yang dipraktikkan, serta standar untuk menilai perilaku dan <mark class=\"study-highlight\">kinerja</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Inovasi</mark> budaya mendorong tim menghasilkan gagasan kreatif untuk kemajuan organisasi. Kebiasaan belajar dan memperbaiki cara kerja lebih berguna daripada rutinitas tanpa pembaruan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 12.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 12","difficulty":"HOTS • Analitis","question":"Rangkaian prinsip manajemen yang disebut untuk mendukung internalisasi nilai adalah ...","options":["Perencanaan, pengorganisasian, pelaksanaan, pengendalian","Penganggaran, pengadaan, pelaporan, pemutakhiran","Konsultasi, sosialisasi, supervisi, promosi","Rekrutmen, pelatihan, pemindahan, pemberhentian","Komunikasi, koordinasi, dokumentasi, pengarsipan"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 12","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 12</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p> pengelolaan organisasi dengan <mark class=\"study-highlight\">perencanaan, pengorganisasian, pelaksanaan, dan pengendalian</mark>. Keempatnya perlu bekerja bersama saat <mark class=\"study-highlight\">nilai</mark> diterapkan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Disebutkan prinsip manajemen mulai perencanaan, pengorganisasian, pelaksanaan kegiatan, hingga pengendalian.</p><p>Jawaban yang sesuai adalah <strong>A. Perencanaan, pengorganisasian, pelaksanaan, pengendalian</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan <mark class=\"study-highlight\">nilai</mark> yang dirumuskan, <mark class=\"study-highlight\">nilai</mark> yang dipraktikkan, serta standar untuk menilai perilaku dan <mark class=\"study-highlight\">kinerja</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span> pengelolaan organisasi dengan <mark class=\"study-highlight\">perencanaan, pengorganisasian, pelaksanaan, dan pengendalian</mark>. Keempatnya perlu bekerja bersama saat <mark class=\"study-highlight\">nilai</mark> diterapkan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 12.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 12","difficulty":"HOTS • Analitis","question":"Perbedaan “mode of conduct” dan “end state of existence” dalam penjelasan nilai ialah ...","options":["Cara pengawasan dan metode penganggaran","Budaya individu dan budaya kelompok","Persepsi pimpinan dan persepsi pelanggan","Dasar cara melakukan kegiatan dan tujuan akhir tindakan","Keputusan terdahulu dan keputusan yang akan datang"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 12","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 12</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Mode of conduct</mark> mengacu pada dasar melakukan suatu kegiatan, sedangkan <mark class=\"study-highlight\">end state of existence</mark> mengacu pada tujuan akhir tindakan. Keduanya menjadi arah <mark class=\"study-highlight\">nilai</mark>.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Mode of conduct</mark> berkaitan cara berperilaku atau kegiatan; <mark class=\"study-highlight\">end state of existence</mark> berkaitan tujuan akhir tindakan.</p><p>Jawaban yang sesuai adalah <strong>D. Dasar cara melakukan kegiatan dan tujuan akhir tindakan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan <mark class=\"study-highlight\">nilai</mark> yang dirumuskan, <mark class=\"study-highlight\">nilai</mark> yang dipraktikkan, serta standar untuk menilai perilaku dan <mark class=\"study-highlight\">kinerja</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Mode of conduct</mark> mengacu pada dasar melakukan suatu kegiatan, sedangkan <mark class=\"study-highlight\">end state of existence</mark> mengacu pada tujuan akhir tindakan. Keduanya menjadi arah <mark class=\"study-highlight\">nilai</mark>.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 12.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 12","difficulty":"HOTS • Analitis","question":"Seorang pegawai dinilai dari pilihan, argumentasi, dan hasil kinerjanya berdasarkan nilai yang sama. Yang menjadi unsur pemersatu dari penilaian tersebut ialah ...","options":["Sistem absensi sebagai satu-satunya ukuran","Jumlah laporan yang dihasilkan tiap bulan","Komitmen pimpinan yang bersifat informal","Anggaran kegiatan yang dialokasikan khusus","Nilai sebagai kriteria dan standar bersama"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 12","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 12</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Nilai</mark> sebagai standar dapat dipakai secara konsisten untuk menilai keputusan, argumentasi, dan <mark class=\"study-highlight\">kinerja</mark>. Ini menjelaskan mengapa <mark class=\"study-highlight\">nilai</mark> relevan dalam evaluasi pegawai.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Nilai</mark> berfungsi sebagai standar dan kriteria tindakan dan penilaian termasuk performance.</p><p>Jawaban yang sesuai adalah <strong>E. Nilai sebagai kriteria dan standar bersama</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Bedakan <mark class=\"study-highlight\">nilai</mark> yang dirumuskan, <mark class=\"study-highlight\">nilai</mark> yang dipraktikkan, serta standar untuk menilai perilaku dan <mark class=\"study-highlight\">kinerja</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Nilai</mark> sebagai standar dapat dipakai secara konsisten untuk menilai keputusan, argumentasi, dan <mark class=\"study-highlight\">kinerja</mark>. Ini menjelaskan mengapa <mark class=\"study-highlight\">nilai</mark> relevan dalam evaluasi pegawai.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 12.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 13","difficulty":"HOTS • Analitis","question":"Internalisasi nilai menurut halaman 13 sebaiknya berlangsung secara ...","options":["Sporadis, fleksibel, dan hanya saat evaluasi","Masif, terstruktur, dan kontinu","Terpusat, tertutup, dan berbatas waktu","Insidental, individual, dan tidak tertulis","Berjenjang tanpa melibatkan unit operasional"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 13","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 13</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p> <mark class=\"study-highlight\">internalisasi</mark> yang <mark class=\"study-highlight\">masif, terstruktur, dan kontinu</mark> selama organisasi hidup dan berkembang. Upaya sesaat tidak menjamin nilai menjadi kebiasaan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p> <mark class=\"study-highlight\">internalisasi</mark> secara <mark class=\"study-highlight\">masif</mark>, <mark class=\"study-highlight\">terstruktur</mark> dan kontinu sepanjang organisasi hidup dan berkembang.</p><p>Jawaban yang sesuai adalah <strong>B. Masif, terstruktur, dan kontinu</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Kunci membedakan nilai dari budaya adalah penerapan yang konsisten dan berulang oleh warga organisasi.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span> <mark class=\"study-highlight\">internalisasi</mark> yang <mark class=\"study-highlight\">masif, terstruktur, dan kontinu</mark> selama organisasi hidup dan berkembang. Upaya sesaat tidak menjamin nilai menjadi kebiasaan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 13.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 13","difficulty":"HOTS • Analitis","question":"Menurut uraian riset dalam uraian, dua dampak positif budaya organisasi yang dibahas adalah ...","options":["Pertumbuhan aset dan perluasan jumlah unit","Kepatuhan formal dan pengurangan jumlah keputusan","Kinerja organisasi dan kepuasan kerja pegawai","Jumlah aturan dan lama masa kerja pimpinan","Kebutuhan anggaran dan tingkat pengadaan pegawai"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 13","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 13</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p> pengaruh <mark class=\"study-highlight\">budaya organisasi</mark> pada peningkatan <mark class=\"study-highlight\">kinerja organisasi</mark> dan <mark class=\"study-highlight\">kepuasan kerja</mark> pegawai. Keduanya menjadi alasan praktis pentingnya internalisasi.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Budaya organisasi</mark> berpengaruh positif pada <mark class=\"study-highlight\">kinerja organisasi</mark> dan <mark class=\"study-highlight\">kepuasan kerja</mark> pegawai.</p><p>Jawaban yang sesuai adalah <strong>C. Kinerja organisasi dan kepuasan kerja pegawai</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Kunci membedakan nilai dari budaya adalah penerapan yang konsisten dan berulang oleh warga organisasi.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span> pengaruh <mark class=\"study-highlight\">budaya organisasi</mark> pada peningkatan <mark class=\"study-highlight\">kinerja organisasi</mark> dan <mark class=\"study-highlight\">kepuasan kerja</mark> pegawai. Keduanya menjadi alasan praktis pentingnya internalisasi.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 13.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 13","difficulty":"HOTS • Analitis","question":"Dalam definisi sederhana, budaya organisasi tersusun dari gabungan ...","options":["Nilai, kode etik, visi-misi, dan tujuan organisasi","Prosedur anggaran, struktur eselon, dan fasilitas","Tanggung jawab formal unit dan durasi kegiatan","Bentuk penghargaan, jenis hukuman, serta insentif","Administrasi kantor, absensi, dan penilaian hasil"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 13","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 13</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Secara sederhana, <mark class=\"study-highlight\">budaya organisasi</mark> merupakan gabungan nilai, kode etik, visi, misi, dan tujuan. Keseluruhan unsur itu membentuk <mark class=\"study-highlight\">identitas</mark> dan suasana kerja.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Disebutkan gabungan nilai, kode etik, visi dan misi hingga tujuan organisasi.</p><p>Jawaban yang sesuai adalah <strong>A. Nilai, kode etik, visi-misi, dan tujuan organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Kunci membedakan nilai dari budaya adalah penerapan yang konsisten dan berulang oleh warga organisasi.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Secara sederhana, <mark class=\"study-highlight\">budaya organisasi</mark> merupakan gabungan nilai, kode etik, visi, misi, dan tujuan. Keseluruhan unsur itu membentuk <mark class=\"study-highlight\">identitas</mark> dan suasana kerja.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 13.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 13","difficulty":"HOTS • Analitis","question":"Menurut Moeljono Djokosantoso, budaya organisasi paling tepat dipahami sebagai ...","options":["Rangkaian prosedur yang memisahkan unit kerja","Standar penilaian tanpa pengaruh terhadap pegawai","Sistem penghargaan yang diterapkan oleh pimpinan","Nilai dominan yang disebarluaskan sebagai filosofi kerja","Peraturan tertulis yang hanya dijalankan saat audit"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 13","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 13</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Moeljono Djokosantoso</mark> mendefinisikan <mark class=\"study-highlight\">budaya organisasi</mark> sebagai <mark class=\"study-highlight\">nilai dominan</mark> yang disebarluaskan dan dijadikan acuan atau filosofi kerja pegawai.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Moeljono menyebut <mark class=\"study-highlight\">nilai dominan</mark> yang disebarluaskan dalam organisasi dan digunakan sebagai acuan atau <mark class=\"study-highlight\">filosofi kerja</mark> pegawai.</p><p>Jawaban yang sesuai adalah <strong>D. Nilai dominan yang disebarluaskan sebagai filosofi kerja</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Kunci membedakan nilai dari budaya adalah penerapan yang konsisten dan berulang oleh warga organisasi.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Moeljono Djokosantoso</mark> mendefinisikan <mark class=\"study-highlight\">budaya organisasi</mark> sebagai <mark class=\"study-highlight\">nilai dominan</mark> yang disebarluaskan dan dijadikan acuan atau filosofi kerja pegawai.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 13.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 13","difficulty":"HOTS • Analitis","question":"Apabila organisasi memiliki kesepakatan nilai yang diterapkan terus-menerus, akibat yang dinyatakan dalam uraian adalah ...","options":["Pemangku kepentingan kehilangan peran","Keputusan cukup ditentukan oleh unit SDM","Nilai berubah menjadi kewajiban satu jabatan","Budaya organisasi berhenti berkembang","Komitmen nilai bersama membentuk budaya organisasi"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 13","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 13</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Jika nilai disepakati lalu diterapkan <mark class=\"study-highlight\">masif</mark> dan terus-menerus, <mark class=\"study-highlight\">komitmen bersama</mark> berkembang menjadi <mark class=\"study-highlight\">budaya organisasi</mark>. Pembentukan budaya memerlukan praktik berulang.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Internalisasi</mark> dari <mark class=\"study-highlight\">komitmen bersama</mark> pada akhirnya membentuk <mark class=\"study-highlight\">budaya organisasi</mark>.</p><p>Jawaban yang sesuai adalah <strong>E. Komitmen nilai bersama membentuk budaya organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Kunci membedakan nilai dari budaya adalah penerapan yang konsisten dan berulang oleh warga organisasi.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Jika nilai disepakati lalu diterapkan <mark class=\"study-highlight\">masif</mark> dan terus-menerus, <mark class=\"study-highlight\">komitmen bersama</mark> berkembang menjadi <mark class=\"study-highlight\">budaya organisasi</mark>. Pembentukan budaya memerlukan praktik berulang.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 13.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 13","difficulty":"HOTS • Analitis","question":"Budaya organisasi berfungsi sebagai identitas antara lain karena ...","options":["Seluruh pegawai bekerja dengan prosedur identik","Membentuk atmosfer dan petunjuk perilaku saat bekerja","Menyamakan seluruh visi setiap individu","Membatasi tanggung jawab pada kelompok manajer","Meniadakan perbedaan kebiasaan antarsatuan kerja"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 13","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 13</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Budaya disebut <mark class=\"study-highlight\">identitas</mark> organisasi karena membentuk <mark class=\"study-highlight\">atmosfer</mark> dan menunjukkan bagaimana orang semestinya berperilaku ketika bekerja.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Budaya membentuk <mark class=\"study-highlight\">atmosfer</mark> organisasi dan menjadi petunjuk cara pegawai bertindak saat bekerja.</p><p>Jawaban yang sesuai adalah <strong>B. Membentuk atmosfer dan petunjuk perilaku saat bekerja</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Kunci membedakan nilai dari budaya adalah penerapan yang konsisten dan berulang oleh warga organisasi.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Budaya disebut <mark class=\"study-highlight\">identitas</mark> organisasi karena membentuk <mark class=\"study-highlight\">atmosfer</mark> dan menunjukkan bagaimana orang semestinya berperilaku ketika bekerja.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 13.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 13","difficulty":"HOTS • Analitis","question":"Menurut penjelasan mengenai Moeljono, budaya membantu SDM menghadapi persoalan ...","options":["Keuangan atau administrasi negara saja","Yang hanya berasal dari pihak eksternal","Internal dan eksternal organisasi","Yang sudah diatur seluruhnya oleh anggaran","Yang hanya muncul dalam evaluasi personal"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 13","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 13</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Menurut uraian </mark>Moeljono, budaya membimbing SDM menghadapi persoalan internal dan eksternal. Nilai bersama menjadi rujukan ketika harus menyesuaikan diri.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Budaya menjadi pedoman menghadapi persoalan internal dan eksternal serta usaha penyesuaian integrasi.</p><p>Jawaban yang sesuai adalah <strong>C. Internal dan eksternal organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Kunci membedakan nilai dari budaya adalah penerapan yang konsisten dan berulang oleh warga organisasi.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Menurut uraian Moeljono, budaya membimbing SDM menghadapi persoalan internal dan eksternal. Nilai bersama menjadi rujukan ketika harus menyesuaikan diri.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 13.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 13","difficulty":"HOTS • Analitis","question":"Ketika pegawai berusaha menghayati kesepakatan nilai bersama, tujuan utamanya berdasarkan ketentuannya adalah ...","options":["Membimbing tindakan dan perilaku anggota","Meniadakan kebutuhan koordinasi antarpihak","Memusatkan wewenang di tangan satu pejabat","Menggantikan penilaian kinerja resmi","Menghilangkan seluruh perbedaan individu"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 13","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 13</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Pegawai perlu memahami dan menghayati kesepakatan nilai untuk membimbing tindakannya. Pemahaman tanpa pelaksanaan belum merupakan <mark class=\"study-highlight\">internalisasi</mark> lengkap.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Penghayatan nilai bersama memandu anggota organisasi bertindak atau berperilaku.</p><p>Jawaban yang sesuai adalah <strong>A. Membimbing tindakan dan perilaku anggota</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Kunci membedakan nilai dari budaya adalah penerapan yang konsisten dan berulang oleh warga organisasi.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Pegawai perlu memahami dan menghayati kesepakatan nilai untuk membimbing tindakannya. Pemahaman tanpa pelaksanaan belum merupakan <mark class=\"study-highlight\">internalisasi</mark> lengkap.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 13.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 13","difficulty":"HOTS • Analitis","question":"Pernyataan “nilai sebagai pajangan” pada halaman 13 dipakai untuk mengkritik keadaan ketika ...","options":["Pegawai diberi kesempatan menyampaikan masukan","Organisasi punya tujuan yang terukur","Nilai dicantumkan dalam media sosialisasi","Nilai disepakati tetapi tidak diaplikasikan sehari-hari","Pimpinan mengevaluasi penerapan budaya secara rutin"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 13","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 13</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Ungkapan nilai </mark>sebagai pajangan mengkritik rumusan yang tidak pernah diterapkan.  penerapan nyata dalam kehidupan organisasi sehari-hari.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Ungkapan nilai tidak hanya pajangan digunakan untuk menegaskan implementasi nyata sebagai keharusan.</p><p>Jawaban yang sesuai adalah <strong>D. Nilai disepakati tetapi tidak diaplikasikan sehari-hari</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Kunci membedakan nilai dari budaya adalah penerapan yang konsisten dan berulang oleh warga organisasi.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Ungkapan nilai sebagai pajangan mengkritik rumusan yang tidak pernah diterapkan.  penerapan nyata dalam kehidupan organisasi sehari-hari.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 13.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 13","difficulty":"HOTS • Analitis","question":"Kondisi yang paling mendukung nilai menjadi budaya menurut halaman 13 ialah ...","options":["Nilai digunakan hanya sebagai kriteria rekrutmen","Penerapan dibatasi pada masa awal organisasi","Nilai dikomunikasikan hanya di tingkat pimpinan","Evaluasi dilakukan tanpa kebiasaan perilaku","Implementasi nilai berulang oleh seluruh SDM organisasi"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 13","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 13</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Syarat penting nilai menjadi budaya ialah penerapan konsisten, luas, dan berkelanjutan. Konsensus perlu diikuti perilaku yang berulang.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Budaya muncul apabila nilai diimplementasikan <mark class=\"study-highlight\">masif</mark> dan terus menerus oleh SDM organisasi.</p><p>Jawaban yang sesuai adalah <strong>E. Implementasi nilai berulang oleh seluruh SDM organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Kunci membedakan nilai dari budaya adalah penerapan yang konsisten dan berulang oleh warga organisasi.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Syarat penting nilai menjadi budaya ialah penerapan konsisten, luas, dan berkelanjutan. Konsensus perlu diikuti perilaku yang berulang.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 13.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 14","difficulty":"HOTS • Analitis","question":"Dalam pandangan Stephen P. Robbins, budaya organisasi merupakan ...","options":["Perangkat sasaran keuangan dalam organisasi","Sistem makna bersama pembeda suatu organisasi","Pola perintah formal di antara jenjang pimpinan","Jaringan kegiatan eksternal sebuah organisasi","Standar penilaian target individu tiap pegawai"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 14","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 14</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Robbins mendefinisikan budaya organisasi sebagai <mark class=\"study-highlight\">sistem makna bersama</mark> yang dianut anggota dan membedakan satu organisasi dari organisasi lain.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Robbins mendefinisikannya sebagai <mark class=\"study-highlight\">sistem makna bersama</mark> yang dianut anggota, membedakan organisasi satu dari lainnya.</p><p>Jawaban yang sesuai adalah <strong>B. Sistem makna bersama pembeda suatu organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pilih berdasarkan objek yang dinilai: risiko, detail, hasil, dampak pada orang, kerja tim, atau <mark class=\"study-highlight\">stabilitas</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Robbins mendefinisikan budaya organisasi sebagai <mark class=\"study-highlight\">sistem makna bersama</mark> yang dianut anggota dan membedakan satu organisasi dari organisasi lain.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 14.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 14","difficulty":"HOTS • Analitis","question":"Organisasi mendorong eksperimen layanan baru dan menghargai pegawai yang berani mengambil risiko terukur. Karakteristik Robbins yang paling tepat adalah ...","options":["Attention to detail","Outcome orientation","Innovation and risk taking","Team orientation","Stability"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 14","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 14</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Innovation and risk taking</mark> menilai dorongan organisasi agar pegawai berinovasi dan mengambil risiko. Fokusnya keberanian mencoba serta penghargaan terhadap gagasan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Inovasi dan keberanian mengambil risiko menilai dorongan bersikap inovatif dan penghargaan atas pengambilan risiko.</p><p>Jawaban yang sesuai adalah <strong>C. Innovation and risk taking</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pilih berdasarkan objek yang dinilai: risiko, detail, hasil, dampak pada orang, kerja tim, atau <mark class=\"study-highlight\">stabilitas</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Innovation and risk taking</mark> menilai dorongan organisasi agar pegawai berinovasi dan mengambil risiko. Fokusnya keberanian mencoba serta penghargaan terhadap gagasan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 14.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 14","difficulty":"HOTS • Analitis","question":"Pimpinan menuntut ketelitian telaah dokumen dan analisis rincian transaksi. Aspek budaya Robbins yang ditonjolkan adalah ...","options":["Attention to detail","People orientation","Team orientation","Stability","Outcome orientation"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 14","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 14</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Attention to detail</mark> menilai <mark class=\"study-highlight\">ketelitian</mark>, analisis, kecermatan, dan perhatian pada rincian. Aspek ini berbeda dengan sekadar capaian akhir.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Attention to detail</mark> berhubungan dengan kecermatan, analisis, <mark class=\"study-highlight\">ketelitian</mark>, dan perhatian pada hal rinci.</p><p>Jawaban yang sesuai adalah <strong>A. Attention to detail</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pilih berdasarkan objek yang dinilai: risiko, detail, hasil, dampak pada orang, kerja tim, atau <mark class=\"study-highlight\">stabilitas</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Attention to detail</mark> menilai <mark class=\"study-highlight\">ketelitian</mark>, analisis, kecermatan, dan perhatian pada rincian. Aspek ini berbeda dengan sekadar capaian akhir.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 14.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 14","difficulty":"HOTS • Analitis","question":"Dalam pembahasan Robbins, pimpinan lebih menilai capaian akhir ketimbang teknik atau proses yang digunakan. Karakteristik itu adalah ...","options":["Stability","People orientation","Innovation and risk taking","Outcome orientation","Team orientation"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 14","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 14</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Outcome orientation</mark> menekankan seberapa kuat manajemen memusatkan perhatian pada hasil dibanding teknik dan proses pencapaian.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Outcome orientation</mark> memusatkan perhatian manajemen pada hasil dibanding teknik dan proses pencapaiannya.</p><p>Jawaban yang sesuai adalah <strong>D. Outcome orientation</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pilih berdasarkan objek yang dinilai: risiko, detail, hasil, dampak pada orang, kerja tim, atau <mark class=\"study-highlight\">stabilitas</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Outcome orientation</mark> menekankan seberapa kuat manajemen memusatkan perhatian pada hasil dibanding teknik dan proses pencapaian.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 14.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 14","difficulty":"HOTS • Analitis","question":"Sebelum memilih kebijakan, manajemen menelaah konsekuensinya bagi orang-orang yang terdampak. Karakteristik Robbins yang relevan adalah ...","options":["Stability","Team orientation","Attention to detail","Outcome orientation","People orientation"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 14","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 14</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">People orientation</mark> mengukur sejauh mana manajemen memperhitungkan akibat keputusan terhadap orang-orang yang terlibat.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">People orientation</mark> menyangkut perhatian terhadap dampak keputusan dan hasil bagi orang yang terlibat.</p><p>Jawaban yang sesuai adalah <strong>E. People orientation</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pilih berdasarkan objek yang dinilai: risiko, detail, hasil, dampak pada orang, kerja tim, atau <mark class=\"study-highlight\">stabilitas</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">People orientation</mark> mengukur sejauh mana manajemen memperhitungkan akibat keputusan terhadap orang-orang yang terlibat.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 14.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 14","difficulty":"HOTS • Analitis","question":"Organisasi mengelola pekerjaan berdasarkan kelompok kerja alih-alih kontribusi terpisah tiap individu. Hal itu merupakan ...","options":["Outcome orientation","Team orientation","Stability","Attention to detail","Innovation and risk taking"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 14","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 14</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Team orientation</mark> melihat apakah aktivitas kerja diatur berdasarkan tim, bukan semata individu. Fokusnya pola pengorganisasian pekerjaan kolektif.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Team orientation</mark> menekankan pekerjaan dikelola berdasarkan <mark class=\"study-highlight\">tim kerja</mark>, bukan individu semata.</p><p>Jawaban yang sesuai adalah <strong>B. Team orientation</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pilih berdasarkan objek yang dinilai: risiko, detail, hasil, dampak pada orang, kerja tim, atau <mark class=\"study-highlight\">stabilitas</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Team orientation</mark> melihat apakah aktivitas kerja diatur berdasarkan tim, bukan semata individu. Fokusnya pola pengorganisasian pekerjaan kolektif.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 14.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 14","difficulty":"HOTS • Analitis","question":"Pimpinan memilih mempertahankan kondisi organisasi agar stabil dibanding tumbuh dengan risiko tinggi. Hal itu merupakan aspek ...","options":["Team orientation","People orientation","Stability","Outcome orientation","Attention to detail"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 14","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 14</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Stability</mark> menilai penekanan pada mempertahankan keadaan dibanding pertumbuhan dengan pengambilan risiko. Ini adalah salah satu karakteristik budaya yang disebut materi.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Stability</mark> dalam uraian menilai penekanan organisasi pada <mark class=\"study-highlight\">stabilitas</mark> dibanding pertumbuhan dengan mengambil risiko.</p><p>Jawaban yang sesuai adalah <strong>C. Stability</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pilih berdasarkan objek yang dinilai: risiko, detail, hasil, dampak pada orang, kerja tim, atau <mark class=\"study-highlight\">stabilitas</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Stability</mark> menilai penekanan pada mempertahankan keadaan dibanding pertumbuhan dengan pengambilan risiko. Ini adalah salah satu karakteristik budaya yang disebut materi.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 14.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 14","difficulty":"HOTS • Analitis","question":"Pembedaan karakteristik “outcome orientation” dan “attention to detail” yang benar adalah ...","options":["Hasil akhir versus ketelitian dan kecermatan","Kepemimpinan individu versus kepemimpinan kolektif","Lingkungan internal versus lingkungan eksternal","Perbaikan layanan versus pengembangan karier","Stabilitas organisasi versus risiko kinerja"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 14","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 14</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Outcome orientation</mark> menyoroti hasil, sedangkan <mark class=\"study-highlight\">attention to detail</mark> menyoroti <mark class=\"study-highlight\">ketelitian</mark> dan rincian. Keduanya berbeda sumbu pengamatan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Outcome orientation</mark> berfokus hasil; <mark class=\"study-highlight\">attention to detail</mark> berfokus <mark class=\"study-highlight\">ketelitian</mark>, analisis, dan rincian.</p><p>Jawaban yang sesuai adalah <strong>A. Hasil akhir versus ketelitian dan kecermatan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pilih berdasarkan objek yang dinilai: risiko, detail, hasil, dampak pada orang, kerja tim, atau <mark class=\"study-highlight\">stabilitas</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Outcome orientation</mark> menyoroti hasil, sedangkan <mark class=\"study-highlight\">attention to detail</mark> menyoroti <mark class=\"study-highlight\">ketelitian</mark> dan rincian. Keduanya berbeda sumbu pengamatan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 14.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 14","difficulty":"HOTS • Analitis","question":"Ketika efektivitas tim merupakan ukuran bagaimana pekerjaan dikelola, dan kesejahteraan orang menjadi pertimbangan dampak keputusan, pasangan aspek yang dimaksud adalah ...","options":["Stability dan attention to detail","Outcome orientation dan stability","Innovation and risk taking dan outcome orientation","Team orientation dan people orientation","People orientation dan innovation and risk taking"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 14","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 14</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Team orientation</mark> membahas penataan pekerjaan secara kolektif; <mark class=\"study-highlight\">people orientation</mark> membahas akibat keputusan terhadap manusia. Nama keduanya mirip, tetapi fokusnya berbeda.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Organisasi pekerjaan berbasis tim adalah <mark class=\"study-highlight\">team orientation</mark>; efek pada orang adalah <mark class=\"study-highlight\">people orientation</mark>.</p><p>Jawaban yang sesuai adalah <strong>D. Team orientation dan people orientation</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pilih berdasarkan objek yang dinilai: risiko, detail, hasil, dampak pada orang, kerja tim, atau <mark class=\"study-highlight\">stabilitas</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Team orientation</mark> membahas penataan pekerjaan secara kolektif; <mark class=\"study-highlight\">people orientation</mark> membahas akibat keputusan terhadap manusia. Nama keduanya mirip, tetapi fokusnya berbeda.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 14.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 14","difficulty":"HOTS • Analitis","question":"Dalam analogi sistem makna bersama oleh Robbins, apa yang benar-benar membedakan sebuah organisasi dari organisasi lain?","options":["Tingkat penggunaan anggaran untuk fasilitas","Luas bangunan dan jumlah peralatan kerja","Jumlah rapat pembinaan pegawai tahunan","Jumlah aplikasi yang digunakan antarunit","Seperangkat karakter kunci yang disepakati anggota"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 14","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 14</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Sistem makna bersama</mark> menurut Robbins terdiri atas <mark class=\"study-highlight\">karakter kunci</mark> yang disepakati anggota. Makna yang dihayati bersama itulah pembeda organisasi.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Sistem makna bersama</mark> mencakup <mark class=\"study-highlight\">karakter kunci</mark> yang disepakati seluruh stakeholder dan membedakan organisasi.</p><p>Jawaban yang sesuai adalah <strong>E. Seperangkat karakter kunci yang disepakati anggota</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pilih berdasarkan objek yang dinilai: risiko, detail, hasil, dampak pada orang, kerja tim, atau <mark class=\"study-highlight\">stabilitas</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Sistem makna bersama</mark> menurut Robbins terdiri atas <mark class=\"study-highlight\">karakter kunci</mark> yang disepakati anggota. Makna yang dihayati bersama itulah pembeda organisasi.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 14.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 15","difficulty":"HOTS • Analitis","question":"Peran budaya dalam memahami situasi organisasi terutama membantu pimpinan untuk ...","options":["Membandingkan struktur fisik kantor antarunit","Membaca perilaku pegawai dan memilih strategi yang sesuai","Mengurangi intensitas kolaborasi dalam pengambilan keputusan","Menyeragamkan kebiasaan pribadi seluruh pegawai","Membatasi komunikasi kepada pegawai tertentu"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 15","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 15</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Pemahaman budaya membantu pimpinan membaca situasi, <mark class=\"study-highlight\">karakter pegawai</mark>, dan cara mereka menyelesaikan masalah sebelum menetapkan <mark class=\"study-highlight\">strategi</mark>.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Budaya membuat kita dapat membaca situasi, karakteristik pegawai, dan cara mereka menyelesaikan masalah sehingga <mark class=\"study-highlight\">strategi</mark> lebih tepat.</p><p>Jawaban yang sesuai adalah <strong>B. Membaca perilaku pegawai dan memilih strategi yang sesuai</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Hubungkan budaya dengan pemahaman situasi, pemilihan <mark class=\"study-highlight\">strategi</mark>, keterlibatan pegawai, <mark class=\"study-highlight\">kolaborasi</mark>, dan daya tarik <mark class=\"study-highlight\">talenta</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Pemahaman budaya membantu pimpinan membaca situasi, <mark class=\"study-highlight\">karakter pegawai</mark>, dan cara mereka menyelesaikan masalah sebelum menetapkan <mark class=\"study-highlight\">strategi</mark>.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 15.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 15","difficulty":"HOTS • Analitis","question":"Menurut halaman 15, keterlibatan banyak pihak dalam merumuskan strategi mendorong kolaborasi karena muncul ...","options":["Pengawasan tambahan setiap pelaksana","Pembakuan keputusan berdasarkan senioritas","Rasa memiliki karena dilibatkan dalam pengambilan keputusan","Kecenderungan menghindari perubahan proses","Pemisahan peran antara unit internal dan eksternal"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 15","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 15</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Pelibatan banyak pihak dalam <mark class=\"study-highlight\">strategi</mark> mendukung <mark class=\"study-highlight\">sense of belonging</mark> atau <mark class=\"study-highlight\">rasa memiliki</mark>. Dengan rasa dilibatkan, pihak-pihak itu lebih mampu berkolaborasi dan berinovasi.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Keterlibatan menumbuhkan <mark class=\"study-highlight\">sense of belonging</mark> yang membantu <mark class=\"study-highlight\">kolaborasi</mark> dan <mark class=\"study-highlight\">inovasi</mark>.</p><p>Jawaban yang sesuai adalah <strong>C. Rasa memiliki karena dilibatkan dalam pengambilan keputusan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Hubungkan budaya dengan pemahaman situasi, pemilihan <mark class=\"study-highlight\">strategi</mark>, keterlibatan pegawai, <mark class=\"study-highlight\">kolaborasi</mark>, dan daya tarik <mark class=\"study-highlight\">talenta</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Pelibatan banyak pihak dalam <mark class=\"study-highlight\">strategi</mark> mendukung <mark class=\"study-highlight\">sense of belonging</mark> atau <mark class=\"study-highlight\">rasa memiliki</mark>. Dengan rasa dilibatkan, pihak-pihak itu lebih mampu berkolaborasi dan berinovasi.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 15.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 15","difficulty":"HOTS • Analitis","question":"Pada kondisi budaya organisasi yang baik, dampak terhadap kerja sama proyek berdasarkan ketentuannya adalah ...","options":["Individu lebih mudah bekerja sama karena merasa memiliki budaya","Rincian tugas otomatis menjadi identik bagi tiap anggota","Proyek tidak lagi memerlukan koordinasi atau pimpinan","Perbedaan pendapat harus selalu dihilangkan sebelum bekerja","Keputusan hanya dijalankan oleh pegawai yang paling lama bekerja"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 15","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 15</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Budaya kerja yang baik dan dirasakan sebagai milik bersama dapat memudahkan koordinasi serta <mark class=\"study-highlight\">kerja sama</mark> individu dalam proyek atau kegiatan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Budaya yang baik dan dirasakan sebagai milik bersama memudahkan <mark class=\"study-highlight\">teamwork</mark> individu yang terlibat proyek.</p><p>Jawaban yang sesuai adalah <strong>A. Individu lebih mudah bekerja sama karena merasa memiliki budaya</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Hubungkan budaya dengan pemahaman situasi, pemilihan <mark class=\"study-highlight\">strategi</mark>, keterlibatan pegawai, <mark class=\"study-highlight\">kolaborasi</mark>, dan daya tarik <mark class=\"study-highlight\">talenta</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Budaya kerja yang baik dan dirasakan sebagai milik bersama dapat memudahkan koordinasi serta <mark class=\"study-highlight\">kerja sama</mark> individu dalam proyek atau kegiatan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 15.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 15","difficulty":"HOTS • Analitis","question":"Menurut uraian terakhir halaman 15, salah satu daya tarik budaya organisasi yang baik adalah ...","options":["Pengurangan kebutuhan pengembangan kompetensi","Berkurangnya aspirasi karier pegawai","Kesamaan keahlian seluruh anggota organisasi","Meningkatnya minat individu berkualitas untuk bergabung","Penghapusan penilaian kualitas calon pegawai"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 15","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 15</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Budaya organisasi</mark> yang baik dapat menarik individu berkualitas yang tertarik bergabung. Disebutkan hal ini sebagai cara memperoleh <mark class=\"study-highlight\">talenta</mark> unggul.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Budaya organisasi</mark> yang baik menarik talent berbobot atau individu berkualitas untuk bergabung.</p><p>Jawaban yang sesuai adalah <strong>D. Meningkatnya minat individu berkualitas untuk bergabung</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Hubungkan budaya dengan pemahaman situasi, pemilihan <mark class=\"study-highlight\">strategi</mark>, keterlibatan pegawai, <mark class=\"study-highlight\">kolaborasi</mark>, dan daya tarik <mark class=\"study-highlight\">talenta</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Budaya organisasi</mark> yang baik dapat menarik individu berkualitas yang tertarik bergabung. Disebutkan hal ini sebagai cara memperoleh <mark class=\"study-highlight\">talenta</mark> unggul.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 15.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 15","difficulty":"HOTS • Analitis","question":"Hubungan budaya organisasi dengan kesuksesan berkelanjutan yang paling tepat adalah ...","options":["Budaya mengurangi kebutuhan kerja bersama","Budaya mengganti sasaran organisasi yang terukur","Budaya membatasi inovasi pada unit tertentu","Budaya meniadakan kebutuhan pengembangan strategi","Budaya membantu menarik dan mempertahankan dukungan talenta berkualitas"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 15","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 15</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Talenta</mark> berkualitas mendukung keberhasilan organisasi secara <mark class=\"study-highlight\">berkelanjutan</mark>. Budaya yang baik berperan dari daya tarik rekrutmen hingga kinerja bersama.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Budaya positif menarik SDM unggul yang mendukung organisasi mencapai kesuksesan <mark class=\"study-highlight\">berkelanjutan</mark>.</p><p>Jawaban yang sesuai adalah <strong>E. Budaya membantu menarik dan mempertahankan dukungan talenta berkualitas</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Hubungkan budaya dengan pemahaman situasi, pemilihan <mark class=\"study-highlight\">strategi</mark>, keterlibatan pegawai, <mark class=\"study-highlight\">kolaborasi</mark>, dan daya tarik <mark class=\"study-highlight\">talenta</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Talenta</mark> berkualitas mendukung keberhasilan organisasi secara <mark class=\"study-highlight\">berkelanjutan</mark>. Budaya yang baik berperan dari daya tarik rekrutmen hingga kinerja bersama.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 15.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 15","difficulty":"HOTS • Analitis","question":"Manajer mempelajari kebiasaan para pegawai ketika menyelesaikan konflik sebelum menerapkan strategi baru. Langkah itu mencerminkan manfaat budaya berupa ...","options":["Penggantian sistem penilaian tahunan","Pemahaman karakter dan cara penyelesaian masalah di organisasi","Penghilangan kebutuhan koordinasi strategi","Pemindahan tugas tiap individu ke pimpinan","Pembatasan pertukaran informasi lintas bidang"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 15","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 15</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Mempelajari kebiasaan pegawai adalah cara mengenali situasi organisasi. Dengan begitu <mark class=\"study-highlight\">strategi</mark> dapat disesuaikan dengan karakter yang nyata.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Mengenali budaya membantu mengetahui <mark class=\"study-highlight\">karakter pegawai</mark> dan pola penyelesaian persoalan sehingga <mark class=\"study-highlight\">strategi</mark> lebih sesuai.</p><p>Jawaban yang sesuai adalah <strong>B. Pemahaman karakter dan cara penyelesaian masalah di organisasi</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Hubungkan budaya dengan pemahaman situasi, pemilihan <mark class=\"study-highlight\">strategi</mark>, keterlibatan pegawai, <mark class=\"study-highlight\">kolaborasi</mark>, dan daya tarik <mark class=\"study-highlight\">talenta</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Mempelajari kebiasaan pegawai adalah cara mengenali situasi organisasi. Dengan begitu <mark class=\"study-highlight\">strategi</mark> dapat disesuaikan dengan karakter yang nyata.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 15.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 15","difficulty":"HOTS • Analitis","question":"Tindakan yang paling mencerminkan gagasan sense of belonging pada halaman 15 adalah ...","options":["Menentukan keputusan sebelum mendengar masukan unit","Menyerahkan strategi seluruhnya kepada konsultan","Mengikutsertakan pihak terkait dalam proses pengambilan keputusan","Menunda kolaborasi sampai seluruh hasil dinilai","Menerapkan keputusan hanya berdasarkan pengalaman pimpinan"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 15","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 15</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Sense of belonging</mark> tumbuh ketika para pihak merasa dilibatkan dalam <mark class=\"study-highlight\">pengambilan keputusan</mark>, sehingga keterlibatan mereka berpengaruh pada <mark class=\"study-highlight\">kerja sama</mark>.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">Rasa memiliki</mark> muncul ketika banyak pihak merasa dilibatkan dalam keputusan dan menjadi dasar <mark class=\"study-highlight\">kolaborasi</mark>.</p><p>Jawaban yang sesuai adalah <strong>C. Mengikutsertakan pihak terkait dalam proses pengambilan keputusan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Hubungkan budaya dengan pemahaman situasi, pemilihan <mark class=\"study-highlight\">strategi</mark>, keterlibatan pegawai, <mark class=\"study-highlight\">kolaborasi</mark>, dan daya tarik <mark class=\"study-highlight\">talenta</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Sense of belonging</mark> tumbuh ketika para pihak merasa dilibatkan dalam <mark class=\"study-highlight\">pengambilan keputusan</mark>, sehingga keterlibatan mereka berpengaruh pada <mark class=\"study-highlight\">kerja sama</mark>.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 15.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 15","difficulty":"HOTS • Analitis","question":"Seorang pimpinan menilai budaya organisasi tidak ada hubungannya dengan daya tarik talenta. Berdasarkan materi, penilaian tersebut ...","options":["Kurang tepat karena budaya yang baik menarik individu berkualitas","Tepat jika organisasi telah mencapai target keuangan","Tepat sebab daya tarik kerja hanya berasal dari imbalan","Kurang tepat hanya untuk organisasi dengan banyak unit","Tepat karena budaya berfokus pada pegawai lama saja"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 15","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 15</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p> budaya baik berpotensi menarik <mark class=\"study-highlight\">talenta</mark> berbobot. Jadi budaya tidak hanya memengaruhi pegawai yang sudah ada.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Disebutkan budaya yang baik meningkatkan minat bibit unggul untuk bergabung.</p><p>Jawaban yang sesuai adalah <strong>A. Kurang tepat karena budaya yang baik menarik individu berkualitas</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Hubungkan budaya dengan pemahaman situasi, pemilihan <mark class=\"study-highlight\">strategi</mark>, keterlibatan pegawai, <mark class=\"study-highlight\">kolaborasi</mark>, dan daya tarik <mark class=\"study-highlight\">talenta</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span> budaya baik berpotensi menarik <mark class=\"study-highlight\">talenta</mark> berbobot. Jadi budaya tidak hanya memengaruhi pegawai yang sudah ada.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 15.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 15","difficulty":"HOTS • Analitis","question":"Manakah alur sebab-akibat yang paling sesuai dengan peran budaya di halaman 15?","options":["Aturan lebih banyak → individu terbatas → hasil meningkat","Target individu → kompetisi tim → budaya bersama","Pengurangan pihak terkait → inovasi → strategi tepat","Memahami budaya → memilih strategi → kolaborasi menuju tujuan","Rotasi jabatan → persepsi seragam → manfaat budaya"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 15","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 15</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Urutan yang dijelaskan: pahami budaya dan situasi, susun <mark class=\"study-highlight\">strategi</mark> yang sesuai, libatkan pihak untuk berkolaborasi dan berinovasi mencapai tujuan.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Pengetahuan budaya membantu menentukan <mark class=\"study-highlight\">strategi</mark>, melibatkan pihak, mendukung <mark class=\"study-highlight\">kolaborasi</mark> dan <mark class=\"study-highlight\">inovasi</mark> untuk sasaran organisasi.</p><p>Jawaban yang sesuai adalah <strong>D. Memahami budaya → memilih strategi → kolaborasi menuju tujuan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Hubungkan budaya dengan pemahaman situasi, pemilihan <mark class=\"study-highlight\">strategi</mark>, keterlibatan pegawai, <mark class=\"study-highlight\">kolaborasi</mark>, dan daya tarik <mark class=\"study-highlight\">talenta</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Urutan yang dijelaskan: pahami budaya dan situasi, susun <mark class=\"study-highlight\">strategi</mark> yang sesuai, libatkan pihak untuk berkolaborasi dan berinovasi mencapai tujuan.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 15.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 15","difficulty":"HOTS • Analitis","question":"Pernyataan tentang kerja sama yang paling sesuai dengan halaman 15 adalah ...","options":["Kerja sama berjalan sendiri tanpa kesamaan budaya","Budaya hanya berpengaruh saat proses rekrutmen","Kolaborasi akan maksimal jika tugas seluruh pegawai sama","Kerja sama tidak dipengaruhi rasa memiliki anggota","Budaya baik yang dirasakan bersama mempermudah kerja tim"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 15","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 15</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Budaya kerja yang baik mempermudah <mark class=\"study-highlight\">kerja sama</mark> ketika anggota merasakan bahwa budaya tersebut juga milik mereka.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p> <mark class=\"study-highlight\">teamwork</mark> yang mudah dengan budaya baik yang dirasakan dimiliki para individu.</p><p>Jawaban yang sesuai adalah <strong>E. Budaya baik yang dirasakan bersama mempermudah kerja tim</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Hubungkan budaya dengan pemahaman situasi, pemilihan <mark class=\"study-highlight\">strategi</mark>, keterlibatan pegawai, <mark class=\"study-highlight\">kolaborasi</mark>, dan daya tarik <mark class=\"study-highlight\">talenta</mark>.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Budaya kerja yang baik mempermudah <mark class=\"study-highlight\">kerja sama</mark> ketika anggota merasakan bahwa budaya tersebut juga milik mereka.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 15.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 16","difficulty":"HOTS • Analitis","question":"Surat Edaran yang menjadi dasar peluncuran Core Values dan Employer Branding ASN berdasarkan ketentuannya ialah ...","options":["SE Nomor 15 Tahun 2022","SE PANRB Nomor 20 Tahun 2021","KMK Nomor 312 Tahun 2011","PMK Nomor 190 Tahun 2018","IMK Nomor 346 Tahun 2017"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 16","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 16</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p> <mark class=\"study-highlight\">SE Menteri PANRB Nomor 20 Tahun 2021</mark> tentang Implementasi <mark class=\"study-highlight\">Core Values</mark> dan <mark class=\"study-highlight\">Employer Branding</mark> ASN sebagai dasar peluncuran bersama.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Bab III menyebut SE Kementerian PANRB Nomor 20 Tahun 2021 tentang Implementasi <mark class=\"study-highlight\">Core Values</mark> dan <mark class=\"study-highlight\">Employer Branding</mark> ASN.</p><p>Jawaban yang sesuai adalah <strong>B. SE PANRB Nomor 20 Tahun 2021</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pisahkan dasar kebijakan, tanggal peluncuran, tujuh unsur <mark class=\"study-highlight\">core values</mark>, <mark class=\"study-highlight\">employer branding</mark>, dan panduan perilakunya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span> <mark class=\"study-highlight\">SE Menteri PANRB Nomor 20 Tahun 2021</mark> tentang Implementasi <mark class=\"study-highlight\">Core Values</mark> dan <mark class=\"study-highlight\">Employer Branding</mark> ASN sebagai dasar peluncuran bersama.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 16.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 16","difficulty":"HOTS • Analitis","question":"Tanggal peresmian BerAKHLAK sebagai core values ASN yang disebut dalam uraian adalah ...","options":["27 Juli 2020","20 November 2021","27 Juli 2021","17 Agustus 2021","20 Juli 2023"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 16","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 16</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p> <mark class=\"study-highlight\">BerAKHLAK</mark> diresmikan pada <mark class=\"study-highlight\">27 Juli 2021</mark> oleh Presiden Joko Widodo. Bedakan tanggal peresmian ini dari tahun UU ASN yang juga disebut.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p> tanggal <mark class=\"study-highlight\">27 Juli 2021</mark> oleh Presiden Joko Widodo.</p><p>Jawaban yang sesuai adalah <strong>C. 27 Juli 2021</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pisahkan dasar kebijakan, tanggal peluncuran, tujuh unsur <mark class=\"study-highlight\">core values</mark>, <mark class=\"study-highlight\">employer branding</mark>, dan panduan perilakunya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span> <mark class=\"study-highlight\">BerAKHLAK</mark> diresmikan pada <mark class=\"study-highlight\">27 Juli 2021</mark> oleh Presiden Joko Widodo. Bedakan tanggal peresmian ini dari tahun UU ASN yang juga disebut.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 16.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 16","difficulty":"HOTS • Analitis","question":"Manakah urutan tujuh unsur yang benar sesuai akronim BerAKHLAK di dalam uraian?","options":["Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif","Berorientasi Pelayanan, Adaptif, Kompeten, Harmonis, Loyal, Akuntabel, Kolaboratif","Berintegritas, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif","Berorientasi Pelayanan, Akuntabel, Kolaboratif, Harmonis, Loyal, Adaptif, Kompeten","Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Kolaboratif, Adaptif"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 16","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 16</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Urutan <mark class=\"study-highlight\">BerAKHLAK</mark> dalam uraian ialah <mark class=\"study-highlight\">Berorientasi Pelayanan</mark>, <mark class=\"study-highlight\">Akuntabel</mark>, Kompeten, Harmonis, Loyal, Adaptif, dan Kolaboratif. Urutan akronim perlu dipahami, bukan hanya dihafal.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Akronim dalam uraian adalah <mark class=\"study-highlight\">Berorientasi Pelayanan</mark>, <mark class=\"study-highlight\">Akuntabel</mark>, <mark class=\"study-highlight\">Kompeten</mark>, Harmonis, Loyal, Adaptif, dan Kolaboratif.</p><p>Jawaban yang sesuai adalah <strong>A. Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pisahkan dasar kebijakan, tanggal peluncuran, tujuh unsur <mark class=\"study-highlight\">core values</mark>, <mark class=\"study-highlight\">employer branding</mark>, dan panduan perilakunya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Urutan <mark class=\"study-highlight\">BerAKHLAK</mark> dalam uraian ialah <mark class=\"study-highlight\">Berorientasi Pelayanan</mark>, <mark class=\"study-highlight\">Akuntabel</mark>, Kompeten, Harmonis, Loyal, Adaptif, dan Kolaboratif. Urutan akronim perlu dipahami, bukan hanya dihafal.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 16.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 16","difficulty":"HOTS • Analitis","question":"Dalam uraian, employer branding ASN yang diperkenalkan bersama BerAKHLAK adalah ...","options":["ASN Hebat untuk Negeri","Bangga Berkarya untuk Negeri","ASN Berintegritas dan Melayani","Bangga Melayani Bangsa","Pelayanan Prima untuk Bangsa"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 16","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 16</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Employer branding</mark> ASN yang diperkenalkan adalah <mark class=\"study-highlight\">#banggamelayanibangsa</mark>. Ini berbeda dari nama <mark class=\"study-highlight\">core values</mark> yang berupa akronim BerAKHLAK.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Branding yang dicantumkan ialah <mark class=\"study-highlight\">#banggamelayanibangsa</mark>.</p><p>Jawaban yang sesuai adalah <strong>D. Bangga Melayani Bangsa</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pisahkan dasar kebijakan, tanggal peluncuran, tujuh unsur <mark class=\"study-highlight\">core values</mark>, <mark class=\"study-highlight\">employer branding</mark>, dan panduan perilakunya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Employer branding</mark> ASN yang diperkenalkan adalah <mark class=\"study-highlight\">#banggamelayanibangsa</mark>. Ini berbeda dari nama <mark class=\"study-highlight\">core values</mark> yang berupa akronim BerAKHLAK.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 16.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 16","difficulty":"HOTS • Analitis","question":"Core Values ASN dikaitkan dengan ketentuan nilai dasar dalam ...","options":["Undang-Undang Nomor 5 Tahun 2014 saja","KMK Nomor 127 Tahun 2013","SE Nomor 15 Tahun 2022","Undang-Undang Nomor 25 Tahun 2009","Undang-Undang Nomor 20 Tahun 2023 tentang ASN"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 16","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 16</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p> nilai dasar ASN dengan UU Nomor 20 Tahun 2023 tentang ASN. Sementara peluncuran <mark class=\"study-highlight\">BerAKHLAK</mark> dirujukkan kepada SE Menteri PANRB 20/2021.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p> UU Nomor 20 Tahun 2023 tentang ASN sebagai dasar nilai dasar ASN.</p><p>Jawaban yang sesuai adalah <strong>E. Undang-Undang Nomor 20 Tahun 2023 tentang ASN</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pisahkan dasar kebijakan, tanggal peluncuran, tujuh unsur <mark class=\"study-highlight\">core values</mark>, <mark class=\"study-highlight\">employer branding</mark>, dan panduan perilakunya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span> nilai dasar ASN dengan UU Nomor 20 Tahun 2023 tentang ASN. Sementara peluncuran <mark class=\"study-highlight\">BerAKHLAK</mark> dirujukkan kepada SE Menteri PANRB 20/2021.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 16.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 16","difficulty":"HOTS • Analitis","question":"Dalam uraian materi, employer branding baru merupakan pemutakhiran dari slogan sebelumnya, yaitu ...","options":["Profesional dalam mengabdi kepada bangsa","Melayani dengan sepenuh hati","Bersama membangun aparatur modern","Berkarya untuk kepentingan bersama","Memberi layanan secara profesional"],"answer":1,"source":"Nilai-Nilai Kementerian Keuangan, halaman 16","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 16</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Disebutkan <mark class=\"study-highlight\">employer branding</mark> sebelumnya sebagai <mark class=\"study-highlight\">melayani dengan sepenuh hati</mark>, kemudian diperbarui menjadi <mark class=\"study-highlight\">#banggamelayanibangsa</mark>.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p> branding sebelumnya “<mark class=\"study-highlight\">melayani dengan sepenuh hati</mark>”.</p><p>Jawaban yang sesuai adalah <strong>B. Melayani dengan sepenuh hati</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pisahkan dasar kebijakan, tanggal peluncuran, tujuh unsur <mark class=\"study-highlight\">core values</mark>, <mark class=\"study-highlight\">employer branding</mark>, dan panduan perilakunya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Disebutkan <mark class=\"study-highlight\">employer branding</mark> sebelumnya sebagai <mark class=\"study-highlight\">melayani dengan sepenuh hati</mark>, kemudian diperbarui menjadi <mark class=\"study-highlight\">#banggamelayanibangsa</mark>.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 16.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 16","difficulty":"HOTS • Analitis","question":"Mengapa BerAKHLAK ditetapkan sebagai core values untuk ASN pusat dan daerah?","options":["Agar tiap instansi membentuk akronim sendiri","Agar standar kerja daerah mengikuti kebijakan unit pusat","Agar ASN di pusat dan daerah mempunyai core values yang sama","Agar prosedur pelayanan seluruh instansi menjadi identik","Agar pegawai menggunakan satu struktur organisasi bersama"],"answer":2,"source":"Nilai-Nilai Kementerian Keuangan, halaman 16","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 16</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Pesan peluncuran ialah ASN tingkat pusat dan daerah mempunyai <mark class=\"study-highlight\">core values</mark> yang sama. Nilai bersama ini menjadi fondasi penguatan budaya kerja.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Pesan yang dikutip adalah ASN pusat dan daerah harus mempunyai <mark class=\"study-highlight\">core values</mark> yang sama.</p><p>Jawaban yang sesuai adalah <strong>C. Agar ASN di pusat dan daerah mempunyai core values yang sama</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pisahkan dasar kebijakan, tanggal peluncuran, tujuh unsur <mark class=\"study-highlight\">core values</mark>, <mark class=\"study-highlight\">employer branding</mark>, dan panduan perilakunya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Pesan peluncuran ialah ASN tingkat pusat dan daerah mempunyai <mark class=\"study-highlight\">core values</mark> yang sama. Nilai bersama ini menjadi fondasi penguatan budaya kerja.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 16.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 16","difficulty":"HOTS • Analitis","question":"Panduan perilaku “memahami dan memenuhi kebutuhan masyarakat” merupakan bagian dari nilai dasar ...","options":["Berorientasi Pelayanan","Akuntabel","Kompeten","Harmonis","Kolaboratif"],"answer":0,"source":"Nilai-Nilai Kementerian Keuangan, halaman 16","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 16</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">Berorientasi Pelayanan</mark> memuat perilaku memahami dan memenuhi kebutuhan masyarakat; ramah, cekatan, solutif, dapat diandalkan; serta perbaikan tiada henti.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Pada daftar panduan perilaku halaman 16, memahami dan memenuhi kebutuhan masyarakat tercantum di bawah <mark class=\"study-highlight\">Berorientasi Pelayanan</mark>.</p><p>Jawaban yang sesuai adalah <strong>A. Berorientasi Pelayanan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pisahkan dasar kebijakan, tanggal peluncuran, tujuh unsur <mark class=\"study-highlight\">core values</mark>, <mark class=\"study-highlight\">employer branding</mark>, dan panduan perilakunya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">Berorientasi Pelayanan</mark> memuat perilaku memahami dan memenuhi kebutuhan masyarakat; ramah, cekatan, solutif, dapat diandalkan; serta perbaikan tiada henti.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 16.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 16","difficulty":"HOTS • Analitis","question":"Dalam rincian panduan perilaku Berorientasi Pelayanan, tindakan yang dinyatakan secara eksplisit adalah ...","options":["Menjaga informasi rahasia organisasi","Memanfaatkan sumber daya bagi tujuan bersama","Meningkatkan kompetensi dan membantu belajar","Ramah, cekatan, solutif, dan dapat diandalkan","Berkolaborasi dalam pengambilan keputusan"],"answer":3,"source":"Nilai-Nilai Kementerian Keuangan, halaman 16","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 16</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p>Sikap <mark class=\"study-highlight\">ramah, cekatan, solutif, dan dapat diandalkan</mark> tercantum bersama pemahaman kebutuhan masyarakat dan perbaikan tiada henti pada nilai <mark class=\"study-highlight\">Berorientasi Pelayanan</mark>.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p>Rinciannya mencakup sikap ramah, cekatan, solutif dan dapat diandalkan sebagai panduan <mark class=\"study-highlight\">Berorientasi Pelayanan</mark>.</p><p>Jawaban yang sesuai adalah <strong>D. Ramah, cekatan, solutif, dan dapat diandalkan</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pisahkan dasar kebijakan, tanggal peluncuran, tujuh unsur <mark class=\"study-highlight\">core values</mark>, <mark class=\"study-highlight\">employer branding</mark>, dan panduan perilakunya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span>Sikap <mark class=\"study-highlight\">ramah, cekatan, solutif, dan dapat diandalkan</mark> tercantum bersama pemahaman kebutuhan masyarakat dan perbaikan tiada henti pada nilai <mark class=\"study-highlight\">Berorientasi Pelayanan</mark>.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 16.</div></div>"},{"category":"TSKKWK","sub":"Nilai-Nilai Kemenkeu • Hlm. 16","difficulty":"HOTS • Analitis","question":"Makna BerAKHLAK menurut penjelasan penutup paragraf awal Bab III yang tepat adalah ...","options":["Standar pengganti seluruh ketentuan penilaian kinerja","Sistem yang khusus ditujukan untuk pengelola kepegawaian","Kebijakan penguatan budaya di tingkat pusat saja","Panduan komunikasi pegawai pada pelayanan publik saja","Panduan perilaku dan fondasi budaya kerja ASN profesional"],"answer":4,"source":"Nilai-Nilai Kementerian Keuangan, halaman 16","explanation":"<div class=\"learn-box lesson-card\"><div class=\"learn-title\">📚 Rangkuman Belajar • Halaman 16</div><div class=\"lesson-section\"><div class=\"lesson-kicker\">01 · Konsep inti</div><p><mark class=\"study-highlight\">BerAKHLAK</mark> diposisikan sebagai panduan perilaku dan fondasi budaya kerja ASN profesional yang dijalankan penuh tanggung jawab.</p></div><div class=\"lesson-section lesson-reason\"><div class=\"lesson-kicker\">02 · Mengapa jawaban ini benar?</div><p><mark class=\"study-highlight\">BerAKHLAK</mark> disebut panduan perilaku nilai dasar yang dijalankan penuh tanggung jawab dan fondasi budaya ASN profesional.</p><p>Jawaban yang sesuai adalah <strong>E. Panduan perilaku dan fondasi budaya kerja ASN profesional</strong>. Perhatikan hubungan langsung antara istilah yang ditanyakan dan uraian materi di atas, bukan sekadar apakah suatu opsi terdengar positif.</p></div><div class=\"lesson-section\"><div class=\"lesson-kicker\">03 · Cara membedakan pilihan</div><p>Pisahkan dasar kebijakan, tanggal peluncuran, tujuh unsur <mark class=\"study-highlight\">core values</mark>, <mark class=\"study-highlight\">employer branding</mark>, dan panduan perilakunya.</p></div><div class=\"lesson-memory\"><strong>💡 Catatan untuk ujian</strong><span><mark class=\"study-highlight\">BerAKHLAK</mark> diposisikan sebagai panduan perilaku dan fondasi budaya kerja ASN profesional yang dijalankan penuh tanggung jawab.</span></div><div class=\"lesson-source\">📖 Referensi: Nilai-Nilai Kementerian Keuangan • halaman 16.</div></div>"}];
+let current=0;const answers=new Array(questions.length).fill(null);const letters=["A","B","C","D","E"];let seconds=65*60;let submitted=false;
+
+
+// Anotasi hanya dalam pembahasan. Satu set coretan untuk setiap nomor soal.
+const ANNO_KEY='stangolden_kemenkeu_7_16_review_annot_v1_user_<?= (int)$USER->id ?>';
+let reviewAnnoStore={};
+// Data anotasi dimuat dari Moodle agar bisa dibuka dari perangkat berbeda.
+let reviewAnnoActive=null,reviewAnnoTool='pen',reviewAnnoDrawing=false,reviewAnnoStroke=null;
+const raSaveTimers={};
+const raSavePending={};
+let raServerReady=false;
+async function raLoadServer(){
+ try {
+   const r=await fetch(`${LEADERBOARD_ENDPOINT}?action=anno_load`,{credentials:'same-origin',cache:'no-store'});
+   const data=await r.json();
+   if(!r.ok||!data.success)throw new Error(data.message||'Gagal memuat anotasi');
+   reviewAnnoStore=data.annotations||{};
+   raServerReady=true;
+   // Gambar coretan yang sudah tersimpan SECARA OTOMATIS, tanpa menekan
+   // tombol Coret/Anotasi. Canvas tetap pasif agar halaman mudah discroll.
+   raRestoreAnnotations();
+ }catch(e){console.error('Anotasi server:',e);alert('Anotasi belum dapat dimuat dari server. Coba buka ulang pembahasan.');}
+}
+async function raSendSave(i){
+ if(!raServerReady)return;
+ const b=new URLSearchParams();b.set('action','anno_save');b.set('sesskey',MOODLE_SESSKEY);
+ b.set('question',String(i));b.set('strokesjson',JSON.stringify(raStrokes(i)));
+ try {const r=await fetch(LEADERBOARD_ENDPOINT,{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/x-www-form-urlencoded;charset=UTF-8'},body:b.toString()});
+ const d=await r.json();if(!r.ok||!d.success)throw new Error(d.message||'Gagal menyimpan');}
+ catch(e){console.error('Gagal menyimpan anotasi nomor',i+1,e);alert('Coretan nomor '+(i+1)+' belum tersimpan. Periksa koneksi dan coba coret lagi.');}
+}
+function raSave(i){clearTimeout(raSaveTimers[i]);raSaveTimers[i]=setTimeout(()=>{delete raSaveTimers[i];raSavePending[i]=raSendSave(i).finally(()=>{delete raSavePending[i];});},350);}
+
+// Coretan dibuka otomatis saat review ditampilkan. Canvas yang belum
+// terlihat baru diinisialisasi saat masuk viewport (hemat memori untuk 100 soal).
+let raReviewObserver=null;
+function raRestoreAnnotations(){
+ if(raReviewObserver){raReviewObserver.disconnect();raReviewObserver=null;}
+ const saved=Object.keys(reviewAnnoStore).filter(k=>Array.isArray(reviewAnnoStore[k]) && reviewAnnoStore[k].length>0);
+ const makeVisible=(i)=>{
+   const c=raCanvas(i);
+   if(!c)return;
+   if(!c.dataset.initialized)raInit(i);
+   else raResize(i);
+ };
+ if(typeof IntersectionObserver==='undefined'){
+   saved.forEach(k=>makeVisible(Number(k)));
+ }else{
+   raReviewObserver=new IntersectionObserver(entries=>{
+     entries.forEach(entry=>{
+       if(!entry.isIntersecting)return;
+       const i=Number(entry.target.dataset.question);
+       makeVisible(i);
+       raReviewObserver.unobserve(entry.target);
+     });
+   },{rootMargin:'280px 0px'});
+   saved.forEach(k=>{
+     const c=raCanvas(Number(k));
+     if(c)raReviewObserver.observe(c);
+   });
+ }
+ document.querySelectorAll('.review-annotation-canvas[data-initialized]').forEach(c=>raResize(Number(c.dataset.question)));
+}
+function raStrokes(i){return reviewAnnoStore[String(i)]||(reviewAnnoStore[String(i)]=[]);}
+function raCard(i){return document.getElementById('reviewQuestion-'+i);}
+function raCanvas(i){return document.getElementById('reviewAnnotationCanvas-'+i);}
+function raResize(i){
+ const canvas=raCanvas(i),card=raCard(i);if(!canvas||!card||!canvas.dataset.initialized)return;
+ const rect=card.getBoundingClientRect(),scale=Math.min(devicePixelRatio||1,2);
+ if(!rect.width||!rect.height)return;
+ const w=Math.round(rect.width*scale),h=Math.round(rect.height*scale);
+ if(canvas.width!==w||canvas.height!==h){canvas.width=w;canvas.height=h;}
+ raRedraw(i);
+}
+function raRedraw(i){
+ const canvas=raCanvas(i);if(!canvas||!canvas.width)return;
+ const ctx=canvas.getContext('2d'),w=canvas.width,h=canvas.height;
+ ctx.clearRect(0,0,w,h);
+ for(const stroke of raStrokes(i)){
+  const pts=stroke.points||[];if(!pts.length)continue;
+  ctx.save();ctx.lineCap='round';ctx.lineJoin='round';
+  ctx.globalCompositeOperation=stroke.tool==='eraser'?'destination-out':'source-over';
+  ctx.globalAlpha=stroke.tool==='marker'?.38:1;
+  ctx.strokeStyle=stroke.tool==='marker'?'#ffcd22':'#e43d65';
+  ctx.lineWidth=(stroke.tool==='eraser'?26:stroke.tool==='marker'?18:3.5)*(w/Math.max(canvas.getBoundingClientRect().width,1));
+  ctx.beginPath();ctx.moveTo(pts[0][0]*w,pts[0][1]*h);
+  if(pts.length===1)ctx.lineTo(pts[0][0]*w+.2,pts[0][1]*h+.2);
+  for(let j=1;j<pts.length;j++)ctx.lineTo(pts[j][0]*w,pts[j][1]*h);
+  ctx.stroke();ctx.restore();
+ }
+}
+function raInit(i){
+ const canvas=raCanvas(i);if(!canvas||canvas.dataset.initialized)return;
+ canvas.dataset.initialized='1';
+ canvas.addEventListener('pointerdown',e=>{
+  if(reviewAnnoActive!==i||!raServerReady)return;
+  e.preventDefault();reviewAnnoDrawing=true;
+  const r=canvas.getBoundingClientRect();
+  reviewAnnoStroke={tool:reviewAnnoTool,points:[[Math.max(0,Math.min(1,(e.clientX-r.left)/r.width)),Math.max(0,Math.min(1,(e.clientY-r.top)/r.height))]]};
+  raStrokes(i).push(reviewAnnoStroke);
+  try{canvas.setPointerCapture(e.pointerId);}catch(_){}raRedraw(i);
+ });
+ canvas.addEventListener('pointermove',e=>{
+  if(!reviewAnnoDrawing||reviewAnnoActive!==i||!reviewAnnoStroke)return;
+  e.preventDefault();const r=canvas.getBoundingClientRect();
+  reviewAnnoStroke.points.push([Math.max(0,Math.min(1,(e.clientX-r.left)/r.width)),Math.max(0,Math.min(1,(e.clientY-r.top)/r.height))]);
+  raRedraw(i);
+ });
+ const finish=()=>{if(reviewAnnoDrawing){reviewAnnoDrawing=false;reviewAnnoStroke=null;raSave(i);raToolbar(i);}};
+ canvas.addEventListener('pointerup',finish);canvas.addEventListener('pointercancel',finish);canvas.addEventListener('lostpointercapture',finish);
+ raResize(i);
+}
+function raToolbar(i){
+ const card=raCard(i);if(!card)return;
+ const on=reviewAnnoActive===i;card.classList.toggle('annotating',on);
+ const toolbar=card.querySelector('.review-annotation-toolbar');
+ const buttons=toolbar.querySelectorAll('button');
+ buttons[0].textContent=on?'✅ Selesai mencoret':'✏️ Coret / Anotasi';buttons[0].classList.toggle('active',on);
+ for(let j=1;j<=3;j++){buttons[j].disabled=!on;buttons[j].classList.toggle('active',on&&reviewAnnoTool===['pen','marker','eraser'][j-1]);}
+ buttons[4].disabled=!on||!raStrokes(i).length;
+ buttons[5].disabled=!on||!raStrokes(i).length;
+ toolbar.querySelector('small').textContent=on?'Coret dengan mouse atau jari. Tekan Selesai mencoret agar halaman dapat digulir seperti biasa.':'Alat anotasi khusus pembahasan. Coretan tersimpan pada akun Stangolden dan dapat dibuka lintas perangkat.';
+}
+function raToggle(i){
+ reviewAnnoDrawing=false;reviewAnnoStroke=null;
+ const prior=reviewAnnoActive;reviewAnnoActive=prior===i?null:i;
+ if(prior!==null&&prior!==i)raToolbar(prior);
+ if(reviewAnnoActive===i){if(!raServerReady){alert('Menunggu data anotasi dari server. Silakan coba lagi.');reviewAnnoActive=null;}else raInit(i);}
+ raToolbar(i);
+}
+function raTool(i,t){if(reviewAnnoActive!==i)return;reviewAnnoTool=t;raToolbar(i);}
+function raUndo(i){if(reviewAnnoActive!==i)return;raStrokes(i).pop();raSave(i);raRedraw(i);raToolbar(i);}
+function raClear(i){if(reviewAnnoActive!==i||!confirm('Hapus semua coretan pada pembahasan soal ini?'))return;reviewAnnoStore[String(i)]=[];raSave(i);raRedraw(i);raToolbar(i);}
+function raButtons(i){return `<div class="review-annotation-toolbar">
+ <button type="button" onclick="raToggle(${i})">✏️ Coret / Anotasi</button>
+ <button type="button" onclick="raTool(${i},'pen')" disabled>✍️ Pena</button>
+ <button type="button" onclick="raTool(${i},'marker')" disabled>🖍️ Stabilo</button>
+ <button type="button" onclick="raTool(${i},'eraser')" disabled>⌫ Penghapus</button>
+ <button type="button" onclick="raUndo(${i})" disabled>↶ Urungkan</button>
+ <button type="button" onclick="raClear(${i})" disabled>🗑️ Hapus coretan</button>
+ <small>Alat anotasi khusus pembahasan. Coretan tersimpan pada akun Stangolden dan dapat dibuka lintas perangkat.</small>
+ </div>`;}
+if(typeof ResizeObserver!=='undefined'){
+ window.addEventListener('DOMContentLoaded',()=>{
+  const target=document.getElementById('resultContent');if(!target)return;
+  const observer=new ResizeObserver(()=>{if(reviewAnnoActive!==null)raResize(reviewAnnoActive);});
+  observer.observe(target);
+ });
+}
+window.addEventListener('resize',()=>{
+ document.querySelectorAll('.review-annotation-canvas[data-initialized]').forEach(c=>raResize(Number(c.dataset.question)));
+});
+
+function svgBase(){return `<svg viewBox="0 0 180 140" class="fig-svg"></svg>`;}
+function nsEl(tag,attrs={}){const e=document.createElementNS("http://www.w3.org/2000/svg",tag);Object.entries(attrs).forEach(([k,v])=>e.setAttribute(k,v));return e;}
+function polyPts(cx,cy,r,n,rot=-90){let p=[];for(let i=0;i<n;i++){const a=(Math.PI/180)*(rot+i*360/n);p.push(`${cx+Math.cos(a)*r},${cy+Math.sin(a)*r}`)}return p.join(" ")}
+function drawFig(svg,spec){
+ svg.innerHTML="";
+ svg.appendChild(nsEl("rect",{x:5,y:5,width:170,height:130,rx:14,fill:"#fff",stroke:"#17131f","stroke-width":3}));
+ const fill=spec.fill?"#17131f":"#fff",stroke="#17131f";
+ if(spec.sides===4)svg.appendChild(nsEl("rect",{x:55,y:32,width:70,height:70,rx:6,fill,stroke,"stroke-width":spec.fill?0:4}));
+ else svg.appendChild(nsEl("polygon",{points:polyPts(90,67,42,spec.sides,-90),fill,stroke,"stroke-width":spec.fill?0:4}));
+ const rot={up:270,right:0,down:90,left:180}[spec.dir||"right"],g=nsEl("g",{transform:`rotate(${rot} 90 67)`});
+ g.appendChild(nsEl("line",{x1:72,y1:67,x2:102,y2:67,stroke:spec.fill?"#fff":"#17131f","stroke-width":6,"stroke-linecap":"round"}));
+ g.appendChild(nsEl("polygon",{points:"112,67 98,57 98,77",fill:spec.fill?"#fff":"#17131f"}));svg.appendChild(g);
+ const ps={top:[[75,18],[90,18],[105,18]],bottom:[[75,118],[90,118],[105,118]],left:[[20,52],[20,67],[20,82]],right:[[160,52],[160,67],[160,82]]};
+ (ps[spec.dotSide]||[]).slice(0,spec.dots).forEach(([x,y])=>svg.appendChild(nsEl("circle",{cx:x,cy:y,r:4.5,fill:"#7C3FFF"})));
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function sourceSvgBoxV29(svgHtml,label=""){
+  const box=document.createElement("div");
+  box.className="series-hots-frame";
+  box.style.minWidth="0";
+  box.style.position="relative";
+  box.style.padding="6px";
+  if(label){
+    const lab=document.createElement("span");
+    lab.className="seq-label";
+    lab.textContent=label;
+    box.appendChild(lab);
+  }
+  const holder=document.createElement("div");
+  holder.innerHTML=svgHtml;
+  const svg=holder.querySelector("svg");
+  if(svg){
+    svg.style.width="100%";
+    svg.style.height="auto";
+    svg.style.display="block";
+  }
+  box.appendChild(holder);
+  return box;
+}
+function renderSourceStimV29(container,q){
+  container.innerHTML="";
+  const note=document.createElement("div");
+  note.className="fig-note";
+  if(q.figMode==="series") note.textContent="Lanjutkan gambar berikut.";
+  else if(q.figMode==="odd") note.textContent="Cari gambar yang paling berbeda.";
+  else note.textContent="Tentukan gambar yang tepat untuk mengisi kotak kosong.";
+  container.appendChild(note);
+
+  if(q.figMode==="series"){
+    const board=document.createElement("div");
+    board.className="series-hots-board";
+    q.stimSvg.forEach((svg,i)=>board.appendChild(sourceSvgBoxV29(svg,String(i+1))));
+    container.appendChild(board);
+  }else if(q.figMode==="matrix"){
+    const board=document.createElement("div");
+    board.className="xor-matrix-board";
+    q.stimSvg.forEach((svg,i)=>{
+      if(svg===null){
+        const cell=document.createElement("div");
+        cell.className="xor-cell missing";
+        cell.innerHTML=`<span class="cell-label">${i+1}</span>?`;
+        board.appendChild(cell);
+      }else{
+        const cell=document.createElement("div");
+        cell.className="xor-cell";
+        cell.style.position="relative";
+        cell.innerHTML=`<span class="cell-label">${i+1}</span><div class="srcsvg"></div>`;
+        cell.querySelector(".srcsvg").innerHTML=svg;
+        const s=cell.querySelector("svg");
+        if(s){s.style.width="100%";s.style.height="auto";s.style.display="block";}
+        board.appendChild(cell);
+      }
+    });
+    container.appendChild(board);
+  }
+}
+function renderSourceOptionsV29(opts,q,currentIndex,answerStore,clickable=true){
+  const wrap=document.createElement("div");
+  wrap.className="fig-options";
+  q.optionSvg.forEach((svg,i)=>{
+    const box=document.createElement("div");
+    box.className="fig-option"+(answerStore===i?" selected":"");
+    box.innerHTML=`<span class="flabel">${letters[i]}</span><div class="srcsvg"></div>`;
+    box.querySelector(".srcsvg").innerHTML=svg;
+    const s=box.querySelector("svg");
+    if(s){s.style.width="100%";s.style.height="auto";s.style.display="block";}
+    if(clickable) box.onclick=()=>{answers[currentIndex]=i;render();};
+    wrap.appendChild(box);
+  });
+  return wrap;
+}
+
+
+function renderAnalyticalOrder(container){
+ container.innerHTML=`
+ <div class="fig-note">Visualisasi dua blok yang harus menempati empat posisi pertama:</div>
+ <div class="logic-row">
+   <span>1<br><small>?</small></span>
+   <span>2<br><small>?</small></span>
+   <span>3<br><small>?</small></span>
+   <span>4<br><small>?</small></span>
+   <span class="fixed">5<br><small>T</small></span>
+ </div>
+ <div class="flow">
+   <span>Q</span><b>tepat sebelum →</b><span>R</span>
+   <span>S</span><b>tepat sebelum →</b><span>P</span>
+ </div>`;
+}
+
+function render(){
+ const q=questions[current];
+ document.getElementById("qNo").textContent=`Soal ${current+1}`;
+ document.getElementById("qText").innerHTML=q.question;
+ document.getElementById("subject").textContent="";
+ document.getElementById("passage").innerHTML=q.passage?`<div class="passage">${q.passage}</div>`:"";
+ const figArea=document.getElementById("figArea");
+ const opts=document.getElementById("options");
+ figArea.innerHTML="";opts.innerHTML="";
+
+ if(q.type==="figural_source_svg_v29"){
+   renderSourceStimV29(figArea,q);
+   opts.appendChild(renderSourceOptionsV29(opts,q,current,answers[current],true));
+ }else{
+   q.options.forEach((op,i)=>{
+     const div=document.createElement("div");
+     div.className="option"+(answers[current]===i?" selected":"");
+     div.innerHTML=`<div class="letter">${letters[i]}</div><div>${op}</div>`;
+     div.onclick=()=>{answers[current]=i;render()};
+     opts.appendChild(div);
+   });
+ }
+ document.getElementById("prevBtn").disabled=current===0;
+ document.getElementById("nextBtn").textContent=current===questions.length-1?"Selesai →":"Berikutnya →";
+ updateProgress();renderGrid();
+}
+
+// Peta Soal bisa disembunyikan dan dimunculkan tanpa mengubah jawaban.
+function toggleQuestionMap(show){
+ const grid=document.getElementById('examQuestionGrid');
+ const panel=document.getElementById('questionMapPanel');
+ const hide=document.getElementById('mapHideButton');
+ const reopen=document.getElementById('mapReopenButton');
+ if(!grid||!panel)return;
+ grid.classList.toggle('map-hidden',!show);
+ panel.setAttribute('aria-hidden',show?'false':'true');
+ if(hide)hide.setAttribute('aria-expanded',show?'true':'false');
+ if(reopen)reopen.setAttribute('aria-expanded',show?'true':'false');
+ try{localStorage.setItem('stg_nk716_map_visible',show?'1':'0')}catch(e){}
+}
+try{if(localStorage.getItem('stg_nk716_map_visible')==='0')toggleQuestionMap(false)}catch(e){}
+function renderGrid(){const g=document.getElementById("numGrid");g.innerHTML="";questions.forEach((_,i)=>{const b=document.createElement("button");b.textContent=i+1;if(i===current)b.classList.add("current");else if(answers[i]!==null)b.classList.add("answered");b.onclick=()=>{current=i;render();if(innerWidth<850)document.querySelector(".qcard").scrollIntoView({behavior:"smooth"})};g.appendChild(b)})}
+function updateProgress(){const n=answers.filter(x=>x!==null).length,p=Math.round(n/questions.length*100);document.getElementById("progText").textContent=`${n} dari ${questions.length} dijawab`;document.getElementById("progPct").textContent=p+"%";document.getElementById("progFill").style.width=p+"%"}
+function prevQ(){if(current>0){current--;render()}}function nextQ(){if(current<questions.length-1){current++;render()}else openSubmit()}
+function openSubmit(){const empty=answers.filter(x=>x===null).length;document.getElementById("modalText").textContent=empty?`Masih ada ${empty} soal yang belum dijawab. Soal kosong tetap dihitung tidak benar.`:"Semua soal sudah dijawab. Siap lihat hasil dan pembahasannya?";document.getElementById("modal").classList.add("show")}function closeSubmit(){document.getElementById("modal").classList.remove("show")}function submitExam(){if(submitted)return;submitted=true;if(timerInterval!==null){clearInterval(timerInterval);timerInterval=null;}closeSubmit();showResult()}
+
+function formatLeaderboardTime(totalSeconds){
+  totalSeconds=Math.max(0,Number(totalSeconds)||0);
+  const m=Math.floor(totalSeconds/60);
+  const s=totalSeconds%60;
+  return `${String(m).padStart(2,"0")}:${String(s).padStart(2,"0")}`;
+}
+
+function renderLeaderboard(rows){
+  const box=document.getElementById("leaderboardContent");
+
+  if(!Array.isArray(rows) || rows.length===0){
+    box.innerHTML=`<div class="lb-empty">Belum ada nilai yang masuk. Jadilah peserta pertama di ranking 🚀</div>`;
+    return;
+  }
+
+  let body="";
+
+  rows.forEach(row=>{
+    const rankClass=row.rank===1?"top1":row.rank===2?"top2":row.rank===3?"top3":"";
+    body+=`
+      <tr class="${row.isme?"me":""}">
+        <td><span class="lb-rank ${rankClass}">${row.rank}</span></td>
+        <td>
+          <span class="lb-user">${escapeLeaderboardHtml(row.username)}</span>
+          ${row.isme?'<div style="font-size:11px;margin-top:3px;color:#5b526f">Kamu</div>':""}
+        </td>
+        <td><span class="lb-score">${row.score}</span></td>
+        <td>${row.correct}/100</td>
+        <td>${formatLeaderboardTime(row.timetaken)}</td>
+      </tr>
+    `;
+  });
+
+  box.innerHTML=`
+    <div class="lb-table-wrap">
+      <table class="lb-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Username Stangolden</th>
+            <th>Nilai</th>
+            <th>Benar</th>
+            <th>Waktu</th>
+          </tr>
+        </thead>
+        <tbody>${body}</tbody>
+      </table>
+    </div>
+  `;
+}
+
+function escapeLeaderboardHtml(value){
+  return String(value)
+    .replaceAll("&","&amp;")
+    .replaceAll("<","&lt;")
+    .replaceAll(">","&gt;")
+    .replaceAll('"',"&quot;")
+    .replaceAll("'","&#039;");
+}
+
+async function loadLeaderboard(){
+  const box=document.getElementById("leaderboardContent");
+  box.innerHTML=`<div class="lb-loading">Memuat ranking...</div>`;
+
+  try{
+    const response=await fetch(
+      `${LEADERBOARD_ENDPOINT}?action=leaderboard`,
+      {
+        method:"GET",
+        credentials:"same-origin",
+        cache:"no-store"
+      }
+    );
+
+    if(!response.ok){
+      throw new Error("Gagal mengambil ranking.");
+    }
+
+    const data=await response.json();
+
+    if(!data.success){
+      throw new Error(data.message||"Ranking gagal dimuat.");
+    }
+
+    renderLeaderboard(data.leaderboard||[]);
+  }catch(error){
+    box.innerHTML=`<div class="lb-empty">Ranking belum dapat dimuat.<br><small>${escapeLeaderboardHtml(error.message)}</small></div>`;
+  }
+}
+
+function openLeaderboard(){
+  document.getElementById("leaderboardOverlay").classList.add("show");
+
+  const modalTitle=document.getElementById("rankingModalTitle");
+  const modalSub=document.getElementById("rankingModalSub");
+
+  if(!HAS_FULL_REVIEW){
+    if(modalTitle) modalTitle.textContent="🔒 Lihat Ranking";
+    if(modalSub) modalSub.textContent="Ranking hanya untuk peserta terdaftar.";
+
+    const box=document.getElementById("leaderboardContent");
+
+    box.innerHTML=`
+      <div class="ranking-locked">
+        <div class="ranking-locked-icon">🔒</div>
+        <h3>Ranking Khusus Peserta Starbuster 2026</h3>
+        <p>Fitur Lihat Ranking tersedia khusus untuk peserta yang terdaftar pada paket Starbuster 2026.</p>
+
+        <div class="ranking-promo">
+          <a href="https://stangolden.com/elearning/bootcampupkp/starbuster.png" target="_blank" rel="noopener noreferrer">
+            <img src="https://stangolden.com/elearning/bootcampupkp/starbuster.png" alt="Starbuster 2026">
+          </a>
+        </div>
+
+        <a
+          class="ranking-register-btn"
+          href="https://wa.me/6285714369422?text=Halo%20Admin%2C%20Saya%20ingin%20mendaftar%20paket%20Persiapan%20UPKP%20Kemenkeu%20Starbuster%202026"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          📲 Daftar Starbuster 2026
+        </a>
+      </div>
+    `;
+
+    return;
+  }
+
+  if(modalTitle) modalTitle.textContent="🏆 Lihat Ranking Hlm. 7–16";
+  if(modalSub) modalSub.textContent="Semua peserta yang sudah submit ditampilkan berdasarkan hasil percobaan pertama. Jika nilai sama, waktu pengerjaan yang lebih cepat berada di atas.";
+
+  loadLeaderboard();
+}
+
+function closeLeaderboard(){
+  document.getElementById("leaderboardOverlay").classList.remove("show");
+}
+
+function leaderboardBackdrop(event){
+  if(event.target.id==="leaderboardOverlay"){
+    closeLeaderboard();
+  }
+}
+
+async function saveScoreToLeaderboard(score,correct){
+  // seconds adalah sisa waktu saat ujian selesai.
+  const timeTaken=Math.max(0,Math.min(3900,3900-seconds));
+
+  try{
+    const body=new URLSearchParams();
+    body.set("action","save_score");
+    body.set("sesskey",MOODLE_SESSKEY);
+    body.set("score",String(score));
+    body.set("correct",String(correct));
+    body.set("timetaken",String(timeTaken));
+    body.set("answersjson",JSON.stringify(answers));
+
+    const response=await fetch(
+      LEADERBOARD_ENDPOINT,
+      {
+        method:"POST",
+        credentials:"same-origin",
+        cache:"no-store",
+        headers:{
+          "Content-Type":"application/x-www-form-urlencoded;charset=UTF-8"
+        },
+        body:body.toString()
+      }
+    );
+
+    const data=await response.json();
+
+    if(!response.ok || !data.success){
+      throw new Error(data.message||"Nilai gagal disimpan.");
+    }
+
+    const status=document.getElementById("leaderboardSaveStatus");
+    if(status){
+      if(data.firstattemptsaved){
+        if(HAS_FULL_REVIEW){
+          status.innerHTML=`🏆 <b>Hasil percobaan pertamamu sudah tersimpan dan masuk ranking.</b>`;
+        }else{
+          status.innerHTML=`✅ <b>Hasil percobaan pertamamu sudah tersimpan.</b>`;
+        }
+      }else{
+        if(HAS_FULL_REVIEW){
+          status.innerHTML=`ℹ️ Percobaan ini tersimpan sebagai riwayat attempt dan tidak mengubah ranking karena ranking memakai hasil percobaan pertama.`;
+        }else{
+          status.innerHTML=`ℹ️ Percobaan ini sudah tercatat. Hasil percobaan pertama tetap menjadi nilai utama yang tersimpan.`;
+        }
+      }
+    }
+
+    // Setelah submit pertama, pembahasan sudah terlihat; muat anotasi dari
+    // database agar tombol Pena/Stabilo/Penghapus langsung dapat digunakan.
+    // Ranking tetap hanya memakai percobaan pertama.
+    await raLoadServer();
+    return data;
+  }catch(error){
+    const status=document.getElementById("leaderboardSaveStatus");
+    if(status){
+      status.textContent="Nilai selesai dihitung, tetapi ranking belum dapat diperbarui.";
+    }
+    console.error(error);
+    return null;
+  }
+}
+
+
+
+
+function renderAdminQuestionStats(stats){
+  if(!IS_SITE_ADMIN || !Array.isArray(stats)) return;
+
+  stats.forEach((row,index)=>{
+    const card=document.getElementById(`reviewQuestion-${index}`);
+    if(!card) return;
+
+    let box=card.querySelector(".admin-question-stat");
+    if(!box){
+      box=document.createElement("div");
+      box.className="admin-question-stat";
+
+      const head=card.querySelector(".review-question-head");
+      if(head && head.nextSibling){
+        card.insertBefore(box,head.nextSibling);
+      }else if(head){
+        head.insertAdjacentElement("afterend",box);
+      }else{
+        card.prepend(box);
+      }
+    }
+
+    if(Number(row.total)===0){
+      box.innerHTML=`📊 <strong>Statistik peserta:</strong> belum ada detail jawaban yang terekam untuk soal ini.`;
+      return;
+    }
+
+    box.innerHTML=`
+      📊 <strong>${Number(row.correct)}/${Number(row.total)} peserta menjawab benar soal ini</strong>
+      &nbsp;•&nbsp;
+      <span class="stat-bad">${Number(row.wrong)} salah</span>
+      &nbsp;•&nbsp;
+      <span class="stat-good">${Number(row.percentage)}% benar</span>
+      &nbsp;•&nbsp;
+      ${Number(row.unanswered)} tidak menjawab
+    `;
+  });
+}
+
+async function loadAdminQuestionStats(){
+  if(!IS_SITE_ADMIN) return;
+
+  try{
+    const response=await fetch(
+      `${LEADERBOARD_ENDPOINT}?action=question_stats`,
+      {
+        method:"GET",
+        credentials:"same-origin",
+        cache:"no-store"
+      }
+    );
+
+    const data=await response.json();
+
+    if(!response.ok || !data.success){
+      throw new Error(data.message||"Statistik soal gagal dimuat.");
+    }
+
+    renderAdminQuestionStats(data.stats||[]);
+  }catch(error){
+    console.error("Admin question stats:",error);
+  }
+}
+
+function buildReviewFigure(q,reviewIndex,userAnswer){
+ if(q.type!=="figural_source_svg_v29") return "";
+ const wrapId=`reviewFigure-${reviewIndex}`;
+ setTimeout(()=>{
+   const host=document.getElementById(wrapId);
+   if(!host)return;
+
+   renderSourceStimV29(host,q);
+   const optionsWrap=document.createElement("div");
+   optionsWrap.className="fig-options";
+   optionsWrap.style.marginTop="10px";
+
+   q.optionSvg.forEach((svg,i)=>{
+     const box=document.createElement("div");
+     let cls="fig-option";
+     if(i===q.answer)cls+=" correct-option";
+     if(userAnswer===i)cls+=" user-option";
+     box.className=cls;
+
+     let note="";
+     if(i===q.answer&&userAnswer===i) note='<span class="option-note">Jawaban kamu ✓</span>';
+     else if(i===q.answer) note='<span class="option-note">Jawaban benar</span>';
+     else if(userAnswer===i) note='<span class="option-note">Jawaban kamu</span>';
+
+     box.innerHTML=`<span class="flabel">${letters[i]}</span><div class="srcsvg"></div>${note}`;
+     box.querySelector(".srcsvg").innerHTML=svg;
+     const s=box.querySelector("svg");
+     if(s){s.style.width="100%";s.style.height="auto";s.style.display="block";}
+     optionsWrap.appendChild(box);
+   });
+   host.appendChild(optionsWrap);
+ },0);
+
+ return `<div class="review-figure-wrap"><div id="${wrapId}"></div></div>`;
+}
+function buildReviewOptions(q,userAnswer){
+  let html='<div class="review-options">';
+  q.options.forEach((option,index)=>{
+    const isCorrect=index===q.answer;
+    const isUser=index===userAnswer;
+    let cls='review-option';
+    if(isCorrect){cls+=' correct-option';}
+    else if(isUser){cls+=' user-wrong-option';}
+    let note='';
+    if(isCorrect && isUser){note='<span class="option-note">Jawaban kamu ✓</span>';}
+    else if(isCorrect){note='<span class="option-note">Jawaban benar</span>';}
+    else if(isUser){note='<span class="option-note">Jawaban kamu</span>';}
+    html+=`<div class="${cls}"><span class="review-letter">${letters[index]}</span><span style="flex:1">${option}</span>${note}</div>`;
+  });
+  html+='</div>';
+  return html;
+}
+
+
+async function reviewLastAttempt(){
+  let stored=null;
+  try{
+    const response=await fetch(`${LEADERBOARD_ENDPOINT}?action=last_review`,{credentials:"same-origin",cache:"no-store"});
+    const data=await response.json();
+    if(response.ok&&data.success)stored=data.review;
+  }catch(e){console.warn('Review server tidak tersedia',e);}
+  if(!stored){try{stored=JSON.parse(localStorage.getItem(STG_LOCAL_KEY)||"null");}catch(e){}}
+  if(!stored||!Array.isArray(stored.answers)||stored.answers.length!==questions.length){alert('Belum ada jawaban terakhir yang tersimpan.');return;}
+  stored.answers.forEach((v,i)=>answers[i]=(v===null?null:Number(v)));
+  submitted=true;
+  if(timerInterval!==null){clearInterval(timerInterval);timerInterval=null;}
+  document.getElementById("startScreen").style.display="none";
+  document.getElementById("examScreen").style.display="none";
+  document.getElementById("resultScreen").style.display="block";
+  showResult(false,stored);
+  await raLoadServer();
+}
+async function retakeQuiz(){
+  const ok=confirm('⚠️ Retake Quiz?\n\nSeluruh anotasi pada pembahasan percobaan sebelumnya akan dihapus dari akun Stangolden dan semua perangkat. Jawaban terakhir tetap tersimpan sampai percobaan baru dikumpulkan.\n\nLanjutkan ulangi ujian?');
+  if(!ok)return;
+  Object.keys(raSaveTimers).forEach(k=>{clearTimeout(raSaveTimers[k]);delete raSaveTimers[k];});
+  await Promise.all(Object.keys(raSavePending).map(k=>raSavePending[k]));
+  try {
+    const b=new URLSearchParams();b.set('action','anno_clear');b.set('sesskey',MOODLE_SESSKEY);
+    const r=await fetch(LEADERBOARD_ENDPOINT,{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/x-www-form-urlencoded;charset=UTF-8'},body:b.toString()});
+    const d=await r.json();if(!r.ok||!d.success)throw new Error(d.message||'Gagal menghapus anotasi');
+    reviewAnnoStore={};window.location.reload();
+  }catch(e){alert('Coretan belum berhasil dihapus dari server. Retake dibatalkan agar catatan tidak hilang sebagian. '+e.message);}
+}
+
+function showResult(saveCurrentAttempt=true, storedMeta=null){
+ if(raReviewObserver){raReviewObserver.disconnect();raReviewObserver=null;}
+ raServerReady=false;
+ reviewAnnoActive=null;reviewAnnoDrawing=false;reviewAnnoStroke=null;
+ document.getElementById("examScreen").style.display="none";
+ document.getElementById("resultScreen").style.display="block";
+
+ let correct=0,tpa={c:0,t:0},tsk={c:0,t:0};
+ questions.forEach((q,i)=>{
+   const ok=answers[i]===q.answer;
+   if(ok) correct++;
+   const b=i<50?tpa:tsk;
+   b.t++;
+   if(ok) b.c++;
+ });
+
+ const score=Math.round(correct/questions.length*100);
+ let review="";
+
+ questions.forEach((q,i)=>{
+   const ua=answers[i];
+   const ok=ua===q.answer;
+
+   // Peserta yang belum terdaftar Starbuster hanya dapat membuka
+   // pembahasan soal nomor 1, 2, dan 3.
+   if(!HAS_FULL_REVIEW && i>=3){
+     review+=`
+       <div class="review-locked">
+         <div class="review-lock-icon">🔒</div>
+         <h4>Pembahasan Soal ${i+1} Terkunci</h4>
+         <p>Pembahasan lengkap nomor ini tersedia khusus peserta <b>Starbuster 2026</b>.</p>
+
+         <div class="review-locked-promo">
+           <a href="https://stangolden.com/elearning/bootcampupkp/starbuster.png" target="_blank" rel="noopener noreferrer">
+             <img src="https://stangolden.com/elearning/bootcampupkp/starbuster.png" alt="Starbuster 2026">
+           </a>
+         </div>
+
+         <a
+           class="review-register-btn"
+           href="https://wa.me/6285714369422?text=Halo%20Admin%2C%20Saya%20ingin%20mendaftar%20paket%20Persiapan%20UPKP%20Kemenkeu%20Starbuster%202026"
+           target="_blank"
+           rel="noopener noreferrer"
+         >
+           📲 Daftar Starbuster 2026
+         </a>
+       </div>
+     `;
+     return;
+   }
+
+   review+=`
+     <div class="review" id="reviewQuestion-${i}">
+       ${raButtons(i)}
+       <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px">
+         <span class="badge ${q.category==="TPA"?"tpa":"tsk"}">${q.category} • ${q.sub}</span>
+         ${q.difficulty ? `<span class="badge diff">${q.difficulty}</span>` : ""}
+       </div>
+       <div class="review-question-head">
+         <div class="review-number">${i+1}</div>
+         <div class="review-question-text">${q.question}</div>
+       </div>
+       ${buildReviewFigure(q,i,ua)}
+       <div style="margin-top:10px;font-weight:800">Pilihan Jawaban:</div>
+       ${buildReviewOptions(q,ua)}
+       <p>Jawaban kamu: ${
+         ua===null
+         ? '<span class="bad">Tidak dijawab</span>'
+         : `<strong>${letters[ua]}. ${q.options[ua]}</strong>`
+       }</p>
+       <p class="${ok?"ok":"bad"}">${ok?"✓ BENAR":"✕ SALAH"}</p>
+       ${ok?"":`<p>Jawaban benar: <strong>${letters[q.answer]}. ${q.options[q.answer]}</strong></p>`}
+       <div class="explanation">${q.explanation}</div>
+       <span class="source">Sumber: ${q.source||"Nilai-Nilai Kemenkeu"}</span>
+       <canvas class="review-annotation-canvas" id="reviewAnnotationCanvas-${i}" data-question="${i}" aria-label="Area coretan pembahasan soal ${i+1}"></canvas>
+     </div>
+   `;
+ });
+
+ const accessNote=HAS_FULL_REVIEW
+   ? ""
+   : `<div class="lb-note" style="margin:0 0 16px">🔒 Kamu dapat membuka <b>3 pembahasan pertama</b>. Nomor 4–100 khusus peserta Starbuster 2026.</div>`;
+
+ document.getElementById("resultContent").innerHTML=`
+   <div class="card result-card">
+     <div class="scorehead">
+       <div class="scorebox"><strong>${score}</strong></div>
+       <div>
+         <h2 style="margin:0 0 8px;font-size:29px">Hasil Mini Try Out</h2>
+         <p>Benar <strong>${correct} dari ${questions.length}</strong> soal.</p>
+         <p style="color:var(--muted)">Gunakan breakdown di bawah untuk melihat area yang perlu diperkuat.</p>
+         <div class="save-status" id="leaderboardSaveStatus">Menyimpan nilai ke ranking...</div>
+       </div>
+     </div>
+
+     <div class="breakdown">
+       <div class="break tpa"><strong>📗 Hlm. 7–11</strong><div style="font-size:26px;font-weight:900">${tpa.c}/${tpa.t}</div></div>
+       <div class="break tsk"><strong>📘 Hlm. 12–16</strong><div style="font-size:26px;font-weight:900">${tsk.c}/${tsk.t}</div></div>
+     </div>
+
+     ${accessNote}
+     <div style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:14px 0">
+       <h3 style="font-size:22px;margin:0">Pembahasan Lengkap</h3>
+       <button type="button" class="btn" onclick="openLeaderboard()">🏆 Lihat Ranking</button>
+     </div>
+     ${review}
+   </div>
+ `;
+
+ if(saveCurrentAttempt){
+   const timeTaken=Math.max(0,Math.min(3900,3900-seconds));
+   try {localStorage.setItem(STG_LOCAL_KEY,JSON.stringify({answers:answers.slice(),correct,score,timetaken:timeTaken,savedAt:Date.now()}));}catch(err){}
+   saveScoreToLeaderboard(score,correct);
+ }else{
+   const status=document.getElementById("leaderboardSaveStatus");
+   if(status){
+     const timeInfo=storedMeta && Number.isFinite(Number(storedMeta.timetaken))
+       ? ` • Waktu ${formatLeaderboardTime(Number(storedMeta.timetaken))}`
+       : "";
+
+     status.innerHTML=`📝 <b>Menampilkan jawaban dari percobaan terakhir yang tersimpan.</b>${timeInfo}`;
+   }
+
+   if(IS_SITE_ADMIN){
+     loadAdminQuestionStats();
+   }
+ }
+
+ scrollTo({top:0,behavior:"smooth"});
+}
+function tick(){const m=String(Math.floor(seconds/60)).padStart(2,"0"),s=String(seconds%60).padStart(2,"0");document.getElementById("timer").textContent=m+":"+s;if(seconds<=0){if(!submitted){submitted=true;if(timerInterval!==null){clearInterval(timerInterval);timerInterval=null;}showResult()}return}seconds--}
+let timerInterval=null;
+
+function startExam(){
+  document.getElementById("startScreen").style.display="none";
+  document.getElementById("examScreen").style.display="block";
+
+  // Tampilkan soal pertama dan baru mulai timer setelah tombol diklik.
+  render();
+  tick();
+
+  if(timerInterval===null){
+    timerInterval=setInterval(tick,1000);
+  }
+
+  window.scrollTo({top:0,behavior:"smooth"});
+}
+
+</script></body></html>
