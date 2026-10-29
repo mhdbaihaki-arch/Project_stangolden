@@ -1,0 +1,2965 @@
+{
+  "paket_nomor": 4,
+  "dokumen_sumber": "4. Pengelolaan Keuangan Negara.pdf",
+  "rentang_halaman": "Halaman 42 s/d Halaman 53",
+  "jumlah_soal": 100,
+  "distribusi_kunci": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20,
+    "E": 20
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 42,
+      "kata_kunci_modul": [
+        "Penerimaan Perpajakan, Penerimaan Negara Bukan",
+        "Pajak (PNBP) dan Hibah"
+      ],
+      "topik_materi": "Tiga Komponen Pendapatan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Struktur pendapatan negara dalam anggaran pendapatan dan belanja negara terdiri atas...",
+      "pilihan": {
+        "A": "Penerimaan perpajakan, PNBP, dan penerimaan hibah",
+        "B": "Penerimaan pajak, penjualan aset, dan pinjaman obligasi",
+        "C": "Penerimaan kepabeanan, retribusi daerah, dan devisa luar",
+        "D": "Penerimaan deviden BUMN, laba BI, dan utang komersial",
+        "E": "Penerimaan cukai, dana bagi hasil, dan alokasi umum"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pendapatan Negara terdiri atas **Penerimaan Perpajakan, Penerimaan Negara Bukan Pajak (PNBP) dan Hibah**.",
+        "alasan_kunci": "Opsi A tepat karena secara konstitusional tiga pos inilah yang membentuk seluruh sumber pendapatan pada postur APBN. Ketiganya menampung seluruh penerimaan negara yang tidak menimbulkan kewajiban pengembalian utang.",
+        "bedah_pengecoh": {
+          "B": "Pinjaman obligasi merupakan pos pembiayaan anggaran, bukan pendapatan negara.",
+          "C": "Retribusi daerah merupakan komponen pendapatan asli daerah dalam APBD.",
+          "D": "Utang komersial tergolong dalam pos pembiayaan utang pemerintah.",
+          "E": "Dana bagi hasil dan alokasi umum merupakan pos belanja transfer ke daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 42,
+      "kata_kunci_modul": [
+        "Pajak Dalam Negeri dan Pajak",
+        "Perdagangan Internasional"
+      ],
+      "topik_materi": "Sumber Penerimaan Perpajakan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan perpajakan pemerintah pusat secara garis besar bersumber dari...",
+      "pilihan": {
+        "A": "Pajak pusat kementerian dan retribusi perizinan daerah",
+        "B": "Pajak dalam negeri dan pajak perdagangan internasional",
+        "C": "Pajak bumi perkotaan dan bea perolehan hak tanah",
+        "D": "Pajak penghasilan badan dan pungutan ekspor migas",
+        "E": "Pajak transaksi perbankan dan cukai komoditas impor"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Penerimaan Perpajakan bersumber dari penerimaan **Pajak Dalam Negeri dan Pajak Perdagangan Internasional**.",
+        "alasan_kunci": "Opsi B tepat karena klasifikasi perpajakan membedakan antara pajak yang dipungut atas aktivitas ekonomi di dalam yurisdiksi nasional dengan pajak atas perlintasan barang antarnegara. Pembagian ini menjadi standar postur penerimaan APBN.",
+        "bedah_pengecoh": {
+          "A": "Retribusi perizinan daerah merupakan sumber pendapatan asli daerah.",
+          "C": "PBB perkotaan dan BPHTB telah dialihkan menjadi pajak daerah.",
+          "D": "Pajak badan dan pungutan ekspor adalah rincian sub-pos spesifik.",
+          "E": "Pajak transaksi perbankan bukan pos klasifikasi utama perpajakan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 42,
+      "kata_kunci_modul": [
+        "Bea Masuk dan Pajak Ekspor"
+      ],
+      "topik_materi": "Pajak Perdagangan Internasional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan perpajakan dari sektor perdagangan internasional terdiri atas...",
+      "pilihan": {
+        "A": "Cukai hasil tembakau dan pungutan alkohol impor",
+        "B": "Pajak pertambahan nilai dan bea meterai dokumen",
+        "C": "Bea masuk barang impor dan pajak ekspor",
+        "D": "Pajak penjualan barang mewah dan pajak penghasilan",
+        "E": "Bea lelang negara dan retribusi pelabuhan udara"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pajak Perdagangan Internasional terdiri atas **Bea Masuk dan Pajak Ekspor** (bea keluar).",
+        "alasan_kunci": "Opsi C tepat karena kedua instrumen tarif ini dikenakan atas lalu lintas barang yang melintasi batas daerah pabean Indonesia. Bea masuk dipungut atas impor, sedangkan pajak ekspor dipungut atas komoditas ekspor tertentu.",
+        "bedah_pengecoh": {
+          "A": "Cukai adalah pungutan konsumsi barang tertentu dalam kelompok pajak domestik.",
+          "B": "PPN dan bea meterai digolongkan dalam kelompok pajak dalam negeri.",
+          "D": "PPnBM dan PPh merupakan jenis pajak dalam negeri yang utama.",
+          "E": "Bea lelang dan retribusi pelabuhan tergolong dalam penerimaan PNBP."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 42,
+      "kata_kunci_modul": [
+        "Pajak Pertambahan Nilai (PPN) dan Pajak",
+        "Penjualan atas Barang Mewah"
+      ],
+      "topik_materi": "Komponen Pajak Dalam Negeri",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kelompok pajak dalam negeri pada postur penerimaan perpajakan mencakup...",
+      "pilihan": {
+        "A": "Pajak hotel, restoran, hiburan, dan penerangan jalan",
+        "B": "Bea masuk impor, bea keluar ekspor, dan retribusi jasa",
+        "C": "Pajak kendaraan bermotor, retribusi parkir, dan reklame",
+        "D": "Pajak penghasilan, PPN, PPnBM, cukai, dan pajak lainnya",
+        "E": "Pungutan hasil perikanan dan dividen perusahaan negara"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Penerimaan Pajak Dalam Negeri terdiri atas **Pajak Penghasilan, Pajak Penghasilan Migas, Pajak Pertambahan Nilai (PPN) dan Pajak Penjualan atas Barang Mewah (PPn BM), Cukai, dan Pajak Lainnya**.",
+        "alasan_kunci": "Opsi D tepat karena jenis-jenis pajak tersebut dipungut langsung oleh pemerintah pusat melalui Direktorat Jenderal Pajak dan Direktorat Jenderal Bea Cukai atas aktivitas ekonomi domestik. Penerimaan ini menjadi penopang utama pendapatan negara.",
+        "bedah_pengecoh": {
+          "A": "Pajak hotel dan restoran merupakan jenis pajak daerah kabupaten kota.",
+          "B": "Bea masuk dan bea keluar tergolong pajak perdagangan internasional.",
+          "C": "Pajak kendaraan dan retribusi parkir adalah wewenang pemerintah daerah.",
+          "E": "Pungutan perikanan dan dividen BUMN tergolong dalam kelompok PNBP."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 42,
+      "kata_kunci_modul": [
+        "Bangunan dan Bea Perolehan Hak atas Tanah dan Bangunan (BPHTB)"
+      ],
+      "topik_materi": "Pajak Dalam Negeri yang Dialihkan ke Pemda",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dua jenis pajak dalam negeri yang telah diserahkan pengelolaannya kepada pemda adalah...",
+      "pilihan": {
+        "A": "Pajak penghasilan migas dan bea masuk barang kiriman",
+        "B": "Pajak pertambahan nilai dan pajak penjualan barang mewah",
+        "C": "Pajak penghasilan badan dan cukai hasil tembakau",
+        "D": "Bea meterai dokumen dan pajak perdagangan luar negeri",
+        "E": "Pajak bumi bangunan perdesaan perkotaan dan BPHTB"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Ada dua jenis pajak dalam negeri yang telah diserahkan pengelolaannya kepada Pemerintah daerah yakni **Pajak Bumi dan Bangunan dan Bea Perolehan Hak atas Tanah dan Bangunan (BPHTB)**.",
+        "alasan_kunci": "Opsi E tepat karena dalam rangka otonomi daerah dan desentralisasi fiskal, kewenangan penetapan serta pemungutan PBB sektor P2 dan BPHTB dialihkan penuh menjadi pendapatan asli daerah pemerintah kabupaten/kota.",
+        "bedah_pengecoh": {
+          "A": "PPh migas dan bea masuk dikelola pusat di bawah Kementerian Keuangan.",
+          "B": "PPN dan PPnBM tetap dikelola secara terpusat oleh pemerintah pusat.",
+          "C": "PPh badan dan cukai merupakan penerimaan pajak pusat yang vital.",
+          "D": "Bea meterai dan perdagangan luar negeri adalah kewenangan pusat."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 42,
+      "kata_kunci_modul": [
+        "Penerimaan Negara Bukan",
+        "Pajak (PNBP)"
+      ],
+      "topik_materi": "Kedudukan PNBP dalam Pendapatan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan negara selain dari sektor perpajakan dan hibah dikelompokkan ke dalam...",
+      "pilihan": {
+        "A": "Penerimaan Negara Bukan Pajak (PNBP)",
+        "B": "Penerimaan pembiayaan non-anggaran kementerian",
+        "C": "Penerimaan dana alokasi khusus transfer daerah",
+        "D": "Penerimaan cadangan devisa moneter perbankan",
+        "E": "Penerimaan pinjaman program luar negeri bersyarat"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pendapatan negara di luar perpajakan dan hibah ditampung dalam **Penerimaan Negara Bukan Pajak (PNBP)**.",
+        "alasan_kunci": "Opsi A tepat karena PNBP merupakan pilar pendapatan negara yang bersumber dari pemanfaatan sumber daya alam, pelayanan instansi, dan dividen BUMN. PNBP wajib disetor ke kas negara dan dikelola dalam mekanisme APBN.",
+        "bedah_pengecoh": {
+          "B": "Penerimaan non-anggaran dilarang dalam pengelolaan keuangan negara.",
+          "C": "Dana alokasi khusus merupakan pos belanja transfer ke daerah.",
+          "D": "Cadangan devisa merupakan aset moneter yang dikelola Bank Indonesia.",
+          "E": "Pinjaman luar negeri merupakan komponen pembiayaan utang negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 42,
+      "kata_kunci_modul": [
+        "Penerimaan Perpajakan bersumber dari"
+      ],
+      "topik_materi": "Peran Utama Penerimaan Perpajakan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam komposisi pendapatan APBN, penerimaan perpajakan berperan sebagai...",
+      "pilihan": {
+        "A": "Dana cadangan darurat penanggulangan krisis moneter",
+        "B": "Sumber utama pendanaan belanja penyelenggaraan negara",
+        "C": "Penyedia likuiditas pinjaman lunak badan usaha swasta",
+        "D": "Instrumen penjaminan emisi obligasi daerah otonom",
+        "E": "Pos penyangga defisit kas operasional badan perbankan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Penerimaan Perpajakan bersumber dari** pajak dalam negeri dan internasional yang menjadi tumpuan utama pendapatan negara.",
+        "alasan_kunci": "Opsi B tepat karena pajak menyumbang porsi terbesar dalam membiayai belanja operasional dan belanja pembangunan nasional. Kedaulatan fiskal dicapai ketika belanja negara mampu ditopang secara mandiri oleh penerimaan perpajakan.",
+        "bedah_pengecoh": {
+          "A": "Cadangan krisis moneter dikelola melalui koordinasi KSSK dan BI.",
+          "C": "Pajak tidak dialokasikan untuk pinjaman lunak badan usaha swasta.",
+          "D": "Penjaminan obligasi daerah tunduk pada aturan investasi modal perbendaharaan.",
+          "E": "Operasional perbankan komersial bukan sasaran alokasi belanja pajak."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 42,
+      "kata_kunci_modul": [
+        "Cukai dan Pajak Lainnya"
+      ],
+      "topik_materi": "Cukai dan Pajak Lainnya",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pungutan negara atas barang tertentu yang konsumsinya perlu dikendalikan masuk dalam pos...",
+      "pilihan": {
+        "A": "Retribusi umum pada kelompok pendapatan bukan pajak",
+        "B": "Bea masuk pada kelompok perdagangan internasional",
+        "C": "Cukai pada kelompok penerimaan pajak dalam negeri",
+        "D": "Pajak pertambahan nilai barang mewah impor",
+        "E": "Pungutan royalti sumber daya mineral dan batu bara"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Penerimaan pajak dalam negeri mencakup pos **Cukai dan Pajak Lainnya**.",
+        "alasan_kunci": "Opsi C tepat karena cukai merupakan pungutan khusus atas barang yang memiliki sifat dan karakteristik tertentu seperti tembakau dan alkohol. Cukai dimasukkan ke dalam pos pajak dalam negeri pada postur penerimaan APBN.",
+        "bedah_pengecoh": {
+          "A": "Retribusi umum adalah pungutan atas jasa layanan pemda.",
+          "B": "Bea masuk dipungut atas barang impor yang melintasi perbatasan.",
+          "D": "PPnBM adalah pajak konsumsi atas barang berstatus mewah.",
+          "E": "Royalti minerba tergolong dalam pendapatan sumber daya alam PNBP."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 43,
+      "kata_kunci_modul": [
+        "setiap tambahan kemampuan ekonomis",
+        "yang diterima atau diperoleh Wajib Pajak"
+      ],
+      "topik_materi": "Definisi Objek Pajak Penghasilan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Objek Pajak Penghasilan pada hakikatnya didefinisikan sebagai...",
+      "pilihan": {
+        "A": "Nilai transaksi penyerahan barang kena pajak di pasar modal",
+        "B": "Seluruh harta kekayaan tetap yang dimiliki oleh suatu badan",
+        "C": "Total omzet penjualan kotor barang tanpa memperhitungkan biaya",
+        "D": "Setiap tambahan kemampuan ekonomis yang diterima wajib pajak",
+        "E": "Selisih kurs valuta asing pada rekening giro kas umum negara"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Objek Pajak Penghasilan adalah **setiap tambahan kemampuan ekonomis yang diterima atau diperoleh Wajib Pajak**.",
+        "alasan_kunci": "Opsi D tepat karena konsep penghasilan di Indonesia menganut definisi materiil yang luas (*accretion concept*). Setiap tambahan daya pikul ekonomis dengan nama dan dalam bentuk apa pun yang menambah kekayaan menjadi objek pengenaan PPh.",
+        "bedah_pengecoh": {
+          "A": "Penyerahan barang kena pajak merupakan objek pengenaan PPN.",
+          "B": "Harta kekayaan tetap merupakan objek pengenaan PBB, bukan PPh.",
+          "C": "Omzet kotor adalah dasar peredaran bruto, bukan esensi penghasilan netto.",
+          "E": "Selisih kurs kas negara merupakan transaksi moneter perbendaharaan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 43,
+      "kata_kunci_modul": [
+        "dapat dipakai untuk konsumsi atau",
+        "untuk menambah kekayaan Wajib Pajak"
+      ],
+      "topik_materi": "Tujuan Penggunaan Kemampuan Ekonomis",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tambahan kemampuan ekonomis dikategorikan sebagai objek PPh apabila dapat dipakai untuk...",
+      "pilihan": {
+        "A": "Menjamin kelancaran likuiditas transaksi pasar uang",
+        "B": "Membayar utang luar negeri badan usaha milik negara",
+        "C": "Membiayai program bantuan sosial pemerintah daerah",
+        "D": "Menambah setoran pokok tabungan perumahan rakyat",
+        "E": "Konsumsi atau menambah kekayaan wajib pajak bersangkutan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kemampuan ekonomis objek PPh adalah yang **dapat dipakai untuk konsumsi atau untuk menambah kekayaan Wajib Pajak yang bersangkutan**.",
+        "alasan_kunci": "Opsi E tepat karena indikator penikmatan penghasilan tercermin dari dua hal, yaitu dibelanjakan untuk kebutuhan konsumsi pribadi atau disimpan/diinvestasikan guna menambah aset kekayaan wajib pajak.",
+        "bedah_pengecoh": {
+          "A": "Likuiditas pasar uang merupakan fungsi sistem intermediasi keuangan.",
+          "B": "Membayar utang BUMN bukan indikator kemampuan konsumsi wajib pajak.",
+          "C": "Bantuan sosial pemda didanai melalui belanja APBD pemerintah.",
+          "D": "Tabungan tapera adalah salah satu bentuk instrumen simpanan wajib kerja."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 43,
+      "kata_kunci_modul": [
+        "berasal dari Indonesia",
+        "maupun dari luar Indonesia"
+      ],
+      "topik_materi": "Cakupan Geografis Penghasilan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan prinsip *worldwide income*, penghasilan yang menjadi objek PPh berasal dari...",
+      "pilihan": {
+        "A": "Dalam negeri Indonesia maupun dari luar negeri Indonesia",
+        "B": "Wilayah kepulauan terluar dan daerah perbatasan negara",
+        "C": "Sentra kawasan industri manufaktur terpadu nasional",
+        "D": "Badan usaha yang terdaftar di bursa efek domestik",
+        "E": "Entitas bisnis yang beroperasi di wilayah pabean bebas"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh mencakup penghasilan **baik yang berasal dari Indonesia maupun dari luar Indonesia**.",
+        "alasan_kunci": "Opsi A tepat karena wajib pajak dalam negeri dikenakan pajak atas seluruh penghasilan globalnya (*worldwide income principle*). Tidak dibedakan apakah sumber uang tersebut dihasilkan dari dalam negeri atau dari luar yurisdiksi Indonesia.",
+        "bedah_pengecoh": {
+          "B": "Wilayah perbatasan adalah bagian integral wilayah domestik Indonesia.",
+          "C": "Kawasan industri adalah sentra manufaktur dengan fasilitas fiskal tertentu.",
+          "D": "Bursa efek domestik adalah pasar modal perdagangan saham terdaftar.",
+          "E": "Kawasan bebas pabean mendapat fasilitas penangguhan kepabeanan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 43,
+      "kata_kunci_modul": [
+        "gaji, upah, tunjangan, honorarium,",
+        "komisi, bonus, gratifikasi, uang pensiun"
+      ],
+      "topik_materi": "Imbalan Pekerjaan sebagai Objek PPh",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bentuk imbalan berkenaan dengan pekerjaan yang termasuk objek PPh mencakup...",
+      "pilihan": {
+        "A": "Klaim santunan kecelakaan kerja dari asuransi umum",
+        "B": "Gaji, upah, tunjangan, honorarium, bonus, dan pensiun",
+        "C": "Pemberian warisan tanah dan bangunan keluarga lurus",
+        "D": "Setoran tunai pengganti penyertaan modal saham baru",
+        "E": "Bantuan bencana alam dari lembaga filantropi sosial"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Imbalan pekerjaan objek PPh meliputi **gaji, upah, tunjangan, honorarium, komisi, bonus, gratifikasi, uang pensiun, atau imbalan bentuk lainnya**.",
+        "alasan_kunci": "Opsi B tepat karena seluruh kompensasi finansial yang diterima pekerja sebagai imbal jasa atas hubungan kerja merupakan penghasilan kena pajak PPh Pasal 21. Bentuk natura tertentu kini juga dapat menjadi objek pajak.",
+        "bedah_pengecoh": {
+          "A": "Klaim asuransi kecelakaan dikecualikan dari objek pajak penghasilan.",
+          "C": "Warisan bukan merupakan objek pajak penghasilan menurut undang-undang.",
+          "D": "Setoran modal pengganti saham dikecualikan dari pengenaan PPh.",
+          "E": "Bantuan bencana sosial memenuhi syarat bukan objek pajak penghasilan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 43,
+      "kata_kunci_modul": [
+        "hadiah dari undian atau pekerjaan atau kegiatan, dan penghargaan"
+      ],
+      "topik_materi": "Hadiah dan Penghargaan Objek PPh",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tambahan penghasilan yang diperoleh dari perlombaan atau sayembara digolongkan sebagai...",
+      "pilihan": {
+        "A": "Penyerahan jasa kena pajak dengan pemotongan tarif PPN",
+        "B": "Penerimaan santunan kemanusiaan bebas pengenaan tarif pajak",
+        "C": "Hadiah undian, pekerjaan, kegiatan, dan penghargaan objek PPh",
+        "D": "Dividen terselubung atas penyertaan modal badan hukum",
+        "E": "Bantuan sosial keagamaan yang dikecualikan dari pelaporan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh mencakup **hadiah dari undian atau pekerjaan atau kegiatan, dan penghargaan**.",
+        "alasan_kunci": "Opsi C tepat karena perolehan hadiah undian maupun penghargaan prestasi perlombaan menambah kemampuan ekonomis pemenang secara nyata. Oleh karena itu, panitia wajib memotong PPh atas hadiah tersebut.",
+        "bedah_pengecoh": {
+          "A": "Hadiah perlombaan bukan merupakan transaksi penyerahan jasa PPN.",
+          "B": "Hadiah sayembara bukan santunan sosial kemanusiaan.",
+          "D": "Dividen adalah pembagian keuntungan perseroan kepada pemegang saham.",
+          "E": "Bantuan keagamaan diatur tersendiri sebagai bukan objek pajak."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 43,
+      "kata_kunci_modul": [
+        "laba usaha"
+      ],
+      "topik_materi": "Laba Usaha sebagai Objek PPh",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keuntungan bersih yang diperoleh badan dari hasil kegiatan operasional bisnis disebut...",
+      "pilihan": {
+        "A": "Surplus likuiditas kas operasional bendahara umum",
+        "B": "Pendapatan hibah terikat operasional kementerian",
+        "C": "Penerimaan bukan pajak atas pemanfaatan sumber daya",
+        "D": "Laba usaha yang merupakan objek pajak penghasilan",
+        "E": "Nilai tambah atas penyerahan barang konsumsi akhir"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh secara tegas mencakup **laba usaha**.",
+        "alasan_kunci": "Opsi D tepat karena selisih lebih penerimaan bruto atas biaya-biaya yang diperkenankan dalam kegiatan perniagaan merupakan laba usaha kena pajak. Laba usaha menjadi basis perhitungan PPh Badan.",
+        "bedah_pengecoh": {
+          "A": "Surplus kas bendahara adalah posisi likuiditas perbendaharaan negara.",
+          "B": "Pendapatan hibah adalah transfer sukarela tanpa imbalan komersial.",
+          "C": "Penerimaan SDA PNBP dipungut oleh negara atas eksploitasi alam.",
+          "E": "Nilai tambah penyerahan barang merupakan basis pengenaan PPN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 43,
+      "kata_kunci_modul": [
+        "sebagai pengganti saham atau",
+        "penyertaan modal"
+      ],
+      "topik_materi": "Keuntungan Pengalihan Harta Badan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keuntungan yang diperoleh karena pengalihan harta kepada perseroan diakui sebagai...",
+      "pilihan": {
+        "A": "Pengembalian setoran modal awal kepada perseroan",
+        "B": "Penyerahan hibah murni yang bebas dari pengenaan pajak",
+        "C": "Bantuan kemanusiaan darurat bagi kelangsungan usaha",
+        "D": "Penghapusan piutang macet yang disahkan pengadilan",
+        "E": "Keuntungan pengalihan harta pengganti saham atau modal"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh mencakup keuntungan karena pengalihan harta kepada perseroan, persekutuan, dan badan lainnya **sebagai pengganti saham atau penyertaan modal**.",
+        "alasan_kunci": "Opsi E tepat karena selisih lebih antara nilai pasar harta yang diserahkan dengan nilai buku fiskalnya diakui sebagai keuntungan kena pajak (capital gain). Transaksi *inbreng* ini dikenakan PPh atas keuntungan tersebut.",
+        "bedah_pengecoh": {
+          "A": "Pengembalian modal terjadi saat likuidasi atau penurunan modal disetor.",
+          "B": "Pengalihan saham bermotif investasi komersial, bukan hibah murni.",
+          "C": "Inbreng modal adalah transaksi bisnis korporasi, bukan bantuan sosial.",
+          "D": "Penghapusan piutang merupakan pos pembukuan kerugian piutang."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 43,
+      "kata_kunci_modul": [
+        "likuidasi, penggabungan, peleburan, pemekaran,",
+        "pemecahan, pengambilalihan usaha, atau reorganisasi"
+      ],
+      "topik_materi": "Keuntungan Restrukturisasi Usaha",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keuntungan karena peristiwa restrukturisasi perusahaan yang menjadi objek PPh meliputi...",
+      "pilihan": {
+        "A": "Likuidasi, penggabungan, peleburan, pemekaran, dan pemecahan usaha",
+        "B": "Penurunan tarif bea masuk impor bahan baku industri",
+        "C": "Penerbitan surat izin usaha perdagangan oleh pemerintah",
+        "D": "Pemberian dispensasi pembayaran retribusi daerah tahunan",
+        "E": "Perpanjangan masa berlaku hak guna bangunan industri"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh mencakup keuntungan karena **likuidasi, penggabungan, peleburan, pemekaran, pemecahan, pengambilalihan usaha, atau reorganisasi**.",
+        "alasan_kunci": "Opsi A tepat karena proses merger, akuisisi, atau likuidasi sering kali menimbulkan revaluasi atau pelepasan aset dengan nilai di atas nilai buku. Keuntungan pelepasan aset tersebut wajib dilaporkan sebagai objek PPh.",
+        "bedah_pengecoh": {
+          "B": "Penurunan tarif bea masuk adalah fasilitas tarif kepabeanan.",
+          "C": "Izin usaha perdagangan merupakan dokumen legalitas operasional bisnis.",
+          "D": "Dispensasi retribusi adalah kebijakan keringanan pungutan pemda.",
+          "E": "Perpanjangan HGB adalah urusan hak atas tanah pada kantor pertanahan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 43,
+      "kata_kunci_modul": [
+        "penjualan atau pengalihan sebagian atau",
+        "seluruh hak penambangan"
+      ],
+      "topik_materi": "Keuntungan Pengalihan Hak Tambang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keuntungan yang diperoleh dari penjualan atau pengalihan hak penambangan termasuk...",
+      "pilihan": {
+        "A": "Penerimaan hibah sukarela sektor energi dan sumber daya",
+        "B": "Objek pajak penghasilan atas pengalihan hak penambangan",
+        "C": "Pungutan cukai atas komoditas hasil tambang bernilai tinggi",
+        "D": "Bea keluar atas pengiriman mineral mentah ke luar negeri",
+        "E": "Retribusi daerah atas pemanfaatan air bawah tanah tambang"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh mencakup keuntungan karena **penjualan atau pengalihan sebagian atau seluruh hak penambangan**, tanda turut serta dalam pembiayaan, atau permodalan.",
+        "alasan_kunci": "Opsi B tepat karena pengalihan konsesi atau izin usaha pertambangan (participating interest) menghasilkan keuntungan modal bernilai ekonomis tinggi. Keuntungan transaksi ini secara tegas dikunci sebagai objek PPh.",
+        "bedah_pengecoh": {
+          "A": "Pengalihan izin tambang adalah transaksi komersial, bukan hibah.",
+          "C": "Komoditas tambang tidak dikenai cukai melainkan royalti dan pajak.",
+          "D": "Bea keluar dipungut saat ekspor fisik mineral, bukan saat jual-beli izin.",
+          "E": "Retribusi air bawah tanah merupakan pungutan pemda atas pemakaian air."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 44,
+      "kata_kunci_modul": [
+        "pembayaran pajak yang telah dibebankan sebagai",
+        "biaya dan pembayaran tambahan pengembalian pajak"
+      ],
+      "topik_materi": "Penerimaan Kembali Pembayaran Pajak",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan kembali pembayaran pajak menjadi objek PPh apabila pajak tersebut sebelumnya...",
+      "pilihan": {
+        "A": "Dipungut dari konsumen akhir pada transaksi ritel",
+        "B": "Disetor ke rekening kas umum daerah secara langsung",
+        "C": "Telah dibebankan sebagai biaya dalam laporan fiskal",
+        "D": "Dihapuskan karena kedaluwarsa masa penagihan utang",
+        "E": "Dialihkan menjadi setoran modal perseroan terbatas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh meliputi **penerimaan kembali pembayaran pajak yang telah dibebankan sebagai biaya dan pembayaran tambahan pengembalian pajak**.",
+        "alasan_kunci": "Opsi C tepat karena saat pajak tersebut dibayarkan dulu, wajib pajak telah membebankannya sebagai pengurang penghasilan bruto. Ketika dana tersebut dikembalikan oleh otoritas pajak, restitusi tersebut harus dipulihkan kembali sebagai objek penghasilan.",
+        "bedah_pengecoh": {
+          "A": "Pajak konsumen akhir seperti PPN bukan beban biaya penghasilan bruto penjual.",
+          "B": "Penyetoran ke kas pemda tidak otomatis menentukan status beban fiskal.",
+          "D": "Pajak kedaluwarsa gugur demi hukum, bukan diterima kembali kasnya.",
+          "E": "Setoran modal adalah transaksi ekuitas, bukan pembebanan biaya operasional."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 44,
+      "kata_kunci_modul": [
+        "bunga termasuk premium, diskonto, dan imbalan karena jaminan",
+        "pengembalian utang"
+      ],
+      "topik_materi": "Bunga, Premium, dan Diskonto",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Imbalan finansial atas pinjaman dana yang menjadi objek PPh mencakup...",
+      "pilihan": {
+        "A": "Biaya administrasi penutupan rekening tabungan nasabah",
+        "B": "Pengembalian pokok pinjaman bank yang telah jatuh tempo",
+        "C": "Tambahan saldo simpanan giro akibat koreksi pembukuan",
+        "D": "Bunga termasuk premium, diskonto, dan imbalan jaminan utang",
+        "E": "Selisih cadangan wajib minimum perbankan di bank sentral"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh meliputi **bunga termasuk premium, diskonto, dan imbalan karena jaminan pengembalian utang**.",
+        "alasan_kunci": "Opsi D tepat karena keuntungan dari penempatan modal pinjaman menghasilkan return ekonomis bagi kreditur. Baik berupa bunga periodik, premium obligasi, maupun diskonto surat utang, seluruhnya merupakan objek PPh.",
+        "bedah_pengecoh": {
+          "A": "Biaya administrasi bank merupakan beban pengeluaran bagi nasabah.",
+          "B": "Pengembalian pokok pinjaman bukan penghasilan melainkan pelunasan aset piutang.",
+          "C": "Koreksi pembukuan internal bukan imbalan bunga transaksi permodalan.",
+          "E": "Giro wajib minimum adalah instrumen kebijakan likuiditas bank sentral."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 44,
+      "kata_kunci_modul": [
+        "dividen dengan nama dan dalam bentuk apapun"
+      ],
+      "topik_materi": "Dividen sebagai Objek PPh",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagian keuntungan perseroan yang dibagikan kepada pemegang saham diakui sebagai...",
+      "pilihan": {
+        "A": "Biaya bunga pinjaman modal kerja tahunan perseroan",
+        "B": "Pengembalian setoran modal pokok perseroan terbatas",
+        "C": "Tambahan dana cadangan umum badan usaha swasta",
+        "D": "Penyerahan hibah murni bebas pemotongan tarif pajak",
+        "E": "Dividen dengan nama dan dalam bentuk apa pun objek PPh"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh meliputi **dividen dengan nama dan dalam bentuk apapun**, termasuk dividen dari perusahaan asuransi kepada pemegang polis.",
+        "alasan_kunci": "Opsi E tepat karena dividen merupakan distribusi laba bersih perseroan yang dinikmati pemegang saham sebagai imbal hasil investasi ekuitas. Penghasilan dividen dikenakan pajak sesuai ketentuan tarif yang berlaku.",
+        "bedah_pengecoh": {
+          "A": "Bunga pinjaman adalah imbal hasil utang, bukan pembagian laba ekuitas.",
+          "B": "Pengembalian modal pokok hanya terjadi saat penarikan saham resmi.",
+          "C": "Cadangan umum adalah laba ditahan yang tidak dibagikan kepada pemegang saham.",
+          "D": "Dividen adalah hak pemegang saham atas laba, bukan hibah sosial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 44,
+      "kata_kunci_modul": [
+        "royalti atau imbalan atas penggunaan hak"
+      ],
+      "topik_materi": "Royalti sebagai Objek PPh",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Imbalan yang diterima pemilik hak cipta atau paten atas pemanfaatan karyanya adalah...",
+      "pilihan": {
+        "A": "Royalti atau imbalan atas penggunaan hak kekayaan intelektual",
+        "B": "Uang ganti rugi pembebasan lahan untuk proyek pemerintah",
+        "C": "Sewa atas pemakaian gedung perkantoran dan ruang rapat",
+        "D": "Hadiah penghargaan pengabdian masa kerja dari yayasan",
+        "E": "Upah borongan tenaga kerja lepas harian industri pabrik"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh meliputi **royalti atau imbalan atas penggunaan hak**.",
+        "alasan_kunci": "Opsi A tepat karena pemanfaatan hak kekayaan intelektual (paten, merek, hak cipta) oleh pihak lain menimbulkan kewajiban pembayaran royalti. Penerimaan royalti ini merupakan objek PPh yang dipotong di sumbernya.",
+        "bedah_pengecoh": {
+          "B": "Ganti rugi tanah adalah kompensasi pelepasan hak atas barang tidak bergerak.",
+          "C": "Sewa gedung merupakan penghasilan sewa atas pemanfaatan harta fisik.",
+          "D": "Hadiah masa kerja digolongkan sebagai imbalan pekerjaan atau penghargaan.",
+          "E": "Upah harian adalah kompensasi pekerjaan buruh yang masuk PPh Pasal 21."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 44,
+      "kata_kunci_modul": [
+        "sewa dan penghasilan lain sehubungan dengan penggunaan harta"
+      ],
+      "topik_materi": "Sewa Penggunaan Harta",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penghasilan yang diperoleh pemilik dari penyerahan hak pakai kendaraan atau mesin disebut...",
+      "pilihan": {
+        "A": "Bunga pinjaman modal kerja penyedia peralatan proyek",
+        "B": "Sewa dan penghasilan lain sehubungan penggunaan harta",
+        "C": "Keuntungan penjualan aset tetap modal perusahaan pabrik",
+        "D": "Dividen saham atas kepemilikan alat berat konstruksi",
+        "E": "Imbalan jasa konstruksi perencanaan tata ruang kota"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh mencakup **sewa dan penghasilan lain sehubungan dengan penggunaan harta**.",
+        "alasan_kunci": "Opsi B tepat karena imbalan atas pemakaian harta bergerak maupun harta tak bergerak memberikan tambahan kemampuan ekonomis bagi pemilik aset. Penghasilan sewa dikenakan pemotongan PPh sesuai jenis hartanya.",
+        "bedah_pengecoh": {
+          "A": "Bunga timbul dari transaksi utang piutang uang, bukan sewa barang fisik.",
+          "C": "Keuntungan penjualan timbul saat hak milik aset dialihkan secara permanen.",
+          "D": "Dividen berasal dari kepemilikan saham pada perseroan, bukan sewa mesin.",
+          "E": "Jasa konstruksi adalah imbalan pengerjaan fisik bangunan fasilitas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 44,
+      "kata_kunci_modul": [
+        "penerimaan atau perolehan pembayaran berkala"
+      ],
+      "topik_materi": "Pembayaran Berkala Objek PPh",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan kas yang didapatkan seseorang secara rutin setiap bulan atau tahunan diklasifikasikan sebagai...",
+      "pilihan": {
+        "A": "Penarikan simpanan pokok anggota koperasi simpan pinjam",
+        "B": "Pengembalian dana cadangan risiko likuiditas perbankan",
+        "C": "Penerimaan atau perolehan pembayaran berkala objek PPh",
+        "D": "Pelunasan utang pokok perbendaharaan luar negeri pemerintah",
+        "E": "Tambahan modal disetor oleh pemegang saham pengendali"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh meliputi **penerimaan atau perolehan pembayaran berkala**.",
+        "alasan_kunci": "Opsi C tepat karena pembayaran tunjangan hidup atau anuitas periodik yang diterima secara teratur merupakan aliran penghasilan bagi penerimanya. Sifat penerimaan yang berulang ini menjadikannya objek PPh.",
+        "bedah_pengecoh": {
+          "A": "Simpanan pokok koperasi adalah modal anggota, bukan pembayaran berkala.",
+          "B": "Pengembalian dana cadangan bank merupakan pergeseran likuiditas aset moneter.",
+          "D": "Pelunasan utang luar negeri adalah arus kas keluar pembiayaan anggaran.",
+          "E": "Tambahan modal disetor adalah transaksi penerimaan ekuitas perseroan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 44,
+      "kata_kunci_modul": [
+        "keuntungan karena pembebasan utang"
+      ],
+      "topik_materi": "Keuntungan Pembebasan Utang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Apabila debitur dibebaskan dari kewajiban membayar utang oleh kreditur, debitur memperoleh...",
+      "pilihan": {
+        "A": "Tambahan setoran modal dari kreditur ke dalam kas badan",
+        "B": "Penerimaan bantuan sosial murni tanpa implikasi perpajakan",
+        "C": "Keringanan tarif bea meterai atas perjanjian pinjaman dana",
+        "D": "Keuntungan karena pembebasan utang yang menjadi objek PPh",
+        "E": "Pengurangan kewajiban penyampaian surat pemberitahuan tahunan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh mencakup **keuntungan karena pembebasan utang, kecuali sampai dengan jumlah tertentu yang ditetapkan dengan Peraturan Pemerintah**.",
+        "alasan_kunci": "Opsi D tepat karena penghapusan kewajiban utang menyebabkan liabilitas berkurang sehingga kekayaan bersih debitur bertambah secara ekonomis. Tambahan kekayaan ini diakui sebagai penghasilan kena pajak bagi debitur.",
+        "bedah_pengecoh": {
+          "A": "Pembebasan utang tidak otomatis mengalihkan utang menjadi penyertaan saham.",
+          "B": "Pembebasan utang bisnis bukan merupakan bantuan sosial filantropi.",
+          "C": "Bea meterai dikenakan atas dokumen perikatan, bukan atas pembebasan utang.",
+          "E": "Kewajiban pelaporan SPT tahunan tetap melekat bagi setiap wajib pajak."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 44,
+      "kata_kunci_modul": [
+        "keuntungan selisih kurs mata uang asing"
+      ],
+      "topik_materi": "Keuntungan Selisih Kurs Valuta Asing",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keuntungan pembukuan yang timbul dari fluktuasi nilai tukar valuta asing merupakan...",
+      "pilihan": {
+        "A": "Pendapatan bunga atas penempatan surat perbendaharaan",
+        "B": "Penerimaan bea masuk atas barang impor komoditas mewah",
+        "C": "Cadangan modal likuiditas perbankan di bank sentral",
+        "D": "Koreksi kesalahan pencatatan transaksi kas perbendaharaan",
+        "E": "Keuntungan selisih kurs mata uang asing objek PPh"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh mencakup **keuntungan selisih kurs mata uang asing**.",
+        "alasan_kunci": "Opsi E tepat karena apresiasi nilai aset moneter valas terhadap rupiah menghasilkan keuntungan finansial nyata bagi wajib pajak saat direalisasikan maupun di akhir tahun buku. Keuntungan selisih kurs wajib dihitung dalam penghasilan kena pajak.",
+        "bedah_pengecoh": {
+          "A": "Pendapatan bunga dihitung terpisah dari keuntungan selisih kurs valuta.",
+          "B": "Bea masuk adalah tarif kepabeanan atas importasi barang fisik.",
+          "C": "Cadangan likuiditas bank sentral bukan pos penghasilan kena pajak wajib pajak.",
+          "D": "Koreksi pencatatan kas merupakan prosedur teknis akuntansi buku."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 44,
+      "kata_kunci_modul": [
+        "surplus Bank Indonesia"
+      ],
+      "topik_materi": "Surplus Bank Indonesia sebagai Objek PPh",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu objek PPh yang bersumber dari lembaga bank sentral adalah...",
+      "pilihan": {
+        "A": "Surplus Bank Indonesia setelah pembentukan cadangan tujuan",
+        "B": "Penerbitan uang kartal kertas dan logam emisi baru nasional",
+        "C": "Penarikan giro wajib minimum perbankan komersial daerah",
+        "D": "Penyediaan fasilitas likuiditas intrahari kepada perbankan",
+        "E": "Pemberian dana talangan penjaminan simpanan nasabah perbankan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Objek PPh secara khusus mencakup **surplus Bank Indonesia**.",
+        "alasan_kunci": "Opsi A tepat karena undang-undang menetapkan surplus hasil operasional Bank Indonesia yang dibagikan kepada pemerintah diperlakukan sebagai objek pajak penghasilan. Hal ini menjamin perlakuan fiskal yang adil atas penerimaan negara.",
+        "bedah_pengecoh": {
+          "B": "Pencetakan uang kartal adalah fungsi pencetakan rupiah, bukan objek pajak.",
+          "C": "Giro wajib minimum merupakan instrumen pengaturan moneter perbankan.",
+          "D": "Fasilitas likuiditas intrahari adalah layanan perbankan bank sentral.",
+          "E": "Penjaminan simpanan adalah fungsi Lembaga Penjamin Simpanan (LPS)."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 45,
+      "kata_kunci_modul": [
+        "warisan;"
+      ],
+      "topik_materi": "Warisan Bukan Objek Pajak",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Harta peninggalan orang tua yang beralih kepada ahli waris dikategorikan sebagai...",
+      "pilihan": {
+        "A": "Objek PPh final atas pengalihan hak tanah dan bangunan",
+        "B": "Bukan objek pajak penghasilan yang diatur undang-undang",
+        "C": "Penghasilan kena pajak yang wajib dipotong oleh notaris",
+        "D": "Penerimaan negara bukan pajak yang disetor ke kas negara",
+        "E": "Penyerahan barang kena pajak dengan pemotongan tarif PPN"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dikecualikan dari objek pajak penghasilan adalah **warisan**.",
+        "alasan_kunci": "Opsi B tepat karena peralihan harta karena pewarisan bukan merupakan transaksi komersial melainkan peristiwa hukum peralihan hak keluarga. Oleh undang-undang, harta warisan secara tegas dinyatakan bukan objek PPh.",
+        "bedah_pengecoh": {
+          "A": "Pengalihan warisan dikecualikan dari PPh final pengalihan tanah/bangunan.",
+          "C": "Notaris tidak memungut PPh atas pembagian harta warisan sah.",
+          "D": "Warisan bukan penerimaan PNBP pemerintah.",
+          "E": "Warisan bukan transaksi penyerahan barang kena pajak PPN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 45,
+      "kata_kunci_modul": [
+        "pengganti saham atau pengganti penyertaan modal"
+      ],
+      "topik_materi": "Setoran Modal Pengganti Saham",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setoran tunai yang diterima perseroan dari investor dikategorikan bukan objek PPh sebagai...",
+      "pilihan": {
+        "A": "Penerimaan pinjaman dana subordinasi jangka panjang badan",
+        "B": "Penjualan aset operasional perusahaan dengan nilai pasar",
+        "C": "Harta pengganti saham atau pengganti penyertaan modal",
+        "D": "Keuntungan likuidasi sisa kekayaan perseroan terbatas",
+        "E": "Pendapatan jasa pengelolaan portofolio efek pasar modal"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Bukan objek PPh meliputi **harta termasuk setoran tunai yang diterima oleh suatu badan sebagai pengganti saham atau pengganti penyertaan modal**.",
+        "alasan_kunci": "Opsi C tepat karena setoran modal merupakan pembentukan ekuitas dasar perusahaan, bukan imbalan atas penyerahan barang atau jasa. Penyetoran modal tidak dikenai pajak penghasilan.",
+        "bedah_pengecoh": {
+          "A": "Pinjaman subordinasi adalah liabilitas utang, bukan setoran modal saham.",
+          "B": "Penjualan aset operasional merupakan transaksi penyerahan yang kena pajak.",
+          "D": "Keuntungan likuidasi merupakan objek PPh atas pengalihan restrukturisasi.",
+          "E": "Jasa portofolio efek adalah imbalan jasa yang kena PPh Pasal 23."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 45,
+      "kata_kunci_modul": [
+        "asuransi kesehatan, asuransi kecelakaan, asuransi",
+        "jiwa, asuransi dwiguna, dan asuransi beasiswa"
+      ],
+      "topik_materi": "Klaim Asuransi Orang Pribadi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembayaran klaim yang diterima orang pribadi dari perusahaan asuransi bukan objek PPh untuk...",
+      "pilihan": {
+        "A": "Asuransi gagal bayar obligasi korporasi di bursa efek",
+        "B": "Asuransi kebakaran pabrik dan kehilangan barang kargo laut",
+        "C": "Asuransi tanggung gugat hukum direksi perusahaan publik",
+        "D": "Asuransi kesehatan, kecelakaan, jiwa, dwiguna, dan beasiswa",
+        "E": "Asuransi penurunan nilai aset tanah dan bangunan industri"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Bukan objek PPh adalah pembayaran dari perusahaan asuransi kepada orang pribadi sehubungan dengan **asuransi kesehatan, asuransi kecelakaan, asuransi jiwa, asuransi dwiguna, dan asuransi beasiswa**.",
+        "alasan_kunci": "Opsi D tepat karena penggantian biaya medis dan santunan jiwa bertujuan memulihkan kerugian fisik atau musibah yang dialami individu. Penerimaan santunan ini dikecualikan dari pemotongan PPh.",
+        "bedah_pengecoh": {
+          "A": "Asuransi gagal bayar obligasi adalah instrumen lindung nilai investasi.",
+          "B": "Klaim asuransi properti/kargo badan usaha diperhitungkan dalam laba rugi.",
+          "C": "Asuransi direksi badan usaha bukan asuransi santunan pribadi perorangan.",
+          "E": "Asuransi penurunan nilai tanah bukan jenis asuransi santunan perorangan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 45,
+      "kata_kunci_modul": [
+        "dividen atau bagian laba yang diterima perseroan terbatas"
+      ],
+      "topik_materi": "Dividen Antar Badan Usaha Domestik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dividen yang diterima perseroan terbatas dalam negeri dari penyertaan modal di Indonesia dikategorikan...",
+      "pilihan": {
+        "A": "Pendapatan operasional murni yang wajib dipungut PPN",
+        "B": "Dikenakan tarif PPh final sebesar dua puluh persen",
+        "C": "Objek pemotongan PPh Pasal 23 dengan tarif tertinggi",
+        "D": "Penerimaan hibah terikat bagi perseroan penerima dividen",
+        "E": "Dikecualikan dari objek pajak penghasilan badan penerima"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Bukan objek PPh adalah **dividen atau bagian laba yang diterima perseroan terbatas sebagai wajib pajak dalam negeri**, koperasi, yayasan, BUMN/BUMD dari penyertaan modal pada badan usaha di Indonesia.",
+        "alasan_kunci": "Opsi E tepat karena pengecualian ini bertujuan mencegah pengenaan pajak berganda (*economic double taxation*) atas laba yang sama di tingkat anak perusahaan dan induk perusahaan. Dividen antarbadan domestik bebas dari PPh.",
+        "bedah_pengecoh": {
+          "A": "Dividen adalah transaksi aliran modal yang berada di luar objek PPN.",
+          "B": "Tarif final 20% tidak berlaku untuk dividen antarbadan usaha domestik.",
+          "C": "Pemotongan PPh 23 dihapuskan untuk dividen antarkorporasi dalam negeri.",
+          "D": "Dividen adalah hak pemegang saham, bukan penerimaan hibah sosial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 45,
+      "kata_kunci_modul": [
+        "iuran yang diterima atau diperoleh dari dana pensiun"
+      ],
+      "topik_materi": "Iuran Dana Pensiun yang Disahkan Menkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Iuran yang diterima dana pensiun yang pendiriannya disahkan Menteri Keuangan berstatus...",
+      "pilihan": {
+        "A": "Bukan objek pajak penghasilan bagi lembaga dana pensiun",
+        "B": "Objek pemotongan PPh Pasal 21 atas penghasilan bruto",
+        "C": "Penerimaan negara bukan pajak pada kementerian keuangan",
+        "D": "Penyerahan jasa keuangan kena pajak dengan pungutan PPN",
+        "E": "Penerimaan hibah terikat dari pemberi kerja perusahaan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Bukan objek PPh mencakup **iuran yang diterima atau diperoleh dari dana pensiun yang pendiriannya telah disahkan oleh Menteri Keuangan**, baik dibayar pemberi kerja maupun pegawai.",
+        "alasan_kunci": "Opsi A tepat karena pemerintah memberikan fasilitas perpajakan guna mendorong pembentukan dana pensiun hari tua masyarakat. Iuran dan hasil investasi pada bidang tertentu yang ditetapkan Menkeu bebas PPh.",
+        "bedah_pengecoh": {
+          "B": "Iuran yang masuk ke dana pensiun bukan penghasilan kena PPh 21 lembaga.",
+          "C": "Iuran pensiun dikelola oleh lembaga dana pensiun mandiri, bukan PNBP.",
+          "D": "Jasa keuangan penghimpunan dana pensiun dikecualikan dari PPN.",
+          "E": "Iuran pensiun adalah kewajiban jaminan kerja, bukan hibah sosial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 45,
+      "kata_kunci_modul": [
+        "anggota perseroan",
+        "komanditer, persekutuan, perkumpulan, firma dan kongsi"
+      ],
+      "topik_materi": "Bagian Laba Anggota Persekutuan (CV/Firma)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagian laba yang diterima oleh anggota persekutuan komanditer (CV) atau firma berstatus...",
+      "pilihan": {
+        "A": "Objek PPh final atas penghasilan dividen orang pribadi",
+        "B": "Bukan objek pajak penghasilan di tangan anggota sekutu",
+        "C": "Objek pemotongan PPh Pasal 21 atas imbalan pekerjaan",
+        "D": "Penerimaan royalti atas penyertaan modal kerja sekutu",
+        "E": "Pendapatan jasa manajemen operasional persekutuan CV"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Bukan objek PPh meliputi **bagian laba yang diterima atau diperoleh dari anggota perseroan komanditer, persekutuan, perkumpulan, firma dan kongsi** yang modalnya tidak terbagi atas saham.",
+        "alasan_kunci": "Opsi B tepat karena laba CV atau firma telah dikenakan pajak penghasilan badan pada tingkat persekutuan. Saat laba tersebut diambil oleh para sekutu (prive), bagian laba tersebut tidak lagi dikenai PPh agar tidak terkena pajak ganda.",
+        "bedah_pengecoh": {
+          "A": "Prive CV bukan dividen perseroan dan tidak dikenakan PPh final.",
+          "C": "Bagian laba bukan imbalan gaji pekerjaan yang dipotong PPh 21.",
+          "D": "Prive adalah penarikan laba modal, bukan pembayaran royalti hak cipta.",
+          "E": "Penarikan bagian laba bukan imbalan jasa manajemen persekutuan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 45,
+      "kata_kunci_modul": [
+        "penghasilan yang diterima oleh perusahaan modal ventura"
+      ],
+      "topik_materi": "Penghasilan Modal Ventura",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagian laba yang diterima perusahaan modal ventura dari badan pasangan usaha di Indonesia...",
+      "pilihan": {
+        "A": "Diwajibkan memungut PPN atas penyediaan jasa permodalan",
+        "B": "Dikenai tarif PPh final tertinggi pada saat pembagian laba",
+        "C": "Dikecualikan dari objek pajak penghasilan modal ventura",
+        "D": "Dialihkan sepenuhnya menjadi penerimaan dividen kas negara",
+        "E": "Dikenai bea meterai tetap atas nominal keuntungan bersih"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Bukan objek PPh adalah **penghasilan yang diterima oleh perusahaan modal ventura berupa bagian laba dari badan pasangan usaha** yang didirikan dan menjalankan kegiatan di Indonesia.",
+        "alasan_kunci": "Opsi C tepat karena kebijakan fiskal ini dirancang untuk merangsang pendanaan ventura bagi usaha rintisan mikro, kecil, dan menengah. Fasilitas bebas PPh diberikan selama pasangan usahanya bukan perusahaan terbuka.",
+        "bedah_pengecoh": {
+          "A": "Penyertaan modal ventura adalah investasi modal ekuitas, bukan jasa PPN.",
+          "B": "Penghasilan ini justru dibebaskan dari pengenaan PPh final.",
+          "D": "Laba ventura dinikmati investor ventura swasta, bukan dividen negara.",
+          "E": "Bea meterai hanya dikenakan atas dokumen fisik, bukan atas nominal laba."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 45,
+      "kata_kunci_modul": [
+        "beasiswa yang memenuhi persyaratan tertentu"
+      ],
+      "topik_materi": "Beasiswa Bukan Objek PPh",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bantuan dana pendidikan yang diterima pelajar atau mahasiswa dikecualikan dari PPh sebagai...",
+      "pilihan": {
+        "A": "Penghargaan atas jasa pengabdian dosen perguruan tinggi",
+        "B": "Gaji honorarium asisten pengajar di lingkungan universitas",
+        "C": "Hadiah perlombaan karya ilmiah tingkat internasional",
+        "D": "Beasiswa yang memenuhi persyaratan tertentu perundang-undangan",
+        "E": "Uang kompensasi ikatan dinas pegawai pada kementerian"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dikecualikan dari objek PPh adalah **beasiswa yang memenuhi persyaratan tertentu**.",
+        "alasan_kunci": "Opsi D tepat karena beasiswa ditujukan untuk peningkatan mutu sumber daya manusia dan pendidikan nasional. Sepanjang penerima beasiswa tidak memiliki hubungan istimewa dengan pemberi beasiswa, dana tersebut bebas PPh.",
+        "bedah_pengecoh": {
+          "A": "Penghargaan jasa pengabdian merupakan objek pajak penghasilan.",
+          "B": "Honorarium asisten pengajar adalah imbalan kerja yang kena PPh 21.",
+          "C": "Hadiah perlombaan karya ilmiah merupakan hadiah yang kena PPh.",
+          "E": "Kompensasi dinas pegawai diperhitungkan dalam penghasilan kena pajak."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 45,
+      "kata_kunci_modul": [
+        "bantuan atau santunan yang dibayarkan oleh Badan Penyelenggara",
+        "Jaminan Sosial"
+      ],
+      "topik_materi": "Santunan BPJS Bukan Objek PPh",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Santunan yang dibayarkan BPJS kepada wajib pajak tertentu ditetapkan sebagai...",
+      "pilihan": {
+        "A": "Objek pungutan pajak pertambahan nilai penyerahan jasa",
+        "B": "Objek PPh Pasal 21 dengan tarif pemotongan progresif",
+        "C": "Penerimaan retribusi daerah perlindungan jaminan sosial",
+        "D": "Penghasilan kena pajak final atas transaksi perasuransian",
+        "E": "Bukan objek pajak penghasilan bagi wajib pajak penerima"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Bukan objek PPh meliputi **bantuan atau santunan yang dibayarkan oleh Badan Penyelenggara Jaminan Sosial kepada Wajib Pajak tertentu**.",
+        "alasan_kunci": "Opsi E tepat karena santunan jaminan sosial (seperti jaminan kematian atau kecelakaan kerja) berfungsi sebagai jaring pengaman sosial dasar bagi pekerja yang tertimpa musibah. Santunan ini dibebaskan dari potongan pajak.",
+        "bedah_pengecoh": {
+          "A": "Pemberian santunan musibah berada di luar ranah pengenaan PPN.",
+          "B": "Santunan jaminan sosial tidak dipotong tarif PPh Pasal 21 progresif.",
+          "C": "BPJS adalah badan hukum publik nasional, bukan penarik retribusi pemda.",
+          "D": "Santunan jaminan sosial bukan objek PPh final transaksi komersial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "dalam jangka waktu paling lama 4 (empat) tahun"
+      ],
+      "topik_materi": "Sisa Lebih Lembaga Pendidikan/Litbang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sisa lebih lembaga pendidikan nirlaba bukan objek PPh jika ditanamkan sarpras maksimal...",
+      "pilihan": {
+        "A": "Dalam jangka waktu paling lama empat tahun sejak diperoleh",
+        "B": "Dalam kurun waktu paling lambat satu tahun anggaran berjalan",
+        "C": "Setelah lewat masa sepuluh tahun penyimpanan di perbankan",
+        "D": "Sebelum akhir masa jabatan pimpinan dewan pembina yayasan",
+        "E": "Dalam batas waktu dua tahun setelah pemeriksaan kantor pajak"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Sisa lebih lembaga pendidikan/penelitian nirlaba bukan objek PPh jika ditanamkan kembali dalam sarana prasarana **dalam jangka waktu paling lama 4 (empat) tahun** sejak diperolehnya sisa lebih.",
+        "alasan_kunci": "Opsi A tepat karena batas waktu empat tahun memberikan ruang yang memadai bagi yayasan pendidikan untuk membangun fasilitas belajar mengajar tanpa terbebani pajak. Jika dalam 4 tahun tidak digunakan, barulah dikenakan PPh.",
+        "bedah_pengecoh": {
+          "B": "Batas satu tahun terlalu singkat untuk proyek pembangunan fisik sarpras.",
+          "C": "Sepuluh tahun melampaui ketentuan undang-undang perpajakan.",
+          "D": "Masa jabatan pengurus yayasan tidak berkaitan dengan batas waktu fiskal.",
+          "E": "Pemeriksaan pajak bukan titik awal perhitungan pemanfaatan sarpras."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "dana setoran Biaya Penyelenggaraan Ibadah Haji (BPIH)"
+      ],
+      "topik_materi": "Dana Setoran BPIH Dikelola BPKH",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dana setoran BPIH dan hasil pengembangannya yang diterima BPKH berstatus sebagai...",
+      "pilihan": {
+        "A": "Objek PPh final atas jasa keuangan simpanan perbankan",
+        "B": "Bukan objek pajak penghasilan yang dikecualikan undang-undang",
+        "C": "Penerimaan negara bukan pajak pada kementerian agama",
+        "D": "Penghasilan usaha syariah yang dikenakan pajak badan",
+        "E": "Dana cadangan umum yang wajib disetor ke kas negara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dikecualikan dari objek PPh adalah **dana setoran Biaya Penyelenggaraan Ibadah Haji (BPIH)** dan hasil pengembangan keuangan haji yang diterima Badan Pengelola Keuangan Haji (BPKH).",
+        "alasan_kunci": "Opsi B tepat karena dana haji merupakan dana amanah umat yang dihimpun semata-mata untuk membiayai operasional ibadah haji jamaah Indonesia. Hasil investasi BPKH dikembalikan untuk kemaslahatan jamaah sehingga bebas PPh.",
+        "bedah_pengecoh": {
+          "A": "Dana haji di BPKH dibebaskan dari pemotongan PPh final perbankan.",
+          "C": "BPKH adalah badan hukum independen di luar pos PNBP kementerian agama.",
+          "D": "BPKH bukan entitas komersial perseroan yang mencari laba usaha kena pajak.",
+          "E": "Dana haji adalah milik jamaah, bukan milik kas umum negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "ditempatkan sebagai dana abadi"
+      ],
+      "topik_materi": "Sisa Lebih Lembaga Sosial Keagamaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sisa lebih lembaga sosial keagamaan bukan objek PPh jika ditanamkan dalam sarana atau...",
+      "pilihan": {
+        "A": "Dibelanjakan untuk pembelian kendaraan dinas mewah yayasan",
+        "B": "Dibagikan merata kepada seluruh anggota dewan pengurus",
+        "C": "Ditempatkan sebagai dana abadi lembaga bersangkutan",
+        "D": "Dipinjamkan tanpa bunga kepada badan usaha komersial rekanan",
+        "E": "Dikonversi menjadi portofolio investasi spekulatif valas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sisa lebih lembaga sosial/keagamaan bukan objek PPh jika ditanamkan sarpras dalam jangka waktu 4 tahun atau **ditempatkan sebagai dana abadi**.",
+        "alasan_kunci": "Opsi C tepat karena pembentukan dana abadi (*endowment fund*) menjamin kesinambungan misi pelayanan keagamaan dan kemanusiaan lembaga dalam jangka panjang. Penempatan dana abadi dilindungi dari pemotongan PPh.",
+        "bedah_pengecoh": {
+          "A": "Membeli aset mewah pribadi pengurus membatalkan fasilitas pembebasan pajak.",
+          "B": "Membagikan sisa lebih kepada pengurus melanggar asas nirlaba yayasan.",
+          "D": "Meminjamkan dana ke badan komersial menyalahi tujuan sosial keagamaan.",
+          "E": "Investasi spekulatif berisiko tinggi bertentangan dengan tata kelola dana amanah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "Subjek Pajak Penghasilan adalah orang pribadi atau perorangan dan badan",
+        "hukum di luar perusahaan minyak bumi"
+      ],
+      "topik_materi": "Subjek Pajak Penghasilan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Subjek Pajak Penghasilan dalam ketentuan umum perpajakan terdiri atas...",
+      "pilihan": {
+        "A": "Kementerian negara dan lembaga pemerintah non-kementerian",
+        "B": "Pejabat perwakilan diplomatik dan konsulat luar negeri",
+        "C": "Organisasi internasional dan perwakilan lembaga donor",
+        "D": "Orang pribadi atau perorangan dan badan hukum",
+        "E": "Satuan kerja perangkat daerah dan kantor dinas teknis"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Subjek Pajak Penghasilan adalah orang pribadi atau perorangan dan badan hukum** di luar perusahaan minyak bumi.",
+        "alasan_kunci": "Opsi D tepat karena hukum pajak menetapkan subjek pajak sebagai pihak yang memiliki hak dan kewajiban perpajakan, yang terdiri dari orang pribadi serta badan usaha (PT, CV, BUMN, yayasan, koperasi) yang menerima penghasilan.",
+        "bedah_pengecoh": {
+          "A": "Kementerian negara bertindak sebagai pemotong pajak, bukan subjek pajak badan.",
+          "B": "Pejabat diplomatik dan konsulat asing secara tegas dikecualikan dari subjek pajak.",
+          "C": "Organisasi internasional dan staf asingnya bukan merupakan subjek pajak PPh.",
+          "E": "Dinas daerah merupakan unit administrasi pemerintah pengguna anggaran."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "Perwakilan Diplomatik, Konsulat dan pejabat negara asing"
+      ],
+      "topik_materi": "Pengecualian Pejabat Diplomatik Asing",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pihak asing yang secara tegas dikecualikan dari Subjek Pajak Penghasilan mencakup...",
+      "pilihan": {
+        "A": "Direktur berkebangsaan asing pada perusahaan perseroan terbuka",
+        "B": "Warga negara asing pemegang izin kerja di korporasi swasta",
+        "C": "Konsultan keuangan asing yang membuka kantor cabang di Jakarta",
+        "D": "Tenaga ahli asing pada proyek konstruksi swasta nasional",
+        "E": "Pejabat perwakilan diplomatik, konsulat, dan staf negara asing"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dikecualikan dari subjek pajak adalah **pejabat-pejabat Perwakilan Diplomatik, Konsulat dan pejabat negara asing** serta orang yang bekerja bersama mereka.",
+        "alasan_kunci": "Opsi E tepat karena hukum kebiasaan internasional dan Konvensi Wina memberikan hak kekebalan diplomatik (*diplomatic immunity*) bagi perwakilan resmi negara sahabat, termasuk pembebasan dari kewajiban pajak penghasilan di negara penerima.",
+        "bedah_pengecoh": {
+          "A": "Direktur asing pada PT di Indonesia adalah subjek pajak orang pribadi.",
+          "B": "Pekerja asing di korporasi swasta berstatus subjek pajak dalam negeri.",
+          "C": "Konsultan asing yang membuka cabang merupakan Bentuk Usaha Tetap (BUT).",
+          "D": "Tenaga ahli swasta asing wajib membayar PPh atas penghasilan jasanya."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "internasional dan pejabat perwakilan organisasi internasional"
+      ],
+      "topik_materi": "Pengecualian Organisasi Internasional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Organisasi internasional dikecualikan dari subjek pajak penghasilan apabila memenuhi syarat...",
+      "pilihan": {
+        "A": "Indonesia menjadi anggota dan tidak menjalankan usaha bisnis",
+        "B": "Menyetorkan dividen keuntungan tahunan kepada pemerintah",
+        "C": "Memiliki kantor cabang pembantu di setiap ibu kota provinsi",
+        "D": "Mendaftarkan seluruh staf lokal menjadi pegawai negeri sipil",
+        "E": "Membatasi kegiatan operasional khusus pada bantuan bencana alam"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dikecualikan dari subjek pajak adalah **organisasi internasional dan pejabat perwakilan organisasi internasional** yang ditetapkan Menkeu dengan syarat Indonesia anggota dan tidak menjalankan usaha mencari keuntungan.",
+        "alasan_kunci": "Opsi A tepat karena kekebalan pajak bagi badan PBB atau lembaga multilateral diberikan atas dasar keanggotaan Indonesia dan non-profitabilitas misinya. Jika mereka berbisnis komersial, kekebalan pajaknya gugur.",
+        "bedah_pengecoh": {
+          "B": "Organisasi internasional adalah entitas nirlaba, tidak menyetor dividen.",
+          "C": "Kantor cabang di setiap provinsi bukan syarat pembebasan pajak internasional.",
+          "D": "Staf lokal tetap berstatus warga sipil biasa, bukan pegawai negeri sipil.",
+          "E": "Kegiatan mencakup ekonomi, pendidikan, dan kesehatan, tidak hanya bencana."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "bersifat perusahaan di Indonesia"
+      ],
+      "topik_materi": "Syarat Pengecualian Diplomat Asing",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pejabat diplomatik asing dikecualikan dari subjek pajak selama mereka tidak...",
+      "pilihan": {
+        "A": "Menyewa rumah tinggal di luar area kantor kedutaan besar",
+        "B": "Melaksanakan kegiatan yang bersifat perusahaan di Indonesia",
+        "C": "Membuka rekening tabungan pada bank umum nasional berizin",
+        "D": "Membeli kebutuhan pokok harian di pasar ritel modern lokal",
+        "E": "Menggunakan kendaraan pribadi berpelat nomor diplomatik khusus"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pejabat diplomatik bebas PPh **selama mereka tidak melaksanakan kegiatan yang bersifat perusahaan di Indonesia (secara timbal balik)**.",
+        "alasan_kunci": "Opsi B tepat karena kekebalan diplomatik hanya melindungi tugas kedinasan perwakilan negara. Apabila seorang diplomat melakukan aktivitas bisnis komersial pribadi di luar tugas kedutaan, ia wajib membayar pajak atas bisnisnya.",
+        "bedah_pengecoh": {
+          "A": "Menyewa tempat tinggal diperbolehkan untuk menunjang kehidupan diplomatik.",
+          "C": "Membuka rekening perbankan adalah fasilitas operasional harian yang sah.",
+          "D": "Membeli kebutuhan pokok adalah transaksi konsumsi harian biasa.",
+          "E": "Pelat nomor diplomatik merupakan hak fasilitas resmi negara perwakilan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "UU Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan"
+      ],
+      "topik_materi": "Regulasi Terakhir Pajak Penghasilan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Undang-Undang Pajak Penghasilan terakhir kali diubah melalui pengesahan regulasi...",
+      "pilihan": {
+        "A": "UU Nomor 15 Tahun 2004 tentang Pemeriksaan Tanggung Jawab Keuangan",
+        "B": "UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara Republik",
+        "C": "UU Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan",
+        "D": "UU Nomor 25 Tahun 2004 tentang Sistem Perencanaan Pembangunan",
+        "E": "UU Nomor 33 Tahun 2004 tentang Perimbangan Keuangan Pusat Daerah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Ketentuan PPh diatur dalam UU Nomor 7 tahun 1983 yang diubah terakhir kali dengan **UU Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan**.",
+        "alasan_kunci": "Opsi C tepat karena UU HPP (UU 7/2021) melakukan reformasi menyeluruh atas ketentuan PPh, termasuk penyesuaian bracket tarif PPh orang pribadi, perlakuan natura, dan batasan omzet tidak kena pajak bagi UMKM.",
+        "bedah_pengecoh": {
+          "A": "UU 15/2004 mengatur wewenang pemeriksaan keuangan oleh BPK.",
+          "B": "UU 1/2004 mengatur administrasi dan perbendaharaan keuangan negara.",
+          "D": "UU 25/2004 mengatur sistem perencanaan dan dokumen pembangunan nasional.",
+          "E": "UU 33/2004 mengatur hubungan perimbangan dana transfer pusat dan daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "minyak bumi dan gas alam harus mendapat izin dari Pertamina"
+      ],
+      "topik_materi": "Kerja Sama Eksplorasi Migas",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perusahaan yang melakukan kegiatan eksplorasi dan eksploitasi migas diwajibkan mendapat...",
+      "pilihan": {
+        "A": "Sertifikat hak milik atas tanah cadangan ladang minyak",
+        "B": "Surat rekomendasi izin impor dari kementerian perdagangan",
+        "C": "Persetujuan lisan dari pimpinan pemerintah daerah setempat",
+        "D": "Izin dan perikatan kontrak kerja sama dengan Pertamina",
+        "E": "Izin pinjam pakai kawasan hutan dari badan pertanahan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Perusahaan yang akan melakukan kegiatan di bidang **minyak bumi dan gas alam harus mendapat izin dari Pertamina** melalui perjanjian kontrak kerja sama.",
+        "alasan_kunci": "Opsi D tepat karena negara memegang kuasa pertambangan migas dan mendelegasikannya melalui badan yang ditunjuk untuk mengikat kontrak dengan kontraktor migas. Kontrak ini mengatur hak dan kewajiban eksploitasi sumber daya migas.",
+        "bedah_pengecoh": {
+          "A": "Ladang migas adalah milik negara yang dikuasai penuh, bukan milik swasta.",
+          "B": "Izin impor kemendag adalah izin perdagangan umum, bukan kuasa hulu migas.",
+          "C": "Persetujuan lisan pemda tidak memiliki kekuatan hukum kontrak perikatan migas.",
+          "E": "Izin kawasan hutan adalah izin lingkungan pendukung, bukan kontrak hulu migas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "kontraktor harus menyerahkan sebagian dari minyak dan",
+        "gas alam yang dihasilkannya kepada Pertamina"
+      ],
+      "topik_materi": "Kewajiban Kontraktor Migas",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan perjanjian kontrak migas, kewajiban pokok kontraktor minyak meliputi penyerahan...",
+      "pilihan": {
+        "A": "Cadangan devisa hasil ekspor langsung ke kas bank swasta",
+        "B": "Seluruh saham kepemilikan korporasi kepada pemerintah daerah",
+        "C": "Laba bersih operasional perusahaan setelah dikurangi dividen",
+        "D": "Peralatan pengeboran tanpa memperhitungkan pengembalian biaya",
+        "E": "Sebagian hasil minyak dan gas serta membayar PPh migas"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kontraktor migas wajib **menyerahkan sebagian dari minyak dan gas alam yang dihasilkannya kepada Pertamina, membayar pajak atas penghasilan (PPh MIGAS)**, membayar PBB, dan pajak lainnya.",
+        "alasan_kunci": "Opsi E tepat karena sistem bagi hasil mewajibkan kontraktor menyetorkan porsi bagian minyak mentah/gas milik negara (*government share*) di samping memenuhi kewajiban pembayaran PPh Migas atas keuntungan bersih yang diperolehnya.",
+        "bedah_pengecoh": {
+          "A": "Devisa migas wajib ditempatkan di bank dalam negeri sesuai aturan BI.",
+          "B": "Kontraktor tidak menyerahkan saham perusahaan melainkan bagi hasil produksi.",
+          "C": "Kewajiban bukan pembagian laba deviden melainkan *split* produksi dan pajak.",
+          "D": "Biaya peralatan dihitung melalui mekanisme *cost recovery* kontrak."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Kontrak Bagi Hasil (Production Sharing Contract)"
+      ],
+      "topik_materi": "Production Sharing Contract (PSC)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bentuk perjanjian kerja sama perminyakan yang membagi langsung hasil produksi migas adalah...",
+      "pilihan": {
+        "A": "Kontrak Bagi Hasil (Production Sharing Contract)",
+        "B": "Kontrak karya pertambangan umum era pra-kemerdekaan",
+        "C": "Perjanjian sewa guna usaha kilang pengolahan minyak",
+        "D": "Perjanjian kemitraan lisensi waralaba bahan bakar ritel",
+        "E": "Kontrak pengadaan barang jasa konstruksi pipa lepas pantai"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Perjanjian kontraktor minyak semula dalam bentuk Kontrak Karya, dan berkembang menjadi **Kontrak Bagi Hasil (Production Sharing Contract)**.",
+        "alasan_kunci": "Opsi A tepat karena PSC merupakan konsep kontrak khas Indonesia yang membagi komoditas fisik minyak mentah/gas antara negara dan kontraktor setelah dikurangi biaya operasi. Model ini menjaga kedaulatan negara atas sumber daya alam.",
+        "bedah_pengecoh": {
+          "B": "Kontrak karya menerapkan sistem konsesi dengan pembayaran royalti dan pajak.",
+          "C": "Sewa kilang adalah transaksi sewa fasilitas hilir pengolahan BBM.",
+          "D": "Waralaba ritel adalah bisnis hilir stasiun pengisian bahan bakar umum.",
+          "E": "Pengadaan pipa adalah kontrak jasa teknis instalasi fasilitas migas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Operation Contract) yang mulai berlaku tahun 1977"
+      ],
+      "topik_materi": "Joint Operation Contract (JOC)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bentuk Kontrak Operasi Bersama (Joint Operation Contract) dalam sektor migas mulai berlaku pada...",
+      "pilihan": {
+        "A": "Tahun 1945 bersamaan dengan penetapan UUD negara Republik",
+        "B": "Tahun 1977 dengan bagian negara yang lebih menguntungkan",
+        "C": "Tahun 1960 saat pengesahan undang-undang pokok agraria",
+        "D": "Tahun 1998 pada masa awal bergulirnya reformasi birokrasi",
+        "E": "Tahun 2004 setelah pengesahan undang-undang perbendaharaan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kontrak Bagi Hasil yang Disempurnakan atau **Kontrak Operasi Bersama (Joint Operation Contract) mulai berlaku tahun 1977** dengan perbedaan utama bagian Indonesia yang lebih menguntungkan.",
+        "alasan_kunci": "Opsi B tepat karena evolusi regulasi migas terus disempurnakan untuk meningkatkan penerimaan kas negara. Mulai tahun 1977, skema JOC diterapkan dengan formula bagi hasil yang lebih memprioritaskan kepentingan nasional.",
+        "bedah_pengecoh": {
+          "A": "Tahun 1945 adalah masa proklamasi kemerdekaan dan pembentukan konstitusi.",
+          "C": "Tahun 1960 adalah tahun diundangkannya UUPA mengenai pertanahan nasional.",
+          "D": "Tahun 1998 merupakan titik awal reformasi politik nasional.",
+          "E": "Tahun 2004 adalah tahun pengesahan UU Perbendaharaan Negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Pajak Pertambahan Nilai merupakan pajak tidak langsung"
+      ],
+      "topik_materi": "Karakter PPN sebagai Pajak Tidak Langsung",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pajak Pertambahan Nilai (PPN) diklasifikasikan sebagai pajak tidak langsung karena...",
+      "pilihan": {
+        "A": "Dibayarkan khusus oleh importir barang modal industri berat",
+        "B": "Dipungut langsung dari laba bersih pembukuan tahunan badan",
+        "C": "Beban pajaknya dialihkan kepada pihak konsumen akhir",
+        "D": "Ditetapkan secara mandiri oleh bendahara pengeluaran satker",
+        "E": "Disetorkan ke kas daerah tanpa melalui rekening kas negara"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Pajak Pertambahan Nilai merupakan pajak tidak langsung**, yang dikenakan atas transaksi penyerahan Barang Kena Pajak maupun Jasa Kena Pajak.",
+        "alasan_kunci": "Opsi C tepat karena penanggung jawab pembayaran pajak (penjual/PKP) berbeda dengan penanggung beban pajak sebenarnya (konsumen akhir). Penjual memungut PPN dari pembeli untuk kemudian disetorkan ke kas negara.",
+        "bedah_pengecoh": {
+          "A": "PPN dikenakan atas seluruh rantai konsumsi domestik, bukan khusus importir.",
+          "B": "Pajak atas laba bersih pembukuan merupakan karakter Pajak Penghasilan (PPh).",
+          "D": "Tarif PPN ditetapkan oleh undang-undang, bukan oleh bendahara satker.",
+          "E": "PPN adalah pajak pusat yang disetorkan ke Kas Umum Negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "pengenaan Pajak Pertambahan Nilai akan dibebankan",
+        "kepada konsumen akhir"
+      ],
+      "topik_materi": "Pembebanan PPN kepada Konsumen Akhir",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada dasarnya pengenaan Pajak Pertambahan Nilai (PPN) secara definitif dibebankan kepada...",
+      "pilihan": {
+        "A": "Petugas pemeriksa pajak di kantor pelayanan perpajakan",
+        "B": "Produsen utama penghasil bahan baku mentah perkebunan",
+        "C": "Pedagang perantara distributor tingkat wilayah provinsi",
+        "D": "Konsumen akhir yang memanfaatkan barang atau jasa kena pajak",
+        "E": "Penyedia jasa transportasi logistik pengiriman barang"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pada dasarnya **pengenaan Pajak Pertambahan Nilai akan dibebankan kepada konsumen akhir**.",
+        "alasan_kunci": "Opsi D tepat karena sebagai pajak konsumsi domestik, setiap mata rantai distribusi dapat mengkreditkan pajak masukannya. Beban pajak riil berhenti dan ditanggung sepenuhnya oleh pengguna atau konsumen akhir barang/jasa.",
+        "bedah_pengecoh": {
+          "A": "Petugas pajak bertindak sebagai aparatur fiskus pengawas kepatuhan.",
+          "B": "Produsen bahan baku mengkreditkan pajak masukan atas belanja modalnya.",
+          "C": "Distributor perantara bertindak sebagai pemungut PPN perantara rantai pasok.",
+          "E": "Penyedia logistik adalah pengusaha kena pajak pemungut PPN jasa angkut."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "dapat dikenakan berkali-kali"
+      ],
+      "topik_materi": "Multi Stage Levy dalam PPN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karena merupakan pajak tidak langsung, pengenaan PPN atas barang yang sama...",
+      "pilihan": {
+        "A": "Wajib dibayarkan sebelum barang diproduksi oleh industri",
+        "B": "Boleh dipungut satu kali pada tingkat pabrikan utama",
+        "C": "Dibatasi pemungutannya maksimal dua kali dalam setahun",
+        "D": "Gugur dengan sendirinya apabila barang disimpan di gudang",
+        "E": "Dapat dikenakan berkali-kali pada setiap jalur distribusi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pengenaan PPN atas Barang Kena Pajak yang sama **dapat dikenakan berkali-kali** pada setiap tingkat mata rantai penyerahan barang.",
+        "alasan_kunci": "Opsi E tepat karena PPN menganut sistem pemungutan bertahap (*multi-stage levy*). PPN dikenakan mulai dari pabrikan ke distributor, distributor ke pengecer, hingga pengecer ke konsumen, namun tidak kumulatif karena ada mekanisme pengkreditan.",
+        "bedah_pengecoh": {
+          "A": "PPN terutang saat penyerahan barang, bukan sebelum produksi dimulai.",
+          "B": "Pemungutan satu kali di pabrik adalah ciri sistem pajak penjualan lama (PPn).",
+          "C": "Pemungutan PPN terjadi setiap saat terjadi transaksi, bukan tahunan.",
+          "D": "Penyimpanan di gudang tidak menggugurkan status barang kena pajak."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "pungutan negara yang dikenakan terhadap barang-barang"
+      ],
+      "topik_materi": "Definisi Pungutan Cukai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pungutan negara yang dikenakan atas barang berkonsumsi khusus disebut...",
+      "pilihan": {
+        "A": "Cukai atas barang yang mempunyai karakteristik tertentu",
+        "B": "Pajak pertambahan nilai atas penyerahan barang mewah",
+        "C": "Bea masuk atas komoditas impor kawasan perdagangan bebas",
+        "D": "Retribusi daerah atas pemakaian fasilitas gedung publik",
+        "E": "Pungutan hasil perkebunan kelapa sawit mentah ekspor"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Cukai adalah **pungutan negara yang dikenakan terhadap barang-barang tertentu yang mempunyai sifat dan karakteristik yang ditentukan** (Barang Kena Cukai).",
+        "alasan_kunci": "Opsi A tepat karena cukai merupakan instrumen fiskal pengendali konsumsi barang tertentu demi melindungi kesehatan masyarakat dan ketertiban umum. Pungutan ini memiliki karakteristik pembebanan yang selektif.",
+        "bedah_pengecoh": {
+          "B": "PPnBM adalah pajak konsumsi umum atas barang mewah.",
+          "C": "Bea masuk adalah tarif kepabeanan atas importasi barang lintas batas.",
+          "D": "Retribusi daerah adalah pembayaran atas pemanfaatan jasa dinas pemda.",
+          "E": "Pungutan sawit tergolong dalam tarif pungutan ekspor atau PNBP sawit."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "11 tahun 1995 tentang Cukai sebagaimana telah dirubah"
+      ],
+      "topik_materi": "Dasar Regulasi Cukai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pungutan cukai di Indonesia diatur dalam ketentuan perundang-undangan pokok...",
+      "pilihan": {
+        "A": "UU Nomor 17 Tahun 2003 tentang Keuangan Negara",
+        "B": "UU Nomor 11 Tahun 1995 tentang Cukai",
+        "C": "UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara",
+        "D": "UU Nomor 15 Tahun 2004 tentang Pemeriksaan BPK",
+        "E": "UU Nomor 25 Tahun 2004 tentang Perencanaan Nasional"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Cukai diatur dalam **Undang-undang No. 11 tahun 1995 tentang Cukai sebagaimana telah dirubah dalam Undang-Undang nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan**.",
+        "alasan_kunci": "Opsi B tepat karena UU 11/1995 merupakan payung hukum formil pengenaan dan pengawasan cukai nasional. Ketentuan ini terus diselaraskan dengan kebutuhan pengendalian barang kena cukai modern.",
+        "bedah_pengecoh": {
+          "A": "UU 17/2003 mengatur asas umum tata kelola keuangan negara.",
+          "C": "UU 1/2004 mengatur administrasi perbendaharaan negara.",
+          "D": "UU 15/2004 mengatur prosedur pemeriksaan keuangan oleh BPK.",
+          "E": "UU 25/2004 mengatur sistem perencanaan pembangunan nasional."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "pemakaiannya perlu dibatasi dan diawasi"
+      ],
+      "topik_materi": "Karakteristik Pokok BKC",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Barang Kena Cukai (BKC) pada hakikatnya merupakan barang-barang yang...",
+      "pilihan": {
+        "A": "Diproduksi khusus oleh badan usaha milik negara tunggal",
+        "B": "Diberikan subsidi harga secara penuh oleh pemerintah pusat",
+        "C": "Dalam pemakaiannya perlu dibatasi dan diawasi peredarannya",
+        "D": "Bebas didistribusikan tanpa memerlukan izin pita cukai",
+        "E": "Memiliki harga jual paling murah di pasar komoditas ritel"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Yang dimaksud dengan BKC yaitu **barang-barang yang dalam pemakaiannya perlu dibatasi dan diawasi**.",
+        "alasan_kunci": "Opsi C tepat karena motif utama pengenaan cukai bukan semata-mata mencari penerimaan kas (*budgetair*), melainkan fungsi mengatur (*regulerend*) untuk menekan dampak negatif konsumsi barang tersebut bagi masyarakat.",
+        "bedah_pengecoh": {
+          "A": "BKC dapat diproduksi oleh industri swasta pemegang izin pabrik NPPBKC.",
+          "B": "BKC tidak disubsidi melainkan dibebani pungutan tambahan yang tinggi.",
+          "D": "Peredaran BKC wajib diawasi ketat dan menggunakan pita cukai sah.",
+          "E": "Pengenaan cukai justru sengaja menaikkan harga jual komoditas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "pabrik atau pengusaha tempat menimbun dan importir BKC"
+      ],
+      "topik_materi": "Subjek Pungutan Cukai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pihak yang ditetapkan sebagai Subjek Cukai dalam undang-undang meliputi...",
+      "pilihan": {
+        "A": "Pengemudi kendaraan ekspedisi pengantar barang pabrikan",
+        "B": "Konsumen akhir yang membeli rokok di warung kelontong",
+        "C": "Petani penanam daun tembakau dan perajin cengkih lokal",
+        "D": "Pengusaha pabrik, pengusaha tempat menimbun, dan importir BKC",
+        "E": "Petugas kasir toko ritel modern penjual minuman kemasan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Subjek cukai adalah **pengusaha pabrik atau pengusaha tempat menimbun dan importir BKC**.",
+        "alasan_kunci": "Opsi D tepat karena titik pemungutan cukai berada pada produsen di pabrik atau importir saat barang dikeluarkan ke peredaran bebas. Merekalah pihak yang berkewajiban melunasi pita cukai kepada negara.",
+        "bedah_pengecoh": {
+          "A": "Pengemudi ekspedisi adalah pihak penyedia jasa angkutan logistik.",
+          "B": "Konsumen akhir adalah penanggung beban ekonomi cukai, bukan subjek pelunas.",
+          "C": "Petani tembakau adalah penyedia bahan baku mentah sebelum diolah pabrik.",
+          "E": "Kasir ritel adalah karyawan toko penjual eceran tingkat akhir."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "etil alkohol atau etanol, dengan tidak mengindahkan bahan yang"
+      ],
+      "topik_materi": "Etil Alkohol sebagai Objek Cukai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Objek Barang Kena Cukai kelompok pertama menurut ketentuan undang-undang adalah...",
+      "pilihan": {
+        "A": "Zat kimia pewarna makanan buatan berskala industri besar",
+        "B": "Bahan bakar minyak bensin dengan nilai oktan tinggi impor",
+        "C": "Minyak pelumas mesin industri pabrik manufaktur otomotif",
+        "D": "Gas alam cair yang disalurkan melalui jaringan pipa pipa",
+        "E": "Etil alkohol atau etanol tanpa membedakan bahan pembuatannya"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Objek BKC meliputi **etil alkohol atau etanol, dengan tidak mengindahkan bahan yang digunakan dan proses pembuatannya**.",
+        "alasan_kunci": "Opsi E tepat karena senyawa etanol murni merupakan bahan dasar yang dapat disalahgunakan atau digunakan dalam industri minuman keras. Oleh karena itu, etanol ditetapkan sebagai objek cukai tanpa memandang bahan asalnya.",
+        "bedah_pengecoh": {
+          "A": "Pewarna makanan tunduk pada regulasi pangan dan izin edar BPOM.",
+          "B": "BBM bensin bukan objek cukai melainkan objek PPN dan PBBKB daerah.",
+          "C": "Minyak pelumas belum ditetapkan sebagai barang kena cukai undang-undang.",
+          "D": "Gas alam cair adalah komoditas migas di luar pos pungutan cukai."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "minuman yang mengandung etil alkohol dalam kadar berapa pun,"
+      ],
+      "topik_materi": "Minuman Mengandung Etil Alkohol (MMEA)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kriteria pengenaan cukai terhadap minuman beralkohol mencakup minuman yang...",
+      "pilihan": {
+        "A": "Mengandung etil alkohol dalam kadar berapa pun termasuk konsentrat",
+        "B": "Mengandung pemanis buatan dengan kadar gula melebihi standar",
+        "C": "Menggunakan bahan pengawet cair sintetis bersertifikat pabrik",
+        "D": "Dihasilkan dari perasan sari buah alami tanpa bahan kimia",
+        "E": "Dikemas dalam wadah botol kaca daur ulang ramah lingkungan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Objek BKC mencakup **minuman yang mengandung etil alkohol dalam kadar berapa pun, dengan tidak mengindahkan bahan yang digunakan dan proses pembuatannya, termasuk konsentrat**.",
+        "alasan_kunci": "Opsi A tepat karena pengenaan cukai MMEA tidak membatasi ambang batas minimal kadar alkohol. Sepanjang terdapat kandungan etanol di dalamnya, minuman tersebut terutang cukai sesuai golongan tarifnya.",
+        "bedah_pengecoh": {
+          "B": "Pemanis buatan adalah bahan tambahan pangan di luar objek cukai MMEA.",
+          "C": "Bahan pengawet sintetis diatur dalam standar keamanan pangan.",
+          "D": "Sari buah murni tanpa alkohol adalah minuman konsumsi non-cukai.",
+          "E": "Kemasan botol kaca adalah media kemasan fisik produk ritel."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "iris, rokok elektrik, dan hasil pengolahan tembakau lainnya"
+      ],
+      "topik_materi": "Ragam Objek Hasil Tembakau",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Cakupan objek cukai hasil tembakau menurut regulasi harmonisasi perpajakan meliputi...",
+      "pilihan": {
+        "A": "Pupuk organik daun tembakau untuk penyubur tanah perkebunan",
+        "B": "Sigaret, cerutu, rokok daun, tembakau iris, dan rokok elektrik",
+        "C": "Kertas pembungkus kayu gelondongan pengiriman kargo ekspor",
+        "D": "Cairan pembersih lantai beraroma ekstrak tanaman cengkih",
+        "E": "Pestisida nabati pembasmi hama tanaman industri pangan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Hasil tembakau objek cukai meliputi **sigaret, cerutu, rokok daun, tembakau iris, rokok elektrik, dan hasil pengolahan tembakau lainnya**.",
+        "alasan_kunci": "Opsi B tepat karena perluasan objek cukai hasil tembakau mencakup produk tembakau konvensional maupun produk modern seperti rokok elektrik (vape). Pengenaan cukai ditujukan untuk membatasi konsumsi nikotin.",
+        "bedah_pengecoh": {
+          "A": "Pupuk organik tanaman tembakau adalah sarana produksi pertanian.",
+          "C": "Kertas pembungkus kargo adalah bahan kemasan industri logistik.",
+          "D": "Pembersih lantai beraroma cengkih bukan produk konsumsi hisap tembakau.",
+          "E": "Pestisida nabati adalah bahan kimia pengendali hama tanaman budidaya."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "pajak yang bersifat kebendaan dalam arti besarnya pajak",
+        "terutang ditentukan oleh keadaan objek"
+      ],
+      "topik_materi": "Sifat Kebendaan Pajak Bumi dan Bangunan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PBB diklasifikasikan sebagai pajak yang bersifat kebendaan karena...",
+      "pilihan": {
+        "A": "Pembayaran pajak dapat diangsur menggunakan komoditas hasil tani",
+        "B": "Tarif pajak dihitung berdasarkan tingkat penghasilan pemilik",
+        "C": "Besarnya pajak terutang ditentukan oleh keadaan fisik objek",
+        "D": "Kewajiban pajak gugur secara otomatis apabila pemilik berpindah domisili",
+        "E": "Penetapan pajak mendasarkan pada status kewarganegaraan pembayar"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "PBB adalah **pajak yang bersifat kebendaan dalam arti besarnya pajak terutang ditentukan oleh keadaan objek yaitu bumi/tanah dan atau bangunan**. Keadaan subjek tidak ikut menentukan.",
+        "alasan_kunci": "Opsi C tepat karena besarnya tagihan PBB semata-mata dihitung dari Nilai Jual Objek Pajak (NJOP) tanah dan bangunan. Siapa pun subjek yang memiliki atau memanfaatkan tanah tersebut membayar tarif nominal yang sama.",
+        "bedah_pengecoh": {
+          "A": "Pembayaran PBB wajib dalam bentuk uang rupiah, bukan komoditas tani.",
+          "B": "Pajak berdasarkan kemampuan penghasilan subjek adalah ciri PPh.",
+          "D": "Kewajiban PBB melekat pada objek tanah, tidak gugur karena pindah domisili.",
+          "E": "Status kewarganegaraan tidak memengaruhi perhitungan nilai objek PBB."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "Perkotaan, Sektor Pedesaan, Sektor Perkebunan, Sektor Perhutanan, dan",
+        "Sektor Pertambangan Migas dan Pertambangan Umum"
+      ],
+      "topik_materi": "Lima Sektor Objek PBB",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam pembagian klasifikasinya, objek PBB terbagi ke dalam sektor...",
+      "pilihan": {
+        "A": "Jasa keuangan perbankan, pasar modal, asuransi, dan dana pensiun",
+        "B": "Industri manufaktur, perdagangan ritel, perhotelan, dan pariwisata",
+        "C": "Transportasi laut, penerbangan udara, logistik, dan pergudangan",
+        "D": "Perkotaan, perdesaan, perkebunan, perhutanan, dan pertambangan",
+        "E": "Pendidikan tinggi, penelitian kesehatan, kebudayaan, dan olahraga"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PBB terbagi ke dalam lima sektor: **Sektor Perkotaan, Sektor Pedesaan, Sektor Perkebunan, Sektor Perhutanan, dan Sektor Pertambangan**.",
+        "alasan_kunci": "Opsi D tepat karena undang-undang mengelompokkan tanah dan bangunan berdasarkan bentang pemanfaatannya. Sektor perkotaan dan perdesaan kini dikelola pemda (PBB-P2), sedangkan perkebunan, perhutanan, pertambangan (PBB-P3) tetap di pusat.",
+        "bedah_pengecoh": {
+          "A": "Perbankan dan asuransi adalah sektor industri jasa keuangan OJK.",
+          "B": "Manufaktur dan perhotelan adalah sektor usaha bisnis komersial.",
+          "C": "Transportasi dan pergudangan adalah bidang operasional logistik niaga.",
+          "E": "Pendidikan dan kebudayaan adalah bidang urusan sosial kemasyarakatan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "PBB Sektor Pedesaan dan PBB Sektor Perkotaan dialihkan pajak pusat",
+        "menjadi pajak daerah"
+      ],
+      "topik_materi": "Pengalihan PBB-P2 Menjadi Pajak Daerah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PBB Sektor Perdesaan dan Sektor Perkotaan dialihkan dari pajak pusat menjadi...",
+      "pilihan": {
+        "A": "Pungutan sukarela masyarakat di lingkungan rukun tetangga",
+        "B": "Retribusi perizinan tertentu pada kementerian perindustrian",
+        "C": "Penerimaan negara bukan pajak pada kementerian keuangan",
+        "D": "Pajak khusus perbatasan yang dikelola badan pengelola pos",
+        "E": "Pajak daerah paling lambat tanggal satu Januari 2014"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**PBB Sektor Pedesaan dan PBB Sektor Perkotaan dialihkan pajak pusat menjadi pajak daerah** selambat-lambatnya tanggal 1 Januari 2014.",
+        "alasan_kunci": "Opsi E tepat karena desentralisasi perpajakan menyerahkan basis pajak tanah permukiman kepada pemerintah kabupaten/kota sebagai PBB-P2. Hal ini memperkuat kemandirian fiskal dan Pendapatan Asli Daerah (PAD).",
+        "bedah_pengecoh": {
+          "A": "PBB-P2 adalah pungutan pajak resmi yang berkekuatan hukum memaksa.",
+          "B": "PBB-P2 bukan retribusi perizinan kementerian melainkan pajak daerah.",
+          "C": "PBB-P2 bukan pos PNBP melainkan pajak daerah kabupaten/kota.",
+          "D": "PBB-P2 bukan pajak khusus perbatasan pos melainkan pajak daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "Bea Perolehan Hak atas",
+        "Tanah dan Bangunan (BPHTB) per 1 januari 2011 telah dialihkan"
+      ],
+      "topik_materi": "Pengalihan BPHTB Menjadi Pajak Daerah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pajak atas perolehan hak tanah (BPHTB) secara definitif telah dialihkan menjadi...",
+      "pilihan": {
+        "A": "Pajak daerah terhitung sejak tanggal satu Januari 2011",
+        "B": "Penerimaan bea masuk kepabeanan di pelabuhan laut",
+        "C": "Pungutan cukai atas transaksi peralihan sertifikat tanah",
+        "D": "Pos penerimaan hibah daerah pada rekening kas daerah",
+        "E": "Pajak perdagangan internasional di kawasan ekonomi khusus"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Bea Perolehan Hak atas Tanah dan Bangunan (BPHTB) per 1 januari 2011 telah dialihkan** menjadi pajak daerah.",
+        "alasan_kunci": "Opsi A tepat karena sesuai undang-undang pajak daerah dan retribusi daerah, per 1 Januari 2011 pemungutan BPHTB sepenuhnya beralih dari Direktorat Jenderal Pajak kepada dinas pendapatan daerah kabupaten/kota.",
+        "bedah_pengecoh": {
+          "B": "BPHTB bukan penerimaan kepabeanan laut melainkan pajak transaksi tanah.",
+          "C": "Peralihan tanah tidak dipungut cukai melainkan BPHTB daerah.",
+          "D": "BPHTB adalah pos pendapatan pajak daerah resmi, bukan dana hibah.",
+          "E": "BPHTB berlaku umum di wilayah kabupaten/kota, bukan pajak perdagangan luar."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "PBB-P2 adalah Pajak atas bumi dan/atau bangunan yang dimiliki,",
+        "dikuasai, dan/atau dimanfaatkan"
+      ],
+      "topik_materi": "Definisi PBB-P2",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PBB-P2 menurut regulasi hubungan keuangan pusat dan daerah didefinisikan sebagai pajak atas...",
+      "pilihan": {
+        "A": "Aset mesin bergerak yang disewa oleh korporasi industri",
+        "B": "Bumi dan bangunan yang dimiliki, dikuasai, atau dimanfaatkan",
+        "C": "Hasil panen komoditas perkebunan yang dijual ke pasar induk",
+        "D": "Penyerahan jasa kebersihan lingkungan oleh dinas pertamanan",
+        "E": "Penjualan bahan material bangunan oleh toko bangunan lokal"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**PBB-P2 adalah Pajak atas bumi dan/atau bangunan yang dimiliki, dikuasai, dan/atau dimanfaatkan oleh orang pribadi atau Badan**.",
+        "alasan_kunci": "Opsi B tepat karena dasar pengenaan PBB-P2 mencakup kepemilikan maupun hak penguasaan/pemanfaatan fisik atas tanah dan konstruksi bangunan perdesaan dan perkotaan. Hubungan kebendaan ini melahirkan kewajiban pajak.",
+        "bedah_pengecoh": {
+          "A": "Mesin bergerak adalah harta bergerak yang berada di luar objek PBB.",
+          "C": "Hasil panen perkebunan merupakan komoditas yang dikenakan PPh atau PPN.",
+          "D": "Jasa kebersihan pemda dipungut melalui retribusi persampahan daerah.",
+          "E": "Penjualan material toko bangunan dikenakan PPN atas peredaran barang."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "Undang-Undang Nomor 1 Tahun 2022 tentang Hubungan",
+        "Keuangan antara Pemerintah Pusat dan Pemerintah Daerah"
+      ],
+      "topik_materi": "Regulasi Hubungan Keuangan Pusat Daerah (HKPD)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan PBB-P2 dan pajak daerah saat ini diatur dalam perundang-undangan pokok...",
+      "pilihan": {
+        "A": "UU Nomor 1 Tahun 2004 tentang Tata Aturan Perbendaharaan",
+        "B": "UU Nomor 17 Tahun 2003 tentang Asas Pokok Keuangan Negara",
+        "C": "UU Nomor 1 Tahun 2022 tentang Hubungan Keuangan Pusat Daerah",
+        "D": "UU Nomor 15 Tahun 2004 tentang Badan Pemeriksa Keuangan",
+        "E": "UU Nomor 25 Tahun 2004 tentang Rencana Pembangunan Daerah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "PBB-P2 diatur dalam **Undang-Undang Nomor 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintah Daerah (UU HKPD)**.",
+        "alasan_kunci": "Opsi C tepat karena UU HKPD menyederhanakan jenis pajak daerah dan retribusi daerah guna meningkatkan efisiensi pemungutan serta keselarasan fiskal antara pemerintah pusat dan daerah otonom.",
+        "bedah_pengecoh": {
+          "A": "UU 1/2004 mengatur administrasi perbendaharaan negara.",
+          "B": "UU 17/2003 mengatur kerangka umum keuangan negara.",
+          "D": "UU 15/2004 mengatur audit dan pemeriksaan keuangan negara.",
+          "E": "UU 25/2004 mengatur sistem perencanaan pembangunan nasional."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "UU Nomor 10 tahun 2020 tentang Bea Materai"
+      ],
+      "topik_materi": "Dasar Hukum Bea Meterai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan perpajakan dalam Pos Pajak Lainnya berupa Bea Meterai diatur dalam...",
+      "pilihan": {
+        "A": "UU Nomor 8 Tahun 1983 tentang Pertambahan Nilai",
+        "B": "UU Nomor 13 Tahun 1985 tentang Bea Meterai Kuno",
+        "C": "UU Nomor 7 Tahun 1983 tentang Pajak Penghasilan",
+        "D": "UU Nomor 10 Tahun 2020 tentang Bea Meterai",
+        "E": "UU Nomor 12 Tahun 1985 tentang Pajak Bumi Bangunan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Bea Meterai merupakan pajak atas dokumen yang diatur dalam **UU Nomor 10 tahun 2020 tentang Bea Materai**.",
+        "alasan_kunci": "Opsi D tepat karena UU 10/2020 menggantikan undang-undang lama tahun 1985 untuk menyesuaikan pengenaan bea meterai di era digital, termasuk pengenalan meterai elektronik atas dokumen digital.",
+        "bedah_pengecoh": {
+          "A": "UU 8/1983 mengatur tentang Pajak Pertambahan Nilai (PPN).",
+          "B": "UU 13/1985 telah dicabut dan digantikan penuh oleh UU 10/2020.",
+          "C": "UU 7/1983 mengatur tentang Pajak Penghasilan (PPh).",
+          "E": "UU 12/1985 mengatur tentang Pajak Bumi dan Bangunan (PBB)."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "surat perjanjian, surat keterangan, surat pernyataan, atau surat",
+        "lainnya yang sejenis, beserta rangkapnya"
+      ],
+      "topik_materi": "Objek Perdata Bea Meterai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dokumen perdata yang terutang bea meterai sebagai alat penerang kejadian mencakup...",
+      "pilihan": {
+        "A": "Ijazah kelulusan pendidikan dasar dan menengah kejuruan",
+        "B": "Surat tilang pelanggaran rambu lalu lintas dari kepolisian",
+        "C": "Kartu tanda penduduk elektronik yang diterbitkan dinas dukcapil",
+        "D": "Buku paspor perjalanan dinas luar negeri aparatur negara",
+        "E": "Surat perjanjian, keterangan, pernyataan sejenis, dan rangkapnya"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Bea Meterai dikenakan atas **surat perjanjian, surat keterangan, surat pernyataan, atau surat lainnya yang sejenis, beserta rangkapnya**.",
+        "alasan_kunci": "Opsi E tepat karena surat perjanjian dan pernyataan yang dibuat untuk membuktikan hubungan hukum keperdataan antarpemberi tanda tangan merupakan objek utama pengenaan bea meterai.",
+        "bedah_pengecoh": {
+          "A": "Ijazah sekolah secara tegas dikecualikan dari pengenaan bea meterai.",
+          "B": "Surat tilang adalah dokumen penindakan pidana pelanggaran lalu lintas.",
+          "C": "KTP adalah dokumen identitas kependudukan, bukan objek meterai.",
+          "D": "Paspor adalah dokumen perjalanan internasional resmi antarnegara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "akta notaris beserta grosse, salinan, dan kutipannya"
+      ],
+      "topik_materi": "Akta Notaris Objek Meterai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dokumen autentik yang wajib dilunasi bea meterai pada saat pembuatannya adalah...",
+      "pilihan": {
+        "A": "Akta notaris beserta grosse, salinan, dan kutipannya",
+        "B": "Buku catatan harian rapat panitia pengadaan barang",
+        "C": "Nota dinas edaran internal kepala seksi satuan kerja",
+        "D": "Surat undangan menghadiri kegiatan pembukaan seminar",
+        "E": "Daftar hadir absensi kehadiran kerja aparatur kantor"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Objek Bea Meterai meliputi **akta notaris beserta grosse, salinan, dan kutipannya**.",
+        "alasan_kunci": "Opsi A tepat karena akta notaris merupakan akta autentik berkekuatan pembuktian sempurna di mata hukum perdata. Oleh karena itu, setiap akta notaris terutang bea meterai.",
+        "bedah_pengecoh": {
+          "B": "Buku catatan harian rapat adalah dokumen kerja internal kepanitiaan.",
+          "C": "Nota dinas adalah korespondensi administrasi internal instansi.",
+          "D": "Surat undangan adalah warkat pemberitahuan biasa tanpa nilai perdata.",
+          "E": "Daftar hadir absensi adalah dokumen rekapitulasi kehadiran dinas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "akta Pejabat Pembuat Akta Tanah beserta salinan dan kutipannya"
+      ],
+      "topik_materi": "Akta PPAT Objek Meterai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Akta perdata mengenai peralihan hak atas tanah yang terutang bea meterai adalah...",
+      "pilihan": {
+        "A": "Surat pemberitahuan pajak terutang PBB sektor perkotaan",
+        "B": "Akta Pejabat Pembuat Akta Tanah beserta salinan dan kutipannya",
+        "C": "Buku kas umum pembantu bendahara penerimaan daerah",
+        "D": "Surat izin mendirikan bangunan gedung dari pemda",
+        "E": "Sertifikat laik fungsi fasilitas instalasi kelistrikan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Objek Bea Meterai meliputi **akta Pejabat Pembuat Akta Tanah beserta salinan dan kutipannya**.",
+        "alasan_kunci": "Opsi B tepat karena akta jual beli, hibah, atau hak tanggungan yang dibuat oleh PPAT adalah bukti hukum peralihan hak kebendaan tanah yang wajib dibubuhi bea meterai.",
+        "bedah_pengecoh": {
+          "A": "SPPT PBB adalah surat ketetapan pajak, bukan akta perdata PPAT.",
+          "C": "Buku kas pembantu adalah sarana pembukuan bendahara perbendaharaan.",
+          "D": "Izin mendirikan bangunan adalah produk izin administrasi tata kota.",
+          "E": "Sertifikat laik fungsi adalah penetapan kelayakan teknis bangunan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "surat berharga dengan nama dan dalam bentuk apapun"
+      ],
+      "topik_materi": "Surat Berharga Objek Meterai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Instrumen komersial pasar uang dan modal yang terutang bea meterai mencakup...",
+      "pilihan": {
+        "A": "Struk bukti belanja barang kebutuhan dapur di swalayan",
+        "B": "Karcis pembayaran tiket bus angkutan umum dalam kota",
+        "C": "Surat berharga dengan nama dan dalam bentuk apa pun",
+        "D": "Nomor antrean pelayanan loket pembayaran listrik kantor",
+        "E": "Kupon potongan harga promosi produk makanan cepat saji"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Objek Bea Meterai meliputi **surat berharga dengan nama dan dalam bentuk apapun** serta dokumen transaksi efek.",
+        "alasan_kunci": "Opsi C tepat karena wesel, promes, cek, dan bilyet giro merupakan surat berharga bernilai finansial yang berfungsi sebagai alat bayar atau investasi. Dokumen tersebut dikenai bea meterai.",
+        "bedah_pengecoh": {
+          "A": "Struk belanja ritel kebutuhan pokok bukan surat berharga investasi.",
+          "B": "Tiket angkutan penumpang umum dikecualikan dari bea meterai.",
+          "D": "Nomor antrean loket adalah sarana penertiban antrean pelayanan.",
+          "E": "Kupon promosi diskon adalah materi iklan pemasaran komersial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Dokumen yang digunakan sebagai alat bukti di pengadilan"
+      ],
+      "topik_materi": "Dokumen Alat Bukti Pengadilan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dokumen yang sebelumnya belum dilunasi meterai tetapi diajukan ke sidang pengadilan...",
+      "pilihan": {
+        "A": "Disita secara otomatis oleh panitera pengadilan negeri",
+        "B": "Dinyatakan batal demi hukum dan tidak dapat disidangkan",
+        "C": "Dikenakan sanksi denda pidana kurungan kepada pemegang berkas",
+        "D": "Wajib dilakukan pemeteraian kemudian sebagai alat bukti pengadilan",
+        "E": "Dialihkan menjadi dokumen rahasia negara di kementerian"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Objek Bea Meterai mencakup **Dokumen yang digunakan sebagai alat bukti di pengadilan**.",
+        "alasan_kunci": "Opsi D tepat karena dokumen apa pun yang hendak dijadikan alat bukti di muka persidangan perdata wajib memenuhi bea meterai melalui mekanisme pemeteraian kemudian di kantor pos.",
+        "bedah_pengecoh": {
+          "A": "Panitera tidak menyita dokumen melainkan memeriksa bukti meterai.",
+          "B": "Dokumen tidak batal demi hukum, cukup dilunasi bea meterainya.",
+          "C": "Ketiadaan meterai bukan tindak pidana yang diancam kurungan.",
+          "E": "Dokumen perdata sidang bukan arsip rahasia kementerian."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "nilai nominal",
+        "lebih dari Rp5.000.000,00 (lima juta rupiah)"
+      ],
+      "topik_materi": "Batas Nominal Dokumen Uang Terutang Meterai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dokumen kuitansi atau pengakuan utang terutang bea meterai apabila bernilai nominal...",
+      "pilihan": {
+        "A": "Maksimal sebesar sepuluh juta rupiah dalam satu periode buku",
+        "B": "Di atas satu juta rupiah untuk transaksi antar perorangan",
+        "C": "Kurang dari dua juta rupiah pada pembelian barang tunai",
+        "D": "Tepat sebesar lima ratus ribu rupiah pada transaksi dinas",
+        "E": "Lebih dari lima juta rupiah yang menyebutkan penerimaan uang"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dokumen yang menyatakan jumlah uang dengan **nilai nominal lebih dari Rp5.000.000,00 (lima juta rupiah)** yang menyebutkan penerimaan uang atau pelunasan utang terutang Bea Meterai.",
+        "alasan_kunci": "Opsi E tepat karena UU 10/2020 menaikkan ambang batas dokumen keuangan yang terutang meterai menjadi di atas Rp5.000.000 guna melindungi transaksi UMKM dan masyarakat kecil dari beban meterai.",
+        "bedah_pengecoh": {
+          "A": "Batas bukan plafon maksimal melainkan ambang batas minimal pemungutan.",
+          "B": "Batas satu juta rupiah merupakan batas lama era undang-undang terdahulu.",
+          "C": "Nominal di bawah Rp5 juta bebas dari pengenaan bea meterai.",
+          "D": "Nominal Rp500 ribu tidak terutang bea meterai."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Besaran tarif bea materai bersifat tetap sebesar Rp10.000"
+      ],
+      "topik_materi": "Tarif Tunggal Bea Meterai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Besaran tarif bea meterai yang berlaku tunggal saat ini adalah...",
+      "pilihan": {
+        "A": "Bersifat tetap sebesar sepuluh ribu rupiah per dokumen",
+        "B": "Bersifat bertingkat antara tiga ribu dan enam ribu rupiah",
+        "C": "Dihitung satu persen dari total nilai nominal perjanjian",
+        "D": "Disesuaikan dengan tingkat laba kotor tahunan wajib pajak",
+        "E": "Ditetapkan secara bebas oleh pejabat kantor pos setempat"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Besaran tarif bea materai bersifat tetap sebesar Rp10.000**.",
+        "alasan_kunci": "Opsi A tepat karena UU 10/2020 menerapkan sistem tarif tunggal (*single tariff*) Rp10.000 menggantikan rezim tarif ganda Rp3.000 dan Rp6.000 yang berlaku pada aturan sebelumnya. Hal ini memberikan kepastian hukum bagi masyarakat.",
+        "bedah_pengecoh": {
+          "B": "Tarif Rp3.000 dan Rp6.000 sudah dihapus dan tidak berlaku lagi.",
+          "C": "Bea meterai adalah tarif tetap (*fixed duty*), bukan persentase nilai.",
+          "D": "Bea meterai tidak berkaitan dengan tingkat laba kotor usaha.",
+          "E": "Kantor pos bertindak sebagai penyalur, bukan penentu tarif meterai."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "meterai tempel, meterai elaktornik, atau Meterai dalam",
+        "bentuk lain"
+      ],
+      "topik_materi": "Ragam Bentuk Meterai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelunasan bea meterai atas dokumen dapat dilakukan dengan menggunakan...",
+      "pilihan": {
+        "A": "Kuitansi bukti setor pajak bumi dan bangunan daerah",
+        "B": "Meterai tempel, meterai elektronik, atau bentuk lain ketetapan Menkeu",
+        "C": "Surat pernyataan lunas dari kepala kantor perbendaharaan",
+        "D": "Stempel basah tanda tangan notaris tanpa perekat fisik",
+        "E": "Potongan kupon obligasi negara yang telah jatuh tempo"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Meterai dapat berupa **meterai tempel, meterai elaktornik, atau Meterai dalam bentuk lain yang ditetapkan oleh Menteri Keuangan** atau Surat Setoran Pajak.",
+        "alasan_kunci": "Opsi B tepat karena undang-undang memfasilitasi meterai tempel untuk dokumen fisik kertas dan meterai elektronik (*e-meterai*) untuk dokumen digital elektronik. Fleksibilitas ini mempermudah transaksi bisnis modern.",
+        "bedah_pengecoh": {
+          "A": "Kuitansi PBB adalah bukti bayar pajak tanah, bukan meterai dokumen.",
+          "C": "Pernyataan KPPN adalah bukti pembayaran SP2D APBN.",
+          "D": "Stempel notaris bukan tanda pelunasan bea meterai negara.",
+          "E": "Kupon obligasi adalah instrumen pencairan bunga surat utang."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Objek Bea Masuk adalah barang yang dimasukkan",
+        "kedalam Daerah Pabean"
+      ],
+      "topik_materi": "Objek Bea Masuk",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Objek pengenaan Bea Masuk menurut hukum kepabeanan adalah...",
+      "pilihan": {
+        "A": "Komoditas hasil pertanian lokal yang dijual antarpulau",
+        "B": "Kapal pesiar asing yang melintas di perairan internasional",
+        "C": "Barang impor yang dimasukkan ke dalam daerah pabean",
+        "D": "Peralatan dinas kantor kementerian yang dibeli dari APBN",
+        "E": "Barang produksi dalam negeri yang dipamerkan di pameran"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Objek Bea Masuk adalah barang yang dimasukkan kedalam Daerah Pabean (barang yang diimpor)**.",
+        "alasan_kunci": "Opsi C tepat karena yurisdiksi pabean mengenakan bea masuk pada saat barang luar negeri melintasi garis pabean untuk masuk dan beredar di wilayah Republik Indonesia. Importasi inilah yang melahirkan utang bea masuk.",
+        "bedah_pengecoh": {
+          "A": "Perdagangan antarpulau adalah perdagangan domestik bebas bea pabean.",
+          "B": "Kapal yang melintas damai di laut lepas tidak terutang bea masuk.",
+          "D": "Belanja APBN barang lokal tidak melintasi batas daerah pabean.",
+          "E": "Barang pameran lokal bukan barang impor dari luar negeri."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Undang-undang",
+        "No. 17 tahun 2006 tentang Kepabeanan"
+      ],
+      "topik_materi": "Dasar Hukum Kepabeanan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan mengenai kepabeanan dan bea masuk diatur dalam perundang-undangan...",
+      "pilihan": {
+        "A": "UU Nomor 15 Tahun 2004 tentang Tata Cara Audit BPK",
+        "B": "UU Nomor 10 Tahun 1995 tentang Lembaga Perbankan",
+        "C": "UU Nomor 1 Tahun 2004 tentang Kas Daerah Otonom",
+        "D": "UU Nomor 17 Tahun 2006 tentang Kepabeanan",
+        "E": "UU Nomor 25 Tahun 2004 tentang Kerangka Rencana Kerja"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kepabeanan diatur dalam **Undang-undang No. 17 tahun 2006 tentang Kepabeanan** (perubahan atas UU No. 10 Tahun 1995).",
+        "alasan_kunci": "Opsi D tepat karena UU 17/2006 merupakan landasan hukum formil dan materiil bagi Direktorat Jenderal Bea dan Cukai dalam mengawasi lalu lintas barang ekspor dan impor di seluruh wilayah pabean Indonesia.",
+        "bedah_pengecoh": {
+          "A": "UU 15/2004 adalah undang-undang pemeriksaan tanggung jawab keuangan.",
+          "B": "UU perbankan bukan undang-undang kepabeanan bea masuk.",
+          "C": "UU 1/2004 adalah undang-undang perbendaharaan negara.",
+          "E": "UU 25/2004 adalah undang-undang sistem perencanaan pembangunan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Daerah Pabean adalah wilayah Republik Indonesia"
+      ],
+      "topik_materi": "Definisi Daerah Pabean",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Daerah Pabean menurut undang-undang kepabeanan didefinisikan sebagai...",
+      "pilihan": {
+        "A": "Zona netral perbatasan antarnegara yang bebas dari hukum negara",
+        "B": "Area terbatas di dalam kompleks gedung kantor pelayanan pajak",
+        "C": "Ruang tunggu keberangkatan penumpang pesawat udara domestik",
+        "D": "Kawasan perairan laut lepas di luar batas zona ekonomi eksklusif",
+        "E": "Wilayah Republik Indonesia yang berlaku undang-undang kepabeanan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Daerah Pabean adalah wilayah Republik Indonesia yang didalamnya berlaku Undang-undang Kepabeanan**, meliputi wilayah darat, perairan, dan ruang udara di atasnya, serta tempat-tempat tertentu di ZEE dan landas kontinen.",
+        "alasan_kunci": "Opsi E tepat karena kedaulatan hukum kepabeanan mencakup seluruh batas kedaulatan negara Indonesia. Setiap barang luar yang menembus garis batas daerah pabean ini tunduk pada pengawasan bea cukai.",
+        "bedah_pengecoh": {
+          "A": "Tidak ada zona netral tanpa hukum di wilayah perbatasan resmi.",
+          "B": "Gedung kantor pajak bukan batas daerah pabean nasional.",
+          "C": "Ruang tunggu bandara domestik adalah terminal penerbangan dalam negeri.",
+          "D": "Laut lepas berada di luar batas kedaulatan pabean Indonesia."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Subjek Bea",
+        "Masuk adalah pihak-pihak yang pada prinsipnya harus bertanggung jawab",
+        "atas",
+        "pembayaran"
+      ],
+      "topik_materi": "Subjek Pembayar Bea Masuk",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pihak yang bertanggung jawab atas pembayaran Bea Masuk ke kas negara adalah...",
+      "pilihan": {
+        "A": "Importir yang memasukkan barang ke dalam daerah pabean",
+        "B": "Nakhoda kapal asing yang sekadar transit mengisi bahan bakar",
+        "C": "Petugas bea cukai yang melakukan pemeriksaan fisik barang",
+        "D": "Konsumen akhir yang membeli barang impor di pasar eceran",
+        "E": "Otoritas pelabuhan laut yang menyediakan dermaga sandar"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Subjek Bea Masuk adalah pihak-pihak yang pada prinsipnya harus bertanggung jawab atas pembayaran Bea Masuk dimaksud yaitu pihak-pihak yang memasukkan barang ke dalam Daerah Pabean (importir)**.",
+        "alasan_kunci": "Opsi A tepat karena importir adalah entitas yang melakukan tindakan hukum mendatangkan barang dari luar negeri. Kewajiban pemberitahuan pabean (PIB) dan pelunasan bea masuk dibebankan secara hukum kepada importir.",
+        "bedah_pengecoh": {
+          "B": "Nakhoda kapal transit tidak mengimpor barang ke peredaran bebas.",
+          "C": "Petugas bea cukai adalah aparatur negara pemeriksa dokumen pabean.",
+          "D": "Konsumen eceran bukan subjek hukum langsung pembayar bea masuk pabean.",
+          "E": "Otoritas pelabuhan adalah penyedia jasa kepelabuhanan maritim."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "tujuan bea masuk adalah melindungi industri dalam negeri"
+      ],
+      "topik_materi": "Fungsi Proteksi Bea Masuk",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan utama pengenaan tarif bea masuk terhadap barang impor adalah...",
+      "pilihan": {
+        "A": "Menghambat hubungan diplomatik kerja sama antarnegara sahabat",
+        "B": "Melindungi industri dalam negeri dari serbuan produk luar negeri",
+        "C": "Memaksa produsen luar negeri menjual pabriknya ke pihak lokal",
+        "D": "Menghapuskan peredaran barang kebutuhan pokok di pasar domestik",
+        "E": "Mengurangi cadangan devisa negara pada bank sentral Indonesia"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pada dasarnya **tujuan bea masuk adalah melindungi industri dalam negeri dari masuknya barang-barang yang berasal dari luar negeri** (fungsi proteksi/barrier).",
+        "alasan_kunci": "Opsi B tepat karena dengan membebankan bea masuk, harga produk impor menjadi setara atau lebih mahal sehingga produk industri lokal memiliki daya saing yang adil di pasar domestik.",
+        "bedah_pengecoh": {
+          "A": "Bea masuk adalah instrumen dagang wajar, bukan pemutus diplomasi.",
+          "C": "Bea masuk tidak bertujuan mengambil alih kepemilikan pabrik asing.",
+          "D": "Tujuan bea masuk menjaga industri, bukan melenyapkan kebutuhan pokok.",
+          "E": "Pengendalian impor justru membantu menghemat cadangan devisa negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "ASEAN Free Trade Area/AFTA"
+      ],
+      "topik_materi": "Dampak Kawasan Bebas Perdagangan (AFTA)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kawasan perdagangan bebas yang menghapuskan tarif bea masuk impor bagi Indonesia adalah...",
+      "pilihan": {
+        "A": "Perjanjian bantuan pinjaman darurat dana moneter global",
+        "B": "Pakta pertahanan militer bersama negara-negara Atlantik Utara",
+        "C": "Kawasan perdagangan bebas ASEAN Free Trade Area (AFTA)",
+        "D": "Kerja sama riset penjelajahan ruang angkasa regional Asia",
+        "E": "Asosiasi federasi olahraga sepak bola antarnegara Asia"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kawasan bebas perdagangan yaitu **ASEAN Free Trade Area/AFTA** menghapuskan semua bea masuk impor barang bagi Indonesia pada tahun 2015.",
+        "alasan_kunci": "Opsi C tepat karena komitmen integrasi ekonomi ASEAN melalui skema CEPT-AFTA memangkas tarif bea masuk antarsesama negara anggota hingga nol persen. Hal ini menuntut peningkatan daya saing produsen dalam negeri.",
+        "bedah_pengecoh": {
+          "A": "Pinjaman darurat moneter adalah bantuan stabilitas neraca IMF.",
+          "B": "Pakta Atlantik Utara (NATO) adalah aliansi pertahanan militer.",
+          "D": "Riset ruang angkasa bukan perjanjian perdagangan tarif nol komoditas.",
+          "E": "Federasi sepak bola adalah organisasi olahraga regional."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "menghapuskan semua bea",
+        "masuk impor barang bagi Indonesia pada tahun 2015"
+      ],
+      "topik_materi": "Tantangan Penghapusan Bea Masuk AFTA 2015",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penghapusan tarif bea masuk impor bagi Indonesia sejak tahun 2015 menjadi tantangan untuk...",
+      "pilihan": {
+        "A": "Menghapuskan pemungutan pajak pertambahan nilai barang mewah",
+        "B": "Menutup seluruh akses pelabuhan pabean internasional di daerah",
+        "C": "Menaikkan batas tarif bea keluar hasil tambang mentah ekspor",
+        "D": "Meningkatkan daya saing dan efisiensi produk industri nasional",
+        "E": "Menghentikan seluruh kegiatan produksi pabrik manufaktur lokal"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dengan dihapuskannya bea masuk impor AFTA pada tahun 2015, manfaat pelindung industri hilang sehingga menjadi **tantangan bagi pengusaha/produsen Indonesia untuk dapat meningkatkan daya saing**.",
+        "alasan_kunci": "Opsi D tepat karena hilangnya dinding proteksi tarif menuntut produsen dalam negeri memproduksi barang berkualitas tinggi dengan harga kompetitif agar tidak kalah bersaing dengan barang impor dari kawasan ASEAN.",
+        "bedah_pengecoh": {
+          "A": "PPnBM tetap dipungut sebagai instrumen konsumsi barang mewah.",
+          "B": "Menutup pelabuhan bertentangan dengan komitmen perdagangan internasional.",
+          "C": "Bea keluar tambang adalah kebijakan terpisah terkait bahan baku mentah.",
+          "E": "Industri lokal justru harus dipacu produktivitasnya, bukan dihentikan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "dikenakan atas",
+        "ekspor beberapa komoditi tertentu"
+      ],
+      "topik_materi": "Pajak Ekspor Komoditas Tertentu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan Pajak Ekspor dikenakan pemerintah atas pengiriman komoditas tertentu seperti...",
+      "pilihan": {
+        "A": "Buku literatur pendidikan dan publikasi ilmiah dosen kampus",
+        "B": "Barang kerajinan tangan jadi dan suvenir budaya tradisional",
+        "C": "Produk pakaian jadi siap pakai hasil konveksi garmen lokal",
+        "D": "Komponen elektronika rakitan siap pasang industri manufaktur",
+        "E": "Kulit mentah, rotan mentah, kayu gelondongan, karet, dan sawit"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pajak Ekspor pada APBN adalah hasil pungutan pajak yang **dikenakan atas ekspor beberapa komoditi tertentu misalnya kulit, rotan mentah, kayu gelondongan, karet, kopra, kopi dan sebagainya**.",
+        "alasan_kunci": "Opsi E tepat karena pajak ekspor (bea keluar) secara selektif dikenakan pada bahan mentah atau bahan baku alami untuk mencegah eksploitasi berlebihan dan memastikan ketersediaan bahan baku bagi industri pengolahan dalam negeri.",
+        "bedah_pengecoh": {
+          "A": "Buku literatur pendidikan bukan komoditas sasaran pungutan ekspor.",
+          "B": "Kerajinan tangan jadi didorong ekspornya dan dibebaskan dari pajak ekspor.",
+          "C": "Pakaian jadi adalah produk bernilai tambah yang ekspornya didukung penuh.",
+          "D": "Elektronika adalah produk manufaktur ekspor yang bebas bea keluar."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 81,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "mendorong ekspor barang jadi,",
+        "menciptakan lapangan kerja, mendorong industri hilir"
+      ],
+      "topik_materi": "Tujuan Kebijakan Hilirisasi Ekspor",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kebijaksanaan di bidang ekspor secara terpadu ditujukan pemerintah untuk...",
+      "pilihan": {
+        "A": "Mendorong ekspor barang jadi, lapangan kerja, dan industri hilir",
+        "B": "Memperbanyak pengiriman bahan mentah tanpa proses pengolahan",
+        "C": "Menghapuskan pungutan devisa atas komoditas tambang strategis",
+        "D": "Membatasi investasi modal asing di sektor manufaktur pengolahan",
+        "E": "Menurunkan harga jual komoditas mentah Indonesia di pasar global"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kebijaksanaan ekspor ditujukan untuk **mendorong ekspor barang jadi, menciptakan lapangan kerja, mendorong industri hilir, dan meningkatkan pendapatan devisa**.",
+        "alasan_kunci": "Opsi A tepat karena industrialisasi dan hilirisasi mengubah struktur ekspor dari sekadar pengekspor bahan mentah bernilai rendah menjadi pengekspor barang jadi bernilai tambah tinggi yang menyerap tenaga kerja dalam jumlah besar.",
+        "bedah_pengecoh": {
+          "B": "Ekspor bahan mentah mentah justru dibatasi untuk hilirisasi.",
+          "C": "Devisa ekspor wajib masuk ke sistem keuangan dalam negeri.",
+          "D": "Investasi hilirisasi justru sangat dibuka dan difasilitasi pemerintah.",
+          "E": "Menurunkan harga bahan mentah merugikan neraca perdagangan nasional."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 82,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "membatasi ekspor",
+        "jenis komoditi tertentu"
+      ],
+      "topik_materi": "Pembatasan Ekspor Bahan Baku",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembatasan ekspor jenis komoditi tertentu oleh pemerintah dilaksanakan dalam rangka...",
+      "pilihan": {
+        "A": "Menghentikan seluruh aktivitas perniagaan ekspor pelabuhan laut",
+        "B": "Menjamin pasokan bahan baku domestik dan menciptakan lapangan kerja",
+        "C": "Menurunkan penerimaan devisa negara dari sektor perdagangan luar",
+        "D": "Mendorong impor barang konsumsi sejenis dari kawasan regional",
+        "E": "Menyerahkan pengelolaan komoditas kepada kartel bisnis swasta"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kebijakan ekspor ditujukan untuk **membatasi ekspor jenis komoditi tertentu dalam rangka usaha menciptakan lapangan kerja misalnya dengan dibatasinya ekspor kulit mentah, rotan mentah dan kayu gelondongan**.",
+        "alasan_kunci": "Opsi B tepat karena jika seluruh rotan dan kayu mentah diekspor ke luar negeri, pabrik mebel dan pengrajin dalam negeri akan kekurangan bahan baku dan mengalami penutupan usaha. Pembatasan ekspor menjaga kelangsungan industri lokal.",
+        "bedah_pengecoh": {
+          "A": "Kebijakan tidak menghentikan perniagaan ekspor melainkan menyeleksinya.",
+          "C": "Tujuan hilirisasi justru melipatgandakan perolehan devisa barang jadi.",
+          "D": "Tujuan pembatasan bukan mendorong impor melainkan memacu olahan lokal.",
+          "E": "Pengelolaan komoditas diatur oleh negara demi kemakmuran rakyat."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 83,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "dikenai pajak",
+        "ekspor yang tinggi"
+      ],
+      "topik_materi": "Tarif Pajak Ekspor Tinggi sebagai Disinsentif",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Instrumen fiskal yang digunakan untuk membatasi ekspor komoditas mentah adalah...",
+      "pilihan": {
+        "A": "Pembebasan seluruh pungutan kepabeanan di pelabuhan ekspor",
+        "B": "Pemberian subsidi tunai langsung bagi eksportir bahan mentah",
+        "C": "Pengenaan tarif pajak ekspor yang tinggi atas bahan mentah",
+        "D": "Pemberian kemudahan kredit perbankan tanpa bunga bagi eksportir",
+        "E": "Penurunan tarif bea masuk atas produk olahan impor sejenis"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Untuk membatasi ekspor komoditi mentah tersebut **dikenai pajak ekspor yang tinggi**.",
+        "alasan_kunci": "Opsi C tepat karena pengenaan tarif bea keluar yang tinggi bertindak sebagai disinsentif ekonomi yang membuat ekspor bahan mentah menjadi tidak menguntungkan secara finansial, sehingga pengusaha terdorong mengolahnya di dalam negeri.",
+        "bedah_pengecoh": {
+          "A": "Pembebasan pungutan justru akan memicu banjir ekspor bahan mentah.",
+          "B": "Memberi subsidi kepada eksportir mentah bertentangan dengan hilirisasi.",
+          "D": "Kredit lunak tanpa bunga bagi eksportir mentah menyalahi arah kebijakan.",
+          "E": "Penurunan bea masuk impor olahan merugikan pasar industri dalam negeri."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 84,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "UU Nomor 9 tahun 2018"
+      ],
+      "topik_materi": "Dasar Regulasi PNBP",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan pokok Penerimaan Negara Bukan Pajak (PNBP) saat ini diatur dalam...",
+      "pilihan": {
+        "A": "UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara",
+        "B": "UU Nomor 20 Tahun 1997 tentang PNBP Era Lama",
+        "C": "UU Nomor 17 Tahun 2003 tentang Keuangan Negara",
+        "D": "UU Nomor 9 Tahun 2018 tentang PNBP",
+        "E": "UU Nomor 15 Tahun 2004 tentang Pemeriksaan BPK"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Ketentuan tentang PNBP diatur dalam **UU Nomor 9 tahun 2018** tentang Penerimaan Negara Bukan Pajak.",
+        "alasan_kunci": "Opsi D tepat karena UU 9/2018 menggantikan regulasi tahun 1997 guna mewujudkan tata kelola PNBP yang lebih transparan, akuntabel, dan berkeadilan serta mengoptimalkan penerimaan negara di luar perpajakan.",
+        "bedah_pengecoh": {
+          "A": "UU 1/2004 mengatur administrasi perbendaharaan negara.",
+          "B": "UU 20/1997 telah dicabut dan digantikan penuh oleh UU 9/2018.",
+          "C": "UU 17/2003 mengatur asas umum kerangka keuangan negara.",
+          "E": "UU 15/2004 mengatur sistem pemeriksaan keuangan negara oleh BPK."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 85,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "pungutan yang dibayar oleh",
+        "orang pribadi atau badan"
+      ],
+      "topik_materi": "Definisi PNBP",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan Negara Bukan Pajak (PNBP) didefinisikan sebagai pungutan yang dibayar oleh...",
+      "pilihan": {
+        "A": "Masyarakat umum berupa sumbangan sukarela tanpa dasar undang-undang",
+        "B": "Seluruh aparatur sipil negara dari pemotongan gaji rutin bulanan",
+        "C": "Konsumen akhir atas konsumsi barang kena cukai tembakau",
+        "D": "Importir barang modal atas bea masuk yang dilunasi di pabean",
+        "E": "Orang pribadi atau badan dengan imbalan manfaat atas layanan atau SDA"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "PNBP adalah **pungutan yang dibayar oleh orang pribadi atau badan dengan memperoleh manfaat langsung maupun tidak langsung atas layanan atau pemanfaatan sumber daya dan hak yang diperoleh negara**.",
+        "alasan_kunci": "Opsi E tepat karena ciri pembeda utama PNBP dari pajak adalah adanya kontraprestasi atau manfaat langsung/tidak langsung yang dinikmati pembayar pungutan, seperti jasa pelayanan paspor, pendidikan, atau sewa aset negara.",
+        "bedah_pengecoh": {
+          "A": "PNBP wajib didasarkan pada peraturan perundang-undangan, bukan sukarela.",
+          "B": "Potongan gaji ASN adalah iuran jaminan pensiun dan potongan PPh 21.",
+          "C": "Pungutan atas rokok merupakan penerimaan cukai, bukan PNBP.",
+          "D": "Pungutan importir di pelabuhan pabean merupakan pos Bea Masuk."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 86,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "memperoleh manfaat langsung maupun tidak",
+        "langsung atas layanan atau pemanfaatan sumber daya"
+      ],
+      "topik_materi": "Prinsip Manfaat Langsung/Tidak Langsung PNBP",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perolehan manfaat langsung maupun tidak langsung dalam PNBP timbul dari...",
+      "pilihan": {
+        "A": "Layanan pemerintah atau pemanfaatan sumber daya dan hak negara",
+        "B": "Pemberian pinjaman komersial tanpa jaminan dari bank umum",
+        "C": "Kenaikan nilai saham perusahaan swasta di bursa efek domestik",
+        "D": "Bantuan keuangan kemanusiaan dari lembaga filantropi asing",
+        "E": "Penyelesaian sengketa tata usaha negara oleh majelis hakim"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Manfaat PNBP timbul **atas layanan atau pemanfaatan sumber daya dan hak yang diperoleh negara, berdasarkan perundang-undangan**.",
+        "alasan_kunci": "Opsi A tepat karena negara bertindak sebagai penyedia jasa layanan publik administratif/barang dan pemilik kedaulatan atas kekayaan sumber daya alam. Manfaat atas fasilitas inilah yang menjadi dasar pungutan PNBP.",
+        "bedah_pengecoh": {
+          "B": "Pinjaman bank komersial adalah transaksi pembiayaan perbankan privat.",
+          "C": "Kenaikan saham adalah keuntungan modal swasta di pasar modal.",
+          "D": "Bantuan filantropi asing masuk dalam pos penerimaan hibah.",
+          "E": "Putusan sengketa TUN adalah fungsi penegakan keadilan peradilan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 87,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "Pelaksanaan tugas dan fungsi pemerintah"
+      ],
+      "topik_materi": "Kriteria Objek PNBP Tugas Fungsi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu kriteria utama suatu aktivitas menjadi objek PNBP adalah adanya...",
+      "pilihan": {
+        "A": "Tuntutan pembagian dividen laba dari korporasi multinasional",
+        "B": "Pelaksanaan tugas dan fungsi pemerintah dalam pelayanan publik",
+        "C": "Kewajiban pembayaran ganti rugi sengketa perdata masyarakat",
+        "D": "Penyitaan rekening simpanan nasabah bermasalah oleh perbankan",
+        "E": "Perubahan batas wilayah administratif kelurahan di daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kriteria objek PNBP mencakup **Pelaksanaan tugas dan fungsi pemerintah**, penggunaan dana APBN, pengelolaan kekayaan negara, dan/atau penetapan peraturan.",
+        "alasan_kunci": "Opsi B tepat karena apabila suatu kementerian/lembaga menjalankan tugas pelayanan publik (seperti penerbitan SIM, paspor, uji laboratorium) dan memungut biaya dari masyarakat, pungutan tersebut wajib disahkan sebagai PNBP.",
+        "bedah_pengecoh": {
+          "A": "Dividen korporasi multinasional bukan tupoksi pelayanan pemerintah.",
+          "C": "Ganti rugi sengketa perdata adalah kompensasi antarpribadi hukum.",
+          "D": "Penyitaan rekening bank diatur dalam hukum perbankan dan eksekusi pengadilan.",
+          "E": "Perubahan batas kelurahan adalah kebijakan penataan wilayah administratif."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 88,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "Penggunaan dana yang bersumber dari anggaran pendapatan dan belanja",
+        "negara"
+      ],
+      "topik_materi": "Kriteria Objek PNBP Berbasis Dana APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kegiatan yang menghasilkan penerimaan dikategorikan objek PNBP apabila memanfaatkan...",
+      "pilihan": {
+        "A": "Hasil iuran sukarela dari pegawai pada perkumpulan kantor",
+        "B": "Pinjaman modal kerja jangka pendek dari rentenir perorangan",
+        "C": "Penggunaan dana yang bersumber dari APBN dalam pelaksanaannya",
+        "D": "Dana sumbangan perorangan yang tidak tercatat dalam buku dinas",
+        "E": "Penerimaan kredit komersial berbunga pasar dari bank swasta"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kriteria objek PNBP meliputi **Penggunaan dana yang bersumber dari anggaran pendapatan dan belanja negara**.",
+        "alasan_kunci": "Opsi C tepat karena setiap fasilitas atau layanan yang dibiayai menggunakan uang APBN tidak boleh menghasilkan penerimaan yang dinikmati secara pribadi oleh pejabat satker. Penerimaan tersebut wajib disetor penuh ke kas negara sebagai PNBP.",
+        "bedah_pengecoh": {
+          "A": "Iuran sosial pegawai adalah dana paguyuban non-kedinasan.",
+          "B": "Penggunaan pinjaman rentenir melanggar aturan tata kelola instansi.",
+          "D": "Sumbangan tanpa pencatatan adalah gratifikasi liar yang melanggar hukum.",
+          "E": "Instansi pemerintah dilarang meminjam modal kredit dari bank swasta."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 89,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "Pemanfaatan Sumber Daya Alam"
+      ],
+      "topik_materi": "Klaster PNBP Pemanfaatan SDA",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemanfaatan bumi, air, udara, dan kekayaan alam yang terkandung di dalamnya masuk klaster...",
+      "pilihan": {
+        "A": "Pajak penjualan atas barang mewah hasil tambang",
+        "B": "Pajak Pertambahan Nilai penyerahan barang tambang",
+        "C": "Pungutan bea masuk kepabeanan atas komoditas impor",
+        "D": "Objek PNBP Pemanfaatan Sumber Daya Alam",
+        "E": "Penerimaan hibah luar negeri sektor kelautan maritim"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Objek PNBP meliputi **Pemanfaatan Sumber Daya Alam**, yaitu pemanfaatan bumi, air, udara, ruang angkasa, dan kekayaan alam yang dikuasai negara.",
+        "alasan_kunci": "Opsi D tepat karena royalti minyak, gas bumi, mineral, batubara, kehutanan, dan perikanan merupakan hak negara atas kekayaan alamnya yang dikelola dalam kelompok PNBP SDA.",
+        "bedah_pengecoh": {
+          "A": "PPnBM adalah pajak konsumsi, bukan royalti eksploitasi alam.",
+          "B": "Penyerahan barang tambang mentah tunduk pada ketentuan PPN tersendiri.",
+          "C": "Bea masuk dikenakan atas impor barang, bukan eksploitasi alam domestik.",
+          "E": "Hibah maritim adalah bantuan sukarela, bukan imbal hasil pemanfaatan SDA."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 90,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "Pelayanan adalah jasa, segala bentuk penyediaan barang, atau pelayanan",
+        "administratif"
+      ],
+      "topik_materi": "Klaster PNBP Pelayanan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Klaster objek PNBP berupa penyediaan barang, jasa, atau pelayanan administratif disebut...",
+      "pilihan": {
+        "A": "Pajak penghasilan atas imbalan jasa profesi konsultan",
+        "B": "Penerimaan retribusi daerah pada dinas perhubungan kota",
+        "C": "Bea meterai atas dokumen perjanjian perikatan perdata",
+        "D": "Pungutan cukai atas konsumsi minuman mengandung alkohol",
+        "E": "Objek PNBP Pelayanan yang menjadi tanggung jawab pemerintah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Pelayanan adalah jasa, segala bentuk penyediaan barang, atau pelayanan administratif yang menjadi tanggung jawab pemerintah**, baik pemenuhan kebutuhan masyarakat maupun peraturan.",
+        "alasan_kunci": "Opsi E tepat karena layanan jasa diklat kedinasan, penerbitan sertifikat keahlian, izin operasional, dan visa kunjungan merupakan bentuk pelayanan pemerintah pusat yang menghasilkan PNBP Pelayanan.",
+        "bedah_pengecoh": {
+          "A": "Pajak jasa konsultan dipotong melalui skema PPh Pasal 23 atau 21.",
+          "B": "Retribusi perhubungan daerah adalah penerimaan kas daerah pemda.",
+          "C": "Bea meterai adalah pajak atas dokumen perdata, bukan PNBP jasa layanan.",
+          "D": "Cukai alkohol adalah pungutan pembatasan konsumsi barang kena cukai."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 91,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "Pengelolaan Kekayaan Negara Dipisahkan adalah pengelolaan atas kekayaan",
+        "negara"
+      ],
+      "topik_materi": "Klaster PNBP Kekayaan Negara Dipisahkan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dividen dan bagian laba pemerintah yang berasal dari penyertaan modal pada BUMN masuk klaster...",
+      "pilihan": {
+        "A": "Pengelolaan Kekayaan Negara Dipisahkan objek PNBP",
+        "B": "Pajak penghasilan badan atas keuntungan korporasi BUMN",
+        "C": "Penerimaan pembiayaan utang pinjaman modal investasi",
+        "D": "Penerimaan hibah terikat dari direksi perusahaan negara",
+        "E": "Dana cadangan umum stabilisasi neraca moneter negara"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Pengelolaan Kekayaan Negara Dipisahkan adalah pengelolaan atas kekayaan negara yang berasal dari anggaran pendapatan dan belanja negara yang dijadikan penyertaan modal negara** atau perolehan lain yang sah.",
+        "alasan_kunci": "Opsi A tepat karena pemerintah bertindak sebagai pemegang saham pada BUMN dan lembaga keuangan. Bagian laba/dividen yang disetorkan BUMN ke kas negara dibukukan dalam pos PNBP Kekayaan Negara Dipisahkan (KND).",
+        "bedah_pengecoh": {
+          "B": "PPh badan disetor BUMN ke pos perpajakan, bukan pos PNBP dividen.",
+          "C": "Pembiayaan utang adalah pos penerbitan utang, bukan bagian laba ekuitas.",
+          "D": "Setoran dividen adalah kewajiban laba modal, bukan hibah sosial.",
+          "E": "Cadangan moneter dikelola di bank sentral untuk stabilitas rupiah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 92,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Pengelolaan Barang Milik Negara adalah kegiatan penggunaan, pemanfaatan,",
+        "dan pemindahtanganan"
+      ],
+      "topik_materi": "Klaster PNBP Pengelolaan BMN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan dari sewa gedung atau pemindahtanganan aset instansi pemerintah masuk klaster...",
+      "pilihan": {
+        "A": "Penerimaan pajak bumi dan bangunan sektor perhutanan",
+        "B": "Objek PNBP Pengelolaan Barang Milik Negara (BMN)",
+        "C": "Retribusi daerah atas pemakaian kekayaan daerah otonom",
+        "D": "Pajak penjualan atas barang mewah kepemilikan kementerian",
+        "E": "Penerimaan bantuan hibah modal dari pihak ketiga rekanan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Pengelolaan Barang Milik Negara adalah kegiatan penggunaan, pemanfaatan, dan pemindahtanganan semua barang yang dibeli atau diperoleh atas beban anggaran pendapatan dan belanja negara**.",
+        "alasan_kunci": "Opsi B tepat karena sewa tanah, gedung, atau penjualan lelang BMN yang tidak digunakan lagi untuk operasional menghasilkan penerimaan kas negara yang wajib disetor sebagai PNBP Pengelolaan BMN.",
+        "bedah_pengecoh": {
+          "A": "PBB perhutanan adalah pajak atas kepemilikan tanah konsesi hutan.",
+          "C": "Retribusi kekayaan daerah berlaku untuk aset milik pemerintah daerah.",
+          "D": "PPnBM adalah pajak konsumsi barang mewah, bukan sewa BMN.",
+          "E": "Sewa BMN adalah transaksi pemanfaatan aset, bukan penerimaan hibah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 93,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Pengelolaan Dana adalah pengelolaan atas dana Pemerintah yang berasal dari",
+        "anggaran pendapatan dan belanja negara"
+      ],
+      "topik_materi": "Klaster PNBP Pengelolaan Dana",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Jasa giro dan imbal hasil penempatan dana pemerintah pada rekening perbankan masuk klaster...",
+      "pilihan": {
+        "A": "Penerimaan pembiayaan penarikan pinjaman dalam negeri",
+        "B": "Pajak penghasilan final bunga deposito perbankan swasta",
+        "C": "Objek PNBP Pengelolaan Dana untuk tujuan tertentu",
+        "D": "Cadangan wajib likuiditas transaksi pasar uang antarbank",
+        "E": "Penerimaan bea meterai dokumen setoran kas perbendaharaan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Pengelolaan Dana adalah pengelolaan atas dana Pemerintah yang berasal dari anggaran pendapatan dan belanja negara atau perolehan lain yang sah untuk tujuan tertentu**.",
+        "alasan_kunci": "Opsi C tepat karena bunga atau imbal hasil dari penempatan dana bergulir, dana abadi pendidikan, dan saldo kas perbendaharaan di perbankan dibukukan sebagai PNBP Pengelolaan Dana.",
+        "bedah_pengecoh": {
+          "A": "Pembiayaan pinjaman adalah penerimaan pokok utang, bukan bunga dana.",
+          "B": "Bunga dana pemerintah dikecualikan dari pemotongan PPh final komersial.",
+          "D": "GWM adalah instrumen kebijakan likuiditas makro bank sentral.",
+          "E": "Bea meterai adalah pajak dokumen perdata, bukan hasil jasa penempatan dana."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 94,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Hak Negara Lainnya adalah hak negara selain dari Pemanfaatan Sumber Daya",
+        "Alam"
+      ],
+      "topik_materi": "Klaster PNBP Hak Negara Lainnya",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan dari denda tilang, uang sitaan, atau hasil lelang barang rampasan masuk klaster...",
+      "pilihan": {
+        "A": "Pajak bumi dan bangunan sektor pertambangan mineral umum",
+        "B": "Penerimaan pajak perdagangan internasional komoditas ekspor",
+        "C": "Pungutan cukai atas peredaran barang berbahaya tanpa izin",
+        "D": "Objek PNBP Hak Negara Lainnya sesuai ketentuan regulasi",
+        "E": "Penerimaan hibah terikat dari penegak hukum luar negeri"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Hak Negara Lainnya adalah hak negara selain dari Pemanfaatan Sumber Daya Alam, pelayanan, Pengelolaan Kekayaan Negara Dipisahkan, pengelolaan Barang Milik Negara, pengelolaan dana**, yang diatur dalam undang-undang.",
+        "alasan_kunci": "Opsi D tepat karena klaster Hak Negara Lainnya berfungsi sebagai penampung penerimaan resmi negara dari instrumen penegakan hukum (denda tilang, uang rampasan perkara korupsi/pidana, biaya perkara) yang wajib disetor ke kas negara.",
+        "bedah_pengecoh": {
+          "A": "PBB pertambangan adalah pajak atas areal konsesi pertambangan.",
+          "B": "Pajak perdagangan internasional memungut lalu lintas barang ekspor/impor.",
+          "C": "Cukai memungut etil alkohol, minuman beralkohol, dan hasil tembakau.",
+          "E": "Denda dan rampasan adalah sanksi hukum pidana resmi, bukan hibah sukarela."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 95,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Hibah adalah pendapatan Pemerintah dalam bentuk uang/barang atau jasa"
+      ],
+      "topik_materi": "Definisi Penerimaan Hibah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan pemerintah dalam bentuk uang, barang, atau jasa yang tidak menimbulkan kewajiban utang adalah...",
+      "pilihan": {
+        "A": "Penerimaan piutang jatuh tempo dari badan usaha milik daerah",
+        "B": "Penerimaan pinjaman obligasi negara bersyarat lunak",
+        "C": "Penerimaan pembiayaan defisit anggaran dari bank sentral",
+        "D": "Penerimaan penarikan utang komersial pasar modal dunia",
+        "E": "Penerimaan hibah dari pihak dalam negeri atau luar negeri"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Hibah adalah pendapatan Pemerintah dalam bentuk uang/barang atau jasa dari Pemerintah lainnya, perusahaan negara/daerah, masyarakat dan organisasi kemasyarakatan**.",
+        "alasan_kunci": "Opsi E tepat karena hibah merupakan aliran masuk kekayaan kepada pemerintah yang bersifat cuma-cuma tanpa ada kewajiban bagi pemerintah untuk mengembalikan pokok atau membayar bunga kepada pihak pemberi.",
+        "bedah_pengecoh": {
+          "A": "Penerimaan piutang adalah pelunasan tagihan aset kas, bukan hibah.",
+          "B": "Obligasi adalah surat utang yang wajib dilunasi pokok dan bunganya.",
+          "C": "Pembiayaan defisit dari BI bukan pendapatan cuma-cuma melainkan instrumen moneter.",
+          "D": "Utang komersial membebankan kewajiban pengembalian cicilan kas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 96,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "bersifat tidak wajib dan tidak mengikat serta tidak secara terusmenerus"
+      ],
+      "topik_materi": "Tiga Karakteristik Pokok Hibah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karakteristik yuridis penerimaan hibah yang membedakannya dari pajak adalah...",
+      "pilihan": {
+        "A": "Bersifat tidak wajib, tidak mengikat, dan tidak secara terus-menerus",
+        "B": "Bersifat memaksa dan didasarkan pada sanksi pidana kurungan",
+        "C": "Wajib disetorkan secara rutin setiap awal bulan tahun anggaran",
+        "D": "Memiliki ikatan politik untuk mendukung kebijakan negara donor",
+        "E": "Diperuntukkan khusus guna membiayai belanja perjalanan dinas"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Penerimaan hibah **bersifat tidak wajib dan tidak mengikat serta tidak secara terusmenerus**.",
+        "alasan_kunci": "Opsi A tepat karena berbeda dengan pajak yang bersifat memaksa berdasarkan undang-undang, hibah diberikan secara sukarela (*voluntary*), tidak mengikat secara politis, dan tidak ada jaminan akan berulang setiap tahunnya.",
+        "bedah_pengecoh": {
+          "B": "Pungutan memaksa bersanksi pidana adalah karakter pungutan pajak.",
+          "C": "Hibah tidak memiliki jadwal setoran rutin bulanan tetap.",
+          "D": "Penerimaan hibah dilarang memuat ikatan politik yang menyandera kedaulatan.",
+          "E": "Hibah diprioritaskan untuk pembangunan dan bencana, bukan perjalanan dinas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 97,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "mendukung program pembangunan nasional",
+        "dan/atau mendukung penanggulangan bencana alam"
+      ],
+      "topik_materi": "Tujuan Alokasi Pemanfaatan Hibah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan hibah yang masuk ke dalam kas negara dialokasikan untuk...",
+      "pilihan": {
+        "A": "Membayar bonus tahunan bagi pejabat pimpinan kementerian",
+        "B": "Mendukung pembangunan nasional dan penanggulangan bencana alam",
+        "C": "Menambah modal cadangan badan usaha perbankan komersial",
+        "D": "Membeli saham spekulatif perusahaan swasta di bursa efek",
+        "E": "Membiayai kegiatan kampanye partai politik peserta pemilihan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Hibah digunakan untuk **mendukung program pembangunan nasional dan/atau mendukung penanggulangan bencana alam dan bantuan kemanusiaan**.",
+        "alasan_kunci": "Opsi B tepat karena dana hibah harus dimanfaatkan untuk kepentingan publik yang mendesak, seperti rehabilitasi pascabencana alam atau pembangunan fasilitas kesehatan/pendidikan masyarakat.",
+        "bedah_pengecoh": {
+          "A": "Dana hibah dilarang digunakan untuk bonus pribadi pejabat.",
+          "C": "Penyertaan modal perbankan komersial bukan tujuan peruntukan hibah.",
+          "D": "Spekulasi saham swasta dilarang dalam pengelolaan keuangan negara.",
+          "E": "Penggunaan dana negara untuk kampanye politik adalah pelanggaran hukum berat."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 98,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "transparan, akuntabel, efisien dan",
+        "efektif, kehati-hatian, tidak ada ikatan politik"
+      ],
+      "topik_materi": "Prinsip Penerimaan Hibah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemerintah hanya dapat menerima hibah apabila memenuhi prinsip...",
+      "pilihan": {
+        "A": "Memberikan hak konsesi tambang eksklusif kepada pihak donor",
+        "B": "Rahasia, tertutup, menguntungkan pendonor, dan bebas audit",
+        "C": "Transparan, akuntabel, efisien, efektif, dan tanpa ikatan politik",
+        "D": "Menempatkan perwakilan donor sebagai penasihat militer negara",
+        "E": "Meniadakan sistem pencatatan perbendaharaan pada kas negara"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Hibah dapat diterima apabila memenuhi prinsip **transparan, akuntabel, efisien dan efektif, kehati-hatian, tidak ada ikatan politik, dan tidak memiliki muatan yang dapat mengganggu stabilitas keamanan negara**.",
+        "alasan_kunci": "Opsi C tepat karena kedaulatan dan keamanan nasional berada di atas segalanya. Pemerintah dilarang menerima hibah yang memiliki agenda terselubung (*strings attached*) yang dapat mendikte kebijakan publik Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Hibah dilarang dikaitkan dengan kompensasi konsesi tambang negara.",
+          "B": "Pengelolaan hibah wajib terbuka dan diaudit oleh pemeriksa BPK.",
+          "D": "Penempatan penasihat militer asing melanggar kedaulatan pertahanan.",
+          "E": "Penerimaan hibah wajib dicatat resmi dalam mekanisme perbendaharaan APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 99,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "sejak APBN menggunakan",
+        "struktur baru yaitu tahun 2000"
+      ],
+      "topik_materi": "Masuknya Pos Hibah dalam Struktur APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pos penerimaan hibah mulai dicantumkan dalam susunan APBN sejak penerapan struktur baru yaitu...",
+      "pilihan": {
+        "A": "Tahun 1983 bersamaan dengan reformasi paket undang-undang pajak",
+        "B": "Tahun 1945 bersamaan dengan penetapan kemerdekaan bangsa",
+        "C": "Tahun 1969 pada saat peluncuran rencana pembangunan lima tahun",
+        "D": "Tahun 2000 dengan realisasi penerimaan dimulai tahun 2001",
+        "E": "Tahun 2014 saat berlakunya sistem akuntansi berbasis akrual penuh"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pos penerimaan hibah baru mulai ada dalam APBN **sejak APBN menggunakan struktur baru yaitu tahun 2000**. Realisasi penerimaannya baru mulai pada tahun 2001.",
+        "alasan_kunci": "Opsi D tepat karena sebelum reformasi penganggaran tahun 2000, bantuan luar negeri dicampur dalam pos penerimaan pembangunan. Format anggaran baru memisahkannya secara transparan ke dalam pos penerimaan hibah tersendiri.",
+        "bedah_pengecoh": {
+          "A": "Tahun 1983 adalah momentum perombakan undang-undang perpajakan modern.",
+          "B": "Tahun 1945 adalah masa awal pembentukan kas negara kemerdekaan.",
+          "C": "Tahun 1969 adalah awal Repelita era Orde Baru dengan format lama.",
+          "E": "Tahun 2014 merupakan masa transisi sistem akuntansi akrual pemerintahan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 100,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "mulai",
+        "dianggarkan pertama kali dalam APBN-P 2002"
+      ],
+      "topik_materi": "Penganggaran Pertama Hibah dalam APBN-P 2002",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan hibah mulai dianggarkan secara definitif pertama kali dalam dokumen...",
+      "pilihan": {
+        "A": "Rencana Pembangunan Jangka Menengah Nasional tahun 2020",
+        "B": "Nota Keuangan dan RAPBN tahun 1995 era sebelum krisis",
+        "C": "Rancangan DIPA induk kementerian keuangan tahun 2005",
+        "D": "Laporan Keuangan Pemerintah Pusat tahun anggaran 2010",
+        "E": "APBN Perubahan tahun 2002 oleh pemerintah dan DPR"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Awalnya hibah hanya dicatat realisasinya tetapi tidak dianggarkan, namun sehubungan adanya program yang dibiayai hibah, penerimaan hibah **mulai dianggarkan pertama kali dalam APBN-P 2002**.",
+        "alasan_kunci": "Opsi E tepat karena untuk pertama kalinya proyeksi nominal hibah dimasukkan secara terencana ke dalam dokumen anggaran pada APBN-P 2002, sehingga tidak hanya dicatat saat kas masuk saja (*ex-post*).",
+        "bedah_pengecoh": {
+          "A": "RPJMN adalah dokumen perencanaan strategis pembangunan lima tahunan.",
+          "B": "Tahun 1995 hibah belum dimasukkan dalam pos pendapatan APBN.",
+          "C": "DIPA adalah dokumen pelaksanaan, bukan undang-undang penetapan APBN-P.",
+          "D": "LKPP 2010 adalah laporan pertanggungjawaban realisasi, bukan penganggaran awal."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    }
+  ]
+}

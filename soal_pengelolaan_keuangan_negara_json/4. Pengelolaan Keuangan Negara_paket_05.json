@@ -1,0 +1,3007 @@
+{
+  "paket_nomor": 5,
+  "dokumen_sumber": "4. Pengelolaan Keuangan Negara.pdf",
+  "rentang_halaman": "Halaman 55 s/d Halaman 64",
+  "jumlah_soal": 100,
+  "distribusi_kunci": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20,
+    "E": 20
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "belanja pegawai, belanja barang,",
+        "belanja modal, pembayaran bunga utang, subsidi, belanja hibah, bantuan sosial dan",
+        "belanja lain-lain"
+      ],
+      "topik_materi": "Delapan Jenis Belanja Pemerintah Pusat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Anggaran Belanja Pemerintah Pusat menurut klasifikasi jenis belanja terdiri atas...",
+      "pilihan": {
+        "A": "Belanja pegawai, barang, modal, bunga, subsidi, hibah, bansos, dan lain-lain",
+        "B": "Belanja rutin operasional, belanja pembangunan, dan belanja tak terduga daerah",
+        "C": "Dana bagi hasil, dana alokasi umum, dan dana alokasi khusus daerah",
+        "D": "Belanja dividen BUMN, penerbitan obligasi, dan pelunasan pinjaman luar negeri",
+        "E": "Penerimaan perpajakan, pendapatan bukan pajak, dan bantuan pinjaman lunak"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Anggaran Belanja Pemerintah Pusat terdiri atas **belanja pegawai, belanja barang, belanja modal, pembayaran bunga utang, subsidi, belanja hibah, bantuan sosial dan belanja lain-lain**.",
+        "alasan_kunci": "Opsi A tepat karena delapan klasifikasi ekonomi belanja ini merupakan standar baku postur pengeluaran pemerintah pusat dalam APBN. Setiap jenis belanja memiliki peruntukan spesifik sesuai tugas fungsi kementerian negara.",
+        "bedah_pengecoh": {
+          "B": "Pemisahan belanja rutin dan pembangunan merupakan format lama sebelum tahun 2005.",
+          "C": "DBH, DAU, dan DAK merupakan komponen belanja transfer ke daerah (TKD).",
+          "D": "Penerbitan obligasi dan pinjaman adalah komponen pembiayaan anggaran negara.",
+          "E": "Penerimaan pajak dan PNBP adalah komponen pendapatan negara, bukan belanja."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "Dana Perimbangan dan Dana",
+        "Otonomi Khusus dan Penyeimbang"
+      ],
+      "topik_materi": "Komponen Belanja Daerah APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Anggaran Belanja Daerah dalam kerangka pengeluaran negara terdiri atas...",
+      "pilihan": {
+        "A": "Pajak daerah, retribusi daerah, dan pendapatan asli daerah",
+        "B": "Dana Perimbangan, Dana Otonomi Khusus, dan Dana Penyeimbang",
+        "C": "Pinjaman obligasi daerah dan dana talangan bank pembangunan",
+        "D": "Belanja pegawai daerah dan belanja modal kantor dinas",
+        "E": "Sisa lebih perhitungan anggaran dan dana cadangan daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Anggaran Belanja Daerah terdiri atas **Dana Perimbangan dan Dana Otonomi Khusus dan Penyeimbang**.",
+        "alasan_kunci": "Opsi B tepat karena pos belanja daerah dalam APBN mengalokasikan transfer dana dari pusat ke daerah guna mendukung pelaksanaan desentralisasi fiskal dan otonomi daerah di seluruh pelosok Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Pajak dan retribusi daerah adalah komponen pendapatan APBD, bukan transfer APBN.",
+          "C": "Obligasi daerah dan pinjaman bank adalah instrumen pembiayaan APBD daerah.",
+          "D": "Belanja pegawai dan dinas daerah adalah belanja operasional dalam APBD.",
+          "E": "SiLPA daerah adalah saldo sisa anggaran dalam neraca penutupan kas pemda."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "prinsip optimalisasi pemanfaatan dana untuk",
+        "mencapai sasaran-sasaran yang telah ditetapkan"
+      ],
+      "topik_materi": "Prinsip Pelaksanaan Belanja Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan seluruh belanja negara pada dasarnya wajib berlandaskan pada...",
+      "pilihan": {
+        "A": "Prinsip penyerapan anggaran secara merata tanpa tolok ukur hasil",
+        "B": "Prinsip menghabiskan pagu dana sebelum tahun anggaran berakhir",
+        "C": "Prinsip optimalisasi pemanfaatan dana untuk mencapai sasaran",
+        "D": "Prinsip pembagian pagu secara proporsional kepada semua rekanan",
+        "E": "Prinsip penundaan pembayaran tagihan hingga batas jatuh tempo"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Belanja negara dilakukan dengan berlandaskan pada **prinsip optimalisasi pemanfaatan dana untuk mencapai sasaran-sasaran yang telah ditetapkan**.",
+        "alasan_kunci": "Opsi C tepat karena setiap alokasi anggaran belanja publik harus berorientasi pada pencapaian output dan outcome yang nyata (*value for money*). Prinsip ini menuntut efisiensi, efektivitas, dan ekonomis dalam belanja.",
+        "bedah_pengecoh": {
+          "A": "Penyerapan tanpa tolok ukur bertentangan dengan prinsip penganggaran kinerja.",
+          "B": "Menghabiskan pagu terburu-buru adalah praktik pemborosan yang dilarang.",
+          "D": "Penganggaran didasarkan pada prioritas program, bukan bagi-bagi ke rekanan.",
+          "E": "Menunda tagihan yang sah melanggar tata tertib perbendaharaan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "anggaran belanja pemerintah lebih besar",
+        "jika dibandingkan dengan anggaran pendapatannya"
+      ],
+      "topik_materi": "Arti Defisit Anggaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kondisi defisit anggaran dalam keuangan negara mengandung arti bahwa...",
+      "pilihan": {
+        "A": "Seluruh kewajiban pembayaran cicilan utang telah jatuh tempo",
+        "B": "Jumlah penerimaan perpajakan melebihi seluruh belanja rutin",
+        "C": "Posisi kas umum negara mengalami kekosongan dana simpanan",
+        "D": "Anggaran belanja pemerintah lebih besar daripada pendapatannya",
+        "E": "Pemerintah pusat tidak mampu menyalurkan dana transfer daerah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Defisit anggaran mengandung arti bahwa **anggaran belanja pemerintah lebih besar jika dibandingkan dengan anggaran pendapatannya**.",
+        "alasan_kunci": "Opsi D tepat karena postur anggaran dirancang defisit ketika kebutuhan belanja negara untuk stimulus ekonomi sengaja dipatok melampaui kemampuan pendapatan tahun berjalan. Selisih inilah yang ditutup pembiayaan.",
+        "bedah_pengecoh": {
+          "A": "Jatuh tempo utang adalah jadwal amortisasi kewajiban perbendaharaan.",
+          "B": "Penerimaan melebihi belanja merupakan kondisi surplus anggaran negara.",
+          "C": "Defisit anggaran bukan berarti kas kosong melainkan postur belanja melebihi pendapatan.",
+          "E": "Transfer ke daerah tetap disalurkan sesuai alokasi undang-undang APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "efek ganda dalam menumbuhkan",
+        "kegiatan eknomi yang sekaligus meningkatkan lapangan kerja"
+      ],
+      "topik_materi": "Efek Ganda Belanja Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perluasan belanja negara dalam postur defisit dimaksudkan karena belanja pemerintah memiliki...",
+      "pilihan": {
+        "A": "Fasilitas pembebasan pajak bagi seluruh aparatur pemerintah",
+        "B": "Kewenangan mutlak dalam menetapkan harga komoditas pasar",
+        "C": "Kemampuan menghapus seluruh kewajiban utang luar negeri",
+        "D": "Hak monopoli dalam pengelolaan seluruh sektor industri privat",
+        "E": "Efek ganda dalam menumbuhkan ekonomi dan lapangan kerja"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Belanja negara diperbesar karena **belanja pemerintah mempunyai efek ganda dalam menumbuhkan kegiatan ekonomi yang sekaligus meningkatkan lapangan kerja** (*multiplier effect*).",
+        "alasan_kunci": "Opsi E tepat karena pengeluaran pemerintah (infrastruktur, bansos, belanja modal) menggerakkan sektor riil, menciptakan permintaan agregat, dan membuka kesempatan kerja baru bagi masyarakat.",
+        "bedah_pengecoh": {
+          "A": "Aparatur pemerintah tetap dikenakan pemotongan pajak penghasilan resmi.",
+          "B": "Harga pasar komoditas ditentukan oleh mekanisme pasar dan daya beli.",
+          "C": "Belanja negara tidak otomatis menghapuskan kewajiban pokok utang.",
+          "D": "Negara tidak memonopoli industri privat yang berdaya saing bebas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "didanai dari berbagai sumber pembiayaan, termasuk utang"
+      ],
+      "topik_materi": "Pendanaan Defisit Anggaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kebutuhan pendanaan atas defisit anggaran belanja negara dipenuhi dari...",
+      "pilihan": {
+        "A": "Berbagai sumber pembiayaan anggaran termasuk utang",
+        "B": "Penarikan paksa tabungan giro simpanan nasabah perbankan",
+        "C": "Pencetakan uang rupiah tanpa batas oleh kementerian keuangan",
+        "D": "Pemotongan dana bagi hasil daerah secara sewenang-wenang",
+        "E": "Penyitaan dividen keuntungan perusahaan swasta nasional"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Defisit anggaran belanja negara **perlu didanai dari berbagai sumber pembiayaan, termasuk utang**.",
+        "alasan_kunci": "Opsi A tepat karena defisit APBN ditutup melalui pos pembiayaan yang sah (Surat Berharga Negara, pinjaman program/proyek, dan pemanfaatan SiLPA) yang disetujui bersama DPR.",
+        "bedah_pengecoh": {
+          "B": "Penarikan tabungan nasabah perbankan melanggar hak milik konstitusional.",
+          "C": "Kemenkeu tidak mencetak uang; uang dicetak BI sesuai kebutuhan moneter.",
+          "D": "Pemotongan DBH melanggar perimbangan keuangan pusat dan daerah.",
+          "E": "Penyitaan dividen swasta melanggar asas perlindungan kepemilikan modal."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "Belanja negara adalah pengeluaran negara",
+        "untuk"
+      ],
+      "topik_materi": "Definisi Belanja Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Belanja negara pada hakikatnya didefinisikan sebagai pengeluaran negara untuk...",
+      "pilihan": {
+        "A": "Menjamin keuntungan komersial bagi badan usaha milik swasta",
+        "B": "Membiayai tugas-tugas umum pemerintahan dan pembangunan",
+        "C": "Membeli surat berharga komersial di bursa saham luar negeri",
+        "D": "Menambah porsi kepemilikan saham pada korporasi perbankan",
+        "E": "Membayar kompensasi kerugian spekulasi pasar uang perbankan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Belanja negara adalah pengeluaran negara untuk membiayai tugas-tugas umum pemerintahan dan pembangunan**.",
+        "alasan_kunci": "Opsi B tepat karena uang rakyat yang dikelola dalam belanja APBN ditujukan untuk membiayai roda birokrasi pelayanan publik serta penyediaan fasilitas pembangunan infrastruktur bagi kemakmuran rakyat.",
+        "bedah_pengecoh": {
+          "A": "Belanja negara ditujukan untuk kemakmuran publik, bukan profit swasta.",
+          "C": "Membeli saham spekulatif asing dilarang dalam pengelolaan keuangan publik.",
+          "D": "Penyertaan modal perbankan adalah pos investasi pembiayaan tersendiri.",
+          "E": "Spekulasi perbankan swasta bukan tanggung jawab pengeluaran negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "membiayai",
+        "tugas-tugas",
+        "umum"
+      ],
+      "topik_materi": "Tugas Umum Pemerintahan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembiayaan tugas-tugas umum pemerintahan melalui belanja negara mencakup...",
+      "pilihan": {
+        "A": "Penyelenggaraan ekspedisi perdagangan spekulatif luar negeri",
+        "B": "Pemberian dana pinjaman bebas bunga bagi pengusaha besar",
+        "C": "Pelayanan publik, penegakan hukum, dan pertahanan keamanan",
+        "D": "Pemberian subsidi dividen pemegang saham korporasi terbuka",
+        "E": "Talangan pelunasan utang kredit macet perseroan swasta"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pengeluaran negara ditujukan untuk **membiayai tugas-tugas umum pemerintahan** seperti pelayanan administrasi publik, keamanan, keadilan, dan ketertiban umum.",
+        "alasan_kunci": "Opsi C tepat karena fungsi pokok keberadaan negara (*public goods provision*) diwujudkan melalui belanja tugas umum pemerintahan yang dirasakan manfaatnya langsung oleh seluruh lapisan masyarakat.",
+        "bedah_pengecoh": {
+          "A": "Ekspedisi perdagangan spekulatif bukan tugas umum pemerintahan.",
+          "B": "Pinjaman bebas bunga bagi korporasi besar menyalahi peruntukan belanja publik.",
+          "D": "Subsidi dividen saham swasta bertentangan dengan prinsip keadilan fiskal.",
+          "E": "Talangan utang macet swasta melanggar undang-undang perbendaharaan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "Anggaran Belanja Pemerintah Pusat dan",
+        "Transfer ke Daerah"
+      ],
+      "topik_materi": "Dua Pilar Belanja Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Struktur Belanja Negara dalam postur APBN terbagi ke dalam dua pilar utama yaitu...",
+      "pilihan": {
+        "A": "Penerimaan dividen kekayaan negara dan penarikan utang",
+        "B": "Belanja rutin operasional dinas dan belanja proyek fisik",
+        "C": "Penerimaan pajak dalam negeri dan pajak perdagangan luar",
+        "D": "Anggaran Belanja Pemerintah Pusat dan Transfer ke Daerah",
+        "E": "Dana cadangan umum kasir dan rekening dana investasi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Belanja Negara terdiri atas **Anggaran Belanja Pemerintah Pusat dan Transfer ke Daerah**.",
+        "alasan_kunci": "Opsi D tepat karena belanja negara dieksekusi melalui kementerian/lembaga di tingkat pusat serta disalurkan kepada pemerintah daerah (TKD) untuk mendanai urusan desentralisasi di daerah.",
+        "bedah_pengecoh": {
+          "A": "Dividen dan utang adalah pos penerimaan PNBP dan pembiayaan.",
+          "B": "Pemisahan rutin dan proyek fisik sudah ditiadakan dalam unifikasi APBN.",
+          "C": "Pajak dalam negeri dan perdagangan internasional adalah pos pendapatan.",
+          "E": "Cadangan kasir dan RDI adalah penatausahaan likuiditas kas negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "Dana Bagi Hasil,",
+        "Dana Alokasi Umum dan Dana Alokasi Khusus"
+      ],
+      "topik_materi": "Tiga Komponen Dana Perimbangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kelompok Dana Perimbangan dalam belanja transfer daerah terdiri atas...",
+      "pilihan": {
+        "A": "Dana desa, dana kelurahan, dan bantuan sosial rukun warga",
+        "B": "Dana otonomi khusus, dana keistimewaan, dan dana penyeimbang",
+        "C": "Retribusi daerah, pajak daerah, dan pendapatan asli daerah",
+        "D": "Pinjaman obligasi daerah, hibah daerah, dan kredit perbankan",
+        "E": "Dana Bagi Hasil, Dana Alokasi Umum, dan Dana Alokasi Khusus"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dana Perimbangan terdiri atas **Dana Bagi Hasil, Dana Alokasi Umum dan Dana Alokasi Khusus**.",
+        "alasan_kunci": "Opsi E tepat karena ketiga dana ini merupakan pilar transfer antar-pemerintah (*intergovernmental transfers*) yang dirancang untuk mengatasi ketimpangan vertikal dan horizontal keuangan daerah.",
+        "bedah_pengecoh": {
+          "A": "Dana desa dialokasikan tersendiri dalam pos transfer ke daerah.",
+          "B": "Dana otsus dan keistimewaan dialokasikan di luar dana perimbangan umum.",
+          "C": "Retribusi dan pajak daerah adalah penerimaan asli dalam APBD pemda.",
+          "D": "Obligasi dan pinjaman adalah instrumen pembiayaan utang daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "tidak dikenal lagi",
+        "pemisahan antara belanja rutin dengan belanja pembangunan"
+      ],
+      "topik_materi": "Peniadaan Dikotomi Belanja Rutin dan Pembangunan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembaruan mendasar dalam format penganggaran belanja pemerintah pusat adalah...",
+      "pilihan": {
+        "A": "Tidak dikenal lagi pemisahan belanja rutin dan pembangunan",
+        "B": "Pemisahan ketat rekening kas belanja pegawai dan barang",
+        "C": "Penghapusan seluruh belanja modal proyek infrastruktur fisik",
+        "D": "Pembatasan pengeluaran belanja bantuan sosial masyarakat",
+        "E": "Sentralisasi seluruh kewenangan pencairan dana pada menteri"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dalam format baru APBN, di sisi Belanja Pemerintah Pusat **tidak dikenal lagi pemisahan antara belanja rutin dengan belanja pembangunan** (Unified Budget).",
+        "alasan_kunci": "Opsi A tepat karena penggabungan anggaran rutin dan pembangunan ke dalam satu anggaran terpadu menghapus sistem penganggaran ganda (*dual budgeting*) yang selama bertahun-tahun menimbulkan inefisiensi pengeluaran.",
+        "bedah_pengecoh": {
+          "B": "Rekening kasir disatukan dalam Treasury Single Account (TSA).",
+          "C": "Belanja modal tetap ada dan menjadi prioritas penyediaan sarpras fisik.",
+          "D": "Bansos dialokasikan sesuai kebutuhan perlindungan sosial masyarakat.",
+          "E": "Kewenangan pencairan didelegasikan kepada KPA dan PPK satuan kerja."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "menimbulkan peluang terjadinya duplikasi, penumpukan",
+        "dan penyimpangan anggaran"
+      ],
+      "topik_materi": "Kelemahan Sistem Dual Budgeting Terdahulu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemisahan belanja rutin dan belanja pembangunan pada masa lalu dihilangkan karena...",
+      "pilihan": {
+        "A": "Menghambat penarikan dana pinjaman luar negeri pemerintah",
+        "B": "Menimbulkan peluang duplikasi, penumpukan, dan penyimpangan",
+        "C": "Mempersulit pemeriksaan kuitansi fisik oleh aparat pemeriksa",
+        "D": "Menurunkan jumlah penerimaan perpajakan kas umum negara",
+        "E": "Membatasi penambahan jumlah formasi aparatur sipil negara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pemisahan belanja rutin dan pembangunan dihilangkan karena dalam pelaksanaannya **menimbulkan peluang terjadinya duplikasi, penumpukan dan penyimpangan anggaran**.",
+        "alasan_kunci": "Opsi B tepat karena kegiatan operasional sering kali disamarkan sebagai proyek pembangunan non-fisik sehingga satu kegiatan didanai ganda dari pos rutin sekaligus pos pembangunan.",
+        "bedah_pengecoh": {
+          "A": "Penarikan pinjaman luar negeri mengikuti tata cara perjanjian pinjaman.",
+          "C": "Pemeriksaan kuitansi tetap dilakukan sesuai standar audit kepatuhan.",
+          "D": "Format belanja tidak memengaruhi penerimaan perpajakan kas negara.",
+          "E": "Formasi ASN ditetapkan berdasarkan analisis jabatan dan beban kerja."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "kompensasi, baik berupa uang ataupun barang",
+        "yang diberikan kepada aparatur negara"
+      ],
+      "topik_materi": "Definisi Belanja Pegawai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Belanja Pegawai pada hakikatnya didefinisikan sebagai pengeluaran untuk...",
+      "pilihan": {
+        "A": "Penyediaan sarana gedung perkantoran dan fasilitas komputer",
+        "B": "Pembelian perlengkapan alat tulis kantor habis pakai dinas",
+        "C": "Kompensasi uang atau barang yang diberikan kepada aparatur",
+        "D": "Pembayaran ganti rugi pembebasan tanah proyek jalan raya",
+        "E": "Pemberian dana bantuan pendidikan bagi masyarakat kurang mampu"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Belanja pegawai, merupakan kompensasi, baik berupa uang ataupun barang yang diberikan kepada aparatur negara**, yang bertugas di dalam maupun luar negeri sebagai imbalan kerja.",
+        "alasan_kunci": "Opsi C tepat karena belanja pegawai menampung hak finansial aparatur sipil negara, prajurit TNI, anggota Polri, dan pejabat negara atas pelaksanaan tugas kedinasannya berupa gaji, tunjangan, dan honorarium.",
+        "bedah_pengecoh": {
+          "A": "Gedung dan komputer dikelompokkan ke dalam pos belanja modal.",
+          "B": "Alat tulis kantor habis pakai tergolong dalam pos belanja barang.",
+          "D": "Ganti rugi tanah masuk dalam komponen belanja modal pengadaan tanah.",
+          "E": "Bantuan pendidikan masyarakat tergolong pos bantuan sosial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "kecuali pekerjaan yang berkaitan dengan pembentukan modal"
+      ],
+      "topik_materi": "Pengecualian dalam Belanja Pegawai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Imbalan kerja aparatur dimasukkan dalam belanja pegawai dengan pengecualian untuk...",
+      "pilihan": {
+        "A": "Pelaksanaan tugas perbantuan pada badan usaha milik negara",
+        "B": "Penugasan dinas ke luar wilayah yurisdiksi Republik Indonesia",
+        "C": "Pekerjaan lembur yang dilakukan pada hari libur kedinasan",
+        "D": "Pekerjaan yang berkaitan langsung dengan pembentukan modal",
+        "E": "Pemberian penghargaan tanda kehormatan masa pengabdian kerja"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Belanja pegawai adalah imbalan atas pekerjaan yang telah dilaksanakan **kecuali pekerjaan yang berkaitan dengan pembentukan modal**.",
+        "alasan_kunci": "Opsi D tepat karena upah tenaga kerja yang terlibat langsung dalam pembangunan fisik aset tetap (misalnya upah tukang swakelola gedung) dikapitalisasi ke dalam nilai perolehan aset pada belanja modal.",
+        "bedah_pengecoh": {
+          "A": "Tugas perbantuan tetap diatur dalam status hak kepegawaian dinas.",
+          "B": "Aparatur di luar negeri tetap menerima gaji dari belanja pegawai.",
+          "C": "Uang lembur hari libur termasuk dalam rincian belanja pegawai.",
+          "E": "Tanda kehormatan adalah bentuk penghargaan moral kepegawaian."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "pembelian",
+        "barang dan jasa yang habis pakai untuk memproduksi barang dan jasa"
+      ],
+      "topik_materi": "Definisi Belanja Barang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengeluaran negara yang dialokasikan untuk pembelian barang dan jasa habis pakai disebut...",
+      "pilihan": {
+        "A": "Belanja lain-lain untuk kebutuhan tanggap darurat bencana",
+        "B": "Belanja modal untuk menambah nilai aset tetap kementerian",
+        "C": "Belanja subsidi untuk menutup selisih harga komoditas pasar",
+        "D": "Belanja bantuan sosial untuk meringankan beban masyarakat",
+        "E": "Belanja barang untuk memproduksi barang dan jasa pemerintah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Belanja barang, merupakan belanja negara yang digunakan untuk pembelian barang dan jasa yang habis pakai untuk memproduksi barang dan jasa yang dipasarkan maupun yang tidak dipasarkan**.",
+        "alasan_kunci": "Opsi E tepat karena belanja barang menampung pengeluaran operasional sehari-hari yang masa manfaatnya kurang dari satu tahun anggaran, seperti daya listrik, telekomunikasi, ATK, dan jasa pemeliharaan kantor.",
+        "bedah_pengecoh": {
+          "A": "Belanja lain-lain dicadangkan untuk keperluan darurat tak terduga.",
+          "B": "Belanja modal menghasilkan aset tetap bermasa manfaat lebih dari setahun.",
+          "C": "Belanja subsidi ditujukan untuk menstabilkan harga barang kebutuhan.",
+          "D": "Bansos disalurkan langsung kepada masyarakat penerima manfaat."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "belanja barang, belanja jasa, belanja pemeliharaan, dan belanja perjalanan"
+      ],
+      "topik_materi": "Empat Rincian Belanja Barang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Klasifikasi belanja barang dalam penganggaran negara dirinci ke dalam pos...",
+      "pilihan": {
+        "A": "Belanja barang, belanja jasa, belanja pemeliharaan, dan belanja perjalanan",
+        "B": "Gaji pokok, tunjangan keluarga, tunjangan jabatan, dan uang makan",
+        "C": "Pengadaan tanah, peralatan mesin, gedung bangunan, dan jaringan irigasi",
+        "D": "Subsidi bahan bakar, subsidi listrik, subsidi pupuk, dan benih padi",
+        "E": "Bantuan pangan, bantuan beasiswa, bantuan hukum, dan dana santunan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Belanja barang dirinci dalam **belanja barang, belanja jasa, belanja pemeliharaan, dan belanja perjalanan**.",
+        "alasan_kunci": "Opsi A tepat karena keempat sub-pos ini merangkum seluruh spektrum pengeluaran operasional non-pegawai dan non-aset di lingkungan satuan kerja pemerintah.",
+        "bedah_pengecoh": {
+          "B": "Gaji dan tunjangan merupakan rincian pos belanja pegawai.",
+          "C": "Tanah, mesin, dan gedung merupakan rincian pos belanja modal.",
+          "D": "Subsidi BBM dan pupuk merupakan rincian pos belanja subsidi.",
+          "E": "Bantuan pangan dan beasiswa tergolong pos bantuan sosial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "manfaatnya dapat dinikmati",
+        "lebih dari satu tahun anggaran"
+      ],
+      "topik_materi": "Karakteristik Utama Belanja Modal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karakteristik utama belanja modal yang membedakannya dari belanja barang adalah...",
+      "pilihan": {
+        "A": "Seluruh barangnya habis dipakai dalam kurun waktu satu bulan",
+        "B": "Manfaat fisik asetnya dapat dinikmati lebih dari satu tahun",
+        "C": "Diberikan secara tunai langsung kepada masyarakat kurang mampu",
+        "D": "Dikhususkan guna membiayai perjalanan dinas luar daerah",
+        "E": "Tidak menambah nilai kekayaan aset neraca pemerintah pusat"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Belanja modal adalah belanja yang diarahkan untuk penyediaan sarana prasarana fisik yang **manfaatnya dapat dinikmati lebih dari satu tahun anggaran** dan menambah aset tetap.",
+        "alasan_kunci": "Opsi B tepat karena pengeluaran belanja modal dikapitalisasi ke dalam neraca pemerintah sebagai aset tetap karena memiliki masa manfaat ekonomis jangka panjang melebihi satu tahun buku.",
+        "bedah_pengecoh": {
+          "A": "Barang habis pakai bulanan merupakan karakteristik belanja barang.",
+          "C": "Bantuan tunai kepada masyarakat merupakan karakteristik bantuan sosial.",
+          "D": "Perjalanan dinas dibiayai melalui pos belanja barang perjalanan.",
+          "E": "Belanja modal secara nyata menambah nilai aset tetap pada neraca negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "tanah, peralatan dan mesin, gedung dan",
+        "bangunan, jaringan, serta belanja modal fisik lainnya"
+      ],
+      "topik_materi": "Bentuk Sarana Prasarana Belanja Modal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Investasi pemerintah melalui belanja modal diwujudkan dalam penyediaan sarana...",
+      "pilihan": {
+        "A": "Honorarium narasumber dan uang saku peserta bimbingan teknis",
+        "B": "Kertas kantor, tinta printer, amplop dinas, dan map arsip",
+        "C": "Tanah, peralatan mesin, gedung bangunan, jaringan, dan modal fisik",
+        "D": "Bahan bakar minyak dan pelumas kendaraan dinas operasional",
+        "E": "Tiket pesawat udara dan biaya penginapan hotel perjalanan dinas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Belanja modal dipergunakan untuk penyediaan sarana prasarana pembangunan dalam bentuk **tanah, peralatan dan mesin, gedung dan bangunan, jaringan, serta belanja modal fisik lainnya**.",
+        "alasan_kunci": "Opsi C tepat karena kelima kelompok aset tersebut merupakan barang milik negara berwujud fisik yang membentuk infrastruktur penunjang pelayanan publik dan pertumbuhan ekonomi nasional.",
+        "bedah_pengecoh": {
+          "A": "Honorarium dan uang saku bimbingan teknis masuk pos belanja barang jasa.",
+          "B": "Kertas, tinta, dan map adalah barang persediaan habis pakai (belanja barang).",
+          "D": "BBM dan pelumas kendaraan dinas adalah pos belanja barang habis pakai.",
+          "E": "Tiket pesawat dan hotel dibiayai melalui belanja barang perjalanan dinas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "Pembayaran bunga utang, merupakan belanja pemerintah pusat untuk",
+        "memenuhi sebagian kewajiban"
+      ],
+      "topik_materi": "Pembayaran Bunga Utang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengeluaran belanja pemerintah pusat untuk memenuhi kewajiban atas pinjaman disebut...",
+      "pilihan": {
+        "A": "Penyertaan modal negara pada perseroan terbatas perbankan",
+        "B": "Belanja subsidi harga komoditas pangan pokok masyarakat",
+        "C": "Belanja hibah kepada lembaga non-pemerintah internasional",
+        "D": "Pembayaran bunga utang atas pinjaman dalam dan luar negeri",
+        "E": "Pelunasan cicilan pokok pinjaman program luar negeri netto"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Pembayaran bunga utang, merupakan belanja pemerintah pusat untuk memenuhi sebagian kewajiban dalam negeri maupun kewajiban luar negeri**.",
+        "alasan_kunci": "Opsi D tepat karena imbal hasil bunga atas Surat Berharga Negara (SUN/SBSN) dan bunga pinjaman luar negeri dicatat dalam pos belanja negara. Pembayaran bunga wajib dianggarkan untuk menjaga kredibilitas surat utang negara.",
+        "bedah_pengecoh": {
+          "A": "Penyertaan modal negara adalah pos pengeluaran investasi pembiayaan.",
+          "B": "Subsidi pangan adalah belanja penstabilan harga, bukan beban bunga pinjaman.",
+          "C": "Belanja hibah adalah transfer sukarela kepada pihak luar negeri.",
+          "E": "Pelunasan cicilan pokok (amortisasi) masuk dalam pos pembiayaan anggaran."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "mempercepat",
+        "penyediaan sarana dan prasarana fisik"
+      ],
+      "topik_materi": "Tujuan Strategis Belanja Modal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Secara strategis, alokasi anggaran belanja modal diarahkan pemerintah untuk...",
+      "pilihan": {
+        "A": "Membeli surat saham perusahaan swasta yang mengalami gagal bayar",
+        "B": "Menaikkan tunjangan operasional pejabat pimpinan satuan kerja",
+        "C": "Menambah porsi konsumsi barang impor di kalangan aparatur sipil",
+        "D": "Menutup kekurangan saldo kas operasional bendahara pengeluaran",
+        "E": "Mempercepat penyediaan sarana dan prasarana fisik pembangunan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Belanja modal diarahkan untuk **mempercepat penyediaan sarana dan prasarana fisik** pembangunan nasional.",
+        "alasan_kunci": "Opsi E tepat karena ketersediaan infrastruktur (jalan, jembatan, pelabuhan, bendungan) memangkas biaya logistik nasional dan mendongkrak daya saing ekonomi antarwilayah secara berkelanjutan.",
+        "bedah_pengecoh": {
+          "A": "Pembelian saham gagal bayar swasta dilarang dalam pengelolaan APBN.",
+          "B": "Tunjangan operasional dibiayai melalui pos belanja pegawai.",
+          "C": "Pengadaan pemerintah justru memprioritaskan produk dalam negeri (P3DN).",
+          "D": "Kekurangan kas operasional dikelola melalui manajemen likuiditas KPPN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "Subsidi, adalah belanja pemerintah pusat sebagai upaya pemerintah untuk",
+        "menjaga stabilitas harga, membantu masyarakat kurang mampu"
+      ],
+      "topik_materi": "Tujuan Pengalokasian Subsidi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Belanja subsidi dialokasikan pemerintah pusat dengan tujuan untuk...",
+      "pilihan": {
+        "A": "Menjaga stabilitas harga dan membantu masyarakat kurang mampu",
+        "B": "Membiayai pembangunan gedung perkantoran dinas kementerian",
+        "C": "Membayar kompensasi uang pesangon pensiun aparatur sipil",
+        "D": "Menambah laba dividen bersih pemegang saham korporasi terbuka",
+        "E": "Mengganti kerugian transaksi perdagangan valas bank swasta"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Subsidi, adalah belanja pemerintah pusat sebagai upaya pemerintah untuk menjaga stabilitas harga, membantu masyarakat kurang mampu, dan usaha kecil dan menengah dalam memenuhi sebagian kebutuhannya, serta membantu BUMN yang melaksanakan tugas pelayanan umum**.",
+        "alasan_kunci": "Opsi A tepat karena subsidi energi dan non-energi menurunkan harga jual barang esensial (BBM, tarif listrik, pupuk) agar daya beli masyarakat berpenghasilan rendah tetap terlindungi dari lonjakan inflasi.",
+        "bedah_pengecoh": {
+          "B": "Pembangunan gedung perkantoran dibiayai dari belanja modal.",
+          "C": "Uang pensiun aparatur negara dialokasikan dalam pos belanja pegawai.",
+          "D": "Subsidi ditujukan untuk kepentingan rakyat, bukan laba pemegang saham.",
+          "E": "Kerugian transaksi valas swasta bukan beban anggaran belanja negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "Belanja hibah, merupakan transfer yang sifatnya tidak wajib kepada negara",
+        "lain atau kepada organisasi internasional"
+      ],
+      "topik_materi": "Definisi Belanja Hibah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengeluaran negara berupa transfer yang sifatnya tidak wajib ke luar negeri adalah...",
+      "pilihan": {
+        "A": "Pembayaran cicilan pokok pinjaman luar negeri pemerintah",
+        "B": "Belanja hibah kepada negara lain atau organisasi internasional",
+        "C": "Setoran modal pemerintah pada lembaga keuangan multilateral",
+        "D": "Pembayaran premi asuransi aset gedung kedutaan besar luar",
+        "E": "Belanja barang perjalanan dinas perwakilan diplomatik pusat"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Belanja hibah, merupakan transfer yang sifatnya tidak wajib kepada negara lain atau kepada organisasi internasional**.",
+        "alasan_kunci": "Opsi B tepat karena sebagai wujud solidaritas antarbangsa, pemerintah Indonesia dapat menyalurkan bantuan hibah luar negeri (misalnya bantuan kemanusiaan bencana alam di negara sahabat) melalui pos belanja hibah.",
+        "bedah_pengecoh": {
+          "A": "Cicilan pokok utang merupakan kewajiban kontraktual di pos pembiayaan.",
+          "C": "Penyertaan modal lembaga multilateral masuk pos investasi pembiayaan.",
+          "D": "Premi asuransi gedung kedutaan tergolong dalam pos belanja barang jasa.",
+          "E": "Perjalanan dinas diplomatik dibiayai melalui pos belanja barang perjalanan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "Bantuan sosial, merupakan transfer uang atau barang yang diberikan kepada",
+        "masyarakat"
+      ],
+      "topik_materi": "Definisi Bantuan Sosial",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengeluaran berupa transfer uang atau barang kepada masyarakat melalui K/L disebut...",
+      "pilihan": {
+        "A": "Belanja barang untuk menunjang operasional dinas kantor",
+        "B": "Belanja pegawai untuk meningkatkan kinerja aparatur",
+        "C": "Bantuan sosial untuk melindungi dari risiko sosial",
+        "D": "Belanja modal untuk menambah kepemilikan aset kementerian",
+        "E": "Belanja bunga untuk melunasi kupon surat utang negara"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Bantuan sosial, merupakan transfer uang atau barang yang diberikan kepada masyarakat melalui kementerian negara/lembaga guna melindungi dari kemungkinan terjadinya resiko sosial**.",
+        "alasan_kunci": "Opsi C tepat karena bansos disalurkan secara terarah (seperti Program Keluarga Harapan, sembako, KIP) guna memberikan perlindungan sosial dasar bagi warga miskin dan rentan dari kerentanan ekonomi.",
+        "bedah_pengecoh": {
+          "A": "Belanja barang digunakan untuk operasional instansi pemerintah.",
+          "B": "Belanja pegawai diberikan kepada aparatur negara, bukan masyarakat umum.",
+          "D": "Belanja modal menghasilkan aset tetap milik negara, bukan untuk warga.",
+          "E": "Belanja bunga adalah pelunasan kupon utang kepada pemegang obligasi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "guna melindungi dari",
+        "kemungkinan terjadinya resiko sosial"
+      ],
+      "topik_materi": "Tujuan Penyaluran Bantuan Sosial",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyaluran bantuan sosial kepada masyarakat secara terencana ditujukan guna...",
+      "pilihan": {
+        "A": "Menaikkan batas tarif bea keluar hasil perkebunan kelapa sawit",
+        "B": "Membiayai kegiatan kampanye politik pemilihan kepala daerah",
+        "C": "Menambah porsi kepemilikan modal badan usaha swasta rekanan",
+        "D": "Melindungi masyarakat dari kemungkinan terjadinya risiko sosial",
+        "E": "Menutup selisih kerugian perdagangan komoditas pasar modal"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Bantuan sosial diberikan **guna melindungi dari kemungkinan terjadinya resiko sosial**, seperti kemiskinan ekstrem, musibah bencana alam, keterbelakangan pendidikan, dan kerentanan kesehatan.",
+        "alasan_kunci": "Opsi D tepat karena kehadiran bansos berfungsi sebagai jaring pengaman sosial (*social safety net*) agar masyarakat rentan tidak jatuh ke dalam jurang kemiskinan yang lebih dalam saat terjadi gejolak ekonomi.",
+        "bedah_pengecoh": {
+          "A": "Bea keluar sawit adalah kebijakan instrumen perdagangan luar negeri.",
+          "B": "Penggunaan dana bansos untuk kampanye politik adalah tindak pidana korupsi.",
+          "C": "Bansos disalurkan untuk masyarakat miskin, bukan modal korporasi swasta.",
+          "E": "Kerugian pasar modal merupakan risiko investasi komersial investor."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "Belanja lain-lain, merupakan pos untuk menampung belanja Pemerintah",
+        "Pusat yang tidak dapat diklasifikasikan"
+      ],
+      "topik_materi": "Fungsi Belanja Lain-lain",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pos belanja negara yang menampung pengeluaran tidak terduga dan cadangan umum adalah...",
+      "pilihan": {
+        "A": "Belanja modal pembangunan jalan tol lintas antarprovinsi",
+        "B": "Belanja barang jasa pemeliharaan gedung perkantoran pusat",
+        "C": "Belanja subsidi bahan bakar minyak dan tarif tenaga listrik",
+        "D": "Belanja pegawai untuk membayar tunjangan kinerja kedinasan",
+        "E": "Belanja lain-lain yang tidak dapat diklasifikasikan ke pos lain"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Belanja lain-lain, merupakan pos untuk menampung belanja Pemerintah Pusat yang tidak dapat diklasifikasikan ke dalam jenis-jenis belanja yang telah disebut di atas, dan dana cadangan umum**.",
+        "alasan_kunci": "Opsi E tepat karena belanja lain-lain berfungsi sebagai pos bantalan fiskal (*fiscal cushion*) darurat yang siap dicairkan pemerintah saat menghadapi situasi darurat bencana, pengeluaran tak terduga, atau kebutuhan mendesak negara.",
+        "bedah_pengecoh": {
+          "A": "Pembangunan jalan tol ditampung dalam pos belanja modal jaringan/fisik.",
+          "B": "Pemeliharaan gedung ditampung dalam pos belanja barang pemeliharaan.",
+          "C": "Subsidi BBM dan listrik ditampung dalam pos belanja subsidi negara.",
+          "D": "Tunjangan kinerja pegawai ditampung dalam pos belanja pegawai."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "Undang-Undang Nomor 1 Tahun 2022",
+        "tentang Hubungan Keuangan Antara Pemerintah Pusat dan Pemerintah Daerah"
+      ],
+      "topik_materi": "Dasar Regulasi Hubungan Keuangan Pusat Daerah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hubungan Keuangan Pemerintah Pusat dan Pemerintahan Daerah diatur dalam...",
+      "pilihan": {
+        "A": "UU Nomor 1 Tahun 2022 tentang HKPD",
+        "B": "UU Nomor 33 Tahun 2004 tentang Perimbangan Lama",
+        "C": "UU Nomor 17 Tahun 2003 tentang Keuangan Negara",
+        "D": "UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara",
+        "E": "UU Nomor 15 Tahun 2004 tentang Pemeriksaan BPK"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Hubungan Keuangan Pemerintah Pusat dan Pemerintah Daerah diatur dalam **Undang-Undang Nomor 1 Tahun 2022 tentang Hubungan Keuangan Antara Pemerintah Pusat dan Pemerintah Daerah (UU HKPD)**.",
+        "alasan_kunci": "Opsi A tepat karena UU 1/2022 mereformasi sistem desentralisasi fiskal dengan menyelaraskan kebijakan pajak daerah, transfer ke daerah, dan belanja daerah guna menekan ketimpangan antardaerah di Indonesia.",
+        "bedah_pengecoh": {
+          "B": "UU 33/2004 telah dicabut dan digantikan penuh oleh UU HKPD 1/2022.",
+          "C": "UU 17/2003 mengatur asas umum pengelolaan keuangan negara.",
+          "D": "UU 1/2004 mengatur administrasi perbendaharaan negara.",
+          "E": "UU 15/2004 mengatur tata cara pemeriksaan keuangan negara oleh BPK."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "mengembangkan sistem Pajak yang mendukung alokasi sumber",
+        "daya nasional yang efisien"
+      ],
+      "topik_materi": "Pilar Pertama Hubungan Keuangan Pusat Daerah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pilar pertama dalam reformasi hubungan keuangan pusat dan daerah berlandaskan pada...",
+      "pilihan": {
+        "A": "Peningkatan kuota pinjaman luar negeri bagi pemerintah kabupaten",
+        "B": "Pengembangan sistem pajak yang mendukung alokasi sumber daya efisien",
+        "C": "Penyerahan seluruh urusan perpajakan pusat kepada pemerintah desa",
+        "D": "Pembatasan pengalokasian dana alokasi umum bagi daerah terluar",
+        "E": "Penghapusan pungutan retribusi jasa umum di seluruh Indonesia"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pilar pertama HKPD adalah **mengembangkan sistem Pajak yang mendukung alokasi sumber daya nasional yang efisien**.",
+        "alasan_kunci": "Opsi B tepat karena integrasi sistem perpajakan pusat dan daerah menurunkan biaya kepatuhan (*compliance cost*) bagi dunia usaha serta mengoptimalkan penerimaan daerah tanpa menimbulkan ekonomi biaya tinggi.",
+        "bedah_pengecoh": {
+          "A": "Pinjaman pemda diatur secara selektif untuk menjaga kesinambungan utang.",
+          "C": "Pajak pusat tetap dikelola terpusat oleh Direktorat Jenderal Pajak.",
+          "D": "DAU justru diprioritaskan bagi daerah dengan kapasitas fiskal rendah.",
+          "E": "Retribusi daerah tetap dipertahankan dengan rasionalisasi jenis layanan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "meminimalkan ketimpangan",
+        "vertikal dan horizontal melalui kebijakan TKD"
+      ],
+      "topik_materi": "Pilar Kedua Meminimalkan Ketimpangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pilar kedua hubungan keuangan pusat dan daerah secara terarah ditujukan untuk...",
+      "pilihan": {
+        "A": "Memusatkan seluruh kas daerah ke dalam rekening perbendaharaan",
+        "B": "Menghapuskan otonomi daerah dalam menetapkan anggaran belanja",
+        "C": "Meminimalkan ketimpangan vertikal dan horizontal melalui TKD",
+        "D": "Mewajibkan pemda membiayai belanja operasional kementerian pusat",
+        "E": "Membatasi penerimaan bagi hasil sumber daya alam bagi daerah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pilar kedua HKPD adalah **mengembangkan Hubungan Keuangan dalam meminimalkan ketimpangan vertikal dan horizontal melalui kebijakan TKD dan Pembiayaan Utang Daerah**.",
+        "alasan_kunci": "Opsi C tepat karena ketimpangan vertikal (pusat vs daerah) dan horizontal (antardaerah kaya SDA vs miskin SDA) diseimbangkan melalui formula transfer DBH, DAU, dan DAK yang berkeadilan.",
+        "bedah_pengecoh": {
+          "A": "Kas daerah dikelola mandiri oleh bendahara umum daerah pemda.",
+          "B": "Otonomi daerah tetap dijamin konstitusi dalam kerangka NKRI.",
+          "D": "Belanja kementerian pusat sepenuhnya dibiayai dari APBN pemerintah.",
+          "E": "Daerah penghasil tetap memperoleh hak bagi hasil SDA sesuai persentase."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "mendorong peningkatan kualitas Belanja Daerah"
+      ],
+      "topik_materi": "Pilar Ketiga Kualitas Belanja Daerah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pilar ketiga hubungan keuangan pusat dan daerah difokuskan pada upaya...",
+      "pilihan": {
+        "A": "Menghapuskan belanja modal penyediaan infrastruktur daerah",
+        "B": "Memperbesar porsi belanja aparatur dan perjalanan dinas daerah",
+        "C": "Menghabiskan alokasi dana perimbangan sebelum batas semester",
+        "D": "Mendorong peningkatan kualitas dan efektivitas belanja daerah",
+        "E": "Menyerahkan urusan belanja publik daerah kepada pihak swasta"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pilar ketiga HKPD adalah **mendorong peningkatan kualitas Belanja Daerah** (*spending better*).",
+        "alasan_kunci": "Opsi D tepat karena UU HKPD membatasi belanja pegawai daerah maksimal 30% dan mewajibkan belanja modal infrastruktur minimal 40% dari APBD guna memastikan uang rakyat benar-benar menghasilkan pelayanan publik.",
+        "bedah_pengecoh": {
+          "A": "Belanja infrastruktur daerah justru diwajibkan minimal 40% dari APBD.",
+          "B": "Belanja pegawai daerah justru dibatasi maksimal 30% agar efisien.",
+          "C": "Penyerapan belanja wajib berorientasi hasil, bukan sekadar kecepatan.",
+          "E": "Pelayanan publik daerah merupakan tanggung jawab konstitusional pemda."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "harmonisasi kebijakan",
+        "fiskal antara Pemerintah dan Daerah"
+      ],
+      "topik_materi": "Pilar Keempat Harmonisasi Fiskal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pilar keempat hubungan keuangan pusat dan daerah menitikberatkan pada...",
+      "pilihan": {
+        "A": "Pemisahan permanen rencana pembangunan daerah dari RPJMN pusat",
+        "B": "Pemberian kebebasan mutlak daerah menentukan defisit anggaran",
+        "C": "Penyeragaman besaran tarif pajak hotel dan restoran nasional",
+        "D": "Pelepasan kepemilikan bank pembangunan daerah kepada asing",
+        "E": "Harmonisasi kebijakan fiskal antara pemerintah pusat dan daerah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pilar keempat HKPD adalah **harmonisasi kebijakan fiskal antara Pemerintah dan Daerah untuk penyelenggaraan layanan publik yang optimal dan menjaga kesinambungan fiskal**.",
+        "alasan_kunci": "Opsi E tepat karena arah pembangunan APBD wajib selaras dengan prioritas pembangunan nasional APBN. Sinergi fiskal ini mencegah kebijakan kontra-produktif antartingkatan pemerintahan.",
+        "bedah_pengecoh": {
+          "A": "Rencana daerah (RPJMD) wajib sinkron dengan rencana nasional (RPJMN).",
+          "B": "Defisit APBD dibatasi ketat oleh Kementerian Keuangan.",
+          "C": "Pajak daerah diatur dalam batas tarif maksimal undang-undang.",
+          "D": "BPD adalah BUMD milik pemerintah daerah untuk pembangunan daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Transfer ke Daerah yang selanjutnya disingkat TKD adalah dana yang",
+        "bersumber dari APBN"
+      ],
+      "topik_materi": "Definisi Transfer ke Daerah (TKD)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Transfer ke Daerah (TKD) pada hakikatnya didefinisikan sebagai dana yang...",
+      "pilihan": {
+        "A": "Bersumber dari APBN yang disalurkan guna mendanai urusan daerah",
+        "B": "Dihimpun dari pungutan retribusi dan pajak asli pemerintah daerah",
+        "C": "Berasal dari pinjaman obligasi daerah di bursa efek domestik",
+        "D": "Dikelola oleh lembaga perbankan swasta untuk modal kredit mikro",
+        "E": "Diperoleh dari sumbangan sukarela masyarakat di wilayah perkotaan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Transfer ke Daerah yang selanjutnya disingkat TKD adalah dana yang bersumber dari APBN dan merupakan bagian dari belanja negara yang dialokasikan dan disalurkan kepada Daerah untuk dikelola oleh Daerah dalam rangka mendanai penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah**.",
+        "alasan_kunci": "Opsi A tepat karena TKD adalah instrumen utama pendanaan desentralisasi di mana sebagian belanja APBN diserahkan kepada daerah otonom untuk membiayai pelayanan dasar masyarakat di daerah.",
+        "bedah_pengecoh": {
+          "B": "Pajak dan retribusi daerah membentuk Pendapatan Asli Daerah (PAD).",
+          "C": "Obligasi daerah adalah instrumen pinjaman pembiayaan utang daerah.",
+          "D": "TKD dikelola oleh APBD pemda, bukan oleh bank swasta.",
+          "E": "TKD bersumber resmi dari kas APBN negara, bukan sumbangan sukarela."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "TKD meliputi DBH, DAU, DAK, Dana Otonomi Khusus",
+        "dan Dana Keistimewaan, serta Dana Desa"
+      ],
+      "topik_materi": "Enam Komponen TKD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ruang lingkup Transfer ke Daerah menurut UU HKPD meliputi pos...",
+      "pilihan": {
+        "A": "Belanja pegawai, belanja barang, belanja modal, dan belanja bunga",
+        "B": "DBH, DAU, DAK, Dana Otsus, Dana Keistimewaan, dan Dana Desa",
+        "C": "Pajak penghasilan, pajak pertambahan nilai, dan bea meterai dokumen",
+        "D": "Surat utang negara, obligasi ritel, dan sukuk tabungan syariah",
+        "E": "Dana cadangan umum kasir, rekening dana investasi, dan giro BI"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**TKD meliputi DBH, DAU, DAK, Dana Otonomi Khusus dan Dana Keistimewaan, serta Dana Desa**.",
+        "alasan_kunci": "Opsi B tepat karena keenam komponen transfer ini mencakup seluruh saluran penyaluran belanja APBN kepada pemerintah daerah provinsi, kabupaten/kota, hingga pemerintahan desa.",
+        "bedah_pengecoh": {
+          "A": "Belanja pegawai, barang, modal adalah jenis belanja pemerintah pusat.",
+          "C": "PPh, PPN, dan bea meterai merupakan pos penerimaan perpajakan.",
+          "D": "SUN, ORI, dan Sukuk adalah instrumen pembiayaan utang negara.",
+          "E": "RDI dan giro BI adalah rekening perbendaharaan kas negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Dana Bagi Hasil yang selanjutnya disingkat DBH adalah bagian dari TKD",
+        "yang dialokasikan berdasarkan persentase"
+      ],
+      "topik_materi": "Definisi Dana Bagi Hasil (DBH)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dana Bagi Hasil (DBH) dialokasikan kepada pemerintah daerah berdasarkan...",
+      "pilihan": {
+        "A": "Tingkat suku bunga pinjaman komersial perbankan daerah",
+        "B": "Jumlah proposal permohonan bantuan yang diajukan oleh bupati",
+        "C": "Persentase atas pendapatan tertentu dalam APBN dan kinerja tertentu",
+        "D": "Hasil lelang barang sitaan kejahatan tindak pidana peradilan",
+        "E": "Besaran sisa lebih anggaran belanja tahun anggaran sebelumnya"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Dana Bagi Hasil yang selanjutnya disingkat DBH adalah bagian dari TKD yang dialokasikan berdasarkan persentase atas pendapatan tertentu dalam APBN dan kinerja tertentu**.",
+        "alasan_kunci": "Opsi C tepat karena pembagian DBH mengikuti formula persentase bagi hasil legal undang-undang atas penerimaan pajak dan sumber daya alam yang dihasilkan dari wilayah daerah yang bersangkutan.",
+        "bedah_pengecoh": {
+          "A": "Suku bunga perbankan tidak menjadi dasar pembagian bagi hasil APBN.",
+          "B": "DBH bukan dana hibah proposal melainkan alokasi berbasis persentase.",
+          "D": "Barang sitaan peradilan disetor ke kas negara sebagai PNBP kejaksaan.",
+          "E": "SiLPA daerah adalah saldo kas daerah yang tidak memengaruhi DBH."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "mengurangi ketimpangan fiskal antara",
+        "Pemerintah dan Daerah"
+      ],
+      "topik_materi": "Tujuan Penyaluran DBH",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyaluran DBH kepada daerah penghasil dan non-penghasil bertujuan untuk...",
+      "pilihan": {
+        "A": "Menutup kerugian operasional badan usaha milik swasta daerah",
+        "B": "Menghapuskan kewajiban penyusunan rencana kerja anggaran daerah",
+        "C": "Menjamin pembiayaan belanja perjalanan dinas pejabat pemda",
+        "D": "Mengurangi ketimpangan fiskal dan menanggulangi eksternalitas",
+        "E": "Menyeragamkan struktur besaran tunjangan aparatur antardaerah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "DBH dibagikan dengan tujuan untuk **mengurangi ketimpangan fiskal antara Pemerintah dan Daerah, serta kepada Daerah lain nonpenghasil dalam rangka menanggulangi eksternalitas negatif dan/atau meningkatkan pemerataan dalam satu wilayah**.",
+        "alasan_kunci": "Opsi D tepat karena daerah sekitar penghasil tambang/migas sering kali menanggung dampak kerusakan lingkungan (eksternalitas negatif). Alokasi DBH pemerataan membantu menjaga stabilitas kewilayahan.",
+        "bedah_pengecoh": {
+          "A": "DBH tidak boleh digunakan untuk menalangi kerugian swasta.",
+          "B": "Penyusunan RKA-SKPD tetap wajib dilaksanakan secara transparan.",
+          "C": "DBH ditujukan untuk pembangunan dan layanan publik, bukan perjalanan.",
+          "E": "Tunjangan aparatur daerah disesuaikan dengan kemampuan fiskal daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "DBH Pajak",
+        "terdiri dari Pajak Penghasilan, Pajak Bumi dan Bangunan, dan cukai hasil",
+        "tembakau"
+      ],
+      "topik_materi": "Komponen DBH Pajak",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerimaan negara yang dibagihasilkan dalam kelompok DBH Pajak mencakup...",
+      "pilihan": {
+        "A": "Pajak penerangan jalan dan pajak reklame perkotaan daerah",
+        "B": "Pajak pertambahan nilai barang mewah dan bea meterai dokumen",
+        "C": "Bea masuk impor komoditas dan bea keluar mineral tambang",
+        "D": "Pajak kendaraan bermotor dan retribusi perizinan tertentu",
+        "E": "Pajak Penghasilan, PBB sektor P3, dan Cukai Hasil Tembakau"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**DBH Pajak terdiri dari Pajak Penghasilan, Pajak Bumi dan Bangunan, dan cukai hasil tembakau** (DBH CHT).",
+        "alasan_kunci": "Opsi E tepat karena PPh (Pasal 25/29 orang pribadi dan PPh 21), PBB sektor P3 (perkebunan, perhutanan, pertambangan), serta Cukai Hasil Tembakau memiliki persentase bagi hasil resmi yang ditransfer kembali ke daerah.",
+        "bedah_pengecoh": {
+          "A": "Pajak penerangan jalan dan reklame adalah pajak asli kabupaten/kota.",
+          "B": "PPN dan bea meterai adalah pajak pusat yang tidak dibagihasilkan.",
+          "C": "Bea masuk dan bea keluar bukan komponen dana bagi hasil pajak.",
+          "D": "Pajak kendaraan bermotor adalah pajak asli pemerintah provinsi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "DBH Sumber Daya Alam terdiri dari kehutanan, mineral dan",
+        "batu bara, minyak bumi dan gas bumi, panas bumi, dan perikanan"
+      ],
+      "topik_materi": "Komponen DBH Sumber Daya Alam",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sektor penerimaan yang termasuk dalam kelompok DBH Sumber Daya Alam meliputi...",
+      "pilihan": {
+        "A": "Kehutanan, minerba, migas, panas bumi, dan perikanan",
+        "B": "Industri perbankan, pasar modal, asuransi, dan dana pensiun",
+        "C": "Transportasi darat, penerbangan perintis, dan perkeretaapian",
+        "D": "Telekomunikasi digital, informatika, dan pos logistik paket",
+        "E": "Pariwisata perhotelan, hiburan malam, dan restoran kuliner"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**DBH Sumber Daya Alam terdiri dari kehutanan, mineral dan batu bara, minyak bumi dan gas bumi, panas bumi, dan perikanan**.",
+        "alasan_kunci": "Opsi A tepat karena royalti dan iuran eksploitasi dari lima sektor ekstraktif kekayaan alam ini dibagikan kembali kepada daerah penghasil dan daerah pemerataan dalam satu provinsi.",
+        "bedah_pengecoh": {
+          "B": "Industri perbankan dan asuransi adalah sektor jasa keuangan komersial.",
+          "C": "Transportasi adalah sektor perhubungan logistik, bukan SDA.",
+          "D": "Telekomunikasi adalah sektor infrastruktur teknologi informasi.",
+          "E": "Pariwisata dan hotel adalah sektor pajak jasa daerah.",
+          "sumber_rujukan": "Pengelolaan Keuangan Negara"
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Dana Alokasi Umum yang selanjutnya disingkat DAU adalah bagian dari",
+        "TKD"
+      ],
+      "topik_materi": "Definisi Dana Alokasi Umum (DAU)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dana Alokasi Umum (DAU) merupakan instrumen transfer ke daerah yang bersifat...",
+      "pilihan": {
+        "A": "Pinjaman modal kerja yang wajib dikembalikan beserta bunga",
+        "B": "Bagian dari TKD untuk pemerataan kemampuan keuangan daerah",
+        "C": "Dana talangan darurat sementara kasir perbankan sentral",
+        "D": "Bantuan keuangan bersyarat penyerahan aset milik daerah",
+        "E": "Penerimaan hibah terikat dari lembaga internasional donor"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Dana Alokasi Umum yang selanjutnya disingkat DAU adalah bagian dari TKD yang dialokasikan dengan tujuan mengurangi ketimpangan kemampuan keuangan dan layanan publik antar-daerah**.",
+        "alasan_kunci": "Opsi B tepat karena DAU adalah hibah umum tanpa syarat (*block grant*) yang memberikan kepastian pendanaan dasar bagi pemda untuk menjalankan pelayanan publik dan pembayaran gaji pegawai daerah.",
+        "bedah_pengecoh": {
+          "A": "DAU adalah dana transfer cuma-cuma, bukan pinjaman berbunga.",
+          "C": "DAU bukan dana talangan kasir melainkan hak transfer daerah legal.",
+          "D": "Penyaluran DAU tidak menuntut penyerahan aset milik pemda.",
+          "E": "DAU bersumber dari APBN pemerintah pusat, bukan donor asing."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "mengurangi ketimpangan",
+        "kemampuan keuangan dan layanan publik antar-daerah"
+      ],
+      "topik_materi": "Tujuan Pemerataan Layanan Publik DAU",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan fundamental dari pengalokasian Dana Alokasi Umum (DAU) adalah...",
+      "pilihan": {
+        "A": "Membiayai pembentukan perusahaan patungan daerah dengan swasta",
+        "B": "Menghambat pembangunan sarana prasarana fisik di daerah kaya",
+        "C": "Mengurangi ketimpangan kemampuan keuangan dan layanan publik",
+        "D": "Menambah porsi belanja perjalanan dinas luar negeri pemda",
+        "E": "Menyita kelebihan saldo kas daerah untuk disetor ke kas negara"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "DAU dialokasikan dengan tujuan **mengurangi ketimpangan kemampuan keuangan dan layanan publik antar-daerah** (*horizontal equalization*).",
+        "alasan_kunci": "Opsi C tepat karena kapasitas pendapatan asli antardaerah sangat berbeda jauh. DAU memastikan daerah dengan PAD rendah tetap mampu menyelenggarakan standar pelayanan minimal (SPM) pendidikan dan kesehatan.",
+        "bedah_pengecoh": {
+          "A": "DAU ditujukan untuk layanan dasar publik, bukan investasi swasta.",
+          "B": "DAU tidak menghambat daerah kaya melainkan mengangkat daerah miskin.",
+          "D": "Penggunaan DAU diprioritaskan untuk belanja publik dasar SPM.",
+          "E": "Saldo kas daerah merupakan hak pemda dan tidak disita kas negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "kebutuhan pelayanan publik sebagai bagian dari pelaksanaan urusan",
+        "pemerintahan yang menjadi kewenangan daerah"
+      ],
+      "topik_materi": "Pertimbangan Kebutuhan Pelayanan Publik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pagu nasional DAU ditetapkan pemerintah dengan mempertimbangkan faktor...",
+      "pilihan": {
+        "A": "Luas area kawasan industri manufaktur kepemilikan modal asing",
+        "B": "Jumlah kantor cabang perbankan komersial swasta di provinsi",
+        "C": "Tingkat suku bunga deposito valuta asing di bursa regional",
+        "D": "Kebutuhan pelayanan publik pelaksanaan urusan kewenangan daerah",
+        "E": "Total laba bersih korporasi pertambangan batubara swasta"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pagu nasional DAU ditetapkan dengan mempertimbangkan: **kebutuhan pelayanan publik sebagai bagian dari pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah**.",
+        "alasan_kunci": "Opsi D tepat karena besaran pagu DAU harus selaras dengan beban urusan pemerintahan wajib yang diemban daerah (layanan pendidikan, kesehatan, pekerjaan umum) agar pemda mampu melaksanakannya.",
+        "bedah_pengecoh": {
+          "A": "Luas kawasan industri asing adalah indikator investasi manufaktur.",
+          "B": "Jumlah kantor bank komersial bukan pertimbangan kebutuhan layanan daerah.",
+          "C": "Suku bunga deposito valas adalah variabel pasar moneter perbankan.",
+          "E": "Laba korporasi batubara adalah pendapatan bisnis privat swasta."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "kemampuan keuangan negara"
+      ],
+      "topik_materi": "Pertimbangan Kemampuan Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain kebutuhan daerah, penentuan batas pagu nasional DAU dibatasi oleh...",
+      "pilihan": {
+        "A": "Cadangan wajib minimum likuiditas giro di bank sentral",
+        "B": "Kemampuan pembiayaan utang luar negeri perbankan daerah",
+        "C": "Permintaan alokasi anggaran dari dewan perwakilan rakyat daerah",
+        "D": "Tingkat perolehan laba kotor seluruh BUMN perseroan terbuka",
+        "E": "Kemampuan keuangan negara dan kesinambungan fiskal APBN"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pagu nasional DAU ditetapkan dengan mempertimbangkan kebutuhan pelayanan publik, **kemampuan keuangan negara**, pagu TKD secara keseluruhan, dan target pembangunan nasional.",
+        "alasan_kunci": "Opsi E tepat karena besaran transfer DAU wajib disesuaikan dengan kapasitas pendapatan neto APBN. Pemaksaan DAU yang melampaui kemampuan fiskal negara berisiko memicu krisis likuiditas kas negara.",
+        "bedah_pengecoh": {
+          "A": "Giro wajib minimum adalah kebijakan likuiditas moneter Bank Indonesia.",
+          "B": "Utang perbankan daerah bukan pembatas penetapan pagu nasional APBN.",
+          "C": "Permintaan DPRD tidak bisa mengabaikan kemampuan pendapatan negara.",
+          "D": "Laba BUMN adalah pendapatan PNBP, bukan pembatas langsung DAU."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Proporsi",
+        "pagu",
+        "DAU",
+        "antara",
+        "Daerah",
+        "provinsi"
+      ],
+      "topik_materi": "Proporsi Pagu DAU Provinsi dan Kabupaten",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembagian proporsi pagu DAU antara provinsi dan kabupaten/kota mendasarkan pada...",
+      "pilihan": {
+        "A": "Kebutuhan pendanaan pelaksanaan urusan kewenangan masing-masing",
+        "B": "Jumlah kendaraan dinas yang dimiliki pejabat pemerintah daerah",
+        "C": "Luas bangunan gedung kantor bupati dan dewan perwakilan rakyat",
+        "D": "Kedekatan jarak geografis ibu kota daerah dengan ibu kota negara",
+        "E": "Hasil musyawarah lisan antar pimpinan asosiasi kepala daerah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Proporsi pagu DAU antara Daerah provinsi dan Daerah kabupaten/kota mempertimbangkan kebutuhan pendanaan dalam rangka pelaksanaan Urusan Pemerintahan yang menjadi kewenangan Daerah antara provinsi dan kabupaten/kota**.",
+        "alasan_kunci": "Opsi A tepat karena beban urusan operasional antara tingkat provinsi (koordinasi antardaerah) berbeda dengan kabupaten/kota (pelayanan langsung masyarakat). Proporsi dihitung objektif berdasarkan beban urusannya.",
+        "bedah_pengecoh": {
+          "B": "Jumlah mobil dinas bukan parameter alokasi anggaran transfer negara.",
+          "C": "Luas fisik kantor bupati tidak mencerminkan kebutuhan fiskal daerah.",
+          "D": "Jarak ke ibu kota negara bukan dasar perhitungan keadilan fiskal.",
+          "E": "Alokasi DAU dihitung secara saintifik melalui rumus, bukan lisan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Dana Alokasi Khusus yang selanjutnya disingkat DAK adalah bagian dari",
+        "TKD"
+      ],
+      "topik_materi": "Definisi Dana Alokasi Khusus (DAK)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dana Alokasi Khusus (DAK) dalam kerangka belanja transfer ke daerah merupakan...",
+      "pilihan": {
+        "A": "Dana pinjaman darurat jangka pendek berbunga rendah bagi pemda",
+        "B": "Bagian TKD untuk mendanai program prioritas nasional daerah",
+        "C": "Penerimaan bagi hasil pajak penjualan barang mewah kementerian",
+        "D": "Bantuan keuangan sukarela tanpa pengawasan dari kantor wilayah",
+        "E": "Cadangan kas umum pemerintah untuk pembayaran bunga utang"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Dana Alokasi Khusus yang selanjutnya disingkat DAK adalah bagian dari TKD yang dialokasikan dengan tujuan untuk mendanai program, kegiatan, dan/atau kebijakan tertentu yang menjadi prioritas nasional dan membantu operasionalisasi layanan publik**.",
+        "alasan_kunci": "Opsi B tepat karena berbeda dengan DAU yang bersifat umum, DAK bersifat terarah (*specific grant/earmarked*) untuk memastikan kegiatan di daerah mendukung tercapainya target-target prioritas pembangunan nasional.",
+        "bedah_pengecoh": {
+          "A": "DAK adalah dana transfer APBN resmi, bukan pinjaman berbunga.",
+          "C": "DAK bukan pos bagi hasil melainkan alokasi pendanaan kegiatan khusus.",
+          "D": "Penggunaan DAK diawasi ketat dan terikat petunjuk teknis kementerian.",
+          "E": "Pembayaran bunga utang ditanggung melalui APBN pusat, bukan DAK."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "kebijakan tertentu yang menjadi prioritas nasional dan",
+        "membantu operasionalisasi layanan publik"
+      ],
+      "topik_materi": "Tujuan Alokasi DAK",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kriteria utama pemanfaatan Dana Alokasi Khusus (DAK) oleh pemerintah daerah adalah...",
+      "pilihan": {
+        "A": "Membiayai kegiatan seremonial peringatan hari ulang tahun daerah",
+        "B": "Menambah anggaran belanja perjalanan dinas luar daerah pejabat",
+        "C": "Mendukung prioritas nasional dan operasionalisasi layanan publik",
+        "D": "Memberikan suntikan modal kerja perseroan terbatas milik swasta",
+        "E": "Membayar sisa tagihan denda keterlambatan proyek gedung pemda"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "DAK dialokasikan untuk mendanai kebijakan yang **menjadi prioritas nasional dan membantu operasionalisasi layanan publik, yang penggunaannya telah ditentukan oleh Pemerintah**.",
+        "alasan_kunci": "Opsi C tepat karena dana DAK tidak boleh digunakan di luar menu kegiatan prioritas yang ditetapkan pemerintah pusat (seperti penurunan stunting, renovasi sekolah, jalan daerah, dan operasional puskesmas).",
+        "bedah_pengecoh": {
+          "A": "Kegiatan seremonial bukan menu kegiatan prioritas nasional DAK.",
+          "B": "Perjalanan dinas pejabat dilarang keras didanai menggunakan dana DAK.",
+          "D": "Pemberian modal swasta melanggar petunjuk teknis pemanfaatan DAK.",
+          "E": "Denda keterlambatan rekanan adalah sanksi kontrak pengadaan dinas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "DAK",
+        "fisik,"
+      ],
+      "topik_materi": "Tiga Komponen Pembagian DAK",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam pembagian jenisnya, Dana Alokasi Khusus (DAK) terdiri atas...",
+      "pilihan": {
+        "A": "Belanja operasional kantor, belanja modal gedung, dan perjadin",
+        "B": "Dana bagi hasil pajak, bagi hasil sumber daya alam, dan royalti",
+        "C": "Dana otonomi khusus, dana keistimewaan, dan dana penyeimbang",
+        "D": "DAK fisik, DAK nonfisik, dan hibah kepada daerah",
+        "E": "Pajak daerah provinsi, retribusi daerah, dan pendapatan asli"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "DAK terdiri atas: **DAK fisik, DAK nonfisik, dan hibah kepada daerah**.",
+        "alasan_kunci": "Opsi D tepat karena tiga cabang DAK ini memfasilitasi pembangunan sarana fisik (sekolah/RS/jalan), pendanaan operasional (BOS/BOK layanan kesehatan), serta hibah program khusus berdasarkan perjanjian formal pemda.",
+        "bedah_pengecoh": {
+          "A": "Belanja operasional dan perjadin adalah klasifikasi belanja operasional.",
+          "B": "Bagi hasil pajak dan SDA merupakan komponen Dana Bagi Hasil (DBH).",
+          "C": "Dana otsus dan keistimewaan merupakan jenis transfer terpisah dari DAK.",
+          "E": "Pajak dan retribusi daerah adalah komponen pendapatan asli pemda."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "DAK nonfisik, yang digunakan untuk mendukung operasionalisasi",
+        "layanan publik daerah"
+      ],
+      "topik_materi": "Pemanfaatan DAK Nonfisik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemanfaatan DAK Nonfisik secara spesifik diperuntukkan bagi...",
+      "pilihan": {
+        "A": "Pemasangan tiang pancang jembatan penyeberangan sungai kota",
+        "B": "Pembangunan konstruksi fisik gedung rumah sakit umum daerah",
+        "C": "Pembelian alat berat eskavator pemeliharaan jalan kabupaten",
+        "D": "Pengadaan tanah perluasan terminal bus antarkota di daerah",
+        "E": "Mendukung operasionalisasi layanan publik di daerah otonom"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**DAK nonfisik, yang digunakan untuk mendukung operasionalisasi layanan publik daerah** (seperti Bantuan Operasional Sekolah/BOS dan Bantuan Operasional Kesehatan/BOK).",
+        "alasan_kunci": "Opsi E tepat karena DAK Nonfisik membiayai kebutuhan operasional pelayanan langsung tanpa menghasilkan aset tetap fisik, sehingga sekolah dan puskesmas dapat beroperasi secara optimal melayani masyarakat.",
+        "bedah_pengecoh": {
+          "A": "Konstruksi jembatan merupakan kegiatan fisik belanja DAK Fisik jalan.",
+          "B": "Pembangunan gedung RSUD dibiayai melalui pos DAK Fisik bidang kesehatan.",
+          "C": "Pembelian alat berat eskavator masuk dalam menu belanja DAK Fisik.",
+          "D": "Pengadaan tanah didanai melalui belanja modal tanah pemda."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "hibah",
+        "kepada",
+        "daerah,"
+      ],
+      "topik_materi": "Hibah kepada Daerah Berbasis Perjanjian",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyaluran hibah kepada daerah dalam kelompok DAK didasarkan pada...",
+      "pilihan": {
+        "A": "Perjanjian tertulis antara pemerintah pusat dan pemerintah daerah",
+        "B": "Instruksi lisan menteri koordinator pada saat rapat kabinet",
+        "C": "Permintaan mandiri dari dewan perwakilan rakyat daerah setempat",
+        "D": "Surat pernyataan kesanggupan dari asosiasi pengusaha swasta",
+        "E": "Tingkat perolehan suara pada pemilihan umum kepala daerah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Hibah kepada daerah digunakan untuk mendukung pembangunan fisik atau layanan publik tertentu yang **didasarkan pada perjanjian antara pemerintah dan pemerintah daerah**.",
+        "alasan_kunci": "Opsi A tepat karena hibah daerah merupakan pengalokasian dana berbasis kinerja (*grant agreement*) di mana daerah yang memenuhi capaian indikator tertentu berhak menerima pencairan dana hibah pemerintah.",
+        "bedah_pengecoh": {
+          "B": "Instruksi lisan tidak sah sebagai dasar perikatan hukum penyaluran hibah.",
+          "C": "Permintaan sepihak DPRD tidak menggantikan naskah perjanjian resmi.",
+          "D": "Asosiasi pengusaha bukan pihak dalam perjanjian hibah antarpemerintah.",
+          "E": "Pilkada adalah proses politik yang terpisah mutlak dari tata kelola hibah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Dana Otonomi Khusus adalah bagian dari TKD yang dialokasikan kepada",
+        "Daerah",
+        "tertentu"
+      ],
+      "topik_materi": "Definisi Dana Otonomi Khusus",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dana Otonomi Khusus merupakan bagian dari TKD yang dialokasikan kepada...",
+      "pilihan": {
+        "A": "Seluruh daerah kabupaten dan kota di kepulauan Jawa dan Bali",
+        "B": "Daerah tertentu untuk mendanai pelaksanaan otonomi khusus",
+        "C": "Pemerintah daerah yang mengalami kekosongan kas pendapatan asli",
+        "D": "Kawasan industri ekonomi khusus yang dikelola korporasi swasta",
+        "E": "Wilayah perbatasan antarnegara yang berstatus darurat militer"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Dana Otonomi Khusus adalah bagian dari TKD yang dialokasikan kepada Daerah tertentu untuk mendanai pelaksanaan otonomi khusus sebagaimana ditetapkan dalam Undang-Undang mengenai otonomi khusus**.",
+        "alasan_kunci": "Opsi B tepat karena dana otsus merupakan amanat undang-undang yang diberikan secara afirmatif kepada Provinsi Papua (dan daerah pemekarannya) serta Provinsi Aceh untuk percepatan pembangunan kesejahteraan masyarakat.",
+        "bedah_pengecoh": {
+          "A": "Daerah Jawa dan Bali tidak memiliki status otonomi khusus otsus.",
+          "C": "Kekosongan kas diatasi melalui instrumen kas daerah dan DAU.",
+          "D": "Kawasan ekonomi khusus dikelola badan pengelola KEK, bukan penerima otsus.",
+          "E": "Status darurat militer bukan dasar pengalokasian dana otonomi khusus."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Undang-Undang mengenai",
+        "otonomi khusus"
+      ],
+      "topik_materi": "Dasar Alokasi Dana Otonomi Khusus",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengalokasian dan pemanfaatan Dana Otonomi Khusus wajib berpedoman pada...",
+      "pilihan": {
+        "A": "Petunjuk teknis internal unit layanan pengadaan barang daerah",
+        "B": "Surat edaran kepala dinas pendapatan daerah provinsi setempat",
+        "C": "Ketentuan yang diatur dalam Undang-Undang Otonomi Khusus",
+        "D": "Kesepakatan bersama antar pimpinan organisasi kemasyarakatan",
+        "E": "Hasil musyawarah kerja tahunan kamar dagang dan industri daerah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dana Otonomi Khusus dialokasikan kepada daerah yang memiliki otonomi khusus **sesuai dengan Undang-Undang mengenai otonomi khusus**.",
+        "alasan_kunci": "Opsi C tepat karena undang-undang otsus mengikat secara yuridis peruntukan anggarannya, seperti kewajiban porsi minimal anggaran untuk sektor pendidikan, kesehatan, dan pemberdayaan ekonomi masyarakat asli.",
+        "bedah_pengecoh": {
+          "A": "Petunjuk teknis pengadaan hanya mengatur tata cara tender barang jasa.",
+          "B": "Surat edaran dinas berada di bawah undang-undang dan tidak boleh menyimpang.",
+          "D": "Kesepakatan ormas bukan dasar hukum alokasi transfer keuangan negara.",
+          "E": "Kadin adalah wadah asosiasi pengusaha swasta, bukan pembuat regulasi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "dibagi antara provinsi dan",
+        "kabupaten/kota di wilayah provinsi yang bersangkutan secara adil dan",
+        "transparan"
+      ],
+      "topik_materi": "Pembagian Dana Otsus Provinsi dan Kabupaten",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembagian Dana Otonomi Khusus dalam satu wilayah daerah otonom dilaksanakan...",
+      "pilihan": {
+        "A": "Dititipkan pada rekening simpanan pribadi pimpinan daerah",
+        "B": "Dikuasai penuh oleh pemerintah provinsi tanpa membagi kabupaten",
+        "C": "Diberikan seutuhnya kepada pemerintah kota tanpa perikatan",
+        "D": "Antara provinsi dan kabupaten/kota secara adil dan transparan",
+        "E": "Dikonversi menjadi pinjaman subordinasi badan usaha milik pemda"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dana Otonomi Khusus **dibagi antara provinsi dan kabupaten/kota di wilayah provinsi yang bersangkutan secara adil dan transparan** sesuai dengan ketentuan perundang-undangan.",
+        "alasan_kunci": "Opsi D tepat karena pembagian yang adil dan transparan memastikan manfaat dana otsus dapat menyentuh masyarakat hingga ke tingkat distrik, kampung, dan pelosok pedalaman di kabupaten/kota.",
+        "bedah_pengecoh": {
+          "A": "Menyimpan dana dinas di rekening pribadi adalah tindak pidana korupsi.",
+          "B": "Pemerintah provinsi dilarang memonopoli seluruh dana otsus daerah.",
+          "C": "Dana otsus dibagi antara provinsi dan seluruh kabupaten/kota.",
+          "E": "Dana otsus bukan modal pinjaman bisnis melainkan transfer belanja publik."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Dana Keistimewaan Daerah Istimewa Yogyakarta yang selanjutnya",
+        "disebut Dana Keistimewaan"
+      ],
+      "topik_materi": "Definisi Dana Keistimewaan DIY",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagian dari transfer ke daerah yang dialokasikan khusus mendukung urusan keistimewaan DIY adalah...",
+      "pilihan": {
+        "A": "Dana penyeimbang subsidi ketahanan pangan perkotaan",
+        "B": "Dana alokasi khusus fisik pengadaan tanah perumahan",
+        "C": "Dana bagi hasil cukai tembakau industri perkebunan",
+        "D": "Bantuan keuangan kemanusiaan darurat pasca bencana",
+        "E": "Dana Keistimewaan Daerah Istimewa Yogyakarta"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Dana Keistimewaan Daerah Istimewa Yogyakarta yang selanjutnya disebut Dana Keistimewaan adalah bagian dari TKD yang dialokasikan untuk mendukung urusan keistimewaan Daerah Istimewa Yogyakarta**.",
+        "alasan_kunci": "Opsi E tepat karena sesuai UU 13/2012 tentang Keistimewaan DIY, pemerintah pusat mengalokasikan Dana Keistimewaan untuk mendanai urusan kelembagaan, kebudayaan, pertanahan, tata ruang, dan pengisian jabatan gubernur/wagub.",
+        "bedah_pengecoh": {
+          "A": "Dana penyeimbang pangan bukan instrumen resmi keistimewaan DIY.",
+          "B": "DAK fisik perumahan dialokasikan umum kepada daerah yang memenuhi syarat.",
+          "C": "DBH CHT dialokasikan kepada daerah penghasil dan pengolah tembakau.",
+          "D": "Bantuan bencana adalah bantuan sosial darurat, bukan dana keistimewaan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Undang-Undang mengenai keistimewaan",
+        "Yogyakarta"
+      ],
+      "topik_materi": "Dasar Hukum Dana Keistimewaan DIY",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyelenggaraan urusan keistimewaan DIY didanai sesuai ketentuan pokok...",
+      "pilihan": {
+        "A": "Undang-Undang mengenai keistimewaan Daerah Istimewa Yogyakarta",
+        "B": "Peraturan Daerah Khusus mengenai otonomi daerah provinsi",
+        "C": "Surat Keputusan Bersama menteri dalam negeri dan keuangan",
+        "D": "Petunjuk teknis operasional penarikan dana cadangan umum",
+        "E": "Ketetapan majelis musyawarah adat kesultanan keraton"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dana Keistimewaan dialokasikan **sebagaimana ditetapkan dalam Undang-Undang mengenai keistimewaan Yogyakarta** (UU Nomor 13 Tahun 2012).",
+        "alasan_kunci": "Opsi A tepat karena status keistimewaan DIY diakui secara konstitusional dan diatur khusus dalam undang-undang keistimewaan. Alokasi transfer APBN diberikan untuk memelihara warisan budaya dan kelembagaan istimewa tersebut.",
+        "bedah_pengecoh": {
+          "B": "Perda khusus otonomi provinsi berada di bawah hierarki undang-undang.",
+          "C": "SKB menteri adalah aturan pelaksana, bukan undang-undang pokok.",
+          "D": "Petunjuk teknis penarikan dana mengatur administrasi kasir.",
+          "E": "Ketetapan adat keraton bukan produk legislasi keuangan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Dana Keistimewaan dialokasikan kepada Pemerintah Daerah",
+        "Provinsi Daerah Istimewa Yogyakarta"
+      ],
+      "topik_materi": "Penerima Alokasi Dana Keistimewaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dana Keistimewaan dalam kerangka belanja transfer ke daerah dialokasikan kepada...",
+      "pilihan": {
+        "A": "Seluruh kantor perwakilan kementerian di wilayah Jawa Tengah",
+        "B": "Pemerintah Daerah Provinsi Daerah Istimewa Yogyakarta",
+        "C": "Badan usaha milik daerah sektor transportasi umum kota",
+        "D": "Lembaga perbankan syariah pengelola dana amanah umat",
+        "E": "Kamar dagang dan industri kawasan pariwisata perdesaan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Dana Keistimewaan dialokasikan kepada Pemerintah Daerah Provinsi Daerah Istimewa Yogyakarta** sesuai dengan ketentuan peraturan perundang-undangan.",
+        "alasan_kunci": "Opsi B tepat karena Pemda DIY bertindak sebagai entitas pengelola utama dana keistimewaan. Pemda DIY selanjutnya dapat menyerahkan sebagian pendanaan kepada kabupaten/kota untuk urusan yang didelegasikan.",
+        "bedah_pengecoh": {
+          "A": "Kantor kementerian di Jawa Tengah dibiayai melalui DIPA kementerian.",
+          "C": "BUMD transportasi bukan entitas penerima transfer dana keistimewaan.",
+          "D": "Bank syariah adalah lembaga keuangan intermediasi komersial.",
+          "E": "Kadin adalah organisasi swasta pelaku usaha niaga dan industri."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Pendanaan atas urusan keistimewaan diusulkan oleh Pemerintah",
+        "kabupaten/kota"
+      ],
+      "topik_materi": "Usulan Pendanaan Keistimewaan Kabupaten/Kota",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pendanaan urusan keistimewaan yang dilaksanakan di tingkat kabupaten/kota diusulkan oleh...",
+      "pilihan": {
+        "A": "Lembaga swadaya masyarakat kepada kementerian keuangan pusat",
+        "B": "Asosiasi pelaku usaha pariwisata kepada dewan gubernur BI",
+        "C": "Pemerintah kabupaten/kota kepada Pemerintah Daerah Provinsi DIY",
+        "D": "Pengurus yayasan cagar budaya kepada kantor lelang negara",
+        "E": "Camat dan kepala desa langsung kepada presiden republik"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Pendanaan atas urusan keistimewaan diusulkan oleh Pemerintah kabupaten/kota kepada Pemerintah Daerah Provinsi Daerah Istimewa Yogyakarta** dengan memperhatikan kebutuhan dan prioritas.",
+        "alasan_kunci": "Opsi C tepat karena mekanisme koordinasi vertikal menuntut kabupaten/kota di DIY menyusun rencana kerja urusan keistimewaan untuk disetujui dan dialokasikan anggarannya oleh Pemda Provinsi DIY.",
+        "bedah_pengecoh": {
+          "A": "LSM tidak memiliki kewenangan mengusulkan anggaran transfer resmi.",
+          "B": "Pelaku wisata bukan instansi pengusul anggaran keistimewaan daerah.",
+          "D": "Yayasan cagar budaya bukan entitas pemerintah pengusul DIPA pemda.",
+          "E": "Pemerintah desa mengusulkan kegiatan melalui musrenbang kecamatan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Dana Desa adalah bagian dari TKD yang diperuntukkan bagi desa"
+      ],
+      "topik_materi": "Definisi Dana Desa",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dana Desa dalam postur APBN didefinisikan sebagai bagian TKD yang diperuntukkan bagi...",
+      "pilihan": {
+        "A": "Badan usaha milik swasta yang mendirikan pabrik di perdesaan",
+        "B": "Kelurahan perkotaan padat penduduk untuk penataan kawasan kumuh",
+        "C": "Koperasi simpan pinjam desa untuk tambahan modal kredit usaha",
+        "D": "Desa guna mendukung penyelenggaraan pemerintahan dan pembangunan",
+        "E": "Penyedia jasa konstruksi pemenang lelang proyek jembatan desa"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Dana Desa adalah bagian dari TKD yang diperuntukkan bagi desa dengan tujuan untuk mendukung pendanaan penyelenggaraan Pemerintahan, pelaksanaan pembangunan, pemberdayaan masyarakat, dan kemasyarakatan**.",
+        "alasan_kunci": "Opsi D tepat karena Dana Desa disalurkan langsung dari APBN ke Rekening Kas Desa (RKD) guna memberikan otonomi dan daya dorong nyata bagi kemajuan perdesaan di seluruh tanah air.",
+        "bedah_pengecoh": {
+          "A": "Dana Desa dilarang dialokasikan untuk modal perusahaan swasta.",
+          "B": "Kelurahan perkotaan didanai melalui pos DAU kelurahan pada APBD.",
+          "C": "Dana Desa bukan pinjaman modal koperasi melainkan belanja publik desa.",
+          "E": "Penyedia jasa menerima pembayaran atas kontrak kerja, bukan penerima dana."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "pendanaan penyelenggaraan Pemerintahan,",
+        "pelaksanaan",
+        "pembangunan,"
+      ],
+      "topik_materi": "Empat Bidang Utama Penggunaan Dana Desa",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemanfaatan Dana Desa secara regulasi difokuskan untuk mendanai empat bidang yaitu...",
+      "pilihan": {
+        "A": "Penyelenggaraan pesta rakyat dan perayaan tahun baru di desa",
+        "B": "Perjalanan dinas aparatur kementerian, studi banding, dan seminar",
+        "C": "Pembelian saham obligasi korporasi di bursa efek domestik",
+        "D": "Talangan pelunasan utang macet pengurus badan usaha daerah",
+        "E": "Pemerintahan, pembangunan, pemberdayaan, dan kemasyarakatan desa"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tujuan Dana Desa adalah **mendukung pendanaan penyelenggaraan Pemerintahan, pelaksanaan pembangunan, pemberdayaan masyarakat, dan kemasyarakatan** desa.",
+        "alasan_kunci": "Opsi E tepat karena undang-undang desa menggariskan empat pilar pemanfaatan tersebut untuk meningkatkan layanan dasar, infrastruktur desa, ketahanan pangan, dan pengembangan BUMDes.",
+        "bedah_pengecoh": {
+          "A": "Kegiatan seremonial hiburan bukan prioritas pembangunan desa.",
+          "B": "Dana Desa dilarang digunakan untuk perjalanan dinas aparatur pusat.",
+          "C": "Investasi saham komersial bukan bidang penggunaan Dana Desa.",
+          "D": "Dana Desa bukan dana talangan utang komersial badan usaha."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "kinerja desa, jumlah desa, jumlah penduduk, angka kemiskinan, luas",
+        "wilayah, dan tingkat kesulitan geografis"
+      ],
+      "topik_materi": "Parameter Formula Pengalokasian Dana Desa",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Formula pengalokasian Dana Desa kepada tiap-tiap desa dihitung berdasarkan parameter...",
+      "pilihan": {
+        "A": "Kinerja desa, jumlah penduduk, kemiskinan, luas, dan kesulitan geografis",
+        "B": "Banyaknya kendaraan bermotor roda empat yang dimiliki warga desa",
+        "C": "Jumlah suara partai politik pemenang pemilihan kepala desa setempat",
+        "D": "Luas bangunan balai pertemuan desa dan kantor sekretariat rukun warga",
+        "E": "Besaran pendapatan asli daerah kabupaten tempat desa tersebut berada"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dana Desa dialokasikan dengan mempertimbangkan pemerataan dan keadilan berdasarkan **kinerja desa, jumlah desa, jumlah penduduk, angka kemiskinan, luas wilayah, dan tingkat kesulitan geografis**.",
+        "alasan_kunci": "Opsi A tepat karena formula ini menerapkan prinsip alokasi dasar, alokasi afirmasi bagi desa tertinggal, alokasi kinerja bagi desa berprestasi, dan alokasi formula berbasis kebutuhan riil wilayah.",
+        "bedah_pengecoh": {
+          "B": "Kepemilikan mobil bukan parameter formula transfer keuangan desa.",
+          "C": "Politik praktis pilkades dilarang memengaruhi formula Dana Desa.",
+          "D": "Fisik balai pertemuan bukan indikator rumus pengalokasian transfer.",
+          "E": "PAD kabupaten adalah indikator keuangan pemda, bukan desa."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "fokus penggunaan Dana Desa setiap tahunnya sesuai dengan prioritas",
+        "nasional"
+      ],
+      "topik_materi": "Fokus Penggunaan Dana Desa Tahunan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemerintah pusat menetapkan pedoman fokus penggunaan Dana Desa setiap tahun sesuai...",
+      "pilihan": {
+        "A": "Keinginan pribadi kepala desa tanpa melalui musyawarah warga",
+        "B": "Prioritas nasional dalam perencanaan nasional dan alokasi TKD",
+        "C": "Permintaan rekanan penyedia bahan bangunan pengadaan proyek",
+        "D": "Rekomendasi dari pengurus partai politik di tingkat kecamatan",
+        "E": "Instruksi lisan kepala dinas pariwisata pemerintah kabupaten"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pemerintah dapat menentukan **fokus penggunaan Dana Desa setiap tahunnya sesuai dengan prioritas nasional yang ditetapkan dalam peraturan perundang-undangan mengenai perencanaan nasional dan alokasi TKD**.",
+        "alasan_kunci": "Opsi B tepat karena prioritas nasional tahunan (seperti penanganan kemiskinan ekstrem, ketahanan pangan hewani/nabati, dan pencegahan stunting) wajib diadopsi dalam APBDes desa.",
+        "bedah_pengecoh": {
+          "A": "Kepala desa wajib menyusun APBDes melalui Musyawarah Desa terbuka.",
+          "C": "Rekanan penyedia tidak berhak mengarahkan fokus belanja desa.",
+          "D": "Pengurus partai dilarang mengintervensi alokasi dana perdesaan.",
+          "E": "Instruksi lisan tanpa dasar regulasi tidak mengikat hukum perbendaharaan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "arah kebijakan fiskal yang bersifat ekspansif"
+      ],
+      "topik_materi": "Kebijakan Fiskal Ekspansif",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam mewujudkan prioritas pembangunan nasional, pemerintah mengambil arah kebijakan...",
+      "pilihan": {
+        "A": "Kebijakan penghentian total seluruh proyek infrastruktur publik",
+        "B": "Kebijakan pengetatan anggaran secara drastis di semua sektor",
+        "C": "Kebijakan fiskal yang bersifat ekspansif guna memacu ekonomi",
+        "D": "Kebijakan pembekuan pencairan dana transfer ke seluruh daerah",
+        "E": "Kebijakan devaluasi mata uang rupiah secara berkala bulanan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dalam rangka mewujudkan prioritas pembangunan nasional, Pemerintah mengambil **arah kebijakan fiskal yang bersifat ekspansif**.",
+        "alasan_kunci": "Opsi C tepat karena kebijakan fiskal ekspansif dirancang untuk menginjeksi stimulus likuiditas ke dalam perekonomian melalui belanja negara, sehingga kapasitas produksi dan kesempatan kerja dapat tumbuh optimal.",
+        "bedah_pengecoh": {
+          "A": "Infrastruktur merupakan pendorong utama efek ganda ekonomi nasional.",
+          "B": "Pengetatan anggaran drastis (kontraktif) menekan laju pertumbuhan ekonomi.",
+          "D": "Pembekuan TKD melanggar undang-undang perimbangan keuangan.",
+          "E": "Devaluasi rupiah adalah instrumen moneter yang dapat memicu inflasi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "kebijakan menaikkan belanja dengan harapan untuk mendorong pertumbuhan",
+        "ekonomi yang berkelanjutan dan berkeadilan"
+      ],
+      "topik_materi": "Definisi Kebijakan Fiskal Ekspansif",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kebijakan fiskal ekspansif didefinisikan sebagai langkah strategis pemerintah untuk...",
+      "pilihan": {
+        "A": "Menghapus seluruh fasilitas pembebasan bea masuk barang modal",
+        "B": "Menaikkan tarif pajak penghasilan setinggi-tingginya bagi UMKM",
+        "C": "Mengurangi alokasi belanja subsidi pangan bagi masyarakat miskin",
+        "D": "Menaikkan belanja untuk mendorong pertumbuhan yang berkelanjutan",
+        "E": "Menahan sisa saldo kas umum negara tanpa dibelanjakan ke publik"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Kebijakan fiskal ekspansif adalah kebijakan menaikkan belanja dengan harapan untuk mendorong pertumbuhan ekonomi yang berkelanjutan dan berkeadilan**.",
+        "alasan_kunci": "Opsi D tepat karena perluasan belanja pemerintah meningkatkan permintaan agregat dalam perekonomian nasional. Kebijakan ini menciptakan lapangan kerja baru dan mempercepat pengentasan kemiskinan.",
+        "bedah_pengecoh": {
+          "A": "Menghapus fasilitas bea masuk merugikan investasi industri manufaktur.",
+          "B": "Menaikkan tarif pajak tinggi adalah kebijakan fiskal kontraktif.",
+          "C": "Mengurangi subsidi menekan daya beli masyarakat berpenghasilan rendah.",
+          "E": "Menahan kas tanpa belanja mengurangi stimulus peredaran uang sektor riil."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "meningkatkan daya beli masyarakat"
+      ],
+      "topik_materi": "Tujuan Peningkatan Daya Beli Masyarakat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan kebijakan ekspansif dengan memperbesar belanja pemerintah dilakukan untuk...",
+      "pilihan": {
+        "A": "Menghapuskan keterlibatan dunia usaha swasta dalam proyek tender",
+        "B": "Memperbesar cadangan devisa emas simpanan di bank sentral asing",
+        "C": "Menambah beban potongan pajak penghasilan bagi pekerja pabrik",
+        "D": "Menurunkan nilai tukar rupiah terhadap mata uang dolar amerika",
+        "E": "Meningkatkan daya beli masyarakat dan menggairahkan sektor riil"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kebijakan fiskal ekspansif dilakukan untuk **meningkatkan daya beli masyarakat**. Dengan melaksanakan kebijakan ini maka yang terjadi adalah jumlah belanja lebih besar dari pendapatan (defisit).",
+        "alasan_kunci": "Opsi E tepat karena bantuan sosial, subsidi, dan belanja infrastruktur padat karya menyalurkan likuiditas ke masyarakat. Peningkatan daya beli masyarakat mendorong konsumsi rumah tangga yang menjadi motor ekonomi.",
+        "bedah_pengecoh": {
+          "A": "Dunia usaha swasta justru digandeng sebagai mitra pelaksana pembangunan.",
+          "B": "Cadangan devisa emas adalah instrumen stabilitas moneter bank sentral.",
+          "C": "Tujuan kebijakan bukan membebani pekerja melainkan meningkatkan daya beli.",
+          "D": "Pelemahan rupiah adalah risiko pasar yang wajib dihindari stabilitasnya."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "pendapatan negara lebih besar dari jumlah belanja, maka terdapat",
+        "surplus anggaran"
+      ],
+      "topik_materi": "Definisi Surplus Anggaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kondisi di mana jumlah pendapatan negara lebih besar daripada jumlah belanja disebut...",
+      "pilihan": {
+        "A": "Surplus anggaran pada postur anggaran pendapatan belanja negara",
+        "B": "Defisit anggaran yang wajib ditutup melalui penerbitan utang",
+        "C": "Krisis likuiditas kas operasional pada rekening kas umum negara",
+        "D": "Gagal bayar kewajiban pokok pinjaman luar negeri pemerintah",
+        "E": "Keseimbangan semu akibat keterlambatan pencairan dana transfer"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Apabila jumlah pendapatan negara lebih besar dari jumlah belanja, maka terdapat surplus anggaran**.",
+        "alasan_kunci": "Opsi A tepat karena surplus anggaran menandakan penerimaan negara mampu menutup seluruh pengeluaran belanja bahkan menyisakan saldo kas berlebih yang dapat dialokasikan untuk tabungan masa depan.",
+        "bedah_pengecoh": {
+          "B": "Defisit terjadi apabila belanja melebihi pendapatan negara.",
+          "C": "Krisis likuiditas terjadi jika kas negara tidak mampu membayar tagihan.",
+          "D": "Gagal bayar adalah keadaan wanprestasi kewajiban utang jatuh tempo.",
+          "E": "Keseimbangan semu bukan istilah resmi klasifikasi anggaran negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "belanja negara lebih besar dari",
+        "pendapatan negara, maka terdapat defisit anggaran"
+      ],
+      "topik_materi": "Definisi Defisit dan Kebutuhan Pendanaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Apabila belanja negara lebih besar dari pendapatan negara, konsekuensi yang timbul adalah...",
+      "pilihan": {
+        "A": "Pemerintah membatalkan seluruh undang-undang anggaran tahun berjalan",
+        "B": "Terjadi defisit anggaran dan pemerintah mencari sumber pembiayaan",
+        "C": "Pemerintah membekukan operasional seluruh kantor dinas kementerian",
+        "D": "Terjadi surplus anggaran yang dialokasikan ke belanja pembangunan",
+        "E": "Seluruh pegawai negeri sipil diberhentikan sementara tanpa gaji"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Apabila belanja negara lebih besar dari pendapatan negara, maka terdapat defisit anggaran**, dan Pemerintah perlu mencari sumber-sumber pendanaan untuk menutup defisit tersebut.",
+        "alasan_kunci": "Opsi B tepat karena defisit anggaran merupakan konsekuensi dari kebijakan ekspansif yang telah disetujui bersama DPR. Selisih defisit ini ditutup secara terencana melalui pos pembiayaan anggaran.",
+        "bedah_pengecoh": {
+          "A": "APBN tetap berjalan sah sesuai persetujuan undang-undang anggaran.",
+          "C": "Operasional kantor kementerian tetap berjalan menggunakan dana DIPA.",
+          "D": "Surplus hanya terjadi jika pendapatan lebih besar dari belanja.",
+          "E": "Gaji pegawai negeri sipil tetap dibayar penuh dari alokasi belanja pegawai."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "pasal 1 Angka 17 UU Nomor 17 Tahun 2003 tentang Keuangan Negara"
+      ],
+      "topik_materi": "Definisi Pembiayaan Menurut UU 17/2003",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Landasan hukum formil yang memuat rumusan definisi pembiayaan anggaran adalah...",
+      "pilihan": {
+        "A": "Undang-Undang Nomor 1 Tahun 2004 tentang Kas Daerah Otonom",
+        "B": "Pasal 33 Ayat 3 Undang-Undang Dasar Negara Republik Indonesia",
+        "C": "Pasal 1 Angka 17 UU Nomor 17 Tahun 2003 tentang Keuangan Negara",
+        "D": "Undang-Undang Nomor 15 Tahun 2004 tentang Standar Akuntansi",
+        "E": "Undang-Undang Nomor 25 Tahun 2004 tentang Sistem Perencanaan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan **pasal 1 Angka 17 UU Nomor 17 Tahun 2003 tentang Keuangan Negara**, pembiayaan adalah setiap penerimaan yang perlu dibayar kembali dan/atau pengeluaran yang akan diterima kembali.",
+        "alasan_kunci": "Opsi C tepat karena pasal ini secara yuridis memberikan batasan tegas antara pos pendapatan/belanja murni dengan pos transaksi modal pembiayaan yang menimbulkan hak tagih atau kewajiban bayar kembali.",
+        "bedah_pengecoh": {
+          "A": "UU 1/2004 mengatur perbendaharaan negara secara teknis administratif.",
+          "B": "Pasal 33 UUD 1945 mengatur penguasaan bumi, air, dan kekayaan alam.",
+          "D": "UU 15/2004 mengatur pemeriksaan pengelolaan keuangan oleh BPK.",
+          "E": "UU 25/2004 mengatur sistem perencanaan pembangunan nasional."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "setiap penerimaan yang perlu dibayar",
+        "kembali dan/atau pengeluaran yang akan diterima kembali"
+      ],
+      "topik_materi": "Substansi Transaksi Pembiayaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karakter pokok dari transaksi yang dikelompokkan ke dalam pos pembiayaan adalah...",
+      "pilihan": {
+        "A": "Pungutan memaksa berdasarkan undang-undang tanpa kontraprestasi",
+        "B": "Penerimaan sukarela cuma-cuma tanpa ikatan pengembalian utang",
+        "C": "Pengeluaran konsumtif habis pakai yang tidak menambah aset neraca",
+        "D": "Penerimaan yang perlu dibayar kembali atau pengeluaran diterima kembali",
+        "E": "Penyerahan santunan tunai kepada warga yang mengalami musibah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pembiayaan adalah **setiap penerimaan yang perlu dibayar kembali dan/atau pengeluaran yang akan diterima kembali**, baik pada tahun anggaran bersangkutan maupun tahun berikutnya.",
+        "alasan_kunci": "Opsi D tepat karena transaksi pembiayaan (seperti penarikan pinjaman utang atau penyertaan modal negara) bersifat perputaran modal yang memunculkan kewajiban pelunasan atau hak perolehan kembali kas negara.",
+        "bedah_pengecoh": {
+          "A": "Pungutan memaksa tanpa imbalan langsung adalah karakteristik pajak.",
+          "B": "Penerimaan sukarela cuma-cuma merupakan karakteristik penerimaan hibah.",
+          "C": "Pengeluaran konsumtif habis pakai merupakan karakteristik belanja barang.",
+          "E": "Santunan tunai musibah merupakan karakteristik bantuan sosial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "sektor perbankan dan sektor nonperbankan",
+        "dalam negeri"
+      ],
+      "topik_materi": "Dua Sektor Pembiayaan Dalam Negeri",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembiayaan dalam negeri untuk menutup defisit anggaran bersumber dari dua sektor yaitu...",
+      "pilihan": {
+        "A": "Sektor kelautan perikanan dan sektor kehutanan kayu lindung",
+        "B": "Sektor industri manufaktur berat dan sektor jasa perdagangan",
+        "C": "Sektor perkebunan kelapa sawit dan sektor pertambangan migas",
+        "D": "Sektor pariwisata perhotelan dan sektor transportasi angkutan",
+        "E": "Sektor perbankan dalam negeri dan sektor nonperbankan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pembiayaan dalam negeri adalah pembiayaan defisit yang bersumber dari dalam negeri yaitu dari **sektor perbankan dan sektor nonperbankan dalam negeri**.",
+        "alasan_kunci": "Opsi E tepat karena pasar keuangan domestik terbagi atas institusi perbankan (kredit bank/saldo kas) dan institusi non-perbankan (pasar modal/SBN, privatisasi BUMN, dan penjualan aset restrukturisasi).",
+        "bedah_pengecoh": {
+          "A": "Perikanan dan kehutanan adalah sektor sumber daya alam lingkungan.",
+          "B": "Manufaktur dan perdagangan adalah sektor industri ekonomi riil.",
+          "C": "Perkebunan dan pertambangan adalah sektor primer penghasil komoditas.",
+          "D": "Pariwisata dan transportasi adalah sektor jasa perekonomian publik."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "Pinjaman atau kredit bank, baik dari Bank Umum maupun Bank Sentral"
+      ],
+      "topik_materi": "Bentuk Pembiayaan Sektor Perbankan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembiayaan defisit yang berasal dari sektor perbankan dalam negeri dapat berupa...",
+      "pilihan": {
+        "A": "Pinjaman kredit bank umum atau bank sentral serta saldo rekening RDI",
+        "B": "Penjualan saham mayoritas perseroan terbatas terbuka di bursa",
+        "C": "Pelepasan aset tanah dan bangunan milik kementerian negara",
+        "D": "Penarikan iuran sukarela dari masyarakat di lingkungan kelurahan",
+        "E": "Penerimaan bea masuk barang kiriman melalui jasa pos logistik"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pembiayaan sektor perbankan terdiri atas: **Pinjaman atau kredit bank, baik dari Bank Umum maupun Bank Sentral** serta penggunaan saldo rekening pemerintah (RDI dan non-RDI).",
+        "alasan_kunci": "Opsi A tepat karena fasilitas kredit langsung dari sistem perbankan dan penarikan saldo dana investasi pemerintah di bank sentral/umum merupakan instrumen perbankan untuk menutup kebutuhan defisit.",
+        "bedah_pengecoh": {
+          "B": "Penjualan saham BUMN tergolong dalam pos privatisasi non-perbankan.",
+          "C": "Pelepasan aset BMN tanah masuk pos PNBP pengelolaan BMN.",
+          "D": "Iuran sukarela warga bukan instrumen pembiayaan APBN negara.",
+          "E": "Bea masuk pos adalah penerimaan perpajakan kepabeanan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "rekening dana investasi (RDI), dan rekening non-RDI"
+      ],
+      "topik_materi": "Penggunaan Saldo Rekening RDI/Non-RDI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemanfaatan saldo rekening pemerintah di perbankan dilakukan melalui penggunaan...",
+      "pilihan": {
+        "A": "Rekening tabungan perorangan milik bendahara pengeluaran satker",
+        "B": "Rekening dana investasi (RDI) dan rekening non-RDI pemerintah",
+        "C": "Rekening penampungan dana bantuan sosial di dinas kabupaten",
+        "D": "Rekening giro perbankan swasta yang mengalami pembekuan operasi",
+        "E": "Rekening cadangan devisa emas milik bank sentral luar negeri"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pembiayaan perbankan mencakup penggunaan saldo pemerintah di Bank Umum atau Bank Sentral yang berbentuk **rekening dana investasi (RDI), dan rekening non-RDI**.",
+        "alasan_kunci": "Opsi B tepat karena RDI merupakan rekening khusus yang menampung dana pengembalian pinjaman dan hasil investasi pemerintah untuk disalurkan kembali atau digunakan menutup defisit fiskal.",
+        "bedah_pengecoh": {
+          "A": "Menyimpan dana dinas di rekening perorangan bendahara melanggar hukum.",
+          "C": "Rekening bansos dinas daerah adalah rekening penyalur APBD pemda.",
+          "D": "Rekening bank beku operasi disita dan dilikuidasi oleh badan penjamin.",
+          "E": "Cadangan devisa luar negeri dikelola oleh otoritas moneter asing."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "menambah likuiditas perekonomian yang berpotensi memicu",
+        "timbulnya inflasi"
+      ],
+      "topik_materi": "Alasan Menghindari Pembiayaan Perbankan Langsung",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pinjaman pemerintah secara langsung dari sistem perbankan domestik dibatasi karena berpotensi...",
+      "pilihan": {
+        "A": "Menghambat pencairan gaji bulanan seluruh aparatur sipil negara",
+        "B": "Menurunkan harga seluruh komoditas bahan pokok pangan masyarakat",
+        "C": "Menambah likuiditas perekonomian yang memicu timbulnya inflasi",
+        "D": "Mengurangi kepemilikan modal saham badan usaha milik negara",
+        "E": "Memaksa pembekuan izin operasional seluruh bank umum nasional"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pembiayaan defisit dari perbankan dalam negeri dihindari karena dapat **menambah likuiditas perekonomian yang berpotensi memicu timbulnya inflasi**, sehingga pemerintah memilih sektor nonperbankan.",
+        "alasan_kunci": "Opsi C tepat karena monetisasi defisit melalui kredit perbankan/pencetakan uang membanjiri pasar dengan uang beredar tanpa diimbangi pertambahan barang (*too much money chasing too few goods*), yang memicu hiperinflasi.",
+        "bedah_pengecoh": {
+          "A": "Gaji ASN dibayar dari pos belanja APBN, tidak terhambat likuiditas bank.",
+          "B": "Ekspansi likuiditas justru memicu kenaikan harga (inflasi), bukan penurunan.",
+          "D": "Kredit perbankan tidak mengalihkan kepemilikan saham ekuitas BUMN.",
+          "E": "Operasional bank umum diatur terpisah oleh regulasi Otoritas Jasa Keuangan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "divestasi saham pemerintah pada berbagai badan usaha milik negara",
+        "(BUMN) atau penerimaan hasil privatisasi BUMN"
+      ],
+      "topik_materi": "Bentuk Pembiayaan Non-Perbankan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sumber pembiayaan defisit anggaran dari sektor nonperbankan dalam negeri meliputi...",
+      "pilihan": {
+        "A": "Penerimaan retribusi pelayanan kesehatan di rumah sakit daerah",
+        "B": "Penerimaan pajak pertambahan nilai penyerahan barang mewah",
+        "C": "Pungutan cukai rokok dan alkohol impor dari daerah pabean",
+        "D": "Penerimaan divestasi atau privatisasi BUMN serta penjualan aset",
+        "E": "Bantuan dana hibah langsung tanpa perjanjian dari pihak swasta"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pembiayaan sektor nonperbankan berupa **penerimaan hasil divestasi saham pemerintah pada berbagai badan usaha milik negara (BUMN) atau penerimaan hasil privatisasi BUMN, dan penjualan aset perbankan dalam rangka program restrukturisasi**.",
+        "alasan_kunci": "Opsi D tepat karena dana hasil penjualan saham BUMN dan likuidasi aset eks-BPPN masuk ke kas negara sebagai penerimaan pembiayaan non-utang yang efektif menutup defisit APBN.",
+        "bedah_pengecoh": {
+          "A": "Retribusi rumah sakit daerah adalah pendapatan asli daerah APBD.",
+          "B": "PPnBM adalah pos penerimaan perpajakan, bukan pos pembiayaan.",
+          "C": "Cukai rokok dan alkohol adalah penerimaan pajak dalam negeri.",
+          "E": "Hibah langsung tanpa perjanjian tergolong pos penerimaan hibah APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "penjualan atau pelepasan sebagian saham BUMN yang dimiliki",
+        "pemerintah kepada pihak swasta"
+      ],
+      "topik_materi": "Definisi Privatisasi BUMN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Privatisasi BUMN pada hakikatnya didefinisikan sebagai langkah pembiayaan melalui...",
+      "pilihan": {
+        "A": "Pengambilalihan paksa kepemilikan saham perusahaan swasta murni",
+        "B": "Pembelian kembali seluruh saham BUMN yang beredar di bursa efek",
+        "C": "Pemberian pinjaman dana talangan tanpa bunga kepada BUMN rugi",
+        "D": "Peleburan seluruh badan usaha milik negara menjadi satu induk BUMN",
+        "E": "Penjualan atau pelepasan sebagian saham BUMN kepada pihak swasta"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pembiayaan privatisasi BUMN yaitu **pembiayaan dari hasil penjualan atau pelepasan sebagian saham BUMN yang dimiliki pemerintah kepada pihak swasta dalam/luar negeri**.",
+        "alasan_kunci": "Opsi E tepat karena melalui initial public offering (IPO) atau strategic sales, pemerintah melepas porsi minoritas saham BUMN ke publik, menghasilkan dana segar bagi APBN sekaligus meningkatkan tata kelola BUMN (*good corporate governance*).",
+        "bedah_pengecoh": {
+          "A": "Nasionalisasi paksa swasta melanggar hukum perlindungan modal usaha.",
+          "B": "Pembelian kembali (*buyback*) saham adalah pengeluaran investasi pembiayaan.",
+          "C": "Talangan tanpa bunga menyalahi prinsip pengelolaan investasi negara.",
+          "D": "Pembentukan *holding* BUMN adalah restrukturisasi korporasi BUMN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "hak kontrol monopolistik negara terhadap BUMN tersebut",
+        "berkurang"
+      ],
+      "topik_materi": "Dampak Pelepasan Saham Privatisasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsekuensi struktural dari pelepasan sebagian saham BUMN kepada swasta adalah...",
+      "pilihan": {
+        "A": "Hak kontrol monopolistik negara terhadap BUMN tersebut berkurang",
+        "B": "Pemerintah kehilangan seluruh hak suara dalam rapat umum pemegang",
+        "C": "Status badan hukum BUMN secara otomatis berubah menjadi yayasan",
+        "D": "Seluruh aset gedung dan peralatan BUMN disita oleh pihak kreditor",
+        "E": "BUMN tersebut dibebaskan mutlak dari kewajiban pembayaran pajak"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Dengan pelepasan sebagian saham yang dimiliki pemerintah tersebut maka hak kontrol monopolistik negara terhadap BUMN tersebut berkurang**.",
+        "alasan_kunci": "Opsi A tepat karena masuknya pemegang saham publik/swasta menuntut manajemen BUMN tunduk pada transparansi pasar modal dan persaingan sehat, sehingga kendali sepihak monopoli negara berkurang.",
+        "bedah_pengecoh": {
+          "B": "Pemerintah tetap memegang saham pengendali atau saham seri A dwiwarna.",
+          "C": "BUMN privatisasi tetap berbadan hukum perseroan terbatas (PT Tbk).",
+          "D": "Penyitaan aset hanya terjadi pada kasus eksekusi pailit peradilan.",
+          "E": "BUMN privatisasi tetap berstatus wajib pajak badan yang taat pajak."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "BUMN tersebut tidak bersifat strategis"
+      ],
+      "topik_materi": "Syarat BUMN yang Boleh Diprivatisasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "BUMN yang diperkenankan untuk diprivatisasi harus memenuhi syarat mutlak yaitu...",
+      "pilihan": {
+        "A": "Menguasai seluruh cabang produksi yang penting bagi hajat hidup",
+        "B": "BUMN tersebut tidak bersifat strategis bagi pertahanan negara",
+        "C": "Mengalami kerugian operasional menahun tanpa prospek pemulihan",
+        "D": "Beroperasi khusus di bidang pengadaan senjata dan amunisi militer",
+        "E": "Memiliki monopoli tunggal atas distribusi bahan pokok makanan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kriteria BUMN yang dapat diprivatisasi adalah **BUMN tersebut tidak bersifat strategis** dan tidak menguasai hajat hidup orang banyak.",
+        "alasan_kunci": "Opsi B tepat karena konstitusi Pasal 33 UUD 1945 mengamanatkan cabang produksi strategis wajib dikuasai negara. Privatisasi hanya diizinkan untuk sektor komersial kompetitif.",
+        "bedah_pengecoh": {
+          "A": "Sektor yang menguasai hajat hidup orang banyak dilarang diprivatisasi penuh.",
+          "C": "BUMN rugi tanpa prospek sulit menarik minat investor pasar modal.",
+          "D": "Industri persenjataan militer adalah sektor strategis pertahanan vital.",
+          "E": "Distribusi bahan pangan esensial diawasi ketat oleh negara (Bulog)."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "penjualan asset",
+        "dalam rangka program restrukturisasi perbankan"
+      ],
+      "topik_materi": "Penjualan Aset Restrukturisasi Perbankan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hasil penjualan aset eks-perbankan dalam program penyehatan perbankan dimanfaatkan untuk...",
+      "pilihan": {
+        "A": "Pembayaran tunjangan hari raya bagi direksi perbankan swasta",
+        "B": "Pemberian dana hibah luar negeri bagi negara-negara berkembang",
+        "C": "Dana pembiayaan defisit anggaran dalam pendapatan belanja negara",
+        "D": "Menambah porsi belanja perjalanan dinas kementerian luar negeri",
+        "E": "Penyediaan fasilitas kredit tanpa jaminan bagi korporasi besar"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pembiayaan defisit anggaran lainnya berasal dari **hasil penjualan asset dalam rangka program restrukturisasi perbankan**.",
+        "alasan_kunci": "Opsi C tepat karena pemerintah telah mengucurkan dana talangan obligasi rekapitulasi saat krisis. Hasil pemulihan aset (asset recovery) melalui lelang disetorkan kembali untuk menutup defisit APBN.",
+        "bedah_pengecoh": {
+          "A": "Dana penyehatan tidak boleh digunakan untuk bonus direksi perbankan.",
+          "B": "Hasil penjualan aset ditujukan untuk APBN dalam negeri, bukan hibah asing.",
+          "D": "Pemulihan aset bukan untuk membiayai perjalanan dinas kementerian.",
+          "E": "Kredit perbankan wajib menerapkan prinsip kehati-hatian (*prudential banking*)."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "bank beku operasi (BBO) dan bank yang diambil alih",
+        "pengelolaannya oleh BPPN (bank take over-BTO)"
+      ],
+      "topik_materi": "Aset Bank Beku Operasi dan Bank Take Over",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Aset perbankan yang disita dan dijual pemerintah pasca krisis moneter berasal dari...",
+      "pilihan": {
+        "A": "Lembaga koperasi simpan pinjam di tingkat rukun tetangga",
+        "B": "Kantor cabang pembantu bank milik pemerintah daerah otonom",
+        "C": "Seluruh bank umum syariah yang berstatus sehat dan berizin",
+        "D": "Bank beku operasi (BBO) dan bank yang diambil alih BPPN (BTO)",
+        "E": "Unit usaha pegadaian syariah dan perusahaan pembiayaan mikro"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Aset perbankan yang dijual berasal dari **bank beku operasi (BBO) dan bank yang diambil alih pengelolaannya oleh BPPN (bank take over-BTO)** yang asetnya menjadi milik pemerintah.",
+        "alasan_kunci": "Opsi D tepat karena Badan Penyehatan Perbankan Nasional (BPPN) dibentuk untuk mengelola dan menjual aset debitur macet serta aset fisik bank bermasalah guna memulihkan keuangan negara.",
+        "bedah_pengecoh": {
+          "A": "Koperasi simpan pinjam desa berada di bawah dinas koperasi daerah.",
+          "B": "BPD yang beroperasi sehat tidak dibekukan atau diambil alih BPPN.",
+          "C": "Bank syariah yang berstatus sehat tidak disita aset kepemilikannya.",
+          "E": "Pegadaian syariah adalah entitas usaha pembiayaan gadai resmi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Mempunyai daya saing yang kuat di pasar global"
+      ],
+      "topik_materi": "Kriteria BUMN Berdaya Saing Global",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu kriteria utama BUMN yang memenuhi syarat diprivatisasi adalah...",
+      "pilihan": {
+        "A": "Beroperasi di sektor pertahanan militer senjata perang",
+        "B": "Terus menerus bergantung pada subsidi anggaran pemerintah pusat",
+        "C": "Memiliki utang jatuh tempo melebihi total seluruh asetnya",
+        "D": "Tidak memiliki laporan keuangan audit selama lima tahun",
+        "E": "Mempunyai daya saing yang kuat di pasar global"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "BUMN yang diprivatisasi adalah BUMN yang **mempunyai daya saing yang kuat di pasar global**, mempunyai nilai menarik bagi investor, serta dalam kondisi sehat dan menguntungkan.",
+        "alasan_kunci": "Opsi E tepat karena privatisasi ditujukan untuk mendorong BUMN menjadi pemain kelas dunia (*world class company*). Daya saing global menjamin saham BUMN diminati oleh pasar.",
+        "bedah_pengecoh": {
+          "A": "Industri pertahanan militer dilarang keras diprivatisasi kepada swasta.",
+          "B": "BUMN yang bergantung pada subsidi bukan target privatisasi komersial.",
+          "C": "Utang melebihi aset adalah kondisi insolvensi menuju kepailitan.",
+          "D": "Ketiadaan audit laporan keuangan melanggar aturan pasar modal."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Mempunyai nilai dan menarik bagi investor, terutama investor dalam",
+        "negeri"
+      ],
+      "topik_materi": "Kriteria Menarik Bagi Investor Domestik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dari sudut pandang pasar modal, BUMN yang diprivatisasi harus memiliki karakteristik...",
+      "pilihan": {
+        "A": "Mempunyai nilai dan menarik terutama bagi investor dalam negeri",
+        "B": "Membatasi porsi kepemilikan saham bagi masyarakat pemodal lokal",
+        "C": "Menyimpan sebagian informasi kinerja di luar laporan berkala bursa",
+        "D": "Membatasi pembagian dividen keuntungan kepada pemilik saham",
+        "E": "Memilih pencatatan saham di luar bursa efek nasional resmi"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "BUMN yang diprivatisasi harus **mempunyai nilai dan menarik bagi investor, terutama investor dalam negeri**, guna memperluas basis kepemilikan modal nasional.",
+        "alasan_kunci": "Opsi A tepat karena privatisasi diutamakan untuk memperkuat partisipasi investor domestik (termasuk dana pensiun dan reksa dana lokal) agar kepemilikan aset strategis tetap berakar kuat di tanah air.",
+        "bedah_pengecoh": {
+          "B": "Privatisasi justru membuka akses kepemilikan luas bagi investor publik.",
+          "C": "Keterbukaan informasi (*disclosure*) adalah kewajiban mutlak emiten bursa.",
+          "D": "Pembagian dividen yang sehat merupakan daya tarik utama investor.",
+          "E": "Pencatatan di Bursa Efek Indonesia adalah sarana utama privatisasi IPO."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Dalam kondisi sehat dan menguntungkan"
+      ],
+      "topik_materi": "Kriteria Kondisi Sehat dan Menguntungkan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kelayakan finansial BUMN yang diajukan dalam program privatisasi ditandai oleh...",
+      "pilihan": {
+        "A": "Kerugian kas operasional yang berulang setiap akhir tahun",
+        "B": "Kondisi keuangan perusahaan yang sehat dan menguntungkan",
+        "C": "Ketergantungan penuh pada pinjaman talangan dari perbankan",
+        "D": "Tingkat rasio kredit macet yang melampaui ambang batas aman",
+        "E": "Penurunan penjualan produk secara drastis di pasar domestik"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kriteria BUMN privatisasi mensyaratkan perusahaan berada **dalam kondisi sehat dan menguntungkan**.",
+        "alasan_kunci": "Opsi B tepat karena hanya perusahaan yang membukukan laba bersih dan memiliki prospek pertumbuhan bisnis yang baik yang dapat dijual dengan valuasi harga optimal guna mendatangkan pendapatan bagi negara.",
+        "bedah_pengecoh": {
+          "A": "Perusahaan rugi menahun harus direstrukturisasi lebih dahulu sebelum IPO.",
+          "C": "Ketergantungan pinjaman talangan menandakan kelemahan likuiditas internal.",
+          "D": "Kredit macet tinggi merusak kredibilitas dan menurunkan harga saham.",
+          "E": "Penurunan penjualan membuat saham tidak diminati oleh analis pasar modal."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Penerbitan Surat Utang Negara (SUN)"
+      ],
+      "topik_materi": "Penerbitan Surat Utang Negara (SUN)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Instrumen pembiayaan defisit yang diterbitkan pemerintah dalam rupiah dan valas adalah...",
+      "pilihan": {
+        "A": "Penerbitan surat izin usaha pertambangan umum daerah",
+        "B": "Penerbitan sertifikat deposito berjangka oleh bank swasta",
+        "C": "Penerbitan Surat Utang Negara (SUN) di pasar keuangan",
+        "D": "Penerbitan kuitansi penerimaan retribusi kebersihan pemda",
+        "E": "Penerbitan faktur pajak pertambahan nilai penyerahan barang"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Penerbitan Surat Utang Negara (SUN)** merupakan sumber pembiayaan defisit anggaran yang diterbitkan pemerintah dalam bentuk mata uang rupiah dan valuta asing.",
+        "alasan_kunci": "Opsi C tepat karena SUN (Surat Perbendaharaan Negara dan Obligasi Negara) merupakan surat pengakuan utang yang dijamin pembayaran bunga dan pokoknya oleh negara sesuai UU 24/2002.",
+        "bedah_pengecoh": {
+          "A": "Izin tambang adalah produk izin administratif, bukan instrumen utang.",
+          "B": "Sertifikat deposito bank swasta adalah produk simpanan perbankan komersial.",
+          "D": "Kuitansi retribusi adalah tanda bukti bayar PAD pemda.",
+          "E": "Faktur pajak adalah bukti pungutan PPN pengusaha kena pajak."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Resiko tingkat bunga, yaitu potensi penambahan beban bunga akibat",
+        "kenaikan suku bunga"
+      ],
+      "topik_materi": "Risiko Tingkat Bunga Penerbitan SUN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Risiko penambahan beban bunga utang akibat kenaikan suku bunga pasar disebut...",
+      "pilihan": {
+        "A": "Risiko hukum pembatalan perjanjian kontrak karya pertambangan",
+        "B": "Risiko likuiditas penarikan dana giro nasabah di bank",
+        "C": "Risiko operasional kesalahan pencatatan buku kas perbendaharaan",
+        "D": "Risiko tingkat bunga dalam penerbitan surat utang negara",
+        "E": "Risiko reputasi penurunan peringkat akreditasi rumah sakit dinas"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Penerbitan SUN mengandung **Resiko tingkat bunga, yaitu potensi penambahan beban bunga akibat kenaikan suku bunga** pasar.",
+        "alasan_kunci": "Opsi D tepat karena SUN dengan kupon mengambang (*floating rate*) atau penerbitan surat utang baru di era pengetatan moneter membebankan yield yang lebih tinggi pada belanja bunga APBN.",
+        "bedah_pengecoh": {
+          "A": "Risiko hukum pembatalan kontrak adalah risiko perdata sengketa hukum.",
+          "B": "Risiko likuiditas giro adalah risiko internal bank dalam melayani penarikan.",
+          "C": "Risiko operasional buku kas adalah risiko kesalahan tata usaha dinas.",
+          "E": "Risiko reputasi rumah sakit adalah risiko penilaian layanan medis."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Resiko pembiayaan kembali, yaitu resiko yang dihadapi pemerintah",
+        "untuk membiayai kewajiban pokok yang jatuh tempo"
+      ],
+      "topik_materi": "Risiko Pembiayaan Kembali (Refinancing Risk)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Risiko pelunasan kewajiban pokok obligasi jatuh tempo dengan biaya penerbitan baru mahal adalah...",
+      "pilihan": {
+        "A": "Risiko sengketa batas wilayah administratif antardaerah",
+        "B": "Risiko nilai tukar akibat depresiasi mata uang asing",
+        "C": "Risiko gagal serah barang pada pengadaan barang jasa",
+        "D": "Risiko kebangkrutan badan usaha milik negara penerima subsidi",
+        "E": "Risiko pembiayaan kembali (refinancing risk) surat utang"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Resiko pembiayaan kembali, yaitu resiko yang dihadapi pemerintah untuk membiayai kewajiban pokok yang jatuh tempo dari hasil penerbitan baru dengan biaya yang mahal** (*refinancing/rollover risk*).",
+        "alasan_kunci": "Opsi E tepat karena apabila kondisi pasar keuangan sedang lesu atau suku bunga global sedang melonjak, penerbitan utang baru untuk melunasi utang lama membebankan biaya bunga yang sangat tinggi bagi APBN.",
+        "bedah_pengecoh": {
+          "A": "Sengketa batas wilayah adalah urusan tata kelola pemerintahan dalam negeri.",
+          "B": "Risiko nilai tukar terjadi akibat fluktuasi kurs rupiah terhadap valas.",
+          "C": "Risiko gagal serah barang adalah risiko wanprestasi kontrak pengadaan.",
+          "D": "Risiko kebangkrutan BUMN adalah risiko solvabilitas korporasi penerima PSO."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 81,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "Pembiayaan luar negeri merupakan pembiayaan defisit anggaran yang",
+        "sumbernya berasal dari luar negeri"
+      ],
+      "topik_materi": "Definisi Pembiayaan Luar Negeri",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembiayaan luar negeri pada hakikatnya didefinisikan sebagai pembiayaan defisit yang...",
+      "pilihan": {
+        "A": "Sumber pendanaannya berasal dari pihak kreditor luar negeri",
+        "B": "Dihimpun dari penjualan surat berharga ritel di pasar domestik",
+        "C": "Berasal dari saldo kas rekening dana investasi kementerian",
+        "D": "Diperoleh dari hasil penagihan tunggakan pajak dalam negeri",
+        "E": "Disetorkan oleh wajib pajak badan usaha penanaman modal dalam"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Pembiayaan luar negeri merupakan pembiayaan defisit anggaran yang sumbernya berasal dari luar negeri**.",
+        "alasan_kunci": "Opsi A tepat karena pos ini menampung seluruh aliran masuk pinjaman luar negeri yang disepakati dengan lembaga donor internasional, negara sahabat, maupun investor global di pasar modal internasional.",
+        "bedah_pengecoh": {
+          "B": "Penjualan SBN ritel domestik adalah pembiayaan dalam negeri nonperbankan.",
+          "C": "Saldo RDI adalah komponen pembiayaan dalam negeri sektor perbankan.",
+          "D": "Tunggakan pajak masuk pos pendapatan perpajakan dalam negeri.",
+          "E": "Pajak penanaman modal adalah penerimaan perpajakan, bukan utang."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 82,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "sumber-sumber pembiayaan dalam negeri yang dapat dihimpun",
+        "masih sangat terbatas"
+      ],
+      "topik_materi": "Alasan Penarikan Pinjaman Luar Negeri",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemerintah memanfaatkan sumber pembiayaan luar negeri mengingat kondisi di mana...",
+      "pilihan": {
+        "A": "Pemerintah diwajibkan menghabiskan seluruh cadangan pinjaman dunia",
+        "B": "Sumber pembiayaan dalam negeri yang dihimpun masih terbatas",
+        "C": "Tingkat suku bunga pinjaman luar negeri selalu dipatok nol persen",
+        "D": "Pemerintah dilarang menerbitkan surat berharga negara di dalam negeri",
+        "E": "Seluruh pendapatan perpajakan dialihkan untuk membiayai belanja daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Sumber luar negeri masih diperlukan mengingat **sumber-sumber pembiayaan dalam negeri yang dapat dihimpun masih sangat terbatas menutup seluruh pengeluaran negara yang dibutuhkan**.",
+        "alasan_kunci": "Opsi B tepat karena kapasitas tabungan domestik (*domestic saving-investment gap*) belum mampu mendanai seluruh kebutuhan investasi infrastruktur skala besar, sehingga modal luar negeri ditarik secara terukur.",
+        "bedah_pengecoh": {
+          "A": "Pinjaman luar negeri ditarik selektif sesuai batas kebutuhan riil.",
+          "C": "Pinjaman luar negeri memiliki biaya bunga dan persyaratan komersial.",
+          "D": "Pemerintah sangat aktif menerbitkan SBN di pasar keuangan domestik.",
+          "E": "Pajak membiayai belanja pemerintah pusat sekaligus transfer ke daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 83,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "selisih antara penarikan",
+        "pinjaman luar negeri dengan pembayaran cicilan utang pokok luar negeri"
+      ],
+      "topik_materi": "Pembiayaan Luar Negeri Bersih",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembiayaan luar negeri bersih yang digunakan untuk menutup defisit dihitung dari...",
+      "pilihan": {
+        "A": "Jumlah pinjaman luar negeri ditambah seluruh penerimaan hibah",
+        "B": "Total seluruh penerimaan devisa ekspor dikurangi impor komoditas",
+        "C": "Selisih penarikan pinjaman dengan cicilan pokok utang luar negeri",
+        "D": "Selisih kurs valuta asing pada rekening penampungan kas negara",
+        "E": "Total cicilan pokok utang luar negeri dikurangi belanja bunga"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pembiayaan luar negeri bersih yaitu **selisih antara penarikan pinjaman luar negeri dengan pembayaran cicilan utang pokok luar negeri**.",
+        "alasan_kunci": "Opsi C tepat karena angka neto inilah yang menunjukkan tambahan dana segar riil yang masuk ke kas APBN untuk menutup defisit setelah memperhitungkan pengeluaran amortisasi cicilan utang luar negeri yang jatuh tempo.",
+        "bedah_pengecoh": {
+          "A": "Hibah adalah pos pendapatan, bukan pengurang cicilan pokok utang.",
+          "B": "Ekspor dikurangi impor adalah neraca perdagangan (*trade balance*).",
+          "D": "Selisih kurs adalah transaksi pembukuan revaluasi nilai aset kas.",
+          "E": "Cicilan pokok dan bunga adalah komponen arus kas keluar pembayaran utang."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 84,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "Pemerintah",
+        "Indonesia sejak tahun 1969, mencari sumber pembiayaan dari luar negeri"
+      ],
+      "topik_materi": "Linimasa Pinjaman Luar Negeri Sejak 1969",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemerintah Indonesia secara terencana mulai mencari pembiayaan luar negeri sejak...",
+      "pilihan": {
+        "A": "Tahun 1998 saat dimulainya krisis moneter perbankan nasional",
+        "B": "Tahun 1945 bersamaan dengan masa awal kemerdekaan nasional",
+        "C": "Tahun 1983 pada saat momentum reformasi perpajakan modern",
+        "D": "Tahun 1969 terutama untuk pembiayaan kegiatan pembangunan",
+        "E": "Tahun 2004 setelah pengesahan undang-undang perbendaharaan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Pemerintah Indonesia sejak tahun 1969, mencari sumber pembiayaan dari luar negeri dalam bentuk pinjaman** terutama untuk pembiayaan pembangunan (awal Repelita I).",
+        "alasan_kunci": "Opsi D tepat karena pada awal era pembangunan lima tahunan (1969), penerimaan domestik sangat minim sehingga pemerintah menjalin kerja sama pinjaman pembangunan jangka panjang dengan negara donor.",
+        "bedah_pengecoh": {
+          "A": "Tahun 1998 adalah puncak krisis ekonomi dan restrukturisasi utang.",
+          "B": "Tahun 1945 belum ada program pinjaman pembangunan terencana luar negeri.",
+          "C": "Tahun 1983 adalah era reformasi perpajakan nasional (tax reform).",
+          "E": "Tahun 2004 adalah momentum pembaruan paket perbendaharaan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 85,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "Pinjaman Program dan Pinjaman Proyek"
+      ],
+      "topik_materi": "Dua Macam Pinjaman Luar Negeri",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pinjaman luar negeri pemerintah pada garis besarnya terbagi atas dua macam yaitu...",
+      "pilihan": {
+        "A": "Pinjaman jangka sangat pendek dan dana talangan kas operasional",
+        "B": "Pinjaman komersial berbunga harian dan pinjaman gadai berjangka",
+        "C": "Pinjaman obligasi daerah dan kredit likuiditas bank sentral",
+        "D": "Pinjaman modal kerja industri swasta dan kredit konsumsi ritel",
+        "E": "Pinjaman Program dan Pinjaman Proyek dari kreditor luar negeri"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pinjaman luar negeri pada garis besarnya ada dua macam yaitu **Pinjaman Program dan Pinjaman Proyek**.",
+        "alasan_kunci": "Opsi E tepat karena klasifikasi ini membedakan pinjaman tunai untuk mendukung reformasi kebijakan anggaran (program) dengan pinjaman barang/jasa untuk mendanai fisik proyek infrastruktur tertentu (proyek).",
+        "bedah_pengecoh": {
+          "A": "Dana talangan kas operasional dikelola melalui rekening perbendaharaan.",
+          "B": "Pinjaman harian dan gadai adalah instrumen kredit perorangan.",
+          "C": "Obligasi daerah dan kredit bank sentral adalah pinjaman domestik.",
+          "D": "Kredit modal swasta dan konsumsi ritel adalah kredit perbankan komersial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 86,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "diberikan dalam bentuk bahan pangan",
+        "seperti beras, terigu"
+      ],
+      "topik_materi": "Evolusi Pinjaman Program Era Awal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada masa awal pelaksanaannya, Pinjaman Program diterima pemerintah dalam bentuk...",
+      "pilihan": {
+        "A": "Bahan pangan seperti komoditas beras, terigu, dan sejenisnya",
+        "B": "Mata uang emas batangan simpanan cadangan bank sentral",
+        "C": "Peralatan mesin berat pengeboran minyak lepas pantai",
+        "D": "Sertifikat saham kepemilikan korporasi industri multinasional",
+        "E": "Tenaga ahli konsultan manajemen keuangan luar negeri"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pada mulanya **Pinjaman Program diberikan dalam bentuk bahan pangan seperti beras, terigu dan sejenisnya**; kemudian berkembang menjadi bentuk uang/devisa yang dapat dirupiahkan.",
+        "alasan_kunci": "Opsi A tepat karena pada awal Repelita Indonesia masih mengalami kerawanan pangan. Bantuan pangan luar negeri dijual di dalam negeri dan hasilnya (dana tandingan) digunakan membiayai anggaran pembangunan.",
+        "bedah_pengecoh": {
+          "B": "Pinjaman program tidak disalurkan dalam bentuk emas batangan fisik.",
+          "C": "Peralatan mesin pengeboran disalurkan melalui skema pinjaman proyek.",
+          "D": "Sertifikat saham bukan bentuk bantuan pinjaman program pemerintah.",
+          "E": "Tenaga ahli disediakan dalam kerangka pinjaman proyek atau hibah teknis."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 87,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "peralatan proyek dan tenaga",
+        "ahli yang diperlukan proyek yang bersangkutan"
+      ],
+      "topik_materi": "Bentuk Penyaluran Pinjaman Proyek",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karakteristik penyaluran Pinjaman Proyek adalah bantuan yang diterima dalam bentuk...",
+      "pilihan": {
+        "A": "Uang tunai devisa yang bebas dibelanjakan untuk belanja pegawai",
+        "B": "Peralatan proyek dan tenaga ahli yang diperlukan proyek bersangkutan",
+        "C": "Komoditas bahan makanan pokok beras impor untuk konsumsi dinas",
+        "D": "Surat utang komersial yang diperdagangkan di pasar bursa saham",
+        "E": "Cadangan kas darurat yang disimpan di brankas kantor satker"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pinjaman Proyek adalah pinjaman untuk membiayai proyek Pemerintah yang diterima bukan dalam bentuk devisa tetapi **dalam bentuk peralatan proyek dan tenaga ahli yang diperlukan proyek yang bersangkutan**.",
+        "alasan_kunci": "Opsi B tepat karena pinjaman proyek terikat langsung pada fisik pekerjaan proyek tertentu (misalnya pembangunan PLTA atau jalan tol). Kreditor mencairkan dana langsung kepada vendor penyedia alat dan konsultan proyek.",
+        "bedah_pengecoh": {
+          "A": "Uang tunai devisa bebas adalah karakteristik pinjaman program.",
+          "C": "Bahan makanan pokok beras adalah bentuk pinjaman program era awal.",
+          "D": "Surat utang komersial adalah instrumen pasar modal obligasi.",
+          "E": "Dana pinjaman proyek tidak disimpan di brankas kantor satker."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 88,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "kelompok pemberi pinjaman",
+        "kepada Indonesia (misalnya, CGI)"
+      ],
+      "topik_materi": "Konsorsium Pemberi Pinjaman Luar Negeri (CGI)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu wadah kelompok konsorsium negara pemberi pinjaman kepada Indonesia adalah...",
+      "pilihan": {
+        "A": "Aliansi pertahanan militer keamanan negara kawasan pasifik",
+        "B": "Organisasi federasi serikat pekerja buruh manufaktur global",
+        "C": "Kelompok konsorsium Consultative Group on Indonesia (CGI)",
+        "D": "Asosiasi lembaga pemeringkat kredit perbankan internasional",
+        "E": "Komite penentu tarif pajak pertambahan nilai antarnegara"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Bantuan luar negeri disalurkan dalam kerangka **kelompok pemberi pinjaman kepada Indonesia (misalnya, CGI)** di samping bantuan yang bersifat bilateral.",
+        "alasan_kunci": "Opsi C tepat karena CGI (menggantikan IGGI) merupakan konsorsium negara-negara donor dan lembaga multilateral (Bank Dunia, ADB) yang rutin mengoordinasikan komitmen pinjaman pembangunan bagi Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Aliansi militer mengurusi pakta pertahanan, bukan konsorsium pinjaman.",
+          "B": "Serikat buruh global adalah organisasi pekerja, bukan lembaga pemberi pinjaman.",
+          "D": "Lembaga pemeringkat menilai risiko kredit, bukan penyedia pinjaman anggaran.",
+          "E": "Komite pajak internasional tidak menyalurkan pinjaman pembiayaan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 89,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "menjual obligasi Indonesia di pasar",
+        "modal internasional"
+      ],
+      "topik_materi": "Penjualan Obligasi di Pasar Modal Internasional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain pinjaman resmi bilateral/multilateral, pemerintah menghimpun pembiayaan dengan...",
+      "pilihan": {
+        "A": "Menjual pulau-pulau terluar wilayah perbatasan kedaulatan negara",
+        "B": "Menyita aset perusahaan swasta asing yang beroperasi lokal",
+        "C": "Mengajukan pinjaman bunga tinggi kepada rentenir keuangan luar",
+        "D": "Menjual obligasi pemerintah di pasar modal internasional",
+        "E": "Menghapuskan hak otonomi daerah bagi seluruh provinsi perbatasan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pemerintah melaksanakan kebijaksanaan **mengusahakan untuk memperoleh bantuan luar negeri dengan cara menjual obligasi Indonesia di pasar modal internasional** (misalnya di pasar modal Jepang).",
+        "alasan_kunci": "Opsi D tepat karena penerbitan Global Bond (seperti Samurai Bond di Jepang atau Sukuk Global) menjangkau investor institusi internasional di pasar modal dunia dengan persyaratan yang transparan dan kompetitif.",
+        "bedah_pengecoh": {
+          "A": "Wilayah kedaulatan negara tidak boleh diperjualbelikan demi alasan apa pun.",
+          "B": "Menyita aset swasta asing melanggar hukum perlindungan investasi internasional.",
+          "C": "Pemerintah dilarang meminjam dana pada rentenir non-institusi.",
+          "E": "Otonomi daerah dilindungi oleh konstitusi undang-undang dasar."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 90,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "pinjaman komersil karena syarat-syarat",
+        "pinjaman ini sesuai dengan persyaratan yang berlaku"
+      ],
+      "topik_materi": "Karakter Pinjaman Komersil Pasar Modal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pinjaman melalui penerbitan obligasi di pasar internasional dinamakan pinjaman komersil karena...",
+      "pilihan": {
+        "A": "Dikelola oleh lembaga perbankan swasta tanpa pengawasan kementerian",
+        "B": "Diberikan secara sukarela cuma-cuma tanpa kewajiban bayar bunga",
+        "C": "Pencairannya mensyaratkan izin dari menteri perdagangan negara donor",
+        "D": "Dikhususkan untuk membiayai unit usaha perdagangan eceran",
+        "E": "Syarat-syarat pinjamannya mengikuti ketentuan pasar modal internasional"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pinjaman obligasi luar negeri dinamakan **pinjaman komersil karena syarat-syarat pinjaman ini sesuai dengan persyaratan yang berlaku di pasar modal internasional**.",
+        "alasan_kunci": "Opsi E tepat karena tingkat suku bunga, tenor, dan tata cara perdagangan obligasi komersil mengikuti mekanisme penawaran dan permintaan pasar modal global tanpa persyaratan politis atau ikatan proyek tertentu.",
+        "bedah_pengecoh": {
+          "A": "Pengelolaan utang obligasi diawasi ketat oleh Direktorat Jenderal PPR.",
+          "B": "Pinjaman komersil berbunga pasar, bukan bantuan hibah cuma-cuma.",
+          "C": "Obligasi komersil tunduk pada aturan bursa efek, bukan izin kemendag donor.",
+          "D": "Dana obligasi digunakan untuk menutup defisit APBN, bukan eceran swasta."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 91,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "membayar bunga dan cicilan",
+        "utang pokok (amortisasi)"
+      ],
+      "topik_materi": "Kewajiban Pembayaran Amortisasi dan Bunga",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sesuai isi perjanjian pinjaman, setiap tahun anggaran pemerintah berkewajiban...",
+      "pilihan": {
+        "A": "Membayar bunga dan cicilan utang pokok secara tepat waktu",
+        "B": "Mengajukan permohonan pembebasan utang tanpa persetujuan donor",
+        "C": "Mengalihkan kewajiban pelunasan utang kepada pemerintah daerah",
+        "D": "Menunda pembayaran amortisasi hingga batas waktu pergantian kabinet",
+        "E": "Membayar cicilan menggunakan cadangan komoditas pangan mentah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Sesuai dengan isi perjanjian pinjaman maka setiap tahun Indonesia harus **membayar bunga dan cicilan utang pokok (amortisasi)**.",
+        "alasan_kunci": "Opsi A tepat karena kepatuhan pembayaran kewajiban bunga dan amortisasi cicilan pokok merupakan kunci menjaga reputasi kedaulatan kredit (*sovereign credit rating*) Indonesia di mata lembaga keuangan dunia.",
+        "bedah_pengecoh": {
+          "B": "Permohonan pembebasan tanpa persetujuan merusak peringkat utang dan memicu wanprestasi.",
+          "C": "Utang luar negeri pemerintah pusat merupakan tanggung jawab APBN pusat.",
+          "D": "Jadwal amortisasi bersifat kontraktual dan tidak boleh ditunda tanpa kesepakatan.",
+          "E": "Pelunasan utang luar negeri wajib dalam mata uang valuta asing yang disepakati."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 92,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "Debt Service Ratio (DSR)"
+      ],
+      "topik_materi": "Indikator Debt Service Ratio (DSR)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Indikator kemampuan suatu negara dalam melunasi kewajiban utang luar negeri adalah...",
+      "pilihan": {
+        "A": "Return on Investment pada pengelolaan belanja modal dinas",
+        "B": "Debt Service Ratio (DSR) pada neraca pembayaran negara",
+        "C": "Current Ratio pada likuiditas kas operasional bendahara",
+        "D": "Net Profit Margin pada badan usaha milik swasta daerah",
+        "E": "Capital Adequacy Ratio pada lembaga perbankan komersial"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Jumlah pembayaran cicilan dan bunga utang sangat berkaitan erat dengan besar kecilnya **Debt Service Ratio (DSR)**.",
+        "alasan_kunci": "Opsi B tepat karena DSR merupakan indikator makroekonomi standar internasional untuk mengukur beban kewajiban layanan utang luar negeri terhadap kapasitas perolehan devisa ekspor negara.",
+        "bedah_pengecoh": {
+          "A": "ROI adalah rasio profitabilitas investasi modal perusahaan.",
+          "C": "Current ratio adalah rasio likuiditas jangka pendek neraca korporasi.",
+          "D": "NPM adalah persentase laba bersih dari total penjualan bisnis.",
+          "E": "CAR adalah rasio kecukupan modal institusi perbankan regulasi BI/OJK."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 93,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "ratio antara",
+        "Angsuran plus Bunga Pinjaman dengan Net Ekspor Migas plus Non Migas"
+      ],
+      "topik_materi": "Formula Perhitungan DSR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Debt Service Ratio (DSR) secara matematis menunjukkan perbandingan rasio antara...",
+      "pilihan": {
+        "A": "Jumlah utang luar negeri dengan total cadangan devisa emas",
+        "B": "Total penerimaan perpajakan dengan total belanja pegawai pusat",
+        "C": "Angsuran plus bunga pinjaman dengan net ekspor migas dan nonmigas",
+        "D": "Belanja operasional kementerian dengan transfer dana desa",
+        "E": "Penerimaan deviden BUMN dengan subsidi energi listrik nasional"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**DSR menunjukkan ratio antara Angsuran plus Bunga Pinjaman dengan Net Ekspor Migas plus Non Migas**.",
+        "alasan_kunci": "Opsi C tepat karena kemampuan membayar utang luar negeri bertumpu pada perolehan devisa neto dari ekspor barang dan jasa. Formula ini membandingkan beban pembayaran tahunan dengan pasokan devisa ekspor.",
+        "bedah_pengecoh": {
+          "A": "Utang dibanding devisa adalah rasio kecukupan cadangan devisa moneter.",
+          "B": "Pajak dibanding belanja pegawai adalah rasio rigiditas belanja APBN.",
+          "D": "Belanja pusat dibanding transfer desa adalah rasio alokasi desentralisasi.",
+          "E": "Dividen BUMN dibanding subsidi adalah rasio pos fiskal tersendiri."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 94,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "Makin besar ratio itu berarti makin menyulitkan negara yang bersangkutan"
+      ],
+      "topik_materi": "Dampak Kenaikan Rasio DSR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Implikasi fiskal apabila angka Debt Service Ratio (DSR) semakin meningkat adalah...",
+      "pilihan": {
+        "A": "Menurunkan risiko nilai tukar rupiah terhadap valuta asing global",
+        "B": "Makin mempermudah pemerintah dalam menarik pinjaman lunak baru",
+        "C": "Meningkatkan kemampuan pembiayaan belanja bantuan sosial daerah",
+        "D": "Makin menyulitkan posisi keuangan dan beban anggaran negara",
+        "E": "Menyebabkan surplus anggaran pendapatan negara meningkat drastis"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Makin besar ratio itu berarti makin menyulitkan negara yang bersangkutan**, karena porsi devisa hasil ekspor yang terserap untuk membayar utang semakin besar.",
+        "alasan_kunci": "Opsi D tepat karena tingginya DSR mengindikasikan sebagian besar devisa hasil ekspor habis tersedot hanya untuk melunasi cicilan dan bunga utang, menyisakan sedikit devisa untuk impor barang modal pembangunan.",
+        "bedah_pengecoh": {
+          "A": "DSR tinggi memperlemah cadangan devisa dan menekan kurs rupiah.",
+          "B": "DSR tinggi menurunkan peringkat kredit dan mempersulit penarikan utang baru.",
+          "C": "Beban cicilan yang besar justru memangkas alokasi belanja sosial.",
+          "E": "DSR tinggi adalah beban pengeluaran pembiayaan, bukan penambah surplus."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 95,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "pinjaman luar negeri netto pada tahun yang bersangkutan",
+        "yang merupakan sumber pembiayaan defisit anggaran"
+      ],
+      "topik_materi": "Pinjaman Luar Negeri Netto Penutup Defisit",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sumber pembiayaan luar negeri yang riil menutup defisit anggaran dihitung dari...",
+      "pilihan": {
+        "A": "Jumlah devisa hibah yang belum dicairkan oleh lembaga donor asing",
+        "B": "Seluruh komitmen pinjaman yang tercantum dalam naskah perjanjian",
+        "C": "Pagu maksimal pinjaman luar negeri yang diusulkan oleh Bappenas",
+        "D": "Estimasi bunga pinjaman luar negeri yang akan jatuh tempo nanti",
+        "E": "Pinjaman luar negeri netto setelah dikurangi pembayaran cicilan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Selisih antara jumlah penarikan pinjaman dengan cicilan utang luar negeri merupakan **jumlah pinjaman luar negeri netto pada tahun yang bersangkutan yang merupakan sumber pembiayaan defisit anggaran**.",
+        "alasan_kunci": "Opsi E tepat karena pembiayaan defisit memperhitungkan arus kas masuk bersih (*net financing*). Penarikan kotor (*gross disbursement*) yang dikurangi amortisasi menghasilkan likuiditas penutup defisit belanja.",
+        "bedah_pengecoh": {
+          "A": "Devisa hibah yang belum cair tidak dapat menutup defisit kas berjalan.",
+          "B": "Komitmen pinjaman adalah plafon perjanjian, bukan pencairan riil.",
+          "C": "Usulan Bappenas adalah perencanaan alokasi, bukan realisasi kas.",
+          "D": "Estimasi bunga adalah kewajiban belanja bunga, bukan pinjaman netto."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 96,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "Mulai tahun anggaran 2000 pemerintah berkomitmen untuk mengurangi",
+        "peranan pinjaman luar negeri"
+      ],
+      "topik_materi": "Komitmen Tahun 2000 Mengurangi Utang Luar Negeri",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Komitmen kebijakan fiskal yang dicanangkan pemerintah sejak tahun anggaran 2000 adalah...",
+      "pilihan": {
+        "A": "Mengurangi peranan pinjaman luar negeri dalam pembiayaan APBN",
+        "B": "Menghentikan seluruh pemungutan pajak pertambahan nilai barang",
+        "C": "Menghapuskan keterlibatan investor swasta dalam penerbitan obligasi",
+        "D": "Meningkatkan rasio stok utang pemerintah hingga seratus persen PDB",
+        "E": "Memusatkan seluruh penarikan pinjaman melalui kredit bank sentral"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Mulai tahun anggaran 2000 pemerintah berkomitmen untuk mengurangi peranan pinjaman luar negeri sebagai sumber pembiayaan anggaran negara**.",
+        "alasan_kunci": "Opsi A tepat karena pelajaran dari krisis moneter 1998 mendorong pemerintah membangun kemandirian fiskal. Pemerintah menggeser fokus pembiayaan ke pasar modal domestik melalui Surat Berharga Negara (SBN).",
+        "bedah_pengecoh": {
+          "B": "Pajak pertambahan nilai justru terus dioptimalkan penerimaannya.",
+          "C": "Investor swasta dan publik domestik sangat didorong membeli obligasi SUN.",
+          "D": "UU Keuangan Negara membatasi rasio utang maksimal 60% dari PDB.",
+          "E": "Pinjaman langsung bank sentral dihindari untuk mencegah inflasi likuiditas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 97,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "penggunaannya akan diupayakan secara optimal dalam kegiatan",
+        "ekonomi produktif"
+      ],
+      "topik_materi": "Pemanfaatan Utang untuk Kegiatan Produktif",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam tata kelola pembiayaan, penggunaan pinjaman luar negeri secara optimal diarahkan pada...",
+      "pilihan": {
+        "A": "Pembiayaan belanja konsumtif rutin operasional aparatur kantor",
+        "B": "Kegiatan ekonomi produktif yang menghasilkan nilai tambah",
+        "C": "Pembayaran tunjangan hari raya dan bonus tahunan pejabat dinas",
+        "D": "Penyelenggaraan jamuan makan malam resmi perwakilan diplomatik",
+        "E": "Pengadaan cinderamata promosi pariwisata daerah di luar negeri"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Penggunaan pinjaman luar negeri **akan diupayakan secara optimal dalam kegiatan ekonomi produktif**.",
+        "alasan_kunci": "Opsi B tepat karena kaidah pengelolaan utang yang sehat (*golden rule of fiscal policy*) mengharuskan setiap rupiah utang menghasilkan aset atau kapasitas ekonomi produktif yang kelak mampu membiayai pelunasan utang tersebut.",
+        "bedah_pengecoh": {
+          "A": "Belanja konsumtif rutin wajib dibiayai dari penerimaan pendapatan negara.",
+          "C": "Bonus dan THR dibiayai dari pos belanja pegawai APBN.",
+          "D": "Jamuan diplomatik dibiayai dari belanja barang operasional kementerian.",
+          "E": "Cinderamata pariwisata adalah pos belanja barang promosi dinas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 98,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "dilaksanakan secara transparan, efektif, dan efisien"
+      ],
+      "topik_materi": "Prinsip Transparan, Efektif, Efisien Pengelolaan Utang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan penarikan dan pemanfaatan pinjaman luar negeri wajib berlandaskan asas...",
+      "pilihan": {
+        "A": "Memberikan hak konsesi pertambangan eksklusif kepada kreditor luar",
+        "B": "Rahasia, fleksibel, menguntungkan kreditor, dan bebas pemeriksaan",
+        "C": "Transparan, efektif, dan efisien dalam mendukung pembangunan",
+        "D": "Menempatkan penasihat militer asing pada unit pengelolaan kasir",
+        "E": "Meniadakan pencatatan dokumen perjanjian pada buku perbendaharaan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pemanfaatan pinjaman luar negeri wajib **dilaksanakan secara transparan, efektif, dan efisien**.",
+        "alasan_kunci": "Opsi C tepat karena transparansi pengelolaan utang menjamin akuntabilitas kepada publik dan parlemen. Efektivitas dan efisiensi menjamin dana pinjaman terserap tepat sasaran tanpa kebocoran anggaran.",
+        "bedah_pengecoh": {
+          "A": "Pinjaman luar negeri dilarang mengorbankan kedaulatan tambang nasional.",
+          "B": "Pengelolaan utang terbuka dan wajib diaudit secara rutin oleh BPK.",
+          "D": "Penasihat militer asing melanggar kedaulatan pertahanan negara Republik.",
+          "E": "Seluruh naskah perjanjian utang wajib dibukukan resmi dalam DMFAS Kemenkeu."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 99,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "sumber pembiayaan defisit anggaran"
+      ],
+      "topik_materi": "Fungsi Pembiayaan Menutup Defisit",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kedudukan pokok instrumen pinjaman dalam sistem APBN adalah berfungsi sebagai...",
+      "pilihan": {
+        "A": "Instrumen pembebasan kewajiban audit fungsional aparat pemeriksa",
+        "B": "Sumber pendapatan perpajakan tetap tahunan kementerian negara",
+        "C": "Pos pengeluaran belanja operasional pegawai dinas perbendaharaan",
+        "D": "Sumber pembiayaan defisit anggaran pendapatan dan belanja negara",
+        "E": "Sarana penjaminan likuiditas operasional badan perbankan swasta"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pinjaman luar negeri netto berfungsi sebagai **sumber pembiayaan defisit anggaran**.",
+        "alasan_kunci": "Opsi D tepat karena pinjaman bukan pos pendapatan melainkan instrumen penyeimbang (*balancing item*) pada pos pembiayaan yang bertugas menutup kesenjangan antara total belanja dengan total pendapatan negara.",
+        "bedah_pengecoh": {
+          "A": "Pengelolaan utang tetap wajib diperiksa dan diaudit oleh BPK.",
+          "B": "Pinjaman bukan penerimaan pajak karena menimbulkan kewajiban pelunasan.",
+          "C": "Pinjaman adalah aliran kas masuk pembiayaan, bukan pos belanja dinas.",
+          "E": "Penjaminan likuiditas perbankan swasta adalah wewenang LPS dan BI."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 100,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "mengurangi",
+        "peranan pinjaman luar negeri sebagai sumber pembiayaan anggaran negara"
+      ],
+      "topik_materi": "Kemandirian Fiskal dan Reduksi Ketergantungan Utang Luar Negeri",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Arah kebijakan jangka panjang pengelolaan utang pemerintah bermuara pada komitmen...",
+      "pilihan": {
+        "A": "Menghapus seluruh alokasi dana transfer ke daerah dan dana desa",
+        "B": "Menghentikan seluruh investasi infrastruktur fisik strategis nasional",
+        "C": "Menggantungkan seluruh belanja negara pada bantuan lembaga donor asing",
+        "D": "Membatasi penerimaan pajak penghasilan dari dunia usaha manufaktur",
+        "E": "Mengurangi peranan pinjaman luar negeri sebagai pembiayaan anggaran"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pemerintah berkomitmen untuk **mengurangi peranan pinjaman luar negeri sebagai sumber pembiayaan anggaran negara** demi menjaga kesinambungan dan kemandirian fiskal bangsa.",
+        "alasan_kunci": "Opsi E tepat karena kemandirian fiskal menjauhkan perekonomian nasional dari kerentanan gejolak geopolitik global dan risiko fluktuasi kurs mata uang asing, sehingga APBN menjadi instrumen peredam kejut (*shock absorber*) yang mandiri.",
+        "bedah_pengecoh": {
+          "A": "Transfer ke daerah dan dana desa tetap menjadi komitmen pemerataan wilayah.",
+          "B": "Investasi infrastruktur tetap digenjot melalui pembiayaan kreatif mandiri.",
+          "C": "Ketergantungan donor asing bertentangan dengan komitmen kedaulatan fiskal.",
+          "D": "Penerimaan pajak justru terus diperkuat sebagai tulang punggung pendapatan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2992 @@
+{
+  "paket_nomor": 3,
+  "dokumen_sumber": "4. Pengelolaan Keuangan Negara.pdf",
+  "rentang_halaman": "Halaman 28 s/d Halaman 40",
+  "jumlah_soal": 100,
+  "distribusi_kunci": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20,
+    "E": 20
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "Pengelolaan APBN secara keseluruhan dilakukan melalui:",
+        "1.Perencanaan APBN"
+      ],
+      "topik_materi": "Tahap Awal Siklus APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tahap paling awal dalam rangkaian siklus pengelolaan APBN secara keseluruhan diawali dengan...",
+      "pilihan": {
+        "A": "Tahap perencanaan dan penganggaran APBN",
+        "B": "Tahap pencairan dana langsung kepada rekanan",
+        "C": "Tahap audit investigasi oleh lembaga pemeriksa",
+        "D": "Tahap penyusunan laporan keuangan pemerintah pusat",
+        "E": "Tahap pemungutan suara penolakan oleh fraksi"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pengelolaan APBN secara keseluruhan dilakukan melalui 7 tahapan yang diawali dengan **1. Perencanaan APBN**.",
+        "alasan_kunci": "Opsi A tepat karena perencanaan merupakan fondasi awal penentuan arah kebijakan makro dan prioritas belanja sebelum dituangkan ke dokumen anggaran. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Pencairan dana dilakukan pada tahap pelaksanaan anggaran.",
+          "C": "Audit investigasi dilakukan pada tahap pemeriksaan akhir.",
+          "D": "Penyusunan LKPP dilakukan pada tahap pelaporan dan pencatatan.",
+          "E": "Pemungutan suara merupakan dinamika tahap pembahasan di DPR."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "3.Pembahasan APBN",
+        "4.Penetapan APBN"
+      ],
+      "topik_materi": "Urutan Pembahasan dan Penetapan APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah tahapan penyusunan rancangan anggaran selesai, dua tahapan berurutan berikutnya dalam siklus APBN adalah...",
+      "pilihan": {
+        "A": "Pemeriksaan keuangan daerah kemudian Pelaporan BPK",
+        "B": "Pembahasan APBN bersama DPR kemudian Penetapan APBN",
+        "C": "Penerbitan surat utang komersial kemudian Likuidasi kas",
+        "D": "Pencairan pinjaman luar negeri kemudian Restrukturisasi bank",
+        "E": "Penyerahan aset kepada swasta kemudian Audit investigatif"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Urutan siklus pengelolaan APBN setelah penyusunan adalah **3. Pembahasan APBN dan 4. Penetapan APBN**.",
+        "alasan_kunci": "Opsi B tepat karena rancangan anggaran wajib dibahas bersama dewan legislatif untuk memperoleh persetujuan sebelum ditetapkan menjadi undang-undang resmi. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pemeriksaan keuangan daerah bukan tahapan inti penetapan APBN pusat.",
+          "C": "Penerbitan utang adalah mekanisme pembiayaan pada tahap pelaksanaan.",
+          "D": "Restrukturisasi bank bukan tahapan siklus anggaran reguler.",
+          "E": "Penyerahan aset kepada swasta bukan tahapan dalam siklus APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "5.Pelaksanaan APBN",
+        "6.Pelaporan dan Pencatatan APBN"
+      ],
+      "topik_materi": "Tahap Pelaksanaan dan Pelaporan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam siklus APBN, kegiatan pembukuan transaksi keuangan yang berjalan seiring dengan realisasi belanja berada pada tahap...",
+      "pilihan": {
+        "A": "Pembahasan alokasi pagu indikatif pada komisi parlemen",
+        "B": "Perencanaan strategis dan penentuan batas defisit",
+        "C": "Pelaksanaan APBN serta Pelaporan dan Pencatatan APBN",
+        "D": "Pengesahan nota keuangan oleh majelis permusyawaratan",
+        "E": "Pemberian opini wajar tanpa pengecualian oleh auditor"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Tahap kelima dan keenam dalam siklus APBN adalah **5. Pelaksanaan APBN dan 6. Pelaporan dan Pencatatan APBN**.",
+        "alasan_kunci": "Opsi C tepat karena saat anggaran dibelanjakan (pelaksanaan), seluruh aliran kas masuk dan keluar dicatat secara akrual dalam sistem akuntansi (pelaporan). Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pembahasan komisi merupakan tahap legislasi politik anggaran.",
+          "B": "Perencanaan strategis mendahului tahun pelaksanaan anggaran.",
+          "D": "Nota keuangan disahkan oleh Presiden dan DPR, bukan MPR.",
+          "E": "Opini audit diberikan pada tahap akhir pemeriksaan BPK."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "7.Pemeriksaan dan Pertanggungjawaban APBN",
+        "Pengelolaan APBN secara keseluruhan dilakukan melalui:"
+      ],
+      "topik_materi": "Tahap Penutup Siklus APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tahap penutup dalam satu rangkaian siklus utuh pengelolaan APBN ditandai oleh...",
+      "pilihan": {
+        "A": "Penetapan pagu belanja dinas lima tahun berikutnya",
+        "B": "Penandatanganan nota kesepahaman pinjaman perbankan baru",
+        "C": "Pelelangan seluruh sisa persediaan barang dinas kantor",
+        "D": "Pemeriksaan oleh BPK dan pertanggungjawaban kepada DPR",
+        "E": "Pembagian sisa lebih pembiayaan anggaran kepada kementerian"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Tahap terakhir dalam siklus pengelolaan APBN adalah **7. Pemeriksaan dan Pertanggungjawaban APBN**.",
+        "alasan_kunci": "Opsi D tepat karena akuntabilitas publik menuntut hasil audit eksternal disampaikan kepada parlemen dalam bentuk RUU Pertanggungjawaban Pelaksanaan APBN. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Penetapan pagu lima tahunan adalah dokumen perencanaan RPJM.",
+          "B": "Pinjaman baru merupakan bagian dari siklus anggaran tahun berjalan.",
+          "C": "Pelelangan sisa barang merupakan tata kelola barang milik negara.",
+          "E": "SiLPA dibukukan kembali ke kas negara, bukan dibagi ke kementerian."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Tahap perencanaan dan penganggaran dimulai pada awal tahun sebelum tahun",
+        "anggaran dilaksanakan."
+      ],
+      "topik_materi": "Waktu Dimulainya Perencanaan APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tahap perencanaan dan penganggaran APBN untuk suatu tahun anggaran secara resmi dimulai pada...",
+      "pilihan": {
+        "A": "Setelah laporan hasil pemeriksaan audit diserahkan BPK",
+        "B": "Akhir bulan Desember pada saat penutupan buku tahun berjalan",
+        "C": "Pertengahan tahun anggaran berkenaan saat realisasi belanja",
+        "D": "Tepat tanggal satu Januari saat dokumen DIPA disahkan",
+        "E": "Awal tahun sebelum tahun anggaran yang bersangkutan dilaksanakan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Tahap perencanaan dan penganggaran dimulai pada awal tahun sebelum tahun anggaran dilaksanakan (t-1)**.",
+        "alasan_kunci": "Opsi E tepat karena penyusunan anggaran membutuhkan waktu persiapan sepanjang satu tahun sebelum tahun eksekusi anggaran dimulai. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Penyerahan hasil audit BPK terjadi setelah tahun anggaran berakhir.",
+          "B": "Akhir Desember adalah masa penutupan buku anggaran berjalan.",
+          "C": "Pertengahan tahun anggaran adalah jadwal evaluasi semester satu.",
+          "D": "Tanggal satu Januari adalah awal masa berlaku DIPA tahun berjalan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "diawali dengan presiden menyampaikan",
+        "arah kebijakan untuk satu tahun ke depan pada sidang kabinet."
+      ],
+      "topik_materi": "Inisiasi Arah Kebijakan oleh Presiden",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Inisiasi awal proses perencanaan APBN diawali dengan agenda Presiden yang menyampaikan...",
+      "pilihan": {
+        "A": "Arah kebijakan untuk satu tahun ke depan pada sidang kabinet",
+        "B": "Daftar pemenang lelang tender proyek infrastruktur nasional",
+        "C": "Vonis sanksi disiplin bagi pimpinan kementerian yang lalai",
+        "D": "Instruksi penarikan pinjaman komersial luar negeri baru",
+        "E": "Penetapan batas minimum saldo tabungan nasabah perbankan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Tahap perencanaan **diawali dengan presiden menyampaikan arah kebijakan untuk satu tahun ke depan pada sidang kabinet**.",
+        "alasan_kunci": "Opsi A tepat karena arahan Presiden pada sidang kabinet menjadi rujukan tunggal bagi kementerian dalam menyusun prioritas dan sasaran kerja nasional. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Pemenang lelang proyek ditetapkan oleh pokja pemilihan penyedia.",
+          "C": "Sanksi disiplin aparatur diproses melalui majelis penegakan kode etik.",
+          "D": "Pinjaman luar negeri dirumuskan melalui analisis kesinambungan fiskal.",
+          "E": "Saldo minimum tabungan merupakan kebijakan operasional perbankan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Kapasitas fiskal (resource envelope) adalah kemampuan",
+        "keuangan negara yang dihimpun dari pendapatan negara untuk mendanai"
+      ],
+      "topik_materi": "Definisi Kapasitas Fiskal (Resource Envelope)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kapasitas fiskal (resource envelope) yang disusun oleh Menteri Keuangan didefinisikan sebagai...",
+      "pilihan": {
+        "A": "Batas simpanan kas darurat pada lemari brankas kementerian",
+        "B": "Kemampuan keuangan negara yang dihimpun guna mendanai belanja negara",
+        "C": "Jumlah pinjaman valas yang diberikan kepada negara tetangga",
+        "D": "Daftar aset tanah sitaan tindak pidana korporasi komersial",
+        "E": "Total modal kerja perseroan terbatas milik badan usaha swasta"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Kapasitas fiskal (resource envelope) adalah kemampuan keuangan negara yang dihimpun dari pendapatan negara untuk mendanai anggaran belanja negara yang meliputi Belanja K/L & Belanja Non K/L**.",
+        "alasan_kunci": "Opsi B tepat karena ruang fiskal menggambarkan total sumber daya pendapatan yang realistis dapat dimobilisasi pemerintah untuk membiayai program pembangunan. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Batas brankas kementerian adalah urusan brankas kas kecil dinas.",
+          "C": "Pinjaman ke negara lain merupakan instrumen hubungan luar negeri.",
+          "D": "Aset sitaan tindak pidana merupakan barang rampasan kejaksaan.",
+          "E": "Modal kerja korporasi swasta merupakan dana usaha bisnis privat."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Menteri Keuangan dan Kepala Bappenas",
+        "menetapkan ancar- ancar pagu anggaran yg disampaikan kepada K/L sebagai"
+      ],
+      "topik_materi": "Penetapan Pagu Anggaran K/L",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah kapasitas fiskal tersusun, pejabat yang bersama-sama menetapkan ancar-ancar pagu anggaran bagi kementerian/lembaga adalah...",
+      "pilihan": {
+        "A": "Pimpinan Komisi Anggaran dan Jaksa Agung",
+        "B": "Ketua BPK dan Gubernur Bank Indonesia",
+        "C": "Menteri Keuangan dan Kepala Bappenas",
+        "D": "Menteri Dalam Negeri dan Ketua Kadin",
+        "E": "Sekretaris Kabinet dan Dewan Perseroan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dengan tersusunnya kapasitas fiskal, **Menteri Keuangan dan Kepala Bappenas menetapkan ancar-ancar pagu anggaran yg disampaikan kepada K/L sebagai pedoman penyusunan Renja K/L**.",
+        "alasan_kunci": "Opsi C tepat karena Kemenkeu bertindak dari sisi alokasi fiskal makro dan Bappenas bertindak dari sisi prioritas rencana pembangunan nasional. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Jaksa Agung bertugas di bidang penegakan hukum negara.",
+          "B": "Ketua BPK mengaudit dan Gubernur BI mengelola moneter.",
+          "D": "Ketua Kadin memimpin organisasi kamar dagang dan industri.",
+          "E": "Sekretaris Kabinet memfasilitasi administrasi kabinet kepresidenan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Nota Keuangan dan RUU APBN beserta Himpunan RKA-KL yang telah dibahas",
+        "dalam Sidang Kabinet disampaikan pemerintah kepada DPR selambatlambatnya pertengahan Agustus."
+      ],
+      "topik_materi": "Batas Waktu Penyampaian RUU APBN ke DPR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Nota Keuangan dan RUU APBN beserta himpunan RKA-KL wajib disampaikan oleh pemerintah kepada DPR paling lambat pada...",
+      "pilihan": {
+        "A": "Pertengahan bulan Maret",
+        "B": "Akhir bulan Desember",
+        "C": "Awal bulan Januari",
+        "D": "Pertengahan bulan Agustus",
+        "E": "Akhir bulan Oktober"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "RUU APBN dan Nota Keuangan disampaikan pemerintah kepada DPR **selambat-lambatnya pertengahan Agustus (tradisi pidato Presiden 16 Agustus)**.",
+        "alasan_kunci": "Opsi D tepat karena batas waktu konstitusional pertengahan Agustus memberikan waktu yang cukup bagi parlemen untuk membahas RUU sebelum disahkan pada bulan Oktober. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pertengahan Maret merupakan tahap pembicaraan pendahuluan kapasitas fiskal.",
+          "B": "Akhir Desember adalah batas waktu penerbitan DIPA siap salur.",
+          "C": "Awal Januari adalah tanggal dimulainya tahun anggaran baru.",
+          "E": "Akhir Oktober adalah batas waktu persetujuan bersama RUU APBN di DPR."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Pembahasan RUU APBN dan Nota Keuangan dilakuan pemerintah dengan DPR",
+        "melalui dua tahapan yaitu rapat kerja dengan Badan Anggaran dan rapat kerja"
+      ],
+      "topik_materi": "Dua Tahapan Rapat Kerja Pembahasan RUU APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembahasan RUU APBN dan Nota Keuangan antara pemerintah dan DPR diselenggarakan melalui dua forum rapat kerja, yaitu...",
+      "pilihan": {
+        "A": "Rapat gabungan dengan serikat buruh industri manufaktur daerah",
+        "B": "Rapat kerja dengan Mahkamah Konstitusi dan Dewan Perwakilan Daerah",
+        "C": "Rapat koordinasi dengan asosiasi perbankan dan bursa pasar efek",
+        "D": "Rapat dengar pendapat dengan konsultan perencana keuangan swasta",
+        "E": "Rapat kerja dengan Badan Anggaran dan rapat kerja dengan Komisi DPR"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pembahasan RUU APBN dilakukan pemerintah dengan DPR melalui dua tahapan yaitu **rapat kerja dengan Badan Anggaran dan rapat kerja dengan Komisi DPR**.",
+        "alasan_kunci": "Opsi E tepat karena Banggar membahas asumsi makro dan postur fiskal agregat, sedangkan Komisi I sampai XI membahas rincian anggaran sektoral kementerian mitra kerja. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Serikat buruh menyampaikan aspirasi ketenagakerjaan melalui audiensi.",
+          "B": "Mahkamah Konstitusi menguji konstitusionalitas undang-undang yudikatif.",
+          "C": "Asosiasi perbankan bukan lembaga perwakilan rakyat pembahas undang-undang.",
+          "D": "Konsultan swasta bukan mitra resmi penetapan undang-undang APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Rapat kerja dengan Badan Anggaran, Pemerintah diwakili oleh Menteri",
+        "Keuangan dan Bappenas."
+      ],
+      "topik_materi": "Wakil Pemerintah dalam Rapat Badan Anggaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam rapat kerja pembahasan anggaran dengan Badan Anggaran DPR, pemerintah secara resmi diwakili oleh...",
+      "pilihan": {
+        "A": "Menteri Keuangan dan Kepala Bappenas",
+        "B": "Menteri Pertahanan dan Panglima Militer",
+        "C": "Gubernur Bank Indonesia dan Ketua OJK",
+        "D": "Menteri Koordinator Bidang Politik dan Hukum",
+        "E": "Ketua Badan Pemeriksa Keuangan Republik Indonesia"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dalam rapat kerja dengan Badan Anggaran DPR, **Pemerintah diwakili oleh Menteri Keuangan dan Bappenas**.",
+        "alasan_kunci": "Opsi A tepat karena Badan Anggaran menelaah kerangka ekonomi makro dan pokok-pokok kebijakan fiskal yang menjadi domain otoritas Kemenkeu dan Bappenas. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Menhan dan Panglima militer membahas anggaran pertahanan di Komisi I.",
+          "C": "Gubernur BI dan OJK hadir sebagai otoritas moneter dan jasa keuangan.",
+          "D": "Menko Polhukam mengoordinasikan bidang politik dan hukum kabinet.",
+          "E": "Ketua BPK bertindak sebagai auditor eksternal pemeriksa anggaran."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Rapat kerja komisi I sampai komisi XI, Pemerintah",
+        "diwakili oleh Menteri/Ketua Lembaga sesuai mitra kerja komisi."
+      ],
+      "topik_materi": "Wakil Pemerintah dalam Rapat Komisi DPR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada rapat kerja komisi I sampai komisi XI DPR untuk membahas RKA-KL, pihak pemerintah diwakili oleh...",
+      "pilihan": {
+        "A": "Direktur jenderal anggaran kementerian keuangan seorang diri",
+        "B": "Menteri atau Kepala Lembaga sesuai bidang mitra kerja komisi",
+        "C": "Pejabat perbendaharaan perwakilan dari seluruh kantor dinas",
+        "D": "Kepala badan pendapatan daerah seluruh wilayah provinsi",
+        "E": "Direktur operasional bank sentral perwakilan daerah kota"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pada rapat kerja Komisi I sampai Komisi XI, **Pemerintah diwakili oleh Menteri/Ketua Lembaga sesuai mitra kerja komisi** untuk membahas RKA-K/L.",
+        "alasan_kunci": "Opsi B tepat karena pimpinan kementerian teknis bertanggung jawab mempertahankan program kerja dan keluaran anggaran instansi yang dipimpinnya. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Dirjen Anggaran mengawal substansi fiskal, bukan memimpin seluruh kementerian.",
+          "C": "Pejabat perbendaharaan daerah mengurus eksekusi kas operasional.",
+          "D": "Bapenda daerah mengurus pendapatan asli daerah dalam APBD.",
+          "E": "Direktur bank sentral daerah mengurus sistem pembayaran moneter."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Pimpinan DPR menyampaikan pemberitahuan",
+        "kepada DPD rencana pembahasan RUU APBN."
+      ],
+      "topik_materi": "Pemberitahuan kepada DPD RI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah menerima dokumen RUU APBN dari Presiden, pimpinan DPR menyampaikan pemberitahuan pembahasan anggaran kepada...",
+      "pilihan": {
+        "A": "Majelis Kehormatan Kode Etik Aparatur Kementerian",
+        "B": "Dewan Pertimbangan Perbankan Komersial Nasional",
+        "C": "Dewan Perwakilan Daerah (DPD) Republik Indonesia",
+        "D": "Lembaga Arbitrase Sengketa Industri Ekspor Impor",
+        "E": "Asosiasi Pengusaha Mineral Tambang dan Batubara"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Pimpinan DPR menyampaikan pemberitahuan kepada DPD rencana pembahasan RUU APBN** untuk memberikan pertimbangan terutama terkait perimbangan keuangan daerah.",
+        "alasan_kunci": "Opsi C tepat karena konstitusi memberikan hak kepada DPD untuk memberikan pertimbangan tertulis atas RUU APBN yang berkaitan dengan daerah. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Majelis kehormatan etik mengawasi disiplin perilaku pegawai.",
+          "B": "Dewan pertimbangan bank komersial bukan lembaga perwakilan kenegaraan.",
+          "D": "Lembaga arbitrase menangani perselisihan kontrak bisnis perdata.",
+          "E": "Asosiasi pengusaha tambang merupakan wadah pelaku usaha industri."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "DPR dapat memberikan usulan sesuai",
+        "dengan hak budget yang dimilikinya."
+      ],
+      "topik_materi": "Hak Budget Dewan Perwakilan Rakyat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewenangan DPR untuk memberikan usulan dan penyesuaian terhadap materi RKA-KL dalam RUU APBN bersumber dari...",
+      "pilihan": {
+        "A": "Hak prerogatif eksekutif dalam mencairkan kas belanja",
+        "B": "Hak imunitas perdata direksi badan usaha milik negara",
+        "C": "Kewenangan diskresi perorangan anggota dewan pembina",
+        "D": "Hak budget (hak anggaran) yang dimiliki parlemen",
+        "E": "Kewenangan yudisial peninjauan kembali keputusan kasir"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**DPR dapat memberikan usulan sesuai dengan hak budget yang dimilikinya**, sehingga RKA-KL sebagai bahan RUU APBN dapat disesuaikan.",
+        "alasan_kunci": "Opsi D tepat karena hak budget merupakan kewenangan konstitusional DPR untuk membahas, menyetujui, atau menolak rencana pengeluaran kas negara. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Hak prerogatif pencairan kas berada pada ranah eksekutif perbendaharaan.",
+          "B": "Hak imunitas perdata direksi BUMN bukan dasar penetapan APBN.",
+          "C": "Kewenangan diskresi perorangan bukan dasar hukum kelembagaan DPR.",
+          "E": "Peninjauan yudisial adalah kewenangan lembaga peradilan yudikatif."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Selanjutnnya rapat paripurna DPR untuk",
+        "menyatakan persetujuan/penolakan dari setiap fraksi serta penyampaian"
+      ],
+      "topik_materi": "Pengambilan Keputusan di Rapat Paripurna DPR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Persetujuan atau penolakan resmi atas RUU APBN oleh DPR diambil dalam forum tertinggi parlemen, yaitu...",
+      "pilihan": {
+        "A": "Rapat kerja pimpinan satker kementerian teknis dinas",
+        "B": "Rapat konsultasi informal pimpinan komisi dengan asosiasi",
+        "C": "Sidang mediasi perdata sengketa perbankan komersial daerah",
+        "D": "Pertemuan tahunan dewan gubernur bank sentral regional",
+        "E": "Rapat Paripurna DPR setelah penyampaian pandangan akhir fraksi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dalam siklus penetapan, **rapat paripurna DPR menyatakan persetujuan/penolakan dari setiap fraksi serta penyampaian pendapat akhir Pemerintah**.",
+        "alasan_kunci": "Opsi E tepat karena keputusan sah pengambilan persetujuan undang-undang APBN secara tata tertib parlemen hanya dapat diketok dalam forum rapat paripurna. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Rapat kerja pimpinan satker adalah koordinasi operasional dinas kementerian.",
+          "B": "Rapat konsultasi informal tidak memiliki kekuatan hukum penetapan undang-undang.",
+          "C": "Mediasi perdata sengketa bank adalah proses peradilan perdata niaga.",
+          "D": "Pertemuan dewan gubernur bank sentral merupakan forum otoritas moneter."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "agar RUU APBN yang telah disetujui DPR dapat",
+        "berlaku efektif maka presiden mengesahkan RUU APBN itu menjadi UU APBN"
+      ],
+      "topik_materi": "Keberlakuan Efektif UU APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Agar RUU APBN yang telah disetujui dalam rapat paripurna DPR dapat berlaku efektif sebagai dasar pelaksanaan anggaran, langkah hukumnya adalah...",
+      "pilihan": {
+        "A": "Presiden mengesahkan RUU APBN tersebut menjadi Undang-Undang APBN",
+        "B": "Menteri Keuangan mendaftarkannya pada lembaga bursa efek swasta",
+        "C": "Pemerintah menerbitkan surat utang komersial jangka pendek baru",
+        "D": "Gubernur Bank Indonesia menandatangani lembar persetujuan giro",
+        "E": "Ketua komisi dewan membagikan dokumen pagu kepada rekanan dinas"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Agar RUU APBN dapat berlaku efektif, **presiden mengesahkan RUU APBN itu menjadi UU APBN** sesuai ketentuan perundang-undangan.",
+        "alasan_kunci": "Opsi A tepat karena pengesahan Presiden memberikan kekuatan hukum mengikat bagi seluruh penyelenggara negara untuk mengeksekusi anggaran APBN. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Pendaftaran pada bursa efek merupakan prosedur perdagangan instrumen saham.",
+          "C": "Penerbitan surat utang dilakukan saat pembiayaan defisit anggaran berjalan.",
+          "D": "Gubernur BI tidak menandatangani pengesahan undang-undang negara.",
+          "E": "Pembagian dokumen kepada rekanan dinas bukan pengesahan legal undang-undang."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Setelah UU APBN disetujui DPR dan disahkan oleh presiden, tugas pemerintah",
+        "selanjutnya adalah menetapkan Alokasi Anggaran KL."
+      ],
+      "topik_materi": "Penetapan Alokasi Anggaran K/L",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah UU APBN disetujui DPR dan disahkan oleh Presiden, langkah teknis pemerintah selanjutnya adalah...",
+      "pilihan": {
+        "A": "Mencairkan dana belanja langsung tanpa bukti verifikasi tagihan",
+        "B": "Menetapkan rincian Alokasi Anggaran Kementerian/Lembaga",
+        "C": "Menjual seluruh gedung kantor kementerian kepada konsorsium",
+        "D": "Menghapuskan sistem pengawasan internal pada inspektorat",
+        "E": "Mewajibkan pegawai aparatur menyumbangkan gaji ke kasir"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Setelah UU APBN disahkan, **tugas pemerintah selanjutnya adalah menetapkan Alokasi Anggaran KL** berpedoman pada hasil pembahasan APBN.",
+        "alasan_kunci": "Opsi B tepat karena penetapan alokasi anggaran K/L merinci plafon belanja definitif setiap instansi sebelum dokumen DIPA diterbitkan. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pencairan dana tanpa verifikasi melanggar tertib perbendaharaan negara.",
+          "C": "Gedung kementerian adalah barang milik negara yang dilindungi undang-undang.",
+          "D": "Pengawasan internal inspektorat mutlak dipertahankan secara berkelanjutan.",
+          "E": "Gaji aparatur merupakan hak pegawai yang dilindungi undang-undang ASN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Berdasarkan alokasi anggaran, maka Kementerian/Lembaga",
+        "menyesuaikan RKA-K/L sebagai dasar penyusunan Daftar Isian Pelaksanaan"
+      ],
+      "topik_materi": "Penyesuaian RKA-KL sebagai Dasar DIPA",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan dokumen alokasi anggaran definitif, kementerian/lembaga segera melakukan penyesuaian RKA-KL yang digunakan sebagai dasar...",
+      "pilihan": {
+        "A": "Penarikan simpanan dana nasabah perorangan dari bank devisa",
+        "B": "Penerbitan surat izin usaha komersial bagi perbankan swasta",
+        "C": "Penyusunan Daftar Isian Pelaksanaan Anggaran (DIPA)",
+        "D": "Pelunasan seluruh pokok pinjaman obligasi jangka panjang",
+        "E": "Pengalihan sebagian aset tanah kantor kepada rekanan bisnis"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan alokasi anggaran, **Kementerian/Lembaga menyesuaikan RKA-K/L sebagai dasar penyusunan Daftar Isian Pelaksanaan Anggaran (DIPA)**.",
+        "alasan_kunci": "Opsi C tepat karena DIPA merupakan dokumen eksekusi anggaran operasional yang diturunkan dari RKA-KL yang telah diselaraskan dengan undang-undang APBN. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Penarikan simpanan nasabah adalah hak perdata pemilik rekening bank.",
+          "B": "Izin usaha bank komersial merupakan kewenangan Otoritas Jasa Keuangan.",
+          "D": "Pelunasan obligasi dilakukan sesuai jadwal jatuh tempo surat utang.",
+          "E": "Aset tanah kantor negara tidak boleh dialihkan sembarangan kepada rekanan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Pelaksanaan anggaran diawali dengan disahkannya dokumen pelaksanaan",
+        "anggaran (DIPA) oleh Menteri Keuangan."
+      ],
+      "topik_materi": "Pengesahan DIPA oleh Menteri Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Awal mula tahapan pelaksanaan APBN secara resmi ditandai oleh peristiwa hukum berupa...",
+      "pilihan": {
+        "A": "Pemberian dana pinjaman tanpa agunan bagi korporasi swasta",
+        "B": "Pengumuman suku bunga pinjaman oleh bank sentral daerah",
+        "C": "Pelelangan aset gedung perkantoran dinas kementerian teknis",
+        "D": "Pengesahan dokumen pelaksanaan anggaran (DIPA) oleh Menteri Keuangan",
+        "E": "Penyerahan laporan hasil pemeriksaan berkala dari auditor BPK"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Pelaksanaan anggaran diawali dengan disahkannya dokumen pelaksanaan anggaran (DIPA) oleh Menteri Keuangan** selaku Bendahara Umum Negara.",
+        "alasan_kunci": "Opsi D tepat karena pengesahan DIPA oleh Menteri Keuangan memberikan dasar legalitas bagi satuan kerja untuk mulai mengadakan perikatan belanja. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pinjaman tanpa agunan swasta merupakan produk kredit perbankan.",
+          "B": "Pengumuman suku bunga bank sentral merupakan ranah kebijakan moneter.",
+          "C": "Lelang gedung kantor kementerian bukan penanda pelaksanaan APBN.",
+          "E": "Penyerahan hasil audit BPK adalah tahap akhir pertanggungjawaban APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Dokumen anggaran yang telah",
+        "disahkan oleh Menteri Keuangan disampaikan kepada menteri/pimpinan"
+      ],
+      "topik_materi": "Distribusi Dokumen DIPA yang Telah Disahkan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dokumen DIPA yang telah disahkan oleh Menteri Keuangan wajib disampaikan kepada pihak-pihak terkait, antara lain...",
+      "pilihan": {
+        "A": "Asosiasi pialang properti perumahan tapak kawasan kota",
+        "B": "Direksi bursa efek, konsultan hukum swasta, dan pemodal asing",
+        "C": "Pengurus paguyuban pasar malam dan serikat pedagang keliling",
+        "D": "Dewan penasihat lembaga perbankan komersial internasional",
+        "E": "Menteri/Pimpinan Lembaga, BPK, Gubernur, Dirjen Perbendaharaan, dan KPPN"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "DIPA disampaikan kepada **menteri/pimpinan lembaga, BPK, Gubernur, Dirjen Perbendaharaan, Kepala Kanwil DJPb, KPPN terkait, dan Kuasa Pengguna Anggaran (KPA)**.",
+        "alasan_kunci": "Opsi E tepat karena distribusi dokumen DIPA memastikan seluruh lini pengawasan, perbendaharaan, dan eksekutor anggaran memegang rujukan pagu yang sama. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Asosiasi pialang properti merupakan organisasi usaha perantara swasta.",
+          "B": "Bursa efek dan pemodal asing bukan instansi penerima distribusi DIPA resmi.",
+          "C": "Paguyuban pasar malam merupakan perhimpunan informal masyarakat.",
+          "D": "Dewan penasihat bank swasta bukan pengelola keuangan publik negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Dokumen tersebut merupakan acuan dan dasar hukum pelaksanaan APBN yang",
+        "dilakukan oleh Kementerian/Lembaga dan Bendahara Umum Negara."
+      ],
+      "topik_materi": "Kedudukan Yuridis DIPA",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagi kementerian/lembaga dan Bendahara Umum Negara, kedudukan dokumen DIPA berfungsi sebagai...",
+      "pilihan": {
+        "A": "Acuan dan dasar hukum pelaksanaan APBN yang mengikat secara operasional",
+        "B": "Saran rekomendasi yang bebas diabaikan oleh para pejabat perbendaharaan",
+        "C": "Dokumen promosi penanaman modal komersial pada pasar saham luar negeri",
+        "D": "Katalog penawaran harga barang elektronik dari penyedia lelang dinas",
+        "E": "Pedoman pinjaman komersial tanpa bunga dari perbankan daerah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "DIPA **merupakan acuan dan dasar hukum pelaksanaan APBN yang dilakukan oleh Kementerian/Lembaga dan Bendahara Umum Negara**.",
+        "alasan_kunci": "Opsi A tepat karena satker tidak boleh mengeluarkan kas negara sepeser pun tanpa adanya alokasi kredit anggaran yang sah di dalam DIPA. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "DIPA mengikat secara hukum dan tidak boleh diabaikan oleh aparatur.",
+          "C": "DIPA bukan sarana promosi penanaman modal komersial bursa saham.",
+          "D": "Katalog harga barang lelang dikelola dalam e-katalog LKPP.",
+          "E": "DIPA memuat belanja negara resmi, bukan pedoman pinjaman bank daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Dokumendokumen",
+        "penting",
+        "dalam",
+        "pelaksanaan",
+        "anggaran",
+        "adalah"
+      ],
+      "topik_materi": "Dokumen Penting Pelaksanaan Anggaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Instrumen utama yang berfungsi sebagai dokumen pelaksanaan anggaran dan dokumen yang dipersamakan dengannya adalah...",
+      "pilihan": {
+        "A": "Surat Izin Mengemudi Kendaraan Dinas Operasional",
+        "B": "Daftar Isian Pelaksanaan Anggaran (DIPA)",
+        "C": "Buku Tabungan Sukarela Pegawai Aparatur Kementerian",
+        "D": "Kuitansi Pembelian Bahan Makanan Pribadi Pejabat",
+        "E": "Sertifikat Deposito Berjangka Perbankan Swasta"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dokumen-dokumen penting dalam pelaksanaan anggaran adalah **Daftar Isian Pelaksanaan Anggaran (DIPA) dan dokumen lain yang dipersamakan dengan DIPA**.",
+        "alasan_kunci": "Opsi B tepat karena DIPA adalah dokumen otorisasi anggaran pokok yang memuat rincian sasaran, fungsi, program, dan pagu dana satuan kerja. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "SIM dinas adalah lisensi mengemudi kepolisian, bukan dokumen anggaran.",
+          "C": "Buku tabungan sukarela adalah rekening perorangan milik individu.",
+          "D": "Kuitansi makanan pribadi pejabat bukan dokumen pelaksanaan APBN dinas.",
+          "E": "Sertifikat deposito adalah instrumen penempatan dana perbankan komersial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Sedangkan dokumen pembayaran antara lain terdiri dari Surat Permintaan",
+        "Pembayaran (SPP), Surat Perintah Membayar (SPM), dan Surat Perintah"
+      ],
+      "topik_materi": "Tiga Dokumen Pembayaran APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rangkaian dokumen pembayaran tagihan belanja negara yang diproses secara berjenjang terdiri dari...",
+      "pilihan": {
+        "A": "Surat Perjanjian Utang, Cek Perorangan, dan Bilyet Giro Dinas",
+        "B": "Nota Debit, Nota Kredit, dan Lembar Kliring Perbankan Swasta",
+        "C": "Surat Permintaan Pembayaran, Surat Perintah Membayar, dan SP2D",
+        "D": "Faktur Pajak Standar, Kuitansi Konsinyasi, dan Polis Asuransi Jiwa",
+        "E": "Kupon Obligasi Komersial, Surat Saham Emiten, dan Buku Rekening Kasir"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dokumen pembayaran terdiri dari **Surat Permintaan Pembayaran (SPP), Surat Perintah Membayar (SPM), dan Surat Perintah Pencairan Dana (SP2D)**.",
+        "alasan_kunci": "Opsi C tepat karena ketiganya mencerminkan pemisahan fungsi: PPK menerbitkan SPP, PPSPM menguji dan menerbitkan SPM, lalu KPPN mencairkan via SP2D. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Cek perorangan dilarang dalam sistem pencairan langsung belanja APBN.",
+          "B": "Nota debit dan kredit merupakan dokumen penyesuaian transaksi bank.",
+          "D": "Polis asuransi jiwa adalah kontrak proteksi jiwa individu asuransi.",
+          "E": "Kupon obligasi dan saham merupakan efek bursa pasar modal."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Pencairan Dana (SP2D).",
+        "Sedangkan dokumen pembayaran antara lain terdiri dari Surat Permintaan"
+      ],
+      "topik_materi": "Penerbitan Surat Perintah Pencairan Dana (SP2D)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dokumen perintah pembayaran yang diterbitkan oleh KPPN selaku Kuasa Bendahara Umum Negara untuk memindahbukukan kas adalah...",
+      "pilihan": {
+        "A": "Surat Bukti Penerimaan Setoran Pajak",
+        "B": "Surat Izin Prinsip Pelaksanaan Pengadaan",
+        "C": "Surat Perjanjian Kerja Kontrak Rekanan",
+        "D": "Surat Perintah Pencairan Dana (SP2D)",
+        "E": "Surat Tugas Perjalanan Dinas Pejabat"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Surat Perintah Pencairan Dana (SP2D)** adalah dokumen pencairan akhir yang diterbitkan KPPN kepada bank persepsi/operasional untuk mentransfer kas negara kepada penerima hak.",
+        "alasan_kunci": "Opsi D tepat karena SP2D merupakan surat perintah eksekusi pemindahbukuan uang dari Rekening Kas Umum Negara kepada rekening pihak ketiga yang sah. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Bukti penerimaan pajak adalah dokumen kas masuk penerimaan negara.",
+          "B": "Izin prinsip adalah persetujuan awal perencanaan pengadaan dinas.",
+          "C": "Surat perjanjian kerja adalah kontrak perikatan antara PPK dan rekanan.",
+          "E": "Surat tugas adalah dasar penugasan operasional kepegawaian dinas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Alokasi Anggaran KL ini",
+        "berpedoman pada hasil pembahasan APBN yang dituangkan dalam Berita"
+      ],
+      "topik_materi": "Dasar Penetapan Alokasi Anggaran K/L",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penetapan alokasi anggaran kementerian/lembaga disusun oleh pemerintah dengan berpedoman pada...",
+      "pilihan": {
+        "A": "Catatan pembukuan kas darurat bendahara pengeluaran tahun sebelumnya",
+        "B": "Hasil wawancara media massa dengan perwakilan pimpinan lembaga swasta",
+        "C": "Laporan omzet penjualan tahunan para pelaku usaha ritel modern daerah",
+        "D": "Daftar rekomendasi investasi saham dari konsultan manajemen asing",
+        "E": "Berita Acara Hasil Kesepakatan Pembahasan RUU APBN antara Pemerintah dan DPR"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Alokasi Anggaran KL berpedoman pada hasil pembahasan APBN yang dituangkan dalam **Berita Acara Hasil Kesepakatan Pembahasan Rancangan APBN antara Pemerintah dan DPR**.",
+        "alasan_kunci": "Opsi E tepat karena berita acara kesepakatan memuat komitmen angka hasil pembahasan resmi antara Banggar DPR dan pemerintah yang mengikat secara yuridis. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Kas darurat bendahara bukan dasar perhitungan alokasi pagu K/L.",
+          "B": "Wawancara media massa bukan dokumen hukum administrasi keuangan negara.",
+          "C": "Omzet usaha ritel merupakan data kegiatan ekonomi bisnis swasta.",
+          "D": "Rekomendasi investasi asing bukan dasar alokasi APBN resmi negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Pasal 17 Undang-Undang Perbendaharaan Negara menyatakan bahwa",
+        "Pengguna Anggaran/Kuasa Pengguna Anggaran melaksanakan kegiatan yang"
+      ],
+      "topik_materi": "Kewenangan PA/KPA menurut Pasal 17 UU 1/2004",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 17 UU Perbendaharaan Negara, Pengguna Anggaran atau Kuasa Pengguna Anggaran berwenang untuk...",
+      "pilihan": {
+        "A": "Mengadakan ikatan atau perjanjian dengan pihak lain dalam batas anggaran DIPA",
+        "B": "Mencetak mata uang baru secara mandiri demi mendanai kegiatan operasional",
+        "C": "Menyimpan seluruh penerimaan negara pada rekening pribadi tanpa pencatatan",
+        "D": "Mengubah pagu alokasi belanja tanpa melalui proses revisi anggaran resmi",
+        "E": "Menyerahkan tanggung jawab keuangan kepada rekanan penyedia swasta"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pasal 17 UU Perbendaharaan Negara menyatakan **PA/KPA melaksanakan kegiatan dalam dokumen DIPA dan berwenang mengadakan ikatan/perjanjian dengan pihak lain dalam batas anggaran yang telah ditetapkan**.",
+        "alasan_kunci": "Opsi A tepat karena PA/KPA adalah ordonatur yang memegang kewenangan administratif untuk membuat komitmen pengeluaran atas beban APBN. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Pencetakan mata uang merupakan kewenangan eksklusif Bank Sentral.",
+          "C": "Menyimpan dana negara di rekening pribadi melanggar hukum perbendaharaan.",
+          "D": "Perubahan pagu belanja wajib melalui prosedur revisi anggaran resmi.",
+          "E": "Tanggung jawab keuangan negara melekat mutlak pada pejabat PA/KPA."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Peraturan Pemerintah Nomor 45 Tahun 2013",
+        "tentang Tata Cara Pelaksanaan Anggaran Pendapatan dan Belanja Negara dan"
+      ],
+      "topik_materi": "Regulasi Pelaksanaan APBN (PP 45/2013 jo PP 50/2018)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pedoman tata cara teknis pelaksanaan Anggaran Pendapatan dan Belanja Negara diatur secara komprehensif dalam...",
+      "pilihan": {
+        "A": "Peraturan Asosiasi Pedagang Pasar Tradisional Indonesia",
+        "B": "PP Nomor 45 Tahun 2013 dan perubahannya PP Nomor 50 Tahun 2018",
+        "C": "Instruksi Khusus Lembaga Pemeringkat Obligasi Multinasional",
+        "D": "Keputusan Dewan Penasihat Perbankan Syariah Komersial",
+        "E": "Pedoman Penyelenggaraan Lelang Seni dan Barang Antik Daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tata cara pelaksanaan APBN diatur dalam **Peraturan Pemerintah Nomor 45 Tahun 2013 tentang Tata Cara Pelaksanaan APBN dan perubahannya PP Nomor 50 Tahun 2018**.",
+        "alasan_kunci": "Opsi B tepat karena PP tersebut merupakan pedoman operasional utama perbendaharaan dalam manajemen komitmen, pengujian tagihan, serta pembayaran belanja negara. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Asosiasi pedagang pasar bukan pembentuk regulasi pelaksanaan APBN.",
+          "C": "Lembaga pemeringkat asing memberikan analisis risiko kredit obligasi.",
+          "D": "Dewan perbankan syariah mengawasi kepatuhan syariah produk bank.",
+          "E": "Lelang seni barang antik merupakan kegiatan niaga perdata khusus."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "melakukan pelaporan dan pencatatan sesuai dengan Standar Akuntansi",
+        "Pemerintah (SAP) sehingga menghasilkan Laporan Keuangan Pemerintah Pusat"
+      ],
+      "topik_materi": "Penerapan Standar Akuntansi Pemerintah (SAP)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaporan dan pencatatan keuangan negara yang dilakukan kementerian/lembaga dan BUN wajib berpedoman pada...",
+      "pilihan": {
+        "A": "Sistem pembukuan kasir sederhana paguyuban warga daerah",
+        "B": "Prinsip akuntansi komersial usaha perbankan swasta murni",
+        "C": "Standar Akuntansi Pemerintah (SAP) untuk menghasilkan LKPP",
+        "D": "Tata cara pembagian laba perseroan komanditer perdata",
+        "E": "Pedoman pembukuan keuangan organisasi lembaga nirlaba asing"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pelaporan dan pencatatan dilakukan **sesuai Standar Akuntansi Pemerintah (SAP) sehingga menghasilkan Laporan Keuangan Pemerintah Pusat (LKPP)**.",
+        "alasan_kunci": "Opsi C tepat karena SAP memberikan keseragaman prinsip, basis akrual, dan keterbandingan laporan keuangan seluruh entitas sektor publik pemerintah. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pembukuan kasir paguyuban bukan standar akuntansi kenegaraan.",
+          "B": "Akuntansi bank swasta berpedoman pada standar akuntansi keuangan (SAK).",
+          "D": "Pembagian laba perseroan adalah urusan dividen usaha komersial.",
+          "E": "Pedoman nirlaba asing tidak berlaku bagi pertanggungjawaban APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "(LKPP) yang terdiri atas Laporan Realisasi Anggaran (LRA), Neraca, Laporan",
+        "Arus Kas (LAK), dan Catatan Atas Laporan Keuangan (CALK)."
+      ],
+      "topik_materi": "Empat Komponen Pokok LKPP",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Komponen pokok Laporan Keuangan Pemerintah Pusat (LKPP) sebagaimana ditegaskan dalam aturan perundangan terdiri atas...",
+      "pilihan": {
+        "A": "Daftar Pemegang Polis Asuransi, Sertifikat Tanah, dan Cek Giro",
+        "B": "Buku Kas Kasir, Daftar Piutang Pajak, dan Rekening Tabungan",
+        "C": "Kuitansi Belanja Barang, Faktur Pajak, dan Slip Gaji Pegawai",
+        "D": "Laporan Realisasi Anggaran, Neraca, Laporan Arus Kas, dan CaLK",
+        "E": "Laporan Penjualan Efek Saham, Rekening Koran, dan Nota Kliring"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Laporan Keuangan Pemerintah Pusat (LKPP) **terdiri atas Laporan Realisasi Anggaran (LRA), Neraca, Laporan Arus Kas (LAK), dan Catatan Atas Laporan Keuangan (CALK)**.",
+        "alasan_kunci": "Opsi D tepat karena keempat laporan ini menyajikan potret komprehensif realisasi kinerja anggaran, posisi aset-kewajiban, arus likuiditas, dan rincian catatan pengungkapan. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Polis asuransi dan cek giro adalah instrumen keuangan perdata.",
+          "B": "Buku kas kasir merupakan buku pembantu bendahara operasional.",
+          "C": "Kuitansi dan faktur adalah bukti fisik transaksi pembukuan belanja.",
+          "E": "Penjualan efek saham adalah laporan transaksi pasar modal komersial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Semua laporan keuangan tersebut disusun oleh Menteri Keuangan selaku",
+        "pengelola"
+      ],
+      "topik_materi": "Penyusunan LKPP oleh Menteri Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pejabat negara yang bertanggung jawab mengonsolidasikan dan menyusun Laporan Keuangan Pemerintah Pusat (LKPP) adalah...",
+      "pilihan": {
+        "A": "Ketua Komisi Perbendaharaan Dewan Perwakilan Rakyat",
+        "B": "Ketua Badan Pemeriksa Keuangan Republik Indonesia",
+        "C": "Gubernur Bank Indonesia selaku pimpinan bank sentral",
+        "D": "Menteri Koordinator Bidang Kemaritiman dan Investasi",
+        "E": "Menteri Keuangan selaku pengelola fiskal negara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Semua laporan keuangan tersebut disusun oleh Menteri Keuangan selaku pengelola fiskal** sebagai wujud laporan keuangan pemerintah pusat.",
+        "alasan_kunci": "Opsi E tepat karena Menteri Keuangan menggabungkan laporan keuangan kementerian/lembaga dan BUN menjadi satu kesatuan LKPP untuk diserahkan kepada Presiden. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Komisi DPR menelaah dan mengawasi laporan pertanggungjawaban APBN.",
+          "B": "Ketua BPK memeriksa laporan keuangan, bukan menyusun LKPP.",
+          "C": "Gubernur BI menyusun laporan tahunan bank sentral moneter.",
+          "D": "Menko Marves mengoordinasikan bidang kemaritiman dan investasi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "disampaikan",
+        "kepada",
+        "presiden",
+        "dalam",
+        "memenuhi",
+        "pertanggungjawaban",
+        "pelaksanaan APBN."
+      ],
+      "topik_materi": "Penyerahan LKPP kepada Presiden",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah selesai disusun oleh Menteri Keuangan, LKPP disampaikan kepada Presiden guna memenuhi kewajiban...",
+      "pilihan": {
+        "A": "Pertanggungjawaban pelaksanaan APBN kepada lembaga perwakilan",
+        "B": "Pembagian bonus kinerja bagi seluruh pimpinan perusahaan daerah",
+        "C": "Penarikan modal saham dari bursa perdagangan internasional",
+        "D": "Penghapusan seluruh sistem pelaporan audit tahun mendatang",
+        "E": "Pemberian dana pinjaman bebas bunga bagi korporasi swasta"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "LKPP disampaikan kepada presiden **dalam memenuhi pertanggungjawaban pelaksanaan APBN** sebelum diserahkan kepada BPK untuk diaudit.",
+        "alasan_kunci": "Opsi A tepat karena Presiden adalah pemegang kekuasaan umum pemerintahan yang wajib mempertanggungjawabkan pelaksanaan undang-undang APBN kepada DPR. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Bonus kinerja direksi BUMD diatur melalui rapat umum pemegang saham.",
+          "C": "Penarikan modal saham bukan tujuan penyerahan laporan pertanggungjawaban.",
+          "D": "Pelaporan audit wajib dijalankan setiap tahun secara berkelanjutan.",
+          "E": "Keuangan negara tidak meminjamkan dana bebas bunga ke korporasi swasta."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "BPK melakukan audit atas laporan keuangan pemerintah. Hasil dari laporan dan",
+        "pencatatan APBN ini merupakan bahan untuk menyusun APBN tahun"
+      ],
+      "topik_materi": "Fungsi Hasil Audit bagi APBN Berikutnya",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain sebagai sarana pertanggungjawaban, hasil audit laporan keuangan dan pencatatan APBN berfungsi strategis sebagai...",
+      "pilihan": {
+        "A": "Pedoman lelang aset properti perkantoran swasta di bursa",
+        "B": "Bahan evaluasi dan penyusunan rancangan APBN tahun berikutnya",
+        "C": "Dasar pembagian dividen bagi penanam modal asing komersial",
+        "D": "Ketetapan batasan harga sewa perumahan pegawai aparatur",
+        "E": "Rujukan penetapan tarif premi perlindungan asuransi jiwa"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "BPK melakukan audit atas laporan keuangan, dan **hasil dari laporan serta pencatatan APBN ini merupakan bahan untuk menyusun APBN tahun berikutnya**.",
+        "alasan_kunci": "Opsi B tepat karena siklus APBN bersifat berkesinambungan, di mana temuan dan realisasi anggaran tahun lalu menjadi basis perbaikan perencanaan anggaran masa depan. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Lelang aset properti swasta bukan produk dari audit laporan APBN.",
+          "C": "Dividen penanam modal asing dibayarkan dari laba korporasi swasta.",
+          "D": "Sewa perumahan pegawai diatur dalam standar biaya masukan dinas.",
+          "E": "Premi asuransi jiwa ditetapkan oleh aktuaria industri asuransi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Atas LKPP, Badan Pemeriksa Keuangan (BPK) melakukan pemeriksaan dan",
+        "LKPP yang telah diaudit oleh BPK tersebut disampaikan oleh presiden kepada"
+      ],
+      "topik_materi": "Audit LKPP oleh BPK RI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemeriksaan atas Laporan Keuangan Pemerintah Pusat (LKPP) secara konstitusional dilakukan oleh...",
+      "pilihan": {
+        "A": "Lembaga Akreditasi Konsultan Perencana Keuangan Privat",
+        "B": "Badan Pengawasan Keuangan dan Pembangunan Internasional",
+        "C": "Badan Pemeriksa Keuangan (BPK) Republik Indonesia",
+        "D": "Komite Pengawas Kepatuhan Perbankan Devisa Nasional",
+        "E": "Dewan Arbitrase Perselisihan Dagang Sektor Maritim"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Atas LKPP, Badan Pemeriksa Keuangan (BPK) melakukan pemeriksaan** independen untuk memberikan opini profesional atas kewajaran laporan keuangan negara.",
+        "alasan_kunci": "Opsi C tepat karena BPK RI adalah satu-satunya lembaga audit eksternal negara yang memegang mandat UUD 1945 memeriksa laporan keuangan pemerintah. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Konsultan privat tidak memiliki wewenang konstitusional mengaudit LKPP.",
+          "B": "BPKP merupakan aparat pengawasan intern pemerintah (APIP) eksekutif.",
+          "D": "Komite kepatuhan bank mengawasi tata kelola internal perbankan.",
+          "E": "Dewan arbitrase maritim menyelesaikan sengketa pengapalan niaga."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "LKPP yang telah diaudit oleh BPK tersebut disampaikan oleh presiden kepada",
+        "DPR"
+      ],
+      "topik_materi": "Penyampaian LKPP Hasil Audit ke Parlemen",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah LKPP diaudit oleh Badan Pemeriksa Keuangan, dokumen tersebut disampaikan oleh Presiden kepada...",
+      "pilihan": {
+        "A": "Forum perhimpunan pialang efek pasar modal internasional",
+        "B": "Direksi asosiasi pengusaha industri manufaktur dalam negeri",
+        "C": "Pimpinan bank komersial swasta pemegang rekening giro dinas",
+        "D": "Dewan Perwakilan Rakyat dalam bentuk RUU Pertanggungjawaban",
+        "E": "Konsultan perencana tata ruang perkotaan wilayah daerah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "LKPP yang telah diaudit oleh BPK disampaikan oleh presiden kepada **DPR dalam bentuk rancangan undang-undang pertanggungjawaban pelaksanaan APBN untuk dibahas dan disetujui**.",
+        "alasan_kunci": "Opsi D tepat karena penyampaian RUU Pertanggungjawaban merupakan puncak akuntabilitas formal eksekutif kepada rakyat melalui perwakilannya di parlemen. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pialang pasar modal menganalisis perdagangan instrumen saham bursa.",
+          "B": "Asosiasi industri manufaktur bukan lembaga perwakilan negara pemutus APBN.",
+          "C": "Bank komersial swasta adalah mitra operasional perbankan semata.",
+          "E": "Konsultan tata ruang mengurus rancangan arsitektur fisik wilayah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Pengawasan tersebut dilakukan oleh atasan langsung pengelola keuangan dan",
+        "Aparat Pengawas Internal Pemerintah (APIP) masing-masing K/L."
+      ],
+      "topik_materi": "Pengawasan Internal Pelaksanaan APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain pemeriksaan eksternal oleh BPK, pengawasan intern dalam pelaksanaan APBN di lingkungan kementerian/lembaga dilakukan oleh...",
+      "pilihan": {
+        "A": "Dewan komisaris independen dari badan usaha milik perbankan swasta",
+        "B": "Konsultan akuntan publik komersial yang disewa oleh rekanan pemborong",
+        "C": "Panitia pengadaan barang dari perwakilan perkumpulan pedagang swasta",
+        "D": "Pimpinan lembaga swadaya masyarakat bidang investigasi perbankan",
+        "E": "Atasan langsung pengelola kas dan Aparat Pengawas Intern Pemerintah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pengawasan pelaksanaan APBN dilakukan oleh **atasan langsung pengelola keuangan dan Aparat Pengawas Internal Pemerintah (APIP) masing-masing K/L (Inspektorat Jenderal)**.",
+        "alasan_kunci": "Opsi E tepat karena pengawasan melekat atasan langsung dan audit internal APIP mengawal kepatuhan dan mendeteksi penyimpangan sejak dini dalam operasional harian. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Komisaris bank swasta mengawasi korporasi bisnis perbankan komersial.",
+          "B": "Akuntan publik yang disewa rekanan bukan auditor resmi pemerintah.",
+          "C": "Perkumpulan pedagang adalah kelompok perhimpunan pelaku usaha.",
+          "D": "LSM melakukan kontrol sosial publik, bukan fungsi APIP kedinasan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Sejak tahun anggaran 1969/70 sampai dengan 1999/2000 APBN disusun dalam",
+        "bentuk rekening scontro (T-account)."
+      ],
+      "topik_materi": "Format Rekening Scontro (T-Account)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada periode tahun anggaran 1969/1970 hingga 1999/2000, struktur dokumen APBN Indonesia disusun dalam bentuk format...",
+      "pilihan": {
+        "A": "Rekening scontro bertimbal (T-account)",
+        "B": "Format digital terpadu berbasis komputasi awan",
+        "C": "Rekening stafel tunggal berbasis aliran kas murni",
+        "D": "Buku kas harian model tunggal tanpa pencatatan debet",
+        "E": "Daftar neraca komersial perseroan terbatas terbuka"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Sejak tahun anggaran 1969/70 sampai dengan 1999/2000, **APBN disusun dalam bentuk rekening scontro (T-account)**.",
+        "alasan_kunci": "Opsi A tepat karena format T-account menyajikan penerimaan di sisi debet (kiri) dan pengeluaran di sisi kredit (kanan) secara berdampingan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Sistem komputasi awan merupakan teknologi informasi modern mutakhir.",
+          "C": "Format stafel (I-account) baru diterapkan mulai tahun anggaran 2000.",
+          "D": "Buku kas tanpa debet bertentangan dengan prinsip pembukuan akuntansi.",
+          "E": "Neraca perseroan terbuka adalah laporan keuangan korporasi emiten bursa."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Di sebelah debet, dicantumkan semua",
+        "penerimaan dan di sebelah kredit dicantumkan semua pengeluaran."
+      ],
+      "topik_materi": "Struktur Debet dan Kredit Format T-Account",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyajian pos-pos keuangan dalam format T-account (scontro) diatur dengan menempatkan...",
+      "pilihan": {
+        "A": "Pengeluaran di sebelah debet dan penerimaan di sebelah kredit",
+        "B": "Penerimaan di sebelah debet dan pengeluaran di sebelah kredit",
+        "C": "Pinjaman luar negeri di luar pembukuan anggaran pendapatan",
+        "D": "Seluruh belanja kementerian pada kolom catatan kaki dokumen",
+        "E": "Saldo kas negara di halaman lampiran tersendiri tanpa angka"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dalam format T-account, **di sebelah debet dicantumkan semua penerimaan dan di sebelah kredit dicantumkan semua pengeluaran**.",
+        "alasan_kunci": "Opsi B tepat karena tradisi format scontro lama mensejajarkan dua kolom berhadapan sehingga angka total kedua belah pihak selalu seimbang. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Penerimaan dicatat di debet, bukan kredit pada format scontro APBN lama.",
+          "C": "Pinjaman luar negeri saat itu dimasukkan sebagai penerimaan pembangunan.",
+          "D": "Belanja kementerian dicatat di kolom kredit pengeluaran, bukan catatan kaki.",
+          "E": "Saldo kas memiliki akun resmi dalam pembukuan perbendaharaan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Mulai tahun",
+        "anggaran 2000 struktur dan format APBN disusun dalam bentuk stafel (I-Account)."
+      ],
+      "topik_materi": "Transisi ke Format Stafel (I-Account) Tahun 2000",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perubahan mendasar format penyusunan APBN Indonesia dari bentuk T-account ke bentuk stafel (I-account) mulai diberlakukan pada...",
+      "pilihan": {
+        "A": "Tahun anggaran 1985",
+        "B": "Tahun anggaran 1969",
+        "C": "Tahun anggaran 2000",
+        "D": "Tahun anggaran 2015",
+        "E": "Tahun anggaran 2024"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Mulai tahun anggaran 2000 struktur dan format APBN disusun dalam bentuk stafel (I-Account)**.",
+        "alasan_kunci": "Opsi C tepat karena tahun 2000 menjadi tonggak reformasi format anggaran vertikal (I-Account) guna membedakan secara tegas antara pendapatan, belanja, dan pembiayaan defisit. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tahun 1985 adalah era penataan pajak modern pertama (tax reform).",
+          "B": "Tahun 1969 adalah awal mula penggunaan format T-account Orde Baru.",
+          "D": "Tahun 2015 adalah era pengalihan subsidi bahan bakar minyak ke infrastruktur.",
+          "E": "Tahun 2024 adalah tahun pelaksanaan anggaran modern terkini."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "internasional sebagaimana digunakan dalam statistik keuangan pemerintah",
+        "(Government Finance Statistics)."
+      ],
+      "topik_materi": "Standar Government Finance Statistics (GFS)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerapan format stafel (I-account) disesuaikan dengan standar pelaporan statistik fiskal internasional yang dikenal sebagai...",
+      "pilihan": {
+        "A": "Standardized Private Corporate Manual",
+        "B": "International Commercial Trade System",
+        "C": "Global Banking Insurance Protocol",
+        "D": "Government Finance Statistics (GFS)",
+        "E": "Worldwide Securities Settlement Code"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Struktur APBN stafel **disesuaikan dengan standar yang berlaku secara internasional sebagaimana digunakan dalam statistik keuangan pemerintah (Government Finance Statistics - GFS)**.",
+        "alasan_kunci": "Opsi D tepat karena GFS memandu klasifikasi akun ekonomi pemerintah secara universal sehingga statistik operasi keuangan antarnegara dapat dibandingkan secara akurat. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Private Corporate Manual adalah panduan operasional korporasi privat.",
+          "B": "Commercial Trade System adalah sistem statistik perdagangan barang swasta.",
+          "C": "Banking Insurance Protocol merupakan protokol industri asuransi bank.",
+          "E": "Securities Settlement Code adalah kode penyelesaian transaksi efek bursa."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Untuk meningkatkan transparansi dalam penyusunan APBN.",
+        "Mempermudah melakukan analisis komparasi mengenai perkembangan operasi"
+      ],
+      "topik_materi": "Tujuan Pertama dan Kedua Format I-Account",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dua tujuan utama dari perubahan struktur format APBN menjadi model I-account adalah...",
+      "pilihan": {
+        "A": "Memberikan hak monopoli perbankan komersial atas kas negara",
+        "B": "Menutup angka defisit riil serta membatasi akses masyarakat",
+        "C": "Menghapuskan fungsi audit eksternal dari badan pemeriksa resmi",
+        "D": "Mewajibkan penggunaan mata uang asing dalam transaksi dinas kantor",
+        "E": "Meningkatkan transparansi dan mempermudah analisis komparasi operasi fiskal"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tujuan format I-Account: **1. Meningkatkan transparansi APBN, dan 2. Mempermudah analisis komparasi operasi fiskal Pemerintah dengan negara lain**.",
+        "alasan_kunci": "Opsi E tepat karena format vertikal memperlihatkan defisit murni secara jujur dan memudahkan perbandingan performa fiskal Indonesia dengan praktik terbaik global. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pengelolaan kas umum negara dimonopoli oleh Bendahara Umum Negara.",
+          "B": "Format I-Account justru membuka angka defisit riil secara transparan.",
+          "C": "Audit eksternal BPK tetap berjalan secara independen dan profesional.",
+          "D": "Transaksi dinas di dalam negeri wajib menggunakan mata uang rupiah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "memperkecil",
+        "diskrepansi dengan data pembiayaan Bank Indonesia."
+      ],
+      "topik_materi": "Tujuan Ketiga: Menekan Diskrepansi Pembiayaan BI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan ketiga dari penerapan format I-account dalam pengelolaan APBN adalah mempermudah pengendalian guna...",
+      "pilihan": {
+        "A": "Memperkecil diskrepansi selisih data dengan pembiayaan Bank Indonesia",
+        "B": "Menaikkan suku bunga pinjaman komersial bagi sektor perbankan",
+        "C": "Menghapus pencatatan saldo rekening kas negara di perbankan",
+        "D": "Mengurangi alokasi belanja infrastruktur fisik di kawasan daerah",
+        "E": "Mewajibkan bank swasta menanggung seluruh beban utang dinas"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Tujuan ketiga format I-Account adalah **mempermudah pemantauan dan pengendalian pengelolaan APBN sehingga dapat diambil langkah memperkecil diskrepansi dengan data pembiayaan Bank Indonesia**.",
+        "alasan_kunci": "Opsi A tepat karena keselarasan antara data penarikan pembiayaan pemerintah dan catatan moneter bank sentral sangat vital untuk akurasi statistik makroekonomi. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Suku bunga komersial merupakan domain transmisi kebijakan moneter.",
+          "C": "Pencatatan kas negara wajib dilakukan secara akurat tanpa penghapusan.",
+          "D": "Belanja infrastruktur dialokasikan berdasarkan prioritas pembangunan.",
+          "E": "Beban utang dinas negara dibiayai dari anggaran pendapatan belanja negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Menghadapi pelaksanaan desentralisasi fiskal sesuai dengan dengan UU No. 33",
+        "tahun 2004, tentang Perimbangan Keuangan antara Pemerintah Pusat dan"
+      ],
+      "topik_materi": "Tujuan Keempat: Menghadapi Desentralisasi Fiskal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan keempat dari format I-account adalah mempersiapkan tata kelola APBN dalam menghadapi pelaksanaan...",
+      "pilihan": {
+        "A": "Sentralisasi penarikan seluruh pajak daerah menjadi wewenang pusat",
+        "B": "Desentralisasi fiskal sesuai perundangan perimbangan keuangan pusat dan daerah",
+        "C": "Penghapusan otonomi pengelolaan belanja dinas bagi pemerintah daerah",
+        "D": "Pemberian dana pinjaman bebas bunga bagi korporasi multinasional",
+        "E": "Penutupan seluruh kantor perwakilan dinas perbendaharaan di daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tujuan keempat format I-Account adalah **menghadapi pelaksanaan desentralisasi fiskal sesuai dengan UU No. 33 Tahun 2004 tentang Perimbangan Keuangan antara Pemerintah Pusat dan Daerah**.",
+        "alasan_kunci": "Opsi B tepat karena format I-Account menyediakan pos khusus transfer ke daerah secara transparan yang memisahkan belanja kementerian pusat dan alokasi transfer dana otonomi daerah. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pajak daerah diatur terpisah dan dipungut mandiri oleh pemerintah daerah.",
+          "C": "Otonomi daerah memberikan keleluasaan pengelolaan APBD kepada pemda.",
+          "D": "Keuangan negara tidak memberikan pinjaman cuma-cuma ke swasta multinasional.",
+          "E": "Kantor vertikal perbendaharaan (KPPN) justru diperkuat layanannya di daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "UU Keuangan Negara mengamanatkan format baru yang",
+        "disebut format anggaran terpadu (unified budget), yakni tidak ada pemisahan antara"
+      ],
+      "topik_materi": "Konsep Anggaran Terpadu (Unified Budget) UU 17/2003",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Undang-Undang Nomor 17 Tahun 2003 mengamanatkan format baru anggaran terpadu (unified budget) yang pada intinya...",
+      "pilihan": {
+        "A": "Menggabungkan rekening perbankan komersial ke dalam kas perbendaharaan",
+        "B": "Menyatukan kas negara dengan kas pribadi para menteri kabinet",
+        "C": "Menghapus pemisahan antara anggaran rutin dan anggaran belanja pembangunan",
+        "D": "Membebankan seluruh pengeluaran dinas ke pos dana cadangan darurat",
+        "E": "Menghapus kewajiban pengawasan oleh aparat pemeriksa keuangan negara"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "UU Keuangan Negara mengamanatkan **format anggaran terpadu (unified budget), yakni tidak ada pemisahan antara anggaran belanja rutin dan anggaran belanja pembangunan, tetapi digabungkan menjadi satu**.",
+        "alasan_kunci": "Opsi C tepat karena penyatuan anggaran rutin dan pembangunan ke dalam satu dokumen terpadu mengakhiri tumpang tindih mata anggaran dan mempermudah pengawasan kinerja keluaran. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Kas perbankan swasta merupakan aset korporasi perbankan yang terpisah.",
+          "B": "Penyatuan kas negara dengan kas pribadi melanggar hukum perbendaharaan.",
+          "D": "Belanja dinas dialokasikan sesuai mata anggaran pengeluaran yang sah.",
+          "E": "Pengawasan keuangan negara tetap dijalankan oleh aparat pengawas resmi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "anggaran belanja rutin dan anggaran belanja pembangunan, tetapi digabungkan",
+        "menjadi satu."
+      ],
+      "topik_materi": "Penghapusan Dikotomi Rutin dan Pembangunan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sebelum reformasi keuangan negara tahun 2003, anggaran belanja pemerintah dikelompokkan ke dalam dua pos terpisah, yaitu...",
+      "pilihan": {
+        "A": "Anggaran belanja darurat dan anggaran belanja spekulatif",
+        "B": "Anggaran belanja swasta dan anggaran belanja perbankan",
+        "C": "Anggaran belanja tunai dan anggaran belanja piutang komersial",
+        "D": "Anggaran belanja rutin dan anggaran belanja pembangunan",
+        "E": "Anggaran belanja internal dan anggaran belanja perdagangan bebas"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Sebelum reformasi unified budget, anggaran belanja pemerintah terpecah antara **anggaran belanja rutin (DIK) dan anggaran belanja pembangunan (DIP)**.",
+        "alasan_kunci": "Opsi D tepat karena dikotomi klasik rutin vs pembangunan tersebut sering menimbulkan duplikasi pembiayaan kegiatan dinas sebelum disatukan dalam sistem DIPA terpadu. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Belanja spekulatif tidak dikenal dalam tata kelola perbendaharaan.",
+          "B": "Belanja swasta dan bank bukan klasifikasi dalam dokumen APBN resmi.",
+          "C": "Belanja tunai dan piutang bukan pembagian nomenklatur anggaran negara.",
+          "E": "Belanja perdagangan bebas merupakan transaksi sektor komersial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Mulai Maret 2003 seiring dengan diundangkannya Undang-Undang Nomor 17 Tahun",
+        "2003, format RAPBN meski menggunakan I-Account mengalami perubahan format"
+      ],
+      "topik_materi": "Penyempurnaan Format I-Account Pasca UU 17/2003",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Seiring disahkannya UU Nomor 17 Tahun 2003 pada Maret 2003, format I-Account RAPBN disempurnakan strukturnya dengan menerapkan prinsip...",
+      "pilihan": {
+        "A": "Penghapusan seluruh pos transfer dana perimbangan ke daerah",
+        "B": "Pengembalian format T-account scontro model masa Orde Baru",
+        "C": "Pencatatan pendapatan negara dari pos sektor penerimaan migas saja",
+        "D": "Penyerahan tata kelola penerimaan cukai kepada badan usaha swasta",
+        "E": "Penganggaran terpadu tanpa pemisahan pos rutin dan pembangunan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Mulai Maret 2003 seiring diundangkannya UU 17/2003, **format RAPBN mengadopsi format anggaran terpadu (unified budget) di dalam struktur I-Account**.",
+        "alasan_kunci": "Opsi E tepat karena integrasi belanja operasional dan belanja modal ke dalam kerangka belanja terpadu melengkapi modernisasi format I-Account di Indonesia. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Transfer ke daerah justru menjadi pilar pokok desentralisasi fiskal.",
+          "B": "Format T-account sudah ditinggalkan secara permanen sejak tahun 2000.",
+          "C": "Pendapatan negara mencakup pajak, PNBP, dan hibah secara komprehensif.",
+          "D": "Tata kelola cukai merupakan kewenangan negara di bawah DJBC."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Struktur dan format APBN seperti ini dapat",
+        "digunakan untuk beberapa tujuan yaitu:"
+      ],
+      "topik_materi": "Tujuan Empat Pilar Format I-Account (Kecuali)",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Struktur dan format I-Account APBN dirancang untuk memenuhi empat tujuan strategis berikut, KECUALI...",
+      "pilihan": {
+        "A": "Memudahkan pergeseran kas negara ke rekening komersial pribadi",
+        "B": "Meningkatkan transparansi dalam penyusunan dokumen APBN",
+        "C": "Mempermudah analisis komparasi fiskal standar internasional",
+        "D": "Memperkecil diskrepansi data pembiayaan dengan Bank Indonesia",
+        "E": "Mendukung kesiapan pelaksanaan desentralisasi fiskal ke daerah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Empat tujuan format I-Account adalah **transparansi, komparasi internasional GFS, pengendalian diskrepansi pembiayaan BI, dan kesiapan desentralisasi fiskal**.",
+        "alasan_kunci": "Opsi A tepat sebagai pengecualian karena memindahkan kas negara ke rekening pribadi merupakan perbuatan melanggar hukum dan bertentangan dengan tujuan transparansi APBN. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Transparansi merupakan tujuan resmi angka 1 format I-Account.",
+          "C": "Komparasi GFS merupakan tujuan resmi angka 2 format I-Account.",
+          "D": "Pengendalian diskrepansi pembiayaan BI adalah tujuan resmi angka 3.",
+          "E": "Kesiapan desentralisasi fiskal adalah tujuan resmi angka 4."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "transparansi",
+        "Mempermudah",
+        "analisis",
+        "komparasi"
+      ],
+      "topik_materi": "Komparabilitas Statistik Keuangan Antarnegara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kemudahan dalam melakukan perbandingan operasi fiskal Indonesia dengan negara-negara lain di dunia terwujud berkat adopsi...",
+      "pilihan": {
+        "A": "Pedoman penetapan harga barang ekspor dari asosiasi swasta",
+        "B": "Klasifikasi statistik keuangan pemerintah standar internasional (GFS)",
+        "C": "Tata cara pencairan kredit mikro perbankan komersial daerah",
+        "D": "Standar penilaian agunan pinjaman perorangan milik nasabah",
+        "E": "Sistem lelang barang sitaan bea cukai pada bandar udara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Format I-Account mempermudah **analisis komparasi mengenai perkembangan operasi fiskal Pemerintah dengan berbagai negara lain sesuai standar internasional GFS**.",
+        "alasan_kunci": "Opsi B tepat karena keselarasan definisi pos pendapatan dan belanja dengan manual GFS memungkinkan lembaga pemeringkat dan investor membandingkan postur fiskal Indonesia secara adil. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Harga barang ekspor asosiasi swasta adalah urusan perniagaan dagang.",
+          "C": "Pencairan kredit mikro bank daerah adalah operasional kredit perbankan.",
+          "D": "Penilaian agunan pinjaman adalah prosedur analis kredit bank.",
+          "E": "Lelang sitaan bea cukai adalah penegakan hukum kepabeanan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "pelaksanaan desentralisasi fiskal sesuai dengan dengan UU No. 33",
+        "tahun 2004,"
+      ],
+      "topik_materi": "Keterkaitan I-Account dan UU 33/2004",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kesiapan format I-account dalam mendukung desentralisasi fiskal berkaitan erat dengan implementasi regulasi...",
+      "pilihan": {
+        "A": "Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas",
+        "B": "Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen",
+        "C": "Undang-Undang Nomor 33 Tahun 2004 tentang Perimbangan Keuangan",
+        "D": "Undang-Undang Nomor 5 Tahun 1999 tentang Larangan Praktik Monopoli",
+        "E": "Undang-Undang Nomor 10 Tahun 1998 tentang Perbankan Komersial"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Format I-Account mendukung desentralisasi fiskal **sesuai UU No. 33 Tahun 2004 tentang Perimbangan Keuangan antara Pemerintah Pusat dan Daerah**.",
+        "alasan_kunci": "Opsi C tepat karena undang-undang perimbangan keuangan mengatur pembagian dana bagi hasil, DAU, dan DAK yang disajikan secara terinci dalam format I-Account. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "UU Perseroan Terbatas mengatur badan usaha perseroan privat.",
+          "B": "UU Perlindungan Konsumen mengatur hak-hak konsumen perniagaan.",
+          "D": "UU Larangan Praktik Monopoli mengatur persaingan usaha niaga.",
+          "E": "UU Perbankan mengatur kelembagaan dan operasional bank komersial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "penyusunan APBN.",
+        "Mempermudah melakukan analisis komparasi mengenai perkembangan operasi"
+      ],
+      "topik_materi": "Transparansi Posisi Defisit Riil pada I-Account",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Keunggulan utama format I-account dibandingkan format T-account scontro dalam menyajikan posisi defisit anggaran terletak pada...",
+      "pilihan": {
+        "A": "Penggabungan seluruh saldo tabungan perbankan swasta ke dalam kas",
+        "B": "Pencatatan pinjaman utang luar negeri langsung sebagai pendapatan",
+        "C": "Peniadaan pencatatan beban pembayaran bunga pinjaman pemerintah",
+        "D": "Penyajian selisih murni pendapatan dan belanja sebelum pos pembiayaan",
+        "E": "Penghapusan kewajiban penyusunan laporan neraca perbendaharaan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Format I-Account menyajikan pendapatan dikurangi belanja untuk **menghasilkan posisi surplus/defisit secara murni, yang kemudian ditutup melalui pos pembiayaan netral**.",
+        "alasan_kunci": "Opsi D tepat karena format stafel memperlihatkan secara transparan berapa kekurangan kas riil pemerintah yang harus ditutup melalui utang, berbeda dari format lama yang menyamarkan utang sebagai pendapatan. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tabungan swasta bukan bagian dari kas perbendaharaan negara.",
+          "B": "Mencatat utang sebagai pendapatan adalah kelemahan format lama scontro.",
+          "C": "Beban bunga utang tetap dicatat rinci dalam pos belanja operasional.",
+          "E": "Laporan neraca tetap wajib disusun sesuai standar akuntansi SAP."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "memperkecil",
+        "diskrepansi",
+        "pembiayaan",
+        "Bank Indonesia."
+      ],
+      "topik_materi": "Sinkronisasi Fiskal dan Moneter via I-Account",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Upaya memperkecil diskrepansi data pembiayaan antara Kementerian Keuangan dan Bank Indonesia melalui format I-account dilakukan dengan menyinkronkan...",
+      "pilihan": {
+        "A": "Jumlah kepemilikan sertifikat deposito perorangan pegawai di daerah",
+        "B": "Daftar hadir seluruh staf kantor perbendaharaan dengan pegawai bank",
+        "C": "Jadwal jam buka kantor pelayanan dinas dengan kantor cabang perbankan",
+        "D": "Tarif sewa mobil dinas para pimpinan kementerian dengan direksi bank",
+        "E": "Catatan penarikan pembiayaan kas negara dengan data mutasi moneter BI"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Format I-Account mempermudah analisis dan pengendalian pelaksanaan APBN sehingga **dapat memperkecil diskrepansi dengan data pembiayaan Bank Indonesia** melalui rekonsiliasi berkala.",
+        "alasan_kunci": "Opsi E tepat karena rekonsiliasi data aliran kas penarikan utang dan pergerakan saldo rekening kas negara di bank sentral menjamin integritas data fiskal-moneter makro. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Sertifikat deposito perorangan pegawai adalah aset finansial privat.",
+          "B": "Daftar hadir staf kantor merupakan administrasi disiplin absensi SDM.",
+          "C": "Jam buka kantor dinas adalah tata tertib jam kerja pelayanan publik.",
+          "D": "Sewa mobil dinas adalah standar biaya masukan fasilitas kantor."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "penjabaran rencana kerja pemerintah untuk"
+      ],
+      "topik_materi": "Maksud Penyusunan APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyusunan APBN pada hakikatnya dimaksudkan sebagai bentuk penjabaran dari...",
+      "pilihan": {
+        "A": "Rencana kerja pemerintah kurun waktu satu tahun",
+        "B": "Pengawasan menyeluruh terhadap pelaksanaan anggaran",
+        "C": "Pengesahan penetapan tarif penerimaan perpajakan",
+        "D": "Penentuan alokasi dana transfer ke daerah otonom",
+        "E": "Pengendalian cadangan devisa dan peredaran moneter"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Penyusunan APBN dimaksudkan sebagai **penjabaran rencana kerja pemerintah** untuk kurun waktu **satu tahun**.",
+        "alasan_kunci": "Opsi A tepat karena secara prinsipil penyusunan anggaran negara berfungsi menerjemahkan sasaran program kerja tahunan pemerintah ke dalam angka-angka penerimaan dan pengeluaran. Hal ini memastikan setiap target pembangunan didukung oleh ketersediaan alokasi dana yang terencana.",
+        "bedah_pengecoh": {
+          "B": "Pengawasan pelaksanaan merupakan fungsi tahap pelaksanaan dan pertanggungjawaban anggaran.",
+          "C": "Penetapan tarif pajak adalah instrumen regulasi kebijakan fiskal pendapatan.",
+          "D": "Alokasi dana transfer daerah merupakan salah satu pos belanja dalam APBN.",
+          "E": "Pengendalian cadangan devisa merupakan wewenang kebijakan moneter bank sentral."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "penyelenggaraan negara dan kemampuan dalam menghimpun"
+      ],
+      "topik_materi": "Dasar Penyesuaian Penyusunan APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyusunan anggaran pendapatan dan belanja negara disesuaikan dengan dasar...",
+      "pilihan": {
+        "A": "Permintaan alokasi anggaran belanja dari setiap lembaga",
+        "B": "Kebutuhan penyelenggaraan negara dan kemampuan menghimpun pendapatan",
+        "C": "Proyeksi target pertumbuhan ekonomi jangka panjang nasional",
+        "D": "Kapasitas penyerapan anggaran belanja operasional kementerian",
+        "E": "Batas maksimum pinjaman luar negeri pemerintah pusat"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Penyusunan APBN disesuaikan dengan **kebutuhan penyelenggaraan negara** dan **kemampuan dalam menghimpun pendapatan negara**.",
+        "alasan_kunci": "Opsi B tepat karena perumusan postur APBN wajib menyeimbangkan antara tuntutan pembiayaan tugas operasional negara dengan kapasitas riil penerimaan kas negara. Keseimbangan ini menjaga stabilitas fiskal agar pemerintah tidak mengalami defisit berlebihan.",
+        "bedah_pengecoh": {
+          "A": "Usulan instansi harus disaring sesuai batas kemampuan pendanaan negara.",
+          "C": "Pertumbuhan jangka panjang adalah asumsi makro, bukan tolok ukur penyesuaian belanja.",
+          "D": "Daya serap kementerian merupakan indikator kinerja serapan, bukan dasar penyusunan.",
+          "E": "Batas pinjaman luar negeri adalah instrumen pengendalian defisit pembiayaan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "belanja operasional tidak melampaui",
+        "pendapatan dalam tahun anggaran"
+      ],
+      "topik_materi": "Batasan Belanja Operasional APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam penyusunan APBN, belanja operasional pemerintah diupayakan agar...",
+      "pilihan": {
+        "A": "Mengutamakan alokasi belanja modal proyek fisik daerah",
+        "B": "Selalu seimbang dengan penerimaan pembiayaan utang pemerintah",
+        "C": "Tidak melampaui pendapatan dalam tahun anggaran bersangkutan",
+        "D": "Menghabiskan seluruh sisa lebih perhitungan anggaran tahunan",
+        "E": "Ditetapkan sama persis dengan pagu anggaran tahun sebelumnya"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dalam penyusunan APBN diupayakan agar **belanja operasional tidak melampaui pendapatan** dalam tahun anggaran yang bersangkutan.",
+        "alasan_kunci": "Opsi C tepat karena prinsip kehati-hatian fiskal menuntut agar kebutuhan konsumtif rutin birokrasi sepenuhnya tertutupi oleh pendapatan tahun berjalan. Hal ini mencegah penggunaan pembiayaan utang untuk membiayai belanja operasional rutin pemerintah.",
+        "bedah_pengecoh": {
+          "A": "Belanja modal merupakan jenis belanja terpisah dari belanja operasional aparatur.",
+          "B": "Pembiayaan utang diarahkan untuk belanja produktif, bukan menyamai belanja operasional.",
+          "D": "Menghabiskan sisa anggaran bertentangan dengan prinsip efisiensi belanja negara.",
+          "E": "Pagu belanja disesuaikan dinamis sesuai kebutuhan riil dan target kinerja tahunan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "maksimal 3 % dari Produk Domestik Bruto"
+      ],
+      "topik_materi": "Batas Maksimal Defisit Anggaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sesuai ketentuan UU Nomor 17 Tahun 2003, defisit anggaran dibatasi maksimal...",
+      "pilihan": {
+        "A": "10 persen dari Produk Domestik Bruto",
+        "B": "5 persen dari Produk Domestik Bruto",
+        "C": "7 persen dari Produk Domestik Bruto",
+        "D": "3 persen dari Produk Domestik Bruto",
+        "E": "15 persen dari Produk Domestik Bruto"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dalam hal anggaran defisit, **defisit yang terjadi dibatasi maksimal 3 % dari Produk Domestik Bruto**.",
+        "alasan_kunci": "Opsi D tepat karena batas angka tiga persen dari PDB adalah ambang batas disiplin fiskal yang ditetapkan undang-undang. Pembatasan ini bertujuan menjaga kredibilitas APBN dan mencegah risiko krisis utang publik.",
+        "bedah_pengecoh": {
+          "A": "Sepuluh persen merupakan rasio yang membahayakan kesinambungan fiskal nasional.",
+          "B": "Batas lima persen melampaui ketentuan undang-undang disiplin keuangan negara.",
+          "C": "Tujuh persen merupakan angka yang terlampau tinggi untuk batas defisit normal.",
+          "E": "Lima belas persen bukan batas yang sah dalam ketentuan keuangan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "maksimal adalah 60 % dari Produk Domestik Bruto"
+      ],
+      "topik_materi": "Batas Maksimal Rasio Utang Pinjaman",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Batas maksimal jumlah pinjaman untuk membiayai defisit APBN ditetapkan sebesar...",
+      "pilihan": {
+        "A": "20 persen dari Produk Domestik Bruto",
+        "B": "50 persen dari Produk Domestik Bruto",
+        "C": "40 persen dari Produk Domestik Bruto",
+        "D": "30 persen dari Produk Domestik Bruto",
+        "E": "60 persen dari Produk Domestik Bruto"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Jumlah pinjaman untuk membiayai defisit anggaran **maksimal adalah 60 % dari Produk Domestik Bruto**.",
+        "alasan_kunci": "Opsi E tepat karena UU Keuangan Negara menggariskan batas aman stok utang pemerintah maksimal enam puluh persen terhadap PDB nasional. Batasan ini diadopsi dari standar internasional untuk menjaga kesehatan neraca moneter dan fiskal negara.",
+        "bedah_pengecoh": {
+          "A": "Dua puluh persen bukan ambang batas maksimum pinjaman yang diatur UU.",
+          "B": "Lima puluh persen adalah target kehati-hatian internal namun bukan batas legal UU.",
+          "C": "Empat puluh persen merupakan rasio konservatif, bukan batas maksimum regulasi.",
+          "D": "Tiga puluh persen merupakan rasio rendah dan bukan batas undang-undang."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "pertanggungjawaban antar generasi"
+      ],
+      "topik_materi": "Prinsip Penggunaan Surplus Anggaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rencana penggunaan surplus anggaran diajukan kepada DPR dengan mempertimbangkan...",
+      "pilihan": {
+        "A": "Prinsip pertanggungjawaban antar generasi",
+        "B": "Prinsip efisiensi penyerapan belanja tahunan",
+        "C": "Prinsip keseimbangan fiskal daerah otonom",
+        "D": "Prinsip percepatan likuidasi piutang macet",
+        "E": "Prinsip optimalisasi penerimaan bukan pajak"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pemerintah mengajukan penggunaan surplus anggaran kepada DPR dengan **mempertimbangkan prinsip pertanggungjawaban antar generasi**.",
+        "alasan_kunci": "Opsi A tepat karena dana surplus tidak boleh dihabiskan untuk konsumsi tahun berjalan saja, melainkan harus memberi manfaat bagi generasi masa depan. Konsep ini menjamin keadilan antargenerasi dalam menikmati hasil kekayaan negara.",
+        "bedah_pengecoh": {
+          "B": "Efisiensi belanja merupakan tolok ukur operasional pengadaan dan penyerapan kas.",
+          "C": "Keseimbangan fiskal daerah diatur dalam mekanisme transfer perimbangan keuangan.",
+          "D": "Likuidasi piutang merupakan urusan teknis penagihan piutang perbendaharaan.",
+          "E": "Optimalisasi PNBP adalah sasaran peningkatan penerimaan kas negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "pengurangan utang, pembentukan dana cadangan, dan peningkatan jaminan sosial"
+      ],
+      "topik_materi": "Prioritas Alokasi Surplus APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan prinsip pertanggungjawaban antar generasi, penggunaan surplus anggaran diutamakan untuk...",
+      "pilihan": {
+        "A": "Penambahan belanja operasional dan tunjangan kinerja",
+        "B": "Pengurangan utang, dana cadangan, dan jaminan sosial",
+        "C": "Peningkatan modal penyertaan badan usaha swasta",
+        "D": "Pembiayaan perjalanan dinas kementerian lembaga",
+        "E": "Pelunasan bantuan hibah luar negeri jangka pendek"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Penggunaan surplus anggaran diutamakan untuk **pengurangan utang, pembentukan dana cadangan, dan peningkatan jaminan sosial**.",
+        "alasan_kunci": "Opsi B tepat karena tiga pos alokasi ini secara langsung memperkuat ketahanan fiskal masa depan dan kesejahteraan sosial masyarakat. Pengurangan beban utang meringankan kewajiban generasi penerus bangsa.",
+        "bedah_pengecoh": {
+          "A": "Belanja operasional konsumtif tidak boleh ditambah dari surplus anggaran.",
+          "C": "Penyertaan modal negara ditujukan pada BUMN, bukan badan usaha swasta.",
+          "D": "Perjalanan dinas aparatur merupakan belanja rutin yang wajib dibatasi.",
+          "E": "Bantuan hibah luar negeri merupakan penerimaan, bukan kewajiban pelunasan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "format anggaran terpadu (unified budget)"
+      ],
+      "topik_materi": "Penerapan Format Unified Budget",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Mulai APBN tahun 2005, format penyusunan anggaran negara menerapkan sistem...",
+      "pilihan": {
+        "A": "Format anggaran kinerja berbasis kuota",
+        "B": "Format anggaran tradisional berimbang",
+        "C": "Format anggaran terpadu (unified budget)",
+        "D": "Format anggaran kas terpusat daerah",
+        "E": "Format kerangka pengeluaran berjenjang"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Mulai APBN tahun 2005, format penyusunan APBN menggunakan **format anggaran terpadu (unified budget)**.",
+        "alasan_kunci": "Opsi C tepat karena pembaruan sistem anggaran tahun 2005 menyatukan pembiayaan operasional rutin dan pembangunan ke dalam satu wadah terpadu. Sistem ini menghapus dikotomi anggaran yang lama.",
+        "bedah_pengecoh": {
+          "A": "Format kuota bukan istilah standar dalam sistem penganggaran modern.",
+          "B": "Anggaran tradisional berimbang adalah sistem lama era sebelum reformasi keuangan.",
+          "D": "Kas terpusat daerah merupakan urusan penatausahaan kas daerah.",
+          "E": "Kerangka pengeluaran berjenjang bukan nama format resmi anggaran negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "melebur anggaran rutin dan",
+        "mengurangi alokasi yang tumpang tindih"
+      ],
+      "topik_materi": "Tujuan Penggabungan Anggaran Rutin dan Pembangunan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan utama melebur anggaran rutin dan pembangunan ke dalam satu format adalah...",
+      "pilihan": {
+        "A": "Meningkatkan proporsi belanja modal luar negeri",
+        "B": "Mempercepat pencairan dana bantuan sosial darurat",
+        "C": "Menambah kewenangan kuasa pengguna anggaran daerah",
+        "D": "Mengurangi alokasi belanja yang tumpang tindih",
+        "E": "Menyederhanakan penarikan pinjaman jangka menengah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Penggabungan belanja rutin dengan belanja pembangunan diharapkan akan **mengurangi alokasi yang tumpang tindih**.",
+        "alasan_kunci": "Opsi D tepat karena pada sistem dual budgeting sebelumnya banyak pos kegiatan rutin yang didanai melalui proyek pembangunan sehingga terjadi duplikasi pendanaan. Peleburan anggaran mengeliminasi pemborosan alokasi tersebut.",
+        "bedah_pengecoh": {
+          "A": "Peningkatan belanja modal luar negeri bukan maksud unifikasi anggaran.",
+          "B": "Pencairan bansos memiliki regulasi mekanisme tersendiri.",
+          "C": "Peleburan anggaran tidak bertujuan memperluas kewenangan administratif KPA.",
+          "E": "Penarikan pinjaman merupakan urusan manajemen utang pada Ditjen PPR."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "gaji, pemeliharaan, perjalanan dinas dan belanja barang"
+      ],
+      "topik_materi": "Komponen Belanja Rutin",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Komponen belanja rutin yang dilebur dalam anggaran terpadu mencakup pengeluaran...",
+      "pilihan": {
+        "A": "Cicilan pokok utang, sewa guna usaha, dan obligasi negara",
+        "B": "Belanja modal tanah, gedung, serta infrastruktur jalan",
+        "C": "Subsidi energi listrik, bahan bakar, dan pupuk subsidi",
+        "D": "Dana bagi hasil, dana alokasi umum, dan hibah daerah",
+        "E": "Gaji, pemeliharaan, perjalanan dinas dan belanja barang"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Belanja rutin yang digabung meliputi **gaji, pemeliharaan, perjalanan dinas dan belanja barang**.",
+        "alasan_kunci": "Opsi E tepat karena keempat kelompok biaya tersebut merupakan biaya operasional mendasar bagi berjalannya birokrasi kementerian. Penyatuan komponen ini dengan belanja modal menghasilkan rencana kerja yang utuh.",
+        "bedah_pengecoh": {
+          "A": "Cicilan pokok dan obligasi masuk dalam kelompok pos pembiayaan anggaran.",
+          "B": "Tanah, gedung, dan infrastruktur digolongkan ke dalam belanja modal.",
+          "C": "Subsidi energi dan pupuk merupakan pos pengeluaran subsidi negara.",
+          "D": "Dana bagi hasil dan alokasi umum termasuk pos transfer ke daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "antara kegiatan operasional dengan proyek, khususnya proyek-proyek non-fisik"
+      ],
+      "topik_materi": "Eliminasi Duplikasi Proyek Non-Fisik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerapan anggaran terpadu secara tegas dimaksudkan untuk menghilangkan duplikasi...",
+      "pilihan": {
+        "A": "Antara kegiatan operasional dengan proyek non-fisik",
+        "B": "Antara belanja pegawai pusat dengan pegawai daerah",
+        "C": "Antara penerimaan pajak dengan bea cukai impor",
+        "D": "Antara belanja pemeliharaan dengan pengadaan tanah",
+        "E": "Antara subsidi bunga utang dengan penerbitan obligasi"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Format terpadu diterapkan untuk menghilangkan duplikasi **antara kegiatan operasional dengan proyek, khususnya proyek-proyek non-fisik**.",
+        "alasan_kunci": "Opsi A tepat karena sebelum reformasi sering terjadi kegiatan seminar atau kajian rutin birokrasi dibiayai ganda melalui pos operasional rutin sekaligus proyek non-fisik pembangunan. Anggaran terpadu menutup celah duplikasi pengeluaran ini.",
+        "bedah_pengecoh": {
+          "B": "Belanja pegawai pusat dan daerah dipisahkan menurut kewenangan APBN dan APBD.",
+          "C": "Pajak dan bea cukai merupakan jenis penerimaan perpajakan yang berbeda pos.",
+          "D": "Pemeliharaan dan tanah dibedakan secara tegas dalam klasifikasi jenis belanja.",
+          "E": "Bunga utang dan obligasi adalah transaksi pembiayaan terpisah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "output/outcome yang dicapai",
+        "penganggaran organisasi"
+      ],
+      "topik_materi": "Tujuan Keterkaitan Output/Outcome",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyusunan anggaran berbasis kinerja dimudahkan oleh format terpadu untuk memperjelas kaitan antara...",
+      "pilihan": {
+        "A": "Target penerimaan pajak dengan biaya operasional pemungutan",
+        "B": "Output atau outcome yang dicapai dengan penganggaran organisasi",
+        "C": "Realisasi fisik proyek dengan jadwal pencairan dana kas",
+        "D": "Beban kerja aparatur dengan tunjangan remunerasi bulanan",
+        "E": "Nilai aset persediaan dengan liabilitas jangka pendek satuan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Format terpadu memudahkan penyusunan ABK guna memperjelas keterkaitan antara **output/outcome yang dicapai dengan penganggaran organisasi**.",
+        "alasan_kunci": "Opsi B tepat karena setiap rupiah yang dialokasikan dalam APBN wajib dapat dipertanggungjawabkan hasilnya secara nyata berupa keluaran dan dampak bagi masyarakat. Hal ini mewujudkan transparansi alokasi belanja publik.",
+        "bedah_pengecoh": {
+          "A": "Biaya pemungutan pajak bukan fokus utama pengukuran output kinerja belanja.",
+          "C": "Jadwal pencairan kas merupakan bagian dari manajemen likuiditas kas negara.",
+          "D": "Remunerasi aparatur diatur melalui sistem kompensasi pegawai sipil.",
+          "E": "Persediaan dan liabilitas merupakan komponen neraca laporan akuntansi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "Memberikan gambaran yang objektif dan proporsional"
+      ],
+      "topik_materi": "Objektivitas Kegiatan Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerapan anggaran terpadu dan reklasifikasi belanja bertujuan memberikan gambaran yang...",
+      "pilihan": {
+        "A": "Sederhana tanpa mencantumkan rincian belanja operasional",
+        "B": "Menguntungkan bagi penilaian kreditur lembaga donor asing",
+        "C": "Objektif dan proporsional mengenai kegiatan keuangan pemerintah",
+        "D": "Seragam di seluruh tingkatan satuan kerja perangkat daerah",
+        "E": "Mengutamakan perluasan belanja barang operasional kementerian"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Penerapan anggaran terpadu bertujuan **memberikan gambaran yang objektif dan proporsional mengenai kegiatan keuangan pemerintah**.",
+        "alasan_kunci": "Opsi C tepat karena reklasifikasi belanja menyajikan data alokasi dana secara faktual tanpa distorsi klasifikasi lama. Publik dan parlemen dapat melihat secara proporsional porsi pengeluaran untuk operasional versus pembangunan.",
+        "bedah_pengecoh": {
+          "A": "Penyajian anggaran justru semakin terperinci dan transparan hingga level keluaran.",
+          "B": "Penyusunan anggaran negara ditujukan untuk akuntabilitas publik, bukan memikat donor.",
+          "D": "Penerapan pada level APBN fokus pada struktur kementerian negara pemerintah pusat.",
+          "E": "Tujuan reformasi adalah efisiensi belanja, bukan memperbesar belanja barang."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "standar internasional"
+      ],
+      "topik_materi": "Kredibilitas Statistik Keuangan Internasional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Peningkatan kredibilitas statistik keuangan pemerintah dilakukan dengan mengacu pada...",
+      "pilihan": {
+        "A": "Kebijakan fiskal gabungan negara-negara berkembang",
+        "B": "Sistem akuntansi perusahaan perbankan multinasional",
+        "C": "Rekomendasi audit badan akreditasi pendidikan tinggi",
+        "D": "Format keuangan pemerintah sesuai standar internasional",
+        "E": "Pedoman tata kelola perseroan terbatas terbuka nasional"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Statistik keuangan pemerintah ditingkatkan kredibilitasnya dengan mengacu kepada **format keuangan Pemerintah sesuai standar internasional** (Government Finance Statistics/GFS).",
+        "alasan_kunci": "Opsi D tepat karena adopsi standar internasional GFS memungkinkan laporan keuangan pemerintah Indonesia dapat diperbandingkan secara global. Hal ini memperkuat kepercayaan investor dan lembaga internasional terhadap postur fiskal Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Format statistik mengikuti kerangka GFS IMF, bukan sekadar kompromi regional.",
+          "B": "Sistem perbankan mengacu pada standar PSAK korporasi komersial.",
+          "C": "Akreditasi pendidikan tinggi tidak mengatur format statistik keuangan negara.",
+          "E": "Tata kelola perseroan berlaku untuk entitas bisnis privat dan pasar modal."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "Anggaran Berbasis Kinerja (ABK) adalah penyiapan anggaran negara"
+      ],
+      "topik_materi": "Definisi Anggaran Berbasis Kinerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Anggaran Berbasis Kinerja (ABK) pada hakikatnya didefinisikan sebagai penyiapan anggaran yang...",
+      "pilihan": {
+        "A": "Mendasarkan perhitungan biaya pada batas pagu pinjaman luar negeri",
+        "B": "Menentukan besaran pagu berdasarkan realisasi penyerapan tahun lalu",
+        "C": "Membagi rata seluruh pagu dana kepada satuan kerja kementerian",
+        "D": "Menetapkan alokasi belanja menurut usulan lisan pimpinan satker",
+        "E": "Mengaitkan setiap biaya dengan keluaran dan manfaat yang dihasilkan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Anggaran Berbasis Kinerja (ABK)** adalah penyiapan anggaran negara di mana **mengaitkan setiap biaya** yang dituangkan dalam kegiatan dengan **keluaran (outputs) dan manfaat yang dihasilkan (outcomes)**.",
+        "alasan_kunci": "Opsi E tepat karena inti dari pendekatan ABK adalah menghubungkan input rupiah dengan prestasi kerja nyata berupa output dan outcome. Pendekatan ini menggeser fokus administrasi dari sekadar input menjadi hasil yang terukur.",
+        "bedah_pengecoh": {
+          "A": "Batas pinjaman luar negeri adalah plafon pembiayaan, bukan konsep penyiapan ABK.",
+          "B": "Mendasarkan alokasi pada belanja masa lalu merupakan ciri anggaran inkremental kuno.",
+          "C": "Membagi rata pagu mengabaikan prioritas program dan target kinerja.",
+          "D": "Usulan tanpa tolok ukur kinerja bertentangan dengan prinsip penganggaran modern."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "tahunan (Renja)/operasional Renstra"
+      ],
+      "topik_materi": "Integrasi Program dengan Renja dan Renstra",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam sistem ABK, program dan kegiatan terintegrasi dari rencana kinerja tahunan serta...",
+      "pilihan": {
+        "A": "Rencana operasional rencana strategis kementerian",
+        "B": "Laporan pengawasan internal inspektorat daerah",
+        "C": "Daftar susunan pegawai dan formasi jabatan fungsional",
+        "D": "Hasil rekapitulasi surat bukti tagihan perbendaharaan",
+        "E": "Kajian akademis lembaga swadaya masyarakat independen"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Anggaran negara dituangkan dalam program dan kegiatan untuk mencapai kinerja tahunan dan terintegrasi dari **rencana kinerja tahunan (Renja)/operasional Renstra**.",
+        "alasan_kunci": "Opsi A tepat karena kesinambungan rencana pembangunan lima tahunan (Renstra) dijabarkan setiap tahun ke dalam Renja dan tercermin dalam alokasi DIPA. Keterpaduan dokumen perencanaan dan penganggaran menjamin pencapaian target jangka menengah.",
+        "bedah_pengecoh": {
+          "B": "Laporan pengawasan inspektorat merupakan umpan balik evaluasi pelaksanaan.",
+          "C": "Formasi pegawai merupakan urusan teknis administrasi kepegawaian aparatur.",
+          "D": "Rekapitulasi tagihan adalah dokumen penatausahaan transaksi kas harian.",
+          "E": "Kajian LSM merupakan aspirasi publik, bukan dokumen perencanaan resmi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "kerangka belanja jangka menengah"
+      ],
+      "topik_materi": "Medium Term Expenditure Framework (MTEF)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsistensi penganggaran tahunan dari tahun ke tahun dijaga dengan menerapkan pedoman...",
+      "pilihan": {
+        "A": "Format neraca penutupan kas umum bendahara",
+        "B": "Kerangka belanja jangka menengah (MTEF)",
+        "C": "Standar operasional prosedur pengadaan rekanan",
+        "D": "Instruksi menteri terkait pembatasan belanja modal",
+        "E": "Pedoman verifikasi dokumen bukti penagihan daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Anggaran tahunan disusun secara konsisten dari tahun ke tahun sesuai dengan **kerangka belanja jangka menengah (Medium Term Expenditure Framework)**.",
+        "alasan_kunci": "Opsi B tepat karena MTEF menyajikan proyeksi alokasi belanja untuk kurun waktu 3 hingga 5 tahun ke depan dengan memperhitungkan implikasi biaya masa datang. Hal ini menjamin program strategis tidak terhenti akibat pergantian tahun anggaran.",
+        "bedah_pengecoh": {
+          "A": "Neraca kas adalah instrumen penatausahaan likuiditas jangka pendek.",
+          "C": "SOP pengadaan merupakan aturan teknis operasional tender barang dan jasa.",
+          "D": "Instruksi pembatasan belanja adalah kebijakan penghematan temporer fiskal.",
+          "E": "Pedoman verifikasi tagihan merupakan standar kepatuhan administrasi pencairan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "mencapai kinerja tahunan"
+      ],
+      "topik_materi": "Fokus Program Penganggaran Kinerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perumusan seluruh program dan kegiatan dalam ABK secara terarah difokuskan untuk...",
+      "pilihan": {
+        "A": "Meningkatkan sisa lebih pembiayaan anggaran tahun berjalan",
+        "B": "Menghabiskan pagu dana kas sebelum penutupan buku",
+        "C": "Mencapai kinerja tahunan yang telah ditetapkan",
+        "D": "Memperluas struktur jenjang birokrasi kementerian lembaga",
+        "E": "Mengurangi alokasi belanja transfer bagi pemerintah daerah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Anggaran negara dituangkan dalam program dan kegiatan untuk **mencapai kinerja tahunan**.",
+        "alasan_kunci": "Opsi C tepat karena orientasi utama ABK adalah pencapaian sasaran program kerja nyata dalam satu tahun anggaran. Penilaian keberhasilan satuan kerja tidak lagi semata didasarkan pada tingkat serapan dana melainkan capaian target indikator kinerjanya.",
+        "bedah_pengecoh": {
+          "A": "Menaikkan SiLPA bukan tujuan perumusan program kerja dan kegiatan.",
+          "B": "Menghabiskan pagu secara terburu-buru merupakan praktik negatif yang dihilangkan.",
+          "D": "Perluasan birokrasi bertentangan dengan kebijakan penataan organisasi yang ramping.",
+          "E": "Pengurangan alokasi transfer daerah bukan sasaran penerapan sistem ABK."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "manfaat yang dihasilkan (outcomes)"
+      ],
+      "topik_materi": "Tolok Ukur Kemanfaatan Belanja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Efektivitas belanja pemerintah dalam kerangka ABK dinilai dari keluaran serta...",
+      "pilihan": {
+        "A": "Jumlah panitia pengadaan yang dilibatkan satker",
+        "B": "Kecepatan pencairan uang persediaan bendahara",
+        "C": "Kerapian fisik map dokumen bukti pengeluaran",
+        "D": "Manfaat yang dihasilkan bagi masyarakat (outcomes)",
+        "E": "Besaran sisa kas yang belum terpakai di satker"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Tolok ukur keberhasilan penyiapan anggaran mengaitkan biaya dengan keluaran dan **manfaat yang dihasilkan (outcomes)**.",
+        "alasan_kunci": "Opsi D tepat karena manfaat jangka panjang bagi penerima layanan merupakan tolok ukur sejati dari efektivitas uang rakyat yang dibelanjakan negara. Output fisik yang dibangun harus menghasilkan perbaikan kualitas hidup masyarakat.",
+        "bedah_pengecoh": {
+          "A": "Jumlah panitia adalah urusan administratif pengorganisasian kerja.",
+          "B": "Kecepatan perputaran kas persediaan adalah indikator operasional kasir.",
+          "C": "Kerapian berkas bukti merupakan syarat administratif pertanggungjawaban.",
+          "E": "Sisa kas merupakan variabel likuiditas pada akhir siklus anggaran."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "menurut fungsi, organisasi dan jenis"
+      ],
+      "topik_materi": "Tiga Dimensi Reklasifikasi Belanja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Reklasifikasi belanja negara dalam reformasi penganggaran dikelompokkan menurut...",
+      "pilihan": {
+        "A": "Tingkat risiko audit, waktu lelang, dan jenis rekanan",
+        "B": "Lokasi daerah, status otonomi, dan pendapatan asli",
+        "C": "Masa berlaku ikatan, suku bunga, dan jenis valuta",
+        "D": "Pangkat aparatur, eselon jabatan, dan masa tugas",
+        "E": "Fungsi, organisasi, dan jenis belanja negara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Reklasifikasi belanja negara dilakukan **menurut fungsi, organisasi dan jenis**.",
+        "alasan_kunci": "Opsi E tepat karena tiga dimensi ini merupakan standar klasifikasi anggaran modern internasional. Klasifikasi fungsi mencerminkan tujuan pelayanan publik, klasifikasi organisasi menunjukkan penanggung jawab program, dan klasifikasi jenis merinci sifat ekonomi belanjanya.",
+        "bedah_pengecoh": {
+          "A": "Risiko audit dan rekanan adalah parameter teknis pengadaan dan pemeriksa.",
+          "B": "Lokasi dan PAD merupakan dasar klasifikasi anggaran keuangan daerah APBD.",
+          "C": "Masa berlaku dan bunga adalah parameter klasifikasi portofolio pinjaman utang.",
+          "D": "Pangkat dan eselon merupakan variabel data administrasi kepegawaian."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "UU Nomor 1",
+        "tentang Perbendaharaan Negara"
+      ],
+      "topik_materi": "Dasar Hukum Perbendaharaan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan pokok perbendaharaan negara disahkan pada tanggal 14 Januari 2004 melalui...",
+      "pilihan": {
+        "A": "UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara",
+        "B": "UU Nomor 17 Tahun 2003 tentang Keuangan Negara",
+        "C": "UU Nomor 15 Tahun 2004 tentang Pemeriksaan Keuangan",
+        "D": "UU Nomor 25 Tahun 2004 tentang Perencanaan Pembangunan",
+        "E": "UU Nomor 33 Tahun 2004 tentang Perimbangan Keuangan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pemerintah bersama DPR pada tanggal 14 Januari 2004 mengesahkan **UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara**.",
+        "alasan_kunci": "Opsi A tepat karena UU 1/2004 merupakan landasan hukum formil tertinggi bagi operasionalisasi perbendaharaan di seluruh instansi pemerintah. Regulasi ini menjadi pilar kedua dalam paket undang-undang reformasi keuangan negara.",
+        "bedah_pengecoh": {
+          "B": "UU 17/2003 disahkan pada tahun 2003 dan merupakan payung umum keuangan negara.",
+          "C": "UU 15/2004 mengatur pemeriksaan pengelolaan dan tanggung jawab keuangan negara.",
+          "D": "UU 25/2004 mengatur sistem perencanaan pembangunan nasional.",
+          "E": "UU 33/2004 mengatur perimbangan keuangan antara pusat dan daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "17 Tahun 2003. Menurut UU Nomor 1 Tahun 2004"
+      ],
+      "topik_materi": "Kedudukan UU Perbendaharaan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "UU Perbendaharaan Negara berkedudukan sebagai ketentuan pelaksanaan tindak lanjut dari...",
+      "pilihan": {
+        "A": "Peraturan Pemerintah tentang Standar Akuntansi",
+        "B": "UU Nomor 17 Tahun 2003 tentang Keuangan Negara",
+        "C": "Undang-Undang Administrasi Pemerintahan Tata Usaha",
+        "D": "Ketetapan Majelis Permusyawaratan Rakyat",
+        "E": "Undang-Undang Badan Usaha Milik Negara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "UU Perbendaharaan Negara merupakan **ketentuan pelaksanaan sebagai tindak lanjut atas disahkannya UU Nomor 17 Tahun 2003**.",
+        "alasan_kunci": "Opsi B tepat karena prinsip-prinsip umum pengelolaan fiskal yang dirumuskan dalam UU 17/2003 diturunkan ke dalam pedoman teknis pelaksanaan kebendaharaan melalui UU 1/2004. Keduanya saling melengkapi dan terikat secara hierarki perundang-undangan.",
+        "bedah_pengecoh": {
+          "A": "Standar Akuntansi Pemerintahan diatur di bawah undang-undang melalui Peraturan Pemerintah.",
+          "C": "UU Administrasi Pemerintahan mengatur tata kelola keputusan badan atau pejabat negara.",
+          "D": "TAP MPR merupakan produk hukum ketetapan lembaga legislatif era sebelumnya.",
+          "E": "UU BUMN mengatur tata kelola perseroan dan perum milik negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "investasi dan kekayaan yang dipisahkan"
+      ],
+      "topik_materi": "Definisi Perbendaharaan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perbendaharaan Negara didefinisikan sebagai pengelolaan dan pertanggungjawaban keuangan negara termasuk...",
+      "pilihan": {
+        "A": "Seluruh cadangan modal badan usaha swasta murni",
+        "B": "Aset tanah milik perorangan pegawai negeri sipil",
+        "C": "Investasi dan kekayaan yang dipisahkan dalam APBN/APBD",
+        "D": "Kekayaan lembaga swadaya masyarakat dan yayasan",
+        "E": "Penerimaan laba kotor korporasi pemegang izin tambang"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Perbendaharaan Negara adalah pengelolaan dan pertanggungjawaban keuangan negara, **termasuk investasi dan kekayaan yang dipisahkan**, yang ditetapkan dalam APBN dan APBD.",
+        "alasan_kunci": "Opsi C tepat karena batasan yuridis perbendaharaan negara mencakup modal negara yang disertakan pada BUMN maupun badan hukum lainnya. Pengelolaan modal tersebut tetap berada dalam pengawasan pertanggungjawaban publik.",
+        "bedah_pengecoh": {
+          "A": "Cadangan modal swasta murni berada di luar ruang lingkup perbendaharaan negara.",
+          "B": "Aset pribadi pegawai adalah kepemilikan privat di luar ranah keuangan negara.",
+          "D": "Kekayaan yayasan non-pemerintah merupakan milik privat berbadan hukum yayasan.",
+          "E": "Laba korporasi tambang bukan aset negara sebelum disetor berupa pajak dan royalti."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "Pengelolaan kas negara/daerah"
+      ],
+      "topik_materi": "Ruang Lingkup Pengelolaan Kas",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu rincian ruang lingkup perbendaharaan negara dalam undang-undang adalah...",
+      "pilihan": {
+        "A": "Penyelenggaraan pemilihan umum kepala daerah",
+        "B": "Penetapan vonis sengketa tata usaha",
+        "C": "Pengawasan izin impor industri otomotif",
+        "D": "Pengelolaan kas negara atau daerah",
+        "E": "Pemberian status akreditasi fasilitas medis"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Ruang lingkup Perbendaharaan Negara meliputi **Pengelolaan kas negara/daerah**.",
+        "alasan_kunci": "Opsi D tepat karena penatausahaan dan pengendalian arus likuiditas uang tunai negara merupakan fungsi inti dari institusi perbendaharaan. Pengelolaan kas menjamin ketersediaan dana saat kewajiban pembayaran jatuh tempo.",
+        "bedah_pengecoh": {
+          "A": "Penyelenggaraan pilkada adalah mandat komisi pemilihan umum.",
+          "B": "Vonis sengketa TUN adalah kompetensi lembaga peradilan tata usaha negara.",
+          "C": "Izin impor industri otomotif merupakan kewenangan kementerian perindustrian.",
+          "E": "Akreditasi fasilitas medis adalah wewenang kementerian kesehatan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "Pengelolaan piutang dan utang negara/daerah"
+      ],
+      "topik_materi": "Ruang Lingkup Piutang dan Utang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bidang perbendaharaan yang mengatur hak tagih serta kewajiban pinjaman pemerintah adalah...",
+      "pilihan": {
+        "A": "Penyusunan kurikulum pelatihan teknis kedinasan",
+        "B": "Penatausahaan sertifikat hak milik tanah adat",
+        "C": "Penetapan standar gaji tenaga kerja sektor swasta",
+        "D": "Pengawasan tingkat inflasi harga komoditas pokok",
+        "E": "Pengelolaan piutang dan utang negara atau daerah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Ruang lingkup perbendaharaan negara mencakup **Pengelolaan piutang dan utang negara/daerah**.",
+        "alasan_kunci": "Opsi E tepat karena penagihan piutang macet dan pembayaran cicilan utang negara memerlukan tata kelola yang transparan dan akuntabel. Pengelolaan ini menjaga solvabilitas neraca keuangan publik.",
+        "bedah_pengecoh": {
+          "A": "Kurikulum pelatihan adalah tugas unit pembina kedinasan SDM.",
+          "B": "Sertifikat tanah adat dikelola oleh kementerian agraria dan tata ruang.",
+          "C": "Upah minimum tenaga kerja swasta ditetapkan oleh dewan pengupahan daerah.",
+          "D": "Pengendalian inflasi komoditas adalah domain tim pengendalian inflasi daerah dan BI."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "Pengelolaan keuangan badan layanan umum"
+      ],
+      "topik_materi": "Ruang Lingkup Keuangan BLU",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Satuan kerja pemerintah yang diberikan fleksibilitas pengelolaan keuangan diatur dalam ruang lingkup...",
+      "pilihan": {
+        "A": "Pengelolaan keuangan badan layanan umum (BLU)",
+        "B": "Penetapan batasan modal perseroan tertutup daerah",
+        "C": "Pengawasan permodalan koperasi simpan pinjam desa",
+        "D": "Pengendalian operasional bank swasta nasional",
+        "E": "Tata kelola organisasi kemasyarakatan non-profit"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Cakupan perbendaharaan negara meliputi **Pengelolaan keuangan badan layanan umum**.",
+        "alasan_kunci": "Opsi A tepat karena BLU merupakan instansi pemerintah yang menerapkan pola pengelolaan keuangan khusus untuk meningkatkan pelayanan umum. Pendapatan layanannya dapat digunakan langsung tanpa harus disetor ke kas negara lebih dahulu.",
+        "bedah_pengecoh": {
+          "B": "Perseroan tertutup daerah merupakan entitas BUMD berbadan hukum PT.",
+          "C": "Koperasi simpan pinjam berada di bawah pembinaan dinas koperasi.",
+          "D": "Pengawasan perbankan swasta merupakan fungsi Otoritas Jasa Keuangan.",
+          "E": "Organisasi kemasyarakatan diatur dalam undang-undang keormasan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "kewenangan administratif"
+      ],
+      "topik_materi": "Pembagian Kewenangan Menteri Teknis",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam pelaksanaan anggaran, menteri teknis atau pimpinan lembaga berkedudukan sebagai pemegang...",
+      "pilihan": {
+        "A": "Kewenangan kebendaharaan umum kas negara",
+        "B": "Kewenangan administratif pelaksanaan anggaran",
+        "C": "Kewenangan yudikatif persidangan sengketa",
+        "D": "Kewenangan audit investigasi tindak pidana",
+        "E": "Kewenangan perumusan standar akuntansi publik"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pelaksanaan anggaran membagi tugas antara Menteri Keuangan selaku pemegang kewenangan kebendaharaan dengan Menteri/Pimpinan Lembaga selaku pemegang **kewenangan administratif**.",
+        "alasan_kunci": "Opsi B tepat karena menteri teknis bertindak sebagai pengguna anggaran yang berwenang menetapkan kegiatan operasional dan membuat perikatan. Pemisahan fungsi ini menerapkan asas saling uji dalam birokrasi negara.",
+        "bedah_pengecoh": {
+          "A": "Kewenangan kebendaharaan umum negara dipegang oleh Menteri Keuangan selaku BUN.",
+          "C": "Kewenangan yudikatif berada pada ranah kekuasaan kehakiman.",
+          "D": "Audit investigasi pidana merupakan wewenang aparat penegak hukum dan BPKP.",
+          "E": "Standar akuntansi pemerintahan dirumuskan oleh komite standar independen KSAP."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "melakukan perikatan atau tindakan lain"
+      ],
+      "topik_materi": "Unsur Perikatan dalam Kewenangan Administratif",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewenangan administratif menteri negara mencakup wewenang untuk melakukan...",
+      "pilihan": {
+        "A": "Penempatan dana cadangan kas umum di perbankan sentral",
+        "B": "Penerbitan surat utang negara di bursa efek internasional",
+        "C": "Perikatan yang mengakibatkan penerimaan atau pengeluaran negara",
+        "D": "Pemeriksaan forensik terhadap rekening penampungan pajak",
+        "E": "Pencairan langsung kas negara tanpa melalui kuasa BUN"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kewenangan administratif mencakup kewenangan untuk **melakukan perikatan atau tindakan lain yang mengakibatkan terjadinya penerimaan atau pengeluaran negara**.",
+        "alasan_kunci": "Opsi C tepat karena pengikatan kontrak kerja pengadaan barang/jasa dengan pihak ketiga merupakan wewenang substantif kementerian pengguna anggaran. Realisasi perikatan inilah yang nantinya melahirkan hak tagih terhadap kas negara.",
+        "bedah_pengecoh": {
+          "A": "Penempatan kas umum negara adalah mandat Bendahara Umum Negara.",
+          "B": "Penerbitan surat utang negara merupakan kewenangan eksklusif Menteri Keuangan.",
+          "D": "Pemeriksaan forensik adalah domain aparat pemeriksa fungsional.",
+          "E": "Pencairan kas wajib melewati verifikasi dan penerbitan SP2D oleh KPPN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "dan pembebanan tagihan yang diajukan kepada menteri negara/lembaga"
+      ],
+      "topik_materi": "Pengujian dan Pembebanan Tagihan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewenangan pimpinan kementerian sehubungan dengan realisasi perikatan meliputi...",
+      "pilihan": {
+        "A": "Pengurangan tarif bea masuk impor komoditas strategis",
+        "B": "Penetapan tingkat suku bunga acuan pinjaman perbankan",
+        "C": "Pemberian grasi pembebasan tuntutan kerugian keuangan",
+        "D": "Pengujian dan pembebanan tagihan yang diajukan pihak ketiga",
+        "E": "Pengalihan saldo kas antar kementerian secara mandiri"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Menteri negara memiliki **kewenangan melakukan pengujian dan pembebanan tagihan yang diajukan** sehubungan dengan realisasi perikatan tersebut.",
+        "alasan_kunci": "Opsi D tepat karena sebelum tagihan diajukan ke perbendaharaan, pejabat kementerian wajib memeriksa kelengkapan prestasi pekerjaan rekanan. Setelah terbukti sah, tagihan tersebut dibebankan pada pagu DIPA yang tersedia.",
+        "bedah_pengecoh": {
+          "A": "Penetapan tarif bea masuk diatur oleh Menteri Keuangan dan kementerian teknis.",
+          "B": "Suku bunga acuan merupakan kewenangan dewan gubernur bank sentral.",
+          "C": "Pemberian grasi adalah hak prerogatif presiden di bidang hukum pidana.",
+          "E": "Pengalihan anggaran antar lembaga dilarang tanpa persetujuan DPR dan Menkeu."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "memerintahkan pembayaran",
+        "menagih penerimaan"
+      ],
+      "topik_materi": "Perintah Pembayaran dan Penagihan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tindakan akhir dari pelaksanaan kewenangan administratif kementerian negara adalah...",
+      "pilihan": {
+        "A": "Membatalkan undang-undang anggaran pendapatan tahun berjalan",
+        "B": "Mencetak uang kertas dan logam untuk pembayaran rekanan",
+        "C": "Menyita barang jaminan utang debitur perbankan komersial",
+        "D": "Menutup rekening kas umum daerah di bank pembangunan",
+        "E": "Memerintahkan pembayaran atau menagih penerimaan anggaran"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kewenangan administratif mencakup wewenang untuk **memerintahkan pembayaran atau menagih penerimaan yang timbul sebagai akibat pelaksanaan anggaran**.",
+        "alasan_kunci": "Opsi E tepat karena penerbitan Surat Perintah Membayar (SPM) kepada KPPN merupakan muara dari proses administratif di kementerian teknis. Demikian pula hak penagihan penerimaan negara wajib dijalankan demi mengamankan kas negara.",
+        "bedah_pengecoh": {
+          "A": "Pembatalan undang-undang adalah kewenangan Mahkamah Konstitusi.",
+          "B": "Mencetak uang rupiah adalah hak eksklusif Bank Indonesia bersama Perum Peruri.",
+          "C": "Penyitaan jaminan perbankan komersial diatur melalui hukum perdata dan PUPN.",
+          "D": "Rekening kas daerah di bawah kewenangan kepala daerah dan bendahara daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 81,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "berfungsi sebagai kasir, pengawas",
+        "keuangan, dan sekaligus sebagai manajer keuangan"
+      ],
+      "topik_materi": "Tiga Fungsi Menteri Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam melaksanakan kewenangan kebendaharaan, Menteri Keuangan menjalankan tiga fungsi yaitu...",
+      "pilihan": {
+        "A": "Sebagai kasir, pengawas keuangan, dan manajer keuangan",
+        "B": "Sebagai perencana proyek, penguji kuitansi, dan penilai aset",
+        "C": "Sebagai pembuat komitmen, penagih piutang, dan bendahara barang",
+        "D": "Sebagai pengarah teknis, pelaksana pekerjaan, dan auditor intern",
+        "E": "Sebagai penyidik pajak, jaksa penuntut, dan bendahara kasir"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Menteri Keuangan merupakan pengelola keuangan yang berfungsi **sebagai kasir, pengawas keuangan, dan sekaligus sebagai manajer keuangan**.",
+        "alasan_kunci": "Opsi A tepat karena tri-fungsi kebendaharaan ini mencakup peran operasional penyimpanan kas (kasir), pengendalian kepatuhan hukum pembayaran (pengawas), dan pengelolaan portofolio aset/utang negara (manajer). Ketiganya menyatu pada Menteri Keuangan selaku BUN.",
+        "bedah_pengecoh": {
+          "B": "Perencana proyek adalah peran kementerian teknis pengusul kegiatan.",
+          "C": "Pembuat komitmen adalah peran PPK di masing-masing satuan kerja.",
+          "D": "Pelaksana pekerjaan fisik adalah penyedia barang/jasa rekanan pemerintah.",
+          "E": "Jaksa penuntut adalah aparat penegak hukum pada kejaksaan agung."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 82,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "aspek rechmatigheid",
+        "ketaatan pada aturan hukum"
+      ],
+      "topik_materi": "Batasan Pengawasan Menteri Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Fungsi pengawasan yang dimiliki Menteri Keuangan secara spesifik dibatasi pada aspek...",
+      "pilihan": {
+        "A": "Kelayakan teknis kontruksi bangunan dan spesifikasi mesin",
+        "B": "Rechmatigheid dan wetmatigheid pada saat penerimaan atau pengeluaran",
+        "C": "Kinerja manajerial kepegawaian pejabat satuan kerja",
+        "D": "Dampak politis penetapan alokasi anggaran kementerian",
+        "E": "Keadilan sosiologis pembagian bantuan sosial masyarakat"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Fungsi pengawasan Menteri Keuangan terbatas pada **aspek rechmatigheid (ketaatan pada aturan hukum) dan wetmatigheid (ketaatan pada aturan perundangan)**.",
+        "alasan_kunci": "Opsi B tepat karena Menkeu bertindak mengawasi legalitas dokumen transaksi dari sisi perundang-undangan formal pada saat kas bergerak. Menkeu tidak menguji kelayakan teknis proyek yang menjadi kewenangan menteri terkait.",
+        "bedah_pengecoh": {
+          "A": "Spesifikasi teknik mesin diuji dan diawasi oleh pejabat teknis kementerian.",
+          "C": "Kinerja kepegawaian satker diawasi oleh pimpinan instansi dan BKN.",
+          "D": "Dampak politis alokasi anggaran adalah dinamika pembahasan di DPR.",
+          "E": "Keadilan sosiologis bansos merupakan ranah kebijakan sosial pemerintah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 83,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "pada saat terjadinya penerimaan atau pengeluaran"
+      ],
+      "topik_materi": "Waktu Pelaksanaan Pengawasan Kebendaharaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengawasan aspek legalitas oleh bendahara umum negara hanya dilakukan pada saat...",
+      "pilihan": {
+        "A": "Pelaksanaan lelang tender terbuka di unit layanan pengadaan",
+        "B": "Penyusunan kerangka acuan kerja pengadaan barang satker",
+        "C": "Terjadinya peristiwa penerimaan atau pengeluaran kas negara",
+        "D": "Pemeriksaan tahunan selesai dilakukan oleh Badan Pemeriksa Keuangan",
+        "E": "Pengesahan rencana strategis kementerian negara oleh Bappenas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pengawasan bendahara umum negara **hanya dilakukan pada saat terjadinya penerimaan atau pengeluaran** kas.",
+        "alasan_kunci": "Opsi C tepat karena peran Kuasa BUN adalah penjaga pintu kasir negara yang menguji keabsahan perintah bayar sebelum mencairkan dana. Uji kepatuhan dilakukan secara langsung saat SPM masuk dan kas hendak keluar.",
+        "bedah_pengecoh": {
+          "A": "Pelaksanaan lelang diawasi oleh panitia lelang dan Pokja Pemilihan.",
+          "B": "Kerangka acuan kerja disusun oleh PPK sebelum tender dimulai.",
+          "D": "Pemeriksaan BPK dilakukan setelah tahun anggaran berakhir (post-audit).",
+          "E": "Pengesahan renstra merupakan tahap awal dalam sistem perencanaan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 84,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "aparat pengawasan fungsional"
+      ],
+      "topik_materi": "Perbedaan dengan Post-Audit Fungsional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemeriksaan post-audit yang berbeda dari pengawasan kebendaharaan dilaksanakan oleh...",
+      "pilihan": {
+        "A": "Panitia pengadaan barang jasa saat proses evaluasi rekanan",
+        "B": "Pejabat pembuat komitmen sebelum penandatanganan kontrak",
+        "C": "Kuasa bendahara umum negara pada saat meneliti SPM",
+        "D": "Aparat pengawasan fungsional setelah kegiatan selesai",
+        "E": "Bendahara pengeluaran pada saat menerima uang persediaan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pengawasan Menkeu berbeda dengan pre-audit menteri teknis atau **post-audit yang dilaksanakan oleh aparat pengawasan fungsional**.",
+        "alasan_kunci": "Opsi D tepat karena post-audit bersifat komprehensif atas seluruh bukti dan fisik pekerjaan setelah kegiatan tuntas oleh auditor internal (Itjen/BPKP) atau eksternal (BPK). Sementara pengawasan Menkeu hanya bersifat verifikasi kasir saat transaksi kas.",
+        "bedah_pengecoh": {
+          "A": "Evaluasi penawaran rekanan adalah urusan panitia pemilihan penyedia.",
+          "B": "Pengujian oleh PPK sebelum kontrak adalah bagian dari pre-audit administratif.",
+          "C": "Penelitian SPM oleh Kuasa BUN adalah verifikasi pembayaran kasir.",
+          "E": "Penerimaan UP oleh bendahara merupakan pencatatan kas persediaan kerja."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 85,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "dokumen pelaksanaan anggaran yang telah",
+        "disahkan"
+      ],
+      "topik_materi": "Dasar Pelaksanaan Kegiatan Komitmen",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada tahapan pembuatan komitmen, Pengguna Anggaran melaksanakan kegiatan menurut...",
+      "pilihan": {
+        "A": "Draf awal rancangan rencana kerja satuan kerja",
+        "B": "Permintaan tertulis rekanan pengadaan barang jasa",
+        "C": "Estimasi penerimaan kas kementerian bulan berjalan",
+        "D": "Arahan lisan pimpinan satker di luar batas pagu",
+        "E": "Dokumen pelaksanaan anggaran yang telah disahkan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pada tahapan ini, Pengguna Anggaran/KPA melaksanakan kegiatan sebagaimana tersebut dalam **dokumen pelaksanaan anggaran yang telah disahkan** (DIPA).",
+        "alasan_kunci": "Opsi E tepat karena DIPA yang sah merupakan dasar otorisasi dan alokasi resmi bagi satuan kerja untuk bertindak. Tindakan tanpa dasar DIPA yang disahkan adalah pelanggaran hukum keuangan negara.",
+        "bedah_pengecoh": {
+          "A": "Draf awal renja belum memiliki kekuatan hukum untuk membebani keuangan negara.",
+          "B": "Permintaan rekanan tidak boleh mendasari pelaksanaan kegiatan dinas.",
+          "C": "Estimasi penerimaan kas adalah variabel arus kas, bukan dokumen otorisasi.",
+          "D": "Arahan lisan di luar pagu bertentangan dengan asas legalitas anggaran."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 86,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "ikatan/ perjanjian dengan pihak lain dalam batas anggaran"
+      ],
+      "topik_materi": "Batasan Wewenang Perikatan KPA",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengguna Anggaran berwenang mengadakan perjanjian dengan pihak lain dengan batasan...",
+      "pilihan": {
+        "A": "Dalam batas anggaran yang telah ditetapkan",
+        "B": "Disesuaikan dengan persetujuan lisan pihak rekanan",
+        "C": "Berdasarkan estimasi potensi keuntungan masa depan",
+        "D": "Bebas menentukan nilai ikatan tanpa batasan pagu",
+        "E": "Mengutamakan nilai kontrak di atas alokasi DIPA"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "PA/KPA berwenang **mengadakan ikatan/perjanjian dengan pihak lain dalam batas anggaran yang telah ditetapkan**.",
+        "alasan_kunci": "Opsi A tepat karena asas batas anggaran melarang pejabat membuat komitmen perikatan melebihi plafon pagu yang disetujui DPR. Komitmen yang melampaui pagu memicu utang liar yang membebani kas negara.",
+        "bedah_pengecoh": {
+          "B": "Persetujuan rekanan tidak bisa mengesampingkan batas pagu undang-undang.",
+          "C": "Estimasi keuntungan swasta bukan pertimbangan batas perikatan dinas.",
+          "D": "Nilai ikatan dibatasi ketat oleh pagu mata anggaran pengeluaran.",
+          "E": "Membuat ikatan melampaui alokasi DIPA merupakan pelanggaran hukum berat."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 87,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "Pembuat Komitmen (PPK), serta menetapkan panitia/pejabat"
+      ],
+      "topik_materi": "Penetapan Pejabat Pembuat Komitmen",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam rangka melaksanakan kewenangannya, KPA menetapkan pejabat yang bertindak sebagai...",
+      "pilihan": {
+        "A": "Auditor investigasi eksternal badan pemeriksa keuangan",
+        "B": "Pejabat Pembuat Komitmen (PPK) pada satuan kerja",
+        "C": "Pengelola rekening penampungan pajak kantor pos",
+        "D": "Pejabat lelang negara pada kantor perbankan sentral",
+        "E": "Anggota dewan pengawas badan usaha milik swasta"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dalam rangka melaksanakan kewenangannya KPA menetapkan **Pejabat Pembuat Komitmen (PPK)**, serta menetapkan panitia/pejabat yang terlibat.",
+        "alasan_kunci": "Opsi B tepat karena KPA melimpahkan sebagian kewenangan perikatannya kepada PPK untuk menandatangani kontrak pengadaan. PPK memikul tanggung jawab teknis operasional atas ikatan yang dibuatnya.",
+        "bedah_pengecoh": {
+          "A": "Auditor BPK diangkat oleh negara melalui mekanisme undang-undang BPK.",
+          "C": "Rekening kantor pos dikelola oleh instansi pos dan perbankan penerima.",
+          "D": "Pejabat lelang negara berada di bawah Direktorat Jenderal Kekayaan Negara.",
+          "E": "Dewan pengawas swasta ditunjuk melalui rapat umum pemegang saham perseroan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 88,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "memerintahkan pembayaran tagihan-tagihan atas beban APBN/APBD"
+      ],
+      "topik_materi": "Hak KPA Setelah Kegiatan Dilaksanakan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah kegiatan dilaksanakan, Pengguna Anggaran berhak melakukan pengujian serta...",
+      "pilihan": {
+        "A": "Menandatangani cek pencairan dana kas umum negara",
+        "B": "Mengalihkan saldo belanja ke kas operasional pribadi",
+        "C": "Memerintahkan pembayaran tagihan atas beban APBN/APBD",
+        "D": "Menghapuskan bukti pertanggungjawaban fisik dokumen",
+        "E": "Mengubah pagu DIPA kementerian secara mandiri di satker"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Setelah kegiatan selesai, PA/KPA berhak melakukan pengujian, **memerintahkan pembayaran tagihan-tagihan atas beban APBN/APBD**, dan membebankan pada mata anggaran.",
+        "alasan_kunci": "Opsi C tepat karena hak memerintahkan pembayaran merupakan tindak lanjut sah atas penyelesaian prestasi kerja oleh pihak penyedia jasa. Perintah ini dituangkan dalam penerbitan Surat Perintah Membayar.",
+        "bedah_pengecoh": {
+          "A": "Pencairan kas umum adalah mandat eksklusif Kuasa BUN melalui SP2D.",
+          "B": "Mengalihkan belanja dinas ke pos pribadi merupakan perbuatan melanggar hukum perbendaharaan.",
+          "D": "Menghilangkan bukti pertanggungjawaban adalah perbuatan melawan hukum.",
+          "E": "Revisi DIPA wajib melalui mekanisme pengesahan Direktorat Jenderal Anggaran."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 89,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "menguji kebenaran material surat-surat bukti mengenai hak pihak penagih"
+      ],
+      "topik_materi": "Wewenang Pengujian Material KPA",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewenangan PA/KPA dalam meneliti tagihan dari pihak rekanan mencakup tindakan...",
+      "pilihan": {
+        "A": "Menyerahkan verifikasi dokumen bukti kepada pihak rekanan",
+        "B": "Menentukan harga pasar barang tanpa mengacu pada kontrak",
+        "C": "Mengurangi nominal tagihan rekanan untuk kas satker",
+        "D": "Menguji kebenaran material surat bukti hak pihak penagih",
+        "E": "Mencairkan dana belanja tanpa meneliti berita acara fisik"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PA/KPA berwenang **menguji kebenaran material surat-surat bukti mengenai hak pihak penagih**.",
+        "alasan_kunci": "Opsi D tepat karena keabsahan tagihan tidak hanya dilihat dari formalitas tanda tangan, tetapi juga kebenaran fakta bahwa barang atau jasa telah diterima secara nyata dan bermutu sesuai klausul kontrak.",
+        "bedah_pengecoh": {
+          "A": "Verifikasi bukti adalah tanggung jawab pejabat perbendaharaan instansi.",
+          "B": "Harga barang wajib mengacu ketat pada nilai kontrak yang telah disepakati.",
+          "C": "Mengurangi hak penagih secara sewenang-wenang melanggar perjanjian hukum.",
+          "E": "Membayar tanpa berita acara serah terima melanggar prosedur perbendaharaan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 90,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "pengeluaran sesuai dengan mata anggaran pengeluaran yang",
+        "bersangkutan"
+      ],
+      "topik_materi": "Pembebanan Mata Anggaran yang Sesuai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sebelum memerintahkan pembayaran, Pengguna Anggaran wajib membebankan pengeluaran pada...",
+      "pilihan": {
+        "A": "Dana talangan pribadi pimpinan satuan kerja satker",
+        "B": "Rekening penampungan dana cadangan kementerian lain",
+        "C": "Pos belanja tak terduga pemerintah daerah setempat",
+        "D": "Pagu anggaran tahun berikutnya secara mendahului",
+        "E": "Mata anggaran pengeluaran yang bersangkutan dan tersedia"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "PA/KPA berwenang **membebankan pengeluaran sesuai dengan mata anggaran pengeluaran yang bersangkutan**.",
+        "alasan_kunci": "Opsi E tepat karena prinsip spesialisasi mata anggaran mengharuskan setiap jenis belanja dicatat tepat pada akun mata anggirannya (MAK) dan memiliki saldo pagu yang mencukupi. Pembebanan yang salah akun mengakibatkan salah saji laporan keuangan.",
+        "bedah_pengecoh": {
+          "A": "Penggunaan dana talangan pribadi menyalahi tata kelola keuangan negara.",
+          "B": "Membebankan pengeluaran pada kementerian lain dilarang keras undang-undang.",
+          "C": "Belanja APBN tidak boleh dibebankan pada pos APBD pemerintah daerah.",
+          "D": "Pengeluaran tahun berjalan dilarang membebani pagu tahun depan tanpa dasar sah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 91,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "kebenaran material dan akibat yang timbul dari",
+        "penggunaan surat bukti"
+      ],
+      "topik_materi": "Tanggung Jawab Kebenaran Material Dokumen",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pejabat yang menandatangani atau mengesahkan dokumen surat bukti pengeluaran bertanggung jawab atas...",
+      "pilihan": {
+        "A": "Kebenaran material dan akibat hukum yang timbul dari dokumen",
+        "B": "Kelancaran penghimpunan penerimaan perpajakan secara nasional",
+        "C": "Penyediaan likuiditas cadangan kas umum di bank sentral",
+        "D": "Tingkat penyerapan pagu belanja di kementerian lain",
+        "E": "Perubahan regulasi standar akuntansi sektor pemerintahan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pejabat yang menandatangani dan/atau mengesahkan surat bukti pengeluaran **bertanggung jawab atas kebenaran material dan akibat yang timbul dari penggunaan surat bukti dimaksud**.",
+        "alasan_kunci": "Opsi A tepat karena penandatangan bukti pembayaran memikul konsekuensi hukum perdata maupun pidana atas fakta substansi transaksi tersebut. Tanggung jawab ini melekat pada integritas pejabat penandatangan.",
+        "bedah_pengecoh": {
+          "B": "Penerimaan perpajakan nasional adalah tanggung jawab Direktorat Jenderal Pajak.",
+          "C": "Penyediaan likuiditas kas umum negara merupakan mandat Kuasa BUN Pusat.",
+          "D": "Penyerapan kementerian lain berada di luar lingkup tanggung jawab satker.",
+          "E": "Perubahan standar akuntansi adalah kewenangan komite independen KSAP."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 92,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "Bendahara Umum",
+        "Negara (BUN)/Kuasa BUN"
+      ],
+      "topik_materi": "Pelaksana Pembayaran Beban APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembayaran atas tagihan yang menjadi beban APBN secara definitif dilakukan oleh...",
+      "pilihan": {
+        "A": "Pejabat Pembuat Komitmen pada masing-masing unit satker",
+        "B": "Bendahara Umum Negara atau Kuasa Bendahara Umum Negara",
+        "C": "Auditor pengawas internal inspektorat kementerian",
+        "D": "Petugas administrasi bagian kepegawaian kantor cabang",
+        "E": "Pimpinan asosiasi rekanan penyedia jasa konstruksi"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pembayaran atas tagihan yang menjadi beban APBN dilakukan oleh **Bendahara Umum Negara (BUN)/Kuasa BUN**.",
+        "alasan_kunci": "Opsi B tepat karena Kuasa BUN (KPPN) memegang rekening kas umum negara dan memiliki otoritas tunggal mencairkan dana dari kas negara melalui penerbitan SP2D. Hal ini menjamin sentralisasi pengelolaan kas negara.",
+        "bedah_pengecoh": {
+          "A": "PPK hanya berwenang menerbitkan SPP untuk diuji oleh pejabat penerbit SPM.",
+          "C": "Auditor internal bertugas mengawasi dan membina, bukan juru bayar kasir.",
+          "D": "Petugas kepegawaian mengurus administrasi data aparatur negara.",
+          "E": "Asosiasi rekanan adalah organisasi eksternal penyedia barang swasta."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 93,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "meneliti kelengkapan perintah pembayaran yang diterbitkan oleh"
+      ],
+      "topik_materi": "Kewajiban Meneliti Kelengkapan SPM",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam rangka pelaksanaan pembayaran, kewajiban awal Kuasa BUN terhadap SPM adalah...",
+      "pilihan": {
+        "A": "Memeriksa fisik pekerjaan bangunan di lokasi proyek satker",
+        "B": "Mengubah nomor rekening penerima tagihan secara manual",
+        "C": "Meneliti kelengkapan perintah pembayaran yang diterbitkan PA/KPA",
+        "D": "Menegosiasi ulang besaran harga kontrak kerja rekanan",
+        "E": "Menambah beban potongan pajak di luar ketentuan hukum"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dalam rangka pembayaran BUN/Kuasa BUN berkewajiban **meneliti kelengkapan perintah pembayaran yang diterbitkan oleh Pengguna Anggaran/Kuasa Pengguna Anggaran**.",
+        "alasan_kunci": "Opsi C tepat karena KPPN wajib memastikan surat perintah bayar memenuhi seluruh persyaratan formal yang sah sebelum diproses. Pengujian kelengkapan dokumen merupakan garda depan pengamanan belanja APBN.",
+        "bedah_pengecoh": {
+          "A": "Pemeriksaan fisik di lapangan merupakan tanggung jawab teknis KPA dan PPK.",
+          "B": "Mengubah rekening penerima tanpa dasar sah merupakan pelanggaran berat.",
+          "D": "Negosiasi kontrak kerja selesai pada tahap pengadaan oleh PPK.",
+          "E": "Potongan pajak wajib sesuai dengan tarif resmi ketentuan perpajakan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 94,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "menguji ketersediaan dana yang bersangkutan"
+      ],
+      "topik_materi": "Pengujian Ketersediaan Dana oleh Kuasa BUN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain meneliti kelengkapan surat bukti, Kuasa BUN berkewajiban melakukan...",
+      "pilihan": {
+        "A": "Pengawasan kedisiplinan jam kerja harian pegawai satker",
+        "B": "Penetapan jadwal libur kerja rekanan penyedia barang",
+        "C": "Pemeriksaan latar belakang riwayat keluarga penyedia jasa",
+        "D": "Pengujian ketersediaan dana dan kebenaran perhitungan tagihan",
+        "E": "Penyitaan kendaraan operasional dinas milik kementerian"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "BUN/Kuasa BUN berkewajiban **menguji kebenaran perhitungan tagihan** serta **menguji ketersediaan dana yang bersangkutan**.",
+        "alasan_kunci": "Opsi D tepat karena penerbitan SP2D tidak boleh mengakibatkan terjadinya saldo minus pada mata anggaran terkait di kas negara. Pengujian perhitungan memastikan tidak ada kelebihan bayar akibat kesalahan hitung.",
+        "bedah_pengecoh": {
+          "A": "Disiplin jam kerja pegawai satker diawasi atasan langsung dan inspektorat.",
+          "B": "Jadwal kerja rekanan merupakan urusan internal manajemen penyedia.",
+          "C": "Riwayat keluarga penyedia berada di luar ranah pengujian keuangan perbendaharaan.",
+          "E": "Penyitaan kendaraan dinas menyalahi prosedur pengelolaan aset negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 95,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "menolak pencairan dana, apabila perintah pembayaran"
+      ],
+      "topik_materi": "Penolakan Pencairan Dana Tidak Memenuhi Syarat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tindakan yang wajib diambil Kuasa BUN apabila perintah pembayaran tidak memenuhi syarat adalah...",
+      "pilihan": {
+        "A": "Melimpahkan sisa tagihan ke kas daerah pemerintah kota",
+        "B": "Menerbitkan SP2D bersyarat dengan jaminan lisan satker",
+        "C": "Mengoreksi dokumen sendiri tanpa memberitahu satker",
+        "D": "Membayarkan separuh dari total nominal tagihan SPM",
+        "E": "Menolak pencairan dana yang diajukan oleh PA atau KPA"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "BUN/Kuasa BUN berwenang **menolak pencairan dana, apabila perintah pembayaran yang diterbitkan oleh Pengguna Anggaran/Kuasa Pengguna Anggaran tidak memenuhi persyaratan**.",
+        "alasan_kunci": "Opsi E tepat karena undang-undang secara tegas melarang kasir negara mencairkan dana atas dokumen pembayaran yang cacat hukum atau tidak lengkap. Penolakan ini disertai surat pengembalian berkas untuk diperbaiki satker.",
+        "bedah_pengecoh": {
+          "A": "Kas daerah APBD terpisah mutlak dari pengeluaran APBN kementerian.",
+          "B": "Menerbitkan SP2D bersyarat atas jaminan lisan melanggar hukum perbendaharaan.",
+          "C": "KPPN dilarang mengoreksi sepihak dokumen yang diterbitkan kementerian.",
+          "D": "Pembayaran separuh tanpa dasar SPM revisi menyalahi prinsip kasir."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 96,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "tidak boleh dilakukan sebelum barang",
+        "jasa diterima"
+      ],
+      "topik_materi": "Prinsip Pembayaran Setelah Barang Diterima",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip dasar pengeluaran kas negara menetapkan bahwa pembayaran beban APBN...",
+      "pilihan": {
+        "A": "Tidak boleh dilakukan sebelum barang dan jasa diterima",
+        "B": "Wajib dilunasi secara penuh pada saat penandatanganan kontrak",
+        "C": "Dapat dibayarkan di awal sebelum penyedia memulai pekerjaan",
+        "D": "Diberikan berdasarkan estimasi kesanggupan kerja rekanan",
+        "E": "Dilunasi separuh sebelum ada jaminan pelaksanaan tender"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pembayaran atas beban APBN/APBD **tidak boleh dilakukan sebelum barang dan/atau jasa diterima**.",
+        "alasan_kunci": "Opsi A tepat karena prinsip prestasi mendahului pembayaran bertujuan mengamankan uang negara dari risiko gagal serah oleh pihak penyedia jasa. Kas negara hanya boleh dibayarkan atas manfaat nyata yang sudah terbukti diterima negara.",
+        "bedah_pengecoh": {
+          "B": "Pelunasan penuh di muka saat kontrak bertentangan dengan prinsip kehati-hatian.",
+          "C": "Uang muka kerja diperbolehkan terbatas hanya dengan jaminan uang muka bank.",
+          "D": "Estimasi kesanggupan bukan bukti prestasi kerja yang sah menurut hukum.",
+          "E": "Jaminan pelaksanaan adalah syarat kontrak, bukan dasar pembayaran tanpa prestasi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 97,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "uang persediaan yang dikelola oleh Bendahara",
+        "Pengeluaran"
+      ],
+      "topik_materi": "Pemberian Uang Persediaan Satker",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Untuk kelancaran pelaksanaan tugas kementerian, kepada PA/KPA dapat diberikan...",
+      "pilihan": {
+        "A": "Pinjaman modal kerja jangka pendek dari bank komersial",
+        "B": "Uang persediaan yang dikelola oleh Bendahara Pengeluaran",
+        "C": "Kredit tanpa agunan dari kas daerah pemerintah provinsi",
+        "D": "Otorisasi pencairan valuta asing langsung dari pasar modal",
+        "E": "Dana cadangan devisa langsung dari kas simpanan bank sentral"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Untuk kelancaran pelaksanaan tugas, kepada PA/KPA **dapat diberikan uang persediaan yang dikelola oleh Bendahara Pengeluaran**.",
+        "alasan_kunci": "Opsi B tepat karena uang persediaan (UP) adalah dana talangan resmi dari kas negara untuk membiayai operasional harian satker yang tidak efektif jika dibayar dengan mekanisme pembayaran langsung (LS). UP dikelola oleh bendahara pengeluaran.",
+        "bedah_pengecoh": {
+          "A": "Instansi pemerintah dilarang mengambil pinjaman dari bank komersial.",
+          "C": "Kas daerah tidak berwenang memberikan kredit bagi satuan kerja pusat.",
+          "D": "Valuta asing pasar modal bukan instrumen operasional harian satker.",
+          "E": "Cadangan devisa bank sentral ditujukan untuk stabilitas moneter makro."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 98,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "meneliti kelengkapan perintah pembayaran yang diterbitkan oleh",
+        "Pengguna Anggaran/Kuasa Pengguna Anggaran"
+      ],
+      "topik_materi": "Pengujian oleh Bendahara Pengeluaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sebelum membayarkan uang persediaan, Bendahara Pengeluaran berkewajiban untuk...",
+      "pilihan": {
+        "A": "Menandatangani kontrak pengadaan barang dengan pihak ketiga",
+        "B": "Mengesahkan penambahan pagu belanja pada DIPA kementerian",
+        "C": "Meneliti kelengkapan perintah bayar dan kebenaran perhitungan",
+        "D": "Menetapkan tarif pajak penghasilan atas transaksi rekanan",
+        "E": "Menyusun kerangka acuan kerja pengadaan bersama dinas luar"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Bendahara Pengeluaran melaksanakan pembayaran dari uang persediaan setelah **meneliti kelengkapan perintah pembayaran, menguji kebenaran perhitungan tagihan, dan menguji ketersediaan dana**.",
+        "alasan_kunci": "Opsi C tepat karena bendahara bertindak sebagai juru bayar yang wajib melakukan verifikasi kepatuhan internal terhadap kuitansi dan dokumen pendukung. Pembayaran dari UP dilarang jika berkas perintah bayar belum lengkap.",
+        "bedah_pengecoh": {
+          "A": "Penandatanganan kontrak pengadaan merupakan wewenang PPK.",
+          "B": "Penambahan pagu DIPA adalah kewenangan Direktorat Jenderal Anggaran.",
+          "D": "Tarif pajak ditetapkan dalam undang-undang perpajakan, bukan oleh bendahara.",
+          "E": "Kerangka acuan kerja disusun oleh pejabat pembuat komitmen kegiatan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 99,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "Bendahara Pengeluaran bertanggung jawab secara pribadi"
+      ],
+      "topik_materi": "Tanggung Jawab Pribadi Bendahara Pengeluaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Atas pembayaran yang dilaksanakannya, Bendahara Pengeluaran memikul tanggung jawab...",
+      "pilihan": {
+        "A": "Bebas dari tuntutan ganti rugi apabila ada perintah atasan",
+        "B": "Tanggung jawab administratif terbatas pada jam kerja kantor",
+        "C": "Tanggung jawab yang dialihkan sepenuhnya kepada Kuasa BUN",
+        "D": "Bertanggung jawab secara pribadi atas pembayaran tersebut",
+        "E": "Tanggung jawab renteng bersama rekanan penyedia barang"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Bendahara Pengeluaran bertanggung jawab secara pribadi atas pembayaran yang dilaksanakannya**.",
+        "alasan_kunci": "Opsi D tepat karena undang-undang membebankan tanggung jawab pribadi fungsional kepada bendahara atas setiap rupiah uang negara yang dibayarkannya. Jika terjadi kerugian negara akibat kelalaiannya, bendahara wajib menggantinya dari harta pribadinya.",
+        "bedah_pengecoh": {
+          "A": "Perintah atasan yang salah tidak melepaskan bendahara dari tuntutan perbendaharaan.",
+          "B": "Tanggung jawab kebendaharaan melekat penuh, tidak terbatas jam kerja kantor.",
+          "C": "Tanggung jawab bendahara tidak dapat dilimpahkan kepada Kuasa BUN.",
+          "E": "Tanggung jawab fungsional jabatan bendahara bersifat mandiri dan personal."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 100,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "Pengecualian dari ketentuan ini diatur dalam Peraturan Pemerintah"
+      ],
+      "topik_materi": "Pengecualian Ketentuan Pembayaran Beban Kas",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengecualian dari ketentuan pokok pembayaran perbendaharaan negara diatur melalui...",
+      "pilihan": {
+        "A": "Nota dinas edaran pejabat eselon tiga satuan kerja",
+        "B": "Surat keputusan kepala seksi pencairan dana setempat",
+        "C": "Petunjuk teknis internal unit pengadaan barang jasa",
+        "D": "Kesepakatan bersama antar pimpinan asosiasi profesi",
+        "E": "Ketentuan yang diatur dalam Peraturan Pemerintah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Pengecualian dari ketentuan ini diatur dalam Peraturan Pemerintah**.",
+        "alasan_kunci": "Opsi E tepat karena pengecualian terhadap prinsip pembayaran setelah barang diterima (misalnya sewa gedung, langganan daya dan jasa, atau pengadaan luar negeri) hanya sah apabila diatur dengan Peraturan Pemerintah. Ketentuan ini menjaga kepastian hukum pelaksanaan APBN.",
+        "bedah_pengecoh": {
+          "A": "Nota dinas internal satker tidak memiliki kekuatan hukum regulasi nasional.",
+          "B": "Kepala seksi KPPN tidak berwenang membuat pengecualian prinsip perbendaharaan.",
+          "C": "Petunjuk teknis pengadaan tidak boleh bertentangan dengan undang-undang.",
+          "D": "Asosiasi profesi tidak memiliki dasar hukum mengatur tata kelola keuangan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    }
+  ]
+}

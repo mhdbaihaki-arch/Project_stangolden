@@ -1,0 +1,3015 @@
+{
+  "paket_nomor": 6,
+  "dokumen_sumber": "3. Tata Aturan Kepegawaian.pdf",
+  "rentang_halaman": "Halaman 62 s/d Halaman 70",
+  "jumlah_soal": 100,
+  "distribusi_kunci": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20,
+    "E": 20
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Hak atas cuti sakit diberikan untuk waktu paling lama 1 (satu) tahun",
+        "tim penguji kesehatan"
+      ],
+      "topik_materi": "Batas Waktu Awal Cuti Sakit Berat PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan regulasi manajemen kepegawaian, hak atas cuti sakit bagi PNS diberikan untuk waktu paling lama...",
+      "pilihan": {
+        "A": "6 (enam) bulan berjalan",
+        "B": "1 (satu) tahun kalender",
+        "C": "3 (tiga) bulan dinas",
+        "D": "2 (dua) tahun berturut-turut",
+        "E": "3 (tiga) tahun penugasan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Hak atas **cuti sakit** diberikan untuk waktu paling lama **1 (satu) tahun** dan dapat ditambah paling lama 6 bulan berdasarkan keterangan tim penguji kesehatan.",
+        "alasan_kunci": "Opsi B tepat karena ketentuan cuti sakit membatasi durasi awal paling lama 1 tahun kalender. Apabila setelah 1 tahun belum sembuh, barulah dapat dipertimbangkan perpanjangan maksimal 6 bulan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Enam bulan merupakan batas maksimal perpanjangan tambahan, bukan durasi awal cuti sakit.",
+          "C": "Tiga bulan merupakan durasi standar untuk Cuti Melahirkan atau Cuti Besar.",
+          "D": "Dua tahun melebihi batas maksimal akumulasi cuti sakit (1 tahun + 6 bulan).",
+          "E": "Tiga tahun merupakan batas durasi awal Cuti di Luar Tanggungan Negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "dapat ditambah untuk paling lama 6 (enam) bulan",
+        "tim penguji kesehatan"
+      ],
+      "topik_materi": "Perpanjangan Cuti Sakit PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perpanjangan cuti sakit bagi PNS yang belum sembuh setelah satu tahun dapat ditambah untuk waktu paling lama...",
+      "pilihan": {
+        "A": "3 (tiga) bulan masa pemulihan",
+        "B": "1 (satu) tahun secara berkala",
+        "C": "6 (enam) bulan apabila diperlukan",
+        "D": "9 (sembilan) bulan kalender",
+        "E": "12 (dua belas) bulan penuh"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Cuti sakit **dapat ditambah untuk paling lama 6 (enam) bulan** apabila diperlukan, berdasarkan surat keterangan tim penguji kesehatan.",
+        "alasan_kunci": "Opsi C tepat karena batas waktu perpanjangan cuti sakit tambahan adalah maksimal 6 bulan. Perpanjangan ini wajib disokong rekomendasi tim penguji kesehatan pemerintah. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tiga bulan bukan batas perpanjangan cuti sakit melainkan batas standar cuti melahirkan.",
+          "B": "Satu tahun adalah batas waktu durasi awal cuti sakit, bukan batas perpanjangannya.",
+          "D": "Sembilan bulan tidak dikenal dalam nomenklatur durasi perpanjangan cuti sakit ASN.",
+          "E": "Dua belas bulan setara dengan 1 tahun dan bukan batas waktu perpanjangan tambahan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "PNS yang mengalami gugur kandungan",
+        "paling lama satu setengah bulan"
+      ],
+      "topik_materi": "Hak Cuti Gugur Kandungan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS wanita yang mengalami musibah gugur kandungan berhak mengajukan cuti sakit untuk jangka waktu paling lama...",
+      "pilihan": {
+        "A": "Dua bulan berturut-turut",
+        "B": "Tiga bulan hari kerja",
+        "C": "Satu bulan penuh",
+        "D": "Satu setengah bulan kalender",
+        "E": "Empat puluh lima hari kerja"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS yang mengalami **gugur kandungan** berhak atas cuti sakit untuk paling lama **satu setengah bulan**.",
+        "alasan_kunci": "Opsi D tepat karena aturan manajemen cuti menetapkan durasi cuti sakit gugur kandungan maksimal 1,5 bulan kalender. Cuti ini diberikan guna pemulihan kondisi kesehatan fisik dan psikologis pegawai. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Dua bulan melebihi hak normatif cuti gugur kandungan yang dibatasi 1,5 bulan.",
+          "B": "Tiga bulan merupakan durasi cuti melahirkan normal, bukan cuti gugur kandungan.",
+          "C": "Satu bulan merupakan batas maksimal Cuti Karena Alasan Penting.",
+          "E": "Empat puluh lima hari kerja tidak tepat karena penghitungan cuti gugur kandungan berbasis bulan kalender."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "PNS yang menderita sakit lebih dari 14 (empat belas) hari",
+        "dokter pemerintah"
+      ],
+      "topik_materi": "Syarat Pengajuan Cuti Sakit Lebih dari 14 Hari",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang menderita sakit lebih dari 14 (empat belas) hari wajib mengajukan permintaan cuti dengan melampirkan surat...",
+      "pilihan": {
+        "A": "Rekomendasi pejabat kepegawaian",
+        "B": "Keterangan dokter swasta pratama",
+        "C": "Pernyataan atasan langsung satker",
+        "D": "Rujukan klinik pratama daerah",
+        "E": "Keterangan dokter pemerintah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "PNS yang sakit **lebih dari 14 hari** berhak atas cuti sakit dengan mengajukan tertulis serta melampirkan **surat keterangan dokter pemerintah**.",
+        "alasan_kunci": "Opsi E tepat karena ketentuan pasal cuti sakit lebih dari 14 hari mensyaratkan surat keterangan dari dokter pemerintah. Legalitas dokter pemerintah memastikan objektivitas penetapan diagnosa medis. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Rekomendasi pejabat kepegawaian merupakan tindak lanjut administrasi, bukan lampiran medis awal.",
+          "B": "Dokter swasta hanya dibolehkan untuk sakit sampai dengan 14 hari, bukan di atas 14 hari.",
+          "C": "Surat pernyataan atasan bukan dokumen pembuktian medis kelayakan cuti sakit.",
+          "D": "Rujukan klinik pratama bukan dokumen pembuktian sah pengganti surat dokter pemerintah."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Cuti Melahirkan",
+        "pertama, kedua, dan ketiga"
+      ],
+      "topik_materi": "Ruang Lingkup Hak Cuti Melahirkan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hak cuti melahirkan diberikan kepada PNS atau CPNS wanita untuk persalinan anaknya yang...",
+      "pilihan": {
+        "A": "Pertama, kedua, dan ketiga",
+        "B": "Pertama dan kedua saja",
+        "C": "Pertama sampai anak keempat",
+        "D": "Kelahiran semua anak kandung",
+        "E": "Kedua, ketiga, dan keempat"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Cuti Melahirkan** merupakan hak PNS/CPNS wanita untuk **persalinan anaknya yang pertama, kedua, dan ketiga**.",
+        "alasan_kunci": "Opsi A tepat karena alokasi hak cuti melahirkan secara eksplisit dibatasi untuk anak pertama, kedua, dan ketiga. Kelahiran anak keempat dan seterusnya diakomodasi melalui skema cuti besar. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Dua anak saja tidak tepat karena aturan kepegawaian menjamin hak cuti melahirkan hingga anak ketiga.",
+          "C": "Kelahiran anak keempat menggunakan cuti besar, bukan cuti melahirkan.",
+          "D": "Tidak mencakup semua anak karena persalinan anak ke-4 ke atas beralih ke skema cuti besar.",
+          "E": "Anak pertama tetap memiliki hak cuti melahirkan, sehingga tidak dimulai dari anak kedua."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Cuti bersalin yang digunakan oleh CPNS wanita",
+        "mengurangi hak cuti persalinan setelah"
+      ],
+      "topik_materi": "Ketentuan Cuti Bersalin bagi CPNS Wanita",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penggunaan cuti bersalin oleh CPNS wanita untuk persalinan anak pertama akan berakibat...",
+      "pilihan": {
+        "A": "Menghapuskan hak cuti tahunan selama tiga tahun",
+        "B": "Membatalkan pengangkatan resmi menjadi PNS penuh",
+        "C": "Mengurangi hak cuti persalinan setelah menjadi PNS",
+        "D": "Menunda kenaikan pangkat pertama selama dua tahun",
+        "E": "Menghentikan seluruh tunjangan melekat CPNS"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Cuti bersalin yang digunakan oleh CPNS wanita untuk anak pertama **mengurangi hak cuti persalinan setelah yang bersangkutan menjadi PNS**.",
+        "alasan_kunci": "Opsi C tepat karena penggunaan hak cuti saat masa CPNS diperhitungkan langsung ke dalam kuota persalinan setelah diangkat PNS. Ketentuan ini mencegah penggandaan hak cuti bersalin untuk anak yang sama. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Penggunaan cuti bersalin tidak menghapuskan hak cuti tahunan selama 3 tahun ke depan.",
+          "B": "Cuti bersalin merupakan hak yang sah dan tidak membatalkan kelulusan atau pengangkatan CPNS.",
+          "D": "Tidak ada sanksi penundaan kenaikan pangkat akibat penggunaan hak cuti melahirkan.",
+          "E": "Tunjangan yang sah tetap dibayarkan sesuai ketentuan perundang-undangan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "PNS yang telah menggunakan cuti sakit",
+        "cuti bersama"
+      ],
+      "topik_materi": "Hak Cuti Setelah Aktif Kembali dari Cuti Sakit Maksimal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang telah aktif bekerja kembali setelah menjalani cuti sakit maksimal 1 tahun 6 bulan berhak atas...",
+      "pilihan": {
+        "A": "Bebas tugas kedinasan satu semester",
+        "B": "Cuti di luar tanggungan negara",
+        "C": "Kenaikan pangkat anumerta dinas",
+        "D": "Cuti bersama dan cuti tahunan berjalan",
+        "E": "Uang pesangon pemulihan kesehatan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS yang aktif bekerja kembali setelah cuti sakit 1 tahun 6 bulan berhak atas: **cuti bersama**, **cuti tahunan** berjalan dan sisa, cuti besar, cuti bersalin, dan cuti penting.",
+        "alasan_kunci": "Opsi D tepat karena pegawai yang telah aktif kembali dipulihkan hak-hak cutinya, termasuk cuti bersama dan cuti tahunan. Pemulihan ini memberikan kepastian hak normatif pegawai setelah sembuh. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tidak ada fasilitas bebas tugas kedinasan 1 semester bagi pegawai yang sudah aktif bekerja.",
+          "B": "CLTN bukan hak otomatis pasca-sembuh melainkan cuti atas permohonan pribadi.",
+          "C": "Kenaikan pangkat anumerta hanya diberikan kepada pegawai yang tewas dalam tugas.",
+          "E": "Uang pesangon tidak dikenal dalam skema pemulihan hak cuti aktif PNS."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "PNS yang menderita sakit lebih dari 14 (empat belas) hari",
+        "Pejabat yang Berwenang Memberikan Cuti"
+      ],
+      "topik_materi": "Penerapan Izin Cuti Sakit Melebihi Dua Minggu",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang staf jatuh sakit dan dirawat intensif selama 20 hari di rumah sakit. Prosedur administratif yang tepat adalah...",
+      "pilihan": {
+        "A": "Mengirimkan resep obat apotek swasta terdekat",
+        "B": "Cukup melampirkan surat izin dari kepala seksi",
+        "C": "Memotong langsung cuti tahunan tanpa berkas",
+        "D": "Menunggu sembuh baru melapor ke kepegawaian",
+        "E": "Mengajukan tertulis dengan surat dokter pemerintah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "PNS yang sakit **lebih dari 14 hari** harus mengajukan permintaan tertulis kepada Pejabat Berwenang dengan melampirkan **surat keterangan dokter pemerintah**.",
+        "alasan_kunci": "Opsi E tepat karena durasi sakit 20 hari melampaui batas 14 hari sehingga wajib disahkan oleh dokter pemerintah. Permohonan tertulis ditujukan kepada Pejabat yang Berwenang Memberikan Cuti. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Resep apotek bukan merupakan bukti surat keterangan dokter yang sah secara hukum.",
+          "B": "Izin kepala seksi tidak mencukupi untuk legalitas cuti sakit lebih dari 14 hari.",
+          "C": "Cuti sakit bukan pemotong otomatis cuti tahunan jika ada bukti medis dokter pemerintah.",
+          "D": "Menunggu sembuh tanpa pemberitahuan tertulis melanggar tata tertib kehadiran ASN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "PNS yang mengalami gugur kandungan",
+        "paling lama satu setengah bulan"
+      ],
+      "topik_materi": "Penerapan Cuti Gugur Kandungan pada PNS",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang PNS wanita mengalami keguguran kandungan pada usia kehamilan 4 bulan. Durasi maksimal cuti sakit yang dapat diambil adalah...",
+      "pilihan": {
+        "A": "1,5 (satu setengah) bulan kalender",
+        "B": "3 (tiga) bulan hari kalender",
+        "C": "14 (empat belas) hari kerja",
+        "D": "6 (enam) bulan berturut-turut",
+        "E": "10 (sepuluh) hari kalender"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan regulasi kepegawaian, **PNS yang mengalami gugur kandungan** berhak atas cuti sakit untuk paling lama **satu setengah bulan**.",
+        "alasan_kunci": "Opsi A tepat karena hak cuti sakit untuk keguguran kandungan dibatasi maksimal 1,5 bulan kalender. Cuti ini dibuktikan dengan surat keterangan dokter atau bidan yang merawat. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Tiga bulan merupakan alokasi durasi untuk persalinan anak lahir normal/hidup.",
+          "C": "Empat belas hari adalah ambang batas cuti sakit biasa dengan dokter swasta.",
+          "D": "Enam bulan merupakan perpanjangan cuti sakit berat tim penguji kesehatan.",
+          "E": "Sepuluh hari terlalu singkat dan mengabaikan hak normatif 1,5 bulan bagi pemulihan kandungan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "pertama, kedua, dan ketiga",
+        "Cuti bersalin yang digunakan oleh CPNS wanita"
+      ],
+      "topik_materi": "Implementasi Penggunaan Cuti Melahirkan CPNS",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang CPNS wanita melahirkan anak pertama saat masa orientasi dinas. Implikasi terhadap hak cuti persalinan kelak saat menjadi PNS adalah...",
+      "pilihan": {
+        "A": "Hak cuti persalinan saat PNS gugur total",
+        "B": "Tersisa hak cuti persalinan untuk 2 anak",
+        "C": "Tetap berhak cuti persalinan untuk 3 anak",
+        "D": "Wajib mengganti jam kerja selama 3 bulan",
+        "E": "Status kepegawaian otomatis ditangguhkan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Cuti bersalin anak pertama saat CPNS **mengurangi hak cuti persalinan setelah menjadi PNS**, sehingga sisa haknya menjadi 2 anak (kedua dan ketiga).",
+        "alasan_kunci": "Opsi B tepat karena kuota maksimal cuti melahirkan adalah 3 anak. Karena 1 anak telah diambil saat CPNS, maka sisa kuota setelah menjadi PNS adalah untuk 2 kelahiran anak berikutnya. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Hak cuti persalinan tidak gugur total melainkan hanya berkurang satu kuota persalinan.",
+          "C": "Tidak dapat 3 anak lagi karena kuota anak pertama telah terpakai saat status CPNS.",
+          "D": "Tidak ada kewajiban mengganti jam kerja bagi pegawai yang mengambil cuti bersalin resmi.",
+          "E": "Status CPNS tidak ditangguhkan karena melahirkan adalah hak reproduksi yang dilindungi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "cuti tahunan pada tahun yang sedang",
+        "cuti bersama"
+      ],
+      "topik_materi": "Analisis Hak Cuti Pasca Cuti Melahirkan",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "PNS wanita yang telah selesai menggunakan hak cuti bersalin tetap memiliki hak cuti kepegawaian lainnya, KECUALI...",
+      "pilihan": {
+        "A": "Cuti besar sesuai ketentuan dinas",
+        "B": "Cuti bersama ketetapan pemerintah",
+        "C": "Cuti tahunan pada tahun berjalan",
+        "D": "Cuti tahunan yang tersisa sebelumnya",
+        "E": "Cuti sakit tanpa surat keterangan dokter"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "PNS pasca-cuti bersalin berhak atas: **cuti bersama**, **cuti tahunan berjalan dan sisa**, cuti besar, cuti sakit, dan cuti penting sesuai ketentuan.",
+        "alasan_kunci": "Opsi E tepat sebagai pengecualian karena setiap cuti sakit wajib menyertakan surat keterangan dokter yang sah. Cuti sakit tanpa pembuktian medis merupakan pelanggaran administratif. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Cuti besar tetap dapat diajukan apabila syarat masa kerja telah terpenuhi.",
+          "B": "Cuti bersama secara eksplisit tetap menjadi hak pegawai yang selesai bersalin.",
+          "C": "Cuti tahunan berjalan tetap berhak dinikmati pasca-penggunaan cuti bersalin.",
+          "D": "Sisa cuti tahunan sebelum bersalin tetap sah digunakan sesuai aturan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "PNS Wanita yang telah memiliki anak sebelum menjadi PNS",
+        "sampai dengan 3 (tiga) anak"
+      ],
+      "topik_materi": "Hak Cuti Melahirkan bagi PNS Beranak Sebelum Masuk ASN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS wanita yang telah memiliki anak sebelum diangkat menjadi PNS berhak atas cuti melahirkan untuk...",
+      "pilihan": {
+        "A": "Kelahiran sampai dengan 3 anak setelah jadi PNS",
+        "B": "Satu anak saja setelah resmi menjadi PNS",
+        "C": "Persalinan anak keempat dan anak seterusnya",
+        "D": "Tidak berhak atas cuti melahirkan sama sekali",
+        "E": "Dua anak kandung pertama setelah pelantikan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "PNS Wanita yang telah memiliki anak sebelum menjadi PNS berhak atas cuti melahirkan untuk **kelahiran sampai dengan 3 (tiga) anak setelah menjadi PNS**.",
+        "alasan_kunci": "Opsi A tepat karena penghitungan kuota 3 anak cuti melahirkan baru dihitung sejak resmi berstatus PNS. Kelahiran anak sebelum menjadi CPNS/PNS tidak membatalkan kuota 3 anak tersebut. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Satu anak saja tidak tepat karena aturan kepegawaian memberikan hak hingga 3 kelahiran setelah menjadi PNS.",
+          "C": "Persalinan anak keempat menggunakan skema cuti besar, bukan cuti melahirkan standar.",
+          "D": "PNS wanita tetap berhak atas cuti melahirkan dan hak tersebut tidak gugur karena anak sebelum PNS.",
+          "E": "Kuota resmi yang diatur adalah sampai 3 anak, bukan dibatasi hanya 2 anak."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "Lamanya cuti melahirkan adalah 3 (tiga) bulan",
+        "kurang dari 3 (tiga bulan)"
+      ],
+      "topik_materi": "Durasi Normatif Cuti Melahirkan PNS Wanita",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan regulasi kepegawaian, lamanya cuti melahirkan bagi PNS wanita secara normatif adalah...",
+      "pilihan": {
+        "A": "60 (enam puluh) hari dinas",
+        "B": "3 (tiga) bulan kalender",
+        "C": "40 (empat puluh) hari kerja",
+        "D": "6 (enam) bulan berturut-turut",
+        "E": "1,5 (satu setengah) bulan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Lamanya cuti melahirkan adalah 3 (tiga) bulan**, namun dalam kondisi tertentu PNS wanita dapat mengajukan kurang dari 3 bulan.",
+        "alasan_kunci": "Opsi B tepat karena durasi baku cuti melahirkan bagi PNS wanita adalah 3 bulan. Pegawai dapat mengajukan waktu lebih singkat apabila merasa siap kembali berdinas. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Enam puluh hari dinas bukan standar baku regulasi yang menggunakan hitungan 3 bulan kalender.",
+          "C": "Empat puluh hari kerja merupakan masa nifas umum namun bukan batasan yuridis cuti ASN.",
+          "D": "Enam bulan merupakan perpanjangan cuti sakit, bukan durasi cuti melahirkan normatif.",
+          "E": "Satu setengah bulan merupakan batas maksimal cuti sakit karena gugur kandungan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "diberikan cuti besar untuk persalinan anaknya",
+        "dan seterusnya"
+      ],
+      "topik_materi": "Skema Cuti Persalinan Anak Keempat dan Seterusnya",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS wanita yang melahirkan anak keempat dan seterusnya diakomodasi hak istirahat persalinannya melalui...",
+      "pilihan": {
+        "A": "Pemberian cuti sakit darurat",
+        "B": "Perpanjangan cuti tahunan",
+        "C": "Pemberian hak cuti besar",
+        "D": "Cuti di luar tanggungan dinas",
+        "E": "Izin pembebasan jam dinas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "PNS wanita dapat diberikan **cuti besar untuk persalinan anaknya yang keempat dan seterusnya**.",
+        "alasan_kunci": "Opsi C tepat karena persalinan anak ke-4 ke atas tidak lagi menggunakan cuti melahirkan, melainkan dialihkan ke fasilitas cuti besar. Hal ini merupakan solusi hukum agar hak kesehatan ibu dan anak tetap terlindungi. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Cuti sakit hanya diperuntukkan bagi gangguan kesehatan, bukan persalinan anak keempat.",
+          "B": "Cuti tahunan tidak dapat diperpanjang khusus untuk menggantikan cuti persalinan anak keempat.",
+          "D": "CLTN bukan skema persalinan rutin melainkan cuti tanpa penghasilan untuk urusan mendesak.",
+          "E": "Izin pembebasan jam dinas bukan status cuti resmi kepegawaian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "tidak berhak lagi atas cuti",
+        "dalam tahun yang bersangkutan"
+      ],
+      "topik_materi": "Konsekuensi Cuti Besar Persalinan Anak Keempat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsekuensi bagi PNS wanita yang menggunakan cuti besar untuk persalinan anak keempat adalah...",
+      "pilihan": {
+        "A": "Dilarang naik pangkat reguler selama dua tahun",
+        "B": "Gaji pokok dipotong sebesar lima puluh persen",
+        "C": "Kehilangan hak atas seluruh cuti bersama",
+        "D": "Tidak berhak atas cuti tahunan tahun berjalan",
+        "E": "Wajib mengembalikan tunjangan kinerja dinas"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS wanita yang menggunakan cuti besar untuk persalinan anak keempat **tidak berhak lagi atas cuti tahunannya dalam tahun yang bersangkutan**.",
+        "alasan_kunci": "Opsi D tepat karena penggunaan cuti besar menggantikan alokasi cuti tahunan pada tahun yang sama. Pegawai hanya dapat memanfaatkan sisa cuti tahunan dari tahun sebelum cuti besar digunakan. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tidak ada penalti penundaan pangkat bagi penggunaan hak cuti besar persalinan.",
+          "B": "Gaji pokok tetap dibayarkan penuh dan tidak dipotong 50% selama cuti besar.",
+          "C": "Pegawai bersangkutan tetap berhak atas cuti bersama yang ditetapkan pemerintah.",
+          "E": "Tidak ada kewajiban mengembalikan tunjangan kinerja yang telah sah diterima."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "cuti tahunan yang tersisa pada tahun",
+        "cuti bersama"
+      ],
+      "topik_materi": "Hak Cuti Lain Saat Menjalani Cuti Besar Anak Keempat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain kehilangan cuti tahunan berjalan, PNS yang mengambil cuti besar persalinan anak keempat tetap berhak atas...",
+      "pilihan": {
+        "A": "Sisa cuti tahunan tahun sebelum cuti besar",
+        "B": "Tambahan cuti istirahat dua puluh hari",
+        "C": "Cuti tahunan penuh tahun berjalan",
+        "D": "Cuti khusus keagamaan tanpa batas",
+        "E": "Dispensasi bebas jam kantor setahun"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "PNS wanita yang menggunakan cuti besar persalinan berhak atas: **cuti bersama**, **sisa cuti tahunan tahun sebelumnya**, cuti sakit, dan cuti alasan penting.",
+        "alasan_kunci": "Opsi A tepat karena sisa cuti tahunan dari tahun sebelumnya tidak hangus dan tetap dapat dimanfaatkan. Ini menjamin sisa hak cuti masa lalu pegawai tetap terlindungi. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Tidak ada fasilitas tambahan cuti istirahat 20 hari di luar regulasi cuti.",
+          "C": "Cuti tahunan tahun berjalan dinyatakan gugur/tidak berhak lagi diambil.",
+          "D": "Cuti keagamaan tetap tunduk pada ketentuan cuti besar atau alasan penting, tidak tanpa batas.",
+          "E": "Tidak ada dispensasi bebas jam kantor setahun bagi pegawai aktif."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "cuti besar setelah bekerja kembali paling kurang 6 (enam) tahun",
+        "secara terus- menerus"
+      ],
+      "topik_materi": "Syarat Cuti Besar Pasca Cuti di Luar Tanggungan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang telah kembali aktif bekerja pasca-menjalani CLTN berhak atas cuti besar setelah bekerja kembali paling kurang...",
+      "pilihan": {
+        "A": "5 (lima) tahun masa dinas aktif",
+        "B": "6 (enam) tahun secara terus-menerus",
+        "C": "3 (tiga) tahun kalender dinas",
+        "D": "1 (satu) tahun secara konsisten",
+        "E": "2 (dua) tahun masa penugasan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "PNS yang telah menggunakan CLTN berhak atas cuti besar setelah bekerja kembali **paling kurang 6 (enam) tahun secara terus-menerus**.",
+        "alasan_kunci": "Opsi B tepat karena ketentuan cuti mensyaratkan masa pengabdian 6 tahun terus-menerus pasca-CLTN untuk memperoleh cuti besar kembali. Aturan ini memulihkan akumulasi masa kerja cuti besar dari nol. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Lima tahun merupakan syarat masa kerja awal saat hendak mengajukan CLTN, bukan syarat cuti besar pasca-CLTN.",
+          "C": "Tiga tahun merupakan durasi maksimal pemberian izin awal CLTN.",
+          "D": "Satu tahun merupakan syarat untuk memulihkan hak cuti tahunan setelah CLTN.",
+          "E": "Dua tahun tidak memiliki dasar hukum dalam persyaratan cuti besar pasca-CLTN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "cuti karena alasan penting",
+        "memperoleh penghasilan dan tunjangan"
+      ],
+      "topik_materi": "Hak Finansial Selama Cuti Karena Alasan Penting",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kompensasi finansial yang diterima oleh PNS selama menjalankan Cuti Karena Alasan Penting adalah...",
+      "pilihan": {
+        "A": "Diberikan uang tunggu sebesar lima puluh persen",
+        "B": "Hanya menerima gaji pokok tanpa tunjangan apa pun",
+        "C": "Memperoleh penghasilan dan tunjangan sesuai aturan",
+        "D": "Tidak berhak menerima penghasilan dari kas negara",
+        "E": "Tunjangan kinerja dipotong sebesar delapan puluh persen"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Selama menjalankan cuti karena alasan penting, PNS **memperoleh penghasilan dan tunjangan sesuai peraturan perundang-undangan**.",
+        "alasan_kunci": "Opsi C tepat karena cuti karena alasan penting memberikan jaminan penghasilan dan tunjangan penuh bagi pegawai. Negara menjamin perlindungan finansial saat pegawai mengalami peristiwa mendesak. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Uang tunggu hanya diberikan bagi pegawai yang diberhentikan dengan hormat karena sakit/perampingan.",
+          "B": "Pegawai tidak hanya menerima gaji pokok melainkan juga tunjangan yang sah.",
+          "D": "Penghentian penghasilan hanya berlaku pada Cuti di Luar Tanggungan Negara (CLTN).",
+          "E": "Tidak ada ketentuan pemotongan tunjangan kinerja hingga 80% dalam pasal cuti alasan penting."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "PNS Wanita yang telah memiliki anak sebelum menjadi PNS",
+        "setelah menjadi PNS"
+      ],
+      "topik_materi": "Penerapan Hak Cuti Melahirkan Pegawai Rekrutan Baru",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Ibu Ratna memiliki 2 anak sebelum lulus CPNS. Setelah menjadi PNS, ia melahirkan anak berikutnya. Hak cuti melahirkan yang sah adalah...",
+      "pilihan": {
+        "A": "Hanya diizinkan mengambil izin pribadi 3 hari",
+        "B": "Hanya boleh mengambil cuti tahunan 12 hari",
+        "C": "Wajib mengajukan cuti di luar tanggungan",
+        "D": "Tetap berhak atas cuti melahirkan selama 3 bulan",
+        "E": "Hak cuti melahirkan langsung dinyatakan gugur"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS wanita yang telah beranak sebelum menjadi PNS berhak cuti melahirkan **sampai dengan 3 anak setelah menjadi PNS**, dengan durasi **3 bulan**.",
+        "alasan_kunci": "Opsi D tepat karena kelahiran tersebut adalah kelahiran pertama Ibu Ratna setelah berstatus PNS. Karena kuota 3 anak dihitung sejak berstatus PNS, ia berhak penuh atas cuti melahirkan 3 bulan. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Izin 3 hari bukan pengganti hak cuti persalinan aparatur.",
+          "B": "Cuti melahirkan tidak digantikan oleh cuti tahunan yang hanya berdurasi 12 hari kerja.",
+          "C": "Tidak perlu mengajukan CLTN karena hak normatif cuti melahirkan masih tersedia.",
+          "E": "Hak cuti melahirkan tidak gugur karena anak sebelumnya lahir sebelum masa bakti ASN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "diberikan cuti besar untuk persalinan anaknya",
+        "tidak berhak lagi atas cuti"
+      ],
+      "topik_materi": "Implementasi Pengajuan Cuti Persalinan Anak Keempat",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pejabat fungsional wanita mengajukan cuti untuk persalinan anaknya yang keempat. Administrasi kepegawaian wajib memprosesnya sebagai...",
+      "pilihan": {
+        "A": "Cuti di luar tanggungan negara selama enam bulan",
+        "B": "Cuti melahirkan biasa dengan pemotongan uang makan",
+        "C": "Cuti tahunan tambahan sebanyak tiga puluh hari",
+        "D": "Cuti sakit berat dengan surat dokter pemerintah",
+        "E": "Cuti besar persalinan dan menghapus cuti tahunan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Persalinan anak keempat diproses melalui **cuti besar**, dan yang bersangkutan **tidak berhak lagi atas cuti tahunannya** pada tahun tersebut.",
+        "alasan_kunci": "Opsi E tepat karena mekanisme yang sah untuk anak keempat adalah cuti besar dengan implikasi gugurnya hak cuti tahunan pada tahun berjalan. Ini menjamin tertib kepatuhan administrasi ASN. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "CLTN tidak relevan jika pegawai masih memiliki hak cuti besar kepegawaian.",
+          "B": "Bukan diproses sebagai cuti melahirkan biasa karena kuota cuti melahirkan dibatasi sampai anak ketiga.",
+          "C": "Tidak ada istilah cuti tahunan tambahan 30 hari untuk persalinan.",
+          "D": "Persalinan normal anak keempat bukan merupakan kategori cuti sakit berat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "cuti besar setelah bekerja kembali paling kurang 6 (enam) tahun",
+        "secara terus- menerus"
+      ],
+      "topik_materi": "Penerapan Pemulihan Hak Cuti Besar Pasca-CLTN",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang PNS kembali bekerja pada tahun 2020 pasca-CLTN. Waktu tercepat bagi pegawai tersebut untuk dapat mengajukan cuti besar adalah pada tahun...",
+      "pilihan": {
+        "A": "2025 setelah 5 tahun dinas berjalan",
+        "B": "2021 setelah 1 tahun bekerja secara aktif",
+        "C": "2023 setelah 3 tahun berturut-turut",
+        "D": "2026 setelah 6 tahun bekerja terus-menerus",
+        "E": "2022 setelah masa orientasi 2 tahun"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Hak atas cuti besar bagi pegawai pasca-CLTN baru terbuka setelah **bekerja kembali paling kurang 6 (enam) tahun secara terus-menerus**.",
+        "alasan_kunci": "Opsi D tepat karena hitungan masa kerja 6 tahun dari tahun 2020 jatuh pada tahun 2026. Persyaratan ini wajib dipenuhi tanpa terputus cuti nir-tanggungan lainnya. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Lima tahun (2025) kurang 1 tahun dari syarat minimal 6 tahun terus-menerus.",
+          "B": "Satu tahun (2021) hanya memulihkan hak atas cuti tahunan, bukan cuti besar.",
+          "C": "Tiga tahun (2023) belum memenuhi masa pengabdian 6 tahun.",
+          "E": "Dua tahun (2022) tidak memenuhi kriteria yuridis pemulihan hak cuti besar."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "PNS wanita yang telah menggunakan cuti di luar tanggungan negara",
+        "cuti bersama"
+      ],
+      "topik_materi": "Analisis Hak Cuti bagi PNS Pasca Cuti di Luar Tanggungan Negara",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "PNS wanita yang telah selesai menggunakan fasilitas CLTN dan aktif bekerja kembali tetap memiliki hak cuti berikut, KECUALI...",
+      "pilihan": {
+        "A": "Cuti karena alasan penting sesuai regulasi",
+        "B": "Cuti bersama yang ditetapkan pemerintah",
+        "C": "Cuti tahunan pada tahun yang sedang berjalan",
+        "D": "Cuti tahunan yang tersisa sebelum menjalani CLTN",
+        "E": "Cuti besar langsung pada tahun pertama aktif"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "PNS pasca-CLTN berhak atas **cuti bersama**, **cuti tahunan**, cuti sakit, dan cuti penting. Adapun **cuti besar baru dapat diajukan setelah bekerja kembali 6 tahun terus-menerus**.",
+        "alasan_kunci": "Opsi E tepat sebagai pengecualian karena cuti besar tidak dapat diambil langsung pada tahun pertama pasca-CLTN. Pegawai wajib mengabdi sekurang-kurangnya 6 tahun tanpa putus terlebih dahulu. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Cuti karena alasan penting tetap dapat diberikan jika musibah keluarga terjadi.",
+          "B": "Cuti bersama merupakan hak otomatis yang tetap diperoleh pegawai aktif.",
+          "C": "Cuti tahunan berjalan tetap berhak diperoleh sesuai ketentuan berlaku.",
+          "D": "Sisa cuti tahunan sebelum CLTN tetap diakui hak penggunaannya."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "Cuti karena alasan penting diberikan untuk paling lama 1 (satu) bulan",
+        "Cuti Karena Alasan Penting"
+      ],
+      "topik_materi": "Batas Maksimal Cuti Karena Alasan Penting",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan regulasi manajemen ASN, Cuti Karena Alasan Penting diberikan untuk paling lama...",
+      "pilihan": {
+        "A": "1 (satu) bulan kalender",
+        "B": "3 (tiga) bulan hari dinas",
+        "C": "14 (empat belas) hari kerja",
+        "D": "60 (enam puluh) hari penuh",
+        "E": "6 (enam) bulan berturut-turut"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Cuti karena alasan penting diberikan untuk paling lama 1 (satu) bulan** sesuai pertimbangan pejabat berwenang.",
+        "alasan_kunci": "Opsi A tepat karena durasi maksimal Cuti Karena Alasan Penting ditetapkan paling lama 1 bulan kalender. Waktu tersebut dinilai cukup untuk menyelesaikan urusan mendesak keluarga atau pemulihan bencana. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Tiga bulan merupakan alokasi durasi cuti melahirkan atau cuti besar.",
+          "C": "Empat belas hari merupakan batas pengajuan cuti sakit biasa.",
+          "D": "Enam puluh hari melebihi batas legalitas 1 bulan untuk cuti alasan penting.",
+          "E": "Enam bulan merupakan durasi maksimal perpanjangan cuti sakit berat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "melangsungkan perkawinan",
+        "cuti karena alasan penting"
+      ],
+      "topik_materi": "Cuti Alasan Penting untuk Melangsungkan Pernikahan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang melangsungkan perkawinan yang sah berhak mengajukan cuti kedinasan melalui skema...",
+      "pilihan": {
+        "A": "Cuti tahunan tambahan daerah",
+        "B": "Cuti karena alasan penting",
+        "C": "Cuti di luar tanggungan negara",
+        "D": "Izin tidak masuk dinas harian",
+        "E": "Cuti besar istirahat panjang"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "PNS berhak atas **cuti karena alasan penting** apabila **melangsungkan perkawinan**.",
+        "alasan_kunci": "Opsi B tepat karena pernikahan pertama maupun sah pegawai difasilitasi resmi melalui Cuti Karena Alasan Penting. Ini memberi legitimasi ketidakhadiran tanpa memotong hak cuti tahunan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tidak ada nomenklatur cuti tahunan tambahan khusus pernikahan dalam tata aturan ASN.",
+          "C": "CLTN ditujukan untuk alasan mendesak jangka panjang tanpa menerima gaji negara.",
+          "D": "Izin tidak masuk dinas harian bukan status hukum cuti melainkan dispensasi absensi.",
+          "E": "Cuti besar memerlukan syarat kerja 5 tahun dan bukan skema pokok pernikahan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "PNS laki-laki yang istrinya melahirkan/operasi sesar",
+        "Cuti karena alasan penting"
+      ],
+      "topik_materi": "Hak Cuti Suami Dampingi Istri Operasi Sesar",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Cuti karena alasan penting dapat diberikan kepada PNS laki-laki dengan alasan khusus yaitu...",
+      "pilihan": {
+        "A": "Membeli rumah tempat tinggal baru",
+        "B": "Mendampingi anak ujian sekolah kedinasan",
+        "C": "Istrinya melahirkan atau operasi sesar",
+        "D": "Menghadiri acara wisuda kerabat jauh",
+        "E": "Mengikuti kegiatan rekreasi keluarga tahunan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Cuti karena alasan penting dapat diberikan untuk **PNS laki-laki yang istrinya melahirkan/operasi sesar** guna memberikan pendampingan.",
+        "alasan_kunci": "Opsi C tepat karena regulasi kepegawaian memberikan hak cuti penting bagi suami saat istri menjalani proses persalinan atau operasi sesar. Hak ini menjamin peran ayah dalam mendampingi keluarga. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Membeli properti/rumah pribadi tidak termasuk kategori peristiwa mendesak.",
+          "B": "Mendampingi anak ujian bukan alasan yuridis yang sah untuk cuti alasan penting.",
+          "D": "Wisuda kerabat jauh merupakan urusan sosial biasa yang dapat menggunakan cuti tahunan.",
+          "E": "Rekreasi keluarga harus menggunakan cuti tahunan, bukan cuti alasan penting."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "ibu, bapak, istri atau suami, anak,",
+        "sakit keras atau meninggal dunia"
+      ],
+      "topik_materi": "Ruang Lingkup Anggota Keluarga Sakit Keras atau Meninggal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ruang lingkup keluarga yang sakit keras atau wafat sehingga PNS berhak cuti alasan penting mencakup...",
+      "pilihan": {
+        "A": "Kakek, nenek, paman, dan bibi sekandung",
+        "B": "Hanya pasangan sah dan anak kandung di rumah",
+        "C": "Seluruh keluarga besar hingga derajat ketiga",
+        "D": "Sepupu satu garis keturunan dan keponakan",
+        "E": "Ibu, bapak, istri/suami, anak, adik, kakak, mertua, menantu"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Cuti alasan penting diberikan jika **ibu, bapak, istri atau suami, anak, adik, kakak, mertua, atau menantu sakit keras atau meninggal dunia**.",
+        "alasan_kunci": "Opsi E tepat karena pasal cuti alasan penting menyebutkan secara limitatif daftar keluarga inti: orang tua, pasangan, anak, saudara kandung (adik/kakak), mertua, dan menantu. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Kakek, nenek, paman, dan bibi tidak masuk dalam rumusan pasal Cuti Alasan Penting.",
+          "B": "Terlalu sempit karena mencoret orang tua, mertua, menantu, dan saudara kandung.",
+          "C": "Terlalu luas dan tidak sesuai rincian limitatif peraturan kepegawaian.",
+          "D": "Sepupu dan keponakan tidak tercantum dalam daftar keluarga inti penerima hak cuti."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "Indonesia yang rawan dan/atau berbahaya",
+        "kondisi kejiwaan"
+      ],
+      "topik_materi": "Cuti Alasan Penting bagi PNS Perwakilan Luar Negeri Rawan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang ditempatkan pada perwakilan Republik Indonesia yang rawan dan/atau berbahaya dapat diberikan cuti penting untuk...",
+      "pilihan": {
+        "A": "Memulihkan kondisi kejiwaan pegawai",
+        "B": "Mencari peluang mutasi dinas baru",
+        "C": "Menambah tunjangan luar negeri",
+        "D": "Menghindari evaluasi kinerja rutin",
+        "E": "Melakukan penugasan intelijen tambahan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Cuti alasan penting dapat diberikan bagi PNS di kantor perwakilan rawan/berbahaya **guna memulihkan kondisi kejiwaan PNS yang bersangkutan**.",
+        "alasan_kunci": "Opsi A tepat karena penugasan pada zona konflik atau daerah berbahaya berdampak psikologis tinggi, sehingga negara memberikan cuti penting guna pemulihan trauma/kejiwaan. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Cuti tidak diberikan untuk mencari peluang mutasi dinas.",
+          "C": "Tunjangan luar negeri diatur tersendiri dan bukan tujuan pemberian cuti pemulihan jiwa.",
+          "D": "Cuti bukan sarana menghindari kewajiban evaluasi akuntabilitas kinerja.",
+          "E": "Tugas intelijen bukan merupakan alasan yuridis pemberian hak cuti alasan penting."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "PNS yang sedang tugas belajar, berhak atas:",
+        "cuti melahirkan"
+      ],
+      "topik_materi": "Hak Cuti bagi PNS yang Sedang Tugas Belajar",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan peraturan kepegawaian, PNS yang sedang menjalani masa tugas belajar berhak atas cuti...",
+      "pilihan": {
+        "A": "Cuti tahunan penuh selama dua belas hari kerja",
+        "B": "Cuti bersama, cuti melahirkan, dan cuti besar anak keempat",
+        "C": "Cuti besar untuk ibadah haji reguler pertama",
+        "D": "Cuti di luar tanggungan negara selama dua tahun",
+        "E": "Cuti tahunan bebas jam kuliah kampus"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "PNS yang sedang tugas belajar berhak atas: **cuti bersama**, **cuti melahirkan**, dan **cuti besar untuk persalinan anaknya yang keempat**.",
+        "alasan_kunci": "Opsi B tepat karena hak cuti pegawai yang sedang tugas belajar dibatasi hanya pada cuti bersama, cuti melahirkan, dan cuti besar anak keempat. Cuti tahunan tidak diberikan selama tugas belajar. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Cuti tahunan tidak berlaku bagi PNS yang sedang menjalani status tugas belajar.",
+          "C": "Cuti besar untuk ibadah haji tidak dapat diambil selama masa aktif tugas belajar.",
+          "D": "CLTN tidak dapat digabungkan di tengah-tengah masa ikatan tugas belajar.",
+          "E": "Tidak ada cuti tahunan bebas jam kuliah dalam ketentuan administrasi ASN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "tanah longsor, kebakaran, dan gempa bumi",
+        "cuti karena alasan penting"
+      ],
+      "topik_materi": "Penerapan Cuti Akibat Bencana Alam",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Rumah tinggal seorang penelaah pajak tertimpa tanah longsor dan rusak berat. Status cuti kedinasan yang dapat diajukan adalah...",
+      "pilihan": {
+        "A": "Cuti di luar tanggungan negara sementara",
+        "B": "Cuti tahunan yang dipotong otomatis",
+        "C": "Cuti karena alasan penting keadaan kahar",
+        "D": "Cuti sakit tanpa surat dokter klinik",
+        "E": "Izin libur tanpa persetujuan tertulis"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "PNS berhak atas **cuti karena alasan penting karena terjadinya kondisi force majeur, misalnya banjir, tanah longsor, kebakaran, dan gempa bumi**.",
+        "alasan_kunci": "Opsi C tepat karena musibah bencana alam tanah longsor masuk kategori keadaan kahar (force majeure) yang sah untuk Cuti Karena Alasan Penting. Ini memberi waktu pegawai memulihkan tempat tinggalnya. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "CLTN tidak relevan untuk musibah bencana alam jangka pendek.",
+          "B": "Bencana alam tidak boleh langsung memotong hak normatif cuti tahunan pegawai.",
+          "D": "Cuti sakit hanya untuk gangguan medis biologis, bukan kerusakan fisik bangunan rumah.",
+          "E": "Setiap cuti wajib diajukan dan disetujui tertulis oleh pejabat berwenang."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "PNS laki-laki yang istrinya melahirkan/operasi sesar",
+        "paling lama 1 (satu) bulan"
+      ],
+      "topik_materi": "Implementasi Suami Dampingi Istri Melahirkan Caesar",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang PNS pria mengajukan izin mendampingi istrinya yang menjalani operasi sesar darurat. Tindakan kepegawaian yang benar adalah...",
+      "pilihan": {
+        "A": "Mengharuskan penggunaan cuti besar enam bulan",
+        "B": "Menolak izin karena bukan pegawai wanita",
+        "C": "Memotong gaji pokok pegawai sebesar sepertiga",
+        "D": "Memberikan cuti alasan penting maksimal 1 bulan",
+        "E": "Mewajibkan lembur pengganti selama dua pekan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS laki-laki berhak atas **cuti karena alasan penting** saat istri melahirkan/operasi sesar dengan durasi **paling lama 1 bulan**.",
+        "alasan_kunci": "Opsi D tepat karena regulasi menjamin hak cuti alasan penting bagi PNS pria yang istrinya operasi sesar. Durasi diberikan sesuai pertimbangan kondisi medis hingga maksimal 1 bulan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Cuti besar memerlukan masa kerja 5 tahun dan bukan prosedur pendampingan persalinan.",
+          "B": "Menolak permohonan melanggar hak hukum PNS pria yang dilindungi peraturan kepegawaian.",
+          "C": "Penghasilan dan tunjangan tetap berhak diterima penuh tanpa pemotongan sepertiga.",
+          "E": "Tidak ada aturan kompensasi lembur pengganti bagi hak cuti alasan penting."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "harus mengurus hak-hak dari anggota keluarganya",
+        "cuti karena alasan penting"
+      ],
+      "topik_materi": "Penerapan Cuti Mengurus Hak Keluarga Meninggal",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Ayah kandung seorang pejabat perbendaharaan wafat dan pegawai tersebut ditunjuk ahli waris mengurus hak pensiun taspen. Prosedur yang sah adalah...",
+      "pilihan": {
+        "A": "Mengajukan cuti sakit surat keterangan kelurahan",
+        "B": "Mangkir tugas karena alasan adat istiadat",
+        "C": "Mengajukan cuti alasan penting mengurus hak keluarga",
+        "D": "Meminta uang duka tanpa surat kematian resmi",
+        "E": "Mengalihkan pekerjaan ke rekan secara lisan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "PNS berhak cuti alasan penting apabila anggota keluarga meninggal dan pegawai bersangkutan **harus mengurus hak-hak dari anggota keluarganya yang meninggal**.",
+        "alasan_kunci": "Opsi C tepat karena pengurusan hak administratif keluarga yang meninggal dunia dilindungi secara yuridis melalui Cuti Karena Alasan Penting. Ini memastikan legalitas kehadiran dinas pegawai. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Surat kelurahan bukan bukti medis untuk pengajuan cuti sakit.",
+          "B": "Mangkir kerja merupakan pelanggaran disiplin berat aparatur sipil negara.",
+          "D": "Pemberian hak finansial wajib disertai kelengkapan dokumen sah akta kematian.",
+          "E": "Pendelegasian tugas wajib diketahui dan disetujui atasan secara tertulis."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "PNS yang telah menggunakan cuti karena",
+        "cuti tahunan pada tahun yang sedang berjalan"
+      ],
+      "topik_materi": "Analisis Hak Cuti Pasca Cuti Alasan Penting",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "PNS yang telah selesai menggunakan Cuti Karena Alasan Penting tetap memiliki hak cuti kepegawaian lainnya, KECUALI...",
+      "pilihan": {
+        "A": "Sisa cuti tahunan sebelum cuti alasan penting",
+        "B": "Cuti bersama yang ditetapkan pemerintah",
+        "C": "Cuti tahunan pada tahun yang sedang berjalan",
+        "D": "Cuti bebas dinas tanpa persetujuan pimpinan",
+        "E": "Cuti besar sesuai persyaratan kepegawaian"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS pasca-cuti alasan penting berhak atas: **cuti bersama**, **cuti tahunan berjalan dan sisa**, cuti besar, cuti sakit, dan cuti melahirkan.",
+        "alasan_kunci": "Opsi D tepat sebagai pengecualian karena dalam manajemen kepegawaian tidak ada cuti bebas dinas tanpa persetujuan. Setiap cuti wajib mendapatkan penetapan dari pejabat yang berwenang. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Sisa cuti tahunan sebelum peristiwa tetap dapat dimanfaatkan.",
+          "B": "Cuti bersama secara tegas tetap menjadi hak normatif pegawai.",
+          "C": "Cuti tahunan tahun berjalan tidak gugur akibat penggunaan cuti alasan penting.",
+          "E": "Cuti besar tetap dapat diajukan sesuai siklus lima tahunan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "PNS yang sedang tugas belajar, berhak atas:",
+        "cuti bersama"
+      ],
+      "topik_materi": "Analisis Pembatasan Hak Cuti Masa Tugas Belajar",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "PNS yang sedang tugas belajar mengalami pembatasan hak cuti. Di antara jenis cuti berikut yang TIDAK BERHAK diambil selama tugas belajar adalah...",
+      "pilihan": {
+        "A": "Cuti besar persalinan anak keempat",
+        "B": "Cuti bersama nasional",
+        "C": "Cuti bersalin anak kedua",
+        "D": "Cuti melahirkan anak pertama",
+        "E": "Cuti tahunan reguler kantor"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "PNS yang sedang tugas belajar **hanya berhak atas cuti bersama, cuti melahirkan, dan cuti besar persalinan anak keempat**, sehingga **tidak berhak atas cuti tahunan**.",
+        "alasan_kunci": "Opsi E tepat karena cuti tahunan ditiadakan bagi pegawai tugas belajar. Kalender akademik kampus telah menyediakan masa libur semester perkuliahan. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Cuti besar khusus persalinan anak keempat sah diberikan saat tugas belajar.",
+          "B": "Cuti bersama tetap dinikmati pegawai tugas belajar mengikuti hari libur nasional.",
+          "C": "Cuti melahirkan anak kedua tetap menjadi hak normatif wanita tugas belajar.",
+          "D": "Cuti melahirkan anak pertama sah diambil oleh mahasiswi tugas belajar."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "Perguruan Tinggi atau Kepala Perwakilan Republik",
+        "pejabat yang berwenang memberikan cuti"
+      ],
+      "topik_materi": "Mekanisme Pengajuan Cuti Persalinan Tugas Belajar",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang sedang tugas belajar di luar negeri mengajukan cuti bersalin kepada pejabat berwenang melalui...",
+      "pilihan": {
+        "A": "Kepala Perwakilan Republik Indonesia di negara terkait",
+        "B": "Atasan langsung kantor lama di tanah air",
+        "C": "Kementerian Luar Negeri secara langsung",
+        "D": "Lembaga beasiswa penyandang dana studi",
+        "E": "Organisasi perhimpunan pelajar Indonesia"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Permohonan cuti bersalin bagi PNS tugas belajar diajukan kepada pejabat berwenang melalui **Pimpinan Perguruan Tinggi atau Kepala Perwakilan Republik Indonesia** di negara terkait.",
+        "alasan_kunci": "Opsi A tepat karena perwakilan RI (KBRI/KJRI) merupakan otoritas pembina resmi WNI/ASN di luar negeri. Saluran ini menjamin verifikasi status studi dan legalitas administrasi. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Atasan lama di tanah air tidak memiliki yurisdiksi harian atas mahasiswa tugas belajar di luar negeri.",
+          "C": "Kementerian Luar Negeri pusat bukan jalur langsung pengajuan cuti pegawai Kemenkeu.",
+          "D": "Pemberi beasiswa hanya mengelola pendanaan, bukan izin cuti dinas kepegawaian.",
+          "E": "Organisasi pelajar adalah organisasi kemahasiswaan non-birokrasi pemerintah."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "lingkungan Kementerian Keuangan sekurang-kurangnya 3 (tiga)",
+        "cuti tahunan pada tahun yang sedang berjalan"
+      ],
+      "topik_materi": "Syarat Pemulihan Cuti Tahunan Pasca Tugas Belajar",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang telah selesai tugas belajar berhak atas cuti tahunan berjalan setelah bekerja kembali sekurang-kurangnya...",
+      "pilihan": {
+        "A": "1 (satu) tahun kalender kerja",
+        "B": "3 (tiga) bulan masa dinas aktif",
+        "C": "6 (enam) bulan penugasan satker",
+        "D": "1 (satu) bulan masa penyesuaian",
+        "E": "2 (dua) tahun berturut-turut"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "PNS yang telah selesai tugas belajar berhak atas cuti tahunan berjalan setelah **bekerja kembali sekurang-kurangnya 3 (tiga) bulan**.",
+        "alasan_kunci": "Opsi B tepat karena regulasi mewajibkan pengabdian aktif minimal 3 bulan pasca-studi sebelum hak cuti tahunan berjalan dipulihkan kembali. Ini memastikan re-entry pegawai ke unit kerja berjalan stabil. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Satu tahun merupakan masa tunggu pemulihan cuti tahunan pasca-CLTN, bukan pasca-tugas belajar.",
+          "C": "Enam bulan bukan batas minimal pemulihan cuti tahunan alumni tugas belajar.",
+          "D": "Satu bulan terlalu cepat dan belum memenuhi batas normatif 3 bulan bekerja.",
+          "E": "Dua tahun tidak memiliki dasar yuridis dalam pemulihan cuti tugas belajar."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "bekerja paling kurang 5 (lima) tahun secara terusmenerus",
+        "Cuti di Luar Tanggungan Negara"
+      ],
+      "topik_materi": "Syarat Minimal Masa Kerja Pengajuan CLTN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Syarat minimal masa kerja bagi PNS untuk dapat mengajukan Cuti di Luar Tanggungan Negara (CLTN) adalah...",
+      "pilihan": {
+        "A": "Telah lulus masa percobaan satu tahun",
+        "B": "Bekerja minimal 3 tahun sejak CPNS",
+        "C": "Bekerja sekurang-kurangnya 6 tahun dinas",
+        "D": "Bekerja paling kurang 5 tahun terus-menerus",
+        "E": "Mencapai masa kerja golongan delapan tahun"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS yang telah **bekerja paling kurang 5 (lima) tahun secara terus-menerus** dapat diberikan cuti di luar tanggungan negara karena alasan pribadi dan mendesak.",
+        "alasan_kunci": "Opsi D tepat karena syarat mutlak pengajuan CLTN adalah masa pengabdian sekurang-kurangnya 5 tahun tanpa putus. Persyaratan ini membuktikan loyalitas dasar pegawai sebelum cuti panjang nir-gaji. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Masa percobaan 1 tahun hanya syarat pengangkatan CPNS menjadi PNS penuh.",
+          "B": "Tiga tahun belum memenuhi ambang batas 5 tahun masa kerja yang ditentukan aturan.",
+          "C": "Enam tahun merupakan syarat pengajuan cuti besar pasca-CLTN, bukan syarat awal CLTN.",
+          "E": "Delapan tahun melebihi batas normatif 5 tahun pengajuan CLTN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "alasan-alasan pribadi yang penting dan mendesak",
+        "Cuti di Luar Tanggungan Negara"
+      ],
+      "topik_materi": "Dasar Alasan Pengajuan CLTN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemberian izin Cuti di Luar Tanggungan Negara (CLTN) hanya dapat disetujui apabila didasarkan pada...",
+      "pilihan": {
+        "A": "Keikutsertaan dalam kampanye politik pemilu serentak",
+        "B": "Keinginan mencoba profesi lain di sektor swasta",
+        "C": "Kebutuhan istirahat jenuh dari rutinitas kedinasan",
+        "D": "Rencana membangun unit usaha bisnis komersial pribadi",
+        "E": "Alasan pribadi penting dan mendesak dengan bukti pendukung"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "CLTN diberikan karena **alasan-alasan pribadi yang penting dan mendesak dengan bukti-bukti yang mendukung**.",
+        "alasan_kunci": "Opsi E tepat karena CLTN merupakan fasilitas luar biasa yang menuntut adanya justifikasi mendesak dan bukti otentik, seperti mendampingi suami/istri dinas negara. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Aparatur sipil negara wajib netral dan dilarang terlibat kampanye politik praktis.",
+          "B": "Mencoba profesi swasta dilarang dan berpotensi menimbulkan benturan kepentingan ASN.",
+          "C": "Istirahat jenuh rutinitas cukup diakomodasi melalui cuti tahunan atau cuti besar.",
+          "D": "Membangun bisnis komersial bukan alasan sah pemberian CLTN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "paling lama 3",
+        "Cuti di luar tanggungan negara dapat diberikan"
+      ],
+      "topik_materi": "Batas Waktu Awal Pemberian CLTN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan tata aturan kepegawaian, Cuti di Luar Tanggungan Negara dapat diberikan untuk waktu paling lama...",
+      "pilihan": {
+        "A": "3 (tiga) tahun kalender",
+        "B": "5 (lima) tahun berturut-turut",
+        "C": "1 (satu) tahun masa penugasan",
+        "D": "2 (dua) tahun dinas penuh",
+        "E": "6 (enam) bulan berjalan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Cuti di luar tanggungan negara dapat diberikan untuk paling lama 3 (tiga) tahun** dan dapat diperpanjang paling lama 1 tahun.",
+        "alasan_kunci": "Opsi A tepat karena batas waktu persetujuan awal CLTN adalah maksimal 3 tahun. Waktu ini diberikan agar pegawai dapat menuntaskan urusan pribadinya yang mendesak. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Lima tahun merupakan syarat masa kerja untuk mengajukan, bukan batas durasi CLTN.",
+          "C": "Satu tahun merupakan durasi maksimal perpanjangannya, bukan jangka waktu awal.",
+          "D": "Dua tahun bukan batas maksimal normatif undang-undang ASN.",
+          "E": "Enam bulan terlalu pendek dan bukan batas durasi awal CLTN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "dapat diperpanjang paling lama 1 (satu) tahun",
+        "alasan-alasan yang penting untuk memperpanjangnya"
+      ],
+      "topik_materi": "Ketentuan Perpanjangan Izin CLTN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perpanjangan izin Cuti di Luar Tanggungan Negara (CLTN) dapat diberikan untuk waktu paling lama...",
+      "pilihan": {
+        "A": "3 (tiga) tahun secara otomatis",
+        "B": "1 (satu) tahun apabila ada alasan penting",
+        "C": "2 (dua) tahun berturut-turut",
+        "D": "6 (enam) bulan masa tambahan",
+        "E": "5 (lima) tahun masa perpanjangan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "CLTN **dapat diperpanjang paling lama 1 (satu) tahun apabila ada alasan-alasan yang penting untuk memperpanjangnya**.",
+        "alasan_kunci": "Opsi B tepat karena perpanjangan CLTN dibatasi maksimal 1 tahun dan memerlukan alasan penting serta persetujuan tertulis instansi pembina. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tiga tahun merupakan durasi awal, perpanjangan tidak dapat diberikan 3 tahun lagi.",
+          "C": "Dua tahun melampaui ketentuan batas waktu perpanjangan maksimal 1 tahun.",
+          "D": "Enam bulan bukan batas maksimal perpanjangan CLTN yang diatur pasal.",
+          "E": "Lima tahun melebihi batas kumulatif total CLTN (3 + 1 tahun)."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "PNS yang telah selesai tugas belajar dan bekerja kembali",
+        "cuti sakit"
+      ],
+      "topik_materi": "Hak Cuti Langsung Pasca Selesai Tugas Belajar",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang baru saja selesai tugas belajar dan bekerja kembali langsung berhak atas cuti berikut tanpa menunggu 3 bulan, yaitu...",
+      "pilihan": {
+        "A": "Cuti bersama dan cuti rekreasi dinas",
+        "B": "Cuti tahunan berjalan dan cuti besar haji",
+        "C": "Cuti sakit, cuti melahirkan, dan cuti alasan penting",
+        "D": "Cuti tahunan penugasan luar negeri",
+        "E": "Cuti di luar tanggungan negara langsung"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "PNS yang selesai tugas belajar dan aktif kembali **langsung berhak atas: cuti besar persalinan anak ke-4, cuti sakit, cuti melahirkan, dan cuti karena alasan penting**.",
+        "alasan_kunci": "Opsi C tepat karena cuti yang menyangkut kesehatan darurat (sakit, melahirkan, alasan penting) tidak memerlukan masa tunggu 3 bulan dan langsung melekat. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Cuti bersama baru dapat dinikmati setelah sekurang-kurangnya 3 bulan bekerja.",
+          "B": "Cuti tahunan berjalan dan cuti besar umum memerlukan masa dinas aktif minimal 3 bulan.",
+          "D": "Tidak ada nomenklatur cuti tahunan penugasan luar negeri tanpa masa tunggu.",
+          "E": "CLTN tidak dapat langsung diambil sesaat setelah lulus tugas belajar ikatan dinas."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "bekerja paling kurang 5 (lima) tahun secara terusmenerus",
+        "alasan-alasan pribadi yang penting dan mendesak"
+      ],
+      "topik_materi": "Penerapan Syarat Masa Kerja Pengajuan CLTN",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang staf memiliki masa kerja 3 tahun dan ingin mengajukan CLTN untuk mendampingi pasangan. Keputusan pejabat kepegawaian adalah...",
+      "pilihan": {
+        "A": "Menyetujui dengan syarat bersedia dipotong gaji penuh",
+        "B": "Menolak permohonan karena masa kerja kurang dari 5 tahun",
+        "C": "Mengabulkan dengan durasi percobaan enam bulan",
+        "D": "Mengalihkan status pegawai menjadi honorer lepas",
+        "E": "Memberhentikan secara sepihak dari jabatan ASN"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "CLTN hanya dapat diberikan bagi PNS yang telah **bekerja paling kurang 5 tahun secara terus-menerus**.",
+        "alasan_kunci": "Opsi B tepat karena masa dinas pegawai baru 3 tahun, belum mencapai syarat minimal 5 tahun kerja terus-menerus sehingga permohonan wajib ditolak secara administratif. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pejabat kepegawaian tidak boleh melanggar syarat masa kerja 5 tahun meski pegawai bersedia nir-gaji.",
+          "C": "Tidak ada skema CLTN masa percobaan 6 bulan bagi masa kerja di bawah 5 tahun.",
+          "D": "Status PNS tidak dapat diubah menjadi tenaga honorer.",
+          "E": "Penolakan permohonan cuti bukan alasan menjatuhkan sanksi pemberhentian jabatan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "lingkungan Kementerian Keuangan sekurang-kurangnya 3 (tiga)",
+        "cuti tahunan pada tahun yang sedang berjalan"
+      ],
+      "topik_materi": "Implementasi Masa Tunggu Cuti Tahunan Pasca Tugas Belajar",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang auditor selesai tugas belajar S2 pada 1 Februari 2026. Waktu paling cepat bagi auditor tersebut berhak cuti tahunan berjalan adalah...",
+      "pilihan": {
+        "A": "1 Agustus 2026 setelah 6 bulan bertugas",
+        "B": "1 Maret 2026 setelah 1 bulan bertugas",
+        "C": "1 Mei 2026 setelah 3 bulan bertugas",
+        "D": "1 Februari 2027 setelah 1 tahun bertugas",
+        "E": "Langsung pada tanggal 2 Februari 2026"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "PNS alumni tugas belajar berhak atas cuti tahunan berjalan setelah bekerja kembali **sekurang-kurangnya 3 (tiga) bulan**.",
+        "alasan_kunci": "Opsi C tepat karena masa kerja aktif 3 bulan dihitung sejak 1 Februari 2026 sehingga hak cuti tahunan berjalan baru timbul mulai 1 Mei 2026. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Enam bulan (1 Agustus) melebihi batas waktu yang disyaratkan regulasi.",
+          "B": "Satu bulan (1 Maret) belum memenuhi ambang batas waktu 3 bulan bekerja.",
+          "D": "Satu tahun (1 Februari 2027) berlaku bagi pasca-CLTN, bukan pasca-tugas belajar.",
+          "E": "Langsung pada hari berikutnya tidak sah karena cuti tahunan memerlukan masa pengabdian re-entry."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "paling lama 3",
+        "dapat diperpanjang paling lama 1 (satu) tahun"
+      ],
+      "topik_materi": "Analisis Total Durasi Maksimal Akumulasi CLTN",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Berdasarkan ketentuan batas awal dan perpanjangannya, batas total akumulasi waktu terlama seorang PNS dapat menjalani CLTN adalah...",
+      "pilihan": {
+        "A": "2 (dua) tahun masa penundaan",
+        "B": "3 (tiga) tahun kalender murni",
+        "C": "5 (lima) tahun masa penugasan",
+        "D": "4 (empat) tahun berturut-turut",
+        "E": "6 (enam) tahun masa istirahat"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "CLTN diberikan paling lama **3 tahun** dan dapat diperpanjang paling lama **1 tahun**, sehingga akumulasi maksimalnya adalah **4 tahun**.",
+        "alasan_kunci": "Opsi D tepat karena penjumlahan waktu awal 3 tahun ditambah batas maksimal perpanjangan 1 tahun menghasilkan total 4 tahun cuti nir-tanggungan negara. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Dua tahun lebih rendah dari batas akumulasi maksimal yang diizinkan peraturan.",
+          "B": "Tiga tahun hanya batas pemberian awal sebelum adanya izin perpanjangan.",
+          "C": "Lima tahun melebihi batas maksimal akumulasi legalitas CLTN.",
+          "E": "Enam tahun tidak memiliki rujukan dalam pasal durasi akumulasi CLTN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "lingkungan Kementerian Keuangan sekurang-kurangnya 3 (tiga)",
+        "cuti bersama"
+      ],
+      "topik_materi": "Analisis Hak Cuti Bersama Pasca Tugas Belajar",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbedaan mendasar hak cuti bagi PNS yang baru selesai tugas belajar sebelum dan sesudah 3 bulan bekerja kembali terletak pada...",
+      "pilihan": {
+        "A": "Pemberian hak pensiun dini atas permintaan sendiri",
+        "B": "Pemberian tunjangan kinerja jabatan struktural",
+        "C": "Penyesuaian kenaikan pangkat penyesuaian ijazah",
+        "D": "Kewajiban mengikuti evaluasi kompetensi tahunan",
+        "E": "Timbulnya hak atas cuti tahunan berjalan dan cuti bersama"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Sebelum 3 bulan bekerja, PNS alumni tugas belajar hanya berhak cuti darurat (sakit, melahirkan, alasan penting). **Setelah 3 bulan bekerja, barulah timbul hak atas cuti tahunan berjalan, cuti besar, dan cuti bersama**.",
+        "alasan_kunci": "Opsi E tepat karena pemulihan cuti tahunan dan cuti bersama secara yuridis baru aktif setelah pegawai menuntaskan 3 bulan pengabdian pasca-belajar. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pensiun dini tunduk pada batas usia dan masa kerja minimal pensiun.",
+          "B": "Tunjangan kinerja diatur oleh SK penempatan jabatan, bukan semata-mata aturan cuti 3 bulan.",
+          "C": "Penyesuaian ijazah memerlukan ujian dinas tersendiri dan bukan materi pasal cuti.",
+          "D": "Evaluasi kompetensi berlaku bagi seluruh pegawai tanpa membedakan masa 3 bulan cuti."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 66,
+      "kata_kunci_modul": [
+        "dipertimbangkan oleh atasan langsung",
+        "disertai dengan bukti-bukti yang mendukung"
+      ],
+      "topik_materi": "Pertimbangan Permohonan CLTN oleh Atasan Langsung",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Alasan pribadi yang penting dan mendesak dalam pengajuan CLTN dapat dipertimbangkan oleh...",
+      "pilihan": {
+        "A": "Atasan langsung dengan bukti yang mendukung",
+        "B": "Rekan kerja sejawat dalam satu unit bagian",
+        "C": "Tim pemeriksa disiplin inspektorat jenderal",
+        "D": "Pengurus serikat pegawai kementerian keuangan",
+        "E": "Badan Kepegawaian Negara secara mandiri"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Alasan pribadi penting dan mendesak pengajuan CLTN **dapat dipertimbangkan oleh atasan langsung PNS yang bersangkutan apabila disertai dengan bukti-bukti yang mendukung**.",
+        "alasan_kunci": "Opsi A tepat karena atasan langsung adalah pihak yang paling mengetahui situasi kerja dan kebenaran urgensi pegawai, sehingga pertimbangannya menjadi rujukan utama persetujuan. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Rekan sejawat tidak memiliki kewenangan hierarkis memberikan pertimbangan cuti.",
+          "C": "Inspektorat jenderal menangani pengawasan disiplin, bukan verifikasi awal cuti rutin.",
+          "D": "Serikat pekerja bukan pejabat struktural pembina administrasi kepegawaian.",
+          "E": "BKN memproses persetujuan teknis akhir, bukan memberikan pertimbangan awal langsung."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 66,
+      "kata_kunci_modul": [
+        "Keputusan Presiden Republik Indonesia Nomor 56 Tahun 1974",
+        "Kesejahteraan Pegawai Negeri Sipil"
+      ],
+      "topik_materi": "Dasar Hukum Iuran Kesejahteraan PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Regulasi yang menjadi dasar hukum pengelolaan dan pemotongan iuran kesejahteraan Pegawai Negeri Sipil adalah...",
+      "pilihan": {
+        "A": "Peraturan Pemerintah Nomor 11 Tahun 2017",
+        "B": "Instruksi Presiden Nomor 10 Tahun 1980",
+        "C": "Keputusan Presiden Nomor 56 Tahun 1974",
+        "D": "Undang-Undang Nomor 5 Tahun 2014",
+        "E": "Peraturan Menteri Keuangan Nomor 216 Tahun 2018"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dasar hukum iuran kesejahteraan PNS adalah **Keputusan Presiden Republik Indonesia Nomor 56 Tahun 1974** tentang Pembagian, Penggunaan, Cara Pemotongan, Penyetoran, dan Besarnya Iuran-iuran.",
+        "alasan_kunci": "Opsi C tepat karena Keppres 56/1974 merupakan payung hukum otentik pengaturan pungutan iuran kesejahteraan aparatur negara. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "PP 11/2017 mengatur Manajemen Pegawai Negeri Sipil secara umum.",
+          "B": "Inpres 10/1980 bukan regulasi pemotongan iuran kesejahteraan pegawai.",
+          "D": "UU 5/2014 adalah undang-undang aparatur sipil negara secara makro.",
+          "E": "PMK 216/2018 mengatur manajemen pengembangan SDM di Kementerian Keuangan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 66,
+      "kata_kunci_modul": [
+        "Usaha kesejahteraan Pegawai Negeri Sipil meliputi program:",
+        "Pensiun dan hari tua"
+      ],
+      "topik_materi": "Empat Program Pokok Kesejahteraan PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Keppres Nomor 56 Tahun 1974, usaha kesejahteraan Pegawai Negeri Sipil mencakup empat program yaitu...",
+      "pilihan": {
+        "A": "Beasiswa luar negeri, tabungan emas, asuransi jiwa",
+        "B": "Transportasi, rekreasi, seragam, sembako murah",
+        "C": "Kredit usaha, kendaraan dinas, kuota, seminar",
+        "D": "Pensiun, kesehatan, perumahan, pendidikan anak",
+        "E": "Bantuan hukum, pesangon, bonus target, wisata"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Usaha kesejahteraan PNS meliputi: **a) Pensiun dan hari tua, b) Asuransi kesehatan, c) Tabungan perumahan, dan d) Asuransi pendidikan putra putri PNS**.",
+        "alasan_kunci": "Opsi D tepat karena keempat pilar kesejahteraan Keppres 56/1974 secara limitatif meliputi dana pensiun/hari tua, jaminan kesehatan, perumahan, dan asuransi pendidikan putra-putri. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tabungan emas tidak ada dalam nomenklatur program resmi Keppres 56/1974.",
+          "B": "Fasilitas transportasi, rekreasi, dan sembako bukan 4 program resmi Keppres 56/1974.",
+          "C": "Kredit usaha dan kendaraan dinas bukan program kesejahteraan dasar yang dibiayai iuran.",
+          "E": "Pesangon dan bonus target komersial bukan program kesejahteraan pegawai negeri."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 66,
+      "kata_kunci_modul": [
+        "dipungut iuran 10% dari penghasilannya",
+        "membiayai usaha dalam bidang kesejahteraan"
+      ],
+      "topik_materi": "Besaran Persentase Iuran Kesejahteraan PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Keppres 56/1974, persentase total iuran yang dipungut dari penghasilan PNS untuk bidang kesejahteraan adalah...",
+      "pilihan": {
+        "A": "8% (delapan persen)",
+        "B": "5% (lima persen)",
+        "C": "2,5% (dua setengah persen)",
+        "D": "12% (dua belas persen)",
+        "E": "10% (sepuluh persen)"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Setiap PNS **dipungut iuran 10% dari penghasilannya untuk membiayai usaha dalam bidang kesejahteraan**.",
+        "alasan_kunci": "Opsi E tepat karena Keppres 56/1974 menetapkan potongan wajib sebesar 10% dari gaji pegawai guna menopang seluruh program jaminan masa depan. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Delapan persen tidak sesuai dengan rumusan eksplisit pasal Keppres 56/1974.",
+          "B": "Lima persen merupakan persentase iuran jaminan kesehatan BPJS gabungan, bukan total iuran Keppres.",
+          "C": "Dua setengah persen adalah tarif standar zakat profesi, bukan iuran kesejahteraan ASN.",
+          "D": "Dua belas persen melebihi ketentuan tarif pemotongan 10%."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 66,
+      "kata_kunci_modul": [
+        "4 ¾% untuk iuran dana pensiun",
+        "3 ¼% untuk iuran tabungan hari tua dan perumahan"
+      ],
+      "topik_materi": "Rincian Alokasi Iuran Kesejahteraan 10%",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rincian pembagian iuran 10% penghasilan PNS untuk dana pensiun serta tabungan hari tua/perumahan adalah...",
+      "pilihan": {
+        "A": "4 3/4% dana pensiun dan 3 1/4% hari tua/perumahan",
+        "B": "5% dana pensiun dan 5% tabungan hari tua",
+        "C": "7% dana pensiun dan 3% tabungan perumahan",
+        "D": "6% dana pensiun dan 4% asuransi hari tua",
+        "E": "3 1/4% dana pensiun dan 4 3/4% perumahan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Perincian iuran 10% mencakup: **4 ¾% untuk iuran dana pensiun** dan **3 ¼% untuk iuran tabungan hari tua dan perumahan**.",
+        "alasan_kunci": "Opsi A tepat karena pasal Keppres 56/1974 secara tegas mengalokasikan porsi 4 3/4% bagi dana pensiun dan 3 1/4% bagi tabungan hari tua dan perumahan. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Pembagian 5% dan 5% tidak sesuai angka riil Keppres 56/1974.",
+          "C": "Alokasi 7% dan 3% salah dalam rincian proporsional undang-undang.",
+          "D": "Alokasi 6% dan 4% bukan rincian resmi ketentuan iuran pegawai.",
+          "E": "Tertukar posisinya antara persentase dana pensiun dengan tabungan hari tua."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 66,
+      "kata_kunci_modul": [
+        "iuran jaminan kesehatan PNS",
+        "Peraturan Presiden Nomor 75 tahun 2019"
+      ],
+      "topik_materi": "Dasar Hukum Iuran Jaminan Kesehatan PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Peraturan Presiden yang mengatur proporsi pembayaran iuran jaminan kesehatan bagi aparatur sipil negara adalah...",
+      "pilihan": {
+        "A": "Peraturan Presiden Nomor 16 Tahun 2018",
+        "B": "Peraturan Presiden Nomor 75 Tahun 2019",
+        "C": "Peraturan Pemerintah Nomor 94 Tahun 2021",
+        "D": "Keputusan Presiden Nomor 56 Tahun 1974",
+        "E": "Undang-Undang Nomor 24 Tahun 2011"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Iuran kesehatan diatur dalam **Peraturan Presiden Nomor 75 tahun 2019** tentang Perubahan atas Perpres Nomor 82 Tahun 2018 tentang **Jaminan Kesehatan**.",
+        "alasan_kunci": "Opsi B tepat karena Perpres 75/2019 menetapkan skema pembagian iuran jaminan kesehatan antara instansi pemerintah dan pegawai. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Perpres 16/2018 mengatur tentang Pengadaan Barang dan Jasa Pemerintah.",
+          "C": "PP 94/2021 mengatur tentang Disiplin Pegawai Negeri Sipil.",
+          "D": "Keppres 56/1974 mengatur iuran kesejahteraan pensiun dan perumahan secara umum.",
+          "E": "UU 24/2011 mengatur tentang Badan Penyelenggara Jaminan Sosial (BPJS)."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 66,
+      "kata_kunci_modul": [
+        "4% (empat persen) dibayar oleh Pemberi kerja",
+        "persen) dibayar oleh peserta"
+      ],
+      "topik_materi": "Proporsi Iuran Jaminan Kesehatan PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Perpres Nomor 75 Tahun 2019, proporsi iuran jaminan kesehatan PNS ditanggung bersama dengan ketentuan...",
+      "pilihan": {
+        "A": "4% pemberi kerja dan 1% oleh peserta",
+        "B": "3% pemberi kerja dan 2% oleh peserta",
+        "C": "2,5% pemberi kerja dan 2,5% peserta",
+        "D": "5% seluruhnya ditanggung pemerintah",
+        "E": "4,5% pemberi kerja dan 0,5% peserta"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Iuran jaminan kesehatan PNS dibayar dengan ketentuan **4% dibayar oleh Pemberi kerja** dan **1% dibayar oleh peserta**.",
+        "alasan_kunci": "Opsi A tepat karena Perpres 75/2019 menetapkan total premi 5% di mana porsi mayoritas (4%) disubsidi instansi/pemberi kerja dan 1% dipotong dari gaji pegawai. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Skema 3% dan 2% bukan proporsi yang diatur bagi segmen PNS.",
+          "C": "Skema pembagian 50:50 (2,5% dan 2,5%) tidak berlaku bagi ASN pemerintah.",
+          "D": "Pemerintah tidak menanggung 100% karena pegawai tetap memiliki kewajiban kontribusi 1%.",
+          "E": "Skema 4,5% dan 0,5% tidak dikenal dalam regulasi jaminan kesehatan nasional."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 66,
+      "kata_kunci_modul": [
+        "4 ¾% untuk iuran dana pensiun",
+        "dipungut iuran 10% dari penghasilannya"
+      ],
+      "topik_materi": "Implementasi Penghitungan Pemotongan Iuran Pensiun",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang PNS menerima penghasilan dasar Rp4.000.000 per bulan. Alokasi pemotongan untuk dana pensiun sesuai Keppres 56/1974 adalah...",
+      "pilihan": {
+        "A": "Rp130.000 (3,25% dari penghasilan)",
+        "B": "Rp190.000 (4,75% dari penghasilan)",
+        "C": "Rp400.000 (10% dari penghasilan)",
+        "D": "Rp200.000 (5% dari penghasilan)",
+        "E": "Rp160.000 (4% dari penghasilan)"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Porsi dana pensiun adalah **4 ¾% (4,75%)** dari total penghasilan yang dipungut.",
+        "alasan_kunci": "Opsi B tepat karena 4,75% dikalikan Rp4.000.000 menghasilkan Rp190.000 untuk iuran pensiun bulanan. Nilai ini disetorkan langsung ke kas pengelola dana pensiun negara. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Rp130.000 (3,25%) merupakan alokasi untuk tabungan hari tua dan perumahan.",
+          "C": "Rp400.000 (10%) adalah total potongan gabungan seluruh program kesejahteraan.",
+          "D": "Rp200.000 (5%) adalah total premi kesehatan BPJS, bukan iuran pensiun.",
+          "E": "Rp160.000 (4%) adalah porsi BPJS yang ditanggung pemberi kerja."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 66,
+      "kata_kunci_modul": [
+        "persen) dibayar oleh peserta",
+        "Peraturan Presiden Nomor 75 tahun 2019"
+      ],
+      "topik_materi": "Penerapan Iuran Jaminan Kesehatan bagi Pegawai",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Berdasarkan struk gaji bulanan, pemotongan iuran jaminan kesehatan BPJS yang dibebankan langsung kepada gaji pegawai adalah sebesar...",
+      "pilihan": {
+        "A": "5% (lima persen) dari penghasilan",
+        "B": "4% (empat persen) dari penghasilan",
+        "C": "1% (satu persen) dari penghasilan",
+        "D": "2% (dua persen) dari penghasilan",
+        "E": "0,5% (setengah persen) gaji pokok"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Iuran jaminan kesehatan PNS **1% dibayar oleh peserta** melalui pemotongan penghasilan.",
+        "alasan_kunci": "Opsi C tepat karena beban iuran mandiri pegawai hanyalah 1%, sedangkan porsi 4% dibayar langsung oleh negara selaku pemberi kerja. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Lima persen adalah total akumulasi premi jaminan kesehatan gabungan.",
+          "B": "Empat persen merupakan beban yang dibayar negara/pemberi kerja, bukan dipotong dari peserta.",
+          "D": "Dua persen tidak sesuai dengan rumusan eksplisit Perpres 75/2019.",
+          "E": "Setengah persen terlalu kecil dan tidak memenuhi standar iuran peserta."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 66,
+      "kata_kunci_modul": [
+        "Usaha kesejahteraan Pegawai Negeri Sipil meliputi program:",
+        "Tabungan perumahan"
+      ],
+      "topik_materi": "Analisis Perbedaan Program Kesejahteraan dan Asuransi Komersial",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Keppres Nomor 56 Tahun 1974 menetapkan usaha kesejahteraan PNS sebagai perlindungan sosial wajib, KECUALI...",
+      "pilihan": {
+        "A": "Tabungan kepemilikan perumahan PNS",
+        "B": "Pensiun dan jaminan hari tua aparatur",
+        "C": "Asuransi pemeliharaan kesehatan pegawai",
+        "D": "Asuransi kerugian investasi modal saham",
+        "E": "Asuransi pendidikan putra putri pegawai"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Program kesejahteraan Keppres 56/1974 hanya meliputi: **pensiun/hari tua, kesehatan, perumahan, dan pendidikan anak**, tanpa asuransi investasi saham komersial.",
+        "alasan_kunci": "Opsi D tepat sebagai pengecualian karena asuransi kerugian saham bukan instrumen perlindungan sosial aparatur pemerintah melainkan spekulasi pasar finansial. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tabungan perumahan membantu kepemilikan hunian layak bagi pegawai.",
+          "B": "Pensiun dan hari tua adalah program utama jaminan masa purnatugas ASN.",
+          "C": "Asuransi kesehatan merupakan program perlindungan medis resmi aparatur.",
+          "E": "Asuransi pendidikan putra-putri menjamin keberlanjutan sekolah keluarga ASN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 66,
+      "kata_kunci_modul": [
+        "4% (empat persen) dibayar oleh Pemberi kerja",
+        "persen) dibayar oleh peserta"
+      ],
+      "topik_materi": "Analisis Perbandingan Beban Iuran Jaminan Kesehatan",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbandingan beban pembayaran premi jaminan kesehatan antara Pemberi Kerja (Pemerintah) dan Peserta (PNS) adalah...",
+      "pilihan": {
+        "A": "Lima banding nol (5:0)",
+        "B": "Satu banding satu (1:1)",
+        "C": "Tiga banding dua (3:2)",
+        "D": "Dua banding tiga (2:3)",
+        "E": "Empat banding satu (4:1)"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Proporsi iuran BPJS PNS adalah 4% ditanggung pemberi kerja dan 1% ditanggung peserta, yang mencerminkan rasio **4 banding 1**.",
+        "alasan_kunci": "Opsi E tepat karena rasio 4% berbanding 1% menunjukkan kontribusi negara empat kali lebih besar daripada iuran mandiri pegawai dalam pembiayaan kesehatan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Rasio 5:0 berarti peserta tidak membayar sama sekali, padahal ada kewajiban 1%.",
+          "B": "Rasio 1:1 keliru karena pemerintah menanggung 4% sedangkan pegawai hanya 1%.",
+          "C": "Rasio 3:2 mencerminkan porsi 3% dan 2% yang bukan aturan ASN.",
+          "D": "Rasio 2:3 terbalik dan merugikan pegawai."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 67,
+      "kata_kunci_modul": [
+        "Gaji adalah sebagai balas jasa dan penghargaan atas prestasi kerja",
+        "sistem penggajian"
+      ],
+      "topik_materi": "Definisi dan Fungsi Gaji PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam manajemen aparatur negara, gaji didefinisikan sebagai...",
+      "pilihan": {
+        "A": "Bantuan sosial bulanan bagi kelangsungan hidup",
+        "B": "Balas jasa dan penghargaan atas prestasi kerja",
+        "C": "Kompensasi tetap atas kehadiran presensi harian",
+        "D": "Pemberian sukarela instansi sesuai laba tahunan",
+        "E": "Pinjaman modal kerja dinas tanpa bunga cicilan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Gaji adalah sebagai balas jasa dan penghargaan atas prestasi kerja Pegawai Negeri yang bersangkutan**.",
+        "alasan_kunci": "Opsi B tepat karena modul secara harfiah merumuskan gaji sebagai bentuk balas jasa dan penghargaan negara atas kontribusi dan prestasi kerja yang dihasilkan pegawai. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Gaji bukan bantuan sosial melainkan hak finansial atas pelaksanaan tugas kedinasan.",
+          "C": "Gaji bukan sekadar kompensasi kehadiran fisik melainkan apresiasi prestasi kerja.",
+          "D": "Gaji bersifat wajib berdasarkan undang-undang, bukan pemberian sukarela berbasis laba.",
+          "E": "Gaji adalah hak milik mutlak pegawai, bukan pinjaman modal kerja yang dicicil."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 67,
+      "kata_kunci_modul": [
+        "skala tunggal adalah system penggajian yang",
+        "tidak atau kurang"
+      ],
+      "topik_materi": "Pengertian Sistem Skala Tunggal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sistem skala tunggal dalam penggajian pegawai negeri sipil didefinisikan sebagai sistem yang...",
+      "pilihan": {
+        "A": "Menghitung gaji semata-mata dari jam lembur kantor",
+        "B": "Membedakan gaji pokok berdasarkan lokasi penugasan",
+        "C": "Memberi gaji sama bagi pangkat sama tanpa beda beban",
+        "D": "Memberikan bonus besar bagi pegawai berprestasi tinggi",
+        "E": "Menyerahkan penentuan gaji pada negosiasi kontrak"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sistem skala tunggal adalah **sistem penggajian yang memberikan gaji yang sama kepada pegawai yang berpangkat sama dengan tidak atau kurang memperhatikan sifat pekerjaan dan beratnya tanggung jawab**.",
+        "alasan_kunci": "Opsi C tepat karena karakteristik mutlak skala tunggal adalah kesetaraan gaji murni berbasis pangkat semata tanpa memperhitungkan variasi risiko atau beban kerja riil. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Penghitungan berbasis jam lembur bukan prinsip dasar skala tunggal.",
+          "B": "Pembedaan berbasis lokasi bukan ciri dari sistem skala tunggal murni.",
+          "D": "Bonus prestasi tinggi merupakan instrumen skala ganda atau tunjangan kinerja.",
+          "E": "Negosiasi kontrak merupakan karakteristik pegawai swasta, bukan sistem skala tunggal PNS."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 67,
+      "kata_kunci_modul": [
+        "Sistem skala ganda adalah sistem penggajian yang menentukan",
+        "sifat pekerjaan yang dilakukan, prestasi kerja"
+      ],
+      "topik_materi": "Pengertian Sistem Skala Ganda",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sistem penggajian yang menentukan besarnya gaji berdasarkan pangkat, sifat pekerjaan, prestasi kerja, dan tanggung jawab adalah...",
+      "pilihan": {
+        "A": "Sistem upah borongan",
+        "B": "Sistem skala tunggal",
+        "C": "Sistem komisi komersial",
+        "D": "Sistem skala ganda",
+        "E": "Sistem insentif harian"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Sistem skala ganda adalah sistem penggajian yang menentukan besarnya gaji bukan saja didasarkan pada pangkat, tetapi juga didasarkan pada sifat pekerjaan yang dilakukan, prestasi kerja yang dicapai dan beratnya tanggung jawab pekerjaannya**.",
+        "alasan_kunci": "Opsi D tepat karena pertimbangan komprehensif atas pangkat, bobot sifat pekerjaan, prestasi kerja, dan tingkat tanggung jawab merupakan definisi otentik sistem skala ganda. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Upah borongan berlaku pada sektor pekerja kasar/proyek konstruksi non-ASN.",
+          "B": "Skala tunggal hanya melihat pangkat tanpa memperhatikan sifat pekerjaan dan tanggung jawab.",
+          "C": "Sistem komisi merupakan sistem penjualan swasta, bukan sistem penggajian ASN.",
+          "E": "Insentif harian bukan nomenklatur sistem penggajian pokok kepegawaian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 67,
+      "kata_kunci_modul": [
+        "merupakan perpaduan antara sistem skala tunggal",
+        "gaji pokok ditentukan sama bagi pegawai"
+      ],
+      "topik_materi": "Konsep Sistem Skala Gabungan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sistem penggajian ketiga yang memadukan skala tunggal pada gaji pokok dan skala ganda melalui tunjangan adalah...",
+      "pilihan": {
+        "A": "Sistem kompensasi campuran bebas",
+        "B": "Sistem skala majemuk murni",
+        "C": "Sistem bagi hasil kinerja",
+        "D": "Sistem tarif tunggal dinamis",
+        "E": "Sistem skala gabungan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Sistem skala gabungan** merupakan **perpaduan antara sistem skala tunggal dan sistem skala ganda**, di mana gaji pokok sama bagi pangkat sama dan ditambah tunjangan bagi tanggung jawab lebih berat.",
+        "alasan_kunci": "Opsi E tepat karena sistem skala gabungan menggabungkan kepastian gaji pokok pangkat (skala tunggal) dengan diferensiasi beban tugas melalui tunjangan (skala ganda). Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Kompensasi campuran bebas bukan konsep resmi manajemen kepegawaian negara.",
+          "B": "Skala majemuk murni bukan istilah teknis yang diakui dalam modul kepegawaian.",
+          "C": "Sistem bagi hasil merupakan konsep bisnis korporasi atau kemitraan.",
+          "D": "Tarif tunggal dinamis tidak dikenal dalam literatur penggajian ASN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 67,
+      "kata_kunci_modul": [
+        "Selain gaji pokok, kepada Pegawai Negeri Sipil dapat diberikan:",
+        "Tunjangan keluarga"
+      ],
+      "topik_materi": "Komponen Tunjangan Selain Gaji Pokok",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain gaji pokok, komponen tunjangan resmi yang dapat diberikan kepada Pegawai Negeri Sipil meliputi...",
+      "pilihan": {
+        "A": "Tunjangan keluarga, jabatan, pangan, dan lain-lain",
+        "B": "Tunjangan hiburan, rekreasi, pulsa, dan pesangon",
+        "C": "Tunjangan liburan akhir pekan dan bonus belanja",
+        "D": "Tunjangan kepemilikan saham dan dividen satker",
+        "E": "Tunjangan hari raya swasta dan insentif lembur bebas"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Selain gaji pokok, PNS dapat diberikan: **a. Tunjangan keluarga, b. Tunjangan jabatan, c. Tunjangan pangan, dan d. Tunjangan lain-lain**.",
+        "alasan_kunci": "Opsi A tepat karena rincian pasal tunjangan secara tegas menetapkan empat klaster: keluarga, jabatan struktural/fungsional, pangan/beras, serta tunjangan lain-lain yang sah. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Hiburan dan rekreasi bukan komponen tunjangan resmi gaji PNS.",
+          "C": "Bonus belanja pribadi tidak ada dalam nomenklatur belanja pegawai APBN.",
+          "D": "PNS dilarang menerima dividen satker karena instansi pemerintah berorientasi layanan publik.",
+          "E": "Tunjangan hari raya swasta bukan komponen tunjangan kedinasan ASN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 67,
+      "kata_kunci_modul": [
+        "paling sedikit 20 (dua puluh) jam",
+        "Pengembangan kompetensi bagi"
+      ],
+      "topik_materi": "Standar Minimal Jam Pelajaran Pengembangan Kompetensi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan PP Nomor 11 Tahun 2017, hak pengembangan kompetensi bagi setiap PNS dilakukan paling sedikit...",
+      "pilihan": {
+        "A": "80 (delapan puluh) jam pelajaran dalam 2 tahun",
+        "B": "40 (empat puluh) jam pelajaran dalam 1 tahun",
+        "C": "10 (sepuluh) jam pelajaran per semester",
+        "D": "20 (dua puluh) jam pelajaran dalam 1 tahun",
+        "E": "100 (seratus) jam pelajaran selama karier"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Pengembangan kompetensi bagi setiap PNS dilakukan paling sedikit 20 (dua puluh) jam pelajaran dalam 1 (satu) tahun**.",
+        "alasan_kunci": "Opsi D tepat karena standar baku PP 11/2017 mewajibkan instansi memberikan alokasi minimal 20 JP per tahun kalender bagi seluruh pegawai. Hal ini menjamin continuous professional development. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Penetapan 80 JP dalam 2 tahun tidak sesuai dengan kewajiban evaluasi tahunan.",
+          "B": "Empat puluh jam pelajaran bukan batas minimal umum PP 11/2017 (meski berlaku khusus pada PPPK/tertentu).",
+          "C": "Regulasi menggunakan basis tahunan 20 JP, bukan semesteran 10 JP.",
+          "E": "Seratus jam pelajaran selama karier bertentangan dengan kewajiban belajar tahunan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 67,
+      "kata_kunci_modul": [
+        "pemenuhan kebutuhan kompetensi PNS dengan",
+        "Dalam PP 11 Tahun 2017"
+      ],
+      "topik_materi": "Tujuan Pengembangan Kompetensi ASN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam PP 11 Tahun 2017, pengembangan kompetensi didefinisikan sebagai upaya pemenuhan kebutuhan kompetensi PNS dengan...",
+      "pilihan": {
+        "A": "Tuntutan kenaikan tunjangan kinerja semata",
+        "B": "Keinginan pribadi pegawai di luar tugas kedinasan",
+        "C": "Target komersialisasi aset milik kementerian",
+        "D": "Instruksi politik praktis kepala daerah terpilih",
+        "E": "Standar kompetensi jabatan dan rencana karier"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pengembangan kompetensi merupakan upaya untuk **pemenuhan kebutuhan kompetensi PNS dengan standar kompetensi Jabatan dan rencana pengembangan karier**.",
+        "alasan_kunci": "Opsi E tepat karena orientasi pengembangan kompetensi adalah menjembatani profil pegawai agar selaras dengan standar kompetensi jabatan serta proyeksi jalur karier aparatur. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Bukan instrumen instan mengejar kenaikan tunjangan semata.",
+          "B": "Bukan untuk memenuhi hobi atau keinginan pribadi yang tidak selaras dengan tugas dinas.",
+          "C": "Komersialisasi aset bukan tujuan pengembangan kompetensi SDM aparatur.",
+          "D": "Pengembangan kompetensi berlandaskan meritokrasi profesional, bukan instruksi politik."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 67,
+      "kata_kunci_modul": [
+        "memiliki hak dan kesempatan yang sama",
+        "penilaian kinerja dan"
+      ],
+      "topik_materi": "Prinsip Kesetaraan Hak Pengembangan Kompetensi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip kesetaraan keikutsertaan PNS dalam pengembangan kompetensi wajib dilaksanakan dengan memperhatikan...",
+      "pilihan": {
+        "A": "Hasil penilaian kinerja dan penilaian kompetensi",
+        "B": "Kedekatan personal pegawai dengan pejabat struktural",
+        "C": "Tingkat senioritas usia tanpa melihat capaian kerja",
+        "D": "Asal almamater perguruan tinggi kelulusan pegawai",
+        "E": "Urutan abjad nama pegawai dalam daftar hadir dinas"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Setiap PNS memiliki **hak dan kesempatan yang sama** untuk diikutsertakan dalam pengembangan kompetensi dengan memperhatikan **hasil penilaian kinerja dan penilaian kompetensi**.",
+        "alasan_kunci": "Opsi A tepat karena seleksi pengembangan kompetensi berlandaskan prinsip meritokrasi yang transparan dan akuntabel berbasis data kinerja dan kapasitas riil pegawai. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Kedekatan personal merupakan praktik nepotisme yang dilarang undang-undang.",
+          "C": "Senioritas usia tanpa prestasi kerja mencederai prinsip meritokrasi sistem karir.",
+          "D": "Asal universitas dilarang menjadi dasar diskriminasi kesempatan belajar ASN.",
+          "E": "Urutan abjad nama bukan metode ilmiah penentuan kebutuhan pengembangan kompetensi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 67,
+      "kata_kunci_modul": [
+        "di samping itu diberikan tunjangan kepada",
+        "sistem skala gabungan"
+      ],
+      "topik_materi": "Penerapan Skala Gabungan pada Jabatan Berisiko Tinggi",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Dua pegawai sama-sama bergolongan III/b, namun satu orang bertugas sebagai pemeriksa lapangan berisiko tinggi. Penggajian yang adil adalah...",
+      "pilihan": {
+        "A": "Gaji pokok langsung dinaikkan menjadi golongan IV/a",
+        "B": "Gaji pokok sama ditambah tunjangan beban kerja lebih tinggi",
+        "C": "Gaji pokok dan seluruh fasilitas disamaratakan persis",
+        "D": "Hanya pemeriksa lapangan yang berhak menerima gaji pokok",
+        "E": "Pegawai di kantor dipotong gajinya sebesar lima puluh persen"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dalam **sistem skala gabungan**, gaji pokok ditentukan sama bagi pangkat sama, di samping itu **diberikan tunjangan bagi yang memikul tanggung jawab lebih berat**.",
+        "alasan_kunci": "Opsi B tepat karena sistem skala gabungan menjamin kesetaraan gaji pokok pangkat sembari memberikan apresiasi risiko/tanggung jawab lebih berat melalui tunjangan tambahan. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Kenaikan golongan pangkat memerlukan prosedur kenaikan pangkat resmi, bukan instan dinaikkan.",
+          "C": "Menyamaratakan persis merupakan kelemahan sistem skala tunggal yang tidak adil bagi tugas berisiko.",
+          "D": "Setiap pegawai yang berdinas sah tetap berhak atas gaji pokok pangkatnya.",
+          "E": "Pemotongan 50% bagi staf kantor melanggar hak hukum penghasilan aparatur."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 67,
+      "kata_kunci_modul": [
+        "paling sedikit 20 (dua puluh) jam",
+        "Pengembangan kompetensi"
+      ],
+      "topik_materi": "Implementasi Pemenuhan Hak 20 JP bagi Pegawai",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Hingga triwulan IV seorang staf baru mengumpulkan 14 JP pembelajaran. Kewajiban unit pengelola kepegawaian adalah...",
+      "pilihan": {
+        "A": "Menunda kenaikan pangkat reguler selama satu periode",
+        "B": "Menjatuhkan sanksi pemotongan tunjangan kinerja bulanan",
+        "C": "Memfasilitasi pelatihan tambahan minimal 6 JP sebelum akhir tahun",
+        "D": "Menganggap target gugur dan mengulang dari nol tahun depan",
+        "E": "Mengalihkan kekurangan jam pelajaran ke tahun berikutnya"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Setiap PNS berhak atas pengembangan kompetensi **paling sedikit 20 JP per tahun**, sehingga kekurangan jam belajar wajib difasilitasi pemenuhannya oleh instansi.",
+        "alasan_kunci": "Opsi C tepat karena pengembangan kompetensi merupakan hak pegawai yang wajib dipenuhi oleh organisasi dengan memfasilitasi sisa 6 JP melalui pelatihan atau e-learning sebelum tutup tahun. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tidak ada dasar hukum penundaan pangkat instan jika instansi belum memfasilitasi hak belajar.",
+          "B": "Kekurangan JP bukan serta merta pelanggaran disiplin pemotongan tunjangan melainkan kewajiban instansi memfasilitasi.",
+          "D": "Hak 20 JP harus diupayakan optimal dalam tahun berjalan, bukan diabaikan begitu saja.",
+          "E": "Prinsip pemenuhan target kompetensi adalah berbasis tahunan kalender."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 67,
+      "kata_kunci_modul": [
+        "sistem skala tunggal",
+        "sistem skala ganda"
+      ],
+      "topik_materi": "Analisis Perbedaan Skala Tunggal dan Skala Ganda",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbedaan filosofis mendasar antara sistem skala tunggal dan sistem skala ganda terletak pada perlakuan terhadap...",
+      "pilihan": {
+        "A": "Tingkat pendidikan formal awal saat melamar CPNS",
+        "B": "Masa usia pensiun dan jenis jaminan hari tua aparatur",
+        "C": "Prosedur penjatuhan hukuman disiplin berat pegawai",
+        "D": "Mekanisme pengangkatan sumpah janji jabatan ASN",
+        "E": "Sifat pekerjaan, bobot tanggung jawab, dan prestasi kerja"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Skala tunggal hanya melihat pangkat tanpa membedakan sifat tugas, sedangkan **skala ganda secara esensial mempertimbangkan sifat pekerjaan, berat tanggung jawab, dan prestasi kerja**.",
+        "alasan_kunci": "Opsi E tepat karena perbedaan pokok kedua sistem penggajian tersebut bermuara pada pengakuan terhadap variasi tingkat kesulitan kerja, tanggung jawab tugas, dan capaian prestasi riil. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pendidikan formal awal hanya menentukan pangkat pengangkatan, bukan pembeda skala tunggal/ganda.",
+          "B": "Batas usia pensiun diatur seragam oleh undang-undang, bukan oleh sistem penggajian.",
+          "C": "Hukuman disiplin tunduk pada peraturan disiplin tersendiri (PP 94/2021).",
+          "D": "Sumpah janji jabatan seragam bagi seluruh aparatur negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 68,
+      "kata_kunci_modul": [
+        "menetapkan kebutuhan dan rencana pengembangan kompetensi",
+        "inventarisasi jenis kompetensi yang perlu ditingkatkan"
+      ],
+      "topik_materi": "Empat Kewajiban PPK dalam Pengembangan Kompetensi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Langkah pertama dalam kewajiban Pejabat Pembina Kepegawaian (PPK) menyelenggarakan pengembangan kompetensi adalah...",
+      "pilihan": {
+        "A": "Menetapkan kebutuhan dan rencana pengembangan kompetensi",
+        "B": "Langsung menunjuk penyedia pelatihan swasta eksternal",
+        "C": "Membagikan sertifikat kelulusan diklat pegawai",
+        "D": "Melakukan evaluasi akhir hasil belajar secara mandiri",
+        "E": "Menjatuhkan teguran disiplin bagi pegawai tidak hadir"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kewajiban PPK yang pertama adalah: **menetapkan kebutuhan dan rencana pengembangan kompetensi, yaitu inventarisasi jenis kompetensi yang perlu ditingkatkan dari setiap PNS**.",
+        "alasan_kunci": "Opsi A tepat karena inventarisasi dan penetapan kebutuhan merupakan fondasi awal perencanaan sebelum penyusunan jadwal dan pelaksanaan diklat. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Penunjukan penyedia bukan langkah pertama melainkan bagian teknis pengadaan.",
+          "C": "Pembagian sertifikat merupakan tahapan akhir pasca-pelaksanaan pelatihan.",
+          "D": "Evaluasi merupakan tahapan keempat dalam siklus kewajiban PPK.",
+          "E": "Teguran disiplin bukan tahapan siklus manajemen pengembangan kompetensi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 68,
+      "kata_kunci_modul": [
+        "kompetensi dilakukan dengan membandingkan",
+        "profil kompetensi PNS dengan"
+      ],
+      "topik_materi": "Metodologi Analisis Kesenjangan Kompetensi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Analisis kesenjangan kompetensi pegawai dilaksanakan dengan cara membandingkan...",
+      "pilihan": {
+        "A": "Hasil penilaian kinerja dengan target SKP tahunan",
+        "B": "Profil kompetensi PNS dengan standar kompetensi jabatan",
+        "C": "Nilai ijazah sekolah dengan pangkat golongan pegawai",
+        "D": "Masa kerja dinas dengan usia pensiun aparatur",
+        "E": "Tingkat kehadiran presensi dengan besaran tunjangan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Analisis kesenjangan kompetensi dilakukan dengan membandingkan profil kompetensi PNS dengan standar kompetensi Jabatan yang diduduki dan yang akan diduduki**.",
+        "alasan_kunci": "Opsi B tepat karena perbandingan antara kapasitas riil pegawai (profil kompetensi) dan tuntutan kualifikasi tugas (standar kompetensi jabatan) adalah definisi mutlak uji kesenjangan kompetensi. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Perbandingan hasil kerja dengan target merupakan metodologi analisis kesenjangan kinerja, bukan kompetensi.",
+          "C": "Nilai ijazah bukan instrumen analisis kompetensi jabatan.",
+          "D": "Masa kerja dan usia pensiun merupakan data administrasi kepegawaian umum.",
+          "E": "Presensi dan tunjangan berkaitan dengan pembayaran uang makan dan kedisiplinan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 68,
+      "kata_kunci_modul": [
+        "Analisis kesenjangan kinerja dilakukan dengan membandingkan",
+        "kinerja PNS dengan target kinerja Jabatan"
+      ],
+      "topik_materi": "Metodologi Analisis Kesenjangan Kinerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Analisis kesenjangan kinerja aparatur sipil negara dilaksanakan melalui perbandingan antara...",
+      "pilihan": {
+        "A": "Anggaran belanja satker dengan realisasi penerimaan negara",
+        "B": "Profil kompetensi staf dengan kompetensi pimpinan unit",
+        "C": "Hasil penilaian kinerja PNS dengan target kinerja jabatan",
+        "D": "Jumlah jam belajar dengan standar minimal dua puluh JP",
+        "E": "Pangkat struktural dengan jenjang kepangkatan fungsional"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Analisis kesenjangan kinerja dilakukan dengan membandingkan hasil penilaian kinerja PNS dengan target kinerja Jabatan yang diduduki**.",
+        "alasan_kunci": "Opsi C tepat karena kesenjangan kinerja mengukur selisih antara output/prestasi nyata pegawai dengan sasaran kinerja yang telah disepakati pada perjanjian kerja jabatan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Realisasi anggaran adalah analisis kinerja keuangan satker, bukan kesenjangan kinerja individu.",
+          "B": "Membandingkan staf dengan pimpinan bukan metode analisis kesenjangan kinerja jabatan.",
+          "D": "Jumlah jam belajar mengukur pemenuhan hak 20 JP, bukan kesenjangan kinerja hasil tugas.",
+          "E": "Pangkat struktural dan fungsional adalah urusan nomenklatur pola karier."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 68,
+      "kata_kunci_modul": [
+        "Peraturan Menteri Keuangan Nomor 216/PMK.01/2018",
+        "Manajemen Pengembangan Sumber Daya Manusia di"
+      ],
+      "topik_materi": "Regulasi Manajemen Pengembangan SDM Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengembangan kompetensi pegawai di lingkungan Kementerian Keuangan secara komprehensif diatur dalam...",
+      "pilihan": {
+        "A": "Keputusan Presiden Nomor 56 Tahun 1974",
+        "B": "Peraturan Menteri Keuangan Nomor 190/PMK.05/2012",
+        "C": "Peraturan Pemerintah Nomor 94 Tahun 2021",
+        "D": "Peraturan Menteri Keuangan Nomor 216/PMK.01/2018",
+        "E": "Undang-Undang Nomor 17 Tahun 2003"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pengembangan kompetensi diatur dalam **Peraturan Menteri Keuangan Nomor 216/PMK.01/2018 tentang Manajemen Pengembangan Sumber Daya Manusia di Lingkungan Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi D tepat karena PMK 216/PMK.01/2018 merupakan regulasi induk yang menetapkan tata kelola pengembangan kapasitas pegawai di Kemenkeu. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Keppres 56/1974 mengatur iuran kesejahteraan pegawai.",
+          "B": "PMK 190/PMK.05/2012 mengatur tata cara pembayaran pelaksanaan APBN.",
+          "C": "PP 94/2021 mengatur tentang Disiplin Pegawai Negeri Sipil.",
+          "E": "UU 17/2003 adalah undang-undang tentang Keuangan Negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 68,
+      "kata_kunci_modul": [
+        "Pengembangan SDM dalam PMK- 216 tahun",
+        "Pegawai yang sedang menjalani penugasan di luar Kementerian Keuangan"
+      ],
+      "topik_materi": "Pengecualian Keberlakuan PMK 216/PMK.01/2018",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan Manajemen Pengembangan SDM dalam PMK 216/PMK.01/2018 TIDAK BERLAKU bagi kelompok pegawai berikut, yaitu...",
+      "pilihan": {
+        "A": "Pejabat fungsional ahli madya yang aktif berdinas",
+        "B": "Pegawai pelaksana yang baru lulus masa orientasi",
+        "C": "Pegawai yang sedang menjalani penugasan di luar Kemenkeu",
+        "D": "Pegawai yang memiliki nilai kinerja sangat baik",
+        "E": "Seluruh pejabat pimpinan tinggi pratama kantor wilayah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Manajemen Pengembangan SDM PMK 216/2018 tidak berlaku bagi: **a. Pegawai penugasan di luar Kemenkeu, b. Pegawai diberhentikan sementara, dan c. Pegawai sedang CLTN**.",
+        "alasan_kunci": "Opsi C tepat karena pegawai yang sedang bertugas di instansi luar Kemenkeu tunduk pada manajemen pembinaan instansi tempat penugasan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pejabat fungsional aktif merupakan sasaran utama pengembangan kompetensi.",
+          "B": "Pegawai pelaksana aktif wajib mengikuti manajemen pengembangan SDM PMK 216.",
+          "D": "Pegawai berkinerja sangat baik tetap diatur dalam peta talent pool PMK 216.",
+          "E": "Pejabat pimpinan tinggi pratama wajib menerapkan leadership framework PMK 216."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 68,
+      "kata_kunci_modul": [
+        "Pegawai yang diberhentikan sementara sebagai pegawai negeri sipil",
+        "Pegawai yang sedang menjalani cuti di luar tanggungan negara"
+      ],
+      "topik_materi": "Status Pegawai yang Dikecualikan dari PMK 216/2018",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain penugasan di luar kementerian, dua status kepegawaian lain yang dikecualikan dari PMK 216/PMK.01/2018 adalah...",
+      "pilihan": {
+        "A": "Menduduki jabatan pelaksana dan pemeriksa pemula",
+        "B": "Sedang tugas belajar dan sedang cuti melahirkan",
+        "C": "Menjalani cuti tahunan dan cuti bersama dinas",
+        "D": "Diberhentikan sementara dan sedang menjalani CLTN",
+        "E": "Berdinas di wilayah perbatasan dan daerah terpencil"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pengecualian PMK 216/2018 mencakup: **Pegawai yang diberhentikan sementara sebagai PNS** dan **Pegawai yang sedang menjalani cuti di luar tanggungan negara (CLTN)**.",
+        "alasan_kunci": "Opsi D tepat karena status pemberhentian sementara dan CLTN membekukan hak pembinaan kedinasan aktif pegawai. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pelaksana dan pemeriksa pemula tetap terikat penuh ketentuan PMK 216.",
+          "B": "Pegawai tugas belajar dan cuti melahirkan tetap dalam naungan manajemen SDM Kemenkeu.",
+          "C": "Cuti tahunan dan bersama adalah cuti rutin yang tidak mengecualikan keberlakuan PMK.",
+          "E": "Pegawai di daerah perbatasan tetap menjadi sasaran pembinaan SDM kementerian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 68,
+      "kata_kunci_modul": [
+        "kepemimpinan (leadership framework)",
+        "box pemetaan Pegawai"
+      ],
+      "topik_materi": "Acuan Manajemen Pengembangan SDM Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Manajemen Pengembangan SDM Kemenkeu merupakan mekanisme pengembangan kompetensi yang mengacu pada...",
+      "pilihan": {
+        "A": "Opini wajar tanpa pengecualian dari audit BPK",
+        "B": "Survei kepuasan masyarakat terhadap unit pelayanan",
+        "C": "Laporan laba rugi badan layanan umum kementerian",
+        "D": "Indeks harga saham gabungan di bursa efek",
+        "E": "Arsitektur kepemimpinan dan box pemetaan pegawai"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Manajemen Pengembangan SDM mengacu pada **arsitektur kepemimpinan (leadership framework) dengan memperhatikan jenjang Jabatan, box pemetaan Pegawai, serta kesenjangan kompetensi dan kinerja**.",
+        "alasan_kunci": "Opsi E tepat karena modul secara eksplisit menyebut leadership framework dan pemetaan 9-box sebagai acuan strategis pengembangan SDM Kemenkeu. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Opini BPK adalah ukuran akuntabilitas laporan keuangan negara.",
+          "B": "Survei kepuasan masyarakat mengukur output layanan, bukan acuan arsitektur pengembangan SDM.",
+          "C": "Laporan BLU berkaitan dengan keuangan entitas layanan umum.",
+          "D": "Bursa efek tidak memiliki korelasi dengan pembinaan SDM birokrasi kementerian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 68,
+      "kata_kunci_modul": [
+        "profil kompetensi PNS dengan",
+        "analisis kesenjangan"
+      ],
+      "topik_materi": "Implementasi Analisis Kesenjangan Kompetensi Jabatan",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pejabat fungsional pemeriksa diukur kompetensi audit digitalnya terhadap standar jabatan analis. Proses ini merupakan...",
+      "pilihan": {
+        "A": "Analisis kesenjangan kompetensi pegawai",
+        "B": "Evaluasi kesenjangan realisasi target kinerja",
+        "C": "Pemeriksaan dugaan pelanggaran kode etik",
+        "D": "Penilaian kepatuhan jam kerja fingerprint",
+        "E": "Uji kelayakan pemberian tunjangan kemahalan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Membandingkan keterampilan dan kapasitas pegawai dengan standar kualifikasi jabatan merupakan wujud nyata dari **analisis kesenjangan kompetensi**.",
+        "alasan_kunci": "Opsi A tepat karena fokus pengujian berada pada kesesuaian antara profil kemampuan teknis pegawai dan standar kompetensi jabatan pemeriksa. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Kesenjangan kinerja mengukur pencapaian target output, bukan kesesuaian kapasitas keahlian.",
+          "C": "Pemeriksaan kode etik dilakukan oleh majelis kehormatan atas laporan pelanggaran moral.",
+          "D": "Presensi fingerprint mengukur kedisiplinan kehadiran jam dinas.",
+          "E": "Tunjangan kemahalan ditentukan oleh indeks lokasi geografis penugasan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 68,
+      "kata_kunci_modul": [
+        "kinerja PNS dengan target kinerja Jabatan",
+        "analisis kesenjangan kinerja"
+      ],
+      "topik_materi": "Implementasi Analisis Kesenjangan Kinerja Pegawai",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Penilaian akhir tahun menunjukkan realisasi penerimaan yang ditangani seorang AR hanya 70% dari target. Evaluasi ini mencerminkan...",
+      "pilihan": {
+        "A": "Gugurnya hak pengembangan kompetensi pegawai",
+        "B": "Adanya kesenjangan kinerja terhadap target jabatan",
+        "C": "Kesenjangan kompetensi manajerial kepemimpinan",
+        "D": "Pelanggaran larangan rangkap jabatan kedinasan",
+        "E": "Kewajiban mengembalikan gaji pokok satu tahun"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Selisih antara hasil capaian kerja 70% dengan sasaran kinerja target jabatan 100% merupakan indikasi timbulnya **kesenjangan kinerja**.",
+        "alasan_kunci": "Opsi B tepat karena membandingkan hasil kerja nyata terhadap target kinerja jabatan yang diduduki adalah definisi analisis kesenjangan kinerja. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Kekurangan capaian kinerja justru mewajibkan instansi memberikan intervensi pengembangan kompetensi.",
+          "C": "Angka 70% merefleksikan gap capaian hasil kerja (kinerja), bukan langsung kompetensi manajerial.",
+          "D": "Capaian target 70% bukan delik pelanggaran rangkap jabatan.",
+          "E": "Tidak ada aturan pengembalian gaji pokok yang sah diterima akibat target belum tercapai."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 68,
+      "kata_kunci_modul": [
+        "kesenjangan kompetensi dan analisis kesenjangan kinerja",
+        "standar kompetensi Jabatan"
+      ],
+      "topik_materi": "Analisis Pembeda Kesenjangan Kompetensi dan Kinerja",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbedaan mendasar antara analisis kesenjangan kompetensi dan analisis kesenjangan kinerja aparatur adalah...",
+      "pilihan": {
+        "A": "Kompetensi menentukan pensiun, kinerja menentukan cuti tahunan",
+        "B": "Kompetensi menilai jam kerja, kinerja menilai pakaian dinas",
+        "C": "Kompetensi berlaku bagi pimpinan, kinerja hanya bagi bawahan",
+        "D": "Kompetensi menguji kapasitas profil, kinerja menguji hasil target",
+        "E": "Kompetensi dinilai auditor BPK, kinerja dinilai kepala kantor"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kesenjangan kompetensi membandingkan profil kompetensi dengan standar jabatan, sedangkan kesenjangan kinerja membandingkan capaian hasil dengan target kinerja jabatan.",
+        "alasan_kunci": "Opsi D tepat karena kompetensi berfokus pada kapasitas keahlian dan pengetahuan, sedangkan kinerja berfokus pada efektivitas hasil keluaran tugas terhadap sasaran organisasi. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pensiun dan cuti tahunan tidak ditentukan secara langsung oleh pembedaan analisis ini.",
+          "B": "Jam kerja dan pakaian dinas adalah aspek kedisiplinan aturan tata tertib.",
+          "C": "Kedua analisis berlaku setara bagi seluruh jenjang jabatan aparatur.",
+          "E": "Kedua analisis merupakan ranah internal manajemen kepegawaian instansi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 68,
+      "kata_kunci_modul": [
+        "Kebutuhan dan rencana pengembangan kompetensi meliputi:",
+        "anggaran yang dibutuhkan"
+      ],
+      "topik_materi": "Analisis Komponen Dokumen Rencana Kebutuhan Pembelajaran",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Dokumen resmi kebutuhan dan rencana pengembangan kompetensi PNS wajib memuat 7 komponen berikut, KECUALI...",
+      "pilihan": {
+        "A": "Estimasi alokasi anggaran yang dibutuhkan",
+        "B": "Jenis kompetensi yang perlu dikembangkan",
+        "C": "Target PNS yang akan dikembangkan kapasitasnya",
+        "D": "Penyelenggara dan jadwal waktu pelaksanaan",
+        "E": "Daftar riwayat harta kekayaan keluarga pegawai"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Rencana pengembangan kompetensi memuat: jenis kompetensi, target PNS, jenis/jalur, penyelenggara, jadwal, standar kurikulum, dan anggaran. Tidak memuat daftar harta kekayaan.",
+        "alasan_kunci": "Opsi E tepat sebagai pengecualian karena daftar harta kekayaan merupakan dokumen LHKPN/LHKASN pengawasan integritas, bukan instrumen dokumen rencana diklat ASN. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Anggaran yang dibutuhkan wajib dicantumkan guna ketersediaan DIPA satker.",
+          "B": "Jenis kompetensi merupakan komponen pertama dalam rencana pembelajaran.",
+          "C": "Target PNS penerima diklat wajib dirinci secara jelas dalam rencana.",
+          "D": "Penyelenggara dan jadwal waktu merupakan komponen pokok pelaksanaan diklat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 69,
+      "kata_kunci_modul": [
+        "Model 10:20:70",
+        "Desain Pembelajaran di Kementerian Keuangan"
+      ],
+      "topik_materi": "Kerangka Desain Pembelajaran Model 10:20:70",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pendekatan desain pembelajaran pegawai di lingkungan Kementerian Keuangan dilaksanakan berdasarkan...",
+      "pilihan": {
+        "A": "Model 10:20:70 terintegrasi",
+        "B": "Metode ceramah klasikal murni",
+        "C": "Pendekatan belajar mandiri seratus persen",
+        "D": "Model penugasan proyek luar negeri",
+        "E": "Sistem hafalan modul regulasi dinas"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Desain Pembelajaran di Kementerian Keuangan dilaksanakan berdasarkan Model 10:20:70**, yaitu perpaduan proporsional antara pembelajaran formal, kolaboratif, dan praktik langsung.",
+        "alasan_kunci": "Opsi A tepat karena modul secara spesifik menetapkan Model 10:20:70 sebagai kerangka baku desain pembelajaran modern di Kemenkeu. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Ceramah klasikal hanya mengambil porsi 10%, bukan diterapkan secara murni.",
+          "C": "Belajar mandiri seratus persen mengabaikan interaksi sosial dan praktik tempat kerja.",
+          "D": "Penugasan luar negeri hanya salah satu bentuk khusus, bukan model umum.",
+          "E": "Sistem hafalan bertentangan dengan pendekatan pembelajaran berbasis pengalaman kerja."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 69,
+      "kata_kunci_modul": [
+        "10% (sepuluh persen) aktivitas Pembelajaran melalui metode ceramah",
+        "pelatihan jarak jauh, dan belajar mandiri"
+      ],
+      "topik_materi": "Komposisi 10% Pembelajaran Klasikal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam Model 10:20:70, porsi 10% dialokasikan secara spesifik untuk aktivitas pembelajaran berupa...",
+      "pilihan": {
+        "A": "Praktik kerja lapangan dan magang di kantor cabang",
+        "B": "Metode ceramah, pelatihan jarak jauh, dan belajar mandiri",
+        "C": "Sesi mentoring intensif bersama pimpinan eselon satu",
+        "D": "Patok banding sistem ke instansi perpajakan luar negeri",
+        "E": "Perluasan tanggung jawab pekerjaan di unit asal"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Porsi **10%** adalah **aktivitas Pembelajaran melalui metode ceramah dalam berbagai pelatihan di dalam kelas (klasikal) maupun di luar kelas, seperti pelatihan teknis, pelatihan jarak jauh, dan belajar mandiri**.",
+        "alasan_kunci": "Opsi B tepat karena alokasi 10% difokuskan pada perolehan teori dasar melalui ceramah, e-learning/PJJ, dan studi mandiri. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Magang dan praktik kerja menempati porsi 70%, bukan 10%.",
+          "C": "Mentoring merupakan bagian dari alokasi 20% pembelajaran sosial kolaboratif.",
+          "D": "Patok banding (benchmarking) termasuk dalam klaster 20% kolaboratif.",
+          "E": "Perluasan pekerjaan (job enlargement) berada pada kelompok 70% praktik kerja."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 69,
+      "kata_kunci_modul": [
+        "20% (dua puluh persen) aktivitas Pembelajaran kolaboratif",
+        "pembimbingan (coaching), pendampingan (mentoring)"
+      ],
+      "topik_materi": "Komposisi 20% Pembelajaran Kolaboratif",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Model 10:20:70, alokasi 20% pembelajaran kolaboratif diwujudkan melalui kegiatan...",
+      "pilihan": {
+        "A": "Mengikuti ujian sertifikasi keahlian mandiri",
+        "B": "Membaca diktat modul di ruang perpustakaan",
+        "C": "Coaching, mentoring, dan patok banding (benchmarking)",
+        "D": "Menjalani detasering (secondment) di badan usaha",
+        "E": "Melakukan rotasi mutasi jabatan antar-wilayah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Porsi **20%** adalah **aktivitas Pembelajaran kolaboratif dalam sebuah komunitas maupun bimbingan, seperti coaching, mentoring, dan patok banding (benchmarking)**.",
+        "alasan_kunci": "Opsi C tepat karena porsi 20% menekankan proses belajar melalui interaksi sosial, keteladanan mentor, dan studi komparasi. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Ujian sertifikasi mandiri adalah evaluasi formal, bukan pembelajaran kolaboratif 20%.",
+          "B": "Membaca mandiri masuk dalam porsi 10% belajar mandiri.",
+          "D": "Detasering menempati porsi 70% pengalaman kerja langsung.",
+          "E": "Rotasi mutasi adalah kebijakan mutasi pegawai, bukan metode interaksi 20%."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 81,
+      "halaman_sumber": 69,
+      "kata_kunci_modul": [
+        "70% (tujuh puluh persen) aktivitas Pembelajaran terintegrasi di tempat kerja",
+        "praktik langsung"
+      ],
+      "topik_materi": "Komposisi 70% Pembelajaran Terintegrasi Tempat Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Porsi terbesar (70%) dalam desain pembelajaran Kementerian Keuangan dilaksanakan melalui aktivitas...",
+      "pilihan": {
+        "A": "Perkuliahan pascasarjana di gedung kampus",
+        "B": "Praktik langsung terintegrasi di tempat kerja",
+        "C": "Penyusunan karya tulis ilmiah kedinasan",
+        "D": "Pelatihan jarak jauh melalui aplikasi gawai",
+        "E": "Penyelenggaraan seminar akbar nasional satker"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Porsi terbesar yaitu **70% adalah aktivitas Pembelajaran terintegrasi di tempat kerja melalui praktik langsung**, seperti magang, secondment, job enlargement, dan job enrichment.",
+        "alasan_kunci": "Opsi B tepat karena modul menegaskan bahwa 70% kompetensi efektif dibangun langsung dari penanganan pekerjaan riil di tempat tugas. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Kuliah formal adalah bentuk tugas belajar pendidikan, bukan porsi 70% tempat kerja.",
+          "C": "Karya tulis ilmiah adalah luaran akademik, bukan praktik operasional kerja harian.",
+          "D": "Pelatihan jarak jauh menempati alokasi 10% pembelajaran formal.",
+          "E": "Seminar akbar masuk dalam kategori pembelajaran klasikal 10%."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 82,
+      "halaman_sumber": 69,
+      "kata_kunci_modul": [
+        "Keputusan Menteri Keuangan RI Nomor 982/KMK.01/2017",
+        "tiga ruang lingkup pengembangan kompetensi"
+      ],
+      "topik_materi": "Tiga Ruang Lingkup Program KMK 982/KMK.01/2017",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan KMK Nomor 982/KMK.01/2017, tiga ruang lingkup program pengembangan kompetensi PNS Kemenkeu adalah...",
+      "pilihan": {
+        "A": "Program tunjangan, pensiun, dan asuransi kesehatan",
+        "B": "Program mutasi, promosi, dan demosi kepegawaian",
+        "C": "Program pelatihan, pendidikan, dan re-entry program",
+        "D": "Program presensi, disiplin, dan hukuman aparatur",
+        "E": "Program pengadaan barang, jasa, dan audit satker"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "KMK Nomor 982/KMK.01/2017 menetapkan tiga ruang lingkup: **a. Program pelatihan, b. Program pendidikan, dan c. Program pemanfaatan lulusan pendidikan (re-entry program)**.",
+        "alasan_kunci": "Opsi C tepat karena regulasi tersebut secara sistematis memayungi siklus pelatihan, tugas belajar pendidikan, hingga pemberdayaan alumni tugas belajar pasca-kelulusan. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tunjangan dan pensiun adalah skema kesejahteraan, bukan ruang lingkup program belajar.",
+          "B": "Mutasi, promosi, dan demosi adalah instrumen pola karier, bukan rumpun KMK 982.",
+          "D": "Presensi dan disiplin adalah penegakan tata tertib kerja ASN.",
+          "E": "Pengadaan barang dan jasa adalah fungsi anggaran keuangan negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 83,
+      "halaman_sumber": 69,
+      "kata_kunci_modul": [
+        "pengembangan Kompetensi terdiri atas pendidikan dan/atau",
+        "Pendidikan dilakukan dengan pemberian tugas belajar"
+      ],
+      "topik_materi": "Bentuk Pengembangan Kompetensi Pendidikan dan Pembelajaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bentuk pengembangan kompetensi pegawai dalam PMK 216/PMK.01/2018 terdiri atas...",
+      "pilihan": {
+        "A": "Penilaian dan/atau penyidikan",
+        "B": "Penataran dan/atau indoktrinasi",
+        "C": "Pengawasan dan/atau investigasi",
+        "D": "Pendidikan dan/atau pembelajaran",
+        "E": "Ujian dinas dan/atau apel pagi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Bentuk pengembangan Kompetensi terdiri atas pendidikan dan/atau pembelajaran**. Pendidikan melalui tugas belajar formal, sedangkan pembelajaran melalui jalur klasikal dan nonklasikal.",
+        "alasan_kunci": "Opsi D tepat karena dua pilar utama pengembangan kompetensi yang diatur adalah jalur formal (pendidikan) dan jalur aplikatif (pembelajaran). Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Penyidikan merupakan ranah penegakan hukum pidana.",
+          "B": "Penataran dan indoktrinasi bukan nomenklatur modern pengembangan kapasitas ASN.",
+          "C": "Pengawasan dan investigasi adalah tugas aparat pengawasan internal pemerintah (APIP).",
+          "E": "Apel pagi adalah pembinaan disiplin harian, bukan bentuk formal pengembangan kompetensi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 84,
+      "halaman_sumber": 69,
+      "kata_kunci_modul": [
+        "magang atau praktik kerja",
+        "aktivitas Pembelajaran terintegrasi di tempat kerja"
+      ],
+      "topik_materi": "Implementasi Detasering dalam Klaster 70%",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang penelaah pajak ditugaskan magang kerja (secondment) di unit audit kepabeanan selama 3 bulan. Metode ini mencerminkan...",
+      "pilihan": {
+        "A": "Penjatuhan sanksi pemindahan penugasan dinas",
+        "B": "Pembelajaran jarak jauh metode ceramah porsi 10%",
+        "C": "Aktivitas pembimbingan kolaboratif porsi 20%",
+        "D": "Pendidikan formal tugas belajar bergelar sarjana",
+        "E": "Pembelajaran terintegrasi tempat kerja porsi 70%"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Detasering (secondment) dan praktik kerja langsung merupakan bagian dari **70% aktivitas Pembelajaran terintegrasi di tempat kerja**.",
+        "alasan_kunci": "Opsi E tepat karena secondment memberikan pengalaman kerja nyata secara langsung di lingkungan operasional, yang merupakan esensi porsi 70% model 10:20:70. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Secondment adalah program pembelajaran peningkatan kompetensi, bukan sanksi hukuman.",
+          "B": "Ceramah dan PJJ berada pada porsi 10% teori kelas.",
+          "C": "Coaching dan mentoring sosial mengisi porsi 20%, bukan penugasan kerja operasional.",
+          "D": "Detasering bukan pendidikan formal yang menghasilkan gelar akademik."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 85,
+      "halaman_sumber": 69,
+      "kata_kunci_modul": [
+        "Program pemanfaatan lulusan pendidikan (re-entry program)",
+        "Keputusan Menteri Keuangan RI Nomor 982/KMK.01/2017"
+      ],
+      "topik_materi": "Implementasi Re-entry Program Alumni Tugas Belajar",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pegawai baru menyelesaikan studi master di luar negeri dan diarahkan dalam program transfer pengetahuan. Program ini merupakan...",
+      "pilihan": {
+        "A": "Program pemanfaatan lulusan (re-entry program)",
+        "B": "Program orientasi CPNS rekrutan umum",
+        "C": "Program prajabatan pembentukan karakter ASN",
+        "D": "Program pensiun persiapan masa purnatugas",
+        "E": "Program penugasan khusus daerah tertinggal"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pemberdayaan pegawai yang baru kembali dari tugas belajar guna mendiseminasikan keahlian barunya diwadahi dalam **Program pemanfaatan lulusan pendidikan (re-entry program)**.",
+        "alasan_kunci": "Opsi A tepat karena re-entry program dirancang khusus untuk memastikan ilmu baru alumni tugas belajar dapat langsung diterapkan pada proses bisnis kementerian. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Orientasi CPNS ditujukan bagi calon pegawai baru, bukan lulusan master tugas belajar.",
+          "C": "Prajabatan/Latsar dilaksanakan pada awal karier CPNS.",
+          "D": "Persiapan purnatugas diperuntukkan bagi pegawai menjelang usia pensiun.",
+          "E": "Re-entry program tidak identik dengan pengiriman ke daerah tertinggal."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 86,
+      "halaman_sumber": 69,
+      "kata_kunci_modul": [
+        "pekerjaan job enlargement)",
+        "pengayaan pekerjaan job enrichment)"
+      ],
+      "topik_materi": "Penerapan Job Enlargement dan Job Enrichment",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pimpinan menambah variasi tugas dan memperluas wewenang pengambilan keputusan staf guna mengasah kapasitasnya. Metode ini mencakup...",
+      "pilihan": {
+        "A": "Sesi patok banding benchmarking porsi 20%",
+        "B": "Metode ceramah klasikal di dalam ruang kelas 10%",
+        "C": "Job enlargement dan job enrichment pada porsi 70%",
+        "D": "Pemberian tugas belajar pendidikan formal bergelar",
+        "E": "Pemberian hukuman disiplin penambahan beban kerja"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Perluasan jenis tugas (**job enlargement**) dan pengayaan bobot tanggung jawab (**job enrichment**) merupakan metode pembelajaran di tempat kerja dalam **porsi 70%**.",
+        "alasan_kunci": "Opsi C tepat karena penambahan variasi dan pengayaan kewenangan langsung mematangkan keterampilan pegawai dalam praktik tugas nyata di kantor. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Benchmarking adalah studi banding ke instansi lain, bukan penataan beban tugas staf sendiri.",
+          "B": "Ceramah klasikal tidak melibatkan intervensi desain struktur pekerjaan di kantor.",
+          "D": "Bukan tugas belajar perkuliahan formal ke universitas.",
+          "E": "Job enlargement/enrichment adalah metode pengembangan kompetensi yang konstruktif, bukan hukuman."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 87,
+      "halaman_sumber": 69,
+      "kata_kunci_modul": [
+        "Model 10:20:70",
+        "70% (tujuh puluh persen) aktivitas Pembelajaran terintegrasi di tempat kerja"
+      ],
+      "topik_materi": "Analisis Pergeseran Paradigma Pembelajaran Modern",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Pergeseran paradigma utama pembelajaran melalui Model 10:20:70 di lingkungan birokrasi kementerian adalah...",
+      "pilihan": {
+        "A": "Mewajibkan seluruh pegawai magang di perusahaan swasta",
+        "B": "Menghapuskan seluruh pelatihan tatap muka klasikal",
+        "C": "Menjadikan jam perkuliahan formal sebagai tolok ukur tunggal",
+        "D": "Beralih dari dominasi kelas teori ke praktik nyata di tempat kerja",
+        "E": "Meniadakan peran atasan dalam membimbing bawahan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Model 10:20:70 menggeser fokus dari diklat di ruang kelas (hanya 10%) menuju **penguatan praktik langsung di lingkungan kerja (70%) dan pembelajaran kolaboratif (20%)**.",
+        "alasan_kunci": "Opsi D tepat karena model ini mengakui bahwa keahlian profesional sejati terbentuk dari pengalaman langsung menyelesaikan masalah kedinasan di meja kerja. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pertukaran swasta adalah opsi fleksibel, bukan kewajiban bagi seluruh pegawai.",
+          "B": "Pelatihan tatap muka tidak dihapuskan melainkan tetap diberi porsi 10% fondasi konsep.",
+          "C": "Perkuliahan formal bukan ukuran tunggal melainkan hanya salah satu jalur pengembangan.",
+          "E": "Peran atasan justru makin vital sebagai mentor dan coach dalam porsi 20%."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 88,
+      "halaman_sumber": 69,
+      "kata_kunci_modul": [
+        "Program Pelatihan",
+        "Program pelatihan dilakukan melalui mekanisme Analisis"
+      ],
+      "topik_materi": "Analisis Mekanisme Penyelenggaraan Pelatihan Melalui AKP",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Berdasarkan tata kelola pengembangan SDM Kemenkeu, penyelenggaraan program pelatihan wajib dilaksanakan melalui...",
+      "pilihan": {
+        "A": "Undian acak nomor induk pegawai dalam sistem absensi",
+        "B": "Penetapan kuota seragam tanpa melihat profil kinerja",
+        "C": "Permintaan spontan peserta tanpa persetujuan pimpinan",
+        "D": "Tawaran paket promosi komersial dari lembaga kursus",
+        "E": "Mekanisme Analisis Kebutuhan Pembelajaran (AKP)"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Program pelatihan dilakukan melalui mekanisme Analisis Kebutuhan Pembelajaran (AKP)** guna menjamin kesesuaian antara materi diklat dengan kebutuhan organisasi.",
+        "alasan_kunci": "Opsi E tepat karena AKP merupakan instrumen terstandar yang menganalisis gap pengetahuan, keterampilan, dan sikap sebelum suatu program diklat dirancang dan digelar. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Undian acak mencederai prinsip meritokrasi dan objektivitas perencanaan SDM.",
+          "B": "Penetapan kuota buta tanpa analisis gap melanggar prinsip efisiensi anggaran diklat.",
+          "C": "Pelatihan kedinasan harus berbasis kebutuhan organisasi, bukan selera subjektif individu.",
+          "D": "Pelatihan ASN dirancang berdasarkan kurikulum instansi pembina, bukan promosi vendor swasta."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 89,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "45/PMK.011/2018 tentang Pedoman Analisis Kebutuhan Pembelajaran",
+        "AKP adalah serangkaian proses analisis"
+      ],
+      "topik_materi": "Regulasi Pedoman Analisis Kebutuhan Pembelajaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pedoman Analisis Kebutuhan Pembelajaran (AKP) di lingkungan Kementerian Keuangan secara resmi diatur dalam...",
+      "pilihan": {
+        "A": "PMK Nomor 45/PMK.011/2018",
+        "B": "PMK Nomor 190/PMK.05/2012",
+        "C": "PP Nomor 94 Tahun 2021",
+        "D": "KMK Nomor 982/KMK.01/2017",
+        "E": "Keppres Nomor 56 Tahun 1974"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pedoman AKP diatur dalam **Peraturan Menteri Keuangan Nomor 45/PMK.011/2018 tentang Pedoman Analisis Kebutuhan Pembelajaran di Lingkungan Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi A tepat karena PMK 45/PMK.011/2018 merupakan regulasi rujukan operasional analisis kebutuhan diklat bagi seluruh unit di Kemenkeu. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "PMK 190/PMK.05/2012 mengatur tata cara pembayaran dalam rangka pelaksanaan APBN.",
+          "C": "PP 94/2021 mengatur tata tertib dan hukuman disiplin PNS.",
+          "D": "KMK 982/2017 memuat kerangka program pengembangan kompetensi Kemenkeu.",
+          "E": "Keppres 56/1974 mengatur iuran kesejahteraan pensiun dan perumahan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 90,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "kesenjangan pengetahuan, keterampilan, dan sikap",
+        "AKP adalah serangkaian proses analisis"
+      ],
+      "topik_materi": "Definisi Analisis Kebutuhan Pembelajaran (AKP)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Analisis Kebutuhan Pembelajaran (AKP) didefinisikan sebagai serangkaian proses analisis terhadap...",
+      "pilihan": {
+        "A": "Selisih penerimaan pajak terhadap target pendapatan kas",
+        "B": "Kesenjangan pengetahuan, keterampilan, dan sikap pegawai",
+        "C": "Kebutuhan anggaran sarana dan prasarana gedung kantor",
+        "D": "Laporan pengaduan masyarakat atas pelanggaran kode etik",
+        "E": "Tingkat kepatuhan presensi jam kerja harian aparatur"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**AKP adalah serangkaian proses analisis terhadap kesenjangan pengetahuan, keterampilan, dan sikap dalam rangka pengembangan sumber daya manusia dengan program Pembelajaran guna mendukung target kinerja organisasi**.",
+        "alasan_kunci": "Opsi B tepat karena ketiga pilar kompetensi—knowledge (pengetahuan), skill (keterampilan), dan attitude (sikap)—merupakan objek inti yang dipetakan kesenjangannya dalam AKP. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Target penerimaan pajak adalah indikator kinerja fiskal DJP, bukan objek AKP.",
+          "C": "Kebutuhan sarana gedung adalah urusan manajemen aset barang milik negara (BMN).",
+          "D": "Pengaduan kode etik diperiksa oleh atasan dan unit kepatuhan internal.",
+          "E": "Presensi jam kerja diukur melalui aplikasi kehadiran, bukan metodologi AKP."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 91,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "dilaksanakan oleh Unit Pengelola (BPPK) dan Unit Pengguna",
+        "berkoordinasi dengan"
+      ],
+      "topik_materi": "Pelaksana Analisis Kebutuhan Pembelajaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan Analisis Kebutuhan Pembelajaran di lingkungan Kementerian Keuangan dilaksanakan bersama oleh...",
+      "pilihan": {
+        "A": "BPPK (Unit Pengelola) dan Unit Pengguna koordinasi Setjen",
+        "B": "KPK dan BPK RI secara eksternal",
+        "C": "Inspektorat Jenderal dan Badan Kepegawaian Negara",
+        "D": "Lembaga Administrasi Negara dan Konsultan Swasta",
+        "E": "Biro Umum dan Kantor Wilayah Perbendaharaan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "AKP **dilaksanakan oleh Unit Pengelola (BPPK) dan Unit Pengguna (Unit Eselon I) serta berkoordinasi dengan Sekretariat Jenderal**.",
+        "alasan_kunci": "Opsi A tepat karena modul secara spesifik menetapkan kolaborasi tripartit internal Kemenkeu: BPPK selaku pengelola pembelajaran, Unit Eselon I sebagai pengguna, dan Setjen sebagai koordinator. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "KPK dan BPK adalah lembaga pemeriksa/penegak hukum eksternal.",
+          "C": "Itjen dan BKN bukan penyelenggara utama pelaksanaan teknis AKP Kemenkeu.",
+          "D": "LAN adalah pembina nasional, namun pelaksana internal Kemenkeu adalah BPPK.",
+          "E": "Biro Umum mengelola perlengkapan logistik rumah tangga kementerian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 92,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "AKP terdiri dari dua jenis, yaitu AKP Reguler dan AKP Insidental",
+        "dua jenis, yaitu AKP Reguler"
+      ],
+      "topik_materi": "Dua Jenis Analisis Kebutuhan Pembelajaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan PMK 45/PMK.011/2018, Analisis Kebutuhan Pembelajaran terbagi menjadi dua jenis yaitu...",
+      "pilihan": {
+        "A": "AKP Teknis dan AKP Nonteknis",
+        "B": "AKP Mandiri dan AKP Kelompok",
+        "C": "AKP Tahunan dan AKP Bulanan",
+        "D": "AKP Formal dan AKP Informal",
+        "E": "AKP Reguler dan AKP Insidental"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**AKP terdiri dari dua jenis, yaitu AKP Reguler dan AKP Insidental**.",
+        "alasan_kunci": "Opsi E tepat karena klasifikasi yuridis yang ditetapkan PMK 45/2018 hanya membagi AKP ke dalam dua kelompok: pelaksanaan terjadwal tahunan (Reguler) dan pelaksanaan responsif sewaktu-waktu (Insidental). Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Teknis dan nonteknis merupakan rumpun substansi kompetensi, bukan jenis AKP.",
+          "B": "Mandiri dan kelompok bukan klasifikasi resmi jenis AKP dalam regulasi.",
+          "C": "Tahunan dan bulanan bukan pembagian tata kelola nomenklatur AKP.",
+          "D": "Formal dan informal merujuk pada bentuk pembelajaran, bukan jenis AKP."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 93,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "adalah AKP yang dilaksanakan secara terjadwal",
+        "sebelum tahun pembelajaran"
+      ],
+      "topik_materi": "Waktu dan Karakteristik Pelaksanaan AKP Reguler",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karakteristik pelaksanaan AKP Reguler adalah dilaksanakan...",
+      "pilihan": {
+        "A": "Secara mendadak saat terjadi pergantian pejabat",
+        "B": "Secara terjadwal sebelum tahun pembelajaran berjalan",
+        "C": "Sepanjang tahun berjalan tanpa jadwal tertulis",
+        "D": "Setiap lima tahun sekali bersamaan sensus pegawai",
+        "E": "Hanya apabila terdapat sisa anggaran belanja diklat"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**AKP Reguler adalah AKP yang dilaksanakan secara terjadwal sebelum tahun pembelajaran berjalan**.",
+        "alasan_kunci": "Opsi B tepat karena sifat dasar AKP Reguler adalah terencana dan terjadwal secara periodik menjelang dimulainya kalender anggaran/pembelajaran tahun berikutnya. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pelaksanaan mendadak responsif merupakan ciri dari AKP Insidental.",
+          "C": "Pelaksanaan sepanjang tahun berjalan merupakan karakteristik AKP Insidental.",
+          "D": "AKP dilaksanakan setiap tahun, bukan siklus lima tahunan sensus.",
+          "E": "Perencanaan diklat mendahului alokasi anggaran, bukan sekadar memanfaatkan sisa dana."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 94,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "terdiri atas AKP Strategis, AKP Jabatan dan AKP Individu",
+        "AKP Reguler"
+      ],
+      "topik_materi": "Tiga Komponen dalam Rumpun AKP Reguler",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "AKP Reguler yang diselenggarakan secara terjadwal mencakup tiga komponen analisis yaitu...",
+      "pilihan": {
+        "A": "AKP Teori, AKP Praktik, dan AKP Ujian Sertifikasi",
+        "B": "AKP Pimpinan, AKP Bawahan, dan AKP Pensiunan",
+        "C": "AKP Pusat, AKP Wilayah, dan AKP Pelaksana Teknis",
+        "D": "AKP Strategis, AKP Jabatan, dan AKP Individu",
+        "E": "AKP Anggaran, AKP Sarana, dan AKP Kurikulum Diklat"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "AKP Reguler **terdiri atas AKP Strategis, AKP Jabatan dan AKP Individu** yang saling melengkapi dari level makro organisasi hingga mikro pegawai.",
+        "alasan_kunci": "Opsi D tepat karena tata kelola AKP Reguler membedah kebutuhan pembelajaran dari tiga tingkatan terstruktur: arah kebijakan organisasi (Strategis), standar fungsi tugas (Jabatan), dan profil gap pegawai (Individu). Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Teori dan praktik adalah metode pelaksanaan materi diklat.",
+          "B": "Pensiunan tidak lagi menjadi sasaran pembinaan pembelajaran AKP aktif.",
+          "C": "Pusat dan wilayah adalah tingkat wilayah kerja birokrasi, bukan klasifikasi AKP.",
+          "E": "Anggaran dan sarana adalah sarana pendukung penyelenggaraan pelatihan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 95,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "Strategis adalah AKP yang dilaksanakan untuk",
+        "mendukung pencapaian target kinerja"
+      ],
+      "topik_materi": "Definisi dan Tujuan AKP Strategis",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan utama dilaksanakannya AKP Strategis adalah untuk mendukung...",
+      "pilihan": {
+        "A": "Pengisian jabatan kosong akibat pegawai memasuki masa pensiun",
+        "B": "Kebutuhan perorangan staf yang ingin melanjutkan kuliah pribadi",
+        "C": "Pencapaian kebutuhan strategis dan target kinerja Unit Pengguna",
+        "D": "Penyusunan laporan pertanggungjawaban barang milik negara",
+        "E": "Pelaksanaan audit kepatuhan internal oleh inspektorat jenderal"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**AKP Strategis adalah AKP yang dilaksanakan untuk mendukung pencapaian kebutuhan strategis dan target kinerja Unit Pengguna**.",
+        "alasan_kunci": "Opsi C tepat karena AKP Strategis diarahkan agar kompetensi pegawai mampu mengeksekusi prioritas kebijakan strategis unit eselon I yang bersangkutan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pengisian jabatan kosong merupakan tugas manajemen perencanaan formasi karier.",
+          "B": "Kebutuhan perorangan dipetakan melalui instrumen AKP Individu, bukan Strategis.",
+          "D": "Pertanggungjawaban BMN merupakan tugas pengelola logistik perbendaharaan.",
+          "E": "Audit kepatuhan adalah instrumen pengawasan pengawalan akuntabilitas."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 96,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "adalah AKP yang dilaksanakan untuk",
+        "pemenuhan kompetensi pemangku"
+      ],
+      "topik_materi": "Definisi dan Fungsi AKP Jabatan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Fungsi pokok dari pelaksanaan AKP Jabatan pada Unit Pengguna adalah untuk...",
+      "pilihan": {
+        "A": "Menentukan besaran tarif sewa gedung asrama pelatihan",
+        "B": "Mendukung pemenuhan kompetensi pemangku jabatan",
+        "C": "Menetapkan besaran tunjangan kinerja jabatan struktural",
+        "D": "Menghitung kebutuhan kendaraan dinas operasional eselon",
+        "E": "Mengatur jadwal piket pengamanan kantor di hari libur"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**AKP Jabatan adalah AKP yang dilaksanakan untuk mendukung pemenuhan kompetensi pemangku jabatan pada Unit Pengguna**.",
+        "alasan_kunci": "Opsi B tepat karena AKP Jabatan berfokus pada standar kompetensi yang wajib dikuasai oleh siapa pun yang menduduki formasi jabatan tersebut agar tugas terlaksana sempurna. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tarif sewa asrama merupakan ranah pengelolaan penerimaan negara bukan pajak (PNBP).",
+          "C": "Besaran tunjangan kinerja ditetapkan melalui peraturan presiden tentang remunerasi.",
+          "D": "Kendaraan dinas diatur melalui standar biaya masukan kementerian keuangan.",
+          "E": "Piket pengamanan merupakan tata tertib rumah tangga kantor."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 97,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "AKP Individu adalah AKP yang dilaksanakan untuk",
+        "kinerja dengan target kinerja jabatan"
+      ],
+      "topik_materi": "Definisi dan Fungsi AKP Individu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sasaran utama pelaksanaan AKP Individu adalah mendukung pengembangan kompetensi individu dan...",
+      "pilihan": {
+        "A": "Mengajukan mutasi kedaerahan sesuai domisili keluarga",
+        "B": "Memperoleh beasiswa studi lanjut tanpa ikatan dinas",
+        "C": "Mendapatkan keringanan pemenuhan jam kerja fingerprint",
+        "D": "Memenuhi kesenjangan kinerja dengan target kinerja jabatan",
+        "E": "Menyusun pembelaan hukum atas sanksi hukuman disiplin"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**AKP Individu adalah AKP yang dilaksanakan untuk mendukung pengembangan kompetensi individu dan memenuhi kesenjangan kinerja dengan target kinerja jabatan**.",
+        "alasan_kunci": "Opsi D tepat karena AKP Individu menyasar gap riil yang dialami seorang pegawai terhadap sasaran kinerjanya, sehingga intervensi pembelajaran menjadi tepat sasaran. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Mutasi kedaerahan diatur melalui pola rotasi kepegawaian BKN/Kemenkeu.",
+          "B": "Tugas belajar diatur tersendiri dan tetap terikat ikatan dinas pengabdian.",
+          "C": "AKP bukan sarana meminta kompensasi pengurangan jam kerja dinas.",
+          "E": "Pembelaan sanksi dilakukan melalui prosedur keberatan dan banding administratif."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 98,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "yang dilaksanakan sepanjang tahun pembelajaran berjalan",
+        "kebutuhan strategis, jabatan, atau individu"
+      ],
+      "topik_materi": "Karakteristik dan Fungsi AKP Insidental",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "AKP yang dilaksanakan sepanjang tahun pembelajaran berjalan untuk merespons kebutuhan mendesak yang timbul adalah...",
+      "pilihan": {
+        "A": "AKP Periodik",
+        "B": "AKP Reguler",
+        "C": "AKP Insidental",
+        "D": "AKP Tahunan",
+        "E": "AKP Terpusat"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**AKP Insidental adalah AKP yang dilaksanakan sepanjang tahun pembelajaran berjalan untuk memenuhi kebutuhan strategis, jabatan, atau individu** yang belum terakomodasi dalam rencana reguler.",
+        "alasan_kunci": "Opsi C tepat karena AKP Insidental memiliki sifat dinamis dan responsif untuk merespons dinamika regulasi baru atau perubahan proses bisnis di tengah tahun berjalan. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Periodik identik dengan jadwal rutin tahunan reguler.",
+          "B": "AKP Reguler dilaksanakan terjadwal sebelum tahun berjalan dimulai.",
+          "D": "AKP tahunan mengacu pada sifat pelaksanaan AKP Reguler.",
+          "E": "Terpusat mengacu pada sentralisasi organisasi, bukan klasifikasi fleksibilitas waktu AKP."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 99,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "Strategis adalah AKP yang dilaksanakan untuk",
+        "target kinerja Unit Pengguna"
+      ],
+      "topik_materi": "Implementasi AKP Strategis pada Transformasi Digital Satker",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Kementerian Keuangan meluncurkan sistem inti perpajakan baru (Cortex). Analisis kebutuhan pelatihan masif terkait program prioritas ini masuk dalam...",
+      "pilihan": {
+        "A": "AKP Strategis untuk mendukung target organisasi",
+        "B": "AKP Individu atas inisiatif mandiri pegawai",
+        "C": "Ujian kenaikan pangkat penyesuaian ijazah",
+        "D": "Program persiapan purnatugas pejabat eselon",
+        "E": "Evaluasi presensi fingerprint berkala satker"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pelatihan untuk mendukung agenda transformasi makro dan target prioritas instansi merupakan implementasi langsung dari **AKP Strategis**.",
+        "alasan_kunci": "Opsi A tepat karena peluncuran sistem inti penerimaan negara merupakan target strategis Unit Pengguna yang menuntut kesiapan keahlian seluruh aparatur secara terstruktur. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Bukan AKP Individu karena sistem baru berlaku secara sistemik bagi seluruh institusi.",
+          "C": "Ujian kenaikan pangkat hanya menguji kualifikasi ijazah formal kepegawaian.",
+          "D": "Bukan program purnatugas karena ditujukan bagi pegawai aktif pelaksana sistem.",
+          "E": "Presensi fingerprint hanya memantau kedisiplinan jam datang dan pulang kantor."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 100,
+      "halaman_sumber": 70,
+      "kata_kunci_modul": [
+        "adalah AKP yang dilaksanakan secara terjadwal",
+        "yang dilaksanakan sepanjang tahun pembelajaran berjalan"
+      ],
+      "topik_materi": "Analisis Pembeda Pokok AKP Reguler dan AKP Insidental",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbedaan pokok antara AKP Reguler dan AKP Insidental dalam manajemen pembelajaran Kemenkeu terletak pada...",
+      "pilihan": {
+        "A": "Hasil akhir (diberikan sertifikat kelulusan vs tanpa sertifikat)",
+        "B": "Instansi pelaksana (dilakukan BPPK vs dilakukan kementerian lain)",
+        "C": "Status peserta (dikhususkan pejabat eselon vs dikhususkan staf)",
+        "D": "Biaya pelaksanaan (dibiayai APBN vs dibiayai pribadi pegawai)",
+        "E": "Waktu pelaksanaan (terjadwal pra-tahun vs fleksibel tahun berjalan)"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "AKP Reguler dilaksanakan secara terjadwal sebelum tahun pembelajaran berjalan, sedangkan AKP Insidental dilaksanakan secara fleksibel sepanjang tahun berjalan guna merespons dinamika kebutuhan baru.",
+        "alasan_kunci": "Opsi E tepat karena dimensi waktu dan pola perencanaan merupakan pembeda pokok: Reguler terencana sebelum tahun berjalan, sedangkan Insidental responsif sepanjang tahun anggaran berjalan. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Sertifikat tetap diterbitkan selama peserta memenuhi standar kelulusan diklat.",
+          "B": "Kedua jenis AKP tetap diselenggarakan oleh BPPK bersama Unit Pengguna Kemenkeu.",
+          "C": "Kedua jenis AKP dapat diikuti oleh seluruh jenjang jabatan aparatur.",
+          "D": "Kedua jalur pembelajaran dinas didanai oleh anggaran resmi DIPA negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    }
+  ]
+}

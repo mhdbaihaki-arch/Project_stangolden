@@ -1,0 +1,3019 @@
+{
+  "paket_nomor": 5,
+  "dokumen_sumber": "3. Tata Aturan Kepegawaian.pdf",
+  "rentang_halaman": "Halaman 52 s/d Halaman 61",
+  "jumlah_soal": 100,
+  "distribusi_kunci": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20,
+    "E": 20
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "mengutamakan kepentingan negara daripada kepentingan",
+        "Unit Kerja"
+      ],
+      "topik_materi": "Hukuman Ringan Mengutamakan Kepentingan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang tidak mengutamakan kepentingan negara dan berdampak negatif pada Unit Kerja dijatuhi...",
+      "pilihan": {
+        "A": "Hukuman disiplin sedang",
+        "B": "Hukuman disiplin ringan",
+        "C": "Hukuman disiplin berat",
+        "D": "Pemberhentian tidak dengan hormat",
+        "E": "Pembebasan jabatan fungsional"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Hukuman disiplin ringan dijatuhkan bagi PNS yang tidak memenuhi ketentuan **mengutamakan kepentingan negara daripada kepentingan pribadi, seseorang, dan/atau golongan apabila berdampak negatif pada Unit Kerja**.",
+        "alasan_kunci": "Opsi B tepat karena regulasi PP Nomor 94 Tahun 2021 mengklasifikasikan pelanggaran pengutamaan kepentingan negara yang dampaknya terbatas pada lingkup Unit Kerja sebagai pelanggaran berkadar disiplin ringan. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Hukuman sedang dijatuhkan apabila pelanggaran berdampak negatif pada instansi kementerian.",
+          "C": "Hukuman berat dijatuhkan apabila pelanggaran berdampak negatif pada negara/pemerintah.",
+          "D": "Pemberhentian merupakan hukuman berat atas pelanggaran pidana atau pembangkangan berat.",
+          "E": "Pembebasan jabatan merupakan jenis sanksi disiplin tingkat berat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "teguran lisan bagi PNS yang tidak masuk kerja",
+        "3 (tiga) hari kerja"
+      ],
+      "topik_materi": "Sanksi Teguran Lisan Jam Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hukuman teguran lisan dijatuhkan kepada PNS yang tidak masuk kerja tanpa alasan sah secara kumulatif selama...",
+      "pilihan": {
+        "A": "11 (sebelas) hari kerja berturut-turut",
+        "B": "7 (tujuh) hari kerja dalam 1 (satu) semester",
+        "C": "3 (tiga) hari kerja dalam 1 (satu) tahun",
+        "D": "15 (lima belas) hari kerja dalam sebulan",
+        "E": "20 (dua puluh) hari kerja kumulatif dinas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Hukuman disiplin ringan berupa **teguran lisan bagi PNS yang tidak masuk kerja tanpa alasan yang sah secara kumulatif selama 3 (tiga) hari kerja dalam 1 (satu) tahun**.",
+        "alasan_kunci": "Opsi C tepat karena ambang batas pertama ketidakhadiran tanpa alasan sah yang dijatuhi sanksi teguran lisan menurut PP 94/2021 adalah tepat 3 hari kerja secara kumulatif dalam 1 tahun dinas. Dengan demikian, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Ketidakhadiran 11 hari masuk kategori hukuman disiplin tingkat sedang.",
+          "B": "Ketidakhadiran 7 hari dijatuhi sanksi pernyataan tidak puas secara tertulis.",
+          "D": "Ketidakhadiran 15 hari dijatuhi pemotongan tunjangan kinerja 9 bulan.",
+          "E": "Ketidakhadiran 20 hari dijatuhi pemotongan tunjangan kinerja 12 bulan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "4 (empat) sampai dengan",
+        "6 (enam) hari kerja dalam 1 (satu) tahun"
+      ],
+      "topik_materi": "Sanksi Teguran Tertulis Ketidakhadiran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang tidak masuk kerja tanpa alasan sah secara kumulatif selama 4 sampai 6 hari kerja dalam setahun dijatuhi...",
+      "pilihan": {
+        "A": "Pemotongan tunjangan kinerja 25%",
+        "B": "Teguran lisan",
+        "C": "Pernyataan tidak puas tertulis",
+        "D": "Teguran tertulis",
+        "E": "Penurunan pangkat setingkat lebih rendah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS yang tidak masuk kerja tanpa alasan sah secara kumulatif selama **4 sampai dengan 6 hari kerja dalam 1 tahun** dijatuhi hukuman disiplin **teguran tertulis**.",
+        "alasan_kunci": "Opsi D tepat karena rentang waktu absen 4 s.d. 6 hari kerja berada pada hierarki kedua hukuman ringan, yaitu teguran tertulis dari pejabat yang berwenang menghukum. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pemotongan tunjangan kinerja dijatuhkan untuk ketidakhadiran mulai 11 hari kerja.",
+          "B": "Teguran lisan dijatuhkan bagi yang tidak masuk kerja 3 hari kerja.",
+          "C": "Pernyataan tidak puas tertulis untuk ketidakhadiran 7 sampai 10 hari kerja.",
+          "E": "Penurunan pangkat/jabatan merupakan sanksi hukuman disiplin tingkat berat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "7 (tujuh) sampai dengan\n10 (sepuluh) hari kerja dalam 1 (satu) tahun",
+        "PNS yang tidak masuk kerja tanpa alasan"
+      ],
+      "topik_materi": "Sanksi Pernyataan Tidak Puas Ketidakhadiran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pernyataan tidak puas secara tertulis dijatuhkan kepada PNS yang tidak masuk kerja tanpa alasan sah selama...",
+      "pilihan": {
+        "A": "25 sampai dengan 30 hari kerja dinas",
+        "B": "1 sampai dengan 2 hari kerja dalam sebulan",
+        "C": "12 sampai dengan 15 hari kerja berturut-turut",
+        "D": "18 sampai dengan 20 hari kerja kalender",
+        "E": "7 sampai dengan 10 hari kerja dalam setahun"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Hukuman disiplin ringan berupa **pernyataan tidak puas secara tertulis bagi PNS yang tidak masuk kerja tanpa alasan yang sah secara kumulatif selama 7 (tujuh) sampai dengan 10 (sepuluh) hari kerja dalam 1 (satu) tahun**.",
+        "alasan_kunci": "Opsi E tepat karena rentang 7 hingga 10 hari kerja mangkir kerja tanpa izin sah merupakan batas maksimal kategori pelanggaran jam kerja tingkat ringan yang dijatuhi surat pernyataan tidak puas tertulis. Maka, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Absen 25-30 hari dijatuhi sanksi hukuman disiplin tingkat berat.",
+          "B": "Absen 1-2 hari belum mencapai ambang batas sanksi disiplin resmi (minimal 3 hari).",
+          "C": "Absen 12-15 hari dijatuhi hukuman disiplin tingkat sedang (pemotongan tukin).",
+          "D": "Absen 18-20 hari dijatuhi pemotongan tukin 25% selama 12 bulan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "menggunakan dan memelihara barang milik negara dengan\nsebaik-baiknya",
+        "apabila pelanggaran berdampak negatif pada Unit Kerja"
+      ],
+      "topik_materi": "Kewajiban Penggunaan BMN Dampak Unit Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang lalai menggunakan dan memelihara BMN hingga berdampak negatif pada Unit Kerja dijatuhi...",
+      "pilihan": {
+        "A": "Hukuman disiplin ringan",
+        "B": "Hukuman disiplin sedang",
+        "C": "Hukuman disiplin berat",
+        "D": "Pemberhentian sementara status pegawai",
+        "E": "Penyitaan seluruh tabungan pensiun"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kelalaian dalam **menggunakan dan memelihara barang milik negara dengan sebaik-baiknya apabila berdampak negatif pada Unit Kerja** dijatuhi **hukuman disiplin ringan**.",
+        "alasan_kunci": "Opsi A tepat karena skala dampak kelalaian pemeliharaan BMN yang terlokalisasi di Unit Kerja diatur sebagai pelanggaran ringan. Jika dampaknya meluas ke instansi, barulah masuk kategori sedang. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Hukuman sedang berlaku jika kelalaian pemeliharaan BMN berdampak pada instansi.",
+          "C": "Hukuman berat dikenakan bila merugikan keuangan negara dalam skala besar.",
+          "D": "Pemberhentian sementara ditujukan untuk proses perkara pidana penahanan.",
+          "E": "Penyitaan tabungan bukan bentuk sanksi disiplin aparatur sipil negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "tidak masuk kerja tanpa alasan\nyang sah secara kumulatif selama 3 (tiga) hari kerja",
+        "teguran lisan"
+      ],
+      "topik_materi": "Penerapan Sanksi Mangkir 3 Hari",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang staf kantor pelayanan tercatat tidak hadir kerja tanpa keterangan sah selama 3 hari dalam setahun. Atasan wajib menjatuhkan...",
+      "pilihan": {
+        "A": "Pemindahan tugas ke kantor perbatasan terluar",
+        "B": "Pemotongan tunjangan kinerja sebesar 50 persen",
+        "C": "Teguran lisan secara tegas sebagai hukuman disiplin",
+        "D": "Penurunan jabatan menjadi pelaksana setingkat",
+        "E": "Pemberhentian dengan hormat atas kehendak dinas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Ketidakhadiran tanpa alasan sah kumulatif 3 hari kerja dalam setahun dijatuhi hukuman **teguran lisan** yang dinyatakan secara tegas oleh atasan berwenang.",
+        "alasan_kunci": "Opsi C tepat karena berdasarkan PP 94/2021, sanksi pertama atas ketidakhadiran 3 hari kerja adalah teguran lisan. Teguran ini harus dinyatakan secara eksplisit sebagai hukuman disiplin agar sah secara yuridis kepegawaian. Dengan demikian, opsi A tepat.",
+        "bedah_pengecoh": {
+          "A": "Pemindahan paksa wilayah bukan sanksi atas ketidakhadiran 3 hari.",
+          "B": "Pemotongan tukin 50% bukan formula hukuman disiplin PP 94/2021.",
+          "D": "Penurunan jabatan adalah hukuman disiplin berat untuk pelanggaran akumulatif berat.",
+          "E": "Pemberhentian merupakan sanksi ketidakhadiran minimal 28 hari kerja."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "4 (empat) sampai dengan\n6 (enam) hari kerja",
+        "teguran"
+      ],
+      "topik_materi": "Implementasi Sanksi Ketidakhadiran 5 Hari Kerja",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang bendahara pembantu tidak masuk dinas tanpa izin selama 5 hari kerja kumulatif dalam satu tahun. Sanksi yang tepat adalah...",
+      "pilihan": {
+        "A": "Penurunan pangkat setahun",
+        "B": "Teguran lisan",
+        "C": "Pemotongan tukin 6 bulan",
+        "D": "Teguran tertulis",
+        "E": "Pemberhentian sementara"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Ketidakhadiran kumulatif **4 sampai dengan 6 hari kerja dalam 1 tahun** dijatuhi sanksi disiplin ringan berupa **teguran tertulis**.",
+        "alasan_kunci": "Opsi D tepat karena ketidakhadiran 5 hari kerja masuk dalam rentang 4 sampai dengan 6 hari kerja, yang secara spesifik diatur untuk dikenakan sanksi teguran tertulis. Jadi, pilihan D adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Penurunan pangkat/jabatan adalah hukuman berat untuk ketidakhadiran 21-24 hari.",
+          "B": "Teguran lisan hanya untuk pelanggaran ketidakhadiran 3 hari kerja.",
+          "C": "Pemotongan tukin dikenakan apabila ketidakhadiran mencapai minimal 11 hari kerja.",
+          "E": "Pemberhentian sementara bukan sanksi atas mangkir kerja ringan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "7 (tujuh) sampai dengan\n10 (sepuluh) hari kerja",
+        "Hukuman disiplin ringan"
+      ],
+      "topik_materi": "Implementasi Sanksi Mangkir 9 Hari Kerja",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pegawai pada bagian umum tidak hadir kerja tanpa alasan sah selama 9 hari kerja kumulatif. Bentuk hukuman disiplinnya adalah...",
+      "pilihan": {
+        "A": "Pembebasan tugas kedinasan kantor",
+        "B": "Peringatan lisan biasa tanpa berkas",
+        "C": "Pemotongan tunjangan kinerja 25% 9 bulan",
+        "D": "Penurunan kelas jabatan setingkat",
+        "E": "Pernyataan tidak puas secara tertulis"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Ketidakhadiran kumulatif **7 sampai dengan 10 hari kerja dalam 1 tahun** dijatuhi **pernyataan tidak puas secara tertulis**.",
+        "alasan_kunci": "Opsi E tepat karena akumulasi mangkir 9 hari kerja berada pada interval 7-10 hari kerja, sehingga jenis hukuman yang wajib dijatuhkan adalah pernyataan tidak puas secara tertulis. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pembebasan tugas bukan sanksi atas ketidakhadiran 9 hari kerja.",
+          "B": "Peringatan biasa bukan hukuman disiplin resmi dan tidak proporsional untuk 9 hari.",
+          "C": "Pemotongan tukin 9 bulan untuk ketidakhadiran 14-16 hari kerja.",
+          "D": "Penurunan kelas jabatan adalah hukuman berat untuk ketidakhadiran 21-24 hari."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "Hukuman disiplin ringan dijatuhkan bagi PNS yang tidak\nmemenuhi ketentuan:",
+        "mengutamakan kepentingan negara"
+      ],
+      "topik_materi": "Pembedaan Dampak Pelanggaran Disiplin",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Pembeda utama antara hukuman ringan dan hukuman sedang pada pelanggaran pengutamaan kepentingan negara terletak pada...",
+      "pilihan": {
+        "A": "Skala dampak negatif terhadap Unit Kerja vs Instansi",
+        "B": "Status pegawai apakah berstatus CPNS atau PNS",
+        "C": "Tingkat pendidikan formal terakhir yang dimiliki",
+        "D": "Besaran saldo simpanan tabungan pribadi pegawai",
+        "E": "Lokasi kantor apakah berada di pusat atau daerah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pelanggaran pengutamaan kepentingan negara dijatuhi **hukuman ringan jika berdampak negatif pada Unit Kerja**, dan **hukuman sedang jika berdampak negatif pada instansi**.",
+        "alasan_kunci": "Opsi A tepat karena PP 94/2021 mengadopsi gradasi sanksi berdasarkan tingkat keparahan dampak (locus of impact): dampak pada unit kerja dijatuhi sanksi ringan, sedangkan dampak meluas pada instansi kementerian dijatuhi sanksi sedang. Maka, opsi A adalah analisis yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Aturan disiplin berlaku setara bagi CPNS dan PNS tanpa diskriminasi tingkat sanksi.",
+          "C": "Ijazah dan tingkat pendidikan bukan faktor pembeda hierarki hukuman disiplin.",
+          "D": "Kondisi ekonomi pribadi tidak mempengaruhi kualifikasi tingkat hukuman disiplin.",
+          "E": "Letak geografis kantor tidak mengubah kualifikasi yuridis tingkat dampak pelanggaran."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "masuk kerja dan menaati ketentuan jam kerja",
+        "Hukuman disiplin ringan"
+      ],
+      "topik_materi": "Analisis Ambang Batas Hukuman Ringan Jam Kerja",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Berdasarkan PP 94/2021, batas akumulasi ketidakhadiran maksimal yang masih masuk dalam kategori hukuman disiplin ringan adalah...",
+      "pilihan": {
+        "A": "3 hari kerja dalam sebulan",
+        "B": "10 hari kerja dalam setahun",
+        "C": "14 hari kerja dalam setahun",
+        "D": "20 hari kerja dalam setahun",
+        "E": "27 hari kerja dalam setahun"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Batas akumulasi tertinggi untuk hukuman disiplin ringan adalah **10 (sepuluh) hari kerja dalam 1 (satu) tahun** (sanksi pernyataan tidak puas tertulis).",
+        "alasan_kunci": "Opsi B tepat karena interval sanksi ringan jam kerja adalah 3 hari (lisan), 4-6 hari (tertulis), dan 7-10 hari (pernyataan tidak puas tertulis). Melewati batas 10 hari (mulai hari ke-11) otomatis masuk hukuman disiplin sedang. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tiga hari merupakan batas minimal hukuman lisan, bukan batas maksimal kategori ringan.",
+          "C": "Empat belas hari kerja sudah masuk kategori hukuman disiplin tingkat sedang.",
+          "D": "Dua puluh hari kerja adalah batas atas pemotongan tukin 12 bulan (hukuman sedang).",
+          "E": "Dua puluh tujuh hari kerja masuk kategori hukuman disiplin tingkat berat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "memberikan\nkesempatan\nkepada\nbawahan\nuntuk\nmengembangkan kompetensi",
+        "Unit Kerja"
+      ],
+      "topik_materi": "Kewajiban Memberi Kesempatan Pengembangan Bawahan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Atasan yang menghalangi bawahan mengembangkan kompetensi hingga berdampak negatif pada Unit Kerja dijatuhi...",
+      "pilihan": {
+        "A": "Pemberhentian tidak dengan hormat",
+        "B": "Hukuman disiplin sedang",
+        "C": "Hukuman disiplin berat",
+        "D": "Penurunan jabatan pelaksana",
+        "E": "Hukuman disiplin ringan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "PNS yang tidak memenuhi ketentuan **memberikan kesempatan kepada bawahan untuk mengembangkan kompetensi apabila berdampak negatif pada Unit Kerja dijatuhi hukuman disiplin ringan**.",
+        "alasan_kunci": "Opsi E tepat karena menghalangi pengembangan kompetensi bawahan di lingkup unit kerja dikategorikan sebagai pelanggaran pembinaan manajerial tingkat ringan. Jika dampaknya meluas ke instansi barulah menjadi sedang. Maka dari itu, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Pemberhentian tidak hormat dijatuhkan pada tindak pidana korupsi atau kejahatan jabatan.",
+          "B": "Hukuman sedang berlaku jika pelanggaran berdampak negatif pada instansi.",
+          "C": "Hukuman berat dijatuhkan untuk pelanggaran kedaulatan negara atau fraud.",
+          "D": "Penurunan jabatan pelaksana merupakan sanksi hukuman disiplin tingkat berat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "bertindak sewenang-wenang terhadap bawahan",
+        "apabila pelanggaran berdampak negatif pada Unit Kerja"
+      ],
+      "topik_materi": "Larangan Bertindak Sewenang-wenang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Larangan bertindak sewenang-wenang terhadap bawahan yang berdampak negatif pada Unit Kerja diancam hukuman...",
+      "pilihan": {
+        "A": "Disiplin ringan",
+        "B": "Disiplin sedang",
+        "C": "Disiplin berat",
+        "D": "Pidana kurungan",
+        "E": "Ganti rugi BMN"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pelanggaran terhadap larangan **bertindak sewenang-wenang terhadap bawahan apabila berdampak negatif pada Unit Kerja dijatuhi hukuman disiplin ringan**.",
+        "alasan_kunci": "Opsi A tepat karena perbuatan sewenang-wenang yang dampaknya terlokalisasi di lingkungan internal Unit Kerja digolongkan sebagai pelanggaran etika kepemimpinan berkadar disiplin ringan. Dengan demikian, pilihan A benar.",
+        "bedah_pengecoh": {
+          "B": "Hukuman sedang dijatuhkan jika dampak kesewenang-wenangan meluas pada instansi.",
+          "C": "Hukuman berat untuk pelanggaran berkonsekuensi hukum berat pada negara.",
+          "D": "Pidana kurungan merupakan ranah pengadilan umum tindak pidana.",
+          "E": "Ganti rugi BMN terkait dengan kerusakan fisik aset kebendaan milik negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "menjaga persatuan dan kesatuan bangsa",
+        "Hukuman disiplin sedang dijatuhkan"
+      ],
+      "topik_materi": "Kewajiban Menjaga Persatuan Bangsa",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelanggaran kewajiban menjaga persatuan bangsa yang berdampak negatif pada unit kerja/instansi dijatuhi...",
+      "pilihan": {
+        "A": "Hukuman disiplin ringan",
+        "B": "Hukuman disiplin sedang",
+        "C": "Hukuman teguran lisan",
+        "D": "Penghargaan karya satya",
+        "E": "Pemberian cuti istimewa"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Hukuman disiplin sedang dijatuhkan bagi pelanggaran terhadap kewajiban **menjaga persatuan dan kesatuan bangsa, apabila berdampak negatif pada Unit Kerja dan/atau instansi yang bersangkutan**.",
+        "alasan_kunci": "Opsi B tepat karena memecah belah kerukunan dan persatuan di lingkungan kerja instansi merupakan perbuatan yang mengganggu soliditas birokrasi, sehingga dijatuhi sanksi disiplin sedang. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Bukan hukuman ringan karena persatuan bangsa merupakan kewajiban fundamental ASN.",
+          "C": "Teguran lisan terlalu ringan untuk pelanggaran isu persatuan dan kesatuan.",
+          "D": "Penghargaan diberikan atas prestasi, bukan atas perbuatan pelanggaran.",
+          "E": "Cuti istimewa bukan instrumen sanksi penegakan disiplin pegawai."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "menyimpan rahasia jabatan dan hanya dapat mengemukakan",
+        "ketentuan peraturan perundangundangan"
+      ],
+      "topik_materi": "Kewajiban Menyimpan Rahasia Jabatan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Membocorkan rahasia jabatan yang berdampak negatif pada instansi yang bersangkutan dijatuhi hukuman...",
+      "pilihan": {
+        "A": "Bebas dari sanksi",
+        "B": "Disiplin ringan",
+        "C": "Disiplin sedang",
+        "D": "Peringatan santai",
+        "E": "Kenaikan golongan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pelanggaran kewajiban **menyimpan rahasia jabatan dan hanya mengemukakannya sesuai ketentuan apabila berdampak negatif pada instansi dijatuhi hukuman disiplin sedang**.",
+        "alasan_kunci": "Opsi C tepat karena kerahasiaan data kedinasan dilindungi hukum negara. Membocorkannya hingga merugikan nama baik atau operasional instansi kementerian diancam hukuman disiplin sedang (pemotongan tukin). Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tidak ada pembebasan sanksi atas pembocoran dokumen rahasia kedinasan.",
+          "B": "Bukan hukuman ringan karena kebocoran rahasia instansi memiliki risiko reputasi tinggi.",
+          "D": "Peringatan informal bukan prosedur resmi penegakan disiplin PP 94/2021.",
+          "E": "Sangat keliru karena pelanggaran rahasia jabatan menghalangi kenaikan pangkat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "bersedia ditempatkan di seluruh wilayah NKRI",
+        "Hukuman disiplin sedang"
+      ],
+      "topik_materi": "Kewajiban Bersedia Ditempatkan di Seluruh NKRI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menolak penempatan kerja di wilayah NKRI yang berdampak negatif pada instansi diancam dengan hukuman...",
+      "pilihan": {
+        "A": "Kompensasi tunjangan",
+        "B": "Teguran lisan",
+        "C": "Disiplin ringan",
+        "D": "Disiplin sedang",
+        "E": "Mutasi permintaan sendiri"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pelanggaran kewajiban **bersedia ditempatkan di seluruh wilayah NKRI apabila berdampak negatif pada instansi dijatuhi hukuman disiplin sedang**.",
+        "alasan_kunci": "Opsi D tepat karena kesiapan mengabdi di seluruh pelosok tanah air adalah komitmen sumpah aparatur negara. Penolakan mutasi yang merugikan instansi dijatuhi hukuman disiplin tingkat sedang. Jadi, pilihan D benar.",
+        "bedah_pengecoh": {
+          "A": "Menolak penempatan tidak berhak atas kompensasi finansial apa pun.",
+          "B": "Teguran lisan terlalu ringan untuk pembangkangan perintah penempatan wilayah.",
+          "C": "Bukan hukuman ringan karena komitmen wilayah berskala nasional instansi.",
+          "E": "Mutasi permintaan sendiri mensyaratkan persetujuan dinas, bukan kompensasi penolakan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "menghalangi berjalannya tugas kedinasan",
+        "apabila pelanggaran berdampak negatif pada Unit Kerja"
+      ],
+      "topik_materi": "Penerapan Larangan Menghalangi Tugas Kedinasan",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang staf mengunci ruang arsip sehingga pemeriksaan internal tertunda dan berdampak pada seksi kerjanya. Pegawai tersebut dijatuhi...",
+      "pilihan": {
+        "A": "Hukuman disiplin ringan karena menghalangi tugas di unit kerja",
+        "B": "Pemberhentian tidak dengan hormat sebagai aparatur negara",
+        "C": "Penurunan pangkat setingkat lebih rendah selama tiga tahun",
+        "D": "Pemberian tugas belajar ke luar negeri selama dua tahun",
+        "E": "Pembebasan dari seluruh pengawasan atasan langsung"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Larangan **menghalangi berjalannya tugas kedinasan apabila pelanggaran berdampak negatif pada Unit Kerja dijatuhi hukuman disiplin ringan**.",
+        "alasan_kunci": "Opsi A tepat karena tindakan menghalangi kelancaran tugas dinas yang dampaknya terbatas pada seksi/unit kerja setempat secara spesifik diatur sebagai pelanggaran larangan yang dijatuhi hukuman disiplin ringan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Pemberhentian tidak hormat tidak proporsional untuk insiden terlokalisasi unit.",
+          "C": "Penurunan pangkat tiga tahun adalah aturan lama PP 53/2010 yang tidak berlaku.",
+          "D": "Tugas belajar adalah hak pengembangan kapasitas, bukan sanksi pelanggaran.",
+          "E": "Pengawasan atasan justru diperketat pascapelanggaran disiplin."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "menjual, membeli, menggadaikan, menyewakan, atau\nmeminjamkan barang",
+        "secara tidak sah"
+      ],
+      "topik_materi": "Penerapan Larangan Meminjamkan Aset BMN Tanpa Hak",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pegawai meminjamkan laptop dinas kepada pihak swasta tanpa izin dan merugikan operasional seksi kerjanya. Pegawai dijatuhi...",
+      "pilihan": {
+        "A": "Penurunan jabatan 12 bulan",
+        "B": "Hukuman disiplin ringan",
+        "C": "Pemotongan tukin 12 bulan",
+        "D": "Pemberhentian tidak hormat",
+        "E": "Pemindahan ke luar negeri"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Larangan **meminjamkan atau menyewakan BMN secara tidak sah apabila berdampak negatif pada Unit Kerja dijatuhi hukuman disiplin ringan**.",
+        "alasan_kunci": "Opsi B tepat karena peminjaman laptop tanpa izin yang dampaknya terbatas pada gangguan kerja di unit kerja setempat memenuhi unsur pelanggaran larangan penggunaan aset dengan sanksi disiplin ringan. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Penurunan jabatan adalah hukuman berat, tidak diterapkan untuk dampak unit kerja.",
+          "C": "Pemotongan tukin 12 bulan berlaku bila berdampak negatif pada instansi kementerian.",
+          "D": "Pemberhentian tidak hormat untuk tindak kejahatan korupsi terbukti pengadilan.",
+          "E": "Bukan bentuk penegakan hukum disiplin aparatur."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "menunjukkan integritas dan keteladanan dalam sikap, perilaku,\nucapan, dan tindakan",
+        "instansi yang\nbersangkutan"
+      ],
+      "topik_materi": "Implementasi Kewajiban Integritas dan Keteladanan",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pejabat fungsional bersikap arogan dalam pelayanan publik hingga viral dan mencoreng nama instansi kementerian. Sanksinya adalah...",
+      "pilihan": {
+        "A": "Pemberian kenaikan pangkat",
+        "B": "Teguran lisan non formal",
+        "C": "Hukuman disiplin sedang",
+        "D": "Bebas dari segala tuntutan",
+        "E": "Pemberian uang kompensasi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pelanggaran kewajiban **menunjukkan integritas dan keteladanan sikap, perilaku, ucapan apabila berdampak negatif pada instansi dijatuhi hukuman disiplin sedang**.",
+        "alasan_kunci": "Opsi C tepat karena kegagalan menjaga keteladanan yang mencoreng citra instansi di mata publik (viral luas) memenuhi kriteria dampak negatif pada instansi, sehingga dijatuhi hukuman disiplin sedang. Dengan demikian, opsi A tepat.",
+        "bedah_pengecoh": {
+          "A": "Sangat keliru karena pelanggaran integritas menghalangi hak kenaikan pangkat.",
+          "B": "Teguran non formal tidak memiliki dasar hukum dan tidak proporsional bagi nama instansi.",
+          "D": "Aparatur terikat pertanggungjawaban etika dan hukum atas sikapnya.",
+          "E": "Tidak ada kompensasi bagi pelaku pelanggaran disiplin kedinasan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Hukuman disiplin ringan dijatuhkan bagi PNS yang melanggar\nketentuan larangan:",
+        "Unit Kerja"
+      ],
+      "topik_materi": "Analisis Pelanggaran Larangan Berkadar Ringan",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Di antara opsi berikut, pelanggaran larangan yang dijatuhi hukuman disiplin ringan karena berdampak pada Unit Kerja adalah...",
+      "pilihan": {
+        "A": "Melakukan pungli masif yang merugikan keuangan instansi",
+        "B": "Menjadi pengurus aktif partai politik peserta pemilu",
+        "C": "Membocorkan rahasia pertahanan negara kepada pihak asing",
+        "D": "Melakukan kegiatan yang merugikan negara berdampak pada unit kerja",
+        "E": "Menolak penempatan di seluruh wilayah Republik Indonesia"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Larangan berdampak pada Unit Kerja yang dijatuhi sanksi ringan: **meminjamkan BMN ilegal, merugikan negara (skala unit), sewenang-wenang pd bawahan, menghalangi tugas**.",
+        "alasan_kunci": "Opsi D tepat karena dokumen kepegawaian merinci kegiatan yang merugikan negara dengan skala dampak terlokalisir pada Unit Kerja masuk kategori hukuman disiplin ringan. Opsi B, C, D, dan E masuk kategori hukuman sedang atau berat. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pungli masif berdampak instansi dijatuhi hukuman sedang atau berat.",
+          "B": "Menjadi pengurus parpol diancam pemberhentian tidak dengan hormat (hukuman berat).",
+          "C": "Membocorkan rahasia pertahanan negara adalah tindak pidana dan hukuman disiplin berat.",
+          "E": "Menolak penempatan kerja berdampak instansi dijatuhi hukuman sedang."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Hukuman disiplin sedang dijatuhkan bagi pelanggaran terhadap\nkewajiban:",
+        "apabila pelanggaran berdampak negatif pada instansi"
+      ],
+      "topik_materi": "Analisis Parameter Dampak Hukuman Sedang",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Kriteria yuridis utama yang menetapkan suatu pelanggaran kewajiban masuk kategori hukuman disiplin sedang adalah...",
+      "pilihan": {
+        "A": "Pelanggaran tidak dicatat oleh atasan langsung di buku catatan",
+        "B": "Pelanggaran hanya diketahui oleh teman satu ruangan kerja",
+        "C": "Pelanggaran dilakukan oleh pegawai yang belum menikah",
+        "D": "Pelanggaran terjadi pada hari libur nasional resmi",
+        "E": "Pelanggaran menimbulkan dampak negatif pada instansi bersangkutan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Hukuman disiplin sedang dijatuhkan atas pelanggaran kewajiban **apabila pelanggaran berdampak negatif pada instansi yang bersangkutan**.",
+        "alasan_kunci": "Opsi E tepat karena parameter baku pembagian derajat hukuman dalam PP 94/2021 mengaitkan hukuman sedang dengan pembuktian adanya dampak negatif terhadap kelembagaan instansi. Ini menjadi landasan kepastian hukum penjatuhan sanksi. Maka, opsi A adalah analisis yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Pencatatan atasan adalah aspek pembuktian, bukan kriteria dampak yuridis.",
+          "B": "Jumlah saksi bukan tolok ukur kualifikasi yuridis tingkat hukuman.",
+          "C": "Status pernikahan tidak memiliki relevansi hukum dengan kualifikasi sanksi.",
+          "D": "Waktu hari libur tidak mengubah derajat dampak negatif terhadap instansi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "menghadiri dan mengucapkan sumpah/janji PNS",
+        "tanpa alasan yang sah"
+      ],
+      "topik_materi": "Sanksi Tidak Menghadiri Sumpah PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang tidak menghadiri dan mengucapkan sumpah/janji PNS tanpa alasan yang sah dijatuhi...",
+      "pilihan": {
+        "A": "Pemberian izin cuti",
+        "B": "Teguran lisan biasa",
+        "C": "Peringatan santai",
+        "D": "Hukuman disiplin sedang",
+        "E": "Kenaikan kelas pangkat"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Hukuman disiplin sedang dijatuhkan bagi PNS yang tidak memenuhi ketentuan **menghadiri dan mengucapkan sumpah/janji PNS, apabila pelanggaran dilakukan tanpa alasan yang sah**.",
+        "alasan_kunci": "Opsi D tepat karena mengucapkan sumpah merupakan kewajiban konstitusional dan moral mendasar seorang aparatur. Ketidakhadiran tanpa dasar pembenar yang sah langsung diancam sanksi disiplin tingkat sedang. Dengan demikian, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Cuti bukan tindakan hukum disiplin atas mangkir dari upacara sumpah.",
+          "B": "Teguran lisan terlalu ringan dan tidak sesuai dengan ancaman pasal PP 94/2021.",
+          "C": "Peringatan santai tidak dikenal dalam hukum disiplin kepegawaian.",
+          "E": "Pelanggaran sumpah jabatan menghalangi promosi dan kenaikan pangkat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "melaporkan harta kekayaan kepada pejabat yang berwenang",
+        "pejabat administrator dan pejabat fungsional"
+      ],
+      "topik_materi": "Kewajiban LHKPN Pejabat Administrator & Fungsional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pejabat administrator dan pejabat fungsional yang tidak melaporkan harta kekayaan (LHKPN/LHK) dijatuhi...",
+      "pilihan": {
+        "A": "Pembebasan kewajiban perpajakan",
+        "B": "Hukuman disiplin ringan",
+        "C": "Hukuman disiplin berat",
+        "D": "Pemberhentian tidak dengan hormat",
+        "E": "Hukuman disiplin sedang"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tidak melaporkan harta kekayaan sesuai peraturan **yang dilakukan pejabat administrator dan pejabat fungsional dijatuhi hukuman disiplin sedang**.",
+        "alasan_kunci": "Opsi E tepat karena transparansi aset bagi administrator dan fungsional diatur di bawah ancaman hukuman sedang. Sedangkan untuk Pejabat Pimpinan Tinggi (JPT), pelanggaran ini diancam hukuman berat. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Kewajiban perpajakan tetap mengikat setiap warga negara.",
+          "B": "Laporan harta kekayaan bukan pelanggaran ringan karena terkait integritas pencegahan korupsi.",
+          "C": "Hukuman berat untuk ketidakpatuhan LHKPN Pejabat Pimpinan Tinggi (JPT).",
+          "D": "Pemberhentian tidak hormat dijatuhkan jika terbukti tindak pidana korupsi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "Pemotongan tunjangan kinerja sebesar 25%",
+        "11\n(sebelas) sampai dengan 13 (tiga belas) hari kerja"
+      ],
+      "topik_materi": "Sanksi Mangkir 11-13 Hari Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang tidak masuk kerja tanpa alasan sah kumulatif 11 s.d. 13 hari kerja dalam setahun dijatuhi...",
+      "pilihan": {
+        "A": "Pemotongan tukin 25% selama 6 bulan",
+        "B": "Pemotongan tukin 25% selama 9 bulan",
+        "C": "Pemotongan tukin 25% selama 12 bulan",
+        "D": "Teguran tertulis dari atasan langsung",
+        "E": "Pernyataan tidak puas secara tertulis"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Ketidakhadiran kumulatif **11 sampai dengan 13 hari kerja dalam 1 tahun** dijatuhi **pemotongan tunjangan kinerja sebesar 25% selama 6 (enam) bulan**.",
+        "alasan_kunci": "Opsi A tepat karena rentang 11-13 hari mangkir merupakan ambang pertama kategori hukuman sedang yang dikenakan pemotongan tunjangan kinerja 25% dengan durasi 6 bulan. Maka, opsi A adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Pemotongan tukin 9 bulan untuk ketidakhadiran 14 sampai dengan 16 hari kerja.",
+          "C": "Pemotongan tukin 12 bulan untuk ketidakhadiran 17 sampai dengan 20 hari kerja.",
+          "D": "Teguran tertulis adalah sanksi ringan untuk ketidakhadiran 4-6 hari kerja.",
+          "E": "Pernyataan tidak puas untuk ketidakhadiran 7-10 hari kerja."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "14 (empat belas) sampai dengan 16 (enam belas) hari kerja",
+        "Pemotongan tunjangan kinerja sebesar 25%"
+      ],
+      "topik_materi": "Sanksi Mangkir 14-16 Hari Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hukuman pemotongan tunjangan kinerja sebesar 25% selama 9 bulan dijatuhkan bagi PNS yang mangkir selama...",
+      "pilihan": {
+        "A": "7 sampai dengan 10 hari kerja dalam setahun",
+        "B": "14 sampai dengan 16 hari kerja dalam setahun",
+        "C": "11 sampai dengan 13 hari kerja dalam setahun",
+        "D": "17 sampai dengan 20 hari kerja dalam setahun",
+        "E": "21 sampai dengan 24 hari kerja dalam setahun"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Hukuman pemotongan tunjangan kinerja 25% selama **9 (sembilan) bulan** dijatuhkan atas ketidakhadiran tanpa alasan sah **14 sampai dengan 16 hari kerja dalam 1 tahun**.",
+        "alasan_kunci": "Opsi B tepat karena interval 14 s.d. 16 hari mangkir kerja secara kumulatif menghasilkan sanksi pemotongan tunjangan kinerja 25% dengan masa berlaku tepat 9 bulan. Dengan demikian, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Absen 7-10 hari dijatuhi pernyataan tidak puas secara tertulis.",
+          "C": "Absen 11-13 hari dijatuhi pemotongan tukin 25% selama 6 bulan.",
+          "D": "Absen 17-20 hari dijatuhi pemotongan tukin 25% selama 12 bulan.",
+          "E": "Absen 21-24 hari dijatuhi penurunan jabatan setingkat 12 bulan (hukuman berat)."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "17 (tujuh belas) sampai dengan 20 (dua puluh) hari kerja",
+        "selama 12 (dua belas) bulan"
+      ],
+      "topik_materi": "Sanksi Mangkir 17-20 Hari Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemotongan tunjangan kinerja 25% selama 12 bulan dijatuhkan kepada PNS yang tidak masuk kerja tanpa izin selama...",
+      "pilihan": {
+        "A": "11 sampai dengan 13 hari kerja dalam setahun",
+        "B": "5 sampai dengan 8 hari kerja dalam setahun",
+        "C": "17 sampai dengan 20 hari kerja dalam setahun",
+        "D": "25 sampai dengan 27 hari kerja dalam setahun",
+        "E": "28 hari kerja atau lebih dalam setahun"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Ketidakhadiran kumulatif **17 sampai dengan 20 hari kerja dalam 1 tahun** dijatuhi **pemotongan tunjangan kinerja sebesar 25% selama 12 (dua belas) bulan**.",
+        "alasan_kunci": "Opsi C tepat karena rentang mangkir 17 hingga 20 hari kerja adalah batas teratas kategori hukuman sedang dengan sanksi pemotongan tunjangan kinerja 25% selama 1 tahun penuh. Maka, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Absen 11-13 hari kerja dijatuhi pemotongan tukin 25% selama 6 bulan.",
+          "B": "Absen 5-8 hari kerja masuk kategori hukuman disiplin ringan.",
+          "D": "Absen 25-27 hari kerja dijatuhi pembebasan jabatan menjadi pelaksana (hukuman berat).",
+          "E": "Absen 28 hari kerja atau lebih dijatuhi pemberhentian sebagai PNS (hukuman terberat)."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "melaporkan dengan segera kepada atasannya apabila\nmengetahui",
+        "membahayakan keamanan\nnegara atau merugikan keuangan negara"
+      ],
+      "topik_materi": "Kewajiban Melaporkan Ancaman Keamanan/Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang mengetahui ancaman terhadap keuangan negara namun tidak segera lapor hingga merugikan instansi dijatuhi...",
+      "pilihan": {
+        "A": "Pemberian penghargaan resmi",
+        "B": "Teguran lisan dari bawahan",
+        "C": "Bebas dari segala sanksi",
+        "D": "Pemberian kenaikan tukin",
+        "E": "Hukuman disiplin sedang"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tidak melaporkan dengan segera hal yang **membahayakan keamanan negara atau merugikan keuangan negara apabila berdampak negatif pada instansi dijatuhi hukuman disiplin sedang**.",
+        "alasan_kunci": "Opsi E tepat karena pembiaran atas indikasi kerugian keuangan negara melanggar prinsip akuntabilitas pengawasan. Bila berdampak pada instansi, pelaku pembiaran dijatuhi sanksi hukuman disiplin sedang. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Penghargaan hanya diberikan bagi pelapor yang menyelamatkan aset negara.",
+          "B": "Bawahan tidak memiliki kewenangan menghukum atasannya.",
+          "C": "Pembiaran terhadap kerugian negara merupakan pelanggaran disiplin serius.",
+          "D": "Sangat keliru karena pelaku pembiaran wajib disanksi pemotongan tunjangan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "11\n(sebelas) sampai dengan 13 (tiga belas) hari kerja",
+        "Pemotongan tunjangan kinerja sebesar 25% (dua puluh lima\npersen) selama 6 (enam) bulan"
+      ],
+      "topik_materi": "Implementasi Sanksi Mangkir 12 Hari Kerja",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang penata laksana keuangan tercatat tidak hadir tanpa alasan sah selama 12 hari kerja dalam setahun. Sanksinya adalah...",
+      "pilihan": {
+        "A": "Pemotongan tunjangan kinerja 25% selama 6 bulan",
+        "B": "Pemberhentian pembayaran gaji pokok seumur hidup",
+        "C": "Penurunan pangkat setingkat lebih rendah 12 bulan",
+        "D": "Teguran tertulis dari pejabat pembina kepegawaian",
+        "E": "Pemberhentian tidak dengan hormat sebagai aparatur"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Ketidakhadiran kumulatif 12 hari kerja masuk rentang **11 s.d. 13 hari kerja**, yang dijatuhi sanksi **pemotongan tunjangan kinerja 25% selama 6 bulan**.",
+        "alasan_kunci": "Opsi A tepat karena angka 12 hari secara presisi berada di dalam interval 11 sampai 13 hari kerja menurut PP 94/2021, sehingga hukuman sedang yang dijatuhkan adalah pemotongan tukin 25% selama 6 bulan. Jadi, pilihan A benar.",
+        "bedah_pengecoh": {
+          "B": "Gaji pokok tidak pernah dipotong seumur hidup dalam skema sanksi disiplin PP 94/2021.",
+          "C": "Penurunan jabatan dikenakan jika ketidakhadiran mencapai 21-24 hari kerja.",
+          "D": "Teguran tertulis merupakan sanksi ringan untuk ketidakhadiran 4-6 hari kerja.",
+          "E": "Pemberhentian tidak hormat tidak diterapkan pada kasus mangkir kerja 12 hari."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "belas) hari kerja",
+        "9 (sembilan) bulan",
+        "14 (empat belas) sampai dengan 16 (enam belas) hari kerja"
+      ],
+      "topik_materi": "Penerapan Sanksi Mangkir 15 Hari Kerja",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pemeriksa pajak tidak masuk kerja tanpa kabar sah selama 15 hari kumulatif dalam satu tahun dinas. Sanksinya adalah...",
+      "pilihan": {
+        "A": "Pemotongan tunjangan kinerja 25% selama 6 bulan",
+        "B": "Pemotongan tunjangan kinerja 25% selama 9 bulan",
+        "C": "Pemotongan tunjangan kinerja 25% selama 12 bulan",
+        "D": "Penurunan jabatan menjadi pelaksana 12 bulan",
+        "E": "Pemberhentian dengan hormat tidak atas permintaan sendiri"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Ketidakhadiran kumulatif 15 hari kerja berada dalam interval **14 s.d. 16 hari kerja**, dengan sanksi **pemotongan tukin 25% selama 9 bulan**.",
+        "alasan_kunci": "Opsi B tepat karena ketidakhadiran 15 hari kerja secara yuridis dikenai hukuman disiplin sedang tingkat kedua, yaitu pemotongan tukin sebesar seperempat (25%) selama 9 bulan. Dengan demikian, opsi A tepat.",
+        "bedah_pengecoh": {
+          "A": "Pemotongan 6 bulan untuk ketidakhadiran 11 sampai 13 hari kerja.",
+          "C": "Pemotongan 12 bulan untuk ketidakhadiran 17 sampai 20 hari kerja.",
+          "D": "Penurunan menjadi pelaksana dikenakan jika ketidakhadiran mencapai 25-27 hari kerja.",
+          "E": "Pemberhentian dikenakan jika ketidakhadiran mencapai 28 hari kerja atau lebih."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "belas) hari kerja",
+        "17 (tujuh belas) sampai dengan 20 (dua puluh) hari kerja",
+        "12 (dua belas) bulan"
+      ],
+      "topik_materi": "Penerapan Sanksi Mangkir 18 Hari Kerja",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Staf kepegawaian tidak masuk kantor tanpa izin sah selama 18 hari kumulatif. Berdasarkan PP 94/2021, sanksi yang dijatuhkan adalah...",
+      "pilihan": {
+        "A": "Pemotongan tukin 25% selama 9 bulan",
+        "B": "Pemotongan tukin 25% selama 6 bulan",
+        "C": "Pemotongan tukin 25% selama 12 bulan",
+        "D": "Penurunan jabatan setingkat lebih rendah",
+        "E": "Teguran lisan dari atasan langsung"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Ketidakhadiran 18 hari kerja berada pada rentang **17 s.d. 20 hari kerja**, yang diancam **pemotongan tunjangan kinerja 25% selama 12 bulan**.",
+        "alasan_kunci": "Opsi C tepat karena angka 18 hari mangkir kerja masuk dalam klausul sanksi sedang terberat, yaitu pemotongan tukin 25% selama 12 bulan kalender. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Durasi 9 bulan diperuntukkan bagi mangkir kerja 14-16 hari.",
+          "B": "Durasi 6 bulan diperuntukkan bagi mangkir kerja 11-13 hari.",
+          "D": "Penurunan jabatan baru dijatuhkan apabila ketidakhadiran mencapai 21-24 hari kerja.",
+          "E": "Teguran lisan hanya untuk mangkir kerja 3 hari."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "masuk kerja dan menaati ketentuan jam kerja berupa:",
+        "Pemotongan tunjangan kinerja sebesar 25%"
+      ],
+      "topik_materi": "Analisis Pola Durasi Hukuman Sedang Jam Kerja",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Analisis yang tepat mengenai pola hukuman disiplin sedang atas pelanggaran jam kerja menurut PP 94/2021 adalah...",
+      "pilihan": {
+        "A": "Gaji pokok dipotong bertahap sebesar seperempat setiap tiga bulan",
+        "B": "Persentase potongan tukin naik berjenjang dari 25%, 50%, hingga 75%",
+        "C": "Durasi potongan tukin tetap 6 bulan, namun persentase potongan naik",
+        "D": "Persentase potongan tukin tetap 25%, durasi berjenjang 6, 9, 12 bulan",
+        "E": "Hukuman sedang jam kerja mengharuskan kerja lembur tanpa bayaran"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Hukuman disiplin sedang jam kerja menerapkan **persentase tunggal pemotongan tunjangan kinerja sebesar 25% dengan durasi bertingkat: 6 bulan, 9 bulan, atau 12 bulan**.",
+        "alasan_kunci": "Opsi D tepat karena dalam konstruksi PP 94/2021, pembobotan tingkat keparahan pelanggaran sedang tidak membedakan persentase (selalu 25%), melainkan membedakan lama masa hukumannya (6 bulan untuk 11-13 hari, 9 bulan untuk 14-16 hari, dan 12 bulan untuk 17-20 hari). Oleh karena itu, opsi A adalah analisis yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Gaji pokok tidak dipotong dalam kategori sanksi hukuman disiplin sedang.",
+          "B": "Persentase potongan tidak pernah 50% atau 75% dalam ketentuan sanksi PP 94/2021.",
+          "C": "Durasinya yang berjenjang (6, 9, 12 bulan), bukan persentasenya.",
+          "E": "Sanksi kerja lembur paksa tidak dikenal dalam sistem disiplin aparatur sipil negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "melakukan pungutan di luar ketentuan",
+        "apabila pelanggaran\nberdampak negatif pada Unit Kerja dan/atau instansi"
+      ],
+      "topik_materi": "Larangan Pungutan Liar (Pungli)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang melakukan pungutan di luar ketentuan (pungli) berdampak negatif pada unit kerja/instansi dijatuhi...",
+      "pilihan": {
+        "A": "Peringatan ringan tanpa berkas",
+        "B": "Teguran lisan santai",
+        "C": "Hukuman disiplin sedang",
+        "D": "Pemberian dispensasi tugas",
+        "E": "Kenaikan peringkat jabatan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pelanggaran terhadap larangan **melakukan pungutan di luar ketentuan, apabila berdampak negatif pada Unit Kerja dan/atau instansi yang bersangkutan dijatuhi hukuman disiplin sedang**.",
+        "alasan_kunci": "Opsi C tepat karena pungutan liar merupakan pelanggaran integritas serius yang merusak kepercayaan masyarakat terhadap birokrasi, sehingga dijatuhi sanksi disiplin sedang berupa pemotongan tunjangan kinerja. Dengan demikian, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Pungli tidak boleh diselesaikan dengan peringatan ringan tanpa pencatatan.",
+          "B": "Teguran santai bukan tindakan formal penegakan hukum integritas.",
+          "D": "Pelaku pungli dilarang diberi dispensasi kedinasan.",
+          "E": "Sangat keliru karena pelaku pungli harus dihukum dan dibatalkan promosinya."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "peserta kampanye dengan menggunakan atribut\npartai atau atribut PNS",
+        "memberikan dukungan kepada calon"
+      ],
+      "topik_materi": "Larangan Netralitas Kampanye Pemilu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang menjadi peserta kampanye pemilu dengan mengenakan atribut partai politik atau atribut PNS dijatuhi...",
+      "pilihan": {
+        "A": "Pujian atas partisipasi",
+        "B": "Hukuman disiplin ringan",
+        "C": "Teguran lisan atasan",
+        "D": "Hukuman disiplin sedang",
+        "E": "Pemberian dana operasional"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Memberikan dukungan kepada calon Presiden/Kepala Daerah/DPR dengan cara **menjadi peserta kampanye dengan menggunakan atribut partai atau atribut PNS dijatuhi hukuman disiplin sedang**.",
+        "alasan_kunci": "Opsi D tepat karena penggunaan atribut dinas atau partai dalam kampanye secara terang-terangan melanggar asas netralitas aparatur sipil negara, yang diancam dengan hukuman disiplin tingkat sedang. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Aparatur sipil negara dilarang menunjukkan keberpihakan politik terbuka.",
+          "B": "Pelanggaran netralitas politik kampanye tidak digolongkan sebagai sanksi ringan.",
+          "C": "Teguran lisan tidak memadai untuk penindakan pelanggaran netralitas pemilu.",
+          "E": "Penggunaan anggaran negara untuk kampanye parpol adalah tindak pidana korupsi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "setia dan taat sepenuhnya kepada Pancasila, UUD Negara",
+        "Hukuman disiplin berat"
+      ],
+      "topik_materi": "Kewajiban Setia kepada Pancasila & UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelanggaran kewajiban setia dan taat sepenuhnya kepada Pancasila dan UUD 1945 diancam dengan jenis...",
+      "pilihan": {
+        "A": "Pernyataan tidak puas tertulis",
+        "B": "Hukuman disiplin sedang",
+        "C": "Hukuman disiplin ringan",
+        "D": "Teguran tertulis dinas",
+        "E": "Hukuman disiplin berat"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Hukuman disiplin berat dijatuhkan bagi pelanggaran terhadap kewajiban **setia dan taat sepenuhnya kepada Pancasila, UUD 1945, NKRI, dan Pemerintah**.",
+        "alasan_kunci": "Opsi E tepat karena kesetiaan kepada ideologi negara dan konstitusi adalah prasyarat mutlak eksistensi aparatur negara. Pengkhianatan atau pembangkangan terhadap pilar negara langsung dijatuhi hukuman disiplin tingkat berat. Jadi, pilihan E benar.",
+        "bedah_pengecoh": {
+          "A": "Pernyataan tidak puas tertulis merupakan bagian dari hukuman ringan.",
+          "B": "Bukan hukuman sedang karena menyangkut kedaulatan dan keselamatan ideologi negara.",
+          "C": "Sangat keliru bila pelanggaran ideologi Pancasila hanya dihukum ringan.",
+          "D": "Teguran tertulis merupakan bagian dari hukuman ringan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "melakukan tindakan atau tidak melakukan tindakan yang dapat\nmengakibatkan\nkerugian\nbagi\nyang\ndilayani",
+        "apabila pelanggaran berdampak negatif pada instansi"
+      ],
+      "topik_materi": "Larangan Merugikan Pihak yang Dilayani",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tindakan yang merugikan pihak yang dilayani dan berdampak negatif pada instansi diancam hukuman...",
+      "pilihan": {
+        "A": "Disiplin sedang",
+        "B": "Disiplin ringan",
+        "C": "Bebas tindakan",
+        "D": "Kompensasi cuti",
+        "E": "Kenaikan tunjangan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Melakukan tindakan atau tidak melakukan tindakan yang **dapat mengakibatkan kerugian bagi yang dilayani apabila berdampak negatif pada instansi dijatuhi hukuman disiplin sedang**.",
+        "alasan_kunci": "Opsi A tepat karena kelalaian dalam memberikan pelayanan prima yang menimbulkan kerugian pemangku kepentingan dan merusak reputasi instansi dikenakan sanksi disiplin sedang. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Bukan hukuman ringan karena dampaknya sudah merugikan pihak eksternal dan instansi.",
+          "C": "Setiap perbuatan merugikan pengguna layanan wajib diproses secara disiplin.",
+          "D": "Cuti bukan instrumen penyelesaian pelanggaran pelayanan publik.",
+          "E": "Tunjangan tidak dinaikkan bagi pegawai yang merugikan pengguna layanan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "melakukan pungutan di luar ketentuan",
+        "Unit Kerja dan/atau instansi"
+      ],
+      "topik_materi": "Implementasi Larangan Menarik Uang Pelayanan (Pungli)",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Petugas loket meminta biaya percepatan dokumen Rp100.000 kepada wajib pajak tanpa tanda terima sah. Pegawai tersebut dijatuhi...",
+      "pilihan": {
+        "A": "Pemberian bonus kinerja atas inisiatif penerimaan bukan pajak",
+        "B": "Hukuman disiplin atas pelanggaran larangan pungutan di luar ketentuan",
+        "C": "Penghargaan karya satya pengabdian masyarakat daerah",
+        "D": "Pemberian dispensasi bebas jam kerja selama dua semester",
+        "E": "Pengangkatan menjadi widyaiswara luar biasa kementerian"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Menarik uang tanpa dasar hukum sah di luar tarif resmi merupakan pelanggaran atas **larangan melakukan pungutan di luar ketentuan** yang diancam hukuman disiplin.",
+        "alasan_kunci": "Opsi B tepat karena penarikan biaya percepatan tidak resmi adalah wujud nyata pungutan liar (pungli) yang dilarang keras dan wajib dijatuhi hukuman disiplin kepegawaian. Dengan demikian, opsi A tepat.",
+        "bedah_pengecoh": {
+          "A": "Pungutan ilegal bukan PNBP sah dan tidak berhak mendapatkan bonus.",
+          "C": "Penghargaan hanya diberikan atas jasa pengabdian berintegritas.",
+          "D": "Pelaku pungli tidak diberi dispensasi bebas kerja melainkan pemeriksaan BAP.",
+          "E": "Widyaiswara mensyaratkan keteladanan moral dan sertifikasi kompetensi mengajar."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "menjadi peserta kampanye dengan menggunakan atribut\npartai",
+        "memberikan dukungan"
+      ],
+      "topik_materi": "Penerapan Netralitas Pemilu Berseragam Dinas",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang staf kantor bea cukai menghadiri kampanye terbuka pemilihan bupati mengenakan seragam dinas kementerian. Sanksinya adalah...",
+      "pilihan": {
+        "A": "Pemberian izin cuti tahunan otomatis selama satu bulan",
+        "B": "Pemberian uang transport dari panitia pengawas pemilihan",
+        "C": "Teguran lisan non formal tanpa pencatatan kepegawaian",
+        "D": "Hukuman disiplin sedang karena melanggar netralitas kampanye",
+        "E": "Pemindahan tugas langsung ke kantor perwakilan pusat"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Menghadiri kampanye pemilihan dengan **menggunakan atribut partai atau atribut PNS dijatuhi hukuman disiplin sedang**.",
+        "alasan_kunci": "Opsi D tepat karena pemakaian seragam dinas dalam ajang politik praktis melanggar larangan kampanye secara nyata, sehingga pegawai bersangkutan wajib dijatuhi hukuman disiplin tingkat sedang (pemotongan tukin 25%). Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pelanggaran pemilu tidak dapat disamarkan melalui cuti tahunan.",
+          "B": "PNS dilarang menerima dana kampanye atau imbalan politik praktis.",
+          "C": "Pelanggaran netralitas berseragam dinas wajib diproses formal dengan BAP.",
+          "E": "Pemindahan tugas bukan sanksi primer atas pelanggaran netralitas pemilu."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "melakukan\nkegiatan\nyang\nmerugikan\nnegara,\napabila\npelanggaran\nberdampak\nnegatif\npada\ninstansi"
+      ],
+      "topik_materi": "Penerapan Larangan Kegiatan Merugikan Negara",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pejabat pengadaan membocorkan harga perkiraan sendiri (HPS) kepada rekanan tender hingga merugikan nama instansi. Pegawai dijatuhi...",
+      "pilihan": {
+        "A": "Pembebasan audit BPK",
+        "B": "Teguran lisan ringan",
+        "C": "Peringatan santai",
+        "D": "Pemberian piagam jasa",
+        "E": "Hukuman disiplin sedang"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Melakukan kegiatan yang **merugikan negara, apabila pelanggaran berdampak negatif pada instansi yang bersangkutan dijatuhi hukuman disiplin sedang**.",
+        "alasan_kunci": "Opsi E tepat karena pembocoran dokumen rahasia lelang yang merugikan proses pengadaan dan citra instansi memenuhi unsur perbuatan merugikan negara berdampak instansi, yang diancam hukuman sedang. Jadi, pilihan E benar.",
+        "bedah_pengecoh": {
+          "A": "Audit BPK tetap berjalan mutlak tanpa pengecualian.",
+          "B": "Teguran lisan tidak sebanding dengan pembocoran dokumen rahasia tender.",
+          "C": "Bukan penegakan hukum disiplin aparatur sipil negara.",
+          "D": "Piagam penghargaan dilarang diberikan kepada pembocor dokumen lelang."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "Hukuman disiplin sedang dijatuhkan bagi pelanggaran terhadap\nlarangan:",
+        "melakukan pungutan di luar ketentuan"
+      ],
+      "topik_materi": "Pembedaan Sanksi Pungli dan Jam Kerja Ringan",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbedaan derajat hukuman antara pelanggaran pungli berdampak instansi dengan pelanggaran mangkir 3 hari terletak pada...",
+      "pilihan": {
+        "A": "Pungli dijatuhi hukuman sedang, mangkir 3 hari dijatuhi hukuman ringan",
+        "B": "Pungli dijatuhi hukuman ringan, mangkir 3 hari dijatuhi hukuman berat",
+        "C": "Keduanya sama-sama dijatuhi sanksi teguran lisan atasan",
+        "D": "Pungli dibebaskan sanksi, mangkir 3 hari diberhentikan hormat",
+        "E": "Keduanya langsung diberhentikan tidak dengan hormat sebagai PNS"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pungli berdampak instansi dijatuhi **hukuman sedang (pemotongan tukin)**, sedangkan mangkir 3 hari dijatuhi **hukuman ringan (teguran lisan)**.",
+        "alasan_kunci": "Opsi A tepat karena pungli menyangkut integritas keuangan dan reputasi instansi sehingga masuk ranah hukuman sedang, sedangkan mangkir kerja 3 hari merupakan pelanggaran jam kerja tingkat awal yang diancam sanksi ringan. Oleh karena itu, opsi A adalah analisis yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Terbalik, pungli berdampak instansi adalah hukuman sedang, bukan ringan.",
+          "C": "Pungli berdampak instansi tidak boleh dijatuhi sanksi teguran lisan.",
+          "D": "Pungli tidak pernah dibebaskan dari penjatuhan sanksi kedinasan.",
+          "E": "Mangkir 3 hari tidak diancam hukuman pemberhentian tidak hormat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "peserta kampanye dengan menggunakan atribut\npartai atau atribut PNS",
+        "calon Presiden/Wakil Presiden"
+      ],
+      "topik_materi": "Analisis Pelanggaran Netralitas Pemilu",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Unsur esensial yang menyebabkan seorang PNS dijatuhi hukuman disiplin sedang dalam kegiatan kampanye pemilu adalah...",
+      "pilihan": {
+        "A": "Menggunakan hak pilih rahasia di dalam bilik suara pemilu",
+        "B": "Menjadi peserta kampanye dengan memakai atribut partai atau PNS",
+        "C": "Menonton siaran debat calon presiden melalui televisi di rumah",
+        "D": "Membaca berita visi misi pasangan calon melalui media massa",
+        "E": "Mendaftarkan diri dalam daftar pemilih tetap di tempat tinggal"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pelanggaran netralitas kampanye terjadi apabila PNS **memberikan dukungan dengan cara menjadi peserta kampanye dengan menggunakan atribut partai atau atribut PNS**.",
+        "alasan_kunci": "Opsi B tepat karena penggunaan atribut simbolik dinas atau parpol dalam kampanye terbuka menunjukkan afiliasi partisan publik yang merusak netralitas birokrasi. Menggunakan hak pilih secara rahasia justru dilindungi konstitusi. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Menggunakan hak suara di TPS adalah hak konstitusional sah setiap WNI.",
+          "C": "Menonton debat di rumah adalah hak informasi warga negara yang sah.",
+          "D": "Mempelajari visi misi kandidat bukan pelanggaran netralitas pemilu.",
+          "E": "Terdaftar dalam DPT merupakan hak elektoral sah warga negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "Hukuman disiplin berat",
+        "setia dan taat sepenuhnya"
+      ],
+      "topik_materi": "Analisis Hierarki Sanksi terhadap Kesetiaan Ideologi",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Alasan yuridis mengapa pelanggaran kesetiaan terhadap Pancasila dan NKRI langsung diancam hukuman disiplin berat adalah...",
+      "pilihan": {
+        "A": "Untuk mempercepat proses alih status menjadi pegawai pemerintah PPPK",
+        "B": "Pelanggaran tersebut hanya berdampak pada pembagian jam kerja seksi",
+        "C": "Pancasila dan NKRI merupakan konsensus dasar eksistensi negara",
+        "D": "Karena sanksi hukuman ringan dan sedang sudah ditiadakan di Kemenkeu",
+        "E": "Agar pejabat yang melanggar dapat segera dipromosikan ke daerah lain"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kesetiaan pada **Pancasila, UUD 1945, NKRI, dan Pemerintah** merupakan fondasi eksistensi ASN selaku perekat dan pemersatu bangsa.",
+        "alasan_kunci": "Opsi C tepat karena aparatur negara adalah pilar penjaga kedaulatan bangsa. Setiap bentuk ketidaksetiaan atau makar terhadap konsensus dasar negara mengancam kelangsungan republik, sehingga secara mutlak dijatuhi hukuman berat hingga pemecatan. Maka, opsi A adalah analisis yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Pelaku pembangkangan ideologi dipecat, bukan dialihkan menjadi PPPK.",
+          "B": "Dampak ketidaksetiaan ideologi berskala nasional, bukan sekadar jam kerja.",
+          "D": "Sanksi ringan dan sedang tetap berlaku penuh untuk pelanggaran relevan lainnya.",
+          "E": "Sangat keliru karena pelanggaran kesetiaan negara dilarang dipromosikan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "apabila pelanggaran berdampak negatif pada negara",
+        "Hukuman disiplin berat dijatuhkan"
+      ],
+      "topik_materi": "Parameter Dampak Pelanggaran Disiplin Berat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelanggaran kewajiban kedinasan dijatuhi hukuman disiplin tingkat berat apabila pelanggaran menimbulkan dampak negatif pada...",
+      "pilihan": {
+        "A": "Satu rekan kerja satu ruangan",
+        "B": "Negara dan/atau pemerintah",
+        "C": "Pengurus kantin kantor pelayanan",
+        "D": "Petugas kebersihan taman kantor",
+        "E": "Toko penyedia perlengkapan alat tulis"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pelanggaran terhadap kewajiban kedinasan dijatuhi hukuman disiplin berat **apabila pelanggaran berdampak negatif pada negara** (dan/atau pemerintah).",
+        "alasan_kunci": "Opsi B tepat karena puncak hierarki keparahan dampak (locus of impact) dalam regulasi PP 94/2021 adalah dampak negatif terhadap negara atau pemerintah Republik Indonesia, yang mewajibkan penjatuhan hukuman disiplin tingkat berat. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Dampak antarpribadi rekan kerja diselesaikan melalui pembinaan internal.",
+          "C": "Kantin kantor bukan entitas penentu skala dampak yuridis negara.",
+          "D": "Petugas kebersihan bukan tolak ukur dampak hukum ketatanegaraan.",
+          "E": "Hubungan perdata penyedia barang tidak menentukan dampak yuridis negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "melaporkan harta kekayaan kepada pejabat yang berwenang",
+        "pejabat pimpinan tinggi dan pejabat lainnya"
+      ],
+      "topik_materi": "Kewajiban LHKPN Pejabat Pimpinan Tinggi (JPT)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pejabat pimpinan tinggi yang tidak melaporkan harta kekayaan kepada pejabat yang berwenang dijatuhi...",
+      "pilihan": {
+        "A": "Teguran lisan dari atasan",
+        "B": "Hukuman disiplin ringan",
+        "C": "Hukuman disiplin berat",
+        "D": "Pemberian dispensasi khusus",
+        "E": "Kenaikan tunjangan jabatan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "PNS yang tidak memenuhi ketentuan **melaporkan harta kekayaan kepada pejabat yang berwenang, yang dilakukan pejabat pimpinan tinggi dan pejabat lainnya dijatuhi hukuman disiplin berat**.",
+        "alasan_kunci": "Opsi C tepat karena pejabat pimpinan tinggi mengemban mandat kepemimpinan strategis dan teladan integritas, sehingga ketidakpatuhan dalam pelaporan LHKPN langsung diancam sanksi hukuman disiplin berat. Dengan demikian, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Teguran lisan hanya untuk pelanggaran ringan staf biasa.",
+          "B": "Bukan sanksi ringan karena kewajiban LHKPN JPT berkorelasi dengan akuntabilitas negara.",
+          "D": "Tidak ada dispensasi bagi pejabat publik yang menolak transparansi aset.",
+          "E": "Pelanggaran LHKPN justru menghalangi penerimaan hak tunjangan jabatan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "penurunan jabatan setingkat lebih rendah selama 12 (dua\nbelas) bulan",
+        "21 (dua puluh satu)\nsampai dengan 24 (dua puluh empat) hari kerja"
+      ],
+      "topik_materi": "Sanksi Mangkir 21-24 Hari Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hukuman penurunan jabatan setingkat lebih rendah selama 12 bulan dijatuhkan atas ketidakhadiran tanpa izin sah selama...",
+      "pilihan": {
+        "A": "17 sampai dengan 20 hari kerja dalam setahun",
+        "B": "11 sampai dengan 13 hari kerja dalam setahun",
+        "C": "14 sampai dengan 16 hari kerja dalam setahun",
+        "D": "21 sampai dengan 24 hari kerja dalam setahun",
+        "E": "28 hari kerja atau lebih dalam setahun"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Hukuman disiplin berat berupa **penurunan jabatan setingkat lebih rendah selama 12 bulan bagi PNS yang tidak masuk kerja tanpa alasan sah secara kumulatif selama 21 sampai dengan 24 hari kerja dalam 1 tahun**.",
+        "alasan_kunci": "Opsi D tepat karena interval ketidakhadiran 21 s.d. 24 hari kerja merupakan anak tangga pertama dalam rumpun hukuman disiplin berat dengan bentuk penurunan jabatan satu level selama setahun. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Absen 17-20 hari dijatuhi pemotongan tukin 25% selama 12 bulan (hukuman sedang).",
+          "B": "Absen 11-13 hari dijatuhi pemotongan tukin 25% selama 6 bulan (hukuman sedang).",
+          "C": "Absen 14-16 hari dijatuhi pemotongan tukin 25% selama 9 bulan (hukuman sedang).",
+          "E": "Absen 28 hari kerja atau lebih dijatuhi pemberhentian sebagai PNS (hukuman terberat)."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "mengutamakan kepentingan negara daripada kepentingan\npribadi",
+        "apabila pelanggaran\nberdampak negatif pada negara dan/atau pemerintah"
+      ],
+      "topik_materi": "Kewajiban Pengutamaan Kepentingan Negara Skala Nasional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tidak mengutamakan kepentingan negara yang menimbulkan dampak negatif pada negara dan/atau pemerintah diancam...",
+      "pilihan": {
+        "A": "Pemberian piagam penghargaan",
+        "B": "Hukuman disiplin ringan",
+        "C": "Teguran lisan santai",
+        "D": "Pemberian promosi jabatan",
+        "E": "Hukuman disiplin berat"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tidak mengutamakan kepentingan negara **apabila pelanggaran berdampak negatif pada negara dan/atau pemerintah dijatuhi hukuman disiplin berat**.",
+        "alasan_kunci": "Opsi E tepat karena pengutamaan kepentingan pribadi yang menimbulkan kerugian bagi negara atau pemerintah RI masuk kategori pelanggaran terberat dalam kelompok kewajiban aparatur. Oleh karenanya, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Piagam penghargaan dilarang diberikan kepada pelaku pelanggaran negara.",
+          "B": "Hukuman ringan hanya berlaku bila dampaknya sebatas pada Unit Kerja.",
+          "C": "Teguran santai tidak dikenal dalam prosedur formal hukum disiplin ASN.",
+          "D": "Pelanggaran kepentingan negara dilarang keras dipromosikan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "melaporkan dengan segera kepada atasannya",
+        "apabila pelanggaran\nberdampak negatif pada negara dan/atau pemerintah"
+      ],
+      "topik_materi": "Pembiaran Kerugian Keuangan Negara Skala Nasional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang membiarkan hal yang merugikan keuangan negara hingga berdampak negatif pada negara diancam sanksi...",
+      "pilihan": {
+        "A": "Hukuman disiplin berat",
+        "B": "Hukuman disiplin sedang",
+        "C": "Hukuman disiplin ringan",
+        "D": "Teguran lisan atasan",
+        "E": "Pemberian tugas belajar"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Tidak segera melaporkan hal yang merugikan keuangan negara **apabila berdampak negatif pada negara dan/atau pemerintah dijatuhi hukuman disiplin berat**.",
+        "alasan_kunci": "Opsi A tepat karena pembiaran yang berakibat pada kerugian keuangan negara berskala makro mengancam kestabilan fiskal dan perekonomian nasional, sehingga dijatuhi sanksi hukuman disiplin tingkat berat. Jadi, pilihan A benar.",
+        "bedah_pengecoh": {
+          "B": "Hukuman sedang berlaku jika dampak pembiaran hanya terbatas pada instansi kementerian.",
+          "C": "Hukuman ringan tidak berlaku untuk ancaman kerugian keuangan negara skala nasional.",
+          "D": "Teguran lisan tidak proporsional untuk ancaman kerugian keuangan negara.",
+          "E": "Tugas belajar bukan sanksi penegakan hukum aparatur."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "(dua puluh",
+        "21 (dua puluh satu)\nsampai dengan 24 (dua puluh empat) hari kerja",
+        "penurunan jabatan setingkat lebih rendah"
+      ],
+      "topik_materi": "Implementasi Sanksi Mangkir 22 Hari Kerja",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang kepala seksi (pejabat pengawas) tidak masuk dinas tanpa izin selama 22 hari kumulatif dalam setahun. Sanksinya adalah...",
+      "pilihan": {
+        "A": "Teguran tertulis dari pejabat pembina kepegawaian",
+        "B": "Pemotongan tunjangan kinerja sebesar 25% selama 6 bulan",
+        "C": "Penurunan jabatan setingkat lebih rendah selama 12 bulan",
+        "D": "Pemberhentian tidak dengan hormat seketika dari dinas",
+        "E": "Pemindahan tugas ke luar negeri dengan promosi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Ketidakhadiran kumulatif 22 hari kerja berada pada rentang **21 s.d. 24 hari kerja**, yang dikenai sanksi **penurunan jabatan setingkat lebih rendah selama 12 bulan**.",
+        "alasan_kunci": "Opsi C tepat karena 22 hari mangkir kerja secara presisi memenuhi kriteria sanksi disiplin berat tingkat pertama, di mana pejabat pengawas tersebut diturunkan jabatannya setingkat lebih rendah (menjadi pelaksana) selama 12 bulan. Dengan demikian, opsi A tepat.",
+        "bedah_pengecoh": {
+          "A": "Teguran tertulis untuk ketidakhadiran 4-6 hari kerja.",
+          "B": "Pemotongan tukin 6 bulan hanya untuk ketidakhadiran 11-13 hari kerja.",
+          "D": "Pemberhentian tidak hormat bukan sanksi atas ketidakhadiran 22 hari kerja.",
+          "E": "Sangat keliru karena pejabat yang melanggar disiplin berat tidak boleh dipromosikan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "pejabat pimpinan tinggi dan pejabat lainnya",
+        "melaporkan harta kekayaan"
+      ],
+      "topik_materi": "Implementasi Kewajiban LHKPN Direktur Jenderal",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang Pejabat Pimpinan Tinggi Madya menolak menyerahkan LHKPN periodik tanpa alasan sah. Sanksi yang tepat adalah...",
+      "pilihan": {
+        "A": "Pemberian tambahan fasilitas pengawalan dinas",
+        "B": "Teguran lisan biasa dari staf administrasi umum",
+        "C": "Pembebasan dari kewajiban transparansi publik",
+        "D": "Hukuman disiplin berat bagi pejabat pimpinan tinggi",
+        "E": "Pemberian penghargaan tanda kehormatan negara"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Ketidakpatuhan pelaporan LHKPN oleh **pejabat pimpinan tinggi dan pejabat lainnya dijatuhi hukuman disiplin berat**.",
+        "alasan_kunci": "Opsi D tepat karena regulasi PP 94/2021 secara tegas menetapkan bahwa ketidakpatuhan LHKPN oleh pejabat pimpinan tinggi (Eselon I dan II) langsung diganjar hukuman disiplin berat karena perannya sebagai panutan integritas. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pelanggar etika dan disiplin tidak diberi tambahan fasilitas negara.",
+          "B": "Staf administrasi tidak berwenang menegur Direktur Jenderal.",
+          "C": "Pejabat publik wajib patuh pada asas transparansi dan keterbukaan aset.",
+          "E": "Tanda kehormatan dilarang diberikan kepada pejabat yang menolak transparansi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "menyimpan rahasia jabatan",
+        "apabila pelanggaran berdampak negatif pada negara"
+      ],
+      "topik_materi": "Penerapan Pembocoran Rahasia Dampak Nasional",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang analis membeberkan dokumen rahasia rencana kebijakan nilai tukar rupiah ke publik dan mengguncang stabilitas pasar. Sanksinya...",
+      "pilihan": {
+        "A": "Pemberian izin cuti di luar tanggungan negara",
+        "B": "Hukuman disiplin ringan karena bersumber dari kelalaian",
+        "C": "Teguran lisan atasan tanpa berita acara pemeriksaan",
+        "D": "Pemberian perlindungan kekebalan hukum diplomatik",
+        "E": "Hukuman disiplin berat karena berdampak pada negara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pelanggaran kewajiban menyimpan rahasia jabatan **apabila berdampak negatif pada negara dijatuhi hukuman disiplin berat**.",
+        "alasan_kunci": "Opsi E tepat karena pembocoran rahasia kebijakan yang menimbulkan keguncangan pasar keuangan berdampak langsung pada stabilitas negara, sehingga memenuhi syarat mutlak penjatuhan sanksi disiplin tingkat berat. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Cuti tidak dapat dijadikan pelarian dari penegakan hukum disiplin.",
+          "B": "Bukan hukuman ringan karena dampaknya merusak perekonomian negara.",
+          "C": "Kasus kebocoran rahasia negara wajib melalui pemeriksaan BAP resmi.",
+          "D": "PNS kementerian tidak memiliki kekebalan hukum pidana atau disiplin."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "melaporkan harta kekayaan kepada pejabat yang berwenang",
+        "pejabat pimpinan tinggi dan pejabat lainnya"
+      ],
+      "topik_materi": "Analisis Perbedaan Sanksi LHKPN JPT vs Administrator",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbedaan tingkat sanksi ketidakpatuhan LHKPN antara Pejabat Pimpinan Tinggi (JPT) dengan Pejabat Administrator terletak pada...",
+      "pilihan": {
+        "A": "JPT dijatuhi hukuman berat, sedangkan administrator dijatuhi hukuman sedang",
+        "B": "JPT dijatuhi hukuman ringan, sedangkan administrator dijatuhi hukuman berat",
+        "C": "JPT dibebaskan dari sanksi, sedangkan administrator dijatuhi hukuman lisan",
+        "D": "Keduanya sama-sama dijatuhi hukuman pemotongan tunjangan kinerja 6 bulan",
+        "E": "Keduanya langsung diberhentikan tidak dengan hormat sebagai pegawai negeri"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Ketidakpatuhan LHKPN oleh **pejabat administrator dan fungsional dijatuhi hukuman sedang**, sedangkan oleh **pejabat pimpinan tinggi (JPT) dijatuhi hukuman berat**.",
+        "alasan_kunci": "Opsi A tepat karena regulasi menuntut tanggung jawab moral kepemimpinan yang lebih tinggi pada level pimpinan tinggi (JPT) sehingga pelanggarannya langsung diklasifikasikan sebagai hukuman berat, berbeda dengan level administrator yang berada pada taraf hukuman sedang. Maka, opsi A adalah analisis yang benar.",
+        "bedah_pengecoh": {
+          "B": "Sangat keliru karena level JPT memikul tanggung jawab lebih berat dari administrator.",
+          "C": "Tidak ada pembebasan sanksi bagi pejabat pimpinan tinggi.",
+          "D": "Tingkat hukumannya berbeda (berat vs sedang), tidak identik pemotongan 6 bulan.",
+          "E": "Pemberhentian tidak hormat bukan sanksi otomatis pertama ketidakpatuhan LHKPN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "21 (dua puluh satu)\nsampai dengan 24 (dua puluh empat) hari kerja",
+        "masuk kerja dan menaati ketentuan jam kerja"
+      ],
+      "topik_materi": "Analisis Transisi Sanksi Jam Kerja Sedang ke Berat",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Transisi ambang batas ketidakhadiran kumulatif dari hukuman disiplin sedang ke hukuman disiplin berat terjadi saat...",
+      "pilihan": {
+        "A": "Ketidakhadiran mencapai 11 hari kerja dalam satu semester",
+        "B": "Ketidakhadiran melewati 20 hari dan mencapai 21 hari kerja",
+        "C": "Pegawai terlambat hadir kerja sebanyak tiga kali dalam sebulan",
+        "D": "Pegawai tidak hadir selama 5 hari berturut-turut pada awal tahun",
+        "E": "Ketidakhadiran mencapai 14 hari kerja pada kantor vertikal"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Batas tertinggi hukuman sedang adalah 20 hari kerja (pemotongan tukin 12 bulan). Begitu masuk **21 sampai dengan 24 hari kerja**, sanksi beralih ke **hukuman disiplin berat (penurunan jabatan 12 bulan)**.",
+        "alasan_kunci": "Opsi B tepat karena hari ke-21 merupakan titik pemisah yuridis: hari ke-17 s.d. 20 dijatuhi sanksi sedang, sedangkan mulai hari ke-21 sampai 24 secara resmi masuk ke dalam rezim hukuman disiplin berat. Dengan demikian, opsi A adalah analisis transisi yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Sebelas hari merupakan awal masuk sanksi sedang, bukan transisi ke sanksi berat.",
+          "C": "Keterlambatan jam masuk dihitung konversi jam kerja, bukan otomatis sanksi berat.",
+          "D": "Lima hari berturut-turut masih dalam kategori hukuman disiplin ringan.",
+          "E": "Empat belas hari kerja masih berada di pertengahan kategori hukuman sedang (tukin 9 bulan)."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "pembebasan dari jabatannya menjadi jabatan pelaksana",
+        "25\n(dua puluh lima) sampai dengan 27 (dua puluh tujuh) hari\nkerja"
+      ],
+      "topik_materi": "Sanksi Mangkir 25-27 Hari Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hukuman pembebasan dari jabatannya menjadi jabatan pelaksana selama 12 bulan dijatuhkan bagi PNS yang mangkir selama...",
+      "pilihan": {
+        "A": "25 sampai dengan 27 hari kerja dalam setahun",
+        "B": "11 sampai dengan 13 hari kerja dalam setahun",
+        "C": "14 sampai dengan 16 hari kerja dalam setahun",
+        "D": "17 sampai dengan 20 hari kerja dalam setahun",
+        "E": "21 sampai dengan 24 hari kerja dalam setahun"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Hukuman pembebasan jabatan menjadi jabatan pelaksana selama 12 bulan dijatuhkan bagi PNS yang **tidak masuk kerja tanpa alasan sah secara kumulatif selama 25 sampai dengan 27 hari kerja dalam 1 tahun**.",
+        "alasan_kunci": "Opsi A tepat karena interval ketidakhadiran 25 s.d. 27 hari kerja merupakan tingkat kedua hukuman disiplin berat, di mana pejabat yang bersangkutan dicopot dari posisinya dan dijadikan pelaksana selama satu tahun. Maka, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "B": "Absen 11-13 hari dijatuhi pemotongan tukin 25% selama 6 bulan.",
+          "C": "Absen 14-16 hari dijatuhi pemotongan tukin 25% selama 9 bulan.",
+          "D": "Absen 17-20 hari dijatuhi pemotongan tukin 25% selama 12 bulan.",
+          "E": "Absen 21-24 hari dijatuhi penurunan jabatan setingkat lebih rendah 12 bulan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "pemberhentian dengan hormat tidak atas permintaan sendiri\nsebagai PNS",
+        "28 (dua puluh delapan)\nhari kerja atau lebih dalam 1 (satu) tahun"
+      ],
+      "topik_materi": "Sanksi Mangkir 28 Hari Kerja Kumulatif",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang tidak masuk kerja tanpa alasan sah secara kumulatif selama 28 hari kerja atau lebih dalam setahun dijatuhi...",
+      "pilihan": {
+        "A": "Teguran lisan dari pejabat fungsional pembina",
+        "B": "Pemberhentian dengan hormat tidak atas permintaan sendiri",
+        "C": "Pemotongan tunjangan kinerja sebesar 10 persen",
+        "D": "Pemberian tugas belajar selama satu semester dinas",
+        "E": "Penurunan kelas jabatan sementara selama tiga bulan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "PNS yang tidak masuk kerja tanpa alasan sah secara kumulatif selama **28 hari kerja atau lebih dalam 1 tahun dijatuhi pemberhentian dengan hormat tidak atas permintaan sendiri sebagai PNS**.",
+        "alasan_kunci": "Opsi B tepat karena akumulasi mangkir mencapai 28 hari kerja atau lebih mencerminkan pengabaian total kewajiban dinas, sehingga diancam sanksi terberat yaitu pemberhentian dari korps PNS. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Teguran lisan hanya untuk ketidakhadiran awal 3 hari kerja.",
+          "C": "Pemotongan tukin 10% tidak ada dalam klasifikasi sanksi PP 94/2021.",
+          "D": "Tugas belajar bukan hukuman atas pelanggaran ketidakhadiran masif.",
+          "E": "Penurunan jabatan durasinya 12 bulan, bukan 3 bulan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "secara terus menerus selama 10 (sepuluh) hari\nkerja",
+        "pemberhentian dengan hormat tidak atas permintaan sendiri"
+      ],
+      "topik_materi": "Sanksi Mangkir 10 Hari Kerja Terus Menerus",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang tidak masuk kerja tanpa alasan yang sah secara terus menerus selama 10 hari kerja dijatuhi...",
+      "pilihan": {
+        "A": "Pernyataan tidak puas secara tertulis oleh atasan",
+        "B": "Pemotongan tunjangan kinerja selama 6 bulan kalender",
+        "C": "Pemberhentian dengan hormat tidak atas permintaan sendiri",
+        "D": "Teguran lisan yang dicatat pada buku harian",
+        "E": "Pemberian dispensasi waktu kerja selama satu pekan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Hukuman **pemberhentian dengan hormat tidak atas permintaan sendiri sebagai PNS** dijatuhkan bagi PNS yang tidak masuk kerja tanpa alasan yang sah **secara terus menerus selama 10 (sepuluh) hari kerja**.",
+        "alasan_kunci": "Opsi C tepat karena absen berturut-turut tanpa kabar selama 10 hari kerja merupakan bentuk disersi/mangkir kontinu yang berakibat langsung pada sanksi pemecatan (pemberhentian dengan hormat tidak atas permintaan sendiri). Dengan demikian, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Pernyataan tidak puas untuk absen kumulatif 7-10 hari yang terputus-putus.",
+          "B": "Pemotongan tukin 6 bulan untuk absen kumulatif 11-13 hari, bukan kontinu 10 hari.",
+          "D": "Teguran lisan hanya untuk ketidakhadiran 3 hari kerja.",
+          "E": "Dispensasi tidak dapat diberikan bagi pegawai yang mangkir terus-menerus."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "menolak segala bentuk pemberian yang berkaitan dengan\ntugas dan fungsi",
+        "ketentuan\nperaturan perundang-undangan"
+      ],
+      "topik_materi": "Kewajiban Menolak Gratifikasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban PNS terkait integritas penerimaan hadiah menurut PP 94/2021 adalah...",
+      "pilihan": {
+        "A": "Menyimpan uang tanda terima kasih dalam kas operasional kantor",
+        "B": "Menerima seluruh pemberian pihak ketiga selama tidak meminta",
+        "C": "Membagikan uang pemberian rekanan secara merata kepada staf",
+        "D": "Menolak segala bentuk pemberian terkait tugas kecuali penghasilan sah",
+        "E": "Mewajibkan pengguna layanan memberikan bingkisan hari raya"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS wajib **menolak segala bentuk pemberian yang berkaitan dengan tugas dan fungsi kecuali penghasilan sesuai dengan ketentuan peraturan perundang-undangan**.",
+        "alasan_kunci": "Opsi D tepat karena prinsip antikorupsi mewajibkan aparatur menolak gratifikasi dalam bentuk apa pun yang berkaitan dengan jabatan dan kewenangannya. Penghasilan yang sah hanyalah gaji dan tunjangan kedinasan resmi. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Menampung dana ilegal dalam kas non-budgeter melanggar UU Keuangan Negara.",
+          "B": "Menerima gratifikasi pasif tetap dilarang dan wajib dilaporkan ke UPG/KPK.",
+          "C": "Membagi-bagikan uang suap tetap merupakan tindak pidana korupsi berjamaah.",
+          "E": "Meminta bingkisan merupakan pemerasan jabatan yang diancam pidana."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "Pemanggilan kepada PNS yang diduga melakukan pelanggaran",
+        "paling lambat 7 (tujuh) hari kerja sebelum tanggal\npemeriksaan"
+      ],
+      "topik_materi": "Tenggat Waktu Pemanggilan Pemeriksaan Disiplin",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Surat pemanggilan pemeriksaan kepada PNS yang diduga melanggar disiplin disampaikan paling lambat...",
+      "pilihan": {
+        "A": "3 (tiga) hari kerja sejak laporan pengaduan",
+        "B": "1 (satu) hari kalender sebelum pemeriksaan",
+        "C": "14 (empat belas) hari kerja setelah pemeriksaan",
+        "D": "30 (tiga puluh) hari kalender sebelum sidang",
+        "E": "7 (tujuh) hari kerja sebelum tanggal pemeriksaan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pemanggilan kepada PNS yang diduga melakukan pelanggaran disiplin dilakukan **paling lambat 7 (tujuh) hari kerja sebelum tanggal pemeriksaan**.",
+        "alasan_kunci": "Opsi E tepat karena batas waktu minimal 7 hari kerja memberikan kesempatan wajar bagi terperiksa untuk menyiapkan bahan pembelaan dan bukti pendukung sebelum menjalani pemeriksaan resmi. Oleh sebab itu, opsi A adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Bukan tenggat pemanggilan resmi menurut tata cara PP 94/2021.",
+          "B": "Satu hari terlalu mendadak dan melanggar hak pembelaan yang adil bagi aparatur.",
+          "C": "Pemanggilan dilakukan sebelum pemeriksaan, bukan setelah pemeriksaan.",
+          "D": "Tiga puluh hari terlalu lama dan memperlambat kepastian penegakan disiplin."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "pemanggilan kedua paling\nlambat 7 (tujuh) hari kerja",
+        "tidak hadir"
+      ],
+      "topik_materi": "Prosedur Pemanggilan Kedua Pemeriksaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Apabila pada tanggal pemeriksaan pertama PNS tidak hadir, pemanggilan kedua dilakukan paling lambat...",
+      "pilihan": {
+        "A": "14 (empat belas) hari kalender setelah tahun dinas berakhir",
+        "B": "7 (tujuh) hari kerja sejak tanggal seharusnya diperiksa",
+        "C": "3 (tiga) hari kerja sebelum pergantian pimpinan satker",
+        "D": "21 (dua puluh satu) hari kerja sejak surat pertama",
+        "E": "30 (tiga puluh) hari kalender sejak laporan inspektorat"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Apabila PNS tidak hadir pada pemeriksaan pertama, **maka dilakukan pemanggilan kedua paling lambat 7 (tujuh) hari kerja sejak tanggal seharusnya yang bersangkutan diperiksa**.",
+        "alasan_kunci": "Opsi B tepat karena tenggat 7 hari kerja sejak mangkirnya pemeriksaan pertama menjadi batas waktu wajib bagi atasan langsung untuk menerbitkan surat panggilan kedua. Dengan demikian, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Tidak menunggu akhir tahun anggaran karena pemeriksaan harus segera tuntas.",
+          "C": "Proses hukum disiplin tidak bergantung pada agenda pergantian pimpinan.",
+          "D": "Dua puluh satu hari melanggar prinsip percepatan penyelesaian sengketa disiplin.",
+          "E": "Tiga puluh hari bukan ketentuan tenggat pemanggilan kedua PP 94/2021."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "(dua puluh",
+        "25\n(dua puluh lima) sampai dengan 27 (dua puluh tujuh) hari\nkerja",
+        "pembebasan dari jabatannya menjadi jabatan pelaksana"
+      ],
+      "topik_materi": "Implementasi Sanksi Mangkir 26 Hari Kerja",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Kepala subbagian tata usaha tidak hadir tanpa keterangan sah selama 26 hari kumulatif dalam setahun. Sanksinya adalah...",
+      "pilihan": {
+        "A": "Pemotongan tunjangan kinerja sebesar 25% selama satu semester",
+        "B": "Penurunan jabatan setingkat lebih rendah selama 6 bulan kalender",
+        "C": "Pembebasan dari jabatannya menjadi jabatan pelaksana selama 12 bulan",
+        "D": "Teguran lisan dari atasan langsung di hadapan seluruh pegawai",
+        "E": "Pemberhentian sementara status kepegawaian selama masa dinas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Ketidakhadiran 26 hari kerja berada dalam interval **25 s.d. 27 hari kerja**, yang diancam hukuman **pembebasan dari jabatannya menjadi jabatan pelaksana selama 12 bulan**.",
+        "alasan_kunci": "Opsi C tepat karena angka 26 hari secara tepat berada di tengah interval 25-27 hari kerja, yang mewajibkan pencopotan pejabat tersebut menjadi pelaksana (staf biasa) selama 12 bulan. Maka, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pemotongan tukin 6 bulan untuk ketidakhadiran 11-13 hari kerja.",
+          "B": "Penurunan jabatan durasinya 12 bulan untuk mangkir 21-24 hari kerja.",
+          "D": "Teguran lisan hanya untuk ketidakhadiran awal 3 hari kerja.",
+          "E": "Pemberhentian sementara bukan sanksi administratif atas mangkir kerja 26 hari."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "secara terus menerus selama 10 (sepuluh) hari\nkerja",
+        "pemberhentian dengan hormat"
+      ],
+      "topik_materi": "Implementasi Mangkir 10 Hari Berturut-turut",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang staf menghilang dan tidak masuk kerja tanpa kabar sama sekali selama 10 hari kerja berturut-turut. Pejabat berwenang wajib...",
+      "pilihan": {
+        "A": "Menaikkan pangkat satu tingkat lebih tinggi karena masa kerja",
+        "B": "Memberikan perpanjangan cuti tahunan secara otomatis tanpa batas",
+        "C": "Menjatuhkan teguran tertulis ringan tanpa proses pemanggilan",
+        "D": "Menjatuhkan pemberhentian dengan hormat tidak atas permintaan sendiri",
+        "E": "Memindahkan pegawai ke perwakilan kementerian di luar negeri"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Mangkir tanpa alasan sah **secara terus menerus selama 10 hari kerja** dijatuhi **pemberhentian dengan hormat tidak atas permintaan sendiri sebagai PNS**.",
+        "alasan_kunci": "Opsi D tepat karena meninggalkan tugas 10 hari berturut-turut merupakan pelanggaran berat yang secara tegas diatur dengan sanksi pemberhentian sebagai pegawai negeri sipil. Jadi, pilihan D adalah tindakan hukum yang benar.",
+        "bedah_pengecoh": {
+          "A": "Sangat keliru karena pelaku mangkir kerja berat dilarang dipromosikan.",
+          "B": "Cuti tahunan wajib diajukan dan disetujui sebelumnya, bukan alasan pembenaran mangkir.",
+          "C": "Teguran tertulis tidak memadai dan melanggar ketentuan sanksi mangkir terus menerus.",
+          "E": "Penugasan luar negeri bukan sarana penyelesaian pegawai bermasalah."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "pemberhentian dengan hormat tidak atas permintaan sendiri",
+        "28 (dua puluh delapan)\nhari kerja atau lebih",
+        "secara terus menerus selama 10"
+      ],
+      "topik_materi": "Analisis Dua Pintu Pemecatan Jam Kerja",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Berdasarkan PP 94/2021, dua kondisi ketidakhadiran yang berujung pada sanksi pemberhentian sebagai PNS adalah...",
+      "pilihan": {
+        "A": "Izin sakit tanpa resep dokter selama 7 hari kalender",
+        "B": "Kumulatif 14 hari kerja atau berturut-turut 3 hari kerja",
+        "C": "Kumulatif 20 hari kerja atau berturut-turut 5 hari kerja",
+        "D": "Terlambat masuk kerja 10 kali atau pulang cepat 5 kali",
+        "E": "Kumulatif minimal 28 hari kerja atau kontinu 10 hari kerja"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dua klausul pemecatan jam kerja adalah: **1) kumulatif 28 hari kerja atau lebih dalam 1 tahun; atau 2) terus menerus selama 10 hari kerja**.",
+        "alasan_kunci": "Opsi E tepat karena regulasi memberikan dua tolok ukur berbeda: akumulasi tahunan (28 hari kerja kumulatif) dan ketidakhadiran berurutan (10 hari kerja terus-menerus). Kedua jalur ini berakibat sanksi pemecatan dengan hormat tidak atas permintaan sendiri. Maka, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Izin sakit adalah hak cuti sakit yang diatur dalam rezim terpisah.",
+          "B": "Empat belas hari hanya dipotong tukin 9 bulan, dan 3 hari hanya teguran lisan.",
+          "C": "Dua puluh hari dipotong tukin 12 bulan, bukan sanksi pemberhentian.",
+          "D": "Keterlambatan jam masuk tidak langsung dijatuhi hukuman pemecatan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "PNS yang diduga melakukan pelanggaran disiplin dipanggil secara\ntertulis",
+        "Tata cara penjatuhan hukuman disiplin"
+      ],
+      "topik_materi": "Analisis Asas Akuntabilitas Prosedur Pemeriksaan",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Kewajiban menyampaikan surat panggilan tertulis minimal 7 hari sebelum pemeriksaan bertujuan menegakkan asas...",
+      "pilihan": {
+        "A": "Hak pembelaan yang adil dan transparansi proses hukum (due process)",
+        "B": "Keringanan sanksi otomatis bagi setiap pegawai yang melanggar",
+        "C": "Penghapusan seluruh catatan rekam jejak pelanggaran kepegawaian",
+        "D": "Kewajiban bagi atasan untuk mencabut seluruh tuduhan pelanggaran",
+        "E": "Pemberian waktu bagi pegawai untuk melarikan diri ke luar negeri"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pemanggilan tertulis paling lambat 7 hari kerja sebelum tanggal pemeriksaan menjamin **keadilan prosedural (due process of law) dan hak membela diri bagi PNS terperiksa**.",
+        "alasan_kunci": "Opsi A tepat karena hukum disiplin modern menjunjung tinggi asas praduga tak bersalah dan hak didengar secara adil (audi et alteram partem). Masa 7 hari kerja memberi kepastian hukum dan ruang pembelaan sebelum vonis dijatuhkan. Oleh karena itu, opsi A adalah analisis yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Bukan untuk memberi keringanan otomatis melainkan prosedur keadilan.",
+          "C": "Rekam jejak tidak dihapus melalui mekanisme surat panggilan.",
+          "D": "Atasan tidak wajib mencabut tuduhan jika bukti permulaan cukup kuat.",
+          "E": "Tujuan hukum adalah penegakan keadilan, bukan memfasilitasi pelarian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "dalam bentuk berita acara pemeriksaan",
+        "hasil\npemeriksaan"
+      ],
+      "topik_materi": "Bentuk Formal Hasil Pemeriksaan Disiplin (BAP)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hasil pemeriksaan dugaan pelanggaran disiplin oleh pejabat pemeriksa wajib dituangkan dalam bentuk...",
+      "pilihan": {
+        "A": "Buku kas umum pembantu bendahara",
+        "B": "Kwitansi tanda terima belanja barang",
+        "C": "Surat perjanjian sewa menyewa gedung",
+        "D": "Berita Acara Pemeriksaan (BAP)",
+        "E": "Daftar hadir piket malam satuan pengamanan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Hasil pemeriksaan dugaan pelanggaran disiplin wajib dituangkan **dalam bentuk berita acara pemeriksaan (BAP)**.",
+        "alasan_kunci": "Opsi D tepat karena BAP merupakan dokumen otentik berkekuatan hukum yang merekam seluruh tanya jawab, pengakuan, dalil pembelaan, dan alat bukti saat pemeriksaan kepegawaian. BAP menjadi landasan terbitnya SK hukuman. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Buku kas pembantu adalah sarana pembukuan akuntansi perbendaharaan.",
+          "B": "Kwitansi merupakan bukti pertanggungjawaban belanja keuangan kas negara.",
+          "C": "Surat perjanjian sewa adalah dokumen hukum perdata kebendaan.",
+          "E": "Daftar piket adalah catatan operasional keamanan fasilitas kantor."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Upaya administratif dapat dilakukan dengan cara",
+        "keberatan dan banding administratif"
+      ],
+      "topik_materi": "Dua Bentuk Upaya Administratif Disiplin",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Upaya administratif yang dapat ditempuh oleh PNS yang tidak puas atas hukuman disiplin terdiri atas...",
+      "pilihan": {
+        "A": "Pengajuan uji materiil ke Mahkamah Konstitusi",
+        "B": "Gugatan perdata dan praperadilan pidana",
+        "C": "Aksi unjuk rasa dan mogok kerja bersama",
+        "D": "Penolakan tugas dinas dan penyegelan kantor",
+        "E": "Keberatan dan banding administratif"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Upaya administratif dapat dilakukan dengan cara pengajuan keberatan dan banding administratif**.",
+        "alasan_kunci": "Opsi E tepat karena regulasi kepegawaian secara limitatif menyediakan dua jalur koreksi internal administratif bagi pegawai yang merasa keberatan atas keputusan sanksi, yaitu keberatan kepada atasan penghukum dan banding ke BAPEK. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Uji materiil di MK untuk menguji undang-undang, bukan keputusan sanksi individu.",
+          "B": "Gugatan perdata dan praperadilan adalah ranah hukum peradilan umum.",
+          "C": "Mogok kerja dan demonstrasi dilarang keras bagi aparatur sipil negara.",
+          "D": "Penyegelan kantor merupakan tindakan pidana anarkisme dan perusakan aset."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Keberatan adalah upaya administratif",
+        "atasan pejabat\nyang berwenang menghukum"
+      ],
+      "topik_materi": "Definisi dan Tujuan Pengajuan Keberatan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Upaya keberatan diajukan oleh PNS yang tidak puas atas hukuman disiplin kepada...",
+      "pilihan": {
+        "A": "Atasan pejabat yang berwenang menghukum",
+        "B": "Pengadilan Tata Usaha Negara tingkat pertama",
+        "C": "Kepala Kepolisian Resor setempat",
+        "D": "Pimpinan redaksi media cetak nasional",
+        "E": "Ketua Komisi Pengawas Persaingan Usaha"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Keberatan** adalah upaya administratif yang diajukan oleh PNS kepada **atasan pejabat yang berwenang menghukum**.",
+        "alasan_kunci": "Opsi A tepat karena mekanisme keberatan merupakan peninjauan bertingkat satu tingkat di atas pejabat yang menjatuhkan sanksi (misal SK diterbitkan Eselon III, keberatan ditujukan kepada Eselon II atasannya). Jadi, pilihan A adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Gugatan ke PTUN hanya dapat ditempuh setelah seluruh upaya administratif selesai.",
+          "C": "Polres tidak berwenang mengadili sengketa hukuman disiplin internal ASN.",
+          "D": "Media massa bukan lembaga peradilan atau penyelesai sengketa aparatur.",
+          "E": "KPPU mengawasi persaingan usaha bisnis, bukan disiplin kepegawaian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Banding administratif adalah upaya administratif",
+        "Badan Pertimbangan Kepegawaian"
+      ],
+      "topik_materi": "Lembaga Banding Administratif (BAPEK)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Banding administratif atas sanksi hukuman pemberhentian sebagai PNS diajukan kepada...",
+      "pilihan": {
+        "A": "Lembaga Sensor Film Nasional",
+        "B": "Badan Pertimbangan Kepegawaian (BAPEK)",
+        "C": "Otoritas Jasa Keuangan Bidang Perbankan",
+        "D": "Badan Narkotika Nasional Kota",
+        "E": "Pengadilan Hubungan Industrial Swasta"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Banding administratif** adalah upaya administratif bagi PNS atas sanksi pemberhentian yang diajukan kepada **Badan Pertimbangan Kepegawaian**.",
+        "alasan_kunci": "Opsi B tepat karena BAPEK adalah majelis khusus tingkat nasional yang berwenang menyidangkan dan memutus sengketa banding administratif khusus atas sanksi pemecatan/pemberhentian PNS. Dengan demikian, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "LSF berwenang dalam penyensoran tayangan film publik.",
+          "C": "OJK bertugas mengawasi industri jasa keuangan dan pasar modal.",
+          "D": "BNN bertugas dalam pencegahan dan pemberantasan narkotika.",
+          "E": "PHI mengadili perselisihan ketenagakerjaan sektor swasta buruh."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "hukuman yang tidak dapat diajukan upaya administratif\nadalah hukuman yang dijatuhkan oleh:",
+        "Presiden"
+      ],
+      "topik_materi": "Kekebalan Keputusan Disiplin Presiden dari Upaya Administratif",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hukuman disiplin yang dijatuhkan oleh Presiden Republik Indonesia memiliki ketentuan...",
+      "pilihan": {
+        "A": "Dapat dibatalkan melalui surat keputusan kepala dinas daerah",
+        "B": "Wajib diulang pemeriksaannya oleh atasan langsung kantor",
+        "C": "Tidak dapat diajukan upaya administratif keberatan atau banding",
+        "D": "Otomatis gugur apabila pegawai mengajukan mutasi mandiri",
+        "E": "Harus disetujui terlebih dahulu oleh serikat pekerja kementerian"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Hukuman disiplin yang **tidak dapat diajukan upaya administratif adalah hukuman yang dijatuhkan oleh Presiden**.",
+        "alasan_kunci": "Opsi C tepat karena Presiden adalah pemegang kekuasaan pemerintahan tertinggi dan Pejabat Pembina Kepegawaian tertinggi nasional, sehingga keputusan hukum disiplin yang diterbitkannya bersifat final di ranah administratif internal. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Kepala dinas daerah tidak berwenang membatalkan Keppres.",
+          "B": "Atasan langsung tidak memiliki hierarki untuk menguji keputusan Presiden.",
+          "D": "Mutasi mandiri tidak menggugurkan ketetapan sanksi hukum Presiden.",
+          "E": "Serikat pekerja tidak memiliki hak veto atas keputusan Presiden."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "pejabat yang lebih tinggi maka atasan langsung tersebut wajib\nmelaporkan secara hierarki",
+        "berita acara pemeriksaan"
+      ],
+      "topik_materi": "Penerapan Pelaporan Hierarki Berita Acara",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Dari hasil BAP, pelanggaran staf terbukti berkadar sedang yang wewenang menghukumnya berada pada Kepala Kantor. Tindakan atasan langsung adalah...",
+      "pilihan": {
+        "A": "Meminta uang ganti rugi kepada staf yang bersangkutan",
+        "B": "Langsung menerbitkan keputusan hukuman pemotongan tunjangan kinerja",
+        "C": "Menyimpan berkas BAP di laci meja tanpa tindak lanjut dinas",
+        "D": "Menghancurkan berkas BAP demi menjaga kerukunan ruangan",
+        "E": "Melaporkan secara hierarki disertai Berita Acara Pemeriksaan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Apabila kewenangan menghukum merupakan kewenangan pejabat yang lebih tinggi, **atasan langsung wajib melaporkan secara hierarki disertai berita acara pemeriksaan**.",
+        "alasan_kunci": "Opsi E tepat karena atasan langsung terikat asas kepatuhan wewenang. Jika sanksi berada di luar jurisdiksinya, ia wajib meneruskan berkas hasil pemeriksaan secara berjenjang kepada pejabat yang sah berwenang menghukum. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Meminta uang adalah pemerasan jabatan dan pelanggaran pidana korupsi.",
+          "B": "Menerbitkan SK di luar wewenang menyebabkan keputusan cacat wewenang/batal hukum.",
+          "C": "Menyimpan berkas tanpa tindak lanjut merupakan bentuk pembiaran pelanggaran.",
+          "D": "Menghancurkan BAP adalah tindak pidana penghilangan barang bukti dinas."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Keberatan adalah upaya administratif yang dapat ditempuh oleh\nPNS yang tidak puas",
+        "kepada atasan pejabat"
+      ],
+      "topik_materi": "Penerapan Prosedur Keberatan Sanksi Sedang",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pejabat eselon III menjatuhkan sanksi pemotongan tukin 25% kepada seorang staf. Staf yang tidak puas berhak mengajukan keberatan kepada...",
+      "pilihan": {
+        "A": "Pejabat pimpinan tinggi pratama (Eselon II) atasan penghukum",
+        "B": "Bupati atau walikota tempat tinggal pribadi pegawai",
+        "C": "Lembaga bantuan hukum swasta di kota setempat",
+        "D": "Pengurus rukun tetangga dan rukun warga komplek",
+        "E": "Majelis ulama indonesia perwakilan daerah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Keberatan diajukan kepada **atasan pejabat yang berwenang menghukum** (pejabat satu tingkat di atas pejabat penerbit sanksi).",
+        "alasan_kunci": "Opsi A tepat karena atasan dari pejabat eselon III adalah pejabat eselon II (Kepala Kantor Wilayah / Direktur). Ke sanalah surat keberatan administratif wajib dialamatkan secara formal. Jadi, pilihan A adalah langkah yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Bupati/walikota tidak memiliki yurisdiksi atas instansi vertikal Kemenkeu.",
+          "C": "LBH swasta bukan saluran pengajuan keberatan administratif birokrasi.",
+          "D": "Pengurus RT/RW tidak berwenang mengadili surat sanksi kepegawaian negara.",
+          "E": "MUI lembaga keagamaan, bukan instrumen peradilan banding dinas ASN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Banding administratif adalah upaya administratif",
+        "pemberhentian dengan hormat tidak atas permintaan sendiri\natau pemberhentian tidak dengan hormat"
+      ],
+      "topik_materi": "Implementasi Banding Administratif atas Pemecatan",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang PNS dijatuhi hukuman pemberhentian tidak dengan hormat oleh menteri. Upaya administratif yang sah adalah...",
+      "pilihan": {
+        "A": "Mengajukan permohonan kredit baru pada bank daerah",
+        "B": "Mengajukan banding administratif kepada Badan Pertimbangan Kepegawaian",
+        "C": "Melakukan mogok makan di gerbang pintu masuk kantor",
+        "D": "Mendaftarkan diri menjadi calon pegawai negeri sipil baru",
+        "E": "Menyita barang inventaris kantor sebagai jaminan pesangon"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "PNS yang tidak puas atas hukuman pemberhentian dapat menempuh **banding administratif kepada Badan Pertimbangan Kepegawaian (BAPEK)**.",
+        "alasan_kunci": "Opsi B tepat karena satu-satunya forum banding administratif resmi yang diakui regulasi atas putusan pemberhentian PNS adalah BAPEK. Jalur hukum ini sah dan berkeadilan bagi aparatur. Oleh karenanya, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Pengajuan kredit bank tidak berkaitan dengan sengketa pemberhentian kepegawaian.",
+          "C": "Mogok makan bukan prosedur hukum yang diakui dalam tata tertib ASN.",
+          "D": "Pegawai yang diberhentikan tidak hormat dilarang mendaftar kembali sebagai CPNS.",
+          "E": "Menyita BMN secara sepihak merupakan tindak pidana pencurian aset negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "hukuman yang tidak dapat diajukan upaya administratif",
+        "teguran lisan, teguran tertulis,\ndan pernyataan tidak puas secara tertulis"
+      ],
+      "topik_materi": "Analisis Jenis Hukuman Tanpa Upaya Administratif",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Alasan yuridis mengapa hukuman disiplin ringan (teguran lisan, tertulis, tidak puas tertulis) TIDAK dapat diajukan upaya administratif adalah...",
+      "pilihan": {
+        "A": "Untuk mempercepat proses alih status menjadi tenaga swasta",
+        "B": "Karena sanksi ringan otomatis menghapus kewajiban pembayaran pajak",
+        "C": "Sifat sanksi bersifat pembinaan langsung tanpa pengurangan hak kepegawaian",
+        "D": "Karena sanksi ringan hanya berlaku selama satu hari kerja",
+        "E": "Agar pejabat yang menghukum tidak dapat dievaluasi oleh menteri"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sanksi disiplin ringan **tidak dapat diajukan upaya administratif** karena bersifat pembinaan moral internal atasan kepada bawahan tanpa mereduksi hak kepegawaian (seperti pangkat atau tunjangan).",
+        "alasan_kunci": "Opsi C tepat karena sanksi ringan bertujuan mengoreksi perilaku kerja secara cepat dan langsung oleh atasan. Ketiadaan jalur keberatan menjaga efektivitas pembinaan harian tanpa membebani birokrasi peradilan administratif. Maka dari itu, opsi A adalah simpulan analisis yang benar.",
+        "bedah_pengecoh": {
+          "A": "Sanksi ringan tidak mengalihkan status pegawai menjadi swasta.",
+          "B": "Sanksi ringan tidak mempengaruhi kewajiban perpajakan aparatur.",
+          "D": "Masa berlaku catatan sanksi kepegawaian ringan berlangsung sesuai regulasi.",
+          "E": "Atasan tetap diawasi dan dievaluasi dalam sistem pengawasan manajerial."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Keberatan adalah upaya administratif",
+        "Banding administratif adalah upaya administratif",
+        "tidak puas terhadap hukuman disiplin"
+      ],
+      "topik_materi": "Pembedaan Keberatan dan Banding Administratif",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbedaan mendasar antara upaya keberatan dan banding administratif terletak pada aspek...",
+      "pilihan": {
+        "A": "Jumlah saksi ahli hukum yang wajib dihadirkan saat pemeriksaan",
+        "B": "Kewajiban melampirkan surat keterangan sehat dari puskesmas",
+        "C": "Besaran biaya pendaftaran perkara yang wajib disetorkan ke kas",
+        "D": "Lembaga tujuan pengajuan serta jenis tingkatan sanksi yang disengketakan",
+        "E": "Agama dan keyakinan spiritual yang dianut oleh pemohon banding"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Keberatan** ditujukan kepada **atasan penghukum** untuk sanksi selain pemberhentian, sedangkan **banding administratif** diajukan kepada **BAPEK** khusus untuk **sanksi pemberhentian**.",
+        "alasan_kunci": "Opsi D tepat karena pembeda utamanya mencakup instansi penerima (atasan langsung vs lembaga BAPEK) dan lingkup sanksinya (hukuman non-pemberhentian vs hukuman pemecatan). Ini membagi kedua mekanisme secara tegas. Dengan demikian, opsi A tepat.",
+        "bedah_pengecoh": {
+          "A": "Pemeriksaan administratif internal tidak mensyaratkan kuota saksi ahli.",
+          "B": "Surat sehat puskesmas bukan syarat utama penerimaan sengketa disiplin.",
+          "C": "Upaya administratif dalam kepegawaian negara bebas biaya perkara.",
+          "E": "Sistem hukum ASN netral dan tidak membedakan latar belakang agama pemohon."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "pasal 92 ayat (1) UU Nomor 5 Tahun 2014",
+        "jaminan\nkesehatan, jaminan kecelakaan kerja, jaminan kematian, dan\nbantuan hukum"
+      ],
+      "topik_materi": "Empat Bentuk Perlindungan PNS Berdasarkan UU ASN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 92 UU Nomor 5 Tahun 2014, pemerintah wajib memberikan perlindungan kepada PNS berupa...",
+      "pilihan": {
+        "A": "Jaminan kenaikan pangkat otomatis, libur panjang, pesangon",
+        "B": "Jaminan bebas pajak, rumah mewah, mobil dinas, beasiswa",
+        "C": "Jaminan kesehatan, kecelakaan kerja, kematian, bantuan hukum",
+        "D": "Jaminan kekebalan tindak pidana, kredit bunga nol, asuransi",
+        "E": "Jaminan penempatan kantor pusat, dispensasi jam kerja"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pemerintah wajib memberikan perlindungan berupa: **jaminan kesehatan, jaminan kecelakaan kerja, jaminan kematian, dan bantuan hukum** (Pasal 92 ayat (1) UU Nomor 5 Tahun 2014).",
+        "alasan_kunci": "Opsi C tepat karena undang-undang kepegawaian secara tegas mengamanatkan empat pilar perlindungan dasar ini guna menjamin keselamatan kerja, kesehatan, perlindungan hari tua, dan advokasi hukum tugas bagi aparatur. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Kenaikan pangkat berbasis kinerja, bukan jaminan otomatis tanpa syarat.",
+          "B": "Fasilitas mewah bukan bentuk perlindungan sosial ASN yang diatur UU.",
+          "D": "PNS tidak memiliki kekebalan hukum dari tindak pidana kejahatan.",
+          "E": "Penempatan kerja didasarkan pada kebutuhan organisasi di seluruh NKRI."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "bantuan hukum secara institusi (Pendampingan oleh Bankum)",
+        "Perlindungan di Kementerian Keuangan"
+      ],
+      "topik_materi": "Bantuan Hukum Kedinasan di Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Implementasi perlindungan bantuan hukum bagi aparatur di Kementerian Keuangan dilaksanakan melalui...",
+      "pilihan": {
+        "A": "Penolakan terhadap seluruh surat panggilan aparat penegak hukum",
+        "B": "Pemberian dana tunai sewa pengacara swasta tanpa batas",
+        "C": "Penggantian kerugian uang pribadi yang dikorupsi pegawai",
+        "D": "Pendampingan oleh unit Bantuan Hukum (Bankum) institusi",
+        "E": "Pemberian status kekebalan hukum diplomatik bagi pejabat"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Perlindungan di Kementerian Keuangan berupa **bantuan hukum secara institusi (Pendampingan oleh Bankum)** terkait pelaksanaan tugas kedinasan.",
+        "alasan_kunci": "Opsi D tepat karena Kementerian Keuangan menyediakan advokasi kedinasan melalui Biro Advokasi (Bankum) untuk mendampingi pegawai yang menghadapi persoalan hukum akibat pelaksanaan tugas dan wewenang dinas yang sah. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Aparatur wajib kooperatif mematuhi panggilan resmi penegak hukum.",
+          "B": "Kementerian tidak mendanai advokat swasta perseorangan secara bebas.",
+          "C": "Negara dilarang mengganti kerugian atas perbuatan korupsi individu pegawai.",
+          "E": "PNS tidak memiliki kekebalan hukum diplomatik di dalam yurisdiksi nasional."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "jaminan kematian (uang duka tewas dan uang duka wafat)",
+        "Perlindungan di Kementerian Keuangan"
+      ],
+      "topik_materi": "Jaminan Kematian di Lingkungan Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perlindungan jaminan kematian bagi pegawai di lingkungan Kementerian Keuangan diwujudkan dalam bentuk...",
+      "pilihan": {
+        "A": "Penyediaan fasilitas pemakaman kenegaraan di taman makam",
+        "B": "Pembangunan monumen patung pahlawan di kantor wilayah",
+        "C": "Pemberian hak mewariskan nomor induk pegawai (NIP)",
+        "D": "Pembebasan pajak properti bagi seluruh keluarga pegawai",
+        "E": "Pemberian uang duka wafat dan uang duka tewas"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Perlindungan jaminan kematian di Kementerian Keuangan diwujudkan melalui pemberian **uang duka wafat dan uang duka tewas** bagi ahli waris pegawai.",
+        "alasan_kunci": "Opsi E tepat karena dokumen kepegawaian merinci bentuk santunan kematian melalui uang duka wafat (meninggal biasa) dan uang duka tewas (gugur dalam menjalankan tugas dinas). Santunan ini membantu keluarga yang ditinggalkan. Jadi, pilihan E benar.",
+        "bedah_pengecoh": {
+          "A": "Pemakaman kenegaraan diperuntukkan bagi tokoh penerima bintang tanda jasa.",
+          "B": "Monumen patung bukan program jaminan sosial rutin kepegawaian.",
+          "C": "NIP melekat pada individu dan dilarang diwariskan kepada keturunan.",
+          "D": "Pajak daerah diatur oleh undang-undang perpajakan, bukan jaminan kematian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Peraturan Kepala BKN Nomor 24 Tahun 2017",
+        "Tata Cara\nPemberian Cuti Pegawai Negeri Sipil"
+      ],
+      "topik_materi": "Regulasi BKN Mengenai Tata Cara Cuti PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tata cara pemberian cuti Pegawai Negeri Sipil diatur secara teknis nasional melalui...",
+      "pilihan": {
+        "A": "Peraturan Kepala BKN Nomor 24 Tahun 2017",
+        "B": "Peraturan Menteri Keuangan Nomor 161 Tahun 2017",
+        "C": "Keputusan Menteri Keuangan Nomor 300 Tahun 2022",
+        "D": "Undang-Undang Nomor 20 Tahun 2009",
+        "E": "Peraturan Presiden Nomor 16 Tahun 2018"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Tata cara cuti PNS diatur dalam **Peraturan Kepala BKN Nomor 24 Tahun 2017 tentang Tata Cara Pemberian Cuti Pegawai Negeri Sipil**.",
+        "alasan_kunci": "Opsi A tepat karena Perka BKN 24/2017 merupakan regulasi rujukan operasional teknis nasional yang memuat syarat, prosedur, dan wewenang pemberian berbagai jenis cuti bagi seluruh ASN. Dengan demikian, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "B": "Mengatur tentang sistem manajemen talenta Kementerian Keuangan masa lalu.",
+          "C": "Mengatur tentang sistem manajemen kinerja di Kementerian Keuangan.",
+          "D": "Mengatur tentang gelar, tanda jasa, dan tanda kehormatan negara.",
+          "E": "Mengatur tentang tata cara pengadaan barang dan jasa pemerintah."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Surat Edaran Menteri Keuangan Nomor SE-15/MK.1/2018",
+        "Pelaksanaan Cuti Bagi Pegawai Negeri Sipil di Lingkungan Kementerian\nKeuangan"
+      ],
+      "topik_materi": "Surat Edaran Pelaksanaan Cuti di Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan cuti bagi pegawai di lingkungan internal Kementerian Keuangan dipedomani melalui...",
+      "pilihan": {
+        "A": "Surat Edaran Direktur Jenderal Pajak Nomor 1 Tahun 2015",
+        "B": "Surat Edaran Menteri Keuangan Nomor SE-15/MK.1/2018",
+        "C": "Instruksi Presiden Republik Indonesia Nomor 5 Tahun 2020",
+        "D": "Peraturan Bersama Menteri Keuangan dan Menteri Agama",
+        "E": "Surat Edaran Kepala Kantor Wilayah Perbendaharaan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dasar hukum cuti internal Kemenkeu antara lain **Surat Edaran Menteri Keuangan Nomor SE-15/MK.1/2018 tentang Pelaksanaan Cuti Bagi Pegawai Negeri Sipil di Lingkungan Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi B tepat karena SE-15/MK.1/2018 menjadi pedoman teknis internal kementerian dalam pengajuan, penatausahaan, serta pemotongan tunjangan selama pelaksanaan cuti pegawai. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Surat edaran sektoral pajak, bukan pedoman cuti menyeluruh kementerian.",
+          "C": "Inpres bukan instrumen pedoman teknis operasional cuti kementerian.",
+          "D": "Bukan dasar hukum pelaksanaan cuti di Kementerian Keuangan.",
+          "E": "Surat edaran vertikal daerah bersumber dari SE Menteri Keuangan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "bantuan hukum secara institusi",
+        "Pendampingan oleh Bankum"
+      ],
+      "topik_materi": "Penerapan Bantuan Hukum bagi Pejabat PPK",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pejabat Pembuat Komitmen (PPK) digugat perdata oleh rekanan tender atas pembatalan kontrak yang sesuai aturan. Hak perlindungannya adalah...",
+      "pilihan": {
+        "A": "Penurunan pangkat setingkat lebih rendah secara otomatis",
+        "B": "Pemberian izin cuti di luar tanggungan negara selama masa sidang",
+        "C": "Pembebasan penuh dari jabatan menjadi pelaksana administrasi",
+        "D": "Pendampingan advokasi hukum institusi oleh Bankum kementerian",
+        "E": "Kewajiban menanggung seluruh biaya ganti rugi secara pribadi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS berhak atas **bantuan hukum secara institusi (Pendampingan oleh Bankum)** dalam perkara yang dihadapi di pengadilan terkait pelaksanaan tugas kedinasan.",
+        "alasan_kunci": "Opsi D tepat karena tindakan kedinasan yang sah yang digugat pihak ketiga dilindungi secara kelembagaan oleh kementerian melalui pendampingan advokat Bankum Kemenkeu di pengadilan. Ini mewujudkan hak perlindungan aparatur. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Penurunan pangkat merupakan sanksi disiplin berat.",
+          "B": "CLTN bukan mekanisme perlindungan bagi pejabat yang menjalankan tugas sah.",
+          "C": "Pembebasan jabatan adalah hukuman disiplin, tidak boleh dijatuhkan pada pejabat taat aturan.",
+          "E": "Tindakan kedinasan sah yang digugat perdata dibela oleh negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "uang duka tewas",
+        "jaminan kematian"
+      ],
+      "topik_materi": "Implementasi Hak Jaminan Gugur dalam Tugas",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Petugas bea cukai gugur saat operasi patroli laut menumpas penyelundup. Hak jaminan kematian yang diterima ahli warisnya adalah...",
+      "pilihan": {
+        "A": "Pemberian sanksi pembebasan dari status kepegawaian",
+        "B": "Kewajiban mengembalikan seluruh gaji yang pernah diterima",
+        "C": "Pencabutan seluruh tanda kehormatan yang dimiliki",
+        "D": "Pemotongan tunjangan kinerja masa lalu sebesar 25 persen",
+        "E": "Pemberian santunan uang duka tewas bagi aparatur"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Bagi PNS yang meninggal dalam pelaksanaan tugas dinas resmi, ahli waris berhak menerima perlindungan berupa **uang duka tewas**.",
+        "alasan_kunci": "Opsi E tepat karena gugur saat tugas operasi laut diklasifikasikan sebagai tewas dalam dinas, sehingga negara mengapresiasi pengorbanannya dengan memberikan hak uang duka tewas kepada keluarga yang ditinggalkan. Jadi, pilihan E adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Pemberhentian karena tewas dinas dihormati setinggi-tingginya oleh negara.",
+          "B": "Gaji yang sah diterima tidak pernah dituntut pengembaliannya.",
+          "C": "Pahlawan dinas justru dianugerahi kenaikan pangkat anumerta/tanda jasa.",
+          "D": "Tidak ada pemotongan tunjangan bagi aparatur yang tewas dalam tugas mulia."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "PP Nomor 11 Tahun 2017 sebagaimana telah diubah dengan PP 17 tahun\n2020",
+        "Cuti Pegawai Negeri Sipil"
+      ],
+      "topik_materi": "Penerapan Hirarki Dasar Hukum Cuti",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Bagian kepegawaian menyusun pedoman teknis cuti bersama tahunan. Landasan hukum peraturan pemerintah rujukan utamanya adalah...",
+      "pilihan": {
+        "A": "PP Nomor 11 Tahun 2017 jo PP Nomor 17 Tahun 2020",
+        "B": "Peraturan Pemerintah Nomor 46 Tahun 2011",
+        "C": "Peraturan Pemerintah Nomor 53 Tahun 2010",
+        "D": "Peraturan Pemerintah Nomor 35 Tahun 2010",
+        "E": "Peraturan Pemerintah Nomor 30 Tahun 2019"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dasar hukum cuti PNS adalah **PP Nomor 11 Tahun 2017 sebagaimana telah diubah dengan PP Nomor 17 Tahun 2020 tentang Manajemen PNS**.",
+        "alasan_kunci": "Opsi A tepat karena babak regulasi manajemen PNS dalam PP 11/2017 jo PP 17/2020 memuat ketentuan payung tingkat Peraturan Pemerintah mengenai seluruh jenis cuti aparatur sipil negara. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "PP tentang penilaian prestasi kerja lama yang telah dicabut.",
+          "C": "PP tentang disiplin lama yang telah dicabut oleh PP 94/2021.",
+          "D": "PP tentang gelar, tanda jasa, dan tanda kehormatan kenegaraan.",
+          "E": "PP tentang sistem penilaian kinerja PNS."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "bantuan hukum",
+        "pasal 92 ayat (1) UU Nomor 5 Tahun 2014"
+      ],
+      "topik_materi": "Analisis Batasan Hak Bantuan Hukum Kedinasan",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Berdasarkan prinsip perlindungan ASN, pendampingan hukum kedinasan (Bankum) diberikan dalam perkara...",
+      "pilihan": {
+        "A": "Sengketa perceraian dan pembagian harta gono-gini pribadi",
+        "B": "Terkait pelaksanaan tugas dan wewenang kedinasan yang sah",
+        "C": "Tindak pidana perjudian online yang dilakukan di luar dinas",
+        "D": "Wanprestasi utang piutang pinjaman uang komersial mandiri",
+        "E": "Pelanggaran lalu lintas penilangan kendaraan pribadi dinas"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Bantuan hukum institusi diberikan kepada PNS **terkait dengan pelaksanaan tugas dan fungsi kedinasan yang sah**, bukan urusan pribadi.",
+        "alasan_kunci": "Opsi B tepat karena bantuan hukum negara dibiayai anggaran dinas khusus untuk melindungi pejabat/staf dalam mengambil keputusan kebijakan demi kepentingan negara. Perkara perdata atau pidana pribadi di luar dinas wajib diselesaikan secara mandiri. Oleh karenanya, opsi A adalah analisis yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Sengketa perceraian adalah ranah perdata keluarga pribadi aparatur.",
+          "C": "Judi online adalah tindak pidana murni pribadi dan pelanggaran disiplin.",
+          "D": "Utang piutang perorangan merupakan perikatan hukum perdata privat.",
+          "E": "Pelanggaran lalu lintas adalah tanggung jawab pribadi pengendara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Dasar hukum:",
+        "Cuti Pegawai Negeri Sipil",
+        "Surat Edaran Menteri Keuangan"
+      ],
+      "topik_materi": "Analisis Harmonisasi Peraturan Cuti Kemenkeu",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Harmonisasi regulasi cuti di Kemenkeu mengintegrasikan ketentuan PP Manajemen PNS, Perka BKN, dan SE Menkeu guna menjamin...",
+      "pilihan": {
+        "A": "Pemotongan tunjangan kinerja secara sepihak oleh atasan",
+        "B": "Penghapusan seluruh hak cuti tahunan pegawai di daerah terpencil",
+        "C": "Kepastian pemenuhan hak cuti tanpa mengganggu pelayanan publik",
+        "D": "Pemberian kebebasan bagi pegawai tidak masuk kantor tanpa izin",
+        "E": "Penyeragaman seluruh masa kerja pensiun menjadi 50 tahun"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pengaturan cuti yang terstruktur bertujuan menjamin **keseimbangan antara pemenuhan hak istirahat pegawai dan kontinuitas kelancaran tugas pelayanan instansi**.",
+        "alasan_kunci": "Opsi C tepat karena keterpaduan regulasi memastikan setiap pegawai dapat menikmati hak istirahatnya secara adil, sementara mekanisme penjadwalan dan persetujuan atasan menjaga agar fungsi pelayanan negara tidak terbengkalai. Dengan demikian, opsi A adalah analisis yang benar.",
+        "bedah_pengecoh": {
+          "A": "Pemotongan tunjangan memiliki rumus baku, bukan tindakan sewenang-wenang.",
+          "B": "Hak cuti dijamin undang-undang dan tidak boleh dihapus sepihak di daerah.",
+          "D": "Meninggalkan tugas tanpa izin merupakan pelanggaran disiplin, bukan tujuan cuti.",
+          "E": "Batas usia pensiun diatur dalam undang-undang terpisah."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 81,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Merupakan hak PNS, termasuk CPNS yang telah bekerja secara terus\nmenerus selama 1 (satu) tahun",
+        "Hak Cuti Tahunan"
+      ],
+      "topik_materi": "Syarat Masa Kerja Memperoleh Hak Cuti Tahunan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hak cuti tahunan merupakan hak PNS dan CPNS yang telah bekerja secara terus-menerus paling kurang selama...",
+      "pilihan": {
+        "A": "6 (enam) bulan",
+        "B": "1 (satu) tahun",
+        "C": "2 (dua) tahun",
+        "D": "3 (tiga) tahun",
+        "E": "5 (lima) tahun"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Hak Cuti Tahunan merupakan hak PNS, termasuk CPNS yang **telah bekerja secara terus menerus selama 1 (satu) tahun**.",
+        "alasan_kunci": "Opsi B tepat karena ketentuan secara tegas mematok masa bakti minimal 1 tahun kerja tanpa jeda sebelum pegawai (baik CPNS maupun PNS) berhak mengajukan cuti tahunan penuh. Oleh sebab itu, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Enam bulan belum memenuhi syarat minimal 1 tahun masa kerja.",
+          "C": "Dua tahun merupakan masa branding pegawai, bukan syarat awal cuti tahunan.",
+          "D": "Tiga tahun bukan batas awal perolehan cuti tahunan.",
+          "E": "Lima tahun merupakan syarat masa kerja untuk mengajukan cuti besar."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 82,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "CPNS hanya berhak atas cuti tahunan",
+        "berdasarkan pertimbangan\nkemanusiaan"
+      ],
+      "topik_materi": "Pembatasan Hak Cuti bagi CPNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan regulasi cuti, Calon Pegawai Negeri Sipil (CPNS) hanya berhak atas...",
+      "pilihan": {
+        "A": "Cuti di luar tanggungan negara selama tiga tahun",
+        "B": "Cuti besar untuk menunaikan ibadah haji",
+        "C": "Cuti tahunan, kecuali ada pertimbangan kemanusiaan",
+        "D": "Cuti tahunan yang diakumulasikan selama sepuluh tahun",
+        "E": "Pembebasan penugasan tanpa izin dari atasan langsung"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**CPNS hanya berhak atas cuti tahunan, kecuali ditentukan lain oleh pejabat yang berwenang memberikan cuti berdasarkan pertimbangan kemanusiaan**.",
+        "alasan_kunci": "Opsi C tepat karena status CPNS masih dalam masa pengujian, sehingga hak cutinya dibatasi hanya pada cuti tahunan. Cuti lain (seperti cuti sakit berat/bersalin) hanya dapat diberikan atas dasar kemanusiaan. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "CLTN mensyaratkan masa kerja PNS minimal 5 tahun terus-menerus.",
+          "B": "Cuti besar mensyaratkan masa kerja PNS minimal 5 tahun terus-menerus.",
+          "D": "Cuti tahunan hanya dapat diakumulasikan maksimal 2 tahun berturut-turut.",
+          "E": "Meninggalkan tugas tanpa izin merupakan pelanggaran disiplin berat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 83,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "dapat digunakan pada tahun berikutnya paling banyak\n6 (enam) hari kerja",
+        "Sisa hak atas cuti tahunan"
+      ],
+      "topik_materi": "Maksimal Sisa Cuti yang Dapat Ditransfer ke Tahun Depan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sisa hak cuti tahunan yang tidak digunakan dalam tahun berjalan dapat digunakan pada tahun berikutnya paling banyak...",
+      "pilihan": {
+        "A": "24 (dua puluh empat) hari kerja",
+        "B": "12 (dua belas) hari kerja",
+        "C": "18 (delapan belas) hari kerja",
+        "D": "6 (enam) hari kerja",
+        "E": "30 (tiga puluh) hari kerja"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Sisa hak atas cuti tahunan yang tidak digunakan dalam tahun bersangkutan dapat digunakan pada tahun berikutnya paling banyak 6 (enam) hari kerja**.",
+        "alasan_kunci": "Opsi D tepat karena regulasi menetapkan batas maksimal sisa cuti yang dapat dialihkan ke tahun berikutnya adalah 6 hari kerja (sehingga total cuti tahun berikutnya maksimal 12 + 6 = 18 hari kerja). Jadi, pilihan D adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Dua puluh empat hari kerja adalah total akumulasi jika tidak cuti 2 tahun berturut-turut.",
+          "B": "Dua belas hari kerja adalah hak cuti tahunan normal dalam satu tahun.",
+          "C": "Delapan belas hari kerja adalah total gabungan cuti berjalan dan sisa cuti (12+6).",
+          "E": "Tiga puluh hari bukan angka perhitungan cuti tahunan ASN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 84,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "paling\nlama 18 (delapan belas) hari kerja termasuk cuti tahunan dalam tahun\nberjalan",
+        "dapat digunakan dalam tahun berikutnya"
+      ],
+      "topik_materi": "Maksimal Akumulasi Cuti Tahunan 1 Tahun",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Total hak cuti tahunan pada tahun berjalan ditambah sisa cuti tahun sebelumnya yang dapat digunakan adalah paling lama...",
+      "pilihan": {
+        "A": "36 (tiga puluh enam) hari kerja",
+        "B": "6 (enam) hari kerja",
+        "C": "12 (dua belas) hari kerja",
+        "D": "24 (dua puluh empat) hari kerja",
+        "E": "18 (delapan belas) hari kerja"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Hak atas cuti tahunan yang tersisa dapat digunakan dalam tahun berikutnya untuk **paling lama 18 (delapan belas) hari kerja termasuk cuti tahunan dalam tahun berjalan**.",
+        "alasan_kunci": "Opsi E tepat karena formulanya adalah hak cuti tahun berjalan (12 hari) ditambah sisa maksimal tahun lalu (6 hari) sehingga total plafon maksimal yang dapat diambil adalah 18 hari kerja. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tiga puluh enam hari kerja bukan ketentuan akumulasi cuti tahunan ASN.",
+          "B": "Enam hari kerja adalah plafon batas sisa yang boleh dialihkan saja.",
+          "C": "Dua belas hari kerja adalah hak normal satu tahun dinas.",
+          "D": "Dua puluh empat hari kerja berlaku jika tidak digunakan 2 tahun berturut-turut."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 85,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "tidak digunakan 2 (dua) tahun atau lebih\nberturut-turut",
+        "paling\nIama 24 (dua puluh empat) hari kerja termasuk"
+      ],
+      "topik_materi": "Akumulasi Cuti Tidak Digunakan 2 Tahun Berturut-turut",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hak cuti tahunan yang tidak digunakan 2 tahun atau lebih berturut-turut dapat digunakan pada tahun berikutnya paling lama...",
+      "pilihan": {
+        "A": "24 (dua puluh empat) hari kerja",
+        "B": "18 (delapan belas) hari kerja",
+        "C": "12 (dua belas) hari kerja",
+        "D": "30 (tiga puluh) hari kerja",
+        "E": "6 (enam) hari kerja"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Hak atas cuti tahunan yang **tidak digunakan 2 (dua) tahun atau lebih berturut-turut, dapat digunakan dalam tahun berikutnya untuk paling lama 24 (dua puluh empat) hari kerja termasuk hak cuti tahun berjalan**.",
+        "alasan_kunci": "Opsi A tepat karena bila pegawai tidak pernah mengambil cuti selama dua tahun berturut-turut, regulasi memberikan hak kompensasi akumulasi tertinggi hingga 24 hari kerja pada tahun berikutnya. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Delapan belas hari kerja untuk sisa cuti dari 1 tahun sebelumnya.",
+          "C": "Dua belas hari kerja adalah hak standar satu tahun berjalan.",
+          "D": "Tiga puluh hari melebihi batas maksimal regulasi kepegawaian.",
+          "E": "Enam hari kerja adalah batas sisa maksimal dari satu tahun sebelumnya."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 86,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "ditangguhkan penggunaannya oleh\nPejabat yang Berwenang Memberikan Cuti",
+        "paling lama 1 (satu)\ntahun"
+      ],
+      "topik_materi": "Penangguhan Cuti Tahunan oleh Pejabat Berwenang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karena kepentingan dinas mendesak, hak cuti tahunan dapat ditangguhkan oleh pejabat berwenang untuk paling lama...",
+      "pilihan": {
+        "A": "6 (enam) bulan",
+        "B": "3 (tiga) bulan",
+        "C": "1 (satu) tahun",
+        "D": "2 (dua) tahun",
+        "E": "5 (lima) tahun"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Hak atas cuti tahunan **dapat ditangguhkan penggunaannya oleh Pejabat yang Berwenang Memberikan Cuti untuk paling lama 1 (satu) tahun, apabila terdapat kepentingan dinas mendesak**.",
+        "alasan_kunci": "Opsi C tepat karena penangguhan cuti dinas dibatasi maksimal 1 tahun kalender dinas. Hak cuti yang ditangguhkan ini tidak hangus dan dapat diambil secara penuh pada tahun berikutnya. Jadi, pilihan C adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Enam bulan bukan batas penangguhan yang ditetapkan dalam Perka BKN 24/2017.",
+          "B": "Tiga bulan bukan batas waktu penangguhan maksimal regulasi cuti.",
+          "D": "Dua tahun terlalu lama dan merugikan hak kesehatan kerja pegawai.",
+          "E": "Lima tahun merupakan batas syarat pengajuan cuti besar."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 87,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Penggunaan cuti tahunan dapat diberikan untuk paling kurang 1 (satu) hari\nkerja"
+      ],
+      "topik_materi": "Penerapan Batas Minimal Pengambilan Cuti",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pegawai perbendaharaan memerlukan izin cuti untuk keperluan keluarga mendesak selama 1 hari kerja. Permohonan ini...",
+      "pilihan": {
+        "A": "Dikenakan pemotongan tunjangan kinerja sebesar 25 persen",
+        "B": "Wajib ditolak karena cuti tahunan harus diambil minimal 5 hari kerja",
+        "C": "Wajib diganti menjadi cuti di luar tanggungan negara",
+        "D": "Dapat disetujui karena batas minimal cuti tahunan adalah 1 hari kerja",
+        "E": "Hanya boleh diambil apabila pegawai memiliki masa kerja di atas 10 tahun"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Penggunaan cuti tahunan dapat diberikan untuk paling kurang 1 (satu) hari kerja**.",
+        "alasan_kunci": "Opsi D tepat karena regulasi menetapkan batas minimal penggunaan hak cuti tahunan adalah tepat 1 hari kerja, sehingga permohonan cuti 1 hari adalah sah dan dapat dikabulkan oleh atasan langsung. Dengan demikian, opsi A tepat.",
+        "bedah_pengecoh": {
+          "A": "Cuti tahunan yang sah tidak memotong tunjangan kinerja pegawai.",
+          "B": "Tidak ada kewajiban mengambil cuti minimal 5 hari kerja.",
+          "C": "CLTN bukan untuk keperluan 1 hari melainkan minimal 1 tahun.",
+          "E": "Hak cuti tahunan melekat sejak masa kerja 1 tahun."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 88,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Sisa hak atas cuti tahunan yang tidak digunakan",
+        "paling banyak\n6 (enam) hari kerja"
+      ],
+      "topik_materi": "Implementasi Perhitungan Sisa Cuti Tahunan",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pada tahun 2025 seorang pegawai masih memiliki sisa hak cuti 9 hari kerja. Sisa cuti yang dapat dipindahkan ke tahun 2026 adalah...",
+      "pilihan": {
+        "A": "Dikonversi menjadi uang lembur tunai",
+        "B": "Penuh seluruhnya 9 hari kerja",
+        "C": "Paling banyak 3 hari kerja",
+        "D": "Tidak dapat dipindahkan dan hangus",
+        "E": "Paling banyak 6 hari kerja"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Sisa cuti tahunan tahun berjalan yang dapat digunakan pada tahun berikutnya **dibatasi paling banyak 6 (enam) hari kerja**.",
+        "alasan_kunci": "Opsi E tepat karena meskipun pegawai memiliki sisa 9 hari, ketentuan membatasi hak pengalihan maksimal hanya 6 hari kerja. Sisa 3 hari lainnya dinyatakan gugur/hangus. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Cuti tahunan yang tidak terpakai tidak dapat diuangkan dalam sistem ASN.",
+          "B": "Tidak dapat dipindahkan seluruh 9 hari karena melebihi plafon maksimal 6 hari.",
+          "C": "Tiga hari adalah sisa yang hangus, bukan hak maksimal yang dipindahkan.",
+          "D": "Sisa cuti tidak hangus seluruhnya melainkan dialihkan maksimal 6 hari."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 89,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "tidak digunakan 2 (dua) tahun atau lebih\nberturut-turut",
+        "paling\nIama 24 (dua puluh empat) hari kerja"
+      ],
+      "topik_materi": "Implementasi Plafon Cuti 2 Tahun Tidak Cuti",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Karena penugasan proyek strategis, staf tidak pernah cuti selama tahun 2024 dan 2025. Pada tahun 2026, ia berhak mengambil cuti maksimal...",
+      "pilihan": {
+        "A": "24 hari kerja termasuk cuti tahun berjalan",
+        "B": "36 hari kerja penuh tanpa potongan tunjangan",
+        "C": "12 hari kerja saja seperti tahun normal",
+        "D": "6 hari kerja dari akumulasi masa lalu",
+        "E": "48 hari kerja dengan dispensasi kementerian"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pegawai yang tidak cuti 2 tahun berturut-turut berhak atas cuti tahun berikutnya **paling lama 24 hari kerja termasuk cuti tahun berjalan**.",
+        "alasan_kunci": "Opsi A tepat karena regulasi memberikan plafon khusus sebesar 24 hari kerja (12 hari hak berjalan + 12 hari kompensasi 2 tahun tidak cuti) sebagai batas tertinggi cuti tahunan gabungan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Tiga puluh enam hari melebihi batas maksimal akumulasi 24 hari kerja.",
+          "C": "Bukan 12 hari karena pegawai berhak atas akumulasi kompensasi 2 tahun.",
+          "D": "Enam hari kerja hanya untuk sisa 1 tahun sebelumnya.",
+          "E": "Empat puluh delapan hari tidak memiliki dasar hukum dalam regulasi cuti."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 90,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Pejabat yang Berwenang Memberikan Cuti",
+        "apabila terdapat kepentingan dinas mendesak"
+      ],
+      "topik_materi": "Analisis Kewenangan Penangguhan Cuti",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Prinsip utama yang mendasari pemberian kewenangan penangguhan cuti tahunan kepada pimpinan satker adalah...",
+      "pilihan": {
+        "A": "Menghemat kas pengeluaran belanja pegawai akhir tahun",
+        "B": "Menjamin kelangsungan fungsi dinas saat ada kebutuhan mendesak",
+        "C": "Memberikan sanksi terselubung atas kinerja bawahan",
+        "D": "Mewajibkan pegawai bekerja penuh tanpa batas istirahat",
+        "E": "Menghapuskan hak cuti tahunan pegawai secara permanen"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Penangguhan cuti hanya dapat dilakukan **apabila terdapat kepentingan dinas mendesak** demi menjaga pelayanan publik.",
+        "alasan_kunci": "Opsi B tepat karena penangguhan cuti bukanlah bentuk hukuman, melainkan instrumen manajerial untuk memastikan operasional pelayanan publik dan target mendesak negara tidak terganggu saat terjadi kekurangan personel. Dengan demikian, opsi A adalah simpulan analisis yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Cuti tahunan tidak mengurangi atau menambah belanja modal anggaran satker.",
+          "C": "Penangguhan cuti dilarang dijadikan sarana hukuman personal.",
+          "D": "Hak cuti tetap dijamin dan dapat diambil penuh pada tahun berikutnya.",
+          "E": "Cuti yang ditangguhkan tidak dihapus secara permanen."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 91,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "telah bekerja paling kurang 5 (lima) tahun\nsecara terus menerus",
+        "Hak Cuti Besar"
+      ],
+      "topik_materi": "Syarat Masa Kerja Hak Cuti Besar",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hak cuti besar merupakan hak bagi PNS yang telah bekerja secara terus-menerus paling kurang selama...",
+      "pilihan": {
+        "A": "5 (lima) tahun",
+        "B": "1 (satu) tahun",
+        "C": "3 (tiga) tahun",
+        "D": "7 (tujuh) tahun",
+        "E": "10 (sepuluh) tahun"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Hak Cuti Besar merupakan hak PNS yang **telah bekerja paling kurang 5 (lima) tahun secara terus menerus**.",
+        "alasan_kunci": "Opsi A tepat karena regulasi cuti PNS menetapkan masa pengabdian minimal 5 tahun kerja tanpa jeda sebagai prasyarat utama sebelum pegawai berhak mengajukan cuti besar (durasi hingga 3 bulan). Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Satu tahun merupakan syarat untuk memperoleh cuti tahunan normal.",
+          "C": "Tiga tahun belum memenuhi syarat minimal 5 tahun cuti besar.",
+          "D": "Tujuh tahun melebihi ambang batas minimal yang dipersyaratkan aturan.",
+          "E": "Sepuluh tahun merupakan syarat penganugerahan Satyalancana Karya Satya perunggu."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 92,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "Memenuhi kewajiban agama",
+        "Cuti besar dapat digunakan oleh PNS untuk"
+      ],
+      "topik_materi": "Tujuan Penggunaan Cuti Besar",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Di antara tujuan sah penggunaan cuti besar oleh Pegawai Negeri Sipil adalah untuk...",
+      "pilihan": {
+        "A": "Menghindari pelaksanaan putusan hukuman disiplin",
+        "B": "Bekerja paruh waktu pada perusahaan swasta asing",
+        "C": "Menjadi tim sukses kampanye pasangan calon bupati",
+        "D": "Membuka usaha perdagangan mandiri di luar negeri",
+        "E": "Memenuhi kewajiban agama seperti ibadah haji"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Cuti besar dapat digunakan oleh PNS antara lain untuk: **memenuhi kewajiban agama**, persalinan anak keempat, atau keperluan lain pertimbangan pejabat berwenang.",
+        "alasan_kunci": "Opsi E tepat karena penunaian kewajiban ibadah keagamaan (seperti ibadah haji yang memakan waktu lebih dari satu bulan) merupakan salah satu peruntukan utama cuti besar yang diatur dokumen kepegawaian. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Cuti tidak dapat digunakan untuk menghindari eksekusi hukuman disiplin.",
+          "B": "Bekerja di perusahaan swasta dilarang bagi aparatur sipil negara aktif.",
+          "C": "Terlibat kampanye politik praktis melanggar asas netralitas ASN.",
+          "D": "Membuka bisnis komersial di luar negeri bukan peruntukan sah cuti besar."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 93,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "Persalinan anaknya yang keempat",
+        "mempunyai hak cuti besar menjelang persalinan"
+      ],
+      "topik_materi": "Cuti Besar untuk Persalinan Anak Keempat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS wanita dapat menggunakan hak cuti besar untuk persalinan anaknya yang...",
+      "pilihan": {
+        "A": "Pertama setelah pengangkatan menjadi calon pegawai",
+        "B": "Keempat dan seterusnya apabila memiliki hak cuti besar",
+        "C": "Kedua dengan persetujuan rekan kerja satu seksi",
+        "D": "Ketiga dengan memotong gaji pokok selama tiga bulan",
+        "E": "Tunggal tanpa memerlukan surat keterangan persalinan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Cuti besar dapat digunakan untuk **persalinan anaknya yang keempat apabila PNS yang bersangkutan mempunyai hak cuti besar menjelang persalinan**.",
+        "alasan_kunci": "Opsi B tepat karena untuk persalinan anak pertama, kedua, dan ketiga diwadahi melalui Cuti Bersalin (Cuti Melahirkan). Sedangkan persalinan anak keempat dialihkan menggunakan hak Cuti Besar jika memenuhi syarat masa kerja 5 tahun. Jadi, pilihan B benar.",
+        "bedah_pengecoh": {
+          "A": "Persalinan anak pertama menggunakan hak Cuti Melahirkan (Cuti Bersalin).",
+          "C": "Persalinan anak kedua menggunakan hak Cuti Melahirkan (Cuti Bersalin).",
+          "D": "Persalinan anak ketiga menggunakan Cuti Bersalin, bukan Cuti Besar.",
+          "E": "Surat keterangan persalinan dokter/bidan wajib dilampirkan mutlak."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 94,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "harus mengembalikan TKPKN\nyang diterimanya selama melaksanakan cuti tahunan",
+        "telah melaksanakan cuti tahunan dan akan mengambil cuti\nbesar"
+      ],
+      "topik_materi": "Ketentuan Pengembalian TKPKN Cuti Tahunan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang telah melaksanakan cuti tahunan lalu mengambil cuti besar pada tahun yang sama wajib...",
+      "pilihan": {
+        "A": "Menyerahkan kembali seluruh tanda kehormatan negara",
+        "B": "Membayar denda administrasi sebesar satu bulan gaji",
+        "C": "Mengajukan pengunduran diri dari jabatan struktural",
+        "D": "Mengembalikan TKPKN yang diterima selama cuti tahunan",
+        "E": "Menjalani pemeriksaan disiplin oleh inspektorat jenderal"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS yang telah melaksanakan cuti tahunan dan akan mengambil cuti besar pada tahun yang bersangkutan **harus mengembalikan TKPKN yang diterimanya selama melaksanakan cuti tahunan**.",
+        "alasan_kunci": "Opsi D tepat karena aturan kementerian melarang duplikasi tunjangan cuti dalam satu tahun dinas. Jika cuti besar diambil setelah cuti tahunan, maka TKPKN (tunjangan khusus/kinerja) cuti tahunan sebelumnya wajib disetor kembali ke kas negara. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Tanda kehormatan tidak berkaitan dengan prosedur administrasi cuti.",
+          "B": "Bukan denda pelanggaran melainkan penyesuaian hak administrasi tunjangan.",
+          "C": "Pengambilan cuti besar yang sah tidak mewajibkan mundur dari jabatan.",
+          "E": "Bukan pelanggaran disiplin yang diperiksa oleh inspektorat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 95,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "Hak Cuti Sakit merupakan hak PNS yang menderita sakit",
+        "wanita yang mengalami gugur kandungan"
+      ],
+      "topik_materi": "Subjek Penerima Hak Cuti Sakit",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hak cuti sakit diberikan kepada PNS yang menderita sakit serta PNS/CPNS wanita yang...",
+      "pilihan": {
+        "A": "Mengikuti kegiatan retret keagamaan",
+        "B": "Menjalani operasi kecantikan mandiri",
+        "C": "Mengalami gugur kandungan",
+        "D": "Menemani suami dinas ke luar daerah",
+        "E": "Melakukan wisata kesehatan ke luar negeri"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Hak Cuti Sakit merupakan hak PNS yang menderita sakit dan/atau PNS/CPNS wanita yang mengalami gugur kandungan**.",
+        "alasan_kunci": "Opsi C tepat karena kondisi medis gugur kandungan (keguguran) secara sah disetarakan dengan kondisi sakit medis yang memerlukan masa pemulihan fisik dan psikis melalui hak Cuti Sakit. Maka dari itu, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Retret keagamaan menggunakan hak cuti tahunan atau izin dinas tertentu.",
+          "B": "Operasi estetika nonmedis tidak berhak atas cuti sakit kepegawaian.",
+          "D": "Menemani suami penugasan diwadahi melalui Cuti Alasan Penting / CLTN.",
+          "E": "Wisata kesehatan menggunakan hak cuti tahunan, bukan cuti sakit resmi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 96,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "sakit 1 (satu) hari sampai dengan 14 (empat belas) hari",
+        "melampirkan surat keterangan dokter"
+      ],
+      "topik_materi": "Syarat Cuti Sakit 1-14 Hari Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang sakit selama 1 sampai dengan 14 hari wajib menyampaikan surat permohonan dengan melampirkan...",
+      "pilihan": {
+        "A": "Bukti pelunasan pajak bumi dan bangunan",
+        "B": "Surat keterangan dokter",
+        "C": "Kuitansi pembelian vitamin di apotek swasta",
+        "D": "Surat rekomendasi dari kepala desa setempat",
+        "E": "Salinan ijazah pendidikan formal terakhir"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "PNS yang sakit 1 s.d. 14 hari menyampaikan surat keterangan sakit tertulis kepada atasan langsung dengan **melampirkan surat keterangan dokter**.",
+        "alasan_kunci": "Opsi B tepat karena keabsahan medis atas ketidakhadiran kerja karena sakit dibuktikan secara formal melalui surat keterangan resmi dari dokter yang memiliki izin praktik sah. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "A": "Pajak bumi dan bangunan tidak relevan dengan kondisi kesehatan kerja pegawai.",
+          "C": "Kuitansi pembelian obat bukan bukti medis kelayakan istirahat sakit.",
+          "D": "Kepala desa bukan tenaga medis yang berwenang menerbitkan surat sakit.",
+          "E": "Ijazah pendidikan tidak berkaitan dengan verifikasi medis cuti sakit."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 97,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "Memenuhi kewajiban agama",
+        "telah bekerja paling kurang 5 (lima) tahun"
+      ],
+      "topik_materi": "Penerapan Cuti Besar Ibadah Haji",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang PNS dengan masa kerja 8 tahun terpilih berangkat haji selama 40 hari. Jenis cuti yang tepat diajukan adalah...",
+      "pilihan": {
+        "A": "Cuti tahunan yang diambil secara terputus-putus",
+        "B": "Cuti sakit berkepanjangan dengan opname",
+        "C": "Cuti di luar tanggungan negara selama 3 tahun",
+        "D": "Cuti besar untuk memenuhi kewajiban agama",
+        "E": "Izin meninggalkan kantor tanpa surat resmi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS dengan masa kerja minimal 5 tahun berhak menggunakan **cuti besar untuk memenuhi kewajiban agama** (seperti ibadah haji) hingga 3 bulan.",
+        "alasan_kunci": "Opsi D tepat karena masa dinas telah mencapai 8 tahun (>5 tahun) dan durasi ibadah haji (40 hari) melampaui plafon cuti tahunan, sehingga tepat diwadahi melalui Cuti Besar keagamaan. Jadi, pilihan D adalah tindakan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Plafon cuti tahunan maksimal hanya 12-18 hari, tidak mencukupi 40 hari.",
+          "B": "Pegawai dalam kondisi sehat walafiat, tidak berhak atas cuti sakit.",
+          "C": "CLTN membekukan gaji dan status aktif, tidak tepat untuk ibadah haji sah.",
+          "E": "Meninggalkan tugas tanpa surat resmi merupakan pelanggaran disiplin berat."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 98,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "harus mengembalikan TKPKN\nyang diterimanya selama melaksanakan cuti tahunan"
+      ],
+      "topik_materi": "Penerapan Kewajiban Penyetoran Kembali TKPKN",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pada bulan Maret pegawai mengambil cuti tahunan 4 hari dengan TKPKN penuh. Bulan Agustus ia mengambil cuti besar. Pegawai wajib...",
+      "pilihan": {
+        "A": "Mengganti hari cuti besar menjadi jadwal kerja lembur malam",
+        "B": "Membayar ganti rugi pemakaian aset kantor selama satu tahun",
+        "C": "Mengembalikan TKPKN 4 hari yang diterima saat cuti tahunan",
+        "D": "Menyerahkan separuh gaji pokok kepada atasan langsung",
+        "E": "Menerima sanksi teguran tertulis dari pejabat kepegawaian"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "PNS yang telah cuti tahunan lalu mengambil cuti besar pada tahun yang sama **wajib mengembalikan TKPKN yang telah diterimanya selama cuti tahunan**.",
+        "alasan_kunci": "Opsi C tepat karena ketentuan mengharuskan pengembalian tunjangan kinerja (TKPKN) yang telah dicairkan atas 4 hari cuti tahunan terdahulu agar tidak terjadi tumpang tindih hak remunerasi cuti besar. Dengan demikian, opsi A tepat.",
+        "bedah_pengecoh": {
+          "A": "Cuti besar adalah hak istirahat sah, bukan utang jam lembur.",
+          "B": "Bukan ganti rugi aset kantor melainkan penyesuaian administrasi tunjangan.",
+          "D": "Gaji pokok tidak dipotong dan dilarang diserahkan kepada atasan.",
+          "E": "Pengambilan cuti sah bukan pelanggaran yang dijatuhi sanksi disiplin."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 99,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "PNS yang akan/telah menggunakan cuti besar berhak atas:",
+        "cuti bersama;"
+      ],
+      "topik_materi": "Analisis Hak-Hak yang Tetap Melekat Saat Cuti Besar",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "PNS yang sedang atau telah menggunakan hak cuti besar tetap berhak atas fasilitas cuti berikut, KECUALI...",
+      "pilihan": {
+        "A": "Cuti tambahan bebas tugas seumur hidup",
+        "B": "Cuti tahunan sisa tahun sebelumnya",
+        "C": "Cuti sakit apabila menderita sakit",
+        "D": "Cuti bersalin untuk anak pertama s.d. ketiga",
+        "E": "Cuti bersama resmi pemerintah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "PNS cuti besar tetap berhak atas: **1) cuti bersama; 2) cuti tahunan sisa tahun sebelum; 3) cuti sakit; 4) cuti bersalin anak 1-3; 5) cuti alasan penting**.",
+        "alasan_kunci": "Opsi A tepat sebagai pengecualian karena bebas tugas seumur hidup tidak dikenal dalam sistem manajemen aparatur negara dan bertentangan dengan kewajiban dinas. Kelima hak lainnya secara eksplisit dijamin tetap melekat pada pegawai penerima cuti besar. Oleh karena itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "B": "Merupakan hak sah yang tetap melekat pada penerima cuti besar.",
+          "C": "Merupakan hak sah yang tetap melekat pada penerima cuti besar.",
+          "D": "Merupakan hak sah yang tetap melekat pada penerima cuti besar.",
+          "E": "Merupakan hak sah yang tetap melekat pada penerima cuti besar."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 100,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "cuti bersalin untuk persalinan anaknya yang pertama, kedua, dan\nketiga",
+        "cuti besar menjelang persalinan"
+      ],
+      "topik_materi": "Analisis Pengelompokan Cuti Persalinan vs Cuti Besar",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Konstruksi pembedaan antara Cuti Bersalin dan Cuti Besar terkait persalinan dalam regulasi kepegawaian didasarkan pada...",
+      "pilihan": {
+        "A": "Tingkat kelulusan nilai indeks prestasi kumulatif saat kuliah",
+        "B": "Jenis kelamin anak yang dilahirkan apakah laki-laki atau perempuan",
+        "C": "Lokasi rumah sakit bersalin apakah di dalam atau luar negeri",
+        "D": "Pangkat dan golongan ruang kepegawaian suami yang bersangkutan",
+        "E": "Urutan kelahiran anak, di mana anak keempat dialihkan ke cuti besar"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Persalinan anak **pertama, kedua, dan ketiga** menggunakan **Cuti Bersalin**, sedangkan persalinan anak **keempat** menggunakan hak **Cuti Besar**.",
+        "alasan_kunci": "Opsi E tepat karena kebijakan kependudukan dan cuti aparatur membatasi fasilitas Cuti Bersalin khusus hingga anak ketiga. Kelahiran anak keempat dan seterusnya diakomodasi melalui hak Cuti Besar apabila memenuhi syarat masa kerja minimal 5 tahun. Maka dari itu, opsi A adalah analisis yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Prestasi akademik masa lalu tidak berkaitan dengan hak persalinan.",
+          "B": "Jenis kelamin bayi tidak mempengaruhi hak cuti persalinan.",
+          "C": "Lokasi fasilitas kesehatan tidak mengubah nomenklatur hak cuti.",
+          "D": "Pangkat suami tidak menjadi penentu hak cuti persalinan istri ASN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    }
+  ]
+}

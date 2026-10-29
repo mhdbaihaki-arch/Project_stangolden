@@ -1,0 +1,3024 @@
+{
+  "paket_nomor": 3,
+  "dokumen_sumber": "3. Tata Aturan Kepegawaian.pdf",
+  "rentang_halaman": "Halaman 31 s/d Halaman 41",
+  "jumlah_soal": 100,
+  "distribusi_kunci": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20,
+    "E": 20
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "58 (lima puluh delapan) tahun bagi pejabat administrasi",
+        "ahli muda, pejabat fungsional ahli pertama"
+      ],
+      "topik_materi": "Batas Usia Pensiun Pejabat Administrasi dan JF Ahli Pertama/Muda",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Batas Usia Pensiun (BUP) bagi pejabat administrasi, pejabat fungsional ahli pertama, dan ahli muda adalah...",
+      "pilihan": {
+        "A": "58 tahun kalender masa pengabdian",
+        "B": "60 tahun masa bakti aparatur negara",
+        "C": "62 tahun masa kedinasan pemerintah",
+        "D": "65 tahun masa jabatan fungsional",
+        "E": "70 tahun masa kerja kepegawaian"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan PP 11/2017 stdd PP 17/2020, Batas Usia Pensiun PNS adalah **58 tahun bagi pejabat administrasi, pejabat fungsional ahli muda, ahli pertama, dan fungsional keterampilan**.",
+        "alasan_kunci": "Opsi A merupakan batas usia pensiun baku bagi aparatur jenjang administrasi dan keahlian tingkat dasar hingga menengah. Ketentuan ini memberikan kepastian regenerasi kepemimpinan dan penataan formasi berkala. Regulasi menetapkan BUP kelompok jabatan ini tepat 58 tahun. Dengan demikian, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "B": "Merupakan batas usia pensiun bagi pejabat pimpinan tinggi dan fungsional ahli madya.",
+          "C": "Merupakan batas usia pensiun profesi tertentu di luar ketentuan umum manajemen PNS.",
+          "D": "Merupakan batas usia pensiun khusus bagi pejabat fungsional ahli utama.",
+          "E": "Merupakan batas pensiun hakim agung atau guru besar akademisi senior."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "60 (enam puluh) tahun bagi pejabat pimpinan tinggi",
+        "pejabat fungsional"
+      ],
+      "topik_materi": "Batas Usia Pensiun JPT dan JF Madya",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Batas Usia Pensiun bagi Pegawai Negeri Sipil yang menduduki Jabatan Pimpinan Tinggi dan JF Ahli Madya adalah...",
+      "pilihan": {
+        "A": "56 tahun kalender dinas",
+        "B": "60 tahun masa kedinasan",
+        "C": "62 tahun masa penugasan",
+        "D": "65 tahun masa pengabdian",
+        "E": "58 tahun masa pengabdian"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Batas Usia Pensiun bagi PNS adalah **60 (enam puluh) tahun bagi pejabat pimpinan tinggi dan pejabat fungsional madya**.",
+        "alasan_kunci": "Opsi B merupakan ketentuan batas usia bagi pucuk pimpinan birokrasi dan tenaga ahli tingkat madya. Kematangan kepemimpinan strategis dan keahlian mendalam dibutuhkan hingga batas usia enam puluh tahun. Regulasi menegaskan BUP bagi JPT dan JF Madya adalah 60 tahun. Oleh karena itu, opsi B adalah ketetapan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan usia masa pensiun dini sukarela yang memenuhi syarat tertentu.",
+          "C": "Merupakan batas usia fiktif yang tidak tercantum dalam PP 11/2017 stdd PP 17/2020.",
+          "D": "Merupakan batas pensiun bagi pejabat fungsional jenjang ahli utama.",
+          "E": "Merupakan batas pensiun bagi pejabat administrasi dan JF keterampilan/pertama/muda."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "65 (enam puluh lima) tahun bagi",
+        "PP 11 Tahun 2017 sebagaimana telah"
+      ],
+      "topik_materi": "Batas Usia Pensiun JF Ahli Utama",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Batas Usia Pensiun yang ditetapkan oleh peraturan perundang-undangan bagi PNS pemangku Jabatan Fungsional Ahli Utama adalah...",
+      "pilihan": {
+        "A": "58 tahun masa kedinasan",
+        "B": "60 tahun masa pengabdian",
+        "C": "65 tahun masa pengabdian",
+        "D": "67 tahun masa kepakaran",
+        "E": "70 tahun masa pengabdian"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sesuai PP 11/2017 stdd PP 17/2020, Batas Usia Pensiun adalah **65 (enam puluh lima) tahun bagi PNS yang memangku pejabat fungsional ahli utama**.",
+        "alasan_kunci": "Opsi C merupakan apresiasi dan pemanfaatan kepakaran tertinggi fungsional aparatur negara. Jenjang Ahli Utama memiliki kontribusi substansi strategis bagi kebijakan nasional sehingga masa baktinya diperpanjang hingga enam puluh lima tahun. Aturan menetapkan BUP JF Ahli Utama adalah 65 tahun. Dengan demikian, opsi C adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan batas usia pensiun bagi pejabat administrasi dan JF pertama/muda.",
+          "B": "Merupakan batas usia pensiun bagi JPT dan pejabat fungsional madya.",
+          "D": "Merupakan batas usia fiktif di luar peraturan perundangan manajemen PNS.",
+          "E": "Merupakan batas usia bagi profesor riset atau hakim peradilan tinggi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Jaminan pensiun PNS dan jaminan hari tua PNS diberikan sebagai",
+        "kesinambungan penghasilan hari tua, sebagai hak"
+      ],
+      "topik_materi": "Fungsi Jaminan Pensiun dan JHT",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Jaminan pensiun dan jaminan hari tua diberikan kepada PNS dengan fungsi utama sebagai...",
+      "pilihan": {
+        "A": "Pajak pemotongan wajib untuk pendanaan kontestasi politik daerah",
+        "B": "Uang kompensasi atas pelepasan kewarganegaraan aparatur sipil",
+        "C": "Pinjaman modal kerja bagi pembukaan kegiatan bisnis pribadi",
+        "D": "Perlindungan kesinambungan penghasilan hari tua serta penghargaan jasa",
+        "E": "Modal investasi saham berisiko tinggi pada pasar bursa modal"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Jaminan pensiun PNS dan jaminan hari tua PNS diberikan sebagai perlindungan kesinambungan penghasilan hari tua, sebagai hak dan sebagai penghargaan atas pengabdian PNS**.",
+        "alasan_kunci": "Opsi D merupakan filosofi perlindungan sosial negara bagi purnakaryawan aparatur sipil. Setelah puluhan tahun mengabdi, negara menjamin kestabilan finansial aparatur di masa lanjut usia sebagai hak dan wujud terima kasih bangsa. Regulasi menegaskan fungsinya sebagai perlindungan kesinambungan penghasilan dan penghargaan. Oleh karena itu, opsi D adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pemotongan ilegal yang dilarang keras dalam hukum keuangan negara.",
+          "B": "Merupakan kompensasi fiktif yang bertentangan dengan asas kewarganegaraan NKRI.",
+          "C": "Merupakan pemanfaatan dana pensiun yang menyalahi tujuan proteksi hari tua.",
+          "E": "Merupakan spekulasi keuangan berbahaya yang dilarang bagi dana jaminan sosial."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Batas Usia Pensiun bagi PNS yang",
+        "berlaku ketentuan sesuai dengan Batas Usia"
+      ],
+      "topik_materi": "Ketentuan BUP Khusus Berdasarkan Undang-Undang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan batas usia pensiun bagi PNS yang memangku jabatan fungsional tertentu yang diatur khusus dalam undang-undang adalah...",
+      "pilihan": {
+        "A": "Otomatis disamakan menjadi 55 tahun untuk seluruh rumpun jabatan",
+        "B": "Wajib mengikuti keputusan menteri keuangan selaku bendahara negara",
+        "C": "Mengikuti kesepakatan informal antar-pejabat fungsional di satker",
+        "D": "Dapat ditentukan secara sepihak oleh pimpinan kantor perwakilan",
+        "E": "Berlaku sesuai batas usia pensiun yang ditetapkan undang-undang terkait"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Batas Usia Pensiun bagi PNS yang menduduki Jabatan Fungsional yang ditentukan dalam undang-undang, berlaku ketentuan sesuai dengan Batas Usia Pensiun yang ditetapkan dalam undang-undang yang bersangkutan** (*lex specialis*).",
+        "alasan_kunci": "Opsi E merupakan penerapan asas *lex specialis derogat legi generali* dalam hukum kepegawaian. Jika undang-undang profesi khusus (seperti UU Dosen/Guru Besar atau Jaksa) menetapkan batas usia tersendiri, maka ketentuan khusus undang-undang itulah yang berlaku mengikat. Regulasi menyatakan berlaku sesuai BUP undang-undang yang bersangkutan. Dengan demikian, opsi E adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan penyeragaman keliru yang menabrak ketentuan undang-undang profesi.",
+          "B": "Merupakan menteri sektoral fiskal yang tidak menetapkan BUP profesi lain.",
+          "C": "Merupakan musyawarah tanpa dasar legalitas yang batal demi hukum.",
+          "D": "Merupakan keputusan sepihak lokal yang melanggar hierarki perundang-undangan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "perampingan organisasi atau kebijakan pemerintah",
+        "pensiun dini"
+      ],
+      "topik_materi": "Pemberhentian Pensiun Dini Rasionalisasi",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Sebuah kementerian menggabungkan dua badan riset menjadi satu entitas baru sehingga terjadi perampingan organisasi. Pegawai terdampak yang memenuhi kriteria memperoleh...",
+      "pilihan": {
+        "A": "Hak pensiun dini dengan hormat sesuai kebijakan pemerintah",
+        "B": "Pemberhentian tidak dengan hormat tanpa uang pesangon dinas",
+        "C": "Hukuman disiplin berat karena tidak mampu mempertahankan unit",
+        "D": "Kewajiban mengembalikan seluruh gaji yang pernah diterima dinas",
+        "E": "Pemindahan paksa menjadi pegawai kontrak lepas tanpa status"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "PNS dapat diberhentikan dengan hormat dan berhak atas jaminan pensiun karena **perampingan organisasi atau kebijakan pemerintah yang mengakibatkan pensiun dini**.",
+        "alasan_kunci": "Opsi A merupakan perlindungan hak kepegawaian dalam restrukturisasi birokrasi negara. Pegawai yang terdampak penataan organisasi pemerintah dan memenuhi ambang usia/masa kerja berhak menerima pensiun dini terhormat beserta jaminan hari tua. Aturan menegaskan hak pensiun dini akibat perampingan organisasi. Oleh karena itu, opsi A adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Merupakan pemecatan tercela yang keliru diterapkan pada korban perampingan.",
+          "C": "Merupakan vonis disiplin salah sasaran yang melanggar hak asasi pegawai.",
+          "D": "Merupakan sanksi ganti rugi ilegal yang bertentangan dengan hukum keuangan.",
+          "E": "Merupakan penurunan status sewenang-wenang tanpa dasar hukum aparatur."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Jaminan pensiun dan jaminan hari tua",
+        "program jaminan sosial nasional"
+      ],
+      "topik_materi": "Integrasi Jaminan Pensiun ke SJSN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengelolaan jaminan pensiun dan jaminan hari tua bagi aparatur sipil negara terintegrasi ke dalam kerangka...",
+      "pilihan": {
+        "A": "Asuransi komersial swasta internasional tanpa pengawasan",
+        "B": "Program jaminan sosial nasional yang diatur undang-undang",
+        "C": "Koperasi simpan pinjam pegawai di lingkungan kelurahan",
+        "D": "Yayasan filantropi bantuan sosial bencana alam daerah",
+        "E": "Perkumpulan arisan keluarga aparatur sipil negara daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Jaminan pensiun dan jaminan hari tua bagi PNS **mencakup jaminan pensiun dan jaminan hari tua yang diberikan dalam program jaminan sosial nasional** (SJSN).",
+        "alasan_kunci": "Opsi B merupakan kebijakan unifikasi sistem proteksi sosial nasional. Jaminan pensiun ASN dipayungi regulasi sistem jaminan sosial nasional guna memastikan tata kelola dana yang akuntabel, transparan, dan berkelanjutan. Aturan menegaskan jaminan pensiun diberikan dalam program jaminan sosial nasional. Dengan demikian, opsi B adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan asuransi swasta berorientasi profit di luar skema negara.",
+          "C": "Merupakan entitas simpan pinjam mikro di luar tata kelola pensiun nasional.",
+          "D": "Merupakan lembaga amal sukarela yang tidak memiliki mandat jaminan hari tua.",
+          "E": "Merupakan kegiatan sosial informal tanpa ikatan hukum perbendaharaan negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "pejabat fungsional",
+        "58 (lima puluh delapan) tahun"
+      ],
+      "topik_materi": "BUP Pejabat Fungsional Keterampilan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan regulasi manajemen PNS, Batas Usia Pensiun bagi seorang pejabat fungsional keterampilan adalah...",
+      "pilihan": {
+        "A": "55 tahun masa tugas",
+        "B": "56 tahun masa tugas",
+        "C": "58 tahun masa tugas",
+        "D": "60 tahun masa tugas",
+        "E": "65 tahun masa tugas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Batas Usia Pensiun bagi **pejabat fungsional keterampilan** adalah **58 (lima puluh delapan) tahun** sebagaimana diatur dalam PP 11/2017 stdd PP 17/2020.",
+        "alasan_kunci": "Opsi C merupakan ambang batas usia pensiun bagi rumpun fungsional kategori keterampilan (pemula, terampil, mahir, penyelia). Batas usia 58 tahun disetarakan dengan pejabat administrasi dan fungsional ahli pertama/muda. Regulasi menetapkan batas usianya adalah 58 tahun. Oleh karena itu, opsi C adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan batas usia pensiun lama pada masa regulasi sebelum reformasi.",
+          "B": "Merupakan usia pensiun yang tidak dikenal dalam PP 11/2017 stdd PP 17/2020.",
+          "D": "Merupakan batas usia pensiun bagi pejabat fungsional ahli madya dan JPT.",
+          "E": "Merupakan batas usia pensiun bagi pemangku fungsional ahli utama."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "tidak cakap jasmani dan/atau rohani sehingga tidak dapat menjalankan tugas",
+        "dan kewajiban"
+      ],
+      "topik_materi": "Pensiun Akibat Ketidakcakapan Medis",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang dinyatakan tidak cakap jasmani dan/atau rohani oleh tim penguji kesehatan pegawai diberhentikan dengan...",
+      "pilihan": {
+        "A": "Tidak dengan hormat dan dicabut seluruh hak santunan dinas",
+        "B": "Pemberhentian sementara tanpa hak jaminan kesinambungan gaji",
+        "C": "Penurunan pangkat tiga tingkat di bawah jenjang sebelumnya",
+        "D": "Hormat dengan hak pensiun sesuai ketentuan peraturan perundangan",
+        "E": "Sanksi kewajiban membayar denda perawatan kepada rumah sakit"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "PNS yang **tidak cakap jasmani dan/atau rohani sehingga tidak dapat menjalankan tugas dan kewajiban diberhentikan dengan hormat dengan hak pensiun**.",
+        "alasan_kunci": "Opsi D merupakan perlakuan hukum yang adil bagi aparatur yang mengalami disabilitas kerja permanen. Berdasarkan surat keterangan tim penguji kesehatan resmi, pegawai diberhentikan secara terhormat dan diberikan hak jaminan pensiun. Aturan menegaskan pemberhentian dilakukan dengan hormat dengan hak pensiun. Dengan demikian, opsi D adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan sanksi pelanggaran kejahatan yang tidak sah bagi korban sakit medis.",
+          "B": "Merupakan tindakan penelantaran hak yang melanggar jaminan sosial aparatur.",
+          "C": "Merupakan sanksi disiplin yang keliru diterapkan pada kondisi kesehatan fisik.",
+          "E": "Merupakan pembebanan denda ilegal yang bertentangan dengan hukum perlindungan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "PNS diberhentikan dengan hormat karena mencapai batas usia pensiun",
+        "PP 11 Tahun 2017 sebagaimana telah"
+      ],
+      "topik_materi": "Dasar Regulasi Batas Usia Pensiun PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dasar regulasi pemerintah yang mengatur rincian ketentuan Batas Usia Pensiun PNS menurut jenjang jabatan adalah...",
+      "pilihan": {
+        "A": "Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara",
+        "B": "Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang",
+        "C": "Keputusan Komisi Yudisial Nomor 5 Tahun 2015 tentang Kode Etik",
+        "D": "Instruksi Jaksa Agung Republik Indonesia Nomor 2 Tahun 2019",
+        "E": "PP 11 Tahun 2017 stdd PP 17 Tahun 2020 Manajemen PNS"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Rincian ketentuan Batas Usia Pensiun PNS diatur dalam **PP 11 Tahun 2017 sebagaimana telah diubah dengan PP 17 Tahun 2020 tentang Manajemen Pegawai Negeri Sipil**.",
+        "alasan_kunci": "Opsi E merupakan peraturan pemerintah induk tata kelola kepegawaian negeri sipil nasional. PP ini memuat norma baku BUP mulai dari 58 tahun (administrasi/ahli muda/pertama/keterampilan), 60 tahun (JPT/madya), hingga 65 tahun (ahli utama). Regulasi yang tepat adalah PP 11/2017 stdd PP 17/2020. Oleh karena itu, opsi E adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan undang-undang pengelolaan perbendaharaan dan kas umum negara.",
+          "B": "Merupakan perpres tata laksana pengadaan barang dan jasa pemerintah.",
+          "C": "Merupakan kode etik perilaku profesi hakim lembaga kehakiman.",
+          "D": "Merupakan regulasi teknis internal aparatur penuntut umum kejaksaan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "Kementerian Keuangan sejak reformasi birokrasi tahun 2007",
+        "telah menerapkan"
+      ],
+      "topik_materi": "Linimasa Penerapan Sistem Merit di Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam sejarah transformasi kelembagaan, Kementerian Keuangan telah mengimplementasikan Sistem Merit secara konsisten sejak...",
+      "pilihan": {
+        "A": "Masa pengesahan undang-undang perbendaharaan tahun 1999",
+        "B": "Momentum reformasi birokrasi kementerian tahun 2007",
+        "C": "Pelaksanaan program desentralisasi fiskal tahun 2014",
+        "D": "Penerbitan paket regulasi keuangan negara tahun 2003",
+        "E": "Pemberlakuan undang-undang penanaman modal tahun 2008"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Kementerian Keuangan sejak reformasi birokrasi tahun 2007 telah menerapkan sistem merit** antara lain melalui rekrutmen objektif, talent management, dan remunerasi kinerja.",
+        "alasan_kunci": "Opsi B merupakan tonggak sejarah (*milestone*) reformasi birokrasi modern di Kementerian Keuangan. Sejak 2007, Kemenkeu memelopori tata kelola SDM aparatur berbasis kompetensi, pemeringkatan jabatan (*grading*), dan remunerasi kinerja. Modul mencatat tahun 2007 sebagai awal penerapan sistem merit. Oleh karena itu, opsi B adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan era pasca reformasi awal yang belum menerapkan sistem merit komprehensif.",
+          "C": "Merupakan tahun transisi undang-undang ASN lama di luar momentum awal 2007.",
+          "D": "Merupakan tahun penerbitan UU No 17/2003 tentang Keuangan Negara.",
+          "E": "Merupakan undang-undang investasi modal swasta di luar manajemen SDM kementerian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "rekrutmen yang objektif dan transparan, pengukuran",
+        "penerapan manajemen kinerja, peringkat jabatan, talent management"
+      ],
+      "topik_materi": "Bentuk Nyata Sistem Merit di Kemenkeu",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Penerapan Sistem Merit di Kementerian Keuangan sejak 2007 diwujudkan melalui kebijakan nyata, KECUALI...",
+      "pilihan": {
+        "A": "Rekrutmen aparatur yang transparan dan objektif",
+        "B": "Pengukuran standar kompetensi teknis dan manajerial",
+        "C": "Pemberian promosi berdasarkan garis kekerabatan pejabat",
+        "D": "Penerapan manajemen kinerja dan pemeringkatan jabatan",
+        "E": "Remunerasi berbasis kelas jabatan dan capaian kinerja"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sistem merit di Kementerian Keuangan diterapkan melalui: **rekrutmen objektif/transparan, pengukuran kompetensi, manajemen kinerja, peringkat jabatan, talent management, dan remunerasi berbasis jabatan/kinerja**.",
+        "alasan_kunci": "Opsi C merupakan praktik nepotisme yang bertentangan secara diametral dengan filosofi Sistem Merit. Seluruh promosi dan mutasi di Kemenkeu didasarkan pada kompetensi, kualifikasi, dan prestasi kinerja terukur. Oleh karena itu, opsi C adalah pilihan jawaban pengecualian yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pilar pintu masuk pengadaan pegawai berbasis meritokrasi murni.",
+          "B": "Merupakan instrumen pengukuran kapasitas kerja pegawai secara terstandardisasi.",
+          "D": "Merupakan sistem pengelolaan output kerja (*performance management*) dan *grading*.",
+          "E": "Merupakan skema kompensasi adil (*equal pay for equal work*) di birokrasi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "Peraturan Menteri Keuangan Republik Indonesia Nomor",
+        "Manajemen Talenta di lingkungan"
+      ],
+      "topik_materi": "Dasar Regulasi Manajemen Talenta Kemenkeu Terbaru",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Regulasi terbaru Kementerian Keuangan yang menjadi dasar hukum pelaksanaan Manajemen Talenta adalah...",
+      "pilihan": {
+        "A": "Peraturan Menteri Keuangan Nomor 10 Tahun 2015",
+        "B": "Peraturan Direktur Jenderal Anggaran Nomor 5 Tahun 2020",
+        "C": "Surat Edaran Sekretaris Jenderal Nomor 12 Tahun 2018",
+        "D": "Peraturan Menteri Keuangan Nomor 38 Tahun 2025",
+        "E": "Keputusan Kepala Badan Pendidikan Keuangan 2019"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kementerian Keuangan telah menerbitkan **Peraturan Menteri Keuangan Republik Indonesia Nomor 38 Tahun 2025 tentang Manajemen Talenta di Lingkungan Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi D merupakan regulasi termutakhir yang menyempurnakan dan mempercepat akselerasi sistem merit di Kemenkeu sesuai amanat UU No 20/2023. Peraturan ini mencabut regulasi manajemen talenta terdahulu. Regulasi yang tepat adalah PMK Nomor 38 Tahun 2025. Dengan demikian, opsi D adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan aturan lama mengenai standar biaya yang tidak mengatur talenta.",
+          "B": "Merupakan regulasi perbendaharaan operasional anggaran eselon satu.",
+          "C": "Merupakan surat edaran internal di luar format peraturan menteri keuangan.",
+          "E": "Merupakan keputusan kepala badan diklat teknis pembelajaran aparatur."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "mencabut 2 (dua) ketentuan sebelumnya",
+        "Peraturan Menteri Keuangan Republik Indonesia Nomor 60/PMK.01/2016",
+        "Peraturan Menteri Keuangan Republik Indonesia Nomor"
+      ],
+      "topik_materi": "Ketentuan Terdahulu yang Dicabut PMK 38/2025",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerbitan Peraturan Menteri Keuangan Nomor 38 Tahun 2025 mencabut dua regulasi manajemen talenta sebelumnya, yaitu...",
+      "pilihan": {
+        "A": "PMK Nomor 10/PMK.01/2012 dan PMK Nomor 20/PMK.01/2014",
+        "B": "PMK Nomor 45/PMK.01/2015 dan PMK Nomor 50/PMK.01/2018",
+        "C": "PMK Nomor 75/PMK.01/2013 dan PMK Nomor 85/PMK.01/2015",
+        "D": "PMK Nomor 90/PMK.01/2010 dan PMK Nomor 95/PMK.01/2012",
+        "E": "PMK Nomor 60/PMK.01/2016 dan PMK Nomor 161/PMK.01/2017"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "PMK Nomor 38 Tahun 2025 **mencabut 2 ketentuan sebelumnya yaitu PMK Nomor 60/PMK.01/2016 tentang Manajemen Talenta Kementerian Keuangan stdd PMK Nomor 161/PMK.01/2017**.",
+        "alasan_kunci": "Opsi E merupakan dasar transisi hukum regulasi manajemen talenta Kemenkeu. Ketentuan lama PMK 60/2016 dan perubahannya PMK 161/2017 digantikan seutuhnya oleh PMK 38/2025 demi keselarasan dengan UU ASN Nomor 20 Tahun 2023. Aturan menyatakan yang dicabut adalah PMK 60/2016 stdd PMK 161/2017. Oleh karena itu, opsi E adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan nomor regulasi fiktif yang tidak mengatur manajemen talenta.",
+          "B": "Merupakan nomor PMK yang mengatur pengelolaan anggaran kas negara.",
+          "C": "Merupakan regulasi tata naskah dinas di luar ruang lingkup suksesi talenta.",
+          "D": "Merupakan peraturan administrasi kantor era awal reformasi kementerian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "succession planning yang objektif, terencana, terbuka",
+        "tepat waktu, dan akuntabel"
+      ],
+      "topik_materi": "Karakteristik Rencana Suksesi di Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Manajemen Talenta di Kementerian Keuangan diimplementasikan guna mewujudkan rencana suksesi (succession planning) yang memiliki sifat...",
+      "pilihan": {
+        "A": "Objektif, terencana, terbuka, tepat waktu, dan akuntabel",
+        "B": "Tertutup, fleksibel, tergesa-gesa, dan berbasis kekeluargaan",
+        "C": "Spontan, informal, rahasia pimpinan, dan tanpa tolak ukur",
+        "D": "Birokratis, kaku, memprioritaskan senioritas umur tertinggi",
+        "E": "Kompromistis, politis, mengakomodasi titipan pihak eksternal"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Manajemen Talenta diimplementasikan untuk mewujudkan **succession planning yang objektif, terencana, terbuka, tepat waktu, dan akuntabel guna memperkuat dan mengakselerasi penerapan Sistem Merit**.",
+        "alasan_kunci": "Opsi A merupakan lima prinsip baku perencanaan suksesi kepemimpinan di Kemenkeu. Rencana suksesi tidak boleh bersifat dadakan atau politis, melainkan tersusun sistematis berbasis data kinerja dan profil kompetensi yang transparan. Regulasi menegaskan suksesi harus objektif, terencana, terbuka, tepat waktu, dan akuntabel. Dengan demikian, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "B": "Merupakan pola suksesi patrimonial yang merusak transparansi meritokrasi.",
+          "C": "Merupakan metode acak nir-rencana yang menimbulkan krisis kepemimpinan.",
+          "D": "Merupakan pola birokrasi lama yang mengutamakan senioritas di atas kompetensi.",
+          "E": "Merupakan intervensi politik yang dilarang dalam pembinaan pegawai Kemenkeu."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "Pegawai Negeri Sipil Kementerian Keuangan terbaik",
+        "kualifikasi, kompetensi, dan kinerja optimal"
+      ],
+      "topik_materi": "Kriteria Pegawai Pengisi Jabatan Strategis",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kriteria utama PNS Kementerian Keuangan yang dipersiapkan melalui manajemen talenta untuk mengisi jabatan struktural berdampak signifikan adalah...",
+      "pilihan": {
+        "A": "Memiliki masa kerja terlama di unit pusat kementerian",
+        "B": "Memiliki kualifikasi, kompetensi, dan kinerja yang optimal",
+        "C": "Memiliki kedekatan personal dengan pejabat pembina utama",
+        "D": "Pernah menjabat sebagai ketua panitia peringatan hari besar",
+        "E": "Memiliki sertifikat penghargaan kejuaraan olahraga dinas"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Manajemen talenta mencari PNS Kementerian Keuangan terbaik yang **memiliki kualifikasi, kompetensi, dan kinerja optimal untuk mengisi jabatan struktural yang berdampak secara signifikan** terhadap visi kementerian.",
+        "alasan_kunci": "Opsi B merupakan segitiga emas kriteria meritokrasi modern (kualifikasi, kompetensi, kinerja). Pejabat pada posisi berdampak signifikan (*impactful position*) wajib membuktikan keunggulan rekam jejak capaian kerja nyata dan kecakapan kepemimpinan. Regulasi mensyaratkan kualifikasi, kompetensi, dan kinerja optimal. Oleh karena itu, opsi B adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan ukuran senioritas pasif yang tidak menjamin mutu kepemimpinan.",
+          "C": "Merupakan relasi subjektif yang dilarang dalam sistem manajemen talenta.",
+          "D": "Merupakan kepanitiaan seremonial yang bukan indikator capaian kinerja strategis.",
+          "E": "Merupakan kegiatan ekstrakurikuler dinas di luar kompetensi jabatan publik."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "yang berdampak secara signifikan",
+        "terhadap pencapaian visi, misi, dan strategi"
+      ],
+      "topik_materi": "Tujuan Penyiapan Calon Pemimpin Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan utama penyiapan talenta terbaik untuk menduduki jabatan struktural strategis di Kementerian Keuangan adalah...",
+      "pilihan": {
+        "A": "Menghabiskan alokasi anggaran perjalanan dinas tahunan",
+        "B": "Mengurangi beban jam kerja staf pelaksana operasional",
+        "C": "Menunjang pencapaian visi, misi, dan strategi kementerian",
+        "D": "Memperbanyak jumlah unit kerja baru di daerah pelosok",
+        "E": "Menambah porsi belanja pengadaan kendaraan dinas pimpinan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Talenta terbaik disiapkan guna mengisi posisi strategis yang **berdampak secara signifikan terhadap pencapaian visi, misi, dan strategi Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi C merupakan orientasi akhir dari manajemen talenta yaitu efektivitas organisasi dalam mengelola keuangan negara. Posisi kunci yang dipegang oleh figur kompeten memastikan visi pengawalan fiskal negara dapat tercapai prima. Regulasi menegaskan orientasinya pada pencapaian visi, misi, dan strategi kementerian. Dengan demikian, opsi C adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan penyerapan anggaran formalitas yang menyalahi efisiensi belanja.",
+          "B": "Merupakan pembagian tugas teknis rutin di luar sasaran strategis kementerian.",
+          "D": "Merupakan pemekaran struktur tanpa pertimbangan efektivitas tata kelola.",
+          "E": "Merupakan pengeluaran barang dinas konsumtif yang tidak berkaitan dengan visi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "pemberian remunerasi berbasis",
+        "peringkat jabatan dan kinerja"
+      ],
+      "topik_materi": "Dasar Pemberian Remunerasi Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sejak reformasi birokrasi, sistem pemberian remunerasi pegawai di lingkungan Kementerian Keuangan didasarkan pada...",
+      "pilihan": {
+        "A": "Jenjang gelar kebangsawanan keluarga pegawai bersangkutan",
+        "B": "Banyaknya jumlah anggota keluarga yang menjadi tanggungan",
+        "C": "Frekuensi kehadiran tanpa memperhitungkan capaian target tugas",
+        "D": "Peringkat jabatan (grading) dan capaian kinerja pegawai",
+        "E": "Penilaian suka atau tidak suka dari pimpinan unit kerja"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Sistem remunerasi Kementerian Keuangan berbasis meritokrasi diberikan **berdasarkan peringkat jabatan (grading) dan kinerja pegawai**.",
+        "alasan_kunci": "Opsi D merupakan prinsip diferensiasi kompensasi berbasis bobot tanggung jawab dan kontribusi riil. Pegawai pada kelas jabatan lebih tinggi atau dengan kinerja melampaui target menerima remunerasi sebanding. Regulasi menegaskan remunerasi berbasis peringkat jabatan dan kinerja. Oleh karena itu, opsi D adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan feodalisme masa lalu yang bertentangan dengan hukum kesetaraan hak.",
+          "B": "Merupakan tunjangan keluarga sosial dan bukan dasar remunerasi kinerja pokok.",
+          "C": "Merupakan presensi pasif yang tidak mencerminkan produktivitas kerja nyata.",
+          "E": "Merupakan subjektivitas atasan (*like and dislike*) yang merusak sistem merit."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "Undang-Undang Nomor 20 Tahun 2023",
+        "tentang Aparatur Sipil"
+      ],
+      "topik_materi": "Payung Hukum Utama Pengelolaan ASN Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Payung hukum undang-undang utama yang mendasari transformasi manajemen ASN dan talenta di Kementerian Keuangan saat ini adalah...",
+      "pilihan": {
+        "A": "Undang-Undang Nomor 8 Tahun 1974 tentang Pokok Kepegawaian",
+        "B": "Undang-Undang Nomor 43 Tahun 1999 tentang Perubahan Kepegawaian",
+        "C": "Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara",
+        "D": "Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara",
+        "E": "Undang-Undang Nomor 20 Tahun 2023 tentang Aparatur Sipil Negara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Implementasi sistem merit dan manajemen talenta Kementerian Keuangan diselenggarakan **sesuai Undang-Undang Nomor 20 Tahun 2023 tentang Aparatur Sipil Negara**.",
+        "alasan_kunci": "Opsi E merupakan regulasi payung tertinggi aparatur negara terkini yang menggantikan UU No 5/2014. UU 20/2023 memperkenalkan paradigma baru mobilitas talenta, fleksibilitas pengisian jabatan, dan penguatan digitalisasi ASN. Undang-undang yang tepat adalah UU Nomor 20 Tahun 2023. Dengan demikian, opsi E adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan undang-undang kepegawaian era Orde Baru yang telah dicabut lama.",
+          "B": "Merupakan regulasi era transisi reformasi yang telah digantikan regulasi baru.",
+          "C": "Merupakan payung hukum pengelolaan fiskal dan anggaran keuangan negara.",
+          "D": "Merupakan undang-undang tata laksana kebendaharaan umum negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "posisi lain yang dianggap strategis",
+        "oleh Kementerian"
+      ],
+      "topik_materi": "Cakupan Penempatan Manajemen Talenta",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain mengisi jabatan struktural definitif, talenta unggul yang disaring melalui manajemen talenta Kemenkeu dipersiapkan untuk...",
+      "pilihan": {
+        "A": "Mengisi posisi lain yang dianggap strategis oleh instansi",
+        "B": "Menjadi pengurus harian pada partai politik mitra pemerintah",
+        "C": "Mengelola badan usaha swasta komersial milik keluarga pegawai",
+        "D": "Mengambil alih seluruh fungsi pemeriksaan auditor eksternal negara",
+        "E": "Menjalankan tugas dinas militer tempur di garis depan perbatasan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Manajemen talenta Kemenkeu disiapkan mengisi jabatan struktural serta **posisi lain yang dianggap strategis oleh Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi A merupakan ruang lingkup fleksibilitas suksesi kepemimpinan non-struktural, seperti ketua tim transformasi, *special mission vehicle* (SMV), atau gugus tugas proyek strategis nasional. Talenta terbaik dapat ditempatkan pada posisi berdampak tinggi tersebut. Aturan menyebutkan posisinya mencakup posisi lain yang dianggap strategis. Oleh karena itu, opsi A adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Merupakan larangan mutlak netralitas ASN yang diancam hukuman pemecatan.",
+          "C": "Merupakan benturan kepentingan bisnis yang dilarang bagi aparatur negara.",
+          "D": "Merupakan kewenangan independen BPK yang tidak dapat diambil alih aparatur sipil.",
+          "E": "Merupakan fungsi komando tempur TNI dan bukan penugasan talenta sipil."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "mengelola, mengembangkan, mempertahankan, dan mengevaluasi",
+        "terbaik yang dipersiapkan sebagai calon pemimpin"
+      ],
+      "topik_materi": "Definisi Manajemen Talenta Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sistem pengelolaan SDM untuk mencari, mengelola, mengembangkan, mempertahankan, dan mengevaluasi PNS Kemenkeu terbaik disebut...",
+      "pilihan": {
+        "A": "Sistem administrasi mutasi kedaerahan terpadu",
+        "B": "Manajemen pembinaan sanksi pelanggaran presensi",
+        "C": "Manajemen Talenta di lingkungan Kementerian Keuangan",
+        "D": "Tata kelola pengadaan barang logistik operasional",
+        "E": "Sistem informasi pengelolaan kas perbendaharaan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Manajemen Talenta di lingkungan Kementerian Keuangan Republik Indonesia merupakan serangkaian sistem pengelolaan SDM untuk mencari, mengelola, mengembangkan, mempertahankan, dan mengevaluasi PNS Kemenkeu terbaik yang dipersiapkan sebagai calon pemimpin masa depan**.",
+        "alasan_kunci": "Opsi C merupakan rumusan definisi resmi manajemen talenta Kemenkeu. Konsep ini mencakup siklus hulu ke hilir (*end-to-end talent lifecycle*), mulai dari identifikasi kandidat unggul hingga retensi kepemimpinan. Regulasi merumuskannya sebagai Manajemen Talenta Kemenkeu. Dengan demikian, opsi C adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan prosedur teknis perpindahan tugas geografis aparatur dinas.",
+          "B": "Merupakan penegakan tata tertib presensi kerja bawahan di unit kantor.",
+          "D": "Merupakan manajemen pengadaan fasilitas sarana dan prasarana kantor.",
+          "E": "Merupakan sistem aplikasi pembukuan kas pada direktorat perbendaharaan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "menyiapkan talent untuk mengisi posisi yang setingkat lebih tinggi",
+        "lain yang dianggap strategis"
+      ],
+      "topik_materi": "Fokus Sasaran Jabatan Target Talent",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Fokus penyiapan talent dalam program Manajemen Talenta Kementerian Keuangan secara spesifik diarahkan untuk mengisi...",
+      "pilihan": {
+        "A": "Posisi yang setingkat lebih rendah guna evaluasi hukuman",
+        "B": "Seluruh kursi tenaga honorer kebersihan kantor kementerian",
+        "C": "Posisi di luar negeri tanpa batas waktu masa penugasan",
+        "D": "Posisi setingkat lebih tinggi atau posisi lain yang strategis",
+        "E": "Hanya posisi pimpinan pada kantor cabang pembantu daerah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Manajemen Talenta dirancang untuk **menyiapkan talent untuk mengisi posisi yang setingkat lebih tinggi atau posisi lain yang dianggap strategis oleh Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi D merupakan target suksesi vertikal terencana organisasi. Kader berkinerja tinggi diberikan pembinaan akseleratif agar siap mengemban wewenang jabatan satu tingkat di atasnya saat terjadi kekosongan. Regulasi menetapkan sasarannya adalah posisi setingkat lebih tinggi atau posisi strategis. Oleh karena itu, opsi D adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan penurunan jabatan akibat sanksi disiplin dan bukan sasaran suksesi.",
+          "B": "Merupakan tenaga penunjang umum non-ASN yang tidak masuk skema talent.",
+          "C": "Merupakan penempatan luar negeri permanen yang melanggar siklus rotasi.",
+          "E": "Merupakan pembatasan unit lokal yang mengabaikan kebutuhan unit eselon satu."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "kebijakan dalam Manajemen Aparatur Sipil Negara",
+        "kualifikasi, kompetensi, dan kinerja secara adil dan wajar"
+      ],
+      "topik_materi": "Definisi Yuridis Sistem Merit",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Definisi yuridis dari Sistem Merit dalam manajemen ASN sebagaimana ditegaskan dalam ketentuan modul adalah...",
+      "pilihan": {
+        "A": "Kebijakan promosi yang memprioritaskan pegawai dari suku mayoritas",
+        "B": "Sistem pemberian jabatan berdasarkan hasil lobi politik parlemen",
+        "C": "Pola mutasi berdasarkan urutan tanggal lahir dan usia pegawai tertua",
+        "D": "Mekanisme pengangkatan berdasarkan besaran donasi ke kas instansi",
+        "E": "Kebijakan berdasarkan kualifikasi, kompetensi, dan kinerja secara adil"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Sistem Merit** adalah **kebijakan dalam Manajemen ASN yang berdasarkan pada kualifikasi, kompetensi, dan kinerja secara adil dan wajar dengan tanpa membedakan latar belakang** politik, ras, agama, gender, umur, atau kecacatan.",
+        "alasan_kunci": "Opsi E merupakan rumusan normatif undang-undang tentang asas meritokrasi. Manajemen ASN menjamin kesetaraan perlakuan dan objektivitas penuh dengan hanya melihat portofolio kualifikasi akademik, keahlian kompetensi, dan prestasi kinerja nyata. Regulasi menyatakan dasar sistem merit adalah kualifikasi, kompetensi, dan kinerja adil. Dengan demikian, opsi E adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan diskriminasi etnis primordial yang bertentangan dengan Pancasila.",
+          "B": "Merupakan praktik politisasi birokrasi yang dilarang undang-undang ASN.",
+          "C": "Merupakan pola senioritas pasif tanpa memperhatikan standar kompetensi.",
+          "D": "Merupakan tindak pidana korupsi suap jabatan yang melanggar hukum."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "tanpa membedakan latar belakang politik, ras, warna kulit, agama",
+        "status pernikahan, umur atau kondisi kecacatan"
+      ],
+      "topik_materi": "Asas Non-Diskriminasi Sistem Merit",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Faktor yang secara tegas DILARANG menjadi pembeda dalam penerapan Sistem Merit manajemen ASN adalah...",
+      "pilihan": {
+        "A": "Latar belakang politik, ras, agama, status nikah, atau disabilitas",
+        "B": "Tingkat kesesuaian kualifikasi pendidikan dengan syarat jabatan",
+        "C": "Hasil skor penilaian kompetensi manajerial dalam asesmen resmi",
+        "D": "Capaian predikat penilaian kinerja tahunan yang terdokumentasi",
+        "E": "Pemenuhan standar sertifikasi keahlian teknis yang dipersyaratkan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Sistem Merit diterapkan secara adil dan wajar **tanpa membedakan latar belakang politik, ras, warna kulit, agama, asal usul, jenis kelamin, status pernikahan, umur atau kondisi kecacatan**.",
+        "alasan_kunci": "Opsi A merupakan atribut identitas sosial dan kondisi fisik yang dilindungi dari segala bentuk diskriminasi birokrasi. Penilaian pegawai murni bertumpu pada kompetensi dan kinerja, bukan identitas personal atau preferensi politik. Oleh karena itu, opsi A adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Merupakan parameter objektif kualifikasi yang sah dan wajib diuji.",
+          "C": "Merupakan tolak ukur kompetensi yang wajib menjadi dasar pemeringkatan.",
+          "D": "Merupakan bukti kontribusi kinerja nyata yang wajib menjadi dasar promosi.",
+          "E": "Merupakan bukti legalitas penguasaan keahlian teknis formasi jabatan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "memastikan bahwa jabatan target setingkat lebih",
+        "pada waktu yang tepat sejalan dengan"
+      ],
+      "topik_materi": "Prinsip The Right Man on The Right Place and Time",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerapan sistem merit melalui manajemen talenta ditujukan untuk memastikan jabatan target diduduki oleh...",
+      "pilihan": {
+        "A": "Pegawai dari kelompok kerabat pimpinan teras instansi pemerintah",
+        "B": "Pegawai yang tepat dan pada waktu yang tepat sejalan tata kelola baik",
+        "C": "Aparatur yang bersedia memberikan sebagian tunjangan jabatannya",
+        "D": "Pegawai tertua yang telah bertugas puluhan tahun tanpa evaluasi",
+        "E": "Staf yang paling sering mendampingi perjalanan pribadi menteri"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Manajemen talenta memastikan bahwa **jabatan target setingkat lebih tinggi diduduki oleh pegawai yang tepat dan pada waktu yang tepat sejalan dengan tata kelola pemerintahan yang baik** (*good governance*).",
+        "alasan_kunci": "Opsi B merupakan kaidah penempatan pegawai presisi (*the right person on the right place and right time*). Penempatan tepat sasaran waktu mencegah kekosongan kepemimpinan dan menjamin kesiapan mental serta kompetensi pejabat baru. Aturan menegaskan tujuannya menempatkan pegawai tepat pada waktu yang tepat. Dengan demikian, opsi B adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan nepotisme primordial yang merusak profesionalisme kementerian.",
+          "C": "Merupakan pemerasan atau pungutan liar ilegal yang melanggar hukum pidana.",
+          "D": "Merupakan penempatan berbasis umur pasif yang mengabaikan kapasitas kerja.",
+          "E": "Merupakan feodalisme pelayanan pribadi di luar tugas kedinasan negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "Manajemen ASN minimal terdiri atas",
+        "perencanaan kebutuhan",
+        "pengadaan",
+        "penguatan budaya kerja dan citra institusi",
+        "pengelolaan kinerja"
+      ],
+      "topik_materi": "Delapan Siklus Manajemen ASN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Undang-Undang Nomor 20 Tahun 2023, ruang lingkup Manajemen ASN minimal terdiri atas...",
+      "pilihan": {
+        "A": "Tiga tahapan terbatas pada pengadaan, penggajian, dan pensiun",
+        "B": "Lima tahapan seleksi, penempatan, rotasi, sanksi, dan pemecatan",
+        "C": "Delapan siklus pengelolaan SDM terpadu dari perencanaan hingga pensiun",
+        "D": "Sepuluh tahapan verifikasi dokumen dan pengawasan aset dinas",
+        "E": "Dua belas tahapan pendidikan vokasi militer keprajuritan dinas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Manajemen ASN minimal terdiri atas **8 siklus**: **1. perencanaan kebutuhan, 2. pengadaan, 3. penguatan budaya kerja & citra institusi, 4. pengelolaan kinerja, 5. pengembangan talenta & karier, 6. pengembangan kompetensi, 7. pemberian penghargaan & pengakuan, dan 8. pemberhentian**.",
+        "alasan_kunci": "Opsi C merupakan arsitektur siklus hidup aparatur sipil negara yang utuh sesuai UU 20/2023. Kedelapan elemen memastikan pengelolaan SDM aparatur berjalan integratif dari saat masuk hingga purnatugas. Aturan merumuskan manajemen ASN minimal terdiri atas 8 siklus tersebut. Oleh karena itu, opsi C adalah ketetapan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan penyederhanaan usang yang mengabaikan siklus budaya dan talenta.",
+          "B": "Merupakan tahapan parsial yang tidak memuat perencanaan dan kompetensi.",
+          "D": "Merupakan fungsi verifikasi administratif di luar konsep siklus ASN.",
+          "E": "Merupakan kurikulum militer yang tidak berlaku bagi korps sipil ASN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "Manajemen ASN minimal terdiri atas",
+        "penguatan budaya kerja dan citra institusi"
+      ],
+      "topik_materi": "Siklus Penguatan Budaya Kerja dan Citra Institusi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu komponen baru yang masuk ke dalam delapan siklus Manajemen ASN menurut UU Nomor 20 Tahun 2023 adalah...",
+      "pilihan": {
+        "A": "Pengadaan kendaraan dinas mewah bagi seluruh staf kantor",
+        "B": "Pemberian dispensasi jam kerja bagi pegawai di perkotaan",
+        "C": "Pembentukan serikat politik khusus pegawai kementerian pusat",
+        "D": "Penguatan budaya kerja dan citra institusi aparatur pemerintah",
+        "E": "Penghapusan seluruh sistem pengawasan audit inspektorat"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Siklus butir ketiga dalam Manajemen ASN UU 20/2023 adalah **penguatan budaya kerja dan citra institusi** aparatur pemerintah.",
+        "alasan_kunci": "Opsi D merupakan terobosan baru dalam regulasi ASN modern yang memandang budaya kerja (nilai BerAKHLAK dan nilai Kemenkeu) serta reputasi publik institusi sebagai pilar penentu kinerja birokrasi. Aturan mencantumkan penguatan budaya kerja dan citra institusi sebagai siklus resmi. Dengan demikian, opsi D adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pemborosan anggaran fasilitas yang dilarang undang-undang.",
+          "B": "Merupakan kelonggaran disiplin ilegal yang menurunkan produktivitas dinas.",
+          "C": "Merupakan pelanggaran asas netralitas politik pegawai aparatur negara.",
+          "E": "Merupakan pelemahan pengawasan yang memicu tindak pidana korupsi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "Manajemen ASN minimal terdiri atas",
+        "pengembangan talenta dan karier",
+        "pengembangan kompetensi"
+      ],
+      "topik_materi": "Pengembangan Talenta dan Kompetensi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dua siklus Manajemen ASN yang berfokus langsung pada peningkatan kapasitas dan penataan jalur penugasan aparatur adalah...",
+      "pilihan": {
+        "A": "Pengadaan logistik dan penataan tata ruang gedung kantor",
+        "B": "Pemeriksaan kekayaan dan penyitaan barang bukti gratifikasi",
+        "C": "Pemberian sanksi teguran lisan dan pemotongan uang makan",
+        "D": "Pencatatan presensi manual dan pengawasan keamanan gerbang",
+        "E": "Pengembangan talenta dan karier serta pengembangan kompetensi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dalam 8 siklus manajemen ASN, butir 5 dan 6 adalah **pengembangan talenta dan karier** serta **pengembangan kompetensi**.",
+        "alasan_kunci": "Opsi E merupakan pilar investasi modal manusia (*human capital investment*) dalam birokrasi. Pengembangan kompetensi membekali kecakapan baru, sedangkan manajemen talenta memastikan pegawai berkompeten tersebut ditempatkan pada posisi strategis. Regulasi merumuskan butir 5 dan 6 adalah pengembangan talenta/karier dan kompetensi. Oleh karena itu, opsi E adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pengelolaan logistik umum kantor dan bukan siklus SDM.",
+          "B": "Merupakan penindakan hukum oleh instansi penegak hukum eksternal.",
+          "C": "Merupakan penjatuhan hukuman disiplin dan bukan pembinaan kapasitas.",
+          "D": "Merupakan tata tertib operasional pengamanan lingkungan fisik satker."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "Manajemen Talenta juga mengembangkan Pegawai dengan memberikan",
+        "kesempatan pengembangan karier dan peningkatan kompetensi"
+      ],
+      "topik_materi": "Pemberian Kesempatan Melalui Program Pengembangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagi pegawai yang masuk ke dalam kelompok talenta unggul (talent pool), kementerian memberikan kesempatan akselerasi melalui...",
+      "pilihan": {
+        "A": "Pengembangan karier dan peningkatan kompetensi secara terencana",
+        "B": "Pembebasan dari kewajiban mematuhi jam kerja kedinasan kantor",
+        "C": "Pemberian kekebalan hukum dari segala macam bentuk pemeriksaan",
+        "D": "Hak mengelola rekening dana penerimaan negara bukan pajak pribadi",
+        "E": "Izin melakukan kampanye terbuka bagi calon kepala daerah terpilih"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Manajemen Talenta mengembangkan Pegawai dengan memberikan **kesempatan pengembangan karier dan peningkatan kompetensi melalui program-program pengembangan secara sistematis dan transparan**.",
+        "alasan_kunci": "Opsi A merupakan komitmen pembinaan institusi terhadap para kader potensial. Jalur beasiswa, magang lintas instansi (*secondment*), pelatihan kepemimpinan, dan proyek strategis dibuka secara transparan bagi *talent*. Aturan menegaskan haknya adalah kesempatan pengembangan karier dan kompetensi. Dengan demikian, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "B": "Merupakan perlakuan diskriminatif yang melanggar kewajiban disiplin ASN.",
+          "C": "Merupakan imunitas keliru yang merusak prinsip supremasi hukum negara.",
+          "D": "Merupakan penyalahgunaan penerimaan negara yang dilarang undang-undang.",
+          "E": "Merupakan pelanggaran berat netralitas aparatur sipil negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "Manajemen ASN minimal terdiri atas",
+        "pemberian penghargaan dan pengakuan",
+        "pemberhentian"
+      ],
+      "topik_materi": "Dua Siklus Terakhir Manajemen ASN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dua tahapan penutup yang melengkapi delapan siklus Manajemen ASN menurut ketentuan undang-undang adalah...",
+      "pilihan": {
+        "A": "Pemberian dana pinjaman koperasi dan pengadaan kendaraan dinas",
+        "B": "Pemberian penghargaan dan pengakuan serta pemberhentian pegawai",
+        "C": "Pemberian dispensasi presensi kerja dan penghapusan sistem grading",
+        "D": "Pembubaran organisasi kementerian dan likuidasi rekening kas",
+        "E": "Penyerahan wewenang dinas kepada perusahaan konsultan swasta"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dua siklus terakhir dalam 8 siklus manajemen ASN adalah **butir 7: pemberian penghargaan dan pengakuan**, serta **butir 8: pemberhentian**.",
+        "alasan_kunci": "Opsi B merupakan siklus apresiasi dan pelepasan resmi pengabdian aparatur. Negara memberikan apresiasi atas dedikasi dan menutup masa bakti dengan pemberhentian yang terhormat serta hak jaminan hari tua. Aturan merumuskan siklus 7 dan 8 adalah penghargaan/pengakuan dan pemberhentian. Oleh karena itu, opsi B adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan urusan pembiayaan koperasi di luar siklus pokok hukum ASN.",
+          "C": "Merupakan tindakan perusakan tata kelola aparatur yang menyalahi aturan.",
+          "D": "Merupakan tindakan likuidasi kementerian yang tidak ada kaitannya.",
+          "E": "Merupakan privatisasi wewenang negara yang dilarang undang-undang."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Instansi Pemerintah menyusun rencana kebutuhan Pegawai ASN",
+        "Pasal 32 UU 20 Tahun"
+      ],
+      "topik_materi": "Dasar Kewajiban Penyusunan Rencana Kebutuhan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban instansi pemerintah dalam menyusun rencana kebutuhan Pegawai ASN didasarkan pada landasan hukum...",
+      "pilihan": {
+        "A": "Pasal 10 Undang-Undang Nomor 17 Tahun 2003",
+        "B": "Pasal 15 Undang-Undang Nomor 1 Tahun 2004",
+        "C": "Pasal 32 Undang-Undang Nomor 20 Tahun 2023",
+        "D": "Pasal 25 Peraturan Pemerintah Nomor 11 Tahun 2017",
+        "E": "Pasal 5 Peraturan Presiden Nomor 16 Tahun 2018"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Instansi Pemerintah menyusun rencana kebutuhan Pegawai ASN sesuai dengan kebijakan perencanaan kebutuhan Pegawai** sebagaimana ditegaskan dalam **Pasal 32 UU 20 Tahun 2023**.",
+        "alasan_kunci": "Opsi C merupakan pasal rujukan yuridis utama dalam undang-undang ASN terbaru yang mewajibkan instansi pemerintah memetakan kebutuhan pegawai secara berkesinambungan. Regulasi yang tepat adalah Pasal 32 UU Nomor 20 Tahun 2023. Dengan demikian, opsi C adalah ketetapan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pasal dalam undang-undang keuangan negara mengenai kekuasaan fiskal.",
+          "B": "Merupakan pasal undang-undang perbendaharaan negara mengenai pejabat perbendaharaan.",
+          "D": "Merupakan pasal peraturan pemerintah tentang manajemen PNS di luar rujukan undang-undang.",
+          "E": "Merupakan pasal perpres pengadaan barang dan jasa mengenai jenis pengadaan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Peraturan Menteri Keuangan Nomor 37/PMK.01/2020",
+        "Pedoman Penghitungan dan Pengusulan Kebutuhan Jabatan"
+      ],
+      "topik_materi": "Pedoman Kebutuhan Jabatan Fungsional Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pedoman resmi penghitungan dan pengusulan formasi kebutuhan Jabatan Fungsional di Kementerian Keuangan diatur melalui...",
+      "pilihan": {
+        "A": "Keputusan Direktur Jenderal Pajak Nomor 12 Tahun 2018",
+        "B": "Surat Edaran Kepala Badan Kebijakan Fiskal Nomor 3 Tahun 2019",
+        "C": "Peraturan Direktur Jenderal Bea Cukai Nomor 8 Tahun 2021",
+        "D": "Peraturan Menteri Keuangan Nomor 37/PMK.01/2020",
+        "E": "Instruksi Menteri Keuangan mengenai Tata Naskah 2017"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Perhitungan kebutuhan Jabatan Fungsional Kementerian Keuangan diatur dengan **Peraturan Menteri Keuangan Nomor 37/PMK.01/2020 tentang Pedoman Penghitungan dan Pengusulan Kebutuhan Jabatan Fungsional pada Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi D merupakan regulasi operasional menteri yang menetapkan rumus analisis beban kerja dan formasi kebutuhan fungsional di seluruh unit eselon satu Kemenkeu. Regulasi yang tepat adalah PMK Nomor 37/PMK.01/2020. Oleh karena itu, opsi D adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan keputusan teknis perpajakan eselon satu di luar pedoman JF kementerian.",
+          "B": "Merupakan surat edaran internal perumusan kebijakan fiskal makro.",
+          "C": "Merupakan regulasi kepabeanan dan cukai untuk pengawasan kepelabuhanan.",
+          "E": "Merupakan instruksi administrasi tata surat-menyurat kedinasan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Negara Republik Indonesia Nomor 1 Tahun",
+        "Calon Pegawai Negeri Sipil"
+      ],
+      "topik_materi": "Regulasi Pelatihan Dasar CPNS Terbaru",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pola pelatihan dasar bagi Calon Pegawai Negeri Sipil di Kementerian Keuangan saat ini menerapkan kurikulum...",
+      "pilihan": {
+        "A": "Peraturan Lembaga Administrasi Negara Nomor 1 Tahun 2021",
+        "B": "Keputusan Menteri Pertahanan Republik Indonesia Nomor 10 Tahun 2015",
+        "C": "Peraturan Menteri Pendidikan dan Kebudayaan Nomor 12 Tahun 2018",
+        "D": "Instruksi Kepala Kepolisian Negara Republik Indonesia 2019",
+        "E": "Peraturan Badan Nasional Penanggulangan Bencana 2020"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dalam pengadaan PNS, Kementerian Keuangan menerapkan pola baru latsar ASN berdasarkan **Peraturan Lembaga Administrasi Negara (LAN) RI Nomor 1 Tahun 2021 tentang Pelatihan Dasar Calon Pegawai Negeri Sipil**.",
+        "alasan_kunci": "Opsi A merupakan dasar hukum kurikulum Latsar CPNS nasional yang diselenggarakan secara terpadu (*blended learning* dan internalisasi nilai BerAKHLAK). LAN berkedudukan sebagai instansi pembina diklat aparatur sipil nasional. Regulasi yang tepat adalah Peraturan LAN Nomor 1 Tahun 2021. Dengan demikian, opsi A adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Merupakan regulasi militer pertahanan negara di luar instansi pembina Latsar sipil.",
+          "C": "Merupakan regulasi sistem persekolahan umum kementerian pendidikan.",
+          "D": "Merupakan instruksi kepolisian mengenai pendidikan pembentukan bintara/perwira.",
+          "E": "Merupakan aturan kebencanaan di luar ruang lingkup kediklatan CPNS."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Beberapa jabatan sudah dikelompokkan dalam Job",
+        "KMK Nomor 461/KMK.01/2013"
+      ],
+      "topik_materi": "Job Family Kementerian Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengelompokan rumpun jabatan di lingkungan Kementerian Keuangan ke dalam Job Family ditetapkan melalui...",
+      "pilihan": {
+        "A": "Surat Edaran Direktur Jenderal Anggaran Nomor 1 Tahun 2011",
+        "B": "Keputusan Menteri Keuangan Nomor 461/KMK.01/2013",
+        "C": "Peraturan Menteri PAN-RB Nomor 20 Tahun 2015",
+        "D": "Keputusan Kepala BKN mengenai Kenaikan Pangkat 2016",
+        "E": "Instruksi Presiden mengenai Efisiensi Anggaran 2014"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Di Kementerian Keuangan, jabatan telah dikelompokkan dalam **Job Family Kementerian Keuangan berdasarkan Keputusan Menteri Keuangan (KMK) Nomor 461/KMK.01/2013**.",
+        "alasan_kunci": "Opsi B merupakan regulasi dasar pengelompokan rumpun pekerjaan di Kemenkeu yang membagi klaster tugas ke dalam famili jabatan sejenis guna memudahkan penataan pola karier dan mutasi. Regulasi yang tepat adalah KMK Nomor 461/KMK.01/2013. Oleh karena itu, opsi B adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan edaran teknis anggaran belanja unit eselon satu Kemenkeu.",
+          "C": "Merupakan regulasi kementerian pendayagunaan aparatur tingkat makro.",
+          "D": "Merupakan keputusan kepala BKN tentang kenaikan pangkat pegawai negeri.",
+          "E": "Merupakan instruksi penghematan belanja operasional kantor kementerian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Jabatan karier",
+        "jabatan struktural eselon II, eselon III,"
+      ],
+      "topik_materi": "Definisi Jabatan Karier di Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ruang lingkup Jabatan Karier dalam pola mutasi di lingkungan Kementerian Keuangan mencakup...",
+      "pilihan": {
+        "A": "Hanya jabatan menteri dan wakil menteri keuangan selaku pembina",
+        "B": "Tenaga staf khusus menteri dan penasihat ahli fraksi parlemen",
+        "C": "Jabatan struktural eselon II, III, IV, V, dan jabatan fungsional",
+        "D": "Seluruh pegawai kontrak pihak ketiga penyedia jasa keamanan",
+        "E": "Hanya pegawai yang berkedudukan di kantor sekretariat jenderal"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Jabatan karier adalah jabatan struktural eselon II, eselon III, eselon IV, eselon V, dan jabatan fungsional** yang ada di lingkungan Kementerian Keuangan.",
+        "alasan_kunci": "Opsi C merupakan definisi yuridis cakupan jabatan karier aparatur sipil negara di Kemenkeu. Jabatan karier membedakan pegawai berstatus ASN tetap yang meniti tangga struktural dan fungsional dari jabatan politis kementerian. Aturan menetapkan ruang lingkupnya adalah eselon II sampai V dan fungsional. Dengan demikian, opsi C adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan jabatan politis pejabat negara dan bukan jabatan karier ASN.",
+          "B": "Merupakan tenaga penasihat non-karier yang masa tugasnya mengikuti menteri.",
+          "D": "Merupakan pekerja alih daya swasta di luar formasi aparatur sipil negara.",
+          "E": "Merupakan pembatasan unit kerja yang mengabaikan ribuan pegawai vertikal."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Pola mutasi adalah",
+        "sistem pemindahan PNS dalam jabatan karier"
+      ],
+      "topik_materi": "Definisi Pola Mutasi Terencana",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan modul kepegawaian Kemenkeu, definisi dari Pola Mutasi adalah...",
+      "pilihan": {
+        "A": "Tindakan pemindahan pegawai secara sepihak untuk memberikan efek jera",
+        "B": "Mekanisme perpindahan tugas atas dasar permohonan sukarela tanpa syarat",
+        "C": "Proses seleksi penerimaan calon pegawai negeri sipil formasi umum",
+        "D": "Sistem pemindahan PNS dalam jabatan karier secara terencana dan berdasar syarat",
+        "E": "Pemberian kenaikan pangkat istimewa bagi pegawai yang menemukan inovasi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Pola mutasi adalah sistem pemindahan PNS dalam jabatan karier yang dilakukan secara terencana dengan memperhatikan persyaratan sesuai peraturan perundang-undangan dan kebutuhan organisasi**.",
+        "alasan_kunci": "Opsi D merupakan kaidah pemindahan terstruktur yang menghindarkan mutasi dari sifat mendadak, diskriminatif, atau tanpa dasar kompetensi. Pola mutasi mempertimbangkan kebutuhan unit, syarat jabatan, dan pengembangan wawasan pegawai. Aturan mendefinisikan pola mutasi sebagai sistem pemindahan terencana berdasar syarat dan kebutuhan. Oleh karena itu, opsi D adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan hukuman disiplin pemindahan dan bukan konsep pola mutasi karier.",
+          "B": "Merupakan permohonan pribadi yang tidak otomatis dapat dipenuhi organisasi.",
+          "C": "Merupakan tahapan pengadaan baru dan bukan pemindahan pegawai karier.",
+          "E": "Merupakan jenis kenaikan pangkat pilihan dan bukan sistem rotasi jabatan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "KMK 7/KMK.01/2023",
+        "dan Promosi Internal dan antar-unit bagi"
+      ],
+      "topik_materi": "Pedoman Mutasi dan Promosi Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pedoman Pelaksanaan Mutasi dan Promosi Internal serta Antar-Unit bagi PNS di lingkungan Kementerian Keuangan diatur melalui...",
+      "pilihan": {
+        "A": "Keputusan Menteri Keuangan Nomor 7/KMK.01/2023",
+        "B": "Peraturan Direktur Jenderal Perbendaharaan Nomor 4 Tahun 2021",
+        "C": "Surat Edaran Kepala Badan Kebijakan Fiskal Nomor 9 Tahun 2020",
+        "D": "Peraturan Menteri Koordinator Perekonomian Nomor 2 Tahun 2022",
+        "E": "Keputusan Bersama Pimpinan Badan Pemeriksa Keuangan 2019"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pedoman mutasi dan promosi internal serta antar-unit diatur melalui **KMK Nomor 7/KMK.01/2023 tentang Pedoman Pelaksanaan Mutasi dan Promosi Internal dan antar-unit bagi PNS di lingkungan Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi A merupakan dasar operasional biro SDM Kemenkeu dalam menyusun pertimbangan mutasi dan promosi jabatan aparatur. KMK ini memuat 17 prinsip pertimbangan mutasi internal dan lintas eselon satu. Regulasi yang tepat adalah KMK Nomor 7/KMK.01/2023. Dengan demikian, opsi A adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Merupakan aturan perbendaharaan operasional lingkup eselon satu DJPb.",
+          "C": "Merupakan surat edaran internal perumusan kerangka makro fiskal.",
+          "D": "Merupakan kementerian koordinator di luar regulasi internal kementerian keuangan.",
+          "E": "Merupakan lembaga auditor eksternal negara di luar struktur eksekutif Kemenkeu."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Pengadaan PNS dilakukan melalui tahapan",
+        "lowongan, pelamaran, seleksi, pengumuman hasil seleksi,"
+      ],
+      "topik_materi": "Tahapan Lengkap Pengadaan PNS",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Berdasarkan Pasal 19 PP Nomor 11 Tahun 2017, alur tahapan pengadaan PNS yang BUKAN merupakan prosedur resmi adalah...",
+      "pilihan": {
+        "A": "Perencanaan formasi dan pengumuman lowongan",
+        "B": "Penerimaan uang jaminan seleksi ke panitia lokal",
+        "C": "Pelamaran berkas dan pelaksanaan seleksi tes",
+        "D": "Pengumuman hasil seleksi dan masa percobaan dinas",
+        "E": "Pengangkatan resmi menjadi Pegawai Negeri Sipil"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pengadaan PNS melalui: **perencanaan, pengumuman lowongan, pelamaran, seleksi, pengumuman hasil seleksi, masa percobaan, dan pengangkatan menjadi PNS** (Pasal 19 PP 11/2017).",
+        "alasan_kunci": "Opsi B merupakan praktik pungutan liar dan tindak pidana korupsi yang bertentangan mutlak dengan prinsip seleksi bersih bebas biaya. Seluruh proses pengadaan CPNS dibiayai anggaran negara secara transparan. Oleh karena itu, opsi B adalah pilihan jawaban pengecualian yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan tahapan pembuka analisis formasi dan publikasi akses warga.",
+          "C": "Merupakan tahapan pendaftaran administrasi dan ujian kompetensi terukur.",
+          "D": "Merupakan pengumuman kelulusan berbasis skor CAT dan masa percobaan 1 tahun.",
+          "E": "Merupakan tahap akhir penerbitan SK pengangkatan PNS definitif oleh PPK."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Pengadaan ASN merupakan kegiatan untuk",
+        "mengisi kebutuhan dalam suatu"
+      ],
+      "topik_materi": "Tujuan Pengadaan ASN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan mendasar dari penyelenggaraan kegiatan pengadaan ASN adalah...",
+      "pilihan": {
+        "A": "Mengisi kekosongan kebutuhan pegawai pada suatu Instansi Pemerintah",
+        "B": "Menghabiskan kelebihan anggaran belanja pegawai pada akhir tahun",
+        "C": "Memberikan pekerjaan bagi seluruh pendukung calon kepala daerah",
+        "D": "Menaikkan jumlah pegawai honorer tanpa batasan analisis beban tugas",
+        "E": "Mengurangi alokasi belanja modal proyek infrastruktur nasional"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Pengadaan ASN merupakan kegiatan untuk mengisi kebutuhan dalam suatu Instansi Pemerintah** sesuai formasi yang telah ditetapkan.",
+        "alasan_kunci": "Opsi A merupakan hakikat utama diadakannya rekrutmen aparatur. Pengadaan bukan untuk menambah pegawai tanpa kendali, melainkan murni mengisi kekurangan formasi yang teridentifikasi lewat analisis jabatan dan beban kerja. Aturan menegaskan tujuannya mengisi kebutuhan dalam instansi pemerintah. Dengan demikian, opsi A adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Merupakan alasan pengeluaran anggaran yang keliru dan melanggar prinsip hemat.",
+          "C": "Merupakan praktik patronase politik yang dilarang undang-undang ASN.",
+          "D": "Merupakan perekrutan honorer liar yang dilarang keras dalam regulasi baru.",
+          "E": "Merupakan pengalihan belanja modal yang tidak berkaitan dengan pengadaan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Mutasi adalah",
+        "pemindahan PNS dalam jabatan karier"
+      ],
+      "topik_materi": "Definisi Mutasi Kedinasan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam tata kelola kepegawaian Kementerian Keuangan, definisi ringkas dari Mutasi adalah...",
+      "pilihan": {
+        "A": "Pemberhentian sementara bagi pegawai yang menghadapi masalah pidana",
+        "B": "Pemindahan Pegawai Negeri Sipil dalam lingkup jabatan karier",
+        "C": "Pemberian kenaikan pangkat pengabdian saat pegawai wafat tugas",
+        "D": "Pemberian cuti istimewa di luar tanggungan negara selama satu tahun",
+        "E": "Penurunan kelas jabatan karena tidak mencapai target kinerja"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dalam Pola Mutasi Kemenkeu dirumuskan secara tegas bahwa **Mutasi adalah pemindahan PNS dalam jabatan karier**.",
+        "alasan_kunci": "Opsi B merupakan pengertian substantif mutasi kedinasan. Mutasi menggerakkan pegawai antartugas, antarjabatan, atau antarlokasi dalam koridor jabatan struktural maupun fungsional secara dinamis. Aturan merumuskan mutasi sebagai pemindahan PNS dalam jabatan karier. Oleh karena itu, opsi B adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan status pemberhentian sementara tersangka dan bukan mutasi karier.",
+          "C": "Merupakan jenis kenaikan pangkat anumerta atau pengabdian saat pensiun.",
+          "D": "Merupakan fasilitas izin bebas tugas cuti CLTN tanpa penggajian negara.",
+          "E": "Merupakan penyesuaian kelas grading akibat penurunan kinerja atau demosi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "pola penyegaran bagi PNS Kemenkeu",
+        "di atas 5 (lima) tahun"
+      ],
+      "topik_materi": "Masa Jabatan Pola Penyegaran Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan KMK Nomor 7/KMK.01/2023, pola penyegaran mutasi diterapkan bagi PNS Kemenkeu yang telah menduduki jabatan selama...",
+      "pilihan": {
+        "A": "Di atas satu tahun masa penugasan satker",
+        "B": "Di atas dua tahun masa dinas operasional",
+        "C": "Di atas tiga tahun masa evaluasi berkala",
+        "D": "Di atas empat tahun masa dinas aktif kantor",
+        "E": "Di atas lima tahun masa jabatan berjalan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "KMK 7/KMK.01/2023 menetapkan pertimbangan mutasi mencakup **pola penyegaran bagi PNS Kemenkeu yang telah memiliki masa jabatan di atas 5 (lima) tahun**.",
+        "alasan_kunci": "Opsi E merupakan batas waktu optimal untuk mencegah kejenuhan kerja (*burnout*) dan potensi zona nyaman yang mengikis objektivitas tugas. Setelah lima tahun, pegawai dipindahkan ke pos baru untuk memperkaya pengalaman organisasi. Aturan menetapkan ambangnya adalah di atas 5 tahun. Oleh karena itu, opsi E adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan durasi minimal satu tahun yang terlalu dini untuk penyegaran.",
+          "B": "Merupakan masa dinas normal jangka pendek dalam suatu unit kerja.",
+          "C": "Merupakan batas waktu evaluasi jabatan tertentu di wilayah sulit.",
+          "D": "Merupakan siklus empat tahunan kenaikan pangkat reguler pegawai."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "wilayah sulit",
+        "pelaksana/setingkat paling lama 3 (tiga) tahun"
+      ],
+      "topik_materi": "Masa Tugas Pelaksana di Wilayah Sulit/Konflik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Masa kerja penugasan bagi pegawai pelaksana PNS Kemenkeu di unit kerja wilayah sulit perhubungan dan berisiko tinggi/konflik dibatasi paling lama...",
+      "pilihan": {
+        "A": "Paling lama satu tahun masa tugas",
+        "B": "Paling lama lima tahun masa penugasan",
+        "C": "Paling lama tujuh tahun masa penugasan",
+        "D": "Paling lama sepuluh tahun masa tugas",
+        "E": "Paling lama tiga tahun masa penugasan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Masa kerja PNS Kemenkeu di wilayah sulit perhubungan dan berisiko tinggi/konflik adalah **bagi pegawai pelaksana/setingkat paling lama 3 (tiga) tahun**.",
+        "alasan_kunci": "Opsi E merupakan batas proteksi fisik dan psikologis bagi staf pelaksana yang bertugas di medan sulit atau rawan konflik perbatasan. Pembatasan maksimal 3 tahun menjamin kepastian rotasi kembali ke wilayah normal. Regulasi menetapkan durasinya paling lama 3 tahun. Dengan demikian, opsi E adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "B": "Merupakan batas masa jabatan pola penyegaran normal dan bukan daerah konflik.",
+          "C": "Merupakan durasi berlebih yang membahayakan ketahanan fisik pegawai pelaksana.",
+          "D": "Merupakan kurun waktu sepuluh tahun yang melanggar prinsip rotasi perlindungan.",
+          "A": "Merupakan durasi satu tahun yang belum menuntaskan siklus penugasan daerah."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "wilayah sulit",
+        "administrator/pengawas/setingkat paling lama 2 (dua) tahun"
+      ],
+      "topik_materi": "Masa Tugas Administrator/Pengawas Wilayah Sulit/Konflik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagi pejabat administrator dan pengawas yang bertugas di unit kerja wilayah sulit perhubungan dan berisiko tinggi/konflik, masa tugasnya dibatasi paling lama...",
+      "pilihan": {
+        "A": "Enam bulan kalender kepemimpinan",
+        "B": "Paling lama dua tahun masa penugasan",
+        "C": "Paling lama empat tahun masa tugas",
+        "D": "Paling lama lima tahun masa tugas",
+        "E": "Paling lama enam tahun masa tugas"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Bagi **pejabat administrator/pengawas/setingkat**, masa kerja penugasan di wilayah sulit perhubungan dan berisiko tinggi/konflik dibatasi **paling lama 2 (dua) tahun**.",
+        "alasan_kunci": "Opsi B merupakan kebijakan khusus bagi pejabat manajerial di medan berisiko tinggi. Karena beban tanggung jawab mengendalikan kantor dan memimpin personel di wilayah sulit sangat berat, masa penugasan dibatasi lebih singkat (2 tahun) dibanding pelaksana (3 tahun). Aturan menyebutkan paling lama 2 tahun. Oleh karena itu, opsi B adalah ketetapan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan waktu terlalu pendek yang tidak efektif untuk stabilitas kantor.",
+          "C": "Merupakan masa empat tahun yang melampaui batas maksimal pejabat di medan sulit.",
+          "D": "Merupakan siklus lima tahunan wilayah normal dan tidak berlaku di medan konflik.",
+          "E": "Merupakan durasi enam tahun yang melanggar batas regulasi KMK 7/2023."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "Kemenkeu pada unit organisasi non-eselon",
+        "paling lama 3 (tiga) tahun dan"
+      ],
+      "topik_materi": "Masa Penugasan pada Unit Organisasi Non-Eselon",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan batas masa penempatan atau penugasan PNS Kementerian Keuangan pada unit organisasi non-eselon adalah...",
+      "pilihan": {
+        "A": "Paling lama satu tahun dan tidak dapat diperpanjang lagi",
+        "B": "Permanen seumur hidup tanpa evaluasi kinerja tahunan",
+        "C": "Paling lama 3 tahun dan dapat diperpanjang setiap 2 tahun",
+        "D": "Paling lama lima tahun tanpa opsi penarikan ke kementerian",
+        "E": "Dibatasi hanya enam bulan masa uji coba penugasan kerja"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Perkiraan berakhirnya masa penempatan atau penugasan PNS Kemenkeu pada unit organisasi non-eselon yakni **paling lama 3 (tiga) tahun dan dapat diperpanjang setiap 2 (dua) tahun**.",
+        "alasan_kunci": "Opsi C merupakan aturan penugasan pada unit non-eselon (seperti BLU, LNSW, LPEI, atau komite khusus). Periode awal dibatasi 3 tahun guna evaluasi kontribusi, dengan opsi perpanjangan per 2 tahun berdasarkan kinerja dan kebutuhan instansi. Regulasi menetapkan durasi max 3 tahun dan perpanjangan tiap 2 tahun. Dengan demikian, opsi C adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pembatasan kaku yang merugikan keberlanjutan program unit non-eselon.",
+          "B": "Merupakan status permanen yang menghilangkan status pembinaan Kemenkeu.",
+          "D": "Merupakan durasi lima tahun tanpa opsi yang tidak sesuai formula 3+2 tahun.",
+          "E": "Merupakan masa uji coba jangka pendek yang tidak mencerminkan penugasan non-eselon."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "batas usia paling sedikit 3 (tiga) tahun sebelum",
+        "memasuki batas usia pensiun"
+      ],
+      "topik_materi": "Batas Usia Menjelang Pensiun Pertimbangan Mutasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Demi stabilitas persiapan pensiun, mutasi PNS Kemenkeu mempertimbangkan batas usia pegawai menjelang BUP yaitu paling sedikit...",
+      "pilihan": {
+        "A": "Enam bulan kalender sebelum masa pensiun",
+        "B": "Satu tahun dinas sebelum memasuki usia pensiun",
+        "C": "Dua tahun berjalan sebelum tanggal pensiun",
+        "D": "Tiga tahun sebelum memasuki batas usia pensiun",
+        "E": "Lima tahun penuh sebelum masa pensiun tiba"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pertimbangan mutasi memperhatikan **batas usia paling sedikit 3 (tiga) tahun sebelum PNS Kemenkeu memasuki batas usia pensiun**, kecuali terdapat kebutuhan organisasi atau ditentukan lain.",
+        "alasan_kunci": "Opsi D merupakan perlakuan humanis dan efisiensi anggaran negara. Pegawai yang tinggal 3 tahun menjelang pensiun sedapat mungkin tidak dipindahtugaskan ke daerah jauh agar dapat mempersiapkan transisi masa purnatugas bersama keluarga di domisili tetapnya. Aturan menyebutkan batas usia minimal 3 tahun sebelum BUP. Oleh karena itu, opsi D adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan masa menjelang pensiun yang terlalu mepet bagi perencanaan mutasi.",
+          "B": "Merupakan masa pembekalan pensiun dan bukan ambang proteksi mutasi 3 tahun.",
+          "C": "Merupakan batas dua tahun yang tidak sesuai dengan KMK 7/2023.",
+          "E": "Merupakan batas lima tahun yang terlalu panjang dan membatasi mobilitas normal."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "rekam jejak mengenai perilaku dan/atau disiplin PNS Kemenkeu",
+        "rekam jejak digital (digital footprint) dan integritas"
+      ],
+      "topik_materi": "Pertimbangan Rekam Jejak Digital (Digital Footprint)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam KMK 7/KMK.01/2023, elemen rekam jejak perilaku yang secara eksplisit dinilai dalam mutasi dan promosi pegawai adalah...",
+      "pilihan": {
+        "A": "Jumlah pengikut akun media sosial dan frekuensi siaran langsung",
+        "B": "Kepemilikan aset perangkat gawai pintar merek luar negeri",
+        "C": "Kemampuan meretas situs internet milik kementerian negara lain",
+        "D": "Status keanggotaan dalam forum transaksi mata uang digital",
+        "E": "Rekam jejak digital (digital footprint) dan integritas pegawai"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Mutasi dan promosi Kemenkeu mempertimbangkan **rekam jejak mengenai perilaku dan/atau disiplin PNS Kemenkeu, termasuk rekam jejak digital (digital footprint) dan integritas**.",
+        "alasan_kunci": "Opsi E merupakan instrumen penyaringan modern aparatur di era digital. Aktivitas pegawai di ruang siber (seperti ujaran kebencian, radikalisme, atau pelanggaran kode etik di media sosial) menjadi bahan pertimbangan integritas sebelum dipromosikan atau dimutasi. Aturan menegaskan penilaian mencakup digital footprint dan integritas. Dengan demikian, opsi E adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan popularitas media sosial pribadi tanpa relevansi kinerja dinas.",
+          "B": "Merupakan kepemilikan gawai pribadi yang bukan standar rekam jejak etik.",
+          "C": "Merupakan tindakan peretasan ilegal yang melanggar hukum siber pidana.",
+          "D": "Merupakan aktivitas finansial privat di luar indikator rekam jejak disiplin."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "masa pergantian tahun ajaran/periode pendidikan per semester",
+        "keluarga inti dari PNS Kemenkeu"
+      ],
+      "topik_materi": "Pertimbangan Tahun Ajaran Sekolah Anak dalam Mutasi",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Biro SDM Kemenkeu menjadwalkan gelombang mutasi pegawai luar daerah pada bulan Juni-Juli dan Desember. Pertimbangan humanis yang mendasarinya adalah...",
+      "pilihan": {
+        "A": "Menyesuaikan dengan masa pergantian tahun ajaran sekolah anak",
+        "B": "Menghindari cuaca musim hujan di wilayah kepulauan terpencil",
+        "C": "Menghabiskan alokasi anggaran tiket pesawat sebelum audit BPK",
+        "D": "Menunggu selesainya perayaan pesta rakyat di ibu kota provinsi",
+        "E": "Memberikan kesempatan pegawai berlibur panjang bersama keluarga"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Mutasi Kemenkeu mempertimbangkan aspek kesejahteraan keluarga yaitu **masa pergantian tahun ajaran/periode pendidikan per semester bagi keluarga inti dari PNS Kemenkeu**.",
+        "alasan_kunci": "Opsi A merupakan kebijakan pro-keluarga (*family-friendly policy*) dalam manajemen ASN Kemenkeu. Penyelenggaraan mutasi diselaraskan dengan kalender kenaikan kelas dan kelulusan anak agar proses perpindahan sekolah tidak terganggu di tengah semester. Regulasi menegaskan pertimbangan pergantian tahun ajaran pendidikan keluarga. Oleh karena itu, opsi A adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Merupakan faktor cuaca alamiah yang tidak menjadi butir resmi pertimbangan KMK.",
+          "C": "Merupakan motif serapan anggaran yang keliru dalam perencanaan SDM.",
+          "D": "Merupakan agenda pesta kultural yang tidak berkaitan dengan regulasi dinas.",
+          "E": "Merupakan liburan pribadi yang tidak menjadi landasan penetapan mutasi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "pasangan suami/istri yang bekerja di lingkungan Kementerian Keuangan",
+        "dan di luar Kementerian Keuangan dan/atau aspek kemanusiaan"
+      ],
+      "topik_materi": "Pertimbangan Pasangan Suami Istri dan Aspek Kemanusiaan",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Dua orang PNS Kemenkeu yang berstatus suami-istri mengajukan penempatan di wilayah kota yang sama. Dasar pertimbangan sah dalam KMK 7/2023 adalah...",
+      "pilihan": {
+        "A": "Kewajiban seluruh pegawai menolak penugasan luar pulau Jawa",
+        "B": "Pasangan suami/istri yang bekerja di Kemenkeu dan aspek kemanusiaan",
+        "C": "Hak istimewa pasangan pegawai untuk tidak perlu masuk kantor",
+        "D": "Pemberian fasilitas rumah tinggal ganda di dua kementerian",
+        "E": "Izin menerima tunjangan keluarga sebesar lima kali lipat"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Mutasi Kemenkeu mempertimbangkan **pasangan suami/istri yang bekerja di lingkungan Kementerian Keuangan dan di luar Kementerian Keuangan dan/atau aspek kemanusiaan**.",
+        "alasan_kunci": "Opsi B merupakan bentuk perhatian organisasi terhadap keutuhan rumah tangga aparatur sipil. Sedapat mungkin kementerian menempatkan pasangan suami-istri pada satu zona geografis kerja atau mendekatkan mereka guna menjaga motivasi dan kesehatan mental pegawai. Aturan menetapkan pertimbangan pasangan suami/istri dan kemanusiaan. Dengan demikian, opsi B adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pembangkangan penugasan yang melanggar ikrar penempatan NKRI.",
+          "C": "Merupakan pelanggaran jam kerja kedinasan yang tidak dibenarkan hukum.",
+          "D": "Merupakan fasilitas ganda ilegal yang memboroskan keuangan negara.",
+          "E": "Merupakan manipulasi tunjangan yang melanggar regulasi penggajian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "penyediaan anggaran untuk biaya perpindahan PNS Kemenkeu",
+        "termasuk keluarga inti dari PNS Kemenkeu"
+      ],
+      "topik_materi": "Kewajiban Penyediaan Biaya Perpindahan Mutasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam pelaksanaan mutasi penugasan PNS Kemenkeu ke satker baru, pembiayaan perpindahan dinas diatur dengan ketentuan...",
+      "pilihan": {
+        "A": "Seluruh biaya tiket dan kargo barang ditanggung dari gaji pribadi pegawai",
+        "B": "Pegawai wajib mencari sponsor dari pihak swasta di daerah penempatan",
+        "C": "Penyediaan anggaran biaya perpindahan bagi PNS dan keluarga inti",
+        "D": "Biaya perpindahan dipotong dari iuran wajib pensiun hari tua",
+        "E": "Keluarga pegawai dilarang keras ikut berpindah ke lokasi penugasan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pertimbangan mutasi mencakup **penyediaan anggaran untuk biaya perpindahan PNS Kemenkeu, termasuk keluarga inti dari PNS Kemenkeu, sesuai dengan ketentuan** yang berlaku.",
+        "alasan_kunci": "Opsi C merupakan hak finansial aparatur yang dipindahtugaskan demi dinas negara. Negara menanggung biaya transportasi, pengepakan, dan kargo barang pindahan pegawai beserta suami/istri dan anak-anak sahnya melalui DIPA satker. Regulasi menegaskan penyediaan anggaran biaya perpindahan bagi PNS dan keluarga inti. Oleh karena itu, opsi C adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pembebanan biaya pribadi yang tidak adil bagi penugasan negara.",
+          "B": "Merupakan gratifikasi ilegal sponsorship swasta yang melanggar hukum korupsi.",
+          "D": "Merupakan pemotongan dana pensiun hari tua yang menyalahi peruntukan dana.",
+          "E": "Merupakan pemisahan keluarga sewenang-wenang yang melanggar hak asasi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 36,
+      "kata_kunci_modul": [
+        "pascasarjana luar negeri",
+        "PNS Kemenkeu yang berprestasi"
+      ],
+      "topik_materi": "Pemberdayaan Lulusan Pascasarjana Luar Negeri",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kebijakan mutasi dan promosi di Kemenkeu secara terencana memprioritaskan penempatan strategis bagi...",
+      "pilihan": {
+        "A": "Staf yang paling jarang menghadiri kegiatan pelatihan kedinasan",
+        "B": "Pegawai yang memiliki hubungan bisnis komersial dengan rekanan",
+        "C": "Aparatur yang pernah dijatuhi hukuman disiplin pemotongan tunjangan",
+        "D": "Lulusan pascasarjana luar negeri dan pegawai yang berprestasi unggul",
+        "E": "Pegawai yang menolak menandatangani pakta integritas netralitas"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Mutasi dan promosi Kemenkeu mempertimbangkan **kebutuhan pengayaan penugasan talent dan pemberdayaan lulusan pascasarjana luar negeri dan/atau PNS Kemenkeu yang berprestasi**.",
+        "alasan_kunci": "Opsi D merupakan utilisasi hasil beasiswa negara (*return of investment on scholarship*). Aparatur yang telah menamatkan pendidikan magister/doktoral di universitas terkemuka dunia atau mengukir prestasi istimewa ditempatkan pada posisi perumus kebijakan fiskal strategis. Aturan menyebutkan pemberdayaan lulusan pascasarjana luar negeri dan PNS berprestasi. Dengan demikian, opsi D adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan ketidakaktifan pengembangan diri yang menghambat penugasan strategis.",
+          "B": "Merupakan benturan kepentingan terlarang yang ditindak sanksi kepatuhan.",
+          "C": "Merupakan catatan disiplin buruk yang menghambat promosi dan penugasan utama.",
+          "E": "Merupakan penolakan komitmen etik yang mengarah pada pemberhentian dinas."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "horizontal, yaitu perpindahan dari satu posisi",
+        "baik di dalam satu kelompok maupun"
+      ],
+      "topik_materi": "Definisi Pola Karier Horizontal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan PMK Nomor 224/PMK.01/2020, pola karier horizontal didefinisikan sebagai perpindahan jabatan yang...",
+      "pilihan": {
+        "A": "Menuju posisi jabatan lain yang setara dalam atau antarkelompok",
+        "B": "Menuju posisi jabatan yang lebih tinggi dalam satu kelompok jabatan",
+        "C": "Menuju posisi jabatan yang lebih tinggi antarkelompok JA, JF, atau JPT",
+        "D": "Menuju posisi jabatan struktural eselon satu di kementerian koordinator",
+        "E": "Menuju posisi staf pelaksana dengan penurunan kelas jabatan aktif"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Pola karier horizontal** adalah **perpindahan dari satu posisi Jabatan ke posisi Jabatan lain yang setara, baik di dalam satu kelompok maupun antar-kelompok JA, JF, atau JPT**.",
+        "alasan_kunci": "Opsi A merupakan rumusan resmi perpindahan mendatar (*lateral move*). Pola horizontal memperluas wawasan kerja dan pengalaman teknis aparatur pada level tanggung jawab yang setingkat tanpa perubahan kelas grading. Regulasi menegaskan polanya menuju posisi jabatan lain yang setara. Dengan demikian, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "B": "Merupakan definisi pola karier vertikal dalam satu kelompok jabatan.",
+          "C": "Merupakan definisi pola karier diagonal antarkelompok jabatan berbeda.",
+          "D": "Merupakan promosi jabatan pimpinan tinggi madya dan bukan pola horizontal.",
+          "E": "Merupakan demosi penurunan kelas jabatan akibat pelanggaran disiplin."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "vertikal, yaitu perpindahan dari satu posisi",
+        "di dalam satu kelompok JA, JF, atau JPT"
+      ],
+      "topik_materi": "Definisi Pola Karier Vertikal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perpindahan dari satu posisi jabatan ke posisi jabatan lain yang lebih tinggi di dalam satu kelompok JA, JF, atau JPT disebut pola karier...",
+      "pilihan": {
+        "A": "Diagonal antarkelompok fungsional",
+        "B": "Semi horizontal unit non-eselon",
+        "C": "Vertikal dalam satu rumpun kelompok",
+        "D": "Rotasi berkala penyegaran wilayah",
+        "E": "Sirkuler lintas kementerian negara"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Pola karier vertikal** adalah **perpindahan dari satu posisi Jabatan ke posisi Jabatan yang lain yang lebih tinggi, di dalam satu kelompok JA, JF, atau JPT**.",
+        "alasan_kunci": "Opsi C merupakan promosi jenjang berjenjang dalam jalur yang sama (misal dari JF Ahli Muda ke JF Ahli Madya, atau Pengawas ke Administrator). Kenaikan ini menguji peningkatan kematangan pada rumpun profesi serupa. Regulasi merumuskannya sebagai pola karier vertikal. Oleh karena itu, opsi C adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan perpindahan ke jabatan lebih tinggi namun menyeberang antarkelompok.",
+          "B": "Merupakan perpindahan setingkat yang melibatkan unit organisasi non-eselon.",
+          "D": "Merupakan pemindahan horizontal penyegaran tugas tanpa kenaikan jenjang.",
+          "E": "Merupakan istilah fiktif di luar taksonomi pola karier PMK 224/2020."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "diagonal, yaitu perpindahan dari satu posisi",
+        "antar-kelompok JA, JF, atau JPT"
+      ],
+      "topik_materi": "Definisi Pola Karier Diagonal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perpindahan dari satu posisi jabatan ke posisi jabatan lain yang LEBIH TINGGI ANTAR-KELOMPOK JA, JF, atau JPT merupakan bentuk pola karier...",
+      "pilihan": {
+        "A": "Horizontal internal fungsional",
+        "B": "Semi horizontal antarsatker",
+        "C": "Vertikal berjenjang keahlian",
+        "D": "Statis administratif pelaksana",
+        "E": "Diagonal antarkelompok jabatan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Pola karier diagonal** adalah **perpindahan dari satu posisi Jabatan ke posisi Jabatan lain yang lebih tinggi antar-kelompok JA, JF, atau JPT**.",
+        "alasan_kunci": "Opsi E merupakan mobilitas karier silang promosi (misalnya seorang pejabat fungsional ahli madya dipromosikan menduduki jabatan pimpinan tinggi pratama/eselon II). Perpindahan ini menaikkan jenjang sekaligus melintasi rumpun kelompok. Aturan menetapkan bentuknya adalah pola diagonal. Dengan demikian, opsi E adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan perpindahan mendatar setara tanpa kenaikan jenjang jabatan.",
+          "B": "Merupakan perpindahan setara dengan unit non-eselon khusus Kemenkeu.",
+          "C": "Merupakan promosi dalam satu kelompok internal yang sama.",
+          "D": "Merupakan istilah pasif di luar konsep pola karier kementerian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "Semi horizontal, yaitu perpindahan dari dan ke Jabatan lain",
+        "dari JA, JF, atau JPT ke"
+      ],
+      "topik_materi": "Pola Karier Semi Horizontal Kemenkeu",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pejabat administrator Kemenkeu dipindahtugaskan menduduki jabatan manajer pada unit organisasi non-eselon yang dianggap setingkat. Pola karier ini berbentuk...",
+      "pilihan": {
+        "A": "Pola karier vertikal mutlak dalam kelompok fungsional",
+        "B": "Pola mutasi demosi penurunan tanggung jawab manajerial",
+        "C": "Pola karier diagonal terbuka tingkat kementerian koordinator",
+        "D": "Pola karier transisi pensiun di luar tanggungan negara",
+        "E": "Pola karier semi horizontal di lingkungan Kementerian Keuangan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pola karier **semi horizontal** meliputi perpindahan **dari JA, JF, atau JPT ke posisi Jabatan pada Unit non Eselon yang dianggap setingkat**, atau sebaliknya.",
+        "alasan_kunci": "Opsi E merupakan pola khas Kemenkeu untuk menunjang fleksibilitas pengisian unit-unit non-eselon (seperti BLU atau Badan Pengelola Dana). Karena level tanggung jawabnya setara dengan jabatan struktural/fungsional asalnya, perpindahan ini dikategorikan semi horizontal. Aturan merumuskannya sebagai pola karier semi horizontal. Oleh karena itu, opsi E adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan promosi vertikal jabatan yang menghasilkan kenaikan tingkatan.",
+          "C": "Merupakan promosi silang antarkelompok jabatan ke level lebih tinggi.",
+          "D": "Merupakan status menjelang purnatugas CLTN tanpa pelaksanaan tugas aktif.",
+          "B": "Merupakan hukuman penurunan jabatan yang keliru diterapkan pada penugasan BLU."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "Semi vertikal, yaitu perpindahan dari dan ke Jabatan lain",
+        "dari JA, JF, atau JPT ke"
+      ],
+      "topik_materi": "Pola Karier Semi Vertikal Kemenkeu",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pejabat pengawas (eselon IV) Kemenkeu dipromosikan menjadi Direktur Eksekutif unit non-eselon yang dianggap setara eselon III. Bentuk pola karier ini adalah...",
+      "pilihan": {
+        "A": "Pola karier horizontal setingkat di satker daerah",
+        "B": "Pola karier linier tertutup kelompok jabatan administrasi",
+        "C": "Pola karier rotasi musiman perwakilan kepulauan terluar",
+        "D": "Pola karier semi vertikal di lingkungan Kementerian Keuangan",
+        "E": "Pola karier kehormatan tanpa pembebanan tanggung jawab dinas"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pola karier **semi vertikal** meliputi perpindahan **dari JA, JF, atau JPT ke posisi Jabatan pada Unit non Eselon yang dianggap lebih tinggi**, atau sebaliknya.",
+        "alasan_kunci": "Opsi D merupakan bentuk promosi yang melibatkan struktur unit non-eselon. Kenaikan wewenang dari level pengawas ke posisi pimpinan unit non-eselon yang berbobot lebih tinggi memenuhi kriteria semi vertikal. Regulasi menetapkan polanya adalah semi vertikal. Dengan demikian, opsi D adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan perpindahan lateral mendatar tanpa ada kenaikan level jabatan.",
+          "B": "Merupakan pola tertutup konvensional di luar fleksibilitas unit non-eselon.",
+          "C": "Merupakan rotasi geografis biasa tanpa perubahan bobot tingkatan tugas.",
+          "E": "Merupakan gelar kehormatan fiktif yang tidak dikenal dalam PMK 224/2020."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "perpindahan ke dalam Jabatan yang setingkat/",
+        "pertimbangan Sekretariat Jenderal c.q. Biro Sumber"
+      ],
+      "topik_materi": "Peran Biro SDM dalam Pola Karier Khusus",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pihak yang memberikan telaah dan pertimbangan resmi atas kesetaraan jabatan dalam pola karier semi horizontal dan semi vertikal adalah...",
+      "pilihan": {
+        "A": "Sekretariat Jenderal c.q. Biro Sumber Daya Manusia Kemenkeu",
+        "B": "Dewan Perwakilan Rakyat Komisi Keuangan dan Perbankan",
+        "C": "Badan Pengawasan Keuangan dan Pembangunan Perwakilan Daerah",
+        "D": "Asosiasi Pengusaha Mineral dan Batubara Indonesia",
+        "E": "Komite Nasional Keselamatan Transportasi Kementerian Perhubungan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Perpindahan dalam pola karier khusus Kemenkeu dilaksanakan sesuai **pertimbangan Sekretariat Jenderal c.q. Biro Sumber Daya Manusia**.",
+        "alasan_kunci": "Opsi A merupakan unit pengelola kepegawaian sentral di Kemenkeu yang berwenang menimbang kesetaraan kompetensi, analisis beban tugas, dan grading posisi non-eselon dengan jabatan struktural/fungsional. Aturan menetapkan pertimbangan berasal dari Setjen c.q. Biro SDM. Oleh karena itu, opsi A adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Merupakan komisi legislatif parlemen tanpa fungsi operasional SDM kementerian.",
+          "C": "Merupakan instansi audit internal pemerintah di luar hierarki manajemen Kemenkeu.",
+          "D": "Merupakan asosiasi industri swasta di luar urusan jabatan publik.",
+          "E": "Merupakan lembaga investigasi kecelakaan transportasi kementerian perhubungan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "Bentuk pola karier sebagaimana diatur pada PMK 224/2020 meliputi",
+        "horizontal",
+        "vertikal",
+        "diagonal"
+      ],
+      "topik_materi": "Tiga Bentuk Pokok Pola Karier PMK 224/2020",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tiga bentuk pokok pola karier aparatur sebagaimana diatur secara umum dalam PMK Nomor 224/PMK.01/2020 adalah...",
+      "pilihan": {
+        "A": "Sentralisasi, desentralisasi, dan dekonsentrasi kepegawaian",
+        "B": "Struktural, manajerial, dan operasional kewilayahan",
+        "C": "Horizontal, vertikal, dan diagonal antarkelompok jabatan",
+        "D": "Reguler, kehormatan, dan pengabdian purna kedinasan",
+        "E": "Internal, eksternal, dan internasional kenegaraan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Bentuk pola karier pokok pada PMK 224/2020 meliputi: **1) horizontal (setara), 2) vertikal (lebih tinggi satu kelompok), dan 3) diagonal (lebih tinggi antarkelompok)**.",
+        "alasan_kunci": "Opsi C merupakan klasifikasi tiga dimensi pergerakan karier baku ASN. Ketiga arah mobilitas ini mewadahi rotasi penyegaran, promosi jenjang, serta lompatan kompetensi lintas rumpun jabatan. Aturan menegaskan tiga bentuknya adalah horizontal, vertikal, dan diagonal. Dengan demikian, opsi C adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan asas hubungan kekuasaan pemerintah pusat dan daerah.",
+          "B": "Merupakan pembagian jenis fungsi tugas dan bukan arah pola karier.",
+          "D": "Merupakan rumpun jenis kenaikan pangkat pegawai negeri sipil.",
+          "E": "Merupakan jangkauan lokasi penugasan dan bukan geometri pola karier."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "dari Jabatan pada non Eselon ke",
+        "dengan Jabatan terakhir PNS Kemenkeu sebelum"
+      ],
+      "topik_materi": "Kembalinya Pejabat Non-Eselon ke Jabatan Setingkat",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang PNS Kemenkeu telah menyelesaikan masa penugasannya pada unit non-eselon. Alur penempatan kembali ke struktur reguler yang setingkat jabatan terakhir merupakan wujud...",
+      "pilihan": {
+        "A": "Pemberhentian sukarela atas inisiatif pribadi pegawai",
+        "B": "Demosi struktural akibat kegagalan target kerja di unit non-eselon",
+        "C": "Promosi akselerasi luar biasa di lingkungan kementerian koordinator",
+        "D": "Kenaikan pangkat pengabdian masa kerja tiga puluh tahun penuh",
+        "E": "Pola karier semi horizontal di lingkungan Kementerian Keuangan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Perpindahan **dari Jabatan pada non Eselon ke posisi JA, JF, atau JPT yang setingkat dengan Jabatan terakhir sebelum ditugaskan** merupakan salah satu bentuk **pola karier semi horizontal**.",
+        "alasan_kunci": "Opsi E merupakan pemulihan posisi aparatur yang telah selesai diperbantukan pada organ non-eselon. Pegawai ditarik kembali menempati formasi JA/JF/JPT setara posisi terakhirnya tanpa kehilangan hak karier strukturalnya. Aturan mengkategorikannya sebagai pola karier semi horizontal. Oleh karena itu, opsi E adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pengunduran diri sukarela dan bukan alur penempatan kembali dinas.",
+          "B": "Merupakan penurunan jabatan yang keliru dikaitkan dengan akhir penugasan normal.",
+          "C": "Merupakan promosi lompat jabatan yang tidak sesuai dengan konteks setingkat.",
+          "D": "Merupakan hak pensiun purnatugas dan bukan mutasi penugasan aktif."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "perpindahan dari satu posisi Jabatan ke",
+        "antar-kelompok JA, JF, atau JPT"
+      ],
+      "topik_materi": "Contoh Penerapan Pola Karier Diagonal",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pejabat pengawas (Jabatan Administrasi) terpilih melalui seleksi terbuka menduduki Jabatan Fungsional Ahli Madya (setara Eselon III). Perpindahan ini menerapkan pola...",
+      "pilihan": {
+        "A": "Pola karier horizontal mendatar pada unit kerja seksi yang sama",
+        "B": "Pola karier diagonal antarkelompok jabatan dengan jenjang lebih tinggi",
+        "C": "Pola rotasi tertutup antarseksi pada kantor pelayanan perbendaharaan",
+        "D": "Pola pemindahan hukuman disiplin pemotongan tunjangan kinerja",
+        "E": "Pola penugasan luar negeri tanpa melalui mekanisme seleksi terbuka"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Perpindahan dari Jabatan Administrasi (Pengawas) ke Jabatan Fungsional (Ahli Madya) yang lebih tinggi merupakan perwujudan nyata **pola karier diagonal**.",
+        "alasan_kunci": "Opsi B merupakan contoh konkret penerapan pola diagonal. Pegawai berpindah dari kelompok administrasi ke kelompok fungsional, sekaligus melangkah naik ke level yang lebih tinggi (dari setara eselon IV ke eselon III). Regulasi mendefinisikannya sebagai pola diagonal. Dengan demikian, opsi B adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan perpindahan setara yang tidak melibatkan kenaikan jenjang tugas.",
+          "C": "Merupakan perputaran meja tugas internal tanpa perubahan rumpun jabatan.",
+          "D": "Merupakan sanksi pelanggaran kedisiplinan dan bukan pengembangan karier.",
+          "E": "Merupakan penugasan perwakilan luar negeri di luar konteks kenaikan JF."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 37,
+      "kata_kunci_modul": [
+        "dari Jabatan pada Unit non Eselon",
+        "yang dianggap setingkat"
+      ],
+      "topik_materi": "Mutasi Antar-Unit Non-Eselon Setingkat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perpindahan penugasan PNS Kemenkeu dari satu unit non-eselon ke posisi pada unit non-eselon lainnya yang dianggap setingkat tergolong ke dalam...",
+      "pilihan": {
+        "A": "Pola karier semi vertikal akselerasi pimpinan",
+        "B": "Pola karier promosi terbuka tingkat nasional",
+        "C": "Pola karier diagonal lintas rumpun kementerian",
+        "D": "Pola karier semi horizontal di lingkungan Kemenkeu",
+        "E": "Pola mutasi penundaan kenaikan pangkat reguler"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Perpindahan **dari Jabatan pada Unit non Eselon ke posisi Jabatan pada Unit non Eselon lainnya yang dianggap setingkat** merupakan butir variasi dari **pola karier semi horizontal**.",
+        "alasan_kunci": "Opsi D merupakan mobilitas mendatar antar-lembaga non-eselon (misalnya dari manajer di BLU kelapa sawit ke manajer di BLU pendidikan). Karena posisinya setara dan berada di ranah non-eselon, pergerakannya masuk ke dalam skema semi horizontal. Aturan menetapkan kategorinya sebagai semi horizontal. Oleh karena itu, opsi D adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pola semi vertikal yang menuntut adanya kenaikan bobot jenjang.",
+          "B": "Merupakan lelang seleksi JPT terbuka dan bukan rotasi antarnon-eselon.",
+          "C": "Merupakan pola diagonal yang melibatkan loncatan ke level lebih tinggi.",
+          "E": "Merupakan sanksi administratif kepegawaian di luar pola pengembangan karier."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "Kenaikan pangkat merupakan penghargaan PNS",
+        "kenaikan pangkat reguler, kenaikan pangkat istimewa,"
+      ],
+      "topik_materi": "Empat Jenis Kenaikan Pangkat PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan regulasi kepegawaian yang diatur dalam modul, empat jenis kenaikan pangkat bagi PNS meliputi...",
+      "pilihan": {
+        "A": "Kenaikan pangkat harian, mingguan, bulanan, dan tahunan",
+        "B": "Kenaikan pangkat reguler, pilihan/istimewa, pengabdian, dan anumerta",
+        "C": "Kenaikan pangkat daerah, provinsi, pusat, dan internasional",
+        "D": "Kenaikan pangkat pemula, madya, utama, dan kehormatan militer",
+        "E": "Kenaikan pangkat penugasan, perbantuan, skorsing, dan pensiun"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kenaikan pangkat merupakan penghargaan PNS dengan jenis: **kenaikan pangkat reguler, kenaikan pangkat istimewa (pilihan), kenaikan pangkat pengabdian, dan kenaikan pangkat anumerta**.",
+        "alasan_kunci": "Opsi B merupakan empat pintu resmi kenaikan golongan/ruang kepangkatan aparatur negara. Kenaikan pangkat reguler untuk masa kerja rutin, pilihan untuk jabatan/prestasi luar biasa, pengabdian saat pensiun terhormat, dan anumerta bagi yang gugur dinas. Regulasi menegaskan keempat jenis tersebut. Dengan demikian, opsi B adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pembagian periode waktu fiktif yang tidak dikenal dalam hukum ASN.",
+          "C": "Merupakan yurisdiksi wilayah administrasi dan bukan nomenklatur pangkat.",
+          "D": "Merupakan jenjang fungsional keahlian dan kepangkatan tentara pertahanan.",
+          "E": "Merupakan status administratif kepegawaian di luar klasifikasi pangkat resmi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "Kenaikan Pangkat Reguler diberikan kepada PNS yang",
+        "sekurang-kurangnya telah empat tahun dalam pangkat terakhir"
+      ],
+      "topik_materi": "Syarat Masa Pangkat Kenaikan Reguler",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Syarat masa dinas minimum dalam pangkat terakhir yang wajib dipenuhi seorang PNS untuk memperoleh Kenaikan Pangkat Reguler adalah...",
+      "pilihan": {
+        "A": "Satu tahun kalender masa pengabdian",
+        "B": "Dua tahun masa penugasan di satker",
+        "C": "Tiga tahun masa kedinasan aktif",
+        "D": "Sekurang-kurangnya telah empat tahun dalam pangkat terakhir",
+        "E": "Tujuh tahun masa kerja kepegawaian"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Salah satu syarat mutlak Kenaikan Pangkat Reguler adalah **sekurang-kurangnya telah 4 (empat) tahun dalam pangkat terakhir** dan tidak melampaui pangkat atasan langsungnya.",
+        "alasan_kunci": "Opsi D merupakan kurun waktu pembinaan standar bagi PNS non-jabatan struktural/fungsional tertentu untuk naik pangkat secara berkala. Periode empat tahun mencerminkan kecukupan masa pengabdian untuk dinaikkan satu tingkat golongan ruangnya. Aturan menetapkan syaratnya sekurang-kurangnya empat tahun. Oleh karena itu, opsi D adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan masa kerja minimal kenaikan jabatan fungsional berbasis angka kredit.",
+          "B": "Merupakan kurun waktu evaluasi penilaian prestasi kerja tahunan.",
+          "C": "Merupakan siklus tiga tahunan mutasi dan bukan syarat kenaikan reguler.",
+          "E": "Merupakan masa tunggu yang terlalu lama dan merugikan hak berkala pegawai."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "Kenaikan Pangkat Reguler diberikan kepada PNS yang",
+        "Setiap unsur DP3/PPKP dua tahun terakhir bernilai baik"
+      ],
+      "topik_materi": "Syarat Penilaian Kinerja Kenaikan Reguler",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Persyaratan nilai prestasi kerja (PPKP) yang wajib dipenuhi oleh PNS untuk usulan kenaikan pangkat reguler adalah...",
+      "pilihan": {
+        "A": "Setiap unsur bernilai baik dalam dua tahun terakhir",
+        "B": "Cukup bernilai cukup dalam satu semester dinas",
+        "C": "Bernilai amat baik selama sepuluh tahun berturut-turut",
+        "D": "Bebas dari segala kewajiban penilaian kinerja atasan",
+        "E": "Memiliki surat dispensasi khusus dari bendahara kantor"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kenaikan Pangkat Reguler mensyaratkan bahwa **setiap unsur DP3/PPKP dua tahun terakhir bernilai baik** secara konsisten.",
+        "alasan_kunci": "Opsi A merupakan jaminan bahwa kenaikan berkala tetap menuntut kinerja memadai dan perilaku positif. Penilaian baik selama dua tahun membuktikan pegawai tidak melakukan pelanggaran disiplin dan menuntaskan sasaran kerjanya. Aturan menetapkan syaratnya bernilai baik dalam dua tahun terakhir. Dengan demikian, opsi A adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Merupakan nilai cukup yang tidak memenuhi ambang minimal kenaikan pangkat.",
+          "C": "Merupakan syarat amat baik sepuluh tahun yang berlebih dan tidak proporsional.",
+          "D": "Merupakan pengabaian sistem penilaian kinerja yang melanggar meritokrasi.",
+          "E": "Merupakan surat dispensasi ilegal yang tidak diakui Badan Kepegawaian Negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "Kenaikan Pangkat Pilihan diberikan kepada PNS yang",
+        "menunjukkan prestasi kerja luar biasa baiknya"
+      ],
+      "topik_materi": "Kenaikan Pangkat Pilihan Prestasi Luar Biasa",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kenaikan Pangkat Pilihan dapat dianugerahkan kepada PNS yang menunjukkan prestasi kerja luar biasa baiknya, dengan bukti yuridis berupa...",
+      "pilihan": {
+        "A": "Pemberitaan viral di berbagai media sosial daring",
+        "B": "Piagam penghargaan dari organisasi kemasyarakatan lokal",
+        "C": "Surat keputusan yang ditandatangani Pembina Kepegawaian",
+        "D": "Surat pernyataan dukungan dari seluruh keluarga pegawai",
+        "E": "Bukti transfer uang donasi sukarela ke rekening kas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Prestasi kerja luar biasa baiknya adalah prestasi sangat menonjol yang diakui nyata di lingkungan kerjanya, di mana **prestasi dinyatakan dalam bentuk surat keputusan yang ditandatangani Pembina Kepegawaian**.",
+        "alasan_kunci": "Opsi C merupakan legalitas pengakuan resmi kepala instansi atas inovasi atau jasa luar biasa pegawai. Tanpa surat keputusan resmi dari Pejabat Pembina Kepegawaian, prestasi tersebut tidak dapat dijadikan dasar kenaikan pangkat pilihan istimewa. Aturan menegaskan bukti berupa SK yang ditandatangani Pembina Kepegawaian. Oleh karena itu, opsi C adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan opini publik warganet di media sosial tanpa kekuatan hukum dinas.",
+          "B": "Merupakan apresiasi lembaga nonpemerintah di luar struktur tata negara.",
+          "D": "Merupakan dokumen dukungan privat yang tidak memiliki legitimasi kedinasan.",
+          "E": "Merupakan gratifikasi ilegal yang justru diancam sanksi pidana kepegawaian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "Kenaikan Pangkat Pilihan diberikan kepada PNS yang",
+        "menemukan penemuan baru yang bermanfaat bagi negara"
+      ],
+      "topik_materi": "Kenaikan Pangkat Penemuan Baru bagi Negara",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang PNS fungsional peneliti berhasil menciptakan teknologi ramah lingkungan yang dipatenkan dan terbukti menghemat belanja negara miliaran rupiah. Pegawai bersangkutan berhak atas...",
+      "pilihan": {
+        "A": "Pemberian dispensasi bebas tugas selamanya tanpa pemotongan gaji",
+        "B": "Pengalihan status kepegawaian menjadi tenaga ahli swasta asing",
+        "C": "Pemberhentian dini dengan hak pensiun nominal dua kali lipat",
+        "D": "Pemberian izin merangkap sebagai pengurus harian partai politik",
+        "E": "Kenaikan Pangkat Pilihan karena menemukan penemuan baru bagi negara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kenaikan Pangkat Pilihan diberikan kepada PNS yang **menemukan penemuan baru yang bermanfaat bagi negara**.",
+        "alasan_kunci": "Opsi E merupakan insentif kenegaraan bagi aparatur inovatif yang menghasilkan karya intelektual berdampak besar bagi bangsa. Penemuan baru yang diakui secara saintifik dan bermanfaat strategis diapresiasi langsung melalui percepatan kenaikan pangkat pilihan. Aturan menetapkan haknya adalah Kenaikan Pangkat Pilihan. Dengan demikian, opsi E adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pembebasan tugas ilegal yang merugikan produktivitas instansi.",
+          "B": "Merupakan pelepasan status aparatur yang bertentangan dengan retensi talenta.",
+          "C": "Merupakan pemensiunan dini yang mematikan karier inovator produktif.",
+          "D": "Merupakan pelanggaran berat netralitas yang dilarang undang-undang ASN."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "Kenaikan Pangkat Pengabdian",
+        "memiliki masa kerja 30 tahun atau lebih"
+      ],
+      "topik_materi": "Syarat Kenaikan Pangkat Pengabdian Masa Kerja 30 Tahun",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagi PNS yang memiliki masa kerja 30 tahun atau lebih menjelang pensiun BUP, syarat waktu dalam pangkat terakhir untuk Kenaikan Pangkat Pengabdian adalah...",
+      "pilihan": {
+        "A": "Telah empat tahun penuh dalam pangkat terakhir",
+        "B": "Telah sekurang-kurangnya satu bulan dalam pangkat terakhir",
+        "C": "Telah dua tahun kalender dalam pangkat terakhir",
+        "D": "Telah enam bulan dinas aktif dalam pangkat terakhir",
+        "E": "Telah lima tahun berturut-turut dalam pangkat terakhir"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kenaikan Pangkat Pengabdian diberikan apabila memiliki **masa kerja 30 tahun atau lebih dan telah 1 (satu) bulan dalam pangkat terakhir** serta tidak pernah dijatuhi hukuman disiplin sedang/berat dalam 1 tahun terakhir.",
+        "alasan_kunci": "Opsi B merupakan kemudahan istimewa bagi abdi negara dengan masa kerja sangat panjang (30 tahun ke atas). Untuk menghargai loyalitas tanpa cela tersebut, syarat masa pangkat terakhir diringankan menjadi minimal 1 bulan saja sebelum pensiun/meninggal. Aturan menetapkan durasinya 1 bulan dalam pangkat terakhir. Oleh karena itu, opsi B adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan syarat umum empat tahun pada kenaikan pangkat reguler biasa.",
+          "C": "Merupakan syarat masa kerja 10 tahun (telah 2 tahun dalam pangkat terakhir).",
+          "D": "Merupakan periode semesteran dan bukan ambang masa kerja 30 tahun.",
+          "E": "Merupakan syarat yang terlalu memberatkan bagi pegawai purna bakti 30 tahun."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "Kenaikan Pangkat Pengabdian",
+        "apabila masa kerja 20 tahun atau lebih"
+      ],
+      "topik_materi": "Syarat Kenaikan Pangkat Pengabdian Masa Kerja 20 Tahun",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagi PNS yang akan mencapai batas usia pensiun dengan masa kerja 20 tahun atau lebih, syarat dalam pangkat terakhir untuk Kenaikan Pangkat Pengabdian adalah...",
+      "pilihan": {
+        "A": "Telah satu bulan kalender dalam pangkat terakhir",
+        "B": "Telah tiga bulan dinas dalam pangkat terakhir",
+        "C": "Telah enam bulan berjalan dalam pangkat terakhir",
+        "D": "Telah satu tahun dalam pangkat terakhir",
+        "E": "Telah tiga tahun penuh dalam pangkat terakhir"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kenaikan Pangkat Pengabdian diberikan kepada PNS yang pensiun mencapai BUP **apabila masa kerja 20 tahun atau lebih dan pegawai yang bersangkutan telah 1 (satu) tahun dalam pangkat terakhir**.",
+        "alasan_kunci": "Opsi D merupakan formula proporsionalitas masa kerja dengan syarat pangkat terakhir (20 tahun kerja = 1 tahun pangkat terakhir). Ketentuan ini memastikan kenaikan kehormatan pengabdian dinikmati aparatur yang memenuhi kedisiplinan dan masa bakti prima. Regulasi menetapkan syaratnya telah 1 tahun dalam pangkat terakhir. Dengan demikian, opsi D adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan syarat kenaikan pengabdian bagi masa kerja 30 tahun ke atas.",
+          "B": "Merupakan kurun waktu triwulanan yang tidak dikenal dalam formula pengabdian.",
+          "C": "Merupakan durasi semester yang tidak sesuai dengan ketentuan PP manajemen PNS.",
+          "E": "Merupakan masa tunggu tiga tahun yang melampaui ketentuan satu tahun."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "Kenaikan Pangkat Pengabdian",
+        "apabila masa kerja"
+      ],
+      "topik_materi": "Syarat Kenaikan Pangkat Pengabdian Masa Kerja 10 Tahun",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Syarat masa pangkat terakhir bagi PNS yang memasuki masa pensiun BUP dengan masa kerja minimal 10 tahun adalah...",
+      "pilihan": {
+        "A": "Telah dua tahun dalam pangkat terakhir",
+        "B": "Telah empat tahun dalam pangkat terakhir",
+        "C": "Telah lima tahun dalam pangkat terakhir",
+        "D": "Telah enam bulan dalam pangkat terakhir",
+        "E": "Telah satu bulan dalam pangkat terakhir"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kenaikan Pangkat Pengabdian diberikan **apabila masa kerja 10 tahun atau lebih telah 2 (dua) tahun dalam pangkat terakhir**.",
+        "alasan_kunci": "Opsi A merupakan tangga syarat masa kerja terbawah (10 tahun kerja = 2 tahun pangkat terakhir) untuk memperoleh satu tingkat kenaikan pangkat pengabdian sebelum pensiun. Aturan mensyaratkan durasinya telah 2 tahun dalam pangkat terakhir. Oleh karena itu, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "B": "Merupakan syarat kenaikan pangkat reguler empat tahunan non-jabatan.",
+          "C": "Merupakan masa tunggu lima tahun yang tidak sesuai dengan regulasi pensiun.",
+          "D": "Merupakan durasi semesteran di luar formula resmi kenaikan pengabdian.",
+          "E": "Merupakan syarat khusus bagi pegawai dengan masa kerja 30 tahun ke atas."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "bernilai baik",
+        "sedang atau berat"
+      ],
+      "topik_materi": "Syarat Disiplin Kenaikan Pangkat Pengabdian",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Syarat integritas dan kedisiplinan yang mutlak wajib dipenuhi untuk penetapan Kenaikan Pangkat Pengabdian adalah...",
+      "pilihan": {
+        "A": "Pernah dijatuhi sanksi disiplin berat namun telah dimaafkan",
+        "B": "Memiliki catatan penundaan kenaikan gaji berkala dua kali",
+        "C": "Tidak dijatuhi sanksi disiplin sedang/berat satu tahun terakhir",
+        "D": "Memiliki izin tertulis menjadi konsultan pada perusahaan swasta",
+        "E": "Mendapat rekomendasi pengampunan dari majelis etik instansi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Syarat integritas Kenaikan Pangkat Pengabdian adalah PPKP bernilai baik dalam 1 tahun terakhir dan **tidak pernah dijatuhi hukuman disiplin sedang atau berat dalam 1 tahun terakhir**.",
+        "alasan_kunci": "Opsi C merupakan saringan kehormatan agar pangkat pengabdian benar-benar menjadi mahkota bagi pegawai yang setia dan taat aturan hingga akhir hayat kedinasannya. Hukuman disiplin sedang atau berat dalam satu tahun terakhir secara otomatis menggugurkan usulan kenaikan pengabdian. Aturan menyatakan syaratnya tidak pernah dijatuhi hukuman disiplin sedang/berat dalam 1 tahun terakhir. Dengan demikian, opsi C adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan hukuman berat yang membatalkan kelayakan pangkat pengabdian.",
+          "B": "Merupakan sanksi disiplin sedang yang menggugurkan hak kenaikan pengabdian.",
+          "D": "Merupakan benturan kepentingan bisnis yang dilarang bagi aparatur aktif.",
+          "E": "Merupakan rekomendasi pengampunan yang tidak menghapus catatan rekam disiplin."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 38,
+      "kata_kunci_modul": [
+        "Kenaikan Pangkat Reguler diberikan kepada PNS yang",
+        "tidak melampaui pangkat atasan langsungnya"
+      ],
+      "topik_materi": "Batas Pangkat Atasan pada Kenaikan Reguler",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam Kenaikan Pangkat Reguler, batasan kepangkatan PNS yang bersangkutan diatur dengan ketentuan ketat yaitu...",
+      "pilihan": {
+        "A": "Wajib setara dengan pangkat pejabat pembina kepegawaian",
+        "B": "Bebas melampaui pangkat pimpinan unit eselon dua di atasnya",
+        "C": "Harus lebih tinggi satu tingkat dari pangkat menteri keuangan",
+        "D": "Boleh melebihi pangkat kepala kantor wilayah tempat bertugas",
+        "E": "Tidak boleh melampaui pangkat yang dimiliki atasan langsungnya"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kenaikan Pangkat Reguler diberikan dengan ketentuan bahwa pangkat baru PNS yang bersangkutan **tidak melampaui pangkat atasan langsungnya**.",
+        "alasan_kunci": "Opsi E merupakan asas hierarki kepemimpinan dalam birokrasi pemerintahan (*command line*). Kenaikan reguler staf pelaksana tidak boleh melampaui golongan ruang pejabat struktural yang memimpinnya secara langsung guna menjaga wibawa komando dinas. Regulasi menegaskan pangkatnya tidak melampaui pangkat atasan langsung. Oleh karena itu, opsi E adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pangkat menteri/kepala lembaga yang merupakan puncak tertinggi.",
+          "B": "Merupakan pelampauan pangkat eselon dua yang melanggar hierarki birokrasi.",
+          "C": "Merupakan asumsi mustahil yang bertentangan dengan struktur tata negara.",
+          "D": "Merupakan pelanggaran tingkatan pangkat terhadap pimpinan unit kerja wilayah."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "Kenaikan Pangkat Anumerta diberikan kepada PNS yang",
+        "dalam menjalankan tugas kewajibannya"
+      ],
+      "topik_materi": "Kriteria Kenaikan Pangkat Anumerta",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kenaikan Pangkat Anumerta dianugerahkan oleh negara kepada Pegawai Negeri Sipil yang...",
+      "pilihan": {
+        "A": "Memilih pensiun dini atas permintaan sendiri di usia muda",
+        "B": "Mengikuti seleksi penerimaan beasiswa pendidikan pascasarjana",
+        "C": "Dinyatakan tewas dalam menjalankan tugas kewajiban kedinasannya",
+        "D": "Menemukan metode penghematan kertas operasional kantor dinas",
+        "E": "Mencapai masa kerja penuh selama empat puluh tahun berdinas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Kenaikan Pangkat Anumerta diberikan kepada PNS yang dinyatakan tewas/meninggal dunia dalam menjalankan tugas kewajibannya** atau meninggal akibat luka/cacat dinas.",
+        "alasan_kunci": "Opsi C merupakan penghargaan anumerta tertinggi atas gugurnya aparatur saat mengabdi pada bangsa. Status tewas dalam tugas memberikan kenaikan satu tingkat pangkat secara anumerta yang berdampak pada peningkatan hak pensiun bagi janda/duda dan ahli waris. Aturan menyebutkan syaratnya dinyatakan tewas dalam tugas kewajiban. Dengan demikian, opsi C adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pensiun dini sukarela yang tidak berhak atas pangkat anumerta.",
+          "B": "Merupakan tugas belajar yang memperoleh kenaikan pangkat pilihan bila lulus.",
+          "D": "Merupakan efisiensi rutin kantor yang tidak memenuhi kriteria anumerta.",
+          "E": "Merupakan masa kerja panjang yang berhak atas kenaikan pangkat pengabdian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "kenaikan pangkat anumerta ditetapkan berlaku",
+        "Negeri Sipil yang bersangkutan tewas"
+      ],
+      "topik_materi": "Masa Berlaku Kenaikan Pangkat Anumerta",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan regulasi kepegawaian, berlakunya surat keputusan Kenaikan Pangkat Anumerta ditetapkan mulai...",
+      "pilihan": {
+        "A": "Tanggal awal tahun anggaran berikutnya setelah laporan disetujui",
+        "B": "Tanggal penerbitan surat penguburan oleh dinas pemakaman umum",
+        "C": "Tanggal satu bulan Oktober tahun pengusulan berkas kepegawaian",
+        "D": "Tanggal penandatanganan akta waris oleh seluruh anggota keluarga",
+        "E": "Tanggal Pegawai Negeri Sipil yang bersangkutan dinyatakan tewas"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Secara yuridis, **kenaikan pangkat anumerta ditetapkan berlaku mulai tanggal Pegawai Negeri Sipil yang bersangkutan tewas**.",
+        "alasan_kunci": "Opsi E merupakan kepastian titik tolak waktu hukum perlindungan hak ahli waris. SK anumerta berlaku surut terhitung tepat sejak hari terjadinya peristiwa gugurnya pegawai saat bertugas, bukan pada tanggal penetapan SK di masa depan. Aturan menegaskan berlaku mulai tanggal PNS bersangkutan tewas. Oleh karena itu, opsi E adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan siklus tahun anggaran baru yang menunda hak keuangan ahli waris.",
+          "B": "Merupakan urusan administrasi pemakaman di luar surat keputusan kenegaraan.",
+          "C": "Merupakan tanggal periodik kenaikan pangkat biasa dan bukan anumerta.",
+          "D": "Merupakan penetapan hukum perdata keluarga di pengadilan agama/negeri."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "DUK PNS adalah suatu daftar yang",
+        "yang disusun menurut tingkatan kepangkatan"
+      ],
+      "topik_materi": "Definisi Daftar Urut Kepangkatan (DUK)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengertian dari Daftar Urut Kepangkatan (DUK) Pegawai Negeri Sipil adalah suatu daftar yang memuat nama-nama PNS yang...",
+      "pilihan": {
+        "A": "Mendapatkan fasilitas kredit kepemilikan rumah bersubsidi dinas",
+        "B": "Disusun secara hierarkis menurut tingkatan kepangkatan pegawai",
+        "C": "Daftar hadir presensi sidik jari pada loket pelayanan masyarakat",
+        "D": "Daftar pemegang rekening tabungan pensiun pada bank pemerintah",
+        "E": "Daftar nama pelamar yang dinyatakan gagal dalam seleksi berkas"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**DUK PNS adalah suatu daftar yang memuat nama-nama PNS dari suatu satuan organisasi negara yang disusun menurut tingkatan kepangkatan**.",
+        "alasan_kunci": "Opsi B merupakan fungsi DUK sebagai instrumen transparansi susunan kedudukan senioritas kepangkatan aparatur di suatu satker. DUK memastikan pertimbangan karier pegawai memiliki rujukan hierarkis yang objektif dan tertib administrasi. Aturan mendefinisikan DUK sebagai daftar nama yang disusun menurut tingkatan kepangkatan. Dengan demikian, opsi B adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan program pembiayaan perumahan sosial di luar daftar kepangkatan.",
+          "C": "Merupakan rekapitulasi presensi harian staf dan bukan tingkatan pangkat.",
+          "D": "Merupakan data nasabah perbankan mitra pengelola gaji dinas.",
+          "E": "Merupakan daftar eliminasi seleksi penerimaan CPNS baru."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "Ukuran yang digunakan untuk menetapkan nomor",
+        "pangkat, jabatan, masa kerja, latihan jabatan,"
+      ],
+      "topik_materi": "Enam Ukuran Penentu Nomor Urut DUK",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Enam tolak ukur yang digunakan untuk menetapkan nomor urut dalam DUK PNS secara berturut-turut adalah...",
+      "pilihan": {
+        "A": "Usia, pendidikan, masa kerja, jabatan, latihan, dan golongan pangkat",
+        "B": "Jabatan, usia, masa kerja, pangkat, pendidikan, dan jumlah keluarga",
+        "C": "Pendidikan, pangkat, jabatan, latihan jabatan, usia, dan masa kerja",
+        "D": "Pangkat, jabatan, masa kerja, latihan jabatan, pendidikan, dan usia",
+        "E": "Masa kerja, pangkat, jabatan, pendidikan, latihan jabatan, dan usia"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Ukuran untuk menetapkan nomor urut dalam DUK secara berturut-turut adalah: **1. pangkat, 2. jabatan, 3. masa kerja, 4. latihan jabatan, 5. pendidikan, dan 6. usia**.",
+        "alasan_kunci": "Opsi D merupakan urutan prioritas matematis baku dalam penetapan nomor urut DUK. Pangkat menjadi pembeda pertama; jika sama dilihat jabatannya; jika sama dilihat masa kerjanya; disusul diklat jabatan, tingkat pendidikan, dan terakhir faktor usia. Aturan menetapkan urutan berturut-turut pangkat, jabatan, masa kerja, latihan, pendidikan, dan usia. Oleh karena itu, opsi D adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan susunan terbalik yang mengutamakan faktor usia di atas pangkat.",
+          "B": "Merupakan urutan acak yang memasukkan unsur jumlah keluarga non-aturan.",
+          "C": "Merupakan urutan keliru yang menempatkan pendidikan di atas pangkat dinas.",
+          "E": "Merupakan susunan keliru yang mendahulukan masa kerja di atas pangkat golongan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "Dalam DUK tidak boleh ada dua nama PNS",
+        "yang sama"
+      ],
+      "topik_materi": "Asas Tunggal Nomor Urut DUK",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip ketunggalan nomor urut dalam penyusunan Daftar Urut Kepangkatan (DUK) PNS menegaskan bahwa...",
+      "pilihan": {
+        "A": "Dalam DUK tidak boleh ada dua nama PNS yang sama nomor urutnya",
+        "B": "Seluruh pejabat fungsional wajib menempati nomor urut paling awal",
+        "C": "Nomor urut DUK boleh dibagi bersama bagi pegawai kembar keluarga",
+        "D": "Nomor urut ditentukan melalui pengundian nomor acak di awal tahun",
+        "E": "Pegawai wanita dan pria dipisahkan ke dalam dua buku naskah berbeda"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Ketentuan penataan DUK menegaskan bahwa **dalam DUK tidak boleh ada dua nama PNS yang sama nomor urutnya**.",
+        "alasan_kunci": "Opsi A merupakan asas kepastian hierarki di mana setiap pegawai menempati posisi tunggal dalam daftar susunan unit organisasi. Jika indikator pangkat sama, ukuran berikutnya (jabatan, masa kerja, latihan, pendidikan, usia) terus diuji hingga ditemukan pembeda nomor urut yang unik. Aturan menyatakan tidak boleh ada dua nama bernomor urut sama. Dengan demikian, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "B": "Merupakan pengistimewaan fungsional yang bertentangan dengan rumus DUK.",
+          "C": "Merupakan nomor ganda yang dilarang keras dalam regulasi DUK kepegawaian.",
+          "D": "Merupakan penentuan undian acak yang menabrak asas meritokrasi objektif.",
+          "E": "Merupakan pemisahan gender diskriminatif yang dilarang undang-undang."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "Manajemen Karier di lingkungan Kementerian Keuangan",
+        "objektif, terencana, dan akuntabel"
+      ],
+      "topik_materi": "Prinsip Manajemen Karier Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tiga sifat utama dari pengelolaan SDM dalam Manajemen Karier di lingkungan Kementerian Keuangan adalah...",
+      "pilihan": {
+        "A": "Subjektif, informal, dan tertutup bagi publik",
+        "B": "Spontan, spekulatif, dan fleksibel tanpa aturan",
+        "C": "Objektif, terencana, dan akuntabel sesuai Sistem Merit",
+        "D": "Patrimonial, politis, dan berbasis kekerabatan daerah",
+        "E": "Birokratis, kaku, dan mengabaikan kinerja pegawai"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Manajemen Karier di lingkungan Kementerian Keuangan adalah **serangkaian pengelolaan SDM yang objektif, terencana, dan akuntabel, untuk melaksanakan pengembangan karier dengan menerapkan prinsip Sistem Merit**.",
+        "alasan_kunci": "Opsi C merupakan fondasi profesionalisme tata kelola SDM Kemenkeu. Pengelolaan karier bebas dari rasa suka/tidak suka (*like/dislike*), terprogram jangka panjang, dan dapat dipertanggungjawabkan akurasinya kepada publik dan pemangku kepentingan. Regulasi merumuskannya objektif, terencana, dan akuntabel. Oleh karena itu, opsi C adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pengelolaan subjektif tertutup yang merusak integritas birokrasi.",
+          "B": "Merupakan pengelolaan nir-rencana yang menimbulkan ketidakpastian karier.",
+          "D": "Merupakan praktik nepotisme patrimonial terlarang dalam tata kelola modern.",
+          "E": "Merupakan birokrasi kaku yang mengabaikan penilaian kontribusi kinerja."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "meninggal dunia karena perbuatan anasir yang tidak bertanggungjawab",
+        "Kenaikan Pangkat Anumerta diberikan kepada PNS"
+      ],
+      "topik_materi": "Kenaikan Pangkat Anumerta Akibat Tindakan Anasir Jahat",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang petugas Bea Cukai gugur saat diserang oleh sindikat penyelundup bersenjata dalam patroli laut resmi. Hak kepangkatan yang diberikan negara adalah...",
+      "pilihan": {
+        "A": "Kenaikan pangkat pilihan jalur penemuan metode baru",
+        "B": "Penurunan pangkat satu tingkat karena gagal melumpuhkan pelaku",
+        "C": "Pemberhentian dinas tanpa pemberian hak jaminan duka cita",
+        "D": "Pemberian dispensasi kenaikan pangkat reguler empat tahunan",
+        "E": "Pemberian Kenaikan Pangkat Anumerta berlaku sejak tanggal gugur"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kenaikan Pangkat Anumerta diberikan kepada PNS yang **meninggal dunia karena perbuatan anasir yang tidak bertanggung jawab ataupun sebagai akibat tindakan terhadap anasir itu** saat menjalankan tugas.",
+        "alasan_kunci": "Opsi E merupakan penghargaan tertinggi bagi prajurit sipil yang menjadi korban kejahatan saat membela kepentingan kedaulatan penerimaan negara. Peristiwa gugur akibat serangan penyelundup (*anasir*) diakui negara melalui penganugerahan pangkat anumerta terhitung sejak tanggal wafatnya. Aturan menetapkan haknya adalah Kenaikan Pangkat Anumerta. Dengan demikian, opsi E adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan kenaikan pangkat inovasi ilmiah yang tidak relevan bagi korban gugur.",
+          "B": "Merupakan tindakan tidak adil yang menghina pengorbanan jiwa aparatur negara.",
+          "C": "Merupakan penelantaran hak asasi yang melanggar ketentuan jaminan tewas.",
+          "D": "Merupakan kenaikan reguler berkala biasa tanpa makna penghargaan kehormatan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "pengangkatan dalam jabatan",
+        "nomor urut dalam Daftar Urut Kepangkatan"
+      ],
+      "topik_materi": "Peran DUK dalam Pertimbangan Jabatan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Objektivitas dalam mempertimbangkan kenaikan pangkat dan pengangkatan jabatan aparatur antara lain diwujudkan dengan memperhatikan...",
+      "pilihan": {
+        "A": "Hasil telaah nomor urut dalam Daftar Urut Kepangkatan (DUK) pegawai",
+        "B": "Tingkat kesamaan suku dan daerah asal pegawai dengan pimpinan",
+        "C": "Besaran pinjaman dana yang diajukan pegawai kepada koperasi",
+        "D": "Kepemilikan sertifikat keikutsertaan organisasi sayap partai",
+        "E": "Jumlah aset kendaraan mewah yang diparkir di halaman kantor"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Objektivitas dalam mempertimbangkan kenaikan pangkat dan jabatan antara lain adalah dengan **memperhatikan nomor urut dalam Daftar Urut Kepangkatan (DUK) dari PNS yang akan dipertimbangkan**.",
+        "alasan_kunci": "Opsi A merupakan salah satu tolok ukur kesetaraan urut kedudukan aparatur sipil. Dengan menelaah DUK, promosi dan kenaikan pangkat dilakukan secara tertib tanpa melangkahi rekan sejawat yang memiliki kualifikasi, masa kerja, dan kepangkatan lebih matang tanpa alasan kinerja yang sah. Regulasi menyatakan pertimbangan memperhatikan nomor urut DUK. Oleh karena itu, opsi A adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Merupakan nepotisme primordial kedaerahan yang dilarang undang-undang.",
+          "C": "Merupakan transaksi finansial koperasi privat di luar tolak ukur jabatan.",
+          "D": "Merupakan pelanggaran berat netralitas politik aparatur sipil negara.",
+          "E": "Merupakan gaya hidup pamer aset yang bertentangan dengan kode etik aparatur."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "meninggal dunia yang langsung diakibatkan oleh",
+        "didapat dalam menjalankan tugas kewajibannya"
+      ],
+      "topik_materi": "Anumerta Akibat Cacat/Luka Dinas",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "PNS yang meninggal dunia akibat komplikasi luka parah yang didapat langsung saat menjalankan tugas kedinasan berhak atas...",
+      "pilihan": {
+        "A": "Pemberhentian dengan sanksi kelalaian menjaga keselamatan pribadi",
+        "B": "Penetapan Kenaikan Pangkat Anumerta sebagai penghargaan dinas",
+        "C": "Penundaan pembayaran santunan duka sampai hasil audit forensik",
+        "D": "Pemindahan tugas keluarga inti menuju lokasi rawan kecelakaan",
+        "E": "Pemberian surat teguran tertulis kepada pimpinan unit kerja"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "PNS berhak atas Kenaikan Pangkat Anumerta apabila **meninggal dunia yang langsung diakibatkan oleh luka atau cacat jasmani atau cacat rohani yang didapat dalam menjalankan tugas kewajibannya**.",
+        "alasan_kunci": "Opsi B merupakan bentuk penghargaan atas luka tugas fatal (*in the line of duty*). Walaupun pegawai tidak langsung tewas di tempat kejadian, kematian yang terbukti secara medis disebabkan oleh luka tugas resmi disetarakan dengan gugur dinas. Aturan menetapkan haknya adalah Kenaikan Pangkat Anumerta. Dengan demikian, opsi B adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan tuduhan tidak manusiawi yang melanggar perlindungan hukum korban.",
+          "C": "Merupakan penundaan hak jaminan sosial duka cita yang merugikan keluarga.",
+          "D": "Merupakan tindakan sewenang-wenang yang melanggar hak asasi keluarga.",
+          "E": "Merupakan sanksi salah alamat yang tidak berkaitan dengan penghargaan korban."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 39,
+      "kata_kunci_modul": [
+        "Manajemen Karier",
+        "Sistem Merit"
+      ],
+      "topik_materi": "Ruang Lingkup Kegiatan Manajemen Karier Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ruang lingkup kegiatan operasional Manajemen Karier di Kementerian Keuangan yang diselenggarakan berdasarkan Sistem Merit meliputi...",
+      "pilihan": {
+        "A": "Pengembangan kompetensi, pengembangan karier, pola karier, mutasi, promosi",
+        "B": "Pemberian pinjaman komersial dan pelelangan aset kendaraan dinas",
+        "C": "Penyelidikan intelijen perpajakan dan penyitaan rekening nasabah",
+        "D": "Pengaturan jam dinas fleksibel tanpa kewajiban pemenuhan target",
+        "E": "Penarikan iuran bulanan wajib untuk pendanaan serikat pekerja"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Manajemen Karier meliputi pengembangan kompetensi, pengembangan karier, pola karier, mutasi dan promosi, yang dilaksanakan berdasarkan Sistem Merit**.",
+        "alasan_kunci": "Opsi A merupakan lima pilar kegiatan operasional manajemen karier di Kemenkeu. Kelima elemen bekerja terpadu untuk memastikan kompetensi terus ditingkatkan, pola mutasi tertata, dan promosi diberikan murni berdasar meritokrasi. Regulasi merinci kegiatannya meliputi kompetensi, karier, pola karier, mutasi, dan promosi. Oleh karena itu, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "B": "Merupakan pengelolaan kas koperasi dan lelang BMN di luar manajemen SDM.",
+          "C": "Merupakan fungsi penegakan hukum perpajakan terhadap wajib pajak bermasalah.",
+          "D": "Merupakan kelonggaran presensi yang melanggar disiplin jam kerja ASN.",
+          "E": "Merupakan pungutan iuran serikat yang tidak ada kaitannya dengan manajemen karier."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 81,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "menyeimbangkan antara kebutuhan organisasi dan pengembangan",
+        "mendukung pelaksanaan program Leaders Factory"
+      ],
+      "topik_materi": "Dukungan Manajemen Karier terhadap Leaders Factory",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu tujuan utama manajemen karier di Kementerian Keuangan dalam rangka mencetak pemimpin masa depan adalah...",
+      "pilihan": {
+        "A": "Mewajibkan seluruh staf pindah ke perusahaan swasta internasional",
+        "B": "Membubarkan program pendidikan kedinasan politeknik keuangan",
+        "C": "Mengurangi alokasi anggaran pelatihan teknis pada seluruh unit",
+        "D": "Mendukung pelaksanaan program Leaders Factory di lingkungan kementerian",
+        "E": "Memberikan hak bagi pegawai untuk memilih penempatan kantor sendiri"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Tujuan manajemen karier adalah **menyeimbangkan antara kebutuhan organisasi dan pengembangan karier PNS serta mendukung pelaksanaan program Leaders Factory**.",
+        "alasan_kunci": "Opsi D merupakan program strategis Kemenkeu sebagai 'pabrik pemimpin' (*Leaders Factory*) yang tidak hanya mencetak pemimpin internal kementerian, tetapi juga menyuplai talenta kepemimpinan bagi kementerian dan lembaga negara lain. Regulasi menegaskan tujuannya mendukung pelaksanaan program Leaders Factory. Dengan demikian, opsi D adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan migrasi pegawai ke sektor swasta yang merugikan SDM negara.",
+          "B": "Merupakan pembubaran lembaga pendidikan kedinasan yang bertentangan dengan hukum.",
+          "C": "Merupakan pemotongan anggaran diklat yang merusak pengembangan kompetensi.",
+          "E": "Merupakan penempatan suka-suka yang menabrak asas kebutuhan organisasi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 82,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "Peraturan Menteri Keuangan Nomor",
+        "Manajemen Karier di Lingkungan Kementerian Keuangan"
+      ],
+      "topik_materi": "Dasar Regulasi Manajemen Karier Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Peraturan Menteri Keuangan yang secara khusus mengatur tentang Manajemen Karier di Lingkungan Kementerian Keuangan adalah...",
+      "pilihan": {
+        "A": "Peraturan Menteri Keuangan Nomor 224/PMK.01/2020",
+        "B": "Peraturan Menteri Keuangan Nomor 10/PMK.01/2015",
+        "C": "Peraturan Menteri Keuangan Nomor 50/PMK.01/2018",
+        "D": "Peraturan Menteri Keuangan Nomor 90/PMK.01/2012",
+        "E": "Peraturan Menteri Keuangan Nomor 15/PMK.01/2017"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Ketentuan mengenai manajemen karier di Kemenkeu diatur dalam **Peraturan Menteri Keuangan Nomor 224/PMK.01/2020 tentang Manajemen Karier di Lingkungan Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi A merupakan regulasi operasional komprehensif yang mengatur pola karier horizontal, vertikal, diagonal, semi horizontal/vertikal, serta penugasan pegawai Kemenkeu. Regulasi yang tepat adalah PMK Nomor 224/PMK.01/2020. Oleh karena itu, opsi A adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "B": "Merupakan PMK tentang standar biaya masukan anggaran negara.",
+          "C": "Merupakan PMK pengelolaan perbendaharaan belanja dinas.",
+          "D": "Merupakan aturan lama organisasi tata kerja kementerian keuangan.",
+          "E": "Merupakan aturan teknis tata naskah surat dinas kementerian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 83,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "Peraturan Menteri Keuangan Nomor 191/PMK.01/2018",
+        "Factory di Lingkungan Kementerian Keuangan"
+      ],
+      "topik_materi": "Regulasi Program Leaders Factory Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dasar hukum regulasi yang mengatur tentang penyelenggaraan program Leaders Factory di lingkungan Kementerian Keuangan adalah...",
+      "pilihan": {
+        "A": "PMK Nomor 120/PMK.01/2015",
+        "B": "PMK Nomor 150/PMK.01/2016",
+        "C": "PMK Nomor 191/PMK.01/2018",
+        "D": "PMK Nomor 210/PMK.01/2019",
+        "E": "PMK Nomor 250/PMK.01/2021"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Program pencetakan calon pemimpin diatur melalui **Peraturan Menteri Keuangan Nomor 191/PMK.01/2018 tentang Leaders Factory di Lingkungan Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi C merupakan payung hukum inisiatif Kemenkeu dalam menyaring, menggembleng, dan menugaskan kader-kader aparatur terbaik untuk mengisi peran kepemimpinan nasional. Regulasi yang tepat adalah PMK Nomor 191/PMK.01/2018. Dengan demikian, opsi C adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan nomor regulasi yang tidak mengatur program pencetakan pemimpin.",
+          "B": "Merupakan aturan penataan organisasi internal kantor eselon satu.",
+          "D": "Merupakan regulasi perbendaharaan kas negara pada akhir tahun anggaran.",
+          "E": "Merupakan aturan pengelolaan barang milik negara di lingkungan satker."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 84,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "memberikan kejelasan dan kepastian karier"
+      ],
+      "topik_materi": "Tujuan Kepastian Karier bagi Pegawai",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu dari enam tujuan perumusan Manajemen Karier di Kementerian Keuangan bagi kenyamanan aparatur adalah...",
+      "pilihan": {
+        "A": "Menghapus kewajiban pengisian sasaran kinerja pegawai tahunan",
+        "B": "Memberikan hak pensiun otomatis bagi pegawai di bawah usia 30 tahun",
+        "C": "Memberikan izin penolakan penugasan dinas di wilayah kepulauan",
+        "D": "Memberikan hak bagi staf untuk menentukan sendiri nominal gaji",
+        "E": "Memberikan kejelasan dan kepastian jenjang karier bagi setiap PNS"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tujuan manajemen karier butir b adalah **memberikan kejelasan dan kepastian karier bagi Pegawai Negeri Sipil** di lingkungan Kementerian Keuangan.",
+        "alasan_kunci": "Opsi E merupakan pemenuhan hak transparansi pola jenjang karier aparatur sipil. Dengan adanya standar kompetensi, peta suksesi, dan pola karier yang jelas, setiap pegawai mengetahui secara pasti prasyarat apa yang harus dipenuhi untuk mencapai level jabatan tertentu. Regulasi menegaskan tujuannya memberikan kejelasan dan kepastian karier. Oleh karena itu, opsi E adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pengabaian penilaian kinerja yang merusak asas meritokrasi.",
+          "B": "Merupakan pemensiunan usia muda yang melanggar ketentuan hukum pensiun.",
+          "C": "Merupakan penolakan tugas yang melanggar ikrar penempatan NKRI.",
+          "D": "Merupakan penentuan gaji sepihak yang melanggar sistem remunerasi negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 85,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "Peraturan Menteri Keuangan Nomor",
+        "Manajemen Sumber Daya Manusia pada Unit Organisasi Non Eselon"
+      ],
+      "topik_materi": "Dasar Regulasi SDM Unit Non-Eselon Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tata kelola SDM pada unit organisasi non-eselon di lingkungan Kementerian Keuangan secara spesifik diatur dengan...",
+      "pilihan": {
+        "A": "Peraturan Menteri Keuangan Nomor 50/PMK.01/2017",
+        "B": "Peraturan Menteri Keuangan Nomor 146/PMK.01/2020",
+        "C": "Keputusan Direktur Jenderal Pajak Nomor 8 Tahun 2019",
+        "D": "Instruksi Sekretaris Jenderal mengenai Presensi 2018",
+        "E": "Surat Edaran Kepala Biro Organisasi dan Tata Laksana 2021"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Ketentuan dasar hukum manajemen karier berhubungan dengan **Peraturan Menteri Keuangan Nomor 146/PMK.01/2020 tentang Manajemen Sumber Daya Manusia pada Unit Organisasi Non Eselon**.",
+        "alasan_kunci": "Opsi B merupakan regulasi komprehensif penataan pegawai yang ditugaskan pada lembaga-lembaga non-eselon di bawah Kemenkeu. PMK ini mengatur hak, kewajiban, tata penugasan, dan evaluasi berkala pegawai non-eselon. Regulasi yang tepat adalah PMK Nomor 146/PMK.01/2020. Dengan demikian, opsi B adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan nomor regulasi yang tidak berkaitan dengan unit non-eselon.",
+          "C": "Merupakan aturan internal teknis penerimaan pajak direktorat jenderal.",
+          "D": "Merupakan tata tertib kehadiran kerja harian sekretariat jenderal.",
+          "E": "Merupakan surat edaran penataan tata naskah struktur kelembagaan."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 86,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "meningkatkan objektivitas dan transparansi",
+        "perencanaan karier"
+      ],
+      "topik_materi": "Objektivitas dan Transparansi Perencanaan Karier",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan butir f dari penyelenggaraan Manajemen Karier di Kementerian Keuangan diarahkan untuk...",
+      "pilihan": {
+        "A": "Menyerahkan seluruh wewenang promosi kepada pihak ketiga swasta",
+        "B": "Menutup akses informasi formasi jabatan dari pantauan para pegawai",
+        "C": "Menjadikan masa kerja tertua sebagai satu-satunya syarat mutasi",
+        "D": "Meningkatkan objektivitas dan transparansi perencanaan karier PNS",
+        "E": "Mewajibkan pegawai melapor seluruh kegiatan pergaulan pribadi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Tujuan manajemen karier butir f adalah **meningkatkan objektivitas dan transparansi perencanaan karier** bagi seluruh aparatur sipil Kementerian Keuangan.",
+        "alasan_kunci": "Opsi D merupakan komitmen peniadaan ruang gelap dalam penentuan mutasi dan promosi jabatan. Perencanaan karier yang transparan memastikan pegawai mengetahui profil kompetensinya dan jalur suksesi yang dapat ditempuh secara adil. Regulasi menegaskan tujuannya meningkatkan objektivitas dan transparansi. Oleh karena itu, opsi D adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan penyerahan kewenangan publik yang melanggar kedaulatan negara.",
+          "B": "Merupakan ketertutupan birokrasi yang merusak kepercayaan pegawai.",
+          "C": "Merupakan pola patrimonial usang yang bertentangan dengan sistem merit.",
+          "E": "Merupakan intervensi privasi yang melanggar hak asasi perorangan pegawai."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 87,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "Peraturan Pemerintah Nomor 30 Tahun 2019",
+        "Pegawai Negeri Sipil"
+      ],
+      "topik_materi": "Dasar Hukum Penilaian Kinerja PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dasar hukum pemerintah pusat yang mengatur standar baku penilaian kinerja PNS yang diacu dalam manajemen karier Kemenkeu adalah...",
+      "pilihan": {
+        "A": "Peraturan Pemerintah Nomor 30 Tahun 2019",
+        "B": "Peraturan Pemerintah Nomor 10 Tahun 2015",
+        "C": "Peraturan Pemerintah Nomor 45 Tahun 2013",
+        "D": "Peraturan Presiden Nomor 16 Tahun 2018",
+        "E": "Keputusan Presiden Nomor 20 Tahun 2017"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dasar hukum manajemen karier berhubungan dengan regulasi kinerja yaitu **Peraturan Pemerintah Nomor 30 Tahun 2019 tentang Penilaian Kinerja Pegawai Negeri Sipil**.",
+        "alasan_kunci": "Opsi A merupakan regulasi nasional yang mengatur siklus perencanaan kinerja, pelaksanaan, pemantauan, pembinaan, penilaian melalui SKP dan perilaku kerja, hingga tindak lanjut hasil evaluasi kinerja PNS. Regulasi yang tepat adalah PP Nomor 30 Tahun 2019. Dengan demikian, opsi A adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "B": "Merupakan nomor PP yang tidak mengatur sistem penilaian kinerja PNS.",
+          "C": "Merupakan peraturan pemerintah tata cara pelaksanaan APBN belanja negara.",
+          "D": "Merupakan peraturan presiden mengenai pengadaan barang dan jasa.",
+          "E": "Merupakan keputusan presiden penugasan di luar manajemen penilaian kinerja."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 88,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "Peraturan Menteri Keuangan Nomor",
+        "Manajemen Pengembangan Sumber Daya Manusia di"
+      ],
+      "topik_materi": "Dasar Regulasi Manajemen Pengembangan SDM Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengembangan Sumber Daya Manusia aparatur di lingkungan Kementerian Keuangan secara terintegrasi berpedoman pada...",
+      "pilihan": {
+        "A": "PMK Nomor 10/PMK.01/2014",
+        "B": "PMK Nomor 100/PMK.01/2016",
+        "C": "PMK Nomor 216/PMK.01/2018",
+        "D": "PMK Nomor 240/PMK.01/2021",
+        "E": "PMK Nomor 300/PMK.01/2023"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pengembangan SDM Kemenkeu diatur secara terpadu melalui **Peraturan Menteri Keuangan Nomor 216/PMK.01/2018 tentang Manajemen Pengembangan Sumber Daya Manusia di Lingkungan Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi C merupakan regulasi induk yang memayungi penyelenggaraan beasiswa, pelatihan klasikal/non-klasikal, sertifikasi kompetensi, dan pembelajaran terintegrasi bagi pegawai Kemenkeu. Regulasi yang tepat adalah PMK Nomor 216/PMK.01/2018. Oleh karena itu, opsi C adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan aturan lama yang tidak mengatur manajemen pengembangan SDM.",
+          "B": "Merupakan regulasi perbendaharaan operasional belanja kementerian.",
+          "D": "Merupakan nomor peraturan yang mengatur tarif perizinan penerimaan negara.",
+          "E": "Merupakan nomor PMK yang tidak mengatur kerangka pengembangan pegawai."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 89,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "meningkatkan motivasi, kompetensi",
+        "Kinerja PNS"
+      ],
+      "topik_materi": "Peningkatan Motivasi dan Kinerja PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan butir d dari perumusan Manajemen Karier di Kementerian Keuangan adalah mendorong peningkatan...",
+      "pilihan": {
+        "A": "Beban kerja harian pegawai tanpa diimbangi pemberian sarana kerja",
+        "B": "Tingkat perselisihan antar-unit eselon satu dalam perebutan formasi",
+        "C": "Pengeluaran dana operasional perjalanan dinas ke luar negeri",
+        "D": "Jumlah sanksi pemotongan tunjangan kinerja bulanan para staf",
+        "E": "Motivasi kerja, standar kompetensi, dan capaian Kinerja PNS"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tujuan manajemen karier butir d adalah **meningkatkan motivasi, kompetensi, dan Kinerja PNS** di lingkungan Kementerian Keuangan.",
+        "alasan_kunci": "Opsi E merupakan dampak psikologis dan profesional dari sistem karier yang sehat. Pegawai yang melihat adanya jenjang karier yang adil terpacu motivasinya untuk terus mengasah keahlian dan memberikan kontribusi kinerja terbaik bagi instansi. Regulasi menegaskan tujuannya meningkatkan motivasi, kompetensi, dan kinerja. Dengan demikian, opsi E adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan tindakan eksploitasi kerja yang menurunkan moralitas pegawai.",
+          "B": "Merupakan ego sektoral antardirektorat yang merusak sinergi Kemenkeu.",
+          "C": "Merupakan pemborosan biaya perjalanan dinas yang tidak akuntabel.",
+          "D": "Merupakan orientasi penghukuman yang bertentangan dengan fungsi motivasi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 90,
+      "halaman_sumber": 40,
+      "kata_kunci_modul": [
+        "mendorong peningkatan profesionalitas",
+        "profesionalitas PNS"
+      ],
+      "topik_materi": "Peningkatan Profesionalitas Aparatur Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyelenggaraan Manajemen Karier berbasis meritokrasi di Kemenkeu bertujuan butir e untuk mendorong peningkatan...",
+      "pilihan": {
+        "A": "Keterikatan emosional pegawai dengan partai politik tertentu",
+        "B": "Profesionalitas dan integritas Pegawai Negeri Sipil",
+        "C": "Ketergantungan operasional kantor pada tenaga konsultan swasta",
+        "D": "Frekuensi unjuk rasa menuntut kenaikan uang makan kedinasan",
+        "E": "Kemampuan pegawai dalam menghindari sistem presensi elektronik"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tujuan manajemen karier butir e secara tegas merumuskan untuk **mendorong peningkatan profesionalitas PNS** di lingkungan Kementerian Keuangan.",
+        "alasan_kunci": "Opsi B merupakan sasaran pembangunan aparatur berkelas dunia (*world-class bureaucracy*). Pegawai yang profesional menuntaskan tugas secara akurat, etis, dan berorientasi hasil demi mengawal keuangan negara secara kredibel. Aturan menyebutkan tujuannya mendorong peningkatan profesionalitas PNS. Oleh karena itu, opsi B adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pelanggaran berat netralitas yang diancam hukuman disiplin berat.",
+          "C": "Merupakan pelemahan kapasitas aparatur internal kementerian negara.",
+          "D": "Merupakan tindakan anarkis yang dilarang bagi korps pegawai negeri sipil.",
+          "E": "Merupakan kecurangan presensi yang melanggar kode etik kedisiplinan dinas."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 91,
+      "halaman_sumber": 41,
+      "kata_kunci_modul": [
+        "Pengembangan talenta dan karier dilakukan dengan mempertimbangkan",
+        "kualifikasi, kompetensi, kinerja, dan kebutuhan Instansi Pemerintah"
+      ],
+      "topik_materi": "Empat Pertimbangan Pengembangan Talenta Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan PMK Manajemen Karier Kemenkeu, pengembangan talenta dan karier pegawai wajib mempertimbangkan empat aspek pokok yaitu...",
+      "pilihan": {
+        "A": "Kedekatan suku, status pernikahan, almamater, dan umur pegawai",
+        "B": "Besaran tabungan, status kekayaan, kendaraan dinas, dan nomor DUK",
+        "C": "Frekuensi lembur, rekomendasi politik, asal daerah, dan masa bakti",
+        "D": "Preferensi partai politik, jenis kelamin, golongan sosial, dan usia",
+        "E": "Kualifikasi, kompetensi, kinerja, dan kebutuhan instansi pemerintah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Pengembangan talenta dan karier dilakukan dengan mempertimbangkan kualifikasi, kompetensi, kinerja, dan kebutuhan Instansi Pemerintah** secara seimbang.",
+        "alasan_kunci": "Opsi E merupakan empat pilar pertimbangan meritokrasi dalam penataan karier pegawai Kemenkeu. Kebijakan ini menyelaraskan potensi individu pegawai dengan formasi riil yang dibutuhkan organisasi kementerian. Aturan menetapkan pertimbangannya mencakup kualifikasi, kompetensi, kinerja, dan kebutuhan instansi. Dengan demikian, opsi E adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan faktor primordial yang dilarang dalam sistem meritokrasi.",
+          "B": "Merupakan kondisi ekonomi pribadi yang tidak ada kaitannya dengan kompetensi.",
+          "C": "Merupakan titipan politik dan masa bakti pasif tanpa standar kinerja.",
+          "D": "Merupakan diskriminasi identitas yang bertentangan dengan hukum kepegawaian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 92,
+      "halaman_sumber": 41,
+      "kata_kunci_modul": [
+        "Pengembangan karier bagi PNS Kemenkeu dilakukan melalui",
+        "mutasi, promosi, dan/atau penugasan di luar Kementerian Keuangan"
+      ],
+      "topik_materi": "Tiga Jalur Pengembangan Karier Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tiga mekanisme operasional yang digunakan dalam pengembangan karier bagi PNS Kementerian Keuangan adalah...",
+      "pilihan": {
+        "A": "Pemberhentian dini, skorsing sementara, dan pemotongan uang tunjangan",
+        "B": "Mutasi, promosi, dan/atau penugasan di luar Kementerian Keuangan",
+        "C": "Pemberian izin cuti besar, pengunduran diri, dan pensiun sukarela",
+        "D": "Penurunan pangkat berkala, teguran tertulis, dan mutasi hukuman",
+        "E": "Pelatihan fisik militer, uji kebugaran berkala, dan diklat bela negara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Pengembangan karier bagi PNS Kemenkeu dilakukan melalui mutasi, promosi, dan/atau penugasan di luar Kementerian Keuangan** sesuai dengan ketentuan yang berlaku.",
+        "alasan_kunci": "Opsi B merupakan instrumen mobilitas talenta aparatur Kemenkeu. Pegawai dikembangkan melalui pergeseran horizontal (mutasi), kenaikan jenjang tanggung jawab (promosi), maupun pengayaan wawasan lintas institusi pada kementerian/lembaga lain atau badan internasional. Regulasi merinci melalui mutasi, promosi, dan penugasan di luar Kemenkeu. Oleh karena itu, opsi B adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan instrumen penjatuhan sanksi hukuman disiplin pegawai.",
+          "C": "Merupakan hak cuti dan pengakhiran dinas di luar jalur karier aktif.",
+          "D": "Merupakan sanksi demosi penurunan pangkat akibat pelanggaran berat.",
+          "E": "Merupakan latihan jasmani militeristik di luar mekanisme karier sipil."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 93,
+      "halaman_sumber": 41,
+      "kata_kunci_modul": [
+        "ditugaskan di luar Kemenkeu",
+        "dan diangkat pada Jabatan di instansi"
+      ],
+      "topik_materi": "Status Jabatan PNS Kemenkeu Ditugaskan di Luar Instansi",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pejabat administrator Kemenkeu ditugaskan berdinas pada kementerian koordinator. Status jabatannya diatur dengan ketentuan...",
+      "pilihan": {
+        "A": "Tetap memegang jabatan lamanya dan menerima dua gaji struktural penuh",
+        "B": "Diberhentikan permanen dari korps pegawai negeri sipil kementerian",
+        "C": "Wajib mengajukan surat pensiun dini sukarela kepada menteri keuangan",
+        "D": "Diberhentikan dari jabatan Kemenkeu dan diangkat di instansi penugasan",
+        "E": "Hanya diizinkan bertugas sebagai staf honorer lepas tanpa surat keputusan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**PNS Kemenkeu yang ditugaskan di luar Kemenkeu diberhentikan dari jabatannya di Kemenkeu dan diangkat pada Jabatan di instansi tempat yang bersangkutan ditempatkan atau ditugaskan**.",
+        "alasan_kunci": "Opsi D merupakan prosedur tertib administrasi penugasan lintas instansi negara. Pejabat dilepaskan dari jabatan struktural Kemenkeu agar dapat diisi pejabat baru, dan secara resmi dilantik pada jabatan di instansi tujuan penugasan tanpa memutus status kepegawaian negerinya. Aturan menegaskan diberhentikan dari jabatan Kemenkeu dan diangkat di instansi penugasan. Dengan demikian, opsi D adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan rangkap jabatan dan penggajian ganda yang melanggar hukum keuangan.",
+          "B": "Merupakan pemutusan status PNS sewenang-wenang yang melanggar hak pegawai.",
+          "C": "Merupakan pemensiunan dini yang bertentangan dengan hak penugasan dinas.",
+          "E": "Merupakan penurunan status ilegal menjadi tenaga honorer lepas."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 94,
+      "halaman_sumber": 41,
+      "kata_kunci_modul": [
+        "Bagi PNS Kemenkeu dapat diberikan pengembangan",
+        "Pengangkatan pertama",
+        "Perpindahan dari Jabatan lain",
+        "Penyesuaian/inpassing"
+      ],
+      "topik_materi": "Jalur Pengembangan Karier dalam Jabatan Fungsional",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Jalur pengembangan karier aparatur dalam Jabatan Fungsional (JF) di Kemenkeu yang BUKAN merupakan mekanisme resmi adalah...",
+      "pilihan": {
+        "A": "Pengangkatan pertama formasi jabatan fungsional",
+        "B": "Perpindahan tugas kepegawaian dari jabatan lain",
+        "C": "Penyesuaian kualifikasi keahlian atau inpassing",
+        "D": "Pembelian surat keputusan fungsional tanpa uji kompetensi",
+        "E": "Pengangkatan kembali ke dalam jabatan fungsional"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pengembangan karier dalam JF meliputi 5 jalur: **1) Pengangkatan pertama, 2) Perpindahan dari Jabatan lain, 3) Penyesuaian/inpassing, 4) Kenaikan jenjang JF satu tingkat lebih tinggi, dan 5) Pengangkatan kembali**.",
+        "alasan_kunci": "Opsi D merupakan tindak pidana korupsi dan pemalsuan SK yang dilarang keras dalam hukum negara. Pengangkatan fungsional murni ditempuh melalui jalur resmi berbasis portofolio angka kredit dan uji kompetensi. Oleh karena itu, opsi D adalah pilihan jawaban pengecualian yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan jalur resmi bagi CPNS yang melamar formasi fungsional awal.",
+          "B": "Merupakan jalur alih tugas dari jabatan administrasi atau struktural ke JF.",
+          "C": "Merupakan jalur penyetaraan kualifikasi nasional atau penataan nomenklatur.",
+          "E": "Merupakan jalur pemulihan status fungsional pasca tugas belajar/pejabat negara."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 95,
+      "halaman_sumber": 41,
+      "kata_kunci_modul": [
+        "Kenaikan jenjang JF satu tingkat lebih tinggi",
+        "setelah memenuhi angka"
+      ],
+      "topik_materi": "Kenaikan Jenjang Jabatan Fungsional Berbasis Angka Kredit",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Syarat mutlak yang wajib dipenuhi oleh pejabat fungsional untuk dapat naik jenjang jabatan satu tingkat lebih tinggi adalah...",
+      "pilihan": {
+        "A": "Mendapatkan rekomendasi politik dari kepala daerah setempat",
+        "B": "Telah mencapai usia minimal lima puluh lima tahun kalender",
+        "C": "Telah memenuhi perolehan angka kredit yang dipersyaratkan",
+        "D": "Memiliki sertifikat kejuaraan olahraga di tingkat kementerian",
+        "E": "Menyerahkan sumbangan buku ke perpustakaan sekretariat jenderal"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kenaikan jenjang jabatan fungsional diberikan **satu tingkat lebih tinggi setelah memenuhi angka kredit yang dipersyaratkan** dan lulus uji kompetensi.",
+        "alasan_kunci": "Opsi C merupakan esensi dari sistem pembinaan jabatan fungsional berbasis kinerja keahlian. Angka kredit merefleksikan akumulasi butir kegiatan substansi profesi yang telah diselesaikan. Aturan menyatakan syaratnya adalah memenuhi angka kredit yang dipersyaratkan. Dengan demikian, opsi C adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan campur tangan politik yang melanggar profesionalitas fungsional.",
+          "B": "Merupakan batas usia tua yang tidak menjadi syarat kenaikan jenjang fungsional.",
+          "D": "Merupakan kegiatan olahraga ekstrakurikuler di luar butir capaian tugas profesi.",
+          "E": "Merupakan sumbangan sukarela yang bukan bagian dari instrumen angka kredit."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 96,
+      "halaman_sumber": 41,
+      "kata_kunci_modul": [
+        "Mutasi dan promosi juga berlaku",
+        "penempatan atau penugasan pada Unit nonEselon"
+      ],
+      "topik_materi": "Pemberlakuan Mutasi Promosi pada Unit Non-Eselon",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan mengenai mutasi dan promosi bagi PNS Kementerian Keuangan yang bertugas pada Unit Non-Eselon mengatur bahwa...",
+      "pilihan": {
+        "A": "Pegawai non-eselon dilarang selamanya memperoleh promosi jabatan",
+        "B": "Seluruh hak karier kepegawaian dinonaktifkan secara permanen",
+        "C": "Hanya boleh menduduki jabatan staf pelaksana tingkat pertama",
+        "D": "Wajib mengundurkan diri dari status PNS sebelum menerima promosi",
+        "E": "Mutasi dan promosi tetap berlaku bagi PNS pada Unit Non-Eselon"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Mutasi dan promosi juga berlaku bagi PNS Kemenkeu yang diberikan pengembangan karier melalui penempatan atau penugasan pada Unit nonEselon**.",
+        "alasan_kunci": "Opsi E merupakan jaminan kesetaraan hak karier bagi aparatur yang ditugaskan pada badan layanan umum atau komite strategis non-eselon. Masa penugasan non-eselon diakui utuh dan yang bersangkutan tetap berhak dipromosikan atau dimutasikan sesuai prestasi kinerjanya. Regulasi menegaskan mutasi dan promosi tetap berlaku bagi pegawai di unit non-eselon. Oleh karena itu, opsi E adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan diskriminasi pembinaan yang merugikan pegawai di unit non-eselon.",
+          "B": "Merupakan penonaktifan hak sewenang-wenang yang melanggar hukum kepegawaian.",
+          "C": "Merupakan pembatasan fiktif yang tidak berdasar pada regulasi manajemen karier.",
+          "D": "Merupakan kewajiban mundur keliru yang mengabaikan status penugasan resmi."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 97,
+      "halaman_sumber": 41,
+      "kata_kunci_modul": [
+        "Bagi PNS Kemenkeu dapat diberikan pengembangan",
+        "Pengangkatan kembali"
+      ],
+      "topik_materi": "Mekanisme Pengangkatan Kembali ke dalam JF",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pejabat fungsional Analis Kebijakan yang sebelumnya ditugaskan menjadi pejabat negara telah purna tugas. Jalur pemulihan jabatan fungsionalnya ditempuh melalui...",
+      "pilihan": {
+        "A": "Pengangkatan pertama melalui jalur penerimaan CPNS baru",
+        "B": "Mekanisme pengangkatan kembali ke dalam Jabatan Fungsional",
+        "C": "Pemberian sanksi pemotongan tunjangan kinerja selama setahun",
+        "D": "Penurunan jenjang fungsional ke tingkat keterampilan pemula",
+        "E": "Pemberian cuti istimewa tanpa batas waktu masa penugasan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Bagi PNS Kemenkeu dapat diberikan pengembangan karier dalam JF salah satunya melalui jalur **Pengangkatan kembali** setelah selesai menjalankan penugasan lain atau tugas belajar.",
+        "alasan_kunci": "Opsi B merupakan mekanisme administratif untuk mendudukkan kembali pejabat fungsional ke dalam formasi keahliannya. Angka kredit dan jenjang kepangkatan terakhir sebelum penugasan negara diaktifkan kembali. Aturan merumuskan jalurnya sebagai Pengangkatan kembali. Dengan demikian, opsi B adalah pilihan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan jalur pelamar umum CPNS awal yang tidak relevan bagi pejabat purna tugas.",
+          "C": "Merupakan hukuman disiplin yang keliru diterapkan bagi pengemban amanah negara.",
+          "D": "Merupakan demosi keahlian yang menyalahi hak pemeliharaan jenjang profesi.",
+          "E": "Merupakan cuti tanpa batas waktu yang melanggar tertib administrasi aparatur."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 98,
+      "halaman_sumber": 41,
+      "kata_kunci_modul": [
+        "Gambar 5.1 Manajemen Karier di Kementerian Keuangan",
+        "Pengembangan Karier"
+      ],
+      "topik_materi": "Komponen Gambar 5.1 Manajemen Karier Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam Gambar 5.1 Manajemen Karier di Kementerian Keuangan, pilar awal pembinaan penugasan aparatur secara terpadu diwadahi dalam...",
+      "pilihan": {
+        "A": "Pelelangan aset inventaris kantor pada unit operasional daerah",
+        "B": "Pemberian sanksi administratif penurunan kelas grading dinas",
+        "C": "Pengawasan rekening tabungan perbankan pribadi milik keluarga",
+        "D": "Pengembangan Karier berbasis kualifikasi, kompetensi, dan kinerja",
+        "E": "Penarikan iuran dana solidaritas pegawai di lingkungan sekretariat"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan Gambar 5.1 dan uraian huruf a, pilar utama pengelolaan pegawai adalah **Pengembangan Karier yang mempertimbangkan kualifikasi, kompetensi, kinerja, dan kebutuhan instansi**.",
+        "alasan_kunci": "Opsi D merupakan fondasi diagram alur manajemen karier Kemenkeu. Seluruh skema mutasi, promosi, penugasan luar instansi, dan fungsional bermuara pada pengembangan kapasitas karier yang terukur dan meritokratis. Regulasi mencantumkannya dalam huruf a Pengembangan Karier. Oleh karena itu, opsi D adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Merupakan tata kelola BMN perbendaharaan di luar diagram karier pegawai.",
+          "B": "Merupakan ranah hukuman disiplin dan bukan pilar pengembangan karier.",
+          "C": "Merupakan data privat perbankan yang dilindungi undang-undang keuangan.",
+          "E": "Merupakan kegiatan sosial informal di luar struktur resmi manajemen karier."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 99,
+      "halaman_sumber": 41,
+      "kata_kunci_modul": [
+        "Bagi PNS Kemenkeu dapat diberikan pengembangan",
+        "Penyesuaian/inpassing"
+      ],
+      "topik_materi": "Jalur Penyesuaian Inpassing JF",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Jalur pengangkatan ke dalam Jabatan Fungsional dalam rangka penataan organisasi atau pembentukan jabatan fungsional baru disebut jalur...",
+      "pilihan": {
+        "A": "Penyesuaian atau inpassing jabatan fungsional",
+        "B": "Promosi tertutup rekomendasi pejabat daerah",
+        "C": "Pengangkatan sukarela tanpa syarat kualifikasi",
+        "D": "Rotasi hukuman disiplin pemotongan tunjangan",
+        "E": "Alih status otomatis tanpa penetapan angka kredit"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Salah satu jalur pengembangan karier dalam JF diatur melalui jalur **Penyesuaian/inpassing** bagi PNS yang memenuhi syarat kualifikasi dan pengalaman kerja.",
+        "alasan_kunci": "Opsi A merupakan mekanisme transisi nasional (*inpassing*) untuk mengonversi pegawai administrasi ke jabatan fungsional tertentu sesuai rumpun keahliannya. Jalur ini dibuka secara berkala dengan standar uji kesesuaian portofolio. Aturan menyebutkan jalurnya adalah Penyesuaian/inpassing. Dengan demikian, opsi A adalah pilihan yang benar.",
+        "bedah_pengecoh": {
+          "B": "Merupakan mekanisme tertutup yang dilarang dalam sistem keterbukaan merit.",
+          "C": "Merupakan pengangkatan tanpa syarat yang merusak standar kompetensi profesi.",
+          "D": "Merupakan tindakan sanksi disiplin yang bertentangan dengan tujuan inpassing.",
+          "E": "Merupakan alih status fiktif karena inpassing tetap memperhitungkan angka kredit."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    },
+    {
+      "nomor": 100,
+      "halaman_sumber": 41,
+      "kata_kunci_modul": [
+        "Bagi PNS Kemenkeu dapat diberikan pengembangan",
+        "Perpindahan dari Jabatan lain"
+      ],
+      "topik_materi": "Jalur Perpindahan dari Jabatan Lain ke JF",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Seorang pejabat pengawas yang memiliki keahlian analisis data keuangan ingin beralih profesi menjadi fungsional Pranata Keuangan. Jalur resmi yang ditempuh adalah...",
+      "pilihan": {
+        "A": "Mengundurkan diri terlebih dahulu sebagai pegawai negeri sipil",
+        "B": "Membeli sertifikat keahlian dari lembaga pelatihan tidak terakreditasi",
+        "C": "Jalur perpindahan dari jabatan lain ke dalam jabatan fungsional",
+        "D": "Menunggu diterbitkannya surat keputusan pemensiunan dini dinas",
+        "E": "Meminta penetapan langsung kepada komisi pemilihan umum daerah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pengembangan karier dalam JF dapat ditempuh melalui jalur **Perpindahan dari Jabatan lain** dengan mengikuti uji kompetensi dan memenuhi syarat yang berlaku.",
+        "alasan_kunci": "Opsi C merupakan pintu mutasi diagonal atau horizontal bagi pegawai struktural/pelaksana yang ingin mendedikasikan keahliannya ke rumpun fungsional. Mekanisme ini memfasilitasi konversi karier secara resmi sesuai minat dan kompetensi aparatur. Aturan menetapkan jalurnya adalah Perpindahan dari Jabatan lain. Oleh karena itu, opsi C adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Merupakan pengunduran diri keliru yang mematikan status kepesertaan PNS.",
+          "B": "Merupakan tindak pidana pemalsuan sertifikat yang melanggar hukum kedinasan.",
+          "D": "Merupakan pemensiunan dini yang bertentangan dengan keinginan berkarier aktif.",
+          "E": "Merupakan lembaga pemilu yang tidak memiliki wewenang kepegawaian kementerian."
+        },
+        "sumber_rujukan": "Tata Aturan Kepegawaian"
+      }
+    }
+  ]
+}

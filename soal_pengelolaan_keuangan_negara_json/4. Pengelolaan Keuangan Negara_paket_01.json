@@ -1,0 +1,3015 @@
+{
+  "paket_nomor": 1,
+  "dokumen_sumber": "4. Pengelolaan Keuangan Negara.json",
+  "rentang_halaman": "Halaman 07 s/d Halaman 16",
+  "jumlah_soal": 100,
+  "distribusi_kunci": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20,
+    "E": 20
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 7,
+      "kata_kunci_modul": [
+        "pengelolaan keuangan yang dilakukan oleh",
+        "belanja negara dan sumber keuangan untuk"
+      ],
+      "topik_materi": "Definisi Pengelolaan Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengelolaan keuangan negara pada hakikatnya didefinisikan sebagai pengelolaan yang dilakukan pemerintah terhadap...",
+      "pilihan": {
+        "A": "Pendapatan negara, belanja negara, dan pembiayaan",
+        "B": "Keuntungan badan usaha swasta berskala nasional",
+        "C": "Arus perputaran modal bank komersial daerah",
+        "D": "Tabungan sukarela seluruh warga masyarakat",
+        "E": "Aset kekayaan milik perorangan pegawai aparatur"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Pengelolaan Keuangan Negara** adalah **pengelolaan keuangan yang dilakukan oleh Pemerintah terhadap sumber-sumber keuangan berupa pendapatan negara, terhadap belanja negara dan sumber keuangan untuk membiayai kekurangan**.",
+        "alasan_kunci": "Opsi A tepat karena secara harfiah pengelolaan keuangan negara mencakup tiga pilar utama APBN: pendapatan negara, belanja negara, dan sumber pembiayaan penutup defisit. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Keuntungan swasta bukan objek pengelolaan keuangan negara pemerintah.",
+          "C": "Modal bank komersial bukan kas negara melainkan aset perbankan.",
+          "D": "Tabungan sukarela warga merupakan aset privat milik masyarakat.",
+          "E": "Aset perorangan pegawai bukan bagian dari keuangan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 7,
+      "kata_kunci_modul": [
+        "Pendapatan negara bisa berasal dari berbagai sumber",
+        "pajak dan bukan pajak"
+      ],
+      "topik_materi": "Sumber Penerimaan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan ketentuan perundang-undangan, pendapatan negara yang dikelola pemerintah bersumber dari...",
+      "pilihan": {
+        "A": "Laba bersih seluruh korporasi multinasional",
+        "B": "Penerimaan perpajakan dan bukan pajak",
+        "C": "Sumbangan wajib dari negara-negara mitra",
+        "D": "Pencetakan uang kertas secara berkala",
+        "E": "Penjualan seluruh aset strategis kementerian"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Pendapatan negara bisa berasal dari berbagai sumber yakni dari pajak dan bukan pajak** yang menurut peraturan perundangan menjadi wewenang Pemerintah.",
+        "alasan_kunci": "Opsi B tepat karena dua komponen utama penerimaan negara dalam undang-undang keuangan negara adalah penerimaan perpajakan dan penerimaan negara bukan pajak (PNBP). Maka dari itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Pemerintah hanya memungut pajak atas laba, bukan mengambil seluruh laba korporasi.",
+          "C": "Pendapatan negara tidak bergantung pada sumbangan wajib negara lain.",
+          "D": "Pencetakan uang adalah instrumen moneter Bank Indonesia, bukan pos pendapatan.",
+          "E": "Penjualan aset strategis bukan sumber pendapatan rutin negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 7,
+      "kata_kunci_modul": [
+        "Belanja Pemerintah pada hakikatnya dilakukan dalam rangka",
+        "mensejahterakan"
+      ],
+      "topik_materi": "Hakikat Belanja Pemerintah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan belanja negara oleh pemerintah pada hakikatnya diselenggarakan dalam rangka...",
+      "pilihan": {
+        "A": "Memperbesar cadangan devisa bank sentral",
+        "B": "Menambah kepemilikan modal di pasar modal",
+        "C": "Melaksanakan fungsi menyejahterakan masyarakat",
+        "D": "Meningkatkan keuntungan komersial instansi",
+        "E": "Menyaingi pertumbuhan sektor korporasi swasta"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Belanja Pemerintah pada hakikatnya dilakukan dalam rangka melaksanakan fungsinya mensejahterakan masyarakat**.",
+        "alasan_kunci": "Opsi C tepat karena tujuan akhir dari seluruh alokasi belanja negara adalah pelayanan publik dan peningkatan kesejahteraan sosial ekonomi rakyat. Oleh sebab itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Cadangan devisa dikelola oleh Bank Indonesia melalui kebijakan moneter.",
+          "B": "Belanja negara ditujukan untuk layanan publik, bukan spekulasi pasar saham.",
+          "D": "Instansi pemerintah bukan badan usaha pencari keuntungan komersial.",
+          "E": "Pemerintah berfungsi sebagai fasilitator ekonomi, bukan pesaing swasta."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 7,
+      "kata_kunci_modul": [
+        "pembiayaan pembangunan dapat berasal dari utang atau sumber lainnya.",
+        "utang atau sumber lainnya."
+      ],
+      "topik_materi": "Sumber Pembiayaan Defisit Pembangunan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Untuk menutup kekurangan kas atau membiayai belanja pembangunan, sumber keuangan pemerintah dapat berasal dari...",
+      "pilihan": {
+        "A": "Pungutan liar di luar peraturan dinas",
+        "B": "Penyitaan rekening simpanan warga negara",
+        "C": "Penerbitan obligasi tanpa persetujuan sah",
+        "D": "Pinjaman utang atau sumber sah lainnya",
+        "E": "Pemotongan berkala simpanan sukarela anggota serikat"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Sumber-sumber keuangan untuk **pembiayaan pembangunan dapat berasal dari utang atau sumber lainnya** sesuai koridor perundang-undangan.",
+        "alasan_kunci": "Opsi D tepat karena pos pembiayaan anggaran negara bersumber dari penarikan utang (SBN/pinjaman) serta pemanfaatan saldo kas lebih atau sumber pembiayaan sah lainnya. Dengan demikian, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Pungutan di luar undang-undang merupakan tindakan ilegal.",
+          "B": "Penyitaan simpanan warga melanggar hak asasi kepemilikan pribadi.",
+          "C": "Penerbitan surat utang wajib melalui persetujuan DPR dalam APBN.",
+          "E": "Pemotongan simpanan serikat bukan pembiayaan anggaran negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 7,
+      "kata_kunci_modul": [
+        "wewenang dan fungsi Pemerintah dibatasi oleh peraturan perundangan",
+        "pembatasan-pembatasan"
+      ],
+      "topik_materi": "Peran Strategis Kementerian Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam tata kelola keuangan negara, Kementerian Keuangan memegang posisi strategis sebagai...",
+      "pilihan": {
+        "A": "Chief Operational Officer (COO) teknis",
+        "B": "Lembaga pengawas eksternal independen",
+        "C": "Badan pemeriksa keabsahan kepatuhan hukum",
+        "D": "Otoritas tunggal peradilan tata usaha negara",
+        "E": "Chief Financial Officer (CFO) pemerintah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kementerian Keuangan mempunyai posisi strategis dalam pengelolaan keuangan negara, yakni sebagai **Chief Financial Officer (CFO)**.",
+        "alasan_kunci": "Opsi E tepat karena Menteri Keuangan bertindak sebagai CFO yang mengelola kebijakan fiskal, perbendaharaan, dan aset negara secara nasional. Oleh karena itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Chief Operational Officer (COO) dipegang oleh menteri teknis kementerian/lembaga.",
+          "B": "Pengawas eksternal independen adalah Badan Pemeriksa Keuangan (BPK).",
+          "C": "Pemeriksaan kepatuhan hukum laporan keuangan dilakukan oleh BPK.",
+          "D": "Peradilan tata usaha negara merupakan cabang yudikatif tersendiri."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 7,
+      "kata_kunci_modul": [
+        "persetujuan dan pengawasan yang dilakukan oleh pihak legislatif.",
+        "persetujuan dan pengawasan"
+      ],
+      "topik_materi": "Prinsip Pembatasan Kekuasaan Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Wewenang pengelolaan keuangan oleh pemerintah dibatasi oleh peraturan perundang-undangan dalam bentuk...",
+      "pilihan": {
+        "A": "Persetujuan dan pengawasan pihak legislatif",
+        "B": "Intervensi mutlak lembaga moneter asing",
+        "C": "Penetapan harga komoditas oleh pasar gelap",
+        "D": "Pembatasan masa kerja pegawai perbendaharaan",
+        "E": "Pemberian hak veto kepada badan usaha swasta"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Wewenang dan fungsi pemerintah dibatasi oleh undang-undang, antara lain melalui **persetujuan dan pengawasan yang dilakukan oleh pihak legislatif (DPR)**.",
+        "alasan_kunci": "Opsi A tepat karena sistem presidensial menempatkan DPR sebagai pemegang hak anggaran (budgeting) yang memberikan persetujuan dan pengawasan atas pelaksanaan APBN. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Lembaga asing tidak memiliki hak intervensi kedaulatan anggaran negara.",
+          "C": "Pasar gelap tidak memiliki legitimasi hukum pembatasan kekuasaan.",
+          "D": "Masa kerja pegawai bukan bentuk pembatasan kekuasaan anggaran pemerintah.",
+          "E": "Sektor swasta tidak memiliki hak veto atas kebijakan keuangan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 7,
+      "kata_kunci_modul": [
+        "pertanggungjawaban keuangan yang dikelola oleh Pemerintah",
+        "transparansi dan"
+      ],
+      "topik_materi": "Prinsip Pertanggungjawaban Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pertanggungjawaban keuangan negara yang dikelola pemerintah wajib memenuhi dua aspek fundamental yaitu...",
+      "pilihan": {
+        "A": "Kerahasiaan mutlak dan fleksibilitas bebas",
+        "B": "Transparansi dan akuntabilitas publik",
+        "C": "Penyederhanaan format pembukuan secara mandiri",
+        "D": "Pemusatan wewenang pada staf pelaksana",
+        "E": "Komersialisasi aset demi pendapatan instansi"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pertanggungjawaban keuangan pemerintah diharapkan sesuai dengan koridor peraturan, selain memenuhi aspek **transparansi dan akuntabilitas**.",
+        "alasan_kunci": "Opsi B tepat karena keterbukaan informasi (transparansi) dan tanggung jawab pertanggungjawaban hasil (akuntabilitas) adalah pilar tata kelola keuangan yang baik. Dengan demikian, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Kerahasiaan mutlak bertentangan dengan prinsip keterbukaan informasi publik.",
+          "C": "Penyederhanaan tanpa standar melanggar konsistensi pembukuan kas.",
+          "D": "Wewenang diatur berjenjang dan bukan dipusatkan pada staf bawahan.",
+          "E": "Komersialisasi bukan aspek pertanggungjawaban keuangan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 7,
+      "kata_kunci_modul": [
+        "belanja negara dan sumber keuangan untuk",
+        "kekurangan"
+      ],
+      "topik_materi": "Implementasi Pembiayaan Defisit APBN",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Saat terjadi defisit anggaran belanja untuk program penanganan wabah, langkah pembiayaan yang sah menurut undang-undang adalah...",
+      "pilihan": {
+        "A": "Memotong paksa simpanan dana nasabah di bank komersial",
+        "B": "Menjual gedung kementerian kepada pihak swasta asing",
+        "C": "Menggunakan sumber pembiayaan utang yang disetujui DPR",
+        "D": "Menghentikan seluruh layanan fasilitas kesehatan umum",
+        "E": "Menerbitkan instrumen kasir tanpa koordinasi otoritas perbankan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kekurangan dana belanja (defisit) ditutup melalui **sumber-sumber keuangan pembiayaan yang sah seperti penarikan utang atas persetujuan DPR**.",
+        "alasan_kunci": "Opsi C tepat karena penarikan utang melalui penerbitan SBN atau pinjaman merupakan instrumen pembiayaan resmi yang diatur dalam undang-undang APBN. Oleh sebab itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Pemotongan simpanan nasabah perbankan adalah tindakan melawan hukum.",
+          "B": "Aset strategis kementerian tidak boleh dipindahtangankan secara sewenang-wenang.",
+          "D": "Layanan kesehatan merupakan hak dasar rakyat yang wajib dilindungi belanja negara.",
+          "E": "Menerbitkan instrumen tanpa koordinasi melanggar batas wewenang kas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 7,
+      "kata_kunci_modul": [
+        "mencakup pokok bahasan tentang maksud dan tujuan pengelolaan",
+        "tujuan pengelolaan"
+      ],
+      "topik_materi": "Penerapan Peran Kemenkeu sebagai Pengelola Fiskal",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Dalam penyusunan proyeksi penerimaan dan pengeluaran negara, instansi yang memegang komando strategis selaku bendahara umum adalah...",
+      "pilihan": {
+        "A": "Badan Pengawasan Keuangan dan Pembangunan pusat",
+        "B": "Otoritas Jasa Keuangan pengawas perbankan",
+        "C": "Kementerian Koordinator Bidang Perekonomian",
+        "D": "Kementerian Keuangan selaku bendahara umum negara",
+        "E": "Badan Perencanaan Pembangunan Nasional murni"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kementerian Keuangan memegang posisi strategis sebagai pengelola fiskal nasional dan **Bendahara Umum Negara (BUN) / CFO**.",
+        "alasan_kunci": "Opsi D tepat karena mandat undang-undang menempatkan Menkeu sebagai pengelola kas negara dan otoritas penyusun postur fiskal nasional. Maka dari itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "BPKP bertindak sebagai aparat pengawasan intern, bukan bendahara umum.",
+          "B": "OJK mengawasi industri jasa keuangan dan perbankan, bukan kas negara.",
+          "C": "Kemenko Perekonomian mengoordinasikan kebijakan makro kementerian teknis.",
+          "E": "Bappenas merencanakan program prioritas pembangunan, bukan bendahara kas negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 7,
+      "kata_kunci_modul": [
+        "Kementerian Keuangan mempunyai posisi strategis dalam pengelolaan",
+        "Chief Financial Officer."
+      ],
+      "topik_materi": "Analisis Hubungan Pendapatan, Belanja, dan Pengawasan",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Keterkaitan esensial antara wewenang pemerintah mengelola pendapatan dan belanja dengan pengawasan legislatif adalah...",
+      "pilihan": {
+        "A": "Memperlambat pencairan dana operasional seluruh satker daerah",
+        "B": "Mengalihkan tanggung jawab pengelolaan kas ke pihak DPR",
+        "C": "Menghapuskan kewajiban audit laporan keuangan oleh BPK",
+        "D": "Membatasi hak masyarakat memperoleh informasi anggaran",
+        "E": "Menjamin penggunaan anggaran sesuai mandat kesejahteraan rakyat"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pembatasan dan pengawasan legislatif bertujuan **menjaga agar pertanggungjawaban keuangan tetap dalam koridor hukum demi kesejahteraan masyarakat**.",
+        "alasan_kunci": "Opsi E tepat karena pengawasan DPR memastikan pendapatan yang dihimpun dari pajak benar-benar dibelanjakan untuk kepentingan dan kemakmuran rakyat secara transparan. Dengan demikian, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Pengawasan bukan bertujuan menghambat operasional melainkan menjaga akuntabilitas.",
+          "B": "Tanggung jawab eksekutif tidak beralih kepada legislatif.",
+          "C": "Pengawasan DPR tidak menggantikan fungsi audit independen BPK.",
+          "D": "Pengawasan justru memperkuat hak masyarakat atas transparansi APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 9,
+      "kata_kunci_modul": [
+        "Undang-Undang Keuangan Negara (UU No 17",
+        "Tahun 2003 tentang Keuangan Negara)"
+      ],
+      "topik_materi": "Definisi Keuangan Negara UU 17/2003",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Undang-Undang Nomor 17 Tahun 2003, keuangan negara didefinisikan secara yuridis sebagai...",
+      "pilihan": {
+        "A": "Semua hak dan kewajiban negara yang dapat dinilai dengan uang",
+        "B": "Seluruh simpanan valuta asing milik bank swasta nasional",
+        "C": "Total aset properti milik warga negara di dalam negeri",
+        "D": "Kekayaan pribadi pejabat negara yang telah dilaporkan",
+        "E": "Keuntungan modal usaha mikro yang beredar di pasar"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan UU 17/2003, Keuangan Negara adalah **semua hak dan kewajiban negara yang dapat dinilai dengan uang, serta segala sesuatu baik berupa uang maupun barang yang dapat dijadikan milik negara berhubung pelaksanaan hak dan kewajiban tersebut**.",
+        "alasan_kunci": "Opsi A tepat karena rumusan yuridis Pasal 1 angka 1 UU 17/2003 mendefinisikan keuangan negara dari dimensi hak dan kewajiban bernilai uang beserta aset yang menyertainya. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Valuta asing bank swasta bukan milik negara melainkan milik entitas perbankan.",
+          "C": "Properti privat warga negara bukan objek keuangan negara.",
+          "D": "Harta pribadi pejabat negara adalah aset privat perorangan.",
+          "E": "Modal usaha mikro adalah kekayaan milik pengusaha privat."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 9,
+      "kata_kunci_modul": [
+        "semua hak dan kewajiban negara yang dapat dinilai dengan uang",
+        "dijadikan"
+      ],
+      "topik_materi": "Pendekatan Objek Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menurut penjelasan UU 17/2003, keuangan negara ditinjau dari pendekatan objek mencakup...",
+      "pilihan": {
+        "A": "Seluruh warga negara yang memiliki nomor pokok wajib pajak",
+        "B": "Hak dan kewajiban dinilai uang, kebijakan fiskal, moneter, dan BUMN",
+        "C": "Gedung kantor kementerian yang berada di ibu kota negara",
+        "D": "Susunan hierarki organisasi kementerian dan lembaga",
+        "E": "Jadwal sidang pembahasan rancangan undang-undang DPR"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Objek keuangan negara** mencakup: hak dan kewajiban dinilai dengan uang, kebijakan/kegiatan bidang **fiskal, moneter, dan pengelolaan kekayaan negara yang dipisahkan**, serta uang dan barang milik negara.",
+        "alasan_kunci": "Opsi B tepat karena pendekatan objek memetakan substansi materiil keuangan negara yang mencakup dimensi fiskal, moneter, dan kekayaan dipisahkan. Maka dari itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Wajib pajak adalah subjek hukum pembayar pajak, bukan objek keuangan negara.",
+          "C": "Gedung kementerian hanya sebagian kecil dari barang milik negara.",
+          "D": "Struktur organisasi kementerian adalah subjek kelembagaan.",
+          "E": "Jadwal sidang adalah proses legislasi politik anggaran."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 9,
+      "kata_kunci_modul": [
+        "termasuk kebijakan dan kegiatan dalam bidang fiskal dan",
+        "pengelolaan kekayaan negara yang dipisahkan"
+      ],
+      "topik_materi": "Pendekatan Subjek Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keuangan negara ditinjau dari pendekatan subjek didefinisikan sebagai seluruh objek keuangan negara yang...",
+      "pilihan": {
+        "A": "Diperjualbelikan secara bebas di bursa efek internasional",
+        "B": "Dikelola oleh lembaga swadaya masyarakat non-pemerintah",
+        "C": "Dimiliki dan/atau dikuasai oleh pemerintah dan badan publik",
+        "D": "Disimpan pada rekening pribadi pejabat perbendaharaan",
+        "E": "Dipinjamkan kepada badan usaha swasta tanpa jaminan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Subjek keuangan negara adalah seluruh objek keuangan negara yang dimiliki dan/atau dikuasai oleh Pemerintah dan badan hukum publik lainnya**.",
+        "alasan_kunci": "Opsi C tepat karena pendekatan subjek menitikberatkan pada pihak pengendali atau pemilik objek keuangan, yaitu pemerintah pusat, pemda, dan badan hukum publik. Oleh karena itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Perdagangan bursa efek bukan definisi pendekatan subjek keuangan negara.",
+          "B": "LSM non-pemerintah bukan subjek pemegang kekuasaan keuangan negara.",
+          "D": "Uang negara dilarang disimpan di rekening pribadi pegawai.",
+          "E": "Pinjaman tanpa jaminan bukan konsep subjek kepemilikan negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 9,
+      "kata_kunci_modul": [
+        "seluruh objek keuangan negara yang dimiliki",
+        "dan/atau dikuasai oleh Pemerintah"
+      ],
+      "topik_materi": "Pendekatan Proses Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan pendekatan proses, keuangan negara merupakan seluruh rangkaian kegiatan pengelolaan yang dimulai dari...",
+      "pilihan": {
+        "A": "Penerbitan surat tagihan pajak hingga penyitaan barang",
+        "B": "Pelantikan menteri kabinet hingga masa akhir jabatan",
+        "C": "Pencairan dana di bank persepsi hingga tutup kas harian",
+        "D": "Perumusan kebijakan hingga tahap pertanggungjawaban",
+        "E": "Pengesahan undang-undang hingga pengumuman media massa"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Menurut prosesnya, keuangan negara adalah **seluruh rangkaian kegiatan pengelolaan semua hak dan kewajiban negara dimulai dari perumusan kebijakan dan pengambilan keputusan sampai dengan pertanggungjawaban**.",
+        "alasan_kunci": "Opsi D tepat karena siklus proses keuangan negara merentang utuh dari tahap inisiasi kebijakan, penganggaran, pelaksanaan, hingga audit pertanggungjawaban akhir. Dengan demikian, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Penagihan pajak hanya satu bagian teknis penerimaan, bukan seluruh siklus proses.",
+          "B": "Masa jabatan menteri adalah siklus politis kabinet.",
+          "C": "Tutup kas harian adalah prosedur teknis pembukuan bendahara.",
+          "E": "Pengumuman media adalah diseminasi informasi publik."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 9,
+      "kata_kunci_modul": [
+        "seluruh rangkaian kegiatan",
+        "pengelolaan semua hak dan kewajiban negara yang dapat dinilai dengan uang"
+      ],
+      "topik_materi": "Pendekatan Tujuan Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ditinjau dari pendekatan tujuan, seluruh kebijakan dan pengelolaan objek keuangan negara dimaksudkan dalam rangka...",
+      "pilihan": {
+        "A": "Peningkatan cadangan dividen korporasi",
+        "B": "Persaingan pengaruh geopolitik kawasan",
+        "C": "Komersialisasi pelayanan publik masyarakat",
+        "D": "Penumpukan kekayaan kas kasasi peradilan",
+        "E": "Penyelenggaraan pemerintahan negara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tujuan seluruh kebijakan, kegiatan, dan hubungan hukum yang berkaitan dengan objek keuangan negara adalah **dalam rangka penyelenggaraan Pemerintahan negara**.",
+        "alasan_kunci": "Opsi E tepat karena eksistensi keuangan negara semata-mata menjadi instrumen pendukung terwujudnya fungsi dan tujuan bernegara pemerintah. Maka dari itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Dividen korporasi bukan tujuan akhir penyelenggaraan keuangan negara.",
+          "B": "Persaingan kawasan bukan esensi yuridis tujuan keuangan UU 17/2003.",
+          "C": "Pelayanan publik negara berorientasi nirlaba, bukan komersial.",
+          "D": "Penumpukan kas peradilan menyimpang dari tujuan pelayanan bernegara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 9,
+      "kata_kunci_modul": [
+        "perumusan kebijakan dan pengambilan keputusan sampai dengan",
+        "pertanggungjawaban."
+      ],
+      "topik_materi": "Empat Pendekatan Pengertian Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam penjelasan UU Nomor 17 Tahun 2003, pengertian keuangan negara dirumuskan melalui empat pendekatan yaitu...",
+      "pilihan": {
+        "A": "Objek, subjek, proses, dan tujuan",
+        "B": "Pendapatan, belanja, pembiayaan, dan defisit",
+        "C": "Fiskal, moneter, perbankan, dan pasar modal",
+        "D": "Pusat, daerah, desa, dan badan usaha",
+        "E": "Perencanaan, pelaksanaan, penatausahaan, dan audit"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pengertian keuangan negara menurut UU 17/2003 diuraikan secara komprehensif melalui empat sudut pandang: **1. Objek, 2. Subjek, 3. Proses, dan 4. Tujuan**.",
+        "alasan_kunci": "Opsi A tepat karena penjelasan undang-undang secara baku membagi definisi ke dalam empat pendekatan teoretis yuridis tersebut. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Pendapatan, belanja, dan pembiayaan adalah komponen struktur APBN.",
+          "C": "Fiskal dan moneter adalah subbidang kebijakan ekonomi makro.",
+          "D": "Pusat dan daerah adalah tingkatan entitas pemerintahan.",
+          "E": "Perencanaan dan penatausahaan adalah tahapan manajemen operasional."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 9,
+      "kata_kunci_modul": [
+        "dalam rangka penyelenggaraan Pemerintahan negara.",
+        "hubungan hukum yang berkaitan dengan"
+      ],
+      "topik_materi": "Ruang Lingkup Objek Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Termasuk dalam ruang lingkup objek keuangan negara menurut UU 17/2003 selain uang dan barang milik negara adalah...",
+      "pilihan": {
+        "A": "Seluruh properti milik kedutaan besar negara sahabat",
+        "B": "Kebijakan fiskal, moneter, dan kekayaan dipisahkan",
+        "C": "Simpanan emas murni milik perorangan penduduk",
+        "D": "Surat utang yang diterbitkan oleh korporasi asing",
+        "E": "Tanah adat ulayat yang dikuasai masyarakat hukum"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Objek keuangan negara mencakup hak/kewajiban bernilai uang, **termasuk kebijakan dan kegiatan dalam bidang fiskal dan moneter, dan pengelolaan kekayaan negara yang dipisahkan**.",
+        "alasan_kunci": "Opsi B tepat karena undang-undang memperluas objek keuangan negara mencakup ranah kebijakan fiskal, moneter, dan penyertaan modal negara pada BUMN. Oleh karena itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Properti kedutaan asing tunduk pada hukum kekebalan diplomatik internasional.",
+          "C": "Emas simpanan penduduk adalah hak milik privat warga.",
+          "D": "Obligasi swasta asing bukan objek keuangan milik negara Indonesia.",
+          "E": "Tanah ulayat adalah hak komunal masyarakat hukum adat."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 9,
+      "kata_kunci_modul": [
+        "termasuk kebijakan dan kegiatan dalam bidang fiskal dan",
+        "moneter, dan pengelolaan kekayaan negara yang dipisahkan"
+      ],
+      "topik_materi": "Implementasi Subjek Hukum Keuangan Negara",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pemerintah daerah mengelola dana transfer dan aset gedung dinas otonom. Ditinjau dari pendekatan subjek, status dana dan aset tersebut adalah...",
+      "pilihan": {
+        "A": "Aset privat yang bebas dari audit BPK RI",
+        "B": "Dana lepas tanpa ikatan regulasi perundang-undangan",
+        "C": "Keuangan negara yang dikuasai pemerintah daerah",
+        "D": "Kekayaan pribadi kepala daerah yang menjabat",
+        "E": "Modal komersial milik perbankan daerah sepenuhnya"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kekayaan yang dikuasai pemerintah daerah termasuk dalam **subjek keuangan negara karena dikuasai oleh Pemerintah daerah sebagai badan hukum publik**.",
+        "alasan_kunci": "Opsi C tepat karena pemerintah daerah merupakan entitas publik yang menguasai objek keuangan negara, sehingga dana dan asetnya tunduk pada rezim hukum keuangan negara. Dengan demikian, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Aset pemda wajib diaudit oleh BPK RI dan bukan aset privat.",
+          "B": "Dana transfer terikat ketat pada regulasi perbendaharaan negara.",
+          "D": "Bukan kekayaan pribadi melainkan barang milik daerah/negara.",
+          "E": "BUMD/Bank daerah dikelola terpisah dan bukan pemilik aset dinas pemda."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 9,
+      "kata_kunci_modul": [
+        "sesuatu baik berupa uang maupun berupa barang yang dapat dijadikan milik",
+        "pelaksanaan hak dan kewajiban tersebut."
+      ],
+      "topik_materi": "Penerapan Siklus Proses Keuangan Negara pada Satuan Kerja",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Sebuah kementerian merumuskan rencana kerja anggaran, mencairkan DIPA, dan menyusun laporan keuangan. Rangkaian aktivitas ini mencerminkan...",
+      "pilihan": {
+        "A": "Pengawasan eksternal oleh aparat pemeriksa BPK",
+        "B": "Pelaksanaan tugas moneter oleh bank sentral",
+        "C": "Penyelenggaraan peradilan tata usaha perbankan",
+        "D": "Keuangan negara ditinjau dari pendekatan proses",
+        "E": "Kegiatan investasi saham jangka pendek kementerian"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Rangkaian perumusan rencana, pencairan anggaran, hingga penyusunan laporan pertanggungjawaban adalah perwujudan konkret dari **keuangan negara menurut prosesnya**.",
+        "alasan_kunci": "Opsi D tepat karena seluruh siklus kegiatan dari perencanaan hingga laporan pertanggungjawaban merupakan substansi definisi keuangan negara dari sudut pandang proses. Maka dari itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Penyusunan laporan di satker adalah ranah eksekutif internal, bukan audit eksternal BPK.",
+          "B": "Aktivitas tersebut adalah kebijakan fiskal satker, bukan tugas moneter BI.",
+          "C": "Bukan proses peradilan yudisial.",
+          "E": "Satker kementerian dilarang berspekulasi investasi saham jangka pendek."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 9,
+      "kata_kunci_modul": [
+        "Tujuan seluruh kebijakan, kegiatan, dan hubungan hukum",
+        "Pemerintahan negara."
+      ],
+      "topik_materi": "Implementasi Pengadaan Sarana Publik Berorientasi Tujuan",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Kementerian PUPR membiayai pembangunan jembatan antarpulau dengan APBN. Ditinjau dari pendekatan tujuan, pengeluaran kas ini diarahkan untuk...",
+      "pilihan": {
+        "A": "Mencari keuntungan komersial bagi pejabat instansi",
+        "B": "Menambah utang luar negeri tanpa perhitungan aset",
+        "C": "Menghabiskan alokasi pagu anggaran sebelum tutup tahun",
+        "D": "Menaikkan nilai pasar saham kontraktor swasta rekanan",
+        "E": "Mendukung penyelenggaraan tugas pemerintahan negara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pengelolaan objek keuangan negara ditujukan **dalam rangka penyelenggaraan Pemerintahan negara**, termasuk penyediaan infrastruktur publik.",
+        "alasan_kunci": "Opsi E tepat karena pembangunan jembatan adalah wujud nyata pelaksanaan fungsi pelayanan pemerintah untuk konektivitas masyarakat dan perekonomian nasional. Oleh sebab itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Pemerintah membangun sarana publik nirlaba, bukan mencari laba pejabat.",
+          "B": "Pengeluaran negara didasari kelayakan manfaat, bukan menimbun utang buta.",
+          "C": "Menghabiskan pagu tanpa orientasi output adalah pelanggaran efisiensi.",
+          "D": "Tujuan belanja negara bukan memicu keuntungan saham rekanan swasta."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 9,
+      "kata_kunci_modul": [
+        "semua hak dan kewajiban negara yang dapat",
+        "prosesnya, keuangan negara merupakan seluruh rangkaian kegiatan"
+      ],
+      "topik_materi": "Analisis Perbedaan Pendekatan Objek dan Subjek",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbedaan konseptual mendasar antara pendekatan objek dan pendekatan subjek dalam keuangan negara terletak pada...",
+      "pilihan": {
+        "A": "Objek fokus pada substansi materiil, subjek fokus pada entitas penguasa",
+        "B": "Objek menilai jam kerja, subjek menilai besaran pangkat",
+        "C": "Objek berlaku di daerah, subjek berlaku terbatas pada pusat",
+        "D": "Objek bersifat sementara, subjek bersifat abadi selamanya",
+        "E": "Objek diaudit legislatif, subjek diaudit yudikatif murni"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pendekatan **objek menitikberatkan pada substansi materiil** (hak/kewajiban dinilai uang, fiskal, moneter), sedangkan **subjek menitikberatkan pada entitas hukum pemegang kekuasaan** (pemerintah dan badan publik).",
+        "alasan_kunci": "Opsi A tepat karena pembedaan objek dan subjek secara doktrinal memisahkan antara apa yang dikelola (materiil hak/kewajiban) dan siapa pengelola atau pemilik sahnya (pemerintah/badan publik). Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Jam kerja dan pangkat adalah administrasi SDM aparatur.",
+          "C": "Pendekatan subjek dan objek berlaku di seluruh entitas negara.",
+          "D": "Pembedaan bukan berdasarkan durasi waktu sementara atau abadi.",
+          "E": "Pengauditan keuangan negara dilakukan oleh BPK RI secara mandiri."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 10,
+      "kata_kunci_modul": [
+        "dikelompokkan dalam: subbidang pengelolaan",
+        "fiskal, subbidang pengelolaan moneter, dan"
+      ],
+      "topik_materi": "Tiga Subbidang Pengelolaan Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bidang pengelolaan keuangan negara berdasarkan perluasan objek dikelompokkan ke dalam tiga subbidang yaitu...",
+      "pilihan": {
+        "A": "Pengelolaan pajak, bea cukai, dan retribusi daerah",
+        "B": "Pengelolaan fiskal, moneter, dan kekayaan dipisahkan",
+        "C": "Pengelolaan kas, piutang, dan penghapusan utang",
+        "D": "Pengelolaan ekspor, impor, dan devisa perbankan",
+        "E": "Pengelolaan modal, saham, dan obligasi korporasi"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Bidang pengelolaan keuangan negara dikelompokkan dalam: **1. subbidang pengelolaan fiskal, 2. subbidang pengelolaan moneter, dan 3. subbidang pengelolaan kekayaan negara yang dipisahkan**.",
+        "alasan_kunci": "Opsi B tepat karena klasifikasi resmi perundang-undangan membagi keuangan negara secara makro ke dalam tiga pilar operasional tersebut. Oleh sebab itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Pajak dan cukai merupakan komponen penerimaan dalam subbidang fiskal.",
+          "C": "Kas dan piutang adalah pos neraca perbendaharaan.",
+          "D": "Ekspor dan impor merupakan aktivitas perdagangan lintas negara.",
+          "E": "Saham korporasi adalah instrumen pasar modal komersial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 10,
+      "kata_kunci_modul": [
+        "segala kegiatan yang",
+        "mencakup penerimaan dan pengeluaran uang yang dilakukan oleh Pemerintah."
+      ],
+      "topik_materi": "Definisi Subbidang Pengelolaan Fiskal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Subbidang pengelolaan fiskal didefinisikan sebagai segala kegiatan pemerintah yang mencakup...",
+      "pilihan": {
+        "A": "Pengawasan suku bunga perbankan komersial swasta",
+        "B": "Pencetakan fisik lembaran uang rupiah di perum peruri",
+        "C": "Penerimaan dan pengeluaran uang yang dilakukan pemerintah",
+        "D": "Penetapan cadangan kas minimum bank perkreditan rakyat",
+        "E": "Penyelidikan tindak pidana pencucian uang nasabah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Subbidang Pengelolaan Fiskal mengandung pengertian segala kegiatan yang mencakup penerimaan dan pengeluaran uang yang dilakukan oleh Pemerintah**.",
+        "alasan_kunci": "Opsi C tepat karena hakikat kebijakan fiskal adalah pengelolaan arus uang masuk (pendapatan) dan uang keluar (belanja) negara melalui instrumen APBN. Maka dari itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Pengawasan suku bunga bank adalah ranah kebijakan moneter dan OJK.",
+          "B": "Pencetakan fisik uang adalah tugas teknis operasional Bank Indonesia.",
+          "D": "Cadangan wajib minimum adalah instrumen likuiditas kebijakan moneter.",
+          "E": "Penyelidikan pencucian uang merupakan kewenangan PPATK dan penegak hukum."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 10,
+      "kata_kunci_modul": [
+        "Tujuan kebijakan fiskal mencakup alokasi sumber dana keuangan,",
+        "stabilisasi ekonomi, yakni mempertahankan laju pertumbuhan ekonomi,"
+      ],
+      "topik_materi": "Tiga Tujuan Kebijakan Fiskal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kebijakan fiskal yang tercermin dalam APBN diarahkan untuk mencapai tiga tujuan utama yaitu...",
+      "pilihan": {
+        "A": "Eksploitasi sumber daya, sentralisasi kas, dan monopoli",
+        "B": "Pengurangan cadangan devisa, inflasi tinggi, dan impor",
+        "C": "Peniadaan pajak, pembiayaan utang bebas, dan defisit",
+        "D": "Alokasi sumber dana, distribusi, dan stabilisasi ekonomi",
+        "E": "Pemberian subsidi swasta, privatisasi total, dan komisi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Tujuan kebijakan fiskal mencakup alokasi sumber dana keuangan, distribusinya dan stabilisasi ekonomi**, yakni menjaga pertumbuhan, membuka lapangan kerja, dan stabilitas harga.",
+        "alasan_kunci": "Opsi D tepat karena triad fungsi alokasi, distribusi, dan stabilisasi adalah tujuan normatif kebijakan anggaran belanja pemerintah. Dengan demikian, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Monopoli dan eksploitasi bertentangan dengan prinsip demokrasi ekonomi.",
+          "B": "Mengurangi devisa dan memicu inflasi adalah dampak negatif kegagalan kebijakan.",
+          "C": "Peniadaan pajak menghancurkan kemampuan fiskal negara membiayai belanja.",
+          "E": "Privatisasi total bukan tujuan dasar kebijakan fiskal APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 10,
+      "kata_kunci_modul": [
+        "Subbidang Pengelolaan Moneter adalah kebijakan yang dilakukan oleh Pemerintah",
+        "kurs valuta asing."
+      ],
+      "topik_materi": "Definisi Subbidang Pengelolaan Moneter",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Subbidang pengelolaan moneter didefinisikan sebagai kebijakan di bidang keuangan yang berkenaan dengan...",
+      "pilihan": {
+        "A": "Pengadaan seragam dinas dan kendaraan operasional kementerian",
+        "B": "Penerbitan surat izin mendirikan bangunan di daerah",
+        "C": "Penataan jenjang kepangkatan aparatur sipil negara",
+        "D": "Penarikan tarif pajak bumi dan bangunan sektor perdesaan",
+        "E": "Jumlah uang beredar, cadangan wajib, diskonto, dan pasar terbuka"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Subbidang Pengelolaan Moneter adalah kebijakan yang berkenaan dengan jumlah uang yang beredar, cadangan wajib bank, tingkat diskonto, pengendalian kredit, dan pasar terbuka, termasuk kurs valuta asing**.",
+        "alasan_kunci": "Opsi E tepat karena instrumen-instrumen kuantitatif likuiditas perbankan dan nilai tukar uang merupakan esensi dari pengelolaan moneter. Oleh sebab itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Pengadaan barang dan kendaraan adalah urusan belanja barang/modal satker.",
+          "B": "Izin mendirikan bangunan adalah fungsi perizinan pemerintah daerah.",
+          "C": "Pola kepangkatan adalah domain manajemen kepegawaian BKN.",
+          "D": "Tarif PBB adalah ranah kebijakan perpajakan fiskal daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 10,
+      "kata_kunci_modul": [
+        "Kebijakan moneter ini dalam praktiknya dilakukan oleh Bank Indonesia.",
+        "Bank Indonesia."
+      ],
+      "topik_materi": "Pelaksana Kebijakan Moneter Nasional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan kebijakan moneter di Indonesia dalam praktiknya secara independen dijalankan oleh...",
+      "pilihan": {
+        "A": "Bank Indonesia selaku bank sentral",
+        "B": "Kementerian Keuangan Republik Indonesia",
+        "C": "Otoritas Jasa Keuangan sektor perbankan",
+        "D": "Lembaga Penjamin Simpanan nasabah",
+        "E": "Himpunan Bank Milik Negara (Himbara)"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Kebijakan moneter ini dalam praktiknya dilakukan oleh Bank Indonesia** selaku bank sentral yang bebas dari campur tangan pemerintah.",
+        "alasan_kunci": "Opsi A tepat karena undang-undang menetapkan Bank Indonesia sebagai otoritas moneter independen yang memegang wewenang tunggal pengendalian uang beredar. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Kementerian Keuangan adalah otoritas kebijakan fiskal, bukan moneter.",
+          "C": "OJK bertugas mengawasi industri jasa keuangan, bukan menetapkan kebijakan moneter.",
+          "D": "LPS bertugas menjamin simpanan nasabah perbankan yang likuidasi.",
+          "E": "Himbara adalah asosiasi bank komersial BUMN, bukan bank sentral."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 10,
+      "kata_kunci_modul": [
+        "Menyesuaikan jumlah uang yang beredar di masyarakat;",
+        "Mengarahkan penggunaan uang dan kredit sedemikian rupa sehingga nilai rupiah"
+      ],
+      "topik_materi": "Tujuan Kebijakan Moneter Kestabilan Nilai Rupiah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu tujuan utama dilaksanakannya kebijakan moneter oleh bank sentral adalah...",
+      "pilihan": {
+        "A": "Menaikkan tarif pajak penghasilan badan usaha",
+        "B": "Mempertahankan kestabilan nilai mata uang rupiah",
+        "C": "Membayar gaji pokok aparatur sipil negara di daerah",
+        "D": "Membangun proyek infrastruktur jalan tol lintas pulau",
+        "E": "Mengalokasikan dana hibah bantuan sosial bencana"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tujuan kebijakan moneter antara lain: **mengarahkan penggunaan uang dan kredit sedemikian rupa sehingga nilai rupiah dapat dipertahankan kestabilannya**.",
+        "alasan_kunci": "Opsi B tepat karena mandat pokok bank sentral adalah menjaga stabilitas moneter yang tecermin dari kestabilan inflasi dan stabilitas nilai tukar rupiah. Maka dari itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Penetapan tarif pajak adalah instrumen kebijakan fiskal dalam undang-undang.",
+          "C": "Pembayaran gaji ASN merupakan belanja pegawai dalam APBN/APBD.",
+          "D": "Pembangunan jalan tol dibiayai melalui belanja modal APBN atau investasi.",
+          "E": "Dana hibah bansos disalurkan melalui pos belanja APBN pemerintah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 10,
+      "kata_kunci_modul": [
+        "Menyediakan kredit dengan suku bunga rendah untuk mendorong produsen",
+        "meningkatkan kegiatan produksi;"
+      ],
+      "topik_materi": "Tujuan Moneter Suku Bunga Rendah bagi Produsen",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyediaan kredit dengan suku bunga rendah dalam kebijakan moneter diarahkan untuk...",
+      "pilihan": {
+        "A": "Memicu konsumsi barang-barang impor mewah",
+        "B": "Menekan pertumbuhan usaha mikro di perdesaan",
+        "C": "Mendorong produsen meningkatkan kegiatan produksi",
+        "D": "Memperbanyak penarikan uang tunai di masyarakat",
+        "E": "Menurunkan kapasitas daya saing industri dalam negeri"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kebijakan moneter bertujuan **menyediakan kredit dengan suku bunga rendah untuk mendorong produsen meningkatkan kegiatan produksi**.",
+        "alasan_kunci": "Opsi C tepat karena suku bunga kredit yang terjangkau meringankan biaya modal bagi sektor riil sehingga output produksi nasional meningkat. Dengan demikian, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Kredit produksi bukan ditujukan untuk memicu konsumsi barang impor mewah.",
+          "B": "Kebijakan moneter mendukung ekspansi usaha mikro, bukan menekannya.",
+          "D": "Tujuannya adalah pembiayaan investasi riil, bukan memicu peredaran uang liar.",
+          "E": "Tujuannya memperkuat daya saing industri domestik, bukan menurunkannya."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 10,
+      "kata_kunci_modul": [
+        "Menyediakan tingkat lapangan kerja tertentu;",
+        "lapangan kerja"
+      ],
+      "topik_materi": "Implementasi Kebijakan Fiskal Melalui APBN",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pemerintah bersama DPR menetapkan alokasi anggaran perlindungan sosial dan perpajakan tahunan. Instrumen resmi kebijakan ini tercermin dalam...",
+      "pilihan": {
+        "A": "Peraturan dewan gubernur bank sentral tentang suku bunga",
+        "B": "Surat edaran otoritas bursa efek tentang transaksi saham",
+        "C": "Laporan neraca pembayaran luar negeri perbankan",
+        "D": "Dokumen APBN yang disahkan menjadi undang-undang",
+        "E": "Perjanjian pinjaman komersial antar-perusahaan swasta"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Kebijakan fiskal tercermin dari APBN yang ditetapkan** oleh pemerintah bersama lembaga legislatif setiap tahunnya.",
+        "alasan_kunci": "Opsi D tepat karena APBN merupakan wujud operasionalisasi kebijakan fiskal pemerintah yang memuat rencana pendapatan, pagu belanja, dan pembiayaan negara. Oleh sebab itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Peraturan dewan gubernur BI adalah instrumen kebijakan moneter, bukan fiskal.",
+          "B": "Edaran bursa efek mengatur pasar modal komersial.",
+          "C": "Neraca pembayaran adalah data statistik transaksi ekonomi internasional.",
+          "E": "Pinjaman antar-perusahaan swasta adalah ranah hukum perdata bisnis."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 10,
+      "kata_kunci_modul": [
+        "cadangan wajib bank, tingkat diskonto, kebijakan",
+        "pengendalian kredit dan kebijakan pasar terbuka"
+      ],
+      "topik_materi": "Implementasi Operasi Pasar Terbuka Bank Sentral",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Bank Indonesia menjual Sertifikat Bank Indonesia (SBI) untuk menyerap kelebihan likuiditas uang. Tindakan ini merupakan implementasi dari...",
+      "pilihan": {
+        "A": "Kebijakan fiskal penerimaan pajak penghasilan",
+        "B": "Pengelolaan kekayaan negara yang dipisahkan",
+        "C": "Pencairan dana belanja bantuan sosial kemensos",
+        "D": "Penarikan dividen badan usaha milik negara",
+        "E": "Kebijakan moneter operasi pasar terbuka"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Operasi penjualan surat berharga untuk mengendalikan jumlah uang beredar merupakan bagian dari **subbidang pengelolaan moneter melalui kebijakan pasar terbuka**.",
+        "alasan_kunci": "Opsi E tepat karena penjualan SBI adalah instrumen klasik operasi pasar terbuka bank sentral guna menjaga stabilitas harga dan mengendalikan inflasi. Maka dari itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Pajak penghasilan adalah instrumen penerimaan fiskal pemerintah, bukan moneter.",
+          "B": "Kekayaan dipisahkan berkaitan dengan pembinaan BUMN/BUMD.",
+          "C": "Belanja bansos adalah pelaksanaan belanja fiskal kementerian sosial.",
+          "D": "Dividen BUMN adalah pos penerimaan bukan pajak (PNBP) APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 10,
+      "kata_kunci_modul": [
+        "pengelolaan kekayaan negara yang",
+        "dipisahkan."
+      ],
+      "topik_materi": "Analisis Perbedaan Subbidang Fiskal dan Moneter",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbedaan mendasar antara subbidang pengelolaan fiskal dan subbidang pengelolaan moneter terletak pada...",
+      "pilihan": {
+        "A": "Fiskal mengelola APBN pemerintah, moneter mengendalikan uang beredar BI",
+        "B": "Fiskal dijalankan bank daerah, moneter dijalankan kementerian sosial",
+        "C": "Fiskal berfokus pada cetak uang, moneter berfokus pada belanja subsidi",
+        "D": "Fiskal bersifat nirlaba murni, moneter mencari laba komersial terbesar",
+        "E": "Fiskal diawasi kepolisian, moneter diawasi kejaksaan agung"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Subbidang fiskal mencakup penerimaan dan pengeluaran APBN oleh pemerintah, sedangkan subbidang moneter mengatur peredaran uang, suku bunga, dan kredit oleh Bank Indonesia.",
+        "alasan_kunci": "Opsi A tepat karena membedakan secara tegas otoritas pelaksana dan instrumennya: Kementerian Keuangan dengan APBN (fiskal) vs Bank Indonesia dengan instrumen moneter (likuiditas). Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Bank daerah dan kemensos bukan pemegang otoritas kebijakan fiskal/moneter makro.",
+          "C": "Fokus tertukar terbalik; moneter yang mengelola uang dan fiskal yang mengelola belanja.",
+          "D": "Bank Indonesia bukan badan komersial pencari laba dividen.",
+          "E": "Kedua bidang tunduk pada sistem pengawasan perundangan tersendiri."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 10,
+      "kata_kunci_modul": [
+        "Tujuan",
+        "kebijaksanaan moneter secara umum adalah:"
+      ],
+      "topik_materi": "Analisis Batasan Pelaksanaan Kebijakan Moneter",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Pelaksanaan kebijakan moneter dituntut berjalan secara hati-hati (prudent) dengan batasan utama yaitu...",
+      "pilihan": {
+        "A": "Wajib menghasilkan setoran dividen kas terbesar bagi kas negara",
+        "B": "Dilaksanakan tanpa memberatkan beban keuangan negara dan masyarakat",
+        "C": "Mengharuskan suku bunga pinjaman dinaikkan setinggi mungkin",
+        "D": "Membekukan seluruh transaksi perbankan di akhir tahun anggaran",
+        "E": "Mewajibkan penukaran seluruh valuta asing menjadi rupiah paksa"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tujuan kelima kebijakan moneter adalah **mengusahakan agar kebijakan moneter dapat dilaksanakan tanpa memberatkan beban keuangan negara dan masyarakat**.",
+        "alasan_kunci": "Opsi B tepat karena pengetatan moneter tidak boleh menimbulkan gejolak beban bunga utang pemerintah yang berlebihan atau mematikan daya beli masyarakat. Dengan demikian, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Bank sentral bukan entitas pencari setoran dividen komersial.",
+          "C": "Bunga yang terlalu tinggi membebani dunia usaha dan memicu kredit macet.",
+          "D": "Membekukan perbankan melumpuhkan sistem pembayaran perekonomian.",
+          "E": "Penukaran paksa devisa bertentangan dengan rezim devisa bebas yang bertanggung jawab."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 11,
+      "kata_kunci_modul": [
+        "komponen",
+        "keuangan negara yang pengelolaannya diserahkan kepada perusahaan yang"
+      ],
+      "topik_materi": "Definisi Subbidang Kekayaan Negara Dipisahkan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Subbidang pengelolaan kekayaan negara yang dipisahkan mencakup aset negara yang pengelolaannya diserahkan kepada...",
+      "pilihan": {
+        "A": "Yayasan sosial nirlaba milik perorangan menteri",
+        "B": "Perusahaan multinasional tanpa saham pemerintah",
+        "C": "Badan Usaha Milik Negara atau Daerah (BUMN/BUMD)",
+        "D": "Koperasi karyawan pada masing-masing kantor satker",
+        "E": "Lembaga konsultan bisnis penasihat investasi asing"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Subbidang Pengelolaan Kekayaan negara yang dipisahkan adalah komponen keuangan negara yang pengelolaannya diserahkan kepada perusahaan yang seluruh atau sebagian modal/sahamnya dimiliki oleh negara, atau sering disebut BUMN/BUMD**.",
+        "alasan_kunci": "Opsi C tepat karena pemisahan kekayaan negara secara hukum diwadahi dalam badan usaha korporasi negara, baik di tingkat pusat (BUMN) maupun daerah (BUMD). Oleh sebab itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Yayasan sosial perorangan bukan entitas pengelola kekayaan negara dipisahkan.",
+          "B": "Perusahaan tanpa saham pemerintah adalah murni korporasi privat.",
+          "D": "Koperasi pegawai berstatus perdata dan bukan BUMN/BUMD.",
+          "E": "Konsultan investasi hanya memberikan jasa advisory komersial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 11,
+      "kata_kunci_modul": [
+        "dengan APBN bukan hubungan langsung, tetapi tidak langsung,",
+        "pos-pos pembiayaan"
+      ],
+      "topik_materi": "Hubungan Kekayaan Negara Dipisahkan dengan APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hubungan keuangan antara kekayaan negara yang dipisahkan (BUMN) dengan APBN bersifat tidak langsung melalui pos...",
+      "pilihan": {
+        "A": "Pembayaran gaji bulanan seluruh pegawai dan direksi BUMN",
+        "B": "Penarikan langsung kas operasional rekening giro BUMN",
+        "C": "Penetapan harga barang eceran toko BUMN oleh bendahara",
+        "D": "Penyertaan modal negara dan setoran bagian laba/dividen",
+        "E": "Pemberian dana talangan tanpa dasar hukum undang-undang"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kekayaan dipisahkan memiliki hubungan tidak langsung dengan APBN, **misalnya dalam hal pemerintah menyertakan tambahan modal (PMN) atau dalam hal adanya setoran bagian laba BUMN untuk Pemerintah sebagai pos pembiayaan/pendapatan APBN**.",
+        "alasan_kunci": "Opsi D tepat karena keuangan BUMN dikelola secara mandiri (corporate governance); keterkaitannya dengan APBN hanya melalui pos Penyertaan Modal Negara (PMN) dan dividen bagian laba. Maka dari itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Gaji pegawai BUMN dibayar dari kas operasional perusahaan, bukan dari APBN.",
+          "B": "Pemerintah tidak boleh menarik kas harian rekening giro BUMN secara langsung.",
+          "C": "Harga produk BUMN ditentukan oleh korporasi dan mekanisme pasar.",
+          "E": "Pemberian dana negara wajib dianggarkan sah dalam APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 11,
+      "kata_kunci_modul": [
+        "Menurut Musgrave, keuangan negara tidak hanya berhubungan dengan uang",
+        "alokasi sumber-sumber"
+      ],
+      "topik_materi": "Konsep Keuangan Negara Menurut Richard Musgrave",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menurut pakar keuangan publik Richard Musgrave, keuangan negara tidak sekadar uang masuk dan keluar melainkan berhubungan dengan...",
+      "pilihan": {
+        "A": "Pencetakan surat berharga komersial di bursa saham",
+        "B": "Perolehan keuntungan moneter maksimum bagi kas negara",
+        "C": "Pengurangan peran pemerintah dalam seluruh sektor publik",
+        "D": "Penghapusan seluruh sistem perpajakan di masyarakat",
+        "E": "Fungsi alokasi sumber ekonomi, distribusi, dan stabilisasi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Menurut Musgrave, keuangan negara berhubungan dengan **fungsi alokasi sumber-sumber ekonomi, fungsi distribusi, dan fungsi stabilisasi, termasuk pertumbuhan ekonomi dan dampaknya terhadap masyarakat**.",
+        "alasan_kunci": "Opsi E tepat karena teori keuangan publik Musgrave menegaskan peran instrumental anggaran negara dalam mengalokasikan sumber daya, mendistribusikan pendapatan, dan menjaga stabilitas ekonomi. Oleh karena itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Musgrave tidak mendefinisikan keuangan publik sebagai spekulasi surat berharga.",
+          "B": "Tujuan keuangan negara adalah kesejahteraan sosial, bukan laba komersial kas negara.",
+          "C": "Musgrave justru menekankan perlunya intervensi aktif pemerintah melalui anggaran.",
+          "D": "Pajak merupakan instrumen inti pembiayaan fungsi negara menurut Musgrave."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 11,
+      "kata_kunci_modul": [
+        "Keuangan negara, melalui penerimaan/pendapatan",
+        "bekerjanya"
+      ],
+      "topik_materi": "Dampak Pungutan Pajak terhadap Daya Beli",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pungutan pajak oleh pemerintah di satu sisi meningkatkan penerimaan negara, namun di sisi lain berdampak pada...",
+      "pilihan": {
+        "A": "Berkurangnya daya beli dan penurunan permintaan masyarakat",
+        "B": "Lonjakan inflasi tak terkendali di pasar komoditas",
+        "C": "Peningkatan drastis jumlah tabungan perbankan swasta",
+        "D": "Penurunan suku bunga pinjaman di bank sentral secara instan",
+        "E": "Hapusnya kewajiban pelaporan surat pemberitahuan tahunan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pungutan pajak akan meningkatkan penerimaan negara, **namun di lain pihak akan mengurangi daya beli masyarakat sehingga mengurangi permintaan masyarakat**.",
+        "alasan_kunci": "Opsi A tepat karena pajak menyerap pendapatan siap pakai (disposable income) warga, sehingga mengurangi kemampuan belanja dan konsumsi riil masyarakat. Dengan demikian, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Penarikan pajak justru bersifat meredam inflasi (kontraktif), bukan memicu inflasi.",
+          "C": "Pajak mengurangi disposable income sehingga tabungan cenderung tidak melonjak.",
+          "D": "Suku bunga bank sentral ditetapkan oleh dewan gubernur BI, bukan efek instan pajak.",
+          "E": "Pelaporan SPT tetap menjadi kewajiban hukum perpajakan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 11,
+      "kata_kunci_modul": [
+        "belanja Pemerintah, yang digunakan",
+        "untuk membeli barang dan jasa dari masyarakat,"
+      ],
+      "topik_materi": "Dampak Belanja Pemerintah terhadap Perekonomian",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Belanja pemerintah yang dialokasikan untuk membeli barang dan jasa dari masyarakat memberikan dampak ekonomi berupa...",
+      "pilihan": {
+        "A": "Macetnya arus kas perdagangan produsen dalam negeri",
+        "B": "Mendorong perputaran ekonomi dan menambah daya beli",
+        "C": "Penurunan kapasitas penyerapan tenaga kerja lokal",
+        "D": "Peningkatan suku bunga acuan bank sentral secara tajam",
+        "E": "Penghentian seluruh kegiatan produksi sektor swasta"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Belanja Pemerintah yang digunakan untuk membeli barang dan jasa akan mendorong ekonomi masyarakat dan kemudian akan menambah daya beli masyarakat**.",
+        "alasan_kunci": "Opsi B tepat karena injeksi belanja pemerintah menyuntikkan likuiditas ke pasar, menggerakkan produksi pengusaha lokal, dan menciptakan pendapatan bagi masyarakat. Maka dari itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Belanja negara justru memperlancar likuiditas arus kas produsen.",
+          "C": "Belanja pemerintah menciptakan efek pengganda (multiplier effect) penyerapan tenaga kerja.",
+          "D": "Suku bunga acuan adalah instrumen kebijakan moneter terpisah.",
+          "E": "Belanja pemerintah menyuburkan bisnis swasta sebagai penyedia barang/jasa."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 11,
+      "kata_kunci_modul": [
+        "penerimaan negara melebihi pengeluaran",
+        "Anggaran Pendapatan dan Belanja Negara (APBN) akan"
+      ],
+      "topik_materi": "Kondisi Surplus Anggaran Pendapatan dan Belanja Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kondisi di mana total penerimaan negara lebih besar daripada total pengeluaran belanja negara disebut...",
+      "pilihan": {
+        "A": "Anggaran statis berimbang",
+        "B": "Anggaran statis berimbang",
+        "C": "Surplus anggaran APBN",
+        "D": "Gagal bayar utang negara",
+        "E": "Krisis likuiditas perbankan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Apabila penerimaan negara melebihi pengeluaran negara, maka **Anggaran Pendapatan dan Belanja Negara (APBN) akan mengalami surplus**.",
+        "alasan_kunci": "Opsi C tepat karena kelebihan penerimaan dibandingkan realisasi belanja secara baku didefinisikan sebagai surplus fiskal dalam terminologi APBN. Oleh sebab itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Anggaran statis bukan istilah untuk kondisi penerimaan melebihi belanja.",
+          "B": "Anggaran statis bukan istilah untuk kondisi penerimaan melebihi belanja.",
+          "D": "Gagal bayar adalah ketidakmampuan melunasi kewajiban utang.",
+          "E": "Krisis likuiditas perbankan adalah masalah di sektor moneter keuangan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 11,
+      "kata_kunci_modul": [
+        "pemerintah menyertakan tambahan modal dalam BUMN",
+        "merupakan pos-pos pembiayaan"
+      ],
+      "topik_materi": "Implementasi Penyertaan Modal Negara (PMN)",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pemerintah mengalokasikan dana segar Rp5 triliun untuk memperkuat struktur permodalan PT PLN dalam proyek kelistrikan desa. Pos anggaran yang digunakan adalah...",
+      "pilihan": {
+        "A": "Belanja pegawai untuk gaji direksi dan komisaris PLN",
+        "B": "Belanja barang operasional kantor kementerian ESDM",
+        "C": "Penerimaan bukan pajak dari penjualan aset daerah",
+        "D": "Pembiayaan investasi melalui Penyertaan Modal Negara",
+        "E": "Bantuan sosial langsung tunai kepada direksi BUMN"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Tambahan modal bagi BUMN dicatat dalam **pos pembiayaan APBN melalui skema Penyertaan Modal Negara (PMN)**.",
+        "alasan_kunci": "Opsi D tepat karena penambahan modal pada kekayaan negara yang dipisahkan merupakan pengeluaran pembiayaan investasi negara, bukan belanja operasional kementerian. Oleh karena itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Gaji direksi BUMN dibiayai dari pendapatan usaha perusahaan sendiri.",
+          "B": "Belanja barang KESDM adalah operasional kantor kementerian teknis.",
+          "C": "PMN adalah pos pengeluaran pembiayaan, bukan pos penerimaan.",
+          "E": "Bansos tunai ditujukan bagi keluarga miskin, bukan korporasi BUMN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 11,
+      "kata_kunci_modul": [
+        "setoran bagian laba BUMN untuk Pemerintah merupakan pos-pos pembiayaan",
+        "APBN."
+      ],
+      "topik_materi": "Implementasi Penerimaan Dividen BUMN",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "PT Telkom membukukan laba bersih dan menyetorkan bagian laba dividen kepada pemerintah sebesar Rp3 triliun. Dalam APBN setoran ini dicatat pada pos...",
+      "pilihan": {
+        "A": "Penerimaan cukai tembakau dan minuman beralkohol",
+        "B": "Hibah luar negeri tanpa ikatan proyek pembangunan",
+        "C": "Pembiayaan penarikan utang surat berharga syariah",
+        "D": "Belanja subsidi harga energi bahan bakar minyak",
+        "E": "Penerimaan Negara Bukan Pajak (PNBP) bagian laba BUMN"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Setoran bagian laba dari BUMN merupakan salah satu komponen penerimaan negara dalam pos **Pendapatan Bagian Laba BUMN (kelompok PNBP)**.",
+        "alasan_kunci": "Opsi E tepat karena dividen atas kepemilikan saham negara pada kekayaan yang dipisahkan disetorkan langsung ke kas negara sebagai bagian dari PNBP. Dengan demikian, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Cukai adalah pungutan atas barang kena cukai, bukan dividen laba BUMN.",
+          "B": "Hibah berasal dari pihak luar negeri atau donor sukarela.",
+          "C": "SBSN adalah instrumen pembiayaan utang syariah, bukan dividen laba.",
+          "D": "Subsidi BBM adalah pos belanja pengeluaran APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 11,
+      "kata_kunci_modul": [
+        "Surplus berarti penerimaan negara cukup untuk mendanai",
+        "daya beli masyarakat"
+      ],
+      "topik_materi": "Analisis Efek Samping Surplus Anggaran Tinggi",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Meskipun surplus APBN menjamin kecukupan dana belanja pemerintah, risiko kontraktif yang dapat timbul di masyarakat adalah...",
+      "pilihan": {
+        "A": "Turunnya daya beli akibat beban pungutan pajak yang tinggi",
+        "B": "Terjadinya lonjakan inflasi harga barang kebutuhan pokok",
+        "C": "Meningkatnya beban pembayaran bunga utang luar negeri",
+        "D": "Gagal bayar kewajiban gaji aparatur sipil negara",
+        "E": "Ketergantungan ekstrem pada pinjaman dana perbankan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Surplus yang terlalu tinggi dapat berdampak negatif karena **mengurangi daya beli masyarakat akibat beban pajak yang tinggi dan menciptakan ketidakseimbangan permintaan**.",
+        "alasan_kunci": "Opsi A tepat karena penarikan pajak yang berlebihan demi surplus menyedot uang dari sektor riil, sehingga konsumsi masyarakat menurun dan pertumbuhan ekonomi berisiko melambat. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Surplus justru cenderung menekan harga (deflatoir), bukan memicu inflasi tinggi.",
+          "C": "Surplus anggaran justru memperkecil kebutuhan penarikan utang baru.",
+          "D": "Surplus menjamin ketersediaan dana kas untuk seluruh belanja rutin termasuk gaji.",
+          "E": "Pemerintah surplus tidak bergantung pada pinjaman bank komersial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 11,
+      "kata_kunci_modul": [
+        "Dengan demikian tujuan",
+        "Pengelolaan Keuangan Negara adalah:"
+      ],
+      "topik_materi": "Analisis Pengaruh Keuangan Negara terhadap Mekanisme Harga",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Keuangan negara melalui kebijakan penerimaan dan belanja mampu mempengaruhi pertumbuhan ekonomi dengan cara...",
+      "pilihan": {
+        "A": "Menghapuskan hukum penawaran dan permintaan di pasar",
+        "B": "Mempengaruhi mekanisme harga, daya beli, dan permintaan",
+        "C": "Menetapkan kuota belanja harian per kapita secara paksa",
+        "D": "Mengambil alih seluruh kepemilikan pabrik manufaktur",
+        "E": "Mewajibkan warga menukar seluruh uangnya dengan kupon"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Keuangan negara mempengaruhi pertumbuhan ekonomi karena **penerimaan dan belanja negara dapat mempengaruhi bekerjanya mekanisme harga dan daya beli masyarakat**.",
+        "alasan_kunci": "Opsi B tepat karena tarikan pajak dan dorongan belanja negara mengubah kurva permintaan dan penawaran agregat, yang secara langsung menentukan tingkat harga dan volume output nasional. Oleh sebab itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Kebijakan fiskal beroperasi di dalam mekanisme pasar, bukan menghapuskan hukum pasar.",
+          "C": "Negara tidak membatasi kuota belanja harian individu dalam sistem pasar terbuka.",
+          "D": "Pemerintah tidak menasionalisasi seluruh pabrik swasta.",
+          "E": "Sistem kupon tertutup bukan ciri pengelolaan keuangan modern."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 11,
+      "kata_kunci_modul": [
+        "keuangan negara yang pengelolaannya diserahkan kepada perusahaan yang",
+        "Badan Usaha Milik Negara (BUMN)"
+      ],
+      "topik_materi": "Analisis Perbedaan Pengelolaan Aset BUMN dan BMN Kantor",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbedaan pokok tata kelola antara aset Barang Milik Negara (BMN) kementerian dan kekayaan negara yang dipisahkan (BUMN) adalah...",
+      "pilihan": {
+        "A": "BMN bebas diaudit BPK, BUMN wajib diaudit inspektorat kementerian",
+        "B": "BMN wajib menghasilkan laba tunai, BUMN dilarang meraup laba",
+        "C": "BMN dikelola rezim perbendaharaan, BUMN dikelola rezim korporasi",
+        "D": "BMN dimiliki oleh pejabat satker, BUMN dimiliki oleh investor asing",
+        "E": "BMN tunduk pada hukum pasar modal, BUMN tunduk pada kas daerah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kekayaan dipisahkan (BUMN) **dikelola secara berbeda (rezim korporasi bisnis) terpisah dari mekanisme belanja operasional langsung APBN/BMN**.",
+        "alasan_kunci": "Opsi C tepat karena BMN satker terikat langsung pada tata usaha perbendaharaan dan APBN, sedangkan BUMN dikelola secara profesional mandiri berdasarkan undang-undang perseroan terbatas. Oleh karena itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Kedua entitas tetap berada dalam yurisdiksi pemeriksaan audit BPK RI.",
+          "B": "BMN berorientasi pelayanan publik, sedangkan BUMN dituntut menghasilkan laba komersial.",
+          "D": "BMN adalah milik negara, bukan kepemilikan pribadi pejabat satker.",
+          "E": "BUMN perseroan terbuka yang tunduk pada pasar modal, bukan kas daerah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 12,
+      "kata_kunci_modul": [
+        "apabila pengeluaran lebih besar dari penerimaannya, yang berarti",
+        "APBN defisit, defisit akan menambah daya beli masyarakat lebih besar."
+      ],
+      "topik_materi": "Konsep Defisit APBN dan Daya Beli",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kondisi saat pengeluaran negara lebih besar dari penerimaannya (APBN defisit) memberikan dampak ekonomi berupa...",
+      "pilihan": {
+        "A": "Menurunkan jumlah peredaran uang di sektor riil",
+        "B": "Mematikan aktivitas perdagangan barang dan jasa",
+        "C": "Mengurangi alokasi anggaran infrastruktur publik",
+        "D": "Menambah daya beli masyarakat melalui injeksi belanja",
+        "E": "Menaikkan penerimaan kas negara secara otomatis"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Apabila pengeluaran lebih besar dari penerimaan (APBN defisit), **defisit akan menambah daya beli masyarakat lebih besar** melalui stimulus belanja pemerintah.",
+        "alasan_kunci": "Opsi D tepat karena defisit menandakan pemerintah membelanjakan lebih banyak uang daripada yang ditarik dari rakyat, sehingga likuiditas dan daya beli masyarakat bertambah. Maka dari itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Defisit menyuntikkan likuiditas baru, bukan menurunkan peredaran uang.",
+          "B": "Aktivitas perdagangan justru terdorong oleh permintaan pemerintah.",
+          "C": "Defisit sering kali dipicu oleh ekspansi pembangunan infrastruktur.",
+          "E": "Defisit adalah selisih kekurangan, bukan kenaikan penerimaan kas otomatis."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 12,
+      "kata_kunci_modul": [
+        "kebijakan fiskal yang",
+        "bersifat counter-cyclical menjadi penting, yaitu kebijakan yang bergerak"
+      ],
+      "topik_materi": "Definisi Kebijakan Fiskal Counter-Cyclical",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kebijakan fiskal counter-cyclical didefinisikan sebagai kebijakan anggaran pemerintah yang...",
+      "pilihan": {
+        "A": "Menyerahkan penyesuaian harga pada mekanisme pasar bebas murni",
+        "B": "Menyerahkan penyesuaian harga pada mekanisme pasar bebas murni",
+        "C": "Memangkas anggaran saat krisis ekonomi sedang melanda",
+        "D": "Menaikkan tarif pajak secara drastis saat terjadi resesi",
+        "E": "Bergerak berlawanan arah dengan siklus fluktuasi ekonomi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kebijakan fiskal **counter-cyclical adalah kebijakan yang bergerak berlawanan arah dengan siklus ekonomi: meningkatkan belanja/menurunkan pajak saat resesi, dan sebaliknya saat inflasi tinggi**.",
+        "alasan_kunci": "Opsi E tepat karena prinsip counter-cyclical dirancang untuk meredam ayunan gelombang siklus bisnis agar perekonomian tetap stabil dan terhindar dari krisis ekstrem. Dengan demikian, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Pasar bebas murni tanpa intervensi rentan memicu kegagalan pasar.",
+          "B": "Pasar bebas murni tanpa intervensi rentan memicu kegagalan pasar.",
+          "C": "Memangkas anggaran saat krisis memperparah kontraksi resesi.",
+          "D": "Menaikkan pajak saat resesi memukul daya beli yang sudah lemah."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 12,
+      "kata_kunci_modul": [
+        "kebijakan yang bersifat pro-cyclical adalah kebijakan yang sejalan",
+        "dengan arah siklus ekonomi,"
+      ],
+      "topik_materi": "Pengertian Kebijakan Fiskal Pro-Cyclical",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kebijakan fiskal yang sejalan dengan arah siklus ekonomi (meningkatkan belanja saat tumbuh dan memangkas saat lesu) disebut...",
+      "pilihan": {
+        "A": "Kebijakan fiskal pro-cyclical",
+        "B": "Kebijakan fiskal counter-cyclical",
+        "C": "Kebijakan moneter uang ketat",
+        "D": "Kebijakan proteksionisme tarif",
+        "E": "Kebijakan autarki perdagangan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Kebijakan yang bersifat pro-cyclical adalah kebijakan yang sejalan dengan arah siklus ekonomi**, yang berisiko memperkuat gejolak ekonomi dan memperburuk kondisi krisis.",
+        "alasan_kunci": "Opsi A tepat karena sifatnya yang searah (pro) dengan pergerakan siklus bisnis pasar, sehingga menambah akselerasi saat booming dan memperdalam jurang saat resesi. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Counter-cyclical bergerak berlawanan arah untuk menstabilkan fluktuasi.",
+          "C": "Kebijakan uang ketat adalah instrumen moneter kenaikan suku bunga.",
+          "D": "Proteksionisme adalah tarif pembatasan barang impor luar negeri.",
+          "E": "Autarki adalah isolasi sistem ekonomi mandiri tanpa perdagangan luar."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 12,
+      "kata_kunci_modul": [
+        "berlawanan arah dengan siklus ekonomi: pemerintah meningkatkan belanja",
+        "atau menurunkan pajak saat ekonomi melemah (resesi),"
+      ],
+      "topik_materi": "Instrumen Counter-Cyclical pada Masa Resesi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam strategi counter-cyclical, langkah yang wajib diambil pemerintah saat perekonomian mengalami resesi pelemahan adalah...",
+      "pilihan": {
+        "A": "Menutup peredaran uang kartal di seluruh wilayah negara",
+        "B": "Meningkatkan belanja negara atau menurunkan beban pajak",
+        "C": "Menaikkan tarif pajak dan memangkas bantuan sosial",
+        "D": "Menghentikan seluruh pencairan gaji pegawai pemerintah",
+        "E": "Mewajibkan bank swasta menyerahkan seluruh modalnya"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Saat ekonomi melemah (resesi), kebijakan counter-cyclical dijalankan dengan **pemerintah meningkatkan belanja atau menurunkan pajak** guna memulihkan permintaan agregat.",
+        "alasan_kunci": "Opsi B tepat karena penurunan pajak dan peningkatan belanja menyuntikkan stimulus finansial ke pasar, mencegah gelombang PHK, dan membangkitkan gairah konsumsi rakyat. Oleh karena itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Menutup peredaran uang meruntuhkan sistem ekonomi transaksi.",
+          "C": "Menaikkan pajak saat resesi merupakan tindakan pro-cyclical yang memperburuk krisis.",
+          "D": "Pemberhentian gaji pegawai menghancurkan daya beli aparatur.",
+          "E": "Penyitaan modal bank swasta adalah tindakan inkonstitusional."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 12,
+      "kata_kunci_modul": [
+        "mengurangi belanja atau menaikkan pajak saat ekonomi memanas (inflasi",
+        "meredam fluktuasi ekonomi dan menjaga"
+      ],
+      "topik_materi": "Instrumen Counter-Cyclical pada Masa Inflasi Tinggi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sebaliknya, pada saat ekonomi mengalami overheating atau inflasi tinggi, kebijakan counter-cyclical yang tepat adalah...",
+      "pilihan": {
+        "A": "Memperbesar defisit APBN hingga batas maksimal",
+        "B": "Membagikan bantuan langsung tunai berlipat ganda",
+        "C": "Mengurangi belanja negara atau menaikkan pajak",
+        "D": "Menurunkan seluruh suku bunga pinjaman perbankan",
+        "E": "Mencetak uang kertas baru dalam jumlah besar"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Saat ekonomi memanas (inflasi tinggi), pemerintah menjalankan tindakan pengetatan fiskal yaitu **mengurangi belanja atau menaikkan pajak** untuk mendinginkan permintaan berlebih.",
+        "alasan_kunci": "Opsi C tepat karena penarikan likuiditas lewat kenaikan pajak dan penundaan belanja negara akan menahan laju lonjakan harga barang umum (inflasi). Dengan demikian, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Memperbesar defisit justru memanaskan inflasi lebih parah.",
+          "B": "Menggandakan bansos saat overheating menambah kelebihan likuiditas.",
+          "D": "Menurunkan suku bunga memicu lonjakan kredit dan inflasi.",
+          "E": "Mencetak uang memicu hiperinflasi mata uang domestik."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 12,
+      "kata_kunci_modul": [
+        "APBN dapat juga digunakan sebagai alat untuk mengatasi inflasi dan deflasi,",
+        "defisit APBN atau surplus APBN."
+      ],
+      "topik_materi": "Teori Peran Aktif Pemerintah John Maynard Keynes",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Teori ekonomi Keynesian yang dikemukakan oleh John Maynard Keynes menekankan pentingnya...",
+      "pilihan": {
+        "A": "Penyerahan seluruh urusan ekonomi pada mekanisme pasar bebas",
+        "B": "Penghapusan APBN dan perbankan sentral di setiap negara",
+        "C": "Kewajiban anggaran berimbang mutlak tanpa toleransi utang",
+        "D": "Peran aktif pemerintah melalui intervensi kebijakan fiskal",
+        "E": "Pemberlakuan mata uang komoditas tunggal tanpa uang kertas"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Pendapat Keynes menyatakan bahwa pemerintah memiliki peran aktif dalam mengelola perekonomian, terutama melalui kebijakan fiskal** untuk mengatasi pengangguran dan inflasi.",
+        "alasan_kunci": "Opsi D tepat karena revolusi pemikiran Keynes mematahkan doktrin pasar bebas klasik dengan membuktikan pentingnya stimulus anggaran pemerintah dalam mengatasi depresi ekonomi. Maka dari itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Pasar bebas murni tanpa intervensi adalah pandangan mazhab klasik Adam Smith.",
+          "B": "Keynes justru memperkuat peranan APBN dalam pengelolaan makroekonomi.",
+          "C": "Keynes membolehkan defisit anggaran untuk membiayai belanja stimulus.",
+          "E": "Mata uang komoditas emas bukan substansi pokok teori belanja fiskal Keynes."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 12,
+      "kata_kunci_modul": [
+        "misalnya meningkatkan belanja saat ekonomi",
+        "sedang tumbuh dan menguranginya saat ekonomi melemah."
+      ],
+      "topik_materi": "Pentingnya Belanja Pemerintah Menurut Keynes",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menurut Keynes, instrumen utama yang paling efektif untuk mendorong permintaan agregat saat ekonomi lesu adalah...",
+      "pilihan": {
+        "A": "Penundaan pembayaran gaji seluruh tenaga pendidik",
+        "B": "Penutupan akses ekspor barang komoditas keluar negeri",
+        "C": "Penaikan bea masuk bahan baku industri manufaktur",
+        "D": "Pembatasan jam operasional pasar tradisional daerah",
+        "E": "Belanja pemerintah secara terencana dan terarah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Keynes menekankan **pentingnya belanja pemerintah untuk mendorong permintaan agregat saat ekonomi lesu** guna memulihkan lapangan kerja.",
+        "alasan_kunci": "Opsi E tepat karena ketika sektor swasta dan konsumsi rumah tangga melemah saat krisis, belanjalah pemerintah yang bertindak sebagai mesin penggerak utama permintaan ekonomi. Oleh sebab itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Menunda gaji justru melumpuhkan konsumsi rumah tangga pegawai.",
+          "B": "Menutup ekspor mematikan devisa dan pendapatan produsen dalam negeri.",
+          "C": "Menaikkan bea bahan baku membebani industri manufaktur lokal.",
+          "D": "Membatasi pasar mengganggu rantai pasok distribusi logistik."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 12,
+      "kata_kunci_modul": [
+        "meredam fluktuasi ekonomi dan menjaga",
+        "stabilitas."
+      ],
+      "topik_materi": "Implementasi Kebijakan Fiskal Pemulihan Krisis Pandemi",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Saat terjadi krisis ekonomi pandemi, pemerintah memberikan insentif pajak PPh pasal 21 ditanggung pemerintah dan memperbesar bansos. Tindakan ini mencerminkan...",
+      "pilihan": {
+        "A": "Kebijakan fiskal counter-cyclical penyelamatan ekonomi",
+        "B": "Kebijakan pro-cyclical pengetatan anggaran negara",
+        "C": "Kebijakan moneter kenaikan cadangan wajib perbankan",
+        "D": "Penyerahan kendali fiskal kepada lembaga swasta",
+        "E": "Tindakan pemborosan kas negara tanpa dasar perundangan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pemberian stimulus bansos dan keringanan pajak saat masa krisis ekonomi adalah perwujudan konkret dari **kebijakan fiskal counter-cyclical**.",
+        "alasan_kunci": "Opsi A tepat karena pemerintah melonggarkan pajak dan meningkatkan belanja pengaman sosial untuk melawan pelemahan ekonomi, persis sesuai formula counter-cyclical. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Pro-cyclical justru akan menaikkan pajak saat krisis dan memangkas bansos.",
+          "C": "Insentif pajak dan bansos adalah instrumen fiskal APBN, bukan kebijakan moneter BI.",
+          "D": "Kendali fiskal tetap dipegang oleh Kementerian Keuangan.",
+          "E": "Program pemulihan krisis didasarkan pada payung perundangan undang-undang resmi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 12,
+      "kata_kunci_modul": [
+        "memperkuat gejolak ekonomi dan berisiko memperburuk kondisi saat terjadi",
+        "krisis."
+      ],
+      "topik_materi": "Implementasi Bahaya Kebijakan Fiskal Pro-Cyclical",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Sebuah negara mengalami penurunan pendapatan saat resesi dan langsung memotong drastis anggaran jaring pengaman sosialnya. Risiko yang dihadapi adalah...",
+      "pilihan": {
+        "A": "Pertumbuhan ekonomi langsung melonjak tinggi seketika",
+        "B": "Kondisi krisis makin parah akibat kebijakan pro-cyclical",
+        "C": "Nilai tukar mata uang menguat tanpa bantuan bank sentral",
+        "D": "Daya beli masyarakat miskin terlindungi sempurna",
+        "E": "Terbukanya jutaan lapangan kerja baru di sektor swasta"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kebijakan pro-cyclical yang memotong belanja saat ekonomi lesu **dapat memperkuat gejolak ekonomi dan berisiko memperburuk kondisi saat terjadi krisis**.",
+        "alasan_kunci": "Opsi B tepat karena pemotongan bansos di tengah krisis memperdalam kejatuhan daya beli rakyat, memicu kontraksi konsumsi yang lebih parah, dan memperlama resesi. Dengan demikian, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Pemotongan belanja saat resesi menekan pertumbuhan, bukan melonjakkannya.",
+          "C": "Krisis yang memburuk justru melemahkan stabilitas nilai tukar.",
+          "D": "Daya beli kaum miskin hancur akibat pemangkasan bantuan jaring sosial.",
+          "E": "Resesi yang mendalam meningkatkan angka pengangguran terbuka."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 12,
+      "kata_kunci_modul": [
+        "bersifat counter-cyclical menjadi penting, yaitu kebijakan yang bergerak",
+        "berlawanan arah dengan siklus ekonomi:"
+      ],
+      "topik_materi": "Analisis Pembeda Counter-Cyclical dan Pro-Cyclical",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perbedaan filosofis mendasar antara kebijakan counter-cyclical dan kebijakan pro-cyclical terletak pada...",
+      "pilihan": {
+        "A": "Instansi pelaksana: kementerian keuangan vs badan intelijen",
+        "B": "Dasar hukum: undang-undang resmi vs adat istiadat kedaerahan",
+        "C": "Arah respon anggaran: berlawanan arah vs sejalan siklus ekonomi",
+        "D": "Target mata uang: transaksi rupiah vs transaksi komoditas barter",
+        "E": "Objek audit: pemeriksaan BPK RI vs audit lembaga swadaya asing"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Counter-cyclical **bergerak berlawanan arah dengan siklus** guna meredam fluktuasi, sedangkan pro-cyclical **bergerak sejalan dengan siklus** ekonomi.",
+        "alasan_kunci": "Opsi C tepat karena perbedaan distingtif keduanya adalah orientasi respon arah fiskal terhadap gelombang pertumbuhan ekonomi: menahan gejolak (counter) atau justru mengikuti gelombang (pro). Maka dari itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Kedua kebijakan dirumuskan oleh otoritas fiskal yang sama (Kemenkeu).",
+          "B": "Keduanya merupakan konsep teoretis kebijakan anggaran kenegaraan resmi.",
+          "D": "Keduanya bertransaksi menggunakan mata uang resmi negara.",
+          "E": "Pemeriksaan atas anggaran negara tetap dilakukan secara mandiri oleh BPK."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 12,
+      "kata_kunci_modul": [
+        "kestabilan perekonomian melalui kebijakan fiskal yang responsif terhadap",
+        "dinamika siklus ekonomi."
+      ],
+      "topik_materi": "Analisis Perluasan Fungsi Negara Modern",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Perluasan tugas dan fungsi negara modern di luar konsep 'negara penjaga malam' (night-watchman state) ditandai oleh kewajiban...",
+      "pilihan": {
+        "A": "Menyerahkan urusan pertahanan kepada tentara bayaran privat",
+        "B": "Membatasi penyediaan barang publik bagi kelompok tertentu",
+        "C": "Membatasi penyediaan barang publik bagi kelompok tertentu",
+        "D": "Menjaga stabilitas perekonomian melalui kebijakan fiskal responsif",
+        "E": "Mewajibkan eksekutif tunduk pada instruksi pasar saham komersial"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Tugas negara modern tidak sekadar pertahanan, peradilan, dan barang publik, **namun juga menjaga kestabilan perekonomian melalui kebijakan fiskal yang responsif terhadap dinamika siklus ekonomi**.",
+        "alasan_kunci": "Opsi D tepat karena paradigma modern menuntut negara hadir secara aktif menstabilkan makroekonomi, mengatasi inflasi, serta menjamin lapangan kerja melalui intervensi fiskal APBN. Oleh sebab itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Pertahanan nasional tetap menjadi monopoli sah kedaulatan militer negara.",
+          "B": "Barang publik dinikmati oleh seluruh rakyat tanpa batasan golongan.",
+          "C": "Barang publik dinikmati oleh seluruh rakyat tanpa batasan golongan.",
+          "E": "Negara tidak boleh disubordinasi oleh kepentingan pasar saham komersial."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 13,
+      "kata_kunci_modul": [
+        "The Theory of Public Finance",
+        "realokasi sumber-sumber daya"
+      ],
+      "topik_materi": "Tiga Fungsi Negara Menurut Richard Musgrave",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam buku The Theory of Public Finance, Richard Musgrave menyatakan bahwa tugas dan fungsi negara meliputi...",
+      "pilihan": {
+        "A": "Monopoli perdagangan, privatisasi perbankan, dan deregulasi moneter",
+        "B": "Penyeragaman tarif pajak, penghapusan subsidi, dan ekspansi wilayah",
+        "C": "Sentralisasi industri, pembatasan devisa, dan pengendalian pasar",
+        "D": "Pengawasan peradilan, pencetakan uang kartal, dan penetapan bea impor",
+        "E": "Realokasi sumber daya, redistribusi pendapatan, dan stabilisasi ekonomi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Menurut **Richard Musgrave** dalam buku **The Theory of Public Finance**, tugas dan fungsi negara meliputi: **realokasi sumber-sumber daya ekonomi, redistribusi pendapatan, dan stabilisasi ekonomi**.",
+        "alasan_kunci": "Opsi E tepat karena Musgrave mengklasifikasikan tiga cabang fungsi sektor publik fiskal modern guna mengatasi kegagalan pasar. Oleh sebab itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Monopoli dagang dan privatisasi bukan trisula fungsi negara versi Musgrave.",
+          "B": "Penyeragaman tarif dan ekspansi wilayah bukan teori keuangan publik.",
+          "C": "Sentralisasi industri merupakan prinsip ekonomi komando tertutup.",
+          "D": "Pencetakan uang merupakan kewenangan bank sentral bidang moneter."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 13,
+      "kata_kunci_modul": [
+        "Realokasi sumber daya ekonomi dilakukan dengan memanfaatkan",
+        "penyediaan"
+      ],
+      "topik_materi": "Fungsi Realokasi Sumber Daya Ekonomi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan fungsi realokasi sumber daya ekonomi oleh negara ditujukan untuk mengoptimalkan sumber daya melalui...",
+      "pilihan": {
+        "A": "Penyediaan barang publik dan pengaturan eksternalitas",
+        "B": "Pemberian pinjaman komersial kepada korporasi besar",
+        "C": "Penetapan tingkat bunga simpanan perbankan swasta",
+        "D": "Pengambilalihan aset produksi milik masyarakat luas",
+        "E": "Pembatasan volume panen komoditas pangan daerah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Realokasi sumber daya ekonomi** dilakukan dengan memanfaatkan sumber ekonomi terbatas secara optimal, termasuk **penyediaan barang publik dan pengaturan eksternalitas**.",
+        "alasan_kunci": "Opsi A tepat karena pasar bebas kerap gagal menyediakan barang publik murni dan mengendalikan dampak eksternalitas, sehingga intervensi alokasi negara mutlak dibutuhkan. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Pinjaman komersial korporasi merupakan ranah bisnis bank komersial.",
+          "C": "Suku bunga simpanan perbankan ditentukan oleh mekanisme pasar dan BI.",
+          "D": "Pengambilalihan aset warga melanggar kepemilikan hak privat yang sah.",
+          "E": "Pembatasan volume panen justru merugikan ketahanan pangan nasional."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 13,
+      "kata_kunci_modul": [
+        "Redistribusi pendapatan bertujuan untuk menciptakan keadilan sosial",
+        "sistem perpajakan dan transfer pembayaran"
+      ],
+      "topik_materi": "Tujuan Fungsi Redistribusi Pendapatan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Fungsi redistribusi pendapatan yang diselenggarakan negara melalui kebijakan fiskal bertujuan untuk menciptakan keadilan melalui...",
+      "pilihan": {
+        "A": "Penerbitan saham perdana perusahaan daerah",
+        "B": "Sistem perpajakan dan transfer pembayaran",
+        "C": "Pemberian dana talangan investasi pemodal besar",
+        "D": "Pengendalian jumlah devisa di bursa berjangka",
+        "E": "Penghapusan pungutan retribusi daerah serentak"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Redistribusi pendapatan** bertujuan untuk **menciptakan keadilan sosial melalui sistem perpajakan dan transfer pembayaran**.",
+        "alasan_kunci": "Opsi B tepat karena redistribusi bekerja dengan memungut penerimaan dari kelompok berpendapatan tinggi lalu menyalurkannya kembali kepada kelompok rentan via belanja transfer. Oleh karena itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Penerbitan saham perdana merupakan kegiatan penghimpunan modal bursa efek.",
+          "C": "Dana talangan pemodal besar bertentangan dengan prinsip keadilan sosial.",
+          "D": "Pengendalian devisa valuta asing berada di bawah domain kebijakan BI.",
+          "E": "Penghapusan retribusi serentak mengurangi pendapatan asli daerah resmi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 13,
+      "kata_kunci_modul": [
+        "Stabilisasi ekonomi dilakukan untuk menjaga kestabilan makroekonomi",
+        "mengatasi inflasi, deflasi, dan pengangguran"
+      ],
+      "topik_materi": "Tujuan Fungsi Stabilisasi Ekonomi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Fungsi stabilisasi ekonomi dilaksanakan oleh pemerintah guna menjaga kestabilan makroekonomi, terutama dalam rangka...",
+      "pilihan": {
+        "A": "Menentukan tarif premi asuransi kendaraan umum",
+        "B": "Mengatur komisi transaksi perdagangan bursa saham",
+        "C": "Mengatasi inflasi, deflasi, dan pengangguran",
+        "D": "Menetapkan biaya sewa pergudangan logistik swasta",
+        "E": "Menyeragamkan harga jual properti perumahan kota"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Stabilisasi ekonomi** dilakukan untuk **menjaga kestabilan makroekonomi, seperti mengatasi inflasi, deflasi, dan pengangguran**.",
+        "alasan_kunci": "Opsi C tepat karena sasaran inti stabilisasi fiskal adalah memelihara keseimbangan fundamental ekonomi makro dari ancaman lonjakan harga serta resesi ketenagakerjaan. Oleh sebab itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Tarif premi asuransi kendaraan merupakan produk industri keuangan komersial.",
+          "B": "Komisi transaksi efek ditetapkan oleh otoritas regulator pasar modal.",
+          "D": "Sewa gudang swasta ditentukan oleh mekanisme kesepakatan perdata niaga.",
+          "E": "Harga properti ditentukan oleh mekanisme penawaran dan permintaan pasar."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 13,
+      "kata_kunci_modul": [
+        "Mendorong Re-distribusi Pendapatan",
+        "Melalui kebijakan fiskal dalam APBN"
+      ],
+      "topik_materi": "Pencegahan Kesenjangan melalui APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemerintah mendorong redistribusi pendapatan melalui APBN dengan tujuan utama agar tidak terjadi...",
+      "pilihan": {
+        "A": "Penurunan indeks harga saham gabungan di bursa efek",
+        "B": "Persaingan usaha antarprodusen barang elektronik lokal",
+        "C": "Perubahan pola konsumsi barang impor kelas menengah",
+        "D": "Kesenjangan mencolok antara kelompok kaya dan miskin",
+        "E": "Penurunan suku bunga kredit perumahan rakyat nasional"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Melalui kebijakan fiskal dalam APBN, Pemerintah **mendorong terjadinya redistribusi pendapatan agar tidak terjadi kesenjangan antara golongan masyarakat kaya dan miskin secara mencolok**.",
+        "alasan_kunci": "Opsi D tepat karena redistribusi fiskal berfungsi mempersempit jurang disparitas kesejahteraan antarlapisan pendapatan warga demi stabilitas sosial. Maka dari itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Indeks harga saham berfluktuasi dipengaruhi oleh sentimen pasar modal.",
+          "B": "Persaingan usaha produsen diawasi oleh komisi pengawas persaingan niaga.",
+          "C": "Pola konsumsi barang impor dipengaruhi oleh daya beli dan preferensi pasar.",
+          "E": "Suku bunga kredit perumahan dipengaruhi kebijakan moneter perbankan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 13,
+      "kata_kunci_modul": [
+        "ability to pay principle",
+        "pajak yang lebih banyak"
+      ],
+      "topik_materi": "Penerapan Prinsip Ability to Pay",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerapan prinsip 'ability to pay' dalam kebijakan perpajakan pemerintah diwujudkan melalui pemungutan pajak yang...",
+      "pilihan": {
+        "A": "Diberikan persentase tetap sama bagi seluruh lapisan warga",
+        "B": "Dihapuskan secara bertahap bagi pemilik korporasi konglomerat",
+        "C": "Ditentukan berdasarkan kesepakatan negosiasi perorangan",
+        "D": "Diberlakukan secara acak sesuai kebutuhan belanja kementerian",
+        "E": "Lebih besar kepada kelompok masyarakat yang lebih mampu"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Untuk menciptakan keadilan, pemerintah **mengenakan pajak yang lebih banyak kepada kelompok masyarakat yang lebih mampu (ability to pay principle)**.",
+        "alasan_kunci": "Opsi E tepat karena prinsip kemampuan membayar mendasari tarif progresif, di mana wajib pajak berkapasitas ekonomi tinggi memikul kontribusi pajak lebih proporsional. Oleh karena itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Tarif tetap tanpa melihat daya pikul bertentangan dengan keadilan vertikal.",
+          "B": "Menghapuskan pajak bagi korporasi besar merusak basis penerimaan negara.",
+          "C": "Pajak bersifat memaksa berdasarkan undang-undang, bukan negosiasi privat.",
+          "D": "Pemungutan acak bertentangan dengan asas kepastian hukum perpajakan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 13,
+      "kata_kunci_modul": [
+        "belanja negara yang berpihak",
+        "pro poor"
+      ],
+      "topik_materi": "Alokasi Belanja Pro-Poor",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Kebijakan pengeluaran pemerintah yang berpihak kepada masyarakat berpenghasilan rendah (pro-poor) diterapkan dalam bentuk...",
+      "pilihan": {
+        "A": "Alokasi bantuan sosial dan subsidi dasar tepat sasaran",
+        "B": "Pembangunan sarana rekreasi mewah di pusat kawasan bisnis",
+        "C": "Pemberian insentif pembebasan pajak barang mewah impor",
+        "D": "Pengadaan armada kendaraan dinas protokoler kementerian",
+        "E": "Penyediaan fasilitas penerbangan eksekutif pejabat pusat"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pemerintah mengalokasikan penerimaan dalam bentuk **pengeluaran/belanja negara yang berpihak kepada masyarakat yang kurang mampu (pro poor)**.",
+        "alasan_kunci": "Opsi A tepat karena wujud nyata belanja pro-poor adalah mengarahkan anggaran APBN untuk pemenuhan jaring pengaman sosial, perlindungan dasar, dan subsidi warga rentan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Sarana rekreasi mewah tidak menyentuh kebutuhan masyarakat berpenghasilan rendah.",
+          "C": "Pembebasan pajak barang mewah impor menguntungkan kalangan mampu.",
+          "D": "Armada dinas protokoler merupakan belanja barang aparatur pemerintah.",
+          "E": "Fasilitas penerbangan eksekutif pejabat merupakan belanja dinas kedinasan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 13,
+      "kata_kunci_modul": [
+        "tidak terdistribusikan secara",
+        "ketidakseimbangan dalam perekonomian"
+      ],
+      "topik_materi": "Dampak Disparitas Distribusi Sumber Daya",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Apabila sumber daya yang ada di masyarakat tidak terdistribusikan secara optimal, dampak yang timbul adalah...",
+      "pilihan": {
+        "A": "Peningkatan cadangan devisa pemerintah secara berlebih",
+        "B": "Kesenjangan sosial dan ketidakstabilan pasar ekonomi",
+        "C": "Pertumbuhan pesat seluruh industri pengolahan primer",
+        "D": "Kemandirian penuh pembiayaan modal koperasi daerah",
+        "E": "Penurunan beban utang pokok pemerintah luar negeri"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Apabila sumber daya yang ada di masyarakat **tidak terdistribusikan secara optimal, maka akan menimbulkan ketidakseimbangan dalam perekonomian negara, seperti kesenjangan sosial dan ketidakstabilan pasar**.",
+        "alasan_kunci": "Opsi B tepat karena kegagalan pemerataan distribusi sumber daya memicu friksi sosial, konsentrasi kekayaan sepihak, serta distorsi efisiensi pasar makro. Maka dari itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Ketimpangan distribusi sumber daya tidak berkaitan dengan lonjakan devisa.",
+          "C": "Distorsi pasar justru menghambat pertumbuhan industri pengolahan.",
+          "D": "Koperasi daerah kerap kesulitan modal apabila distribusi sumber daya timpang.",
+          "E": "Ketidakstabilan pasar dapat meningkatkan beban risiko fiskal negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 13,
+      "kata_kunci_modul": [
+        "Presiden",
+        "pemegang kekuasaan umum pengelolaan keuangan negara"
+      ],
+      "topik_materi": "Pemegang Kekuasaan Umum Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Undang-Undang Nomor 17 Tahun 2003, pemegang kekuasaan umum pengelolaan keuangan negara adalah...",
+      "pilihan": {
+        "A": "Menteri Keuangan selaku bendahara umum negara",
+        "B": "Ketua Badan Pemeriksa Keuangan Republik Indonesia",
+        "C": "Presiden sebagai bagian dari kekuasaan pemerintahan",
+        "D": "Pimpinan Dewan Perwakilan Rakyat Republik Indonesia",
+        "E": "Gubernur Bank Indonesia selaku pemegang otoritas moneter"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan UU Nomor 17 Tahun 2003 tentang Keuangan Negara, **Presiden adalah pemegang kekuasaan umum pengelolaan keuangan negara sebagai bagian dari kekuasaan pemerintahan**.",
+        "alasan_kunci": "Opsi C tepat karena konstitusi menempatkan kekuasaan pemerintahan negara di tangan Presiden, yang meliputi kekuasaan umum pengelolaan fiskal kenegaraan. Oleh karena itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Menteri Keuangan menjalankan mandat kuasa yang dilimpahkan oleh Presiden.",
+          "B": "Ketua BPK merupakan pimpinan lembaga audit eksternal independen negara.",
+          "D": "DPR menjalankan fungsi legislasi, anggaran, dan pengawasan parlemen.",
+          "E": "Gubernur BI memegang otoritas independen di bidang moneter negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 13,
+      "kata_kunci_modul": [
+        "Pengelola Fiskal dan Wakil Pemerintah dalam kepemilikan kekayaan",
+        "dikuasakan kepada Menteri Keuangan"
+      ],
+      "topik_materi": "Mandat Kuasa Presiden kepada Menteri Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelimpahan kekuasaan Presiden kepada Menteri Keuangan dijalankan dalam kapasitas mandat selaku...",
+      "pilihan": {
+        "A": "Pengguna anggaran bagi seluruh kementerian negara teknis",
+        "B": "Penanggung jawab tunggal penetapan kebijakan suku bunga",
+        "C": "Pemeriksa independen atas laporan keuangan pemerintah",
+        "D": "Pengelola fiskal dan wakil pemerintah dalam kekayaan dipisahkan",
+        "E": "Kepala pelaksana operasional pembangunan infrastruktur jalan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Fungsi pemegang kekuasaan umum dikuasakan kepada Menteri Keuangan **selaku Pengelola Fiskal dan Wakil Pemerintah dalam kepemilikan kekayaan Negara yang dipisahkan**.",
+        "alasan_kunci": "Opsi D tepat karena Menteri Keuangan bertindak sebagai pengelola kebijakan fiskal makro sekaligus pemegang kuasa kepemilikan saham negara pada BUMN. Oleh sebab itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Pengguna anggaran kementerian teknis berada pada menteri masing-masing.",
+          "B": "Kebijakan suku bunga merupakan wewenang Bank Indonesia selaku bank sentral.",
+          "C": "Pemeriksaan laporan keuangan negara adalah mandat konstitusional BPK.",
+          "E": "Pelaksana proyek fisik jalan merupakan tugas teknis kementerian terkait."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 13,
+      "kata_kunci_modul": [
+        "Pengguna Anggaran/Pengguna Barang",
+        "menteri/pimpinan lembaga"
+      ],
+      "topik_materi": "Mandat Kuasa kepada Pimpinan Lembaga",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kekuasaan pengelolaan keuangan negara yang dilimpahkan Presiden kepada menteri atau pimpinan lembaga berkedudukan selaku...",
+      "pilihan": {
+        "A": "Pengelola Fiskal pembina perbendaharaan nasional",
+        "B": "Wakil Pemerintah dalam kepemilikan kekayaan daerah",
+        "C": "Pemeriksa internal kelaikan laporan audit BPK",
+        "D": "Pengatur likuiditas lalu lintas pembayaran perbankan",
+        "E": "Pengguna Anggaran atau Pengguna Barang kementerian"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kekuasaan pengelolaan keuangan negara **selaku Pengguna Anggaran/Pengguna Barang kementerian negara/lembaga negara dikuasakan kepada masing-masing menteri/pimpinan lembaga**.",
+        "alasan_kunci": "Opsi E tepat karena pimpinan kementerian/lembaga bertanggung jawab mengelola anggaran dan barang milik negara pada unit organisasi yang dipimpinnya. Maka dari itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Pengelola fiskal nasional merupakan mandat khusus Menteri Keuangan.",
+          "B": "Wakil pemerintah kekayaan daerah adalah mandat kepala daerah.",
+          "C": "Pemeriksaan kelaikan audit merupakan fungsi BPK, bukan menteri teknis.",
+          "D": "Pengatur likuiditas perbankan adalah otoritas Bank Sentral."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "Penyerahan kepada gubernur/bupati/walikota selaku kepala Pemerintahan",
+        "mengelola keuangan daerah"
+      ],
+      "topik_materi": "Penyerahan Pengelolaan Keuangan Daerah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kekuasaan pengelolaan keuangan negara diserahkan oleh Presiden kepada gubernur, bupati, atau walikota dalam kapasitas selaku...",
+      "pilihan": {
+        "A": "Kepala pemerintahan daerah untuk mengelola keuangan daerah",
+        "B": "Bendahara umum negara pengelola kas perbendaharaan pusat",
+        "C": "Pengguna anggaran kementerian teknis urusan dalam negeri",
+        "D": "Pemeriksa independen kepatuhan belanja perbankan daerah",
+        "E": "Kuasa pengelola moneter penstabil nilai tukar rupiah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kekuasaan pengelolaan keuangan negara dijalankan dalam bentuk **penyerahan kepada gubernur/bupati/walikota selaku kepala Pemerintahan daerah untuk mengelola keuangan daerah dan mewakili Pemerintah daerah dalam kepemilikan kekayaan daerah yang dipisahkan**.",
+        "alasan_kunci": "Opsi A tepat karena dalam kerangka desentralisasi otonomi daerah, kepala daerah memegang kekuasaan pengelolaan APBD dan BUMD. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Bendahara Umum Negara dijabat oleh Menteri Keuangan di tingkat pusat.",
+          "C": "Pengguna anggaran kementerian teknis dijabat oleh menteri teknis.",
+          "D": "Pemeriksa kepatuhan belanja adalah fungsi aparat pengawas dan BPK.",
+          "E": "Pengendali nilai tukar rupiah adalah wewenang Bank Indonesia."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "kekuasaan di bidang fiskal tidak termasuk kewenangan di bidang moneter",
+        "stabilitas nilai rupiah"
+      ],
+      "topik_materi": "Pemisahan Bidang Fiskal dan Kewenangan Moneter",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Undang-Undang Nomor 17 Tahun 2003 menegaskan bahwa kekuasaan pemerintah di bidang fiskal tidak mencakup...",
+      "pilihan": {
+        "A": "Pengelolaan penerimaan perpajakan dan bea cukai pusat",
+        "B": "Kewenangan di bidang moneter demi stabilitas nilai rupiah",
+        "C": "Pengalokasian belanja operasional kementerian teknis",
+        "D": "Pengelolaan pembiayaan utang dan penerbitan obligasi negara",
+        "E": "Penyusunan nota keuangan dan rancangan undang-undang APBN"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kekuasaan pengelolaan keuangan negara menegaskan bahwa **kekuasaan di bidang fiskal tidak termasuk kewenangan di bidang moneter** guna mencapai stabilitas nilai rupiah.",
+        "alasan_kunci": "Opsi B tepat karena hukum keuangan negara memisahkan secara tegas kewenangan fiskal pemerintah dengan otoritas moneter yang dipegang bank sentral independen. Oleh sebab itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Penerimaan perpajakan dan kepabeanan merupakan wewenang sah fiskal Menkeu.",
+          "C": "Belanja kementerian teknis merupakan bagian dari pengelolaan fiskal.",
+          "D": "Pengelolaan pembiayaan utang adalah domain kewenangan fiskal pemerintah.",
+          "E": "Penyusunan nota keuangan merupakan mandat pemerintah di bidang fiskal."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "Bank Sentral, yakni Bank Indonesia",
+        "menjaga kelancaran sistem pembayaran"
+      ],
+      "topik_materi": "Otoritas Pelaksana Kebijakan Moneter",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penetapan dan pelaksanaan kebijakan moneter serta penjagaan kelancaran sistem pembayaran dilaksanakan oleh...",
+      "pilihan": {
+        "A": "Kementerian Koordinator Bidang Perekonomian",
+        "B": "Lembaga Penjamin Simpanan Perbankan Nasional",
+        "C": "Bank Sentral, yakni Bank Indonesia",
+        "D": "Badan Pengawasan Keuangan dan Pembangunan",
+        "E": "Otoritas Jasa Keuangan Bidang Perasuransian"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Penetapan dan pelaksanaan kebijakan moneter serta mengatur dan menjaga kelancaran sistem pembayaran **dilakukan oleh Bank Sentral, yakni Bank Indonesia yang tunduk pada peraturan perundangan di bidang moneter**.",
+        "alasan_kunci": "Opsi C tepat karena Bank Indonesia adalah bank sentral independen yang diberi mandat konstitusional menjaga kestabilan nilai rupiah dan sistem pembayaran. Maka dari itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Kemenko Perekonomian menjalankan fungsi koordinasi sinkronisasi kementerian.",
+          "B": "LPS bertugas menjamin simpanan nasabah dan resolusi bank gagal.",
+          "D": "BPKP bertugas melakukan audit dan pengawasan internal pemerintah.",
+          "E": "OJK bertugas mengawasi sektor jasa keuangan terintegrasi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "Chief Financial Officer (CFO)",
+        "pengelolaan aset dan kewajiban negara secara nasional"
+      ],
+      "topik_materi": "Menteri Keuangan sebagai Chief Financial Officer",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menteri Keuangan pada hakikatnya bertindak sebagai Chief Financial Officer (CFO) pemerintah yang berwenang atas...",
+      "pilihan": {
+        "A": "Pelaksanaan teknis pembangunan proyek pelabuhan laut",
+        "B": "Penetapan putusan peradilan tata usaha niaga negara",
+        "C": "Pengawasan kedisiplinan pegawai aparatur dinas daerah",
+        "D": "Pengelolaan aset dan kewajiban negara secara nasional",
+        "E": "Pengesahan perizinan operasional lembaga penyiaran publik"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Menteri Keuangan sebagai pembantu Presiden dalam bidang keuangan pada hakikatnya adalah **Chief Financial Officer (CFO) yang berwenang dan bertanggung jawab atas pengelolaan aset dan kewajiban negara secara nasional**.",
+        "alasan_kunci": "Opsi D tepat karena kapasitas CFO menuntut Menteri Keuangan menjaga neraca keuangan negara, kas umum, serta manajemen risiko fiskal negara secara utuh. Oleh karena itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Proyek pelabuhan merupakan wewenang teknis operasional Kementerian Perhubungan.",
+          "B": "Putusan peradilan tata usaha niaga adalah domain kekuasaan yudikatif.",
+          "C": "Kedisiplinan dinas daerah merupakan tugas pembinaan kepegawaian daerah.",
+          "E": "Perizinan penyiaran adalah wewenang kementerian bidang komunikasi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "Chief Operational Officer",
+        "penyelenggaraan"
+      ],
+      "topik_materi": "Pimpinan Lembaga sebagai Chief Operational Officer",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Para menteri teknis dan pimpinan lembaga pada hakikatnya berkedudukan sebagai Chief Operational Officer (COO) yang bertanggung jawab atas...",
+      "pilihan": {
+        "A": "Pengelolaan utang piutang negara secara menyeluruh",
+        "B": "Penerbitan surat utang negara di pasar modal global",
+        "C": "Pengendalian saldo rekening kas umum negara pusat",
+        "D": "Pengaturan portofolio cadangan devisa internasional",
+        "E": "Penyelenggaraan pemerintahan sesuai bidang tugas masing-masing"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Para menteri dan pimpinan lembaga negara pada hakikatnya adalah **Chief Operational Officer (COO) yang berwenang dan bertanggung jawab atas penyelenggaraan pemerintahan sesuai bidang tugas dan fungsi masing-masing**.",
+        "alasan_kunci": "Opsi E tepat karena menteri teknis menjalankan eksekusi kegiatan operasional program kerja sektoral untuk mencapai keluaran pelayanan kementerian. Oleh sebab itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Pengelolaan utang piutang negara agregat adalah wewenang Menkeu (CFO).",
+          "B": "Penerbitan surat utang negara merupakan kewenangan eksklusif Menkeu.",
+          "C": "Pengendalian kas umum negara pusat adalah mandat Bendahara Umum Negara.",
+          "D": "Pengaturan cadangan devisa internasional merupakan wewenang Bank Sentral."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "mekanisme saling uji (check and balance)",
+        "kejelasan akuntabilitas"
+      ],
+      "topik_materi": "Mekanisme Saling Uji (Check and Balance)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembagian kewenangan yang jelas antara Menteri Keuangan dan menteri teknis dirancang untuk memberikan jaminan...",
+      "pilihan": {
+        "A": "Terlaksananya mekanisme saling uji dan kejelasan akuntabilitas",
+        "B": "Pemberian hak veto mutlak kementerian keuangan atas regulasi",
+        "C": "Pencairan dana anggaran dinas tanpa verifikasi bukti belanja",
+        "D": "Penghapusan kewajiban pelaporan berkala realisasi belanja",
+        "E": "Penyatuan seluruh rekening bendahara ke rekening pribadi pimpinan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pembagian kewenangan yang jelas bertujuan memberikan **jaminan terlaksananya mekanisme saling uji (check and balance) dan jaminan atas kejelasan akuntabilitas Menteri Keuangan sebagai Bendahara Umum Negara dan Menteri Teknis sebagai Pengguna Anggaran**.",
+        "alasan_kunci": "Opsi A tepat karena pemisahan tegas antara pemegang kas (BUN) dan pemegang otorisasi belanja (PA) mencegah penyalahgunaan kekuasaan keuangan secara sepihak. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Kementerian Keuangan tidak memiliki hak veto atas regulasi kementerian teknis.",
+          "C": "Pencairan dana tanpa verifikasi berkas melanggar disiplin perbendaharaan.",
+          "D": "Pelaporan realisasi belanja merupakan kewajiban akuntabilitas yang mutlak.",
+          "E": "Penyatuan rekening dinas ke rekening pribadi dilarang keras oleh hukum."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "Bendahara Umum Negara",
+        "Menteri Teknis sebagai Pengguna Anggaran"
+      ],
+      "topik_materi": "Kedudukan Fungsional BUN dan Pengguna Anggaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam arsitektur perbendaharaan negara, kejelasan akuntabilitas ditegakkan melalui penetapan kedudukan...",
+      "pilihan": {
+        "A": "Menteri teknis sebagai BUN dan Menteri Keuangan sebagai Pengguna Barang",
+        "B": "Menteri Keuangan sebagai BUN dan menteri teknis sebagai Pengguna Anggaran",
+        "C": "Gubernur BI sebagai BUN dan Presiden sebagai penanggung jawab kasir",
+        "D": "Ketua BPK sebagai BUN dan kementerian teknis sebagai pengawas internal",
+        "E": "Kepala Bappenas sebagai BUN dan Menkeu sebagai perencana sektoral"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tata kelola keuangan negara memberikan kejelasan akuntabilitas **Menteri Keuangan sebagai Bendahara Umum Negara (BUN) dan Menteri Teknis sebagai Pengguna Anggaran**.",
+        "alasan_kunci": "Opsi B tepat karena Menteri Keuangan bertindak sebagai pengelola kas negara (komptabel) dan menteri teknis bertindak sebagai pemegang hak otorisasi kegiatan (ordonatur). Oleh karena itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Menteri teknis bertindak sebagai pengguna anggaran, bukan bendahara umum.",
+          "C": "Gubernur BI memimpin bank sentral, bukan bendahara umum negara.",
+          "D": "Ketua BPK bertindak sebagai auditor eksternal, bukan bendahara umum.",
+          "E": "Kepala Bappenas menyusun perencanaan, bukan bendahara umum negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "fleksibilitas bagi menteri teknis, sebagai pengguna",
+        "optimalisasi kinerja kementeriannya untuk menghasilkan"
+      ],
+      "topik_materi": "Fleksibilitas Pengelolaan Anggaran Kementerian Teknis",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembagian kewenangan pengelolaan keuangan memberikan fleksibilitas bagi menteri teknis dengan tujuan utama...",
+      "pilihan": {
+        "A": "Menambah alokasi pagu anggaran belanja tanpa persetujuan DPR",
+        "B": "Mengalihkan kelebihan kas negara ke instrumen investasi berisiko",
+        "C": "Optimalisasi kinerja kementerian untuk menghasilkan output yang ditetapkan",
+        "D": "Menetapkan tarif pungutan perpajakan sektoral secara mandiri",
+        "E": "Menunda penyampaian laporan pertanggungjawaban realisasi kegiatan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pembagian kewenangan memberikan **fleksibilitas bagi menteri teknis, sebagai pengguna anggaran, untuk mengatur penggunaan anggaran kementeriannya secara efisien dan efektif dalam rangka optimalisasi kinerja kementeriannya untuk menghasilkan output yang telah ditetapkan**.",
+        "alasan_kunci": "Opsi C tepat karena pendekatan penganggaran berbasis kinerja memberikan keleluasaan operasional menteri teknis agar fokus mencapai keluaran program secara optimal. Oleh sebab itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Penambahan pagu anggaran belanja tetap wajib memperoleh persetujuan DPR.",
+          "B": "Pengalihan kas negara ke investasi spekulatif dilarang oleh regulasi.",
+          "D": "Tarif pajak ditetapkan melalui undang-undang bersama DPR, bukan kementerian teknis.",
+          "E": "Penundaan pelaporan pertanggungjawaban melanggar asas akuntabilitas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "paling memahami",
+        "operasional kebijakan sektor-sektor yang menjadi bidangnya"
+      ],
+      "topik_materi": "Alasan Pemberian Wewenang Pengguna Anggaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menteri teknis diberikan wewenang mengatur penggunaan anggaran kementeriannya karena pihak kementerian teknis...",
+      "pilihan": {
+        "A": "Memiliki wewenang mencetak uang kartal untuk operasional proyek",
+        "B": "Berhak mengubah struktur kode akun anggaran belanja secara mandiri",
+        "C": "Berhak mengubah struktur kode akun anggaran belanja secara mandiri",
+        "D": "Paling memahami operasional kebijakan sektor yang menjadi bidangnya",
+        "E": "Bertanggung jawab atas pengendalian tingkat inflasi nasional tahunan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Menteri teknis berwenang mengatur penggunaan anggaran **karena kementerian teknis yang paling memahami operasional kebijakan sektor-sektor yang menjadi bidangnya**.",
+        "alasan_kunci": "Opsi D tepat karena kementerian teknis memiliki kompetensi substansi operasional paling mendalam atas program-program kerja sektoral di lapangan. Maka dari itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Pencetakan uang merupakan kewenangan eksklusif Bank Sentral.",
+          "B": "Bagan akun standar anggaran ditetapkan secara terpusat oleh Menkeu.",
+          "C": "Bagan akun standar anggaran ditetapkan secara terpusat oleh Menkeu.",
+          "E": "Pengendalian inflasi merupakan koordinasi makro fiskal dan moneter."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "Pemerintah dalam kepemilikan kekayaan negara yang dipisahkan;",
+        "kepala Pemerintahan"
+      ],
+      "topik_materi": "Pembedaan Mandat Kekuasaan Keuangan (Kecuali)",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Bentuk pelaksanaan kekuasaan umum pengelolaan keuangan negara mencakup penyerahan mandat berikut, KECUALI...",
+      "pilihan": {
+        "A": "Penguasaan pengelolaan fiskal kepada Menteri Keuangan selaku CFO",
+        "B": "Pelimpahan status pengguna anggaran kepada pimpinan lembaga",
+        "C": "Penyerahan pengelolaan keuangan daerah kepada gubernur atau bupati",
+        "D": "Kewenangan mewakili pemerintah dalam kekayaan yang dipisahkan",
+        "E": "Pelimpahan kewenangan moneter kepada menteri koordinator teknis"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kekuasaan pengelolaan keuangan negara **tidak mencakup kewenangan di bidang moneter**, karena kebijakan moneter merupakan otoritas Bank Indonesia secara mandiri.",
+        "alasan_kunci": "Opsi E tepat sebagai pengecualian karena kewenangan moneter tidak pernah dilimpahkan kepada menteri kabinet manapun, melainkan mandiri pada Bank Sentral. Oleh karena itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Pengelolaan fiskal kepada Menteri Keuangan adalah mandat resmi perundangan.",
+          "B": "Pengguna anggaran pada pimpinan lembaga merupakan bentuk mandat resmi.",
+          "C": "Pengelolaan keuangan daerah kepada kepala daerah adalah amanat desentralisasi.",
+          "D": "Mewakili kekayaan dipisahkan adalah wewenang sah Menteri Keuangan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "kewenangan yang jelas, dalam pengelolaan keuangan negara",
+        "memberikan"
+      ],
+      "topik_materi": "Penerapan Saling Uji dalam Pencairan Anggaran",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Penerapan mekanisme saling uji (check and balance) di lingkungan satker tercermin ketika pejabat pengguna anggaran...",
+      "pilihan": {
+        "A": "Menerbitkan SPM yang diuji keabsahannya oleh KPPN selaku kuasa BUN",
+        "B": "Mencairkan dana belanja langsung melalui rekening pribadi bendahara",
+        "C": "Meminta persetujuan lisan kepada direksi bank sentral setempat",
+        "D": "Menetapkan sendiri batasan alokasi pagu belanja tanpa dasar hukum",
+        "E": "Mengalihkan anggaran pembangunan untuk kepentingan investasi saham"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Mekanisme saling uji terwujud melalui pemisahan kewenangan jelas antara **satker kementerian teknis selaku Pengguna Anggaran yang menerbitkan SPM dan KPPN selaku Kuasa BUN yang menerbitkan SP2D**.",
+        "alasan_kunci": "Opsi A tepat karena hubungan satker (PA/PPSPM) dengan KPPN (Kuasa BUN) mencerminkan saling uji akuntabilitas pengujian tagihan belanja negara sebelum uang kas dicairkan. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Pencairan ke rekening pribadi melanggar tata tertib perbendaharaan.",
+          "C": "Pencairan anggaran satker tidak memerlukan persetujuan lisan Bank Indonesia.",
+          "D": "Penetapan pagu belanja tanpa dasar hukum bertentangan dengan asas legalitas.",
+          "E": "Pengalihan anggaran ke saham swasta melanggar peruntukan DIPA dinas."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 14,
+      "kata_kunci_modul": [
+        "tunduk pada peraturan",
+        "perundangan di bidang moneter"
+      ],
+      "topik_materi": "Kepatuhan Hukum Bank Sentral",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam menjalankan kebijakan moneter dan sistem pembayaran, Bank Indonesia memiliki kedudukan yang...",
+      "pilihan": {
+        "A": "Bertanggung jawab langsung di bawah arahan menteri perdagangan",
+        "B": "Tunduk pada peraturan perundang-undangan di bidang moneter",
+        "C": "Merupakan anak badan usaha milik perbankan swasta nasional",
+        "D": "Bebas dari kewajiban memelihara stabilitas nilai tukar rupiah",
+        "E": "Fokus melayani transaksi penerimaan retribusi dinas pemda"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Bank Indonesia bertindak sebagai bank sentral yang **tunduk pada peraturan perundangan di bidang moneter** guna memelihara stabilitas nilai rupiah.",
+        "alasan_kunci": "Opsi B tepat karena independensi kelembagaan Bank Indonesia tetap berlandaskan pada kepatuhan terhadap koridor regulasi undang-undang moneter negara. Maka dari itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Bank Indonesia bersifat independen, bukan di bawah kementerian perdagangan.",
+          "C": "Bank Indonesia adalah lembaga negara berkedudukan bank sentral.",
+          "D": "Menjaga stabilitas nilai rupiah merupakan tugas inti konstitusional BI.",
+          "E": "BI melayani sistem pembayaran nasional terintegrasi secara makro."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "kepala satuan kerja",
+        "pengelola keuangan daerah selaku pejabat pengelola APBD"
+      ],
+      "topik_materi": "Pejabat Pengelola Keuangan Daerah (PPKD)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kekuasaan pengelolaan keuangan daerah tingkat operasional dijalankan oleh kepala satuan kerja pengelola keuangan daerah selaku...",
+      "pilihan": {
+        "A": "Auditor independen belanja daerah",
+        "B": "Pemeriksa kepatuhan perpajakan pusat",
+        "C": "Pejabat pengelola APBD",
+        "D": "Kuasa pemegang kas perbankan swasta",
+        "E": "Pengawas sengketa tata kelola perdata"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pengelolaan keuangan daerah dilaksanakan oleh **kepala satuan kerja pengelola keuangan daerah selaku pejabat pengelola APBD**.",
+        "alasan_kunci": "Opsi C tepat karena Kepala SKPKD berkedudukan sebagai Pejabat Pengelola Keuangan Daerah (PPKD) yang mengemban fungsi bendahara umum daerah. Oleh karena itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Auditor belanja daerah merupakan wewenang aparat inspektorat dan BPK.",
+          "B": "Pemeriksa pajak pusat adalah otoritas Direktorat Jenderal Pajak.",
+          "D": "Pemegang kas bank swasta adalah manajemen perbankan komersial.",
+          "E": "Pengawas sengketa perdata merupakan kewenangan institusi peradilan umum."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "kepala satuan kerja perangkat daerah",
+        "pengguna anggaran/barang"
+      ],
+      "topik_materi": "Pengguna Anggaran dan Barang Tingkat Daerah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pejabat yang mengemban mandat selaku pengguna anggaran atau barang di lingkungan dinas pemerintah daerah adalah...",
+      "pilihan": {
+        "A": "Pimpinan badan usaha swasta pelaksana proyek",
+        "B": "Ketua dewan perwakilan rakyat daerah",
+        "C": "Kepala kantor perwakilan bank sentral daerah",
+        "D": "Kepala satuan kerja perangkat daerah",
+        "E": "Koordinator paguyuban aparatur sipil daerah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kekuasaan pengelolaan keuangan daerah dilaksanakan oleh **kepala satuan kerja perangkat daerah selaku pejabat pengguna anggaran/barang daerah**.",
+        "alasan_kunci": "Opsi D tepat karena Kepala SKPD (dinas/badan daerah) bertanggung jawab memimpin operasional satuan kerja dan mengeksekusi DPA dinasnya. Oleh sebab itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Badan usaha swasta pelaksana proyek berkedudukan sebagai penyedia barang/jasa.",
+          "B": "DPRD menjalankan fungsi pengawasan dan persetujuan peraturan daerah.",
+          "C": "Kantor bank sentral daerah tidak mengelola anggaran belanja dinas pemda.",
+          "E": "Paguyuban pegawai merupakan wadah keanggotaan profesi non-struktural."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "Tahunan yang membatasi berlakunya anggaran untuk satu tahun anggaran",
+        "DIPA berlaku mulai 1 Januari s.d. 31 Desember"
+      ],
+      "topik_materi": "Asas Tahunan Pengelolaan Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerapan Asas Tahunan dalam pengelolaan keuangan negara membatasi berlakunya DIPA pada masa waktu...",
+      "pilihan": {
+        "A": "Dua belas bulan terhitung sejak pelantikan pejabat eselon",
+        "B": "Enam bulan masa sidang anggaran perwakilan legislatif",
+        "C": "Tiga triwulan operasional dinas sesuai tahun kalender hijriah",
+        "D": "Lima tahun penuh sesuai periode rencana pembangunan jangka menengah",
+        "E": "Satu tahun anggaran mulai 1 Januari sampai 31 Desember"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Asas Tahunan** membatasi berlakunya anggaran untuk satu tahun anggaran, di mana **DIPA berlaku mulai 1 Januari s.d. 31 Desember**.",
+        "alasan_kunci": "Opsi E tepat karena tahun anggaran negara Indonesia dimulai pada tanggal 1 Januari dan berakhir pada tanggal 31 Desember tahun berkenaan. Maka dari itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Masa berlaku anggaran tidak dihitung dari tanggal pelantikan pejabat.",
+          "B": "Masa berlaku anggaran berlaku satu tahun penuh, bukan enam bulan sidang.",
+          "C": "Tahun kalender anggaran didasarkan pada kalender masehi resmi kenegaraan.",
+          "D": "Periode lima tahun merupakan dokumen perencanaan RPJMN, bukan DIPA tahunan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 81,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "Seluruh",
+        "tagihan pada tahun yang bersangkutan hanya bisa dibebankan pada DIPA"
+      ],
+      "topik_materi": "Pembebanan Tagihan Menurut Asas Tahunan",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Berdasarkan Asas Tahunan, seluruh tagihan pembayaran yang timbul pada tahun berkenaan hanya boleh dibebankan pada...",
+      "pilihan": {
+        "A": "DIPA tahun anggaran yang bersangkutan",
+        "B": "Estimasi pagu belanja dinas lima tahun berikutnya",
+        "C": "Rekening penampungan taktis pimpinan unit kerja",
+        "D": "Pos penerimaan dividen perusahaan milik pemerintah daerah",
+        "E": "Simpanan sukarela pegawai aparatur satuan kerja"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan asas tahunan, **seluruh tagihan pada tahun yang bersangkutan hanya bisa dibebankan pada DIPA tahun yang bersangkutan tersebut**.",
+        "alasan_kunci": "Opsi A tepat karena prinsip periodisitas anggaran melarang pembebanan belanja di luar dokumen anggaran tahun buku berjalan tanpa mekanisme resmi. Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Tagihan tahun berjalan tidak boleh dibebankan sembarangan pada pagu lima tahunan.",
+          "C": "Dana penampungan taktis dilarang dalam pengelolaan keuangan negara.",
+          "D": "Dividen daerah merupakan pos penerimaan kekayaan daerah dipisahkan.",
+          "E": "Simpanan perorangan pegawai bukan sumber pembiayaan belanja dinas negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 82,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "Universalitas yang menghendaki agar setiap pengeluaran negara/daerah",
+        "Dana non-budgeter tidak diperkenankan"
+      ],
+      "topik_materi": "Asas Universalitas dan Larangan Dana Non-Budgeter",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asas Universalitas mewajibkan seluruh pengeluaran dan penerimaan negara dimasukkan dalam APBN, yang menegaskan bahwa...",
+      "pilihan": {
+        "A": "Pendapatan satker boleh dialihkan ke rekening organisasi paguyuban",
+        "B": "Dana non-budgeter tidak diperkenankan keberadaannya",
+        "C": "Belanja operasional dinas boleh didanai dari kas titipan pihak ketiga",
+        "D": "Unit kerja berhak membentuk pos anggaran rahasia tanpa pencatatan",
+        "E": "Penerimaan negara bukan pajak boleh langsung digunakan tanpa otorisasi"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Asas Universalitas** menghendaki agar setiap pengeluaran dan penerimaan negara/daerah harus berdasarkan dan dimasukkan dalam APBN/APBD. **Dana non-budgeter tidak diperkenankan**.",
+        "alasan_kunci": "Opsi B tepat karena asas ini menolak segala bentuk penerimaan atau pengeluaran di luar pencatatan resmi APBN guna menjamin integritas kas negara. Oleh sebab itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Pengalihan pendapatan ke rekening paguyuban merupakan pelanggaran hukum kas.",
+          "C": "Pendanaan belanja dari titipan kas gelap dilarang keras dalam regulasi.",
+          "D": "Pembentukan pos rahasia tanpa pembukuan melanggar transparansi fiskal.",
+          "E": "Penggunaan langsung PNBP tanpa mekanisme DIPA melanggar undang-undang perbendaharaan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 83,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "Kesatuan yaitu semua pendapatan dan belanja negara/daerah disajikan dalam",
+        "satu dokumen anggaran (unified budget)"
+      ],
+      "topik_materi": "Asas Kesatuan (Unified Budget)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerapan Asas Kesatuan (unified budget) dalam penyusunan APBN ditandai oleh penyajian seluruh anggaran dalam satu dokumen tanpa...",
+      "pilihan": {
+        "A": "Pencatatan rincian belanja modal aparatur kementerian",
+        "B": "Pengesahan resmi dari badan perwakilan perundangan rakyat",
+        "C": "Pemisahan antara anggaran rutin dan anggaran pembangunan",
+        "D": "Keterlibatan pimpinan lembaga dalam penyusunan usulan program",
+        "E": "Pemeriksaan saldo kas oleh badan pemeriksa keuangan resmi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Asas Kesatuan** yaitu semua pendapatan dan belanja negara/daerah disajikan dalam satu dokumen anggaran (**unified budget**) dan **tidak lagi dikelompokkan dalam anggaran rutin dan anggaran pembangunan**.",
+        "alasan_kunci": "Opsi C tepat karena reformasi keuangan negara menghapus dikotomi anggaran rutin dan anggaran pembangunan menjadi satu dokumen penganggaran terpadu. Maka dari itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Belanja modal aparatur tetap dicatat secara rinci dalam dokumen anggaran.",
+          "B": "Pengesahan APBN tetap mutlak melalui persetujuan bersama DPR RI.",
+          "D": "Pimpinan lembaga tetap terlibat penuh menyusun usulan belanja instansinya.",
+          "E": "Pemeriksaan saldo kas oleh BPK tetap berjalan secara rutin dan berkala."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 84,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "Spesialitas yaitu kredit anggaran yang tersedia harus dirinci dan jelas",
+        "peruntukannya"
+      ],
+      "topik_materi": "Asas Spesialitas Anggaran",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asas Spesialitas dalam pengelolaan keuangan negara mewajibkan bahwa kredit anggaran yang tersedia dalam DIPA harus...",
+      "pilihan": {
+        "A": "Disajikan secara gelondongan tanpa batasan pos belanja",
+        "B": "Disediakan dalam bentuk rekening cadangan tanpa peruntukan",
+        "C": "Diberikan kebebasan dialihkan antarkementerian tanpa prosedur",
+        "D": "Dirinci dan jelas peruntukannya",
+        "E": "Ditetapkan secara tertutup bagi pengawasan aparat pemeriksa"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Asas Spesialitas** yaitu **kredit anggaran yang tersedia harus dirinci dan jelas peruntukannya**.",
+        "alasan_kunci": "Opsi D tepat karena asas ini mengharuskan otorisasi anggaran dialokasikan secara spesifik menurut jenis belanja, fungsi, serta program kerja yang sah. Oleh karena itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Anggaran gelondongan (lump sum) tanpa batas dilarang dalam sistem DIPA.",
+          "B": "Rekening cadangan tanpa peruntukan melanggar asas transparansi belanja.",
+          "C": "Pengalihan antarpos anggaran wajib melalui mekanisme revisi DIPA resmi.",
+          "E": "Anggaran negara wajib dapat diakses dan diawasi oleh auditor resmi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 85,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "Akuntabilitas yang berorientasi pada hasil",
+        "setiap sen uang"
+      ],
+      "topik_materi": "Asas Akuntabilitas Berorientasi Hasil",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asas Akuntabilitas yang berorientasi pada hasil mewajibkan pertanggungjawaban kegiatan keuangan negara kepada rakyat karena...",
+      "pilihan": {
+        "A": "Seluruh kekayaan negara berasal dari pinjaman luar negeri",
+        "B": "Laporan keuangan difokuskan untuk konsumsi telaah dinas internal",
+        "C": "Laporan keuangan difokuskan untuk konsumsi telaah dinas internal",
+        "D": "Masyarakat menanggung seluruh beban utang komersial perbankan",
+        "E": "Setiap sen uang negara pada dasarnya adalah uang rakyat"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Asas Akuntabilitas yang berorientasi pada hasil** menentukan bahwa setiap kegiatan dan hasil akhir pengelolaan keuangan negara harus dapat dipertanggungjawabkan kepada rakyat, **karena pada dasarnya setiap sen uang negara adalah uang rakyat**.",
+        "alasan_kunci": "Opsi E tepat karena legitimasi pengelolaan keuangan publik bertumpu pada mandat amanah rakyat yang membiayai negara melalui pembayaran pajak. Oleh sebab itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Keuangan negara didanai terutama oleh pendapatan pajak domestik.",
+          "B": "Laporan keuangan negara dipublikasikan terbuka sebagai wujud akuntabilitas.",
+          "C": "Laporan keuangan negara dipublikasikan terbuka sebagai wujud akuntabilitas.",
+          "D": "Beban utang perbankan privat merupakan tanggung jawab entitas usaha terkait."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 86,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "masyarakat atau rakyat sebagai",
+        "pemegang kedaulatan tertinggi negara"
+      ],
+      "topik_materi": "Rakyat sebagai Pemegang Kedaulatan Tertinggi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan prinsip akuntabilitas keuangan negara, hasil akhir pengelolaan keuangan harus dipertanggungjawabkan kepada masyarakat selaku...",
+      "pilihan": {
+        "A": "Pemegang kedaulatan tertinggi negara",
+        "B": "Kreditur tunggal pembiayaan surat utang publik",
+        "C": "Konsumen akhir dari seluruh jasa badan usaha swasta",
+        "D": "Mitra pengadaan barang pada lelang perbendaharaan",
+        "E": "Penjamin pinjaman komersial perbankan internasional"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pengelolaan keuangan negara harus dapat dipertanggungjawabkan kepada **masyarakat atau rakyat sebagai pemegang kedaulatan tertinggi negara** sesuai peraturan perundang-undangan.",
+        "alasan_kunci": "Opsi A tepat karena dalam sistem demokrasi konstitusional, kedaulatan berada di tangan rakyat sehingga pemerintah wajib mempertanggungjawabkan setiap rupiah penggunaan dana publik. Maka dari itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Surat utang publik dibeli oleh berbagai investor domestik dan global.",
+          "C": "Masyarakat adalah warga negara berdaulat, bukan semata konsumen swasta.",
+          "D": "Mitra pengadaan merupakan rekanan kerja kontrak pihak ketiga.",
+          "E": "Penjamin pinjaman komersial perbankan bukan kedudukan konstitusional warga."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 87,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "Profesionalitas, yang berarti mengutamakan keahlian dan kompetensi yang",
+        "berlandaskan kode etik"
+      ],
+      "topik_materi": "Asas Profesionalitas dalam Pengelolaan Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerapan Asas Profesionalitas dalam tata kelola keuangan negara menuntut pengelola perbendaharaan mengutamakan...",
+      "pilihan": {
+        "A": "Kedekatan hubungan kekerabatan dengan pimpinan kementerian",
+        "B": "Keahlian dan kompetensi yang berlandaskan kode etik",
+        "C": "Kecepatan pencairan dana tanpa memeriksa bukti tagihan",
+        "D": "Kepatuhan pada instruksi lisan tanpa dokumen pengesahan",
+        "E": "Keringanan sanksi atas temuan ketidakpatuhan administrasi"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Asas Profesionalitas** berarti **mengutamakan keahlian dan kompetensi yang berlandaskan kode etik dan ketentuan perundang-undangan**.",
+        "alasan_kunci": "Opsi B tepat karena pengelolaan keuangan negara menuntut integritas moral, standar keilmuan perbendaharaan, serta kepatuhan etika kedinasan yang tinggi. Oleh karena itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Hubungan kekerabatan bertentangan dengan prinsip meritokrasi dan profesionalisme.",
+          "C": "Pencairan dana tanpa verifikasi bukti melanggar prosedur verifikasi tagihan.",
+          "D": "Pengelolaan anggaran wajib berdasarkan dokumen tertulis yang berkekuatan hukum.",
+          "E": "Pemberian keringanan sepihak atas temuan melanggar tata tertib audit."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 88,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "Proporsionalitas, yakni asas yang mengutamakan keseimbangan antara hak",
+        "dan kewajiban penyelenggara negara"
+      ],
+      "topik_materi": "Asas Proporsionalitas",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asas Proporsionalitas dalam pengelolaan keuangan negara diartikan sebagai asas yang mengutamakan keseimbangan antara...",
+      "pilihan": {
+        "A": "Jumlah belanja modal dan belanja subsidi bahan bakar",
+        "B": "Pendapatan dari sektor migas dan penerimaan pajak badan",
+        "C": "Hak dan kewajiban penyelenggara negara",
+        "D": "Kapasitas ruangan kerja dan jumlah pegawai aparatur kantor",
+        "E": "Volume penerbitan obligasi dan pinjaman proyek bilateral"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Asas Proporsionalitas** yakni asas yang **mengutamakan keseimbangan antara hak dan kewajiban penyelenggara negara**.",
+        "alasan_kunci": "Opsi C tepat karena keadilan tata kelola menuntut aparatur memperoleh haknya secara wajar dan proporsional sebanding dengan kewajiban tugas kenegaraan yang dipikulnya. Oleh sebab itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Keseimbangan belanja modal dan subsidi adalah kebijakan postur fiskal.",
+          "B": "Penerimaan migas dan pajak badan merupakan komposisi pendapatan negara.",
+          "D": "Kapasitas ruangan kantor adalah urusan manajemen fasilitas dinas internal.",
+          "E": "Porsi obligasi dan pinjaman luar negeri adalah strategi pembiayaan utang."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 89,
+      "halaman_sumber": 15,
+      "kata_kunci_modul": [
+        "daya dukung penyelenggaraan pemerintahan negara yang optimal",
+        "keuangan negara dikelola berdasarkan asas umum sebagai berikut:"
+      ],
+      "topik_materi": "Prinsip Asas Umum Keuangan Negara (Kecuali)",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Asas-asas umum pengelolaan keuangan negara dirumuskan untuk memberikan daya dukung optimal pemerintahan, mencakup asas berikut, KECUALI...",
+      "pilihan": {
+        "A": "Asas Tahunan yang membatasi masa berlakunya anggaran",
+        "B": "Asas Kesatuan yang menyajikan anggaran dalam satu dokumen",
+        "C": "Asas Spesialitas yang merinci peruntukan kredit anggaran",
+        "D": "Asas Komersialisasi Aset demi memaksimalkan laba kasir",
+        "E": "Asas Akuntabilitas yang berorientasi pada pencapaian hasil"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Asas umum pengelolaan keuangan negara meliputi **Asas Tahunan, Asas Universalitas, Asas Kesatuan, Asas Spesialitas, Asas Akuntabilitas, Asas Profesionalitas, dan Asas Proporsionalitas**.",
+        "alasan_kunci": "Opsi D tepat sebagai pengecualian karena tata kelola keuangan negara berorientasi pada pelayanan publik, bukan mengejar keuntungan komersial layaknya korporasi bisnis. Maka dari itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Asas Tahunan merupakan pilar resmi asas umum perundangan keuangan negara.",
+          "B": "Asas Kesatuan adalah asas resmi dokumen anggaran tunggal terpadu.",
+          "C": "Asas Spesialitas merupakan asas rincian pos kredit anggaran resmi.",
+          "E": "Asas Akuntabilitas berorientasi hasil adalah asas pokok tata kelola APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 90,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "informasi yang benar, jujur, dan",
+        "tidak"
+      ],
+      "topik_materi": "Asas Keterbukaan Informasi Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asas Keterbukaan membuka diri terhadap hak masyarakat untuk memperoleh informasi tentang keuangan negara yang bersifat...",
+      "pilihan": {
+        "A": "Dibatasi bagi perwakilan asosiasi profesi ekonomi tertentu",
+        "B": "Dibatasi bagi perwakilan asosiasi profesi ekonomi tertentu",
+        "C": "Diberikan secara acak sesuai diskresi khusus pejabat berwenang",
+        "D": "Diberikan secara acak sesuai diskresi khusus pejabat berwenang",
+        "E": "Benar, jujur, dan tidak diskriminatif"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Asas Keterbukaan** yaitu asas yang membuka diri terhadap hak masyarakat untuk memperoleh **informasi yang benar, jujur, dan tidak diskriminatif** tentang pengelolaan keuangan negara.",
+        "alasan_kunci": "Opsi E tepat karena transparansi menuntut keterbukaan informasi publik yang valid, akurat, dan dapat diakses oleh seluruh lapisan masyarakat secara adil. Oleh karena itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Akses informasi keuangan terbuka bagi seluruh warga secara adil.",
+          "B": "Akses informasi keuangan terbuka bagi seluruh warga secara adil.",
+          "C": "Pemberian acak melanggar kepastian hukum hak keterbukaan informasi.",
+          "D": "Pemberian acak melanggar kepastian hukum hak keterbukaan informasi."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 91,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "perlindungan atas hak-hak asasi",
+        "rahasia"
+      ],
+      "topik_materi": "Batasan Keterbukaan Informasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam penyelenggaraan Asas Keterbukaan, penyampaian informasi keuangan negara tetap wajib memperhatikan perlindungan atas...",
+      "pilihan": {
+        "A": "Hak asasi pribadi, golongan, dan rahasia negara",
+        "B": "Kepentingan laba usaha para rekanan penyedia swasta",
+        "C": "Target perolehan dividen bank sentral internasional",
+        "D": "Kerahasiaan identitas instansi yang terkena audit BPK",
+        "E": "Rencana promosi jabatan aparatur di lingkungan kementerian"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Keterbukaan informasi keuangan dilaksanakan dengan tetap memperhatikan **perlindungan atas hak-hak asasi pribadi, golongan, dan rahasia negara**.",
+        "alasan_kunci": "Opsi A tepat karena keterbukaan publik memiliki batasan hukum mutlak terhadap data privat perseorangan dan aspek pertahanan keamanan kedaulatan negara. Oleh sebab itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Kepentingan laba mitra swasta bukan alasan pembatasan informasi publik.",
+          "C": "Dividen bank sentral bukan objek perlindungan rahasia asasi keterbukaan.",
+          "D": "Identitas instansi auditee tertuang dalam laporan resmi hasil audit BPK.",
+          "E": "Promosi aparatur merupakan administrasi kepegawaian berbasis merit."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 92,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "Pemeriksaan keuangan oleh badan pemeriksa yang bebas dan mandiri",
+        "Badan Pemeriksa Keuangan (BPK RI)"
+      ],
+      "topik_materi": "Lembaga Pemeriksa Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asas pemeriksaan keuangan oleh badan pemeriksa yang bebas dan mandiri dalam praktiknya dilaksanakan oleh...",
+      "pilihan": {
+        "A": "Badan Pengawasan Keuangan dan Pembangunan",
+        "B": "Badan Pemeriksa Keuangan (BPK RI)",
+        "C": "Komisi Pengawas Persaingan Usaha Niaga",
+        "D": "Inspektorat Jenderal Kementerian Keuangan",
+        "E": "Otoritas Pengawas Lembaga Pembiayaan Publik"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pemeriksaan keuangan oleh badan pemeriksa yang bebas dan mandiri dalam praktiknya **dilakukan oleh Badan Pemeriksa Keuangan (BPK RI)**.",
+        "alasan_kunci": "Opsi B tepat karena BPK RI merupakan satu-satunya lembaga audit eksternal independen yang diamanatkan langsung oleh UUD 1945 untuk memeriksa keuangan negara. Maka dari itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "BPKP merupakan aparat pengawasan intern pemerintah (APIP) ranah eksekutif.",
+          "C": "KPPU bertugas mengawasi persaingan niaga usaha komersial.",
+          "D": "Itjen Kemenkeu bertindak sebagai auditor internal tingkat kementerian.",
+          "E": "Pengawas lembaga pembiayaan merupakan fungsi pengawasan OJK."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 93,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "bebas dan mandiri",
+        "Badan Pemeriksa Keuangan"
+      ],
+      "topik_materi": "Karakter Bebas dan Mandiri BPK RI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karakter 'bebas dan mandiri' yang dimiliki Badan Pemeriksa Keuangan (BPK RI) mengandung arti bahwa lembaga ini...",
+      "pilihan": {
+        "A": "Bebas menyimpang dari tata cara pemeriksaan keuangan negara",
+        "B": "Mandiri menetapkan tarif pajak bagi badan usaha komersial",
+        "C": "Bebas menyimpang dari tata cara pemeriksaan keuangan negara",
+        "D": "Bebas dari kewajiban menyampaikan hasil audit kepada DPR",
+        "E": "Mandiri mencairkan kas negara untuk keperluan operasional dinas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Karakteristik **bebas dan mandiri** menjamin Badan Pemeriksa Keuangan dapat melakukan pemeriksaan secara objektif **tanpa intervensi dari cabang kekuasaan eksekutif maupun pihak lain**.",
+        "alasan_kunci": "Opsi C tepat karena independensi konstitusional BPK menjamin temuan dan opini hasil pemeriksaan keuangan negara steril dari tekanan politik kekuasaan. Oleh karena itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "BPK terikat secara ketat pada Standar Pemeriksaan Keuangan Negara.",
+          "B": "Penetapan tarif pajak adalah wewenang DPR bersama Presiden.",
+          "D": "BPK diwajibkan konstitusi menyerahkan hasil pemeriksaan kepada DPR/DPD/DPRD.",
+          "E": "Pencairan kas negara adalah wewenang Menkeu selaku Bendahara Umum Negara."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 94,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "hak",
+        "masyarakat"
+      ],
+      "topik_materi": "Implementasi Keterbukaan Informasi pada Unit Kerja",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Satuan kerja pemerintah mengimplementasikan Asas Keterbukaan dalam pengelolaan anggarannya dengan cara...",
+      "pilihan": {
+        "A": "Menunda klarifikasi tertulis permohonan penjelasan dari perwakilan warga",
+        "B": "Menyediakan akses informasi keuangan bagi pejabat struktural saja",
+        "C": "Menyediakan akses informasi keuangan bagi pejabat struktural saja",
+        "D": "Menyediakan publikasi berkala tentang kinerja realisasi anggaran",
+        "E": "Menghapus papan pengumuman pengadaan barang dinas di kantor"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Penerapan asas keterbukaan diwujudkan dengan menghormati **hak masyarakat untuk memperoleh informasi tentang pengelolaan keuangan negara** melalui saluran komunikasi publik resmi.",
+        "alasan_kunci": "Opsi D tepat karena mempublikasikan laporan realisasi anggaran satker secara transparan memenuhi hak publik atas akuntabilitas penggunaan uang negara. Oleh sebab itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Menunda penjelasan warga bertentangan dengan asas keterbukaan publik.",
+          "B": "Membatasi informasi bagi pimpinan struktural melanggar transparansi dinas.",
+          "C": "Membatasi informasi bagi pimpinan struktural melanggar transparansi dinas.",
+          "E": "Papan lelang pengadaan wajib dipublikasikan secara terbuka melalui LPSE."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 95,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "pribadi,",
+        "golongan,"
+      ],
+      "topik_materi": "Keseimbangan Transparansi dan Hak Pribadi",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Ketentuan yang mewajibkan perlindungan hak asasi pribadi dan golongan dalam Asas Keterbukaan bertujuan untuk...",
+      "pilihan": {
+        "A": "Memberi perlindungan hukum bagi pelaku pelanggaran anggaran dinas",
+        "B": "Membatasi proses pemeriksaan aparat penegak hukum atas pos belanja",
+        "C": "Membatasi proses pemeriksaan aparat penegak hukum atas pos belanja",
+        "D": "Membebaskan pejabat publik dari kewajiban pelaporan kekayaan",
+        "E": "Mencegah penyalahgunaan data rahasia individu dari eksploitasi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Penyediaan informasi keuangan publik dibatasi oleh **perlindungan atas hak asasi pribadi, golongan, dan rahasia negara** guna melindungi privasi serta keamanan kedaulatan nasional.",
+        "alasan_kunci": "Opsi E tepat karena transparansi anggaran tidak boleh melanggar hak privasi personal warga atau membocorkan data rahasia yang dapat dieksploitasi pihak tidak berwenang. Maka dari itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Pelanggaran anggaran dinas tidak berhak mendapat proteksi kerahasiaan.",
+          "B": "Aparat penegak hukum memiliki kewenangan hukum memeriksa dokumen belanja.",
+          "C": "Aparat penegak hukum memiliki kewenangan hukum memeriksa dokumen belanja.",
+          "D": "Pejabat publik tetap diwajibkan melaporkan harta kekayaan (LHKPN)."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 96,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "dalam praktiknya dilakukan oleh Badan Pemeriksa Keuangan (BPK RI)",
+        "badan pemeriksa yang bebas dan mandiri"
+      ],
+      "topik_materi": "Landasan Kelembagaan Pemeriksa Eksternal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemeriksaan keuangan negara secara eksternal diserahkan kepada BPK RI untuk menjamin bahwa proses audit...",
+      "pilihan": {
+        "A": "Berjalan secara independen tanpa benturan kepentingan eksekutif",
+        "B": "Dikelola langsung di bawah pengawasan kementerian teknis",
+        "C": "Mengutamakan aspek pengampunan denda bagi keterlambatan proyek",
+        "D": "Dapat dibatalkan sewaktu-waktu oleh instruksi pejabat perbendaharaan",
+        "E": "Menyerahkan opini pemeriksaan kepada badan usaha swasta rekanan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Audit eksternal dilaksanakan oleh **badan pemeriksa yang bebas dan mandiri, yakni BPK RI**, demi menjamin objektivitas tanpa konflik kepentingan dengan pengelola anggaran.",
+        "alasan_kunci": "Opsi A tepat karena penyerahan audit kepada BPK menjamin tidak adanya campur tangan pemerintah selaku pihak terperiksa (auditee). Oleh karena itu, opsi A benar.",
+        "bedah_pengecoh": {
+          "B": "Audit eksternal tidak boleh berada di bawah kendali kementerian teknis.",
+          "C": "Audit bertujuan menilai kewajaran dan kepatuhan, bukan mengampuni denda.",
+          "D": "Pejabat perbendaharaan tidak berwenang membatalkan pemeriksaan BPK.",
+          "E": "Opini pemeriksaan diserahkan resmi kepada DPR, DPD, dan DPRD."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 97,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "rahasia",
+        "negara."
+      ],
+      "topik_materi": "Pengecualian Rahasia Negara dalam Tata Kelola",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengecualian asas keterbukaan diberlakukan terhadap informasi tertentu yang diklasifikasikan sebagai...",
+      "pilihan": {
+        "A": "Rincian harga pembelian perabot mebel pada kantor dinas",
+        "B": "Rahasia negara demi menjaga keamanan dan kedaulatan bangsa",
+        "C": "Alokasi biaya perjalanan dinas para staf perbendaharaan",
+        "D": "Daftar penerima beasiswa pendidikan bagi putra pegawai",
+        "E": "Jadwal lokakarya pelatihan kepemimpinan aparatur daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Asas Keterbukaan membatasi penyebaran informasi yang menyangkut **rahasia negara** demi keselamatan pertahanan, keamanan, dan kedaulatan negara.",
+        "alasan_kunci": "Opsi B tepat karena informasi yang berstatus rahasia negara dilindungi undang-undang dari keterbukaan bebas demi stabilitas pertahanan nasional. Oleh sebab itu, opsi B benar.",
+        "bedah_pengecoh": {
+          "A": "Harga mebel kantor merupakan informasi belanja barang terbuka umum.",
+          "C": "Biaya perjalanan dinas tercatat dalam dokumen pertanggungjawaban terbuka.",
+          "D": "Daftar penerima beasiswa merupakan program kedinasan transparan.",
+          "E": "Jadwal lokakarya aparatur merupakan agenda kegiatan dinas reguler."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 98,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "Pemeriksaan keuangan oleh badan pemeriksa",
+        "pengelolaan"
+      ],
+      "topik_materi": "Fokus Audit BPK atas Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemeriksaan keuangan yang dijalankan oleh badan pemeriksa independen berfokus pada dua pilar utama, yaitu...",
+      "pilihan": {
+        "A": "Perolehan keuntungan dan margin laba bersih bursa efek",
+        "B": "Tingkat persaingan tarif ekspedisi pengiriman swasta",
+        "C": "Pengelolaan dan pertanggungjawaban keuangan negara",
+        "D": "Desain arsitektur gedung perkantoran badan usaha komersial",
+        "E": "Jumlah kepemilikan polis asuransi jiwa masyarakat sipil"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pemeriksaan keuangan oleh badan pemeriksa bebas dan mandiri diarahkan untuk memeriksa **pengelolaan dan tanggung jawab tentang keuangan negara**.",
+        "alasan_kunci": "Opsi C tepat karena mandat audit BPK meliputi evaluasi tata kelola pelaksanaan anggaran serta laporan pertanggungjawaban atas kas negara. Maka dari itu, opsi C benar.",
+        "bedah_pengecoh": {
+          "A": "Margin laba bursa efek merupakan ranah pasar modal dan otoritas bursa.",
+          "B": "Tarif ekspedisi swasta adalah urusan persaingan usaha logistik komersial.",
+          "D": "Desain gedung komersial bukan objek pemeriksaan keuangan negara.",
+          "E": "Polis asuransi jiwa masyarakat merupakan aset keuangan perorangan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 99,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "keuangan",
+        "negara"
+      ],
+      "topik_materi": "Keterkaitan Asas Keterbukaan dan Audit Eksternal",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Keterpaduan antara Asas Keterbukaan dan asas pemeriksaan independen ditujukan untuk mewujudkan sistem keuangan negara yang...",
+      "pilihan": {
+        "A": "Dikelola secara tertutup guna mencegah masukan koreksi publik",
+        "B": "Dikelola secara tertutup guna mencegah masukan koreksi publik",
+        "C": "Bebas mengalihkan dana APBN untuk modal usaha perseorangan",
+        "D": "Transparan, akuntabel, dan bebas dari praktik penyimpangan",
+        "E": "Tidak terikat pada ketentuan standar perundang-undangan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Penerapan seluruh asas pengelolaan keuangan negara secara terpadu bertujuan menjamin **pengelolaan keuangan negara yang transparan, akuntabel, dan bertanggung jawab**.",
+        "alasan_kunci": "Opsi D tepat karena keterbukaan publik yang diimbangi audit profesional independen merupakan formula pencegahan penyimpangan anggaran paling efektif. Oleh karena itu, opsi D benar.",
+        "bedah_pengecoh": {
+          "A": "Pengelolaan tertutup bertentangan langsung dengan asas keterbukaan.",
+          "B": "Pengelolaan tertutup bertentangan langsung dengan asas keterbukaan.",
+          "C": "Pengalihan dana APBN untuk usaha perorangan merupakan tindak pidana korupsi.",
+          "E": "Keuangan negara wajib tunduk pada kepatuhan peraturan perundang-undangan."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    },
+    {
+      "nomor": 100,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "Pemeriksaan keuangan oleh badan pemeriksa yang bebas dan mandiri",
+        "Keterbukaan,"
+      ],
+      "topik_materi": "Sintesis Asas Keterbukaan dan Pemeriksaan Mandiri",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dua asas umum pelengkap yang ditegaskan pada bagian akhir penataan keuangan negara di Undang-Undang Keuangan Negara adalah...",
+      "pilihan": {
+        "A": "Asas Monopoli Perdagangan dan asas proteksionisme komoditas",
+        "B": "Asas Fleksibilitas Kasir dan asas pergeseran pagu bebas prosedur",
+        "C": "Asas Sentralisasi Perbankan dan asas pemungutan iuran wajib",
+        "D": "Asas Pembebasan Pajak dan asas pinjaman komersial tanpa batas",
+        "E": "Asas Keterbukaan dan asas pemeriksaan oleh badan bebas dan mandiri"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dua asas penutup dalam tata kelola keuangan negara adalah **Asas Keterbukaan (angka 8) dan Pemeriksaan keuangan oleh badan pemeriksa yang bebas dan mandiri (angka 9)**.",
+        "alasan_kunci": "Opsi E tepat karena kedua asas ini merupakan pilar pengawasan eksternal dan keterbukaan informasi yang melengkapi asas-asas operasional perbendaharaan sebelumnya. Oleh sebab itu, opsi E benar.",
+        "bedah_pengecoh": {
+          "A": "Monopoli perdagangan bukan asas umum tata kelola keuangan negara.",
+          "B": "Pergeseran pagu tanpa prosedur melanggar asas spesialitas anggaran.",
+          "C": "Sentralisasi perbankan bukan bagian asas pengelolaan fiskal negara.",
+          "D": "Pinjaman komersial tanpa batas bertentangan dengan batas rasio defisit APBN."
+        },
+        "sumber_rujukan": "Pengelolaan Keuangan Negara"
+      }
+    }
+  ]
+}
