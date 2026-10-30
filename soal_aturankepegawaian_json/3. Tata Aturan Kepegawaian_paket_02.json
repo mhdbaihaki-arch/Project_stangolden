@@ -46,7 +46,7 @@
       "halaman_sumber": 21,
       "kata_kunci_modul": [
         "Seleksi kompetensi bidang dilakukan untuk",
-        "standar kompetensi bidang sesuai dengan kebutuhan Jabatan"
+        "kompetensi bidang sesuai dengan kebutuhan Jabatan"
       ],
       "topik_materi": "Tujuan Seleksi Kompetensi Bidang",
       "level_kognitif": "C2 - Pemahaman",
@@ -76,7 +76,7 @@
       "halaman_sumber": 21,
       "kata_kunci_modul": [
         "Masa percobaan sebagaimana dimaksud bagi calon PNS",
-        "dilaksanakan selama 1 (satu) tahun"
+        "selama 1 (satu) tahun"
       ],
       "topik_materi": "Jangka Waktu Masa Percobaan CPNS",
       "level_kognitif": "C2 - Pemahaman",
@@ -137,7 +137,7 @@
       "halaman_sumber": 21,
       "kata_kunci_modul": [
         "pendidikan dan pelatihan dasar bagi calon PNS",
-        "hanya dapat diikuti sebanyak satu kali"
+        "hanya dapat diikuti"
       ],
       "topik_materi": "Ketentuan Kesempatan Pelatihan Dasar CPNS",
       "level_kognitif": "C2 - Pemahaman",
@@ -166,8 +166,8 @@
       "nomor": 6,
       "halaman_sumber": 21,
       "kata_kunci_modul": [
-        "calon PNS yang mengundurkan diri pada saat menjalani masa percobaan",
-        "tidak boleh mengikuti seleksi pengadaan PNS"
+        "calon PNS yang mengundurkan diri pada saat menjalani masa",
+        "tidak boleh mengikuti seleksi pengadaan"
       ],
       "topik_materi": "Sanksi Pengunduran Diri CPNS Masa Percobaan",
       "level_kognitif": "C3 - Aplikasi",
@@ -226,8 +226,8 @@
       "nomor": 8,
       "halaman_sumber": 21,
       "kata_kunci_modul": [
-        "calon PNS dapat diberhentikan dengan berbagai pertimbangan yaitu apabila",
-        "memberikan keterangan atau bukti yang tidak benar pada waktu melamar"
+        "calon PNS dapat diberhentikan dengan berbagai pertimbangan yaitu",
+        "memberikan keterangan atau bukti yang tidak benar pada waktu"
       ],
       "topik_materi": "Pemberhentian CPNS Pemalsuan Keterangan",
       "level_kognitif": "C3 - Aplikasi",
@@ -256,7 +256,7 @@
       "nomor": 9,
       "halaman_sumber": 21,
       "kata_kunci_modul": [
-        "calon PNS dapat diberhentikan dengan berbagai pertimbangan yaitu apabila",
+        "calon PNS dapat diberhentikan dengan berbagai pertimbangan yaitu",
         "terbukti melakukan pelanggaran disiplin tingkat sedang atau berat"
       ],
       "topik_materi": "Pertimbangan Pemberhentian Disiplin CPNS",
@@ -294,7 +294,7 @@
       "pertanyaan": "Pejabat yang memiliki wewenang resmi menetapkan pengangkatan Calon PNS menjadi PNS definitif adalah...",
       "pilihan": {
         "A": "Kepala Kantor Pelayanan Perbendaharaan Negara setempat",
-        "B": "Ketua Komisi Pemberantasan Korupsi Republik Indonesia",
+        "B": "Kepala Badan Pengawasan Keuangan dan Pembangunan",
         "C": "Pimpinan Unit Pelaksana Teknis Eselon Empat Pengawas",
         "D": "Koordinator Kelompok Jabatan Fungsional Madya Satker",
         "E": "Pejabat Pembina Kepegawaian pada instansi pemerintah"
@@ -305,7 +305,7 @@
         "alasan_kunci": "Opsi E merupakan pemegang kewenangan yuridis mutlak penetapan status kepegawaian aparatur. Pejabat Pembina Kepegawaian (Menteri/Kepala Lembaga/Gubernur/Bupati/Walikota) menerbitkan surat keputusan penetapan PNS definitif. Aturan menegaskan kewenangan ini berada di tangan Pejabat Pembina Kepegawaian. Oleh karena itu, opsi E adalah jawaban yang tepat.",
         "bedah_pengecoh": {
           "A": "Merupakan pejabat perbendaharaan yang mengesahkan surat perintah pencairan dana.",
-          "B": "Merupakan pimpinan lembaga penegak hukum tindak pidana korupsi.",
+          "B": "BPKP merupakan aparat pengawasan intern pemerintah dan bukan pejabat pengangkat PNS.",
           "C": "Merupakan pejabat pengawas di tingkat unit operasional terbawah.",
           "D": "Merupakan tenaga ahli fungsional yang menjalankan tugas keahlian profesi."
         },
@@ -317,7 +317,7 @@
       "halaman_sumber": 22,
       "kata_kunci_modul": [
         "Jabatan ASN diisi dari Pegawai ASN (PNS/PPPK)",
-        "Jabatan Manajerial dan Nonmanajerial diutamakan diisi PNS"
+        "Nonmanajerial diutamakan diisi PNS"
       ],
       "topik_materi": "Prioritas Pengisian Jabatan ASN",
       "level_kognitif": "C2 - Pemahaman",
@@ -346,8 +346,8 @@
       "nomor": 12,
       "halaman_sumber": 22,
       "kata_kunci_modul": [
-        "Jabatan ASN tertentu dapat diisi dari",
-        "prajurit Tentara Nasional Indonesia dan anggota Kepolisian Negara Republik Indonesia"
+        "Jabatan ASN tertentu dapat",
+        "prajurit Tentara Nasional Indonesia dan anggota Kepolisian Negara"
       ],
       "topik_materi": "Pengisian Jabatan ASN Tertentu dari TNI Polri",
       "level_kognitif": "C2 - Pemahaman",
@@ -377,27 +377,27 @@
       "halaman_sumber": 22,
       "kata_kunci_modul": [
         "Pegawai ASN (PNS/PPPK) dapat menduduki jabatan",
-        "di lingkungan Tentara Nasional Indonesia (TNI) dan Kepolisian Negara Republik Indonesia"
+        "Nasional Indonesia (TNI) dan Kepolisian Negara Republik Indonesia"
       ],
       "topik_materi": "Resiprokal Jabatan ASN di Lingkungan TNI Polri",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Ketentuan resiprokal dalam Pasal 20 UU Nomor 20 Tahun 2023 mengatur bahwa Pegawai ASN (PNS/PPPK) dapat...",
       "pilihan": {
-        "A": "Menolak instruksi tugas dinas ke luar wilayah kantor kementerian",
-        "B": "Memperoleh kenaikan pangkat otomatis tanpa melalui evaluasi kinerja",
-        "C": "Menjalankan kegiatan bisnis pribadi saat jam operasional kantor dinas",
+        "A": "Memilih penempatan tugas kedinasan sesuai domisili tempat tinggal",
+        "B": "Menduduki jabatan struktural kepemimpinan tanpa seleksi kompetensi",
+        "C": "Memegang status keprajuritan aktif saat menduduki jabatan manajerial",
         "D": "Menduduki jabatan di lingkungan TNI dan Polri sesuai kompetensi",
-        "E": "Mengalihkan status kepemilikan aset sarana kedinasan menjadi pribadi"
+        "E": "Menerima penghasilan ganda dari instansi sipil dan militer sekaligus"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
         "konsep_materi": "**Pegawai ASN (PNS/PPPK) dapat menduduki jabatan di lingkungan Tentara Nasional Indonesia (TNI) dan Kepolisian Negara Republik Indonesia sesuai dengan kompetensi yang dibutuhkan**.",
         "alasan_kunci": "Opsi D merupakan asas mobilitas talenta dua arah antara birokrasi sipil dan institusi keamanan negara. ASN sipil yang memiliki kompetensi teknis manajerial atau fungsional tertentu dapat diperbantukan pada struktur internal TNI/Polri. Regulasi merumuskan hak resiprokal ASN untuk menduduki jabatan di TNI/Polri sesuai kebutuhan. Dengan demikian, opsi D adalah jawaban yang tepat.",
         "bedah_pengecoh": {
-          "A": "Merupakan tindakan pembangkangan kedinasan yang melanggar kewajiban penugasan.",
-          "B": "Merupakan penyimpangan asas meritokrasi kenaikan jenjang kepangkatan.",
-          "C": "Merupakan larangan pemanfaatan jam kedinasan untuk kepentingan keuntungan diri.",
-          "E": "Merupakan tindak penyelewengan pengelolaan barang milik negara yang melanggar hukum."
+          "A": "Penempatan tugas pegawai diatur oleh instansi dan bukan merupakan hak memilih bebas.",
+          "B": "Pengisian jabatan struktural tetap mensyaratkan standar kompetensi dan kualifikasi jabatan.",
+          "C": "Prajurit TNI yang mengisi jabatan ASN di luar penugasan khusus wajib mengundurkan diri dari dinas aktif.",
+          "E": "Prinsip penggajian melarang penerimaan penghasilan ganda dari keuangan negara."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -407,7 +407,7 @@
       "halaman_sumber": 22,
       "kata_kunci_modul": [
         "Pengembangan Talenta dan Karier diselenggarakan berdasarkan",
-        "Sistem Merit melalui manajemen talenta"
+        "Merit melalui manajemen talenta"
       ],
       "topik_materi": "Fondasi Pengembangan Talenta dan Karier",
       "level_kognitif": "C2 - Pemahaman",
@@ -466,8 +466,8 @@
       "nomor": 16,
       "halaman_sumber": 22,
       "kata_kunci_modul": [
-        "tanpa membedakan gender, suku, agama, ras, dan golongan",
-        "Setiap PNS yang memenuhi syarat mempunyai hak yang sama untuk dipromosikan"
+        "membedakan gender, suku, agama, ras, dan golongan",
+        "memenuhi syarat mempunyai hak yang sama untuk dipromosikan"
       ],
       "topik_materi": "Asas Non-Diskriminasi Promosi PNS",
       "level_kognitif": "C2 - Pemahaman",
@@ -556,7 +556,7 @@
       "nomor": 19,
       "halaman_sumber": 22,
       "kata_kunci_modul": [
-        "dilakukan oleh Pejabat Pembina Kepegawaian",
+        "dilakukan oleh Pejabat Pembina",
         "tim penilai kinerja PNS pada Instansi Pemerintah"
       ],
       "topik_materi": "Peran Tim Penilai Kinerja dalam Promosi",
@@ -586,7 +586,7 @@
       "nomor": 20,
       "halaman_sumber": 22,
       "kata_kunci_modul": [
-        "Jabatan Manajerial dan Jabatan Nonmanajerial tertentu",
+        "Jabatan Manajerial dan Jabatan",
         "dapat diisi dari PPPK"
       ],
       "topik_materi": "Fleksibilitas Pengisian Jabatan dari PPPK",
@@ -594,20 +594,20 @@
       "pertanyaan": "Ketentuan mengenai pengisian formasi jabatan tertentu dari unsur Pegawai Pemerintah dengan Perjanjian Kerja (PPPK) adalah...",
       "pilihan": {
         "A": "PPPK dapat mengisi Jabatan Manajerial dan Nonmanajerial tertentu",
-        "B": "PPPK dilarang secara mutlak menduduki semua jenis jabatan pemerintah",
-        "C": "PPPK hanya diperbolehkan bekerja pada unit kerja distrik perbatasan",
-        "D": "PPPK otomatis diangkat menjadi pimpinan tinggi madya di kementerian",
-        "E": "PPPK hanya dapat ditugaskan sebagai staf pelaksana kebersihan gedung"
+        "B": "PPPK dipersyaratkan menduduki seluruh jabatan pimpinan kementerian",
+        "C": "PPPK dialokasikan bertugas pada unit kerja pelayanan khusus daerah",
+        "D": "PPPK berhak diangkat langsung menjadi pejabat pimpinan tinggi utama",
+        "E": "PPPK ditempatkan pada posisi pendukung teknis operasional lapangan"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
         "konsep_materi": "Ketentuan undang-undang mengatur bahwa **Jabatan Manajerial dan Jabatan Nonmanajerial tertentu dapat diisi dari PPPK** sesuai kebutuhan organisasi.",
         "alasan_kunci": "Opsi A merupakan wujud fleksibilitas pengadaan tenaga ahli profesional dalam birokrasi. Pemerintah membuka peluang bagi PPPK menduduki posisi fungsional maupun manajerial tertentu guna mempercepat pencapaian target strategis. Aturan menyatakan jabatan manajerial dan nonmanajerial tertentu dapat diisi PPPK. Oleh karena itu, opsi A adalah pilihan yang tepat.",
         "bedah_pengecoh": {
-          "B": "Merupakan penafsiran keliru yang mengabaikan kedudukan PPPK sebagai bagian resmi ASN.",
-          "C": "Merupakan pembatasan geografis fiktif yang tidak berdasar pada ketentuan hukum.",
-          "D": "Merupakan simplifikasi keliru karena pengisian JPT madya memerlukan syarat ketat.",
-          "E": "Merupakan persepsi diskriminatif yang mendegradasi profesionalitas keahlian PPPK."
+          "B": "Jabatan pimpinan kementerian diutamakan bagi PNS dan diisi melalui seleksi ketat.",
+          "C": "PPPK dapat bertugas di instansi pusat maupun daerah sesuai formasi kebutuhan yang ditetapkan.",
+          "D": "Pengangkatan JPT Utama mensyaratkan seleksi terbuka dan persetujuan Presiden.",
+          "E": "PPPK mengisi jabatan fungsional dan pimpinan tertentu, bukan terbatas pada tenaga pendukung."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -647,27 +647,27 @@
       "halaman_sumber": 23,
       "kata_kunci_modul": [
         "pengisian jabatan pimpinan tinggi pratama",
-        "dilakukan secara terbuka dan kompetitif pada tingkat nasional atau antar-kabupaten/kota dalam 1 (satu) provinsi"
+        "kompetitif pada tingkat nasional atau antar-kabupaten/kota dalam 1 (satu)"
       ],
       "topik_materi": "Lingkup Seleksi JPT Pratama",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Mekanisme pengisian jabatan pimpinan tinggi pratama dilaksanakan secara terbuka dan kompetitif pada lingkup...",
       "pilihan": {
-        "A": "Tingkat rukun tetangga dan perkumpulan aparatur lokal",
+        "A": "Lingkungan internal satu subbagian satuan kerja operasional",
         "B": "Internal kelompok jabatan fungsional pelaksana kantor",
-        "C": "Hanya di lingkungan staf khusus pimpinan lembaga pusat",
+        "C": "Lingkungan unit kerja penunjang administratif sekretariat daerah",
         "D": "Tingkat nasional atau antar-kabupaten/kota dalam satu provinsi",
-        "E": "Antar-asosiasi lembaga bantuan sosial kemasyarakatan"
+        "E": "Internal kelompok jabatan fungsional pelaksana teknis wilayah"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
         "konsep_materi": "**Pengisian jabatan pimpinan tinggi pratama dilakukan secara terbuka dan kompetitif pada tingkat nasional atau antar-kabupaten/kota dalam 1 (satu) provinsi**.",
         "alasan_kunci": "Opsi D merupakan fleksibilitas jangkauan seleksi bagi eselon II/pratama yang diatur regulasi. Instansi dapat menjaring talenta dari seluruh tanah air atau memfokuskan mobilitas antardaerah dalam satu provinsi. Ketentuan hukum menegaskan seleksi pratama dapat berskala nasional atau antardaerah satu provinsi. Dengan demikian, opsi D adalah jawaban yang tepat.",
         "bedah_pengecoh": {
-          "A": "Merupakan struktur komunitas masyarakat dan bukan ranah seleksi birokrasi.",
+          "A": "Tingkat subbagian terlalu sempit untuk lingkup seleksi terbuka JPT Pratama.",
           "B": "Merupakan lingkup promosi internal kelompok fungsional teknis tingkat pertama.",
-          "C": "Merupakan lingkup staf penasihat non-karier yang tidak berstatus JPT pratama.",
-          "E": "Merupakan lembaga swadaya masyarakat di luar manajemen kepegawaian ASN."
+          "C": "Seleksi JPT Pratama terbuka luas mencakup skala nasional atau antardaerah dalam satu provinsi.",
+          "E": "Kelompok fungsional teknis merupakan jenjang profesi dan bukan batasan yurisdiksi JPT."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -677,7 +677,7 @@
       "halaman_sumber": 23,
       "kata_kunci_modul": [
         "Jabatan pimpinan tinggi utama dan madya tertentu",
-        "dapat berasal dari kalangan non-PNS dengan persetujuan Presiden"
+        "kalangan non-PNS dengan persetujuan Presiden"
       ],
       "topik_materi": "Pengisian JPT Tertentu dari Kalangan Non-PNS",
       "level_kognitif": "C2 - Pemahaman",
@@ -706,8 +706,8 @@
       "nomor": 24,
       "halaman_sumber": 23,
       "kata_kunci_modul": [
-        "diisi oleh prajurit TNI dan anggota Kepolisian Negara Republik Indonesia (Polri)",
-        "setelah mengundurkan diri dari dinas aktif"
+        "diisi oleh prajurit TNI dan anggota",
+        "setelah mengundurkan diri dari"
       ],
       "topik_materi": "Syarat TNI Polri Masuk JPT Umum",
       "level_kognitif": "C3 - Aplikasi",
@@ -736,8 +736,8 @@
       "nomor": 25,
       "halaman_sumber": 23,
       "kata_kunci_modul": [
-        "terlebih dahulu membentuk panitia seleksi Instansi Pemerintah",
-        "unsur internal maupun eksternal Instansi Pemerintah"
+        "terlebih dahulu membentuk panitia seleksi Instansi",
+        "unsur internal maupun eksternal Instansi"
       ],
       "topik_materi": "Komposisi Panitia Seleksi JPT",
       "level_kognitif": "C2 - Pemahaman",
@@ -745,19 +745,19 @@
       "pilihan": {
         "A": "Seluruh pejabat eselon empat unit administrasi dan kepegawaian",
         "B": "Kombinasi berimbang unsur internal dan eksternal instansi pemerintah",
-        "C": "Mantan terpidana perkara korupsi yang telah menjalani pidana",
-        "D": "Pihak perwakilan vendor penyedia jasa teknologi komersial",
-        "E": "Staf honorer yang memiliki masa kerja lebih dari sepuluh tahun"
+        "C": "Akademisi serta pakar independen bidang manajemen kepegawaian",
+        "D": "Pejabat struktural dari instansi pembina kepegawaian pusat",
+        "E": "Praktisi profesional bidang sumber daya manusia aparatur"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
         "konsep_materi": "Pengisian jabatan pimpinan tinggi dilakukan oleh PPK dengan terlebih dahulu membentuk **panitia seleksi yang terdiri dari unsur internal maupun eksternal Instansi Pemerintah**.",
         "alasan_kunci": "Opsi B merupakan kaidah objektivitas dan independensi penilaian seleksi jabatan birokrasi. Kehadiran pakar eksternal (akademisi/praktisi) mencegah potensi konflik kepentingan di lingkungan internal birokrasi. Aturan menyebutkan pansel terdiri dari unsur internal dan eksternal instansi. Oleh karena itu, opsi B adalah pilihan yang benar.",
         "bedah_pengecoh": {
-          "A": "Merupakan pejabat tingkat pengawas yang tidak lazim menguji calon pimpinan tinggi.",
-          "C": "Merupakan pihak yang memiliki catatan integritas cacat dan dilarang menjadi pansel.",
-          "D": "Merupakan rekanan bisnis pengadaan yang tidak berwenang menguji aparat.",
-          "E": "Merupakan staf non-ASN yang tidak memiliki kompetensi legal penilai JPT."
+          "A": "Pansel JPT mensyaratkan kombinasi unsur internal dan eksternal, bukan seluruhnya eselon empat.",
+          "C": "Meskipun akademisi dapat dilibatkan, rumusan resmi mewajibkan keterpaduan unsur internal dan eksternal.",
+          "D": "Unsur eksternal tidak dibatasi hanya dari instansi pembina pusat semata.",
+          "E": "Praktisi profesional dapat menjadi bagian eksternal namun rumusan pokok adalah unsur internal-eksternal."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -766,7 +766,7 @@
       "nomor": 26,
       "halaman_sumber": 23,
       "kata_kunci_modul": [
-        "panitia seleksi Instansi Pemerintah",
+        "panitia seleksi Instansi",
         "unsur internal maupun eksternal"
       ],
       "topik_materi": "Koordinasi Pembentukan Pansel JPT",
@@ -796,8 +796,8 @@
       "nomor": 27,
       "halaman_sumber": 23,
       "kata_kunci_modul": [
-        "kalangan non-PNS dengan persetujuan Presiden",
-        "Keputusan Presiden"
+        "kalangan non-PNS dengan persetujuan Presiden yang pengisiannya",
+        "ditetapkan dalam Keputusan"
       ],
       "topik_materi": "Pengecualian Seleksi Terbuka bagi Instansi Merit",
       "level_kognitif": "C3 - Aplikasi",
@@ -826,8 +826,8 @@
       "nomor": 28,
       "halaman_sumber": 23,
       "kata_kunci_modul": [
-        "prajurit TNI dan anggota Kepolisian",
-        "mengundurkan diri dari dinas aktif"
+        "prajurit TNI dan anggota",
+        "mengundurkan diri dari"
       ],
       "topik_materi": "Kewajiban Pelaporan Berkala Sistem Merit",
       "level_kognitif": "C2 - Pemahaman",
@@ -856,8 +856,8 @@
       "nomor": 29,
       "halaman_sumber": 23,
       "kata_kunci_modul": [
-        "Peraturan Menteri Pendayagunaan Aparatur Negara-Reformasi Birokrasi Nomor 15 Tahun 2019",
-        "Pengisian Jabatan Pimpinan Tinggi Secara Terbuka dan Kompetitif"
+        "Menteri Pendayagunaan Aparatur Negara-Reformasi Birokrasi Nomor 15",
+        "Pengisian Jabatan Pimpinan Tinggi Secara Terbuka dan"
       ],
       "topik_materi": "Regulasi Teknis Pengisian JPT Terbuka",
       "level_kognitif": "C2 - Pemahaman",
@@ -886,7 +886,7 @@
       "nomor": 30,
       "halaman_sumber": 23,
       "kata_kunci_modul": [
-        "jabatan pimpinan tinggi di lingkungan Instansi Pemerintah tertentu",
+        "jabatan pimpinan tinggi di lingkungan Instansi Pemerintah",
         "dapat diisi oleh prajurit TNI dan anggota Polri"
       ],
       "topik_materi": "Penugasan TNI Polri di Instansi Tertentu",
@@ -916,8 +916,8 @@
       "nomor": 31,
       "halaman_sumber": 24,
       "kata_kunci_modul": [
-        "panitia seleksi Instansi Pemerintah memilih 3 (tiga) nama calon",
-        "Pejabat Pembina Kepegawaian mengusulkan 3 (tiga) nama calon sebagaimana dimaksud kepada Presiden"
+        "seleksi Instansi Pemerintah memilih 3 (tiga) nama calon",
+        "Kepegawaian mengusulkan 3 (tiga) nama calon sebagaimana dimaksud"
       ],
       "topik_materi": "Jumlah Calon JPT Utama Madya ke Presiden",
       "level_kognitif": "C2 - Pemahaman",
@@ -976,7 +976,7 @@
       "nomor": 33,
       "halaman_sumber": 24,
       "kata_kunci_modul": [
-        "pengisian jabatan pimpinan tinggi pratama dilakukan oleh Pejabat Pembina Kepegawaian",
+        "pengisian jabatan pimpinan tinggi pratama dilakukan oleh Pejabat",
         "melalui Pejabat yang Berwenang"
       ],
       "topik_materi": "Mekanisme Pengisian JPT Pratama Pusat",
@@ -1037,7 +1037,7 @@
       "halaman_sumber": 24,
       "kata_kunci_modul": [
         "pengisian jabatan pimpinan tinggi madya di tingkat provinsi",
-        "usulkan kepada Presiden melalui Menteri Dalam Negeri (Mendagri)"
+        "usulkan kepada Presiden melalui"
       ],
       "topik_materi": "Alur Pengusulan Sekda Provinsi / JPT Madya Daerah",
       "level_kognitif": "C3 - Aplikasi",
@@ -1066,8 +1066,8 @@
       "nomor": 36,
       "halaman_sumber": 24,
       "kata_kunci_modul": [
-        "Presiden akan memilih 1 (satu) nama dari 3 (tiga) nama calon yang disampaikan",
-        "ditetapkan sebagai pejabat pimpinan tinggi madya"
+        "memilih 1 (satu) nama dari 3 (tiga) nama calon yang disampaikan",
+        "ditetapkan sebagai pejabat pimpinan tinggi"
       ],
       "topik_materi": "Penetapan Akhir JPT Madya Provinsi",
       "level_kognitif": "C2 - Pemahaman",
@@ -1096,8 +1096,8 @@
       "nomor": 37,
       "halaman_sumber": 24,
       "kata_kunci_modul": [
-        "pengisian jabatan pimpinan tinggi pratama dilakukan oleh Pejabat Pembina Kepegawaian",
-        "memilih 1 (satu) dari 3 (tiga) nama calon untuk ditetapkan dan dilantik"
+        "pengisian jabatan pimpinan tinggi pratama dilakukan oleh Pejabat",
+        "memilih 1 (satu) dari 3 (tiga) nama calon"
       ],
       "topik_materi": "Penetapan JPT Pratama di Daerah",
       "level_kognitif": "C2 - Pemahaman",
@@ -1126,7 +1126,7 @@
       "nomor": 38,
       "halaman_sumber": 24,
       "kata_kunci_modul": [
-        "pejabat yang memiliki kewenangan menetapkan pengangkatan, pemindahan, dan pemberhentian pegawai ASN",
+        "kewenangan menetapkan pengangkatan, pemindahan, dan pemberhentian",
         "Pejabat yang Berwenang"
       ],
       "topik_materi": "Definisi Pejabat yang Berwenang (PyB)",
@@ -1156,8 +1156,8 @@
       "nomor": 39,
       "halaman_sumber": 24,
       "kata_kunci_modul": [
-        "panitia seleksi memilih 3 (tiga) nama untuk setiap 1 (satu) lowongan",
-        "memperhatikan pertimbangan Pejabat yang Berwenang"
+        "panitia seleksi memilih 3 (tiga) nama untuk setiap 1",
+        "memperhatikan pertimbangan Pejabat yang"
       ],
       "topik_materi": "Fungsi Pertimbangan PyB dalam Seleksi Pratama",
       "level_kognitif": "C3 - Aplikasi",
@@ -1216,8 +1216,8 @@
       "nomor": 41,
       "halaman_sumber": 25,
       "kata_kunci_modul": [
-        "memimpin sekretariat daerah kabupaten/kota",
-        "sebelum ditetapkan oleh bupati/walikota dikoordinasikan dengan gubernur"
+        "memimpin sekretariat",
+        "dikoordinasikan dengan gubernur"
       ],
       "topik_materi": "Koordinasi Penetapan Sekda Kab/Kota",
       "level_kognitif": "C3 - Aplikasi",
@@ -1276,7 +1276,7 @@
       "nomor": 43,
       "halaman_sumber": 25,
       "kata_kunci_modul": [
-        "penggantian pejabat pimpinan tinggi utama dan madya sebelum 2 (dua) tahun",
+        "penggantian pejabat pimpinan tinggi utama dan madya sebelum 2",
         "setelah mendapat persetujuan Presiden"
       ],
       "topik_materi": "Pengecualian Penggantian JPT Utama Madya Sebelum 2 Tahun",
@@ -1337,7 +1337,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "Instansi Pemerintah wajib menyusun kebutuhan jumlah dan jenis jabatan",
-        "berdasarkan analisis jabatan dan analisis beban kerja"
+        "jabatan dan analisis beban kerja"
       ],
       "topik_materi": "Dasar Penyusunan Kebutuhan PPPK",
       "level_kognitif": "C2 - Pemahaman",
@@ -1367,7 +1367,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "Peraturan Presiden Nomor 38 Tahun 2020",
-        "Jenis Jabatan yang Dapat Diisi oleh Pegawai Pemerintah dengan Perjanjian Kerja"
+        "Dapat Diisi oleh Pegawai Pemerintah dengan Perjanjian Kerja"
       ],
       "topik_materi": "Dasar Hukum Jenis Jabatan PPPK",
       "level_kognitif": "C2 - Pemahaman",
@@ -1397,7 +1397,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "Penyusunan kebutuhan jumlah PPPK dilakukan untuk jangka waktu",
-        "minimal 5 (lima) tahun yang diperinci per 1 (satu) tahun"
+        "(lima) tahun yang diperinci per 1 (satu) tahun"
       ],
       "topik_materi": "Jangka Waktu Perencanaan Kebutuhan PPPK",
       "level_kognitif": "C2 - Pemahaman",
@@ -1427,7 +1427,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "Pengadaan calon PPPK dilakukan melalui tahapan",
-        "perencanaan, pengumuman lowongan, pelamaran, seleksi, pengumuman hasil seleksi, dan pengangkatan"
+        "perencanaan, pengumuman lowongan, pelamaran, seleksi, pengumuman hasil"
       ],
       "topik_materi": "Urutan Tahapan Pengadaan PPPK",
       "level_kognitif": "C4 - Analisis",
@@ -1456,7 +1456,7 @@
       "nomor": 49,
       "halaman_sumber": 25,
       "kata_kunci_modul": [
-        "Pengangkatan calon PPPK ditetapkan dengan keputusan Pejabat Pembina Kepegawaian",
+        "Pengangkatan calon PPPK ditetapkan dengan keputusan Pejabat Pembina",
         "masa perjanjian kerja paling singkat 1 (satu) tahun"
       ],
       "topik_materi": "Masa Minimum Perjanjian Kerja PPPK",
@@ -1486,8 +1486,8 @@
       "nomor": 50,
       "halaman_sumber": 25,
       "kata_kunci_modul": [
-        "penerimaannya dilakukan melalui penilaian secara objektif",
-        "kompetensi, kualifikasi, kebutuhan instansi pemerintah"
+        "melalui penilaian secara objektif",
+        "kompetensi, kualifikasi, kebutuhan"
       ],
       "topik_materi": "Prinsip Penilaian Objektif PPPK",
       "level_kognitif": "C2 - Pemahaman",
@@ -1517,7 +1517,7 @@
       "halaman_sumber": 26,
       "kata_kunci_modul": [
         "PPPK tidak dapat diangkat secara otomatis menjadi calon PNS",
-        "harus mengikuti semua proses seleksi yang dilaksanakan bagi calon PNS"
+        "harus mengikuti semua proses seleksi yang"
       ],
       "topik_materi": "Ketentuan Pengangkatan PPPK Menjadi PNS",
       "level_kognitif": "C2 - Pemahaman",
@@ -1607,7 +1607,7 @@
       "nomor": 54,
       "halaman_sumber": 26,
       "kata_kunci_modul": [
-        "Pemutusan hubungan perjanjian kerja PPPK dilakukan dengan hormat tidak atas permintaan sendiri",
+        "Pemutusan hubungan perjanjian kerja PPPK dilakukan dengan hormat tidak atas",
         "tidak memenuhi target kinerja yang telah disepakati"
       ],
       "topik_materi": "Pemutusan PPPK Karena Target Kinerja",
@@ -1668,7 +1668,7 @@
       "halaman_sumber": 26,
       "kata_kunci_modul": [
         "Pemutusan hubungan perjanjian kerja PPPK dilakukan tidak dengan hormat",
-        "melakukan tindak pidana kejahatan jabatan atau tindak pidana kejahatan yang ada hubungannya dengan jabatan"
+        "jabatan atau tindak pidana kejahatan yang ada hubungannya dengan jabatan"
       ],
       "topik_materi": "Pemutusan PPPK Kejahatan Jabatan",
       "level_kognitif": "C2 - Pemahaman",
@@ -1697,7 +1697,7 @@
       "nomor": 57,
       "halaman_sumber": 26,
       "kata_kunci_modul": [
-        "Pemutusan hubungan perjanjian kerja PPPK dilakukan dengan hormat tidak atas permintaan sendiri",
+        "Pemutusan hubungan perjanjian kerja PPPK dilakukan dengan hormat tidak atas",
         "melakukan pelanggaran disiplin PPPK tingkat berat"
       ],
       "topik_materi": "Pemutusan PPPK Pelanggaran Disiplin Berat",
@@ -1727,8 +1727,8 @@
       "nomor": 58,
       "halaman_sumber": 26,
       "kata_kunci_modul": [
-        "tindak pidana dengan pidana penjara paling singkat 2 (dua) tahun",
-        "tindak pidana tersebut dilakukan dengan tidak berencana"
+        "dengan pidana penjara paling singkat 2 (dua) tahun",
+        "tindak pidana tersebut dilakukan"
       ],
       "topik_materi": "Pemutusan PPPK Pidana Tidak Berencana",
       "level_kognitif": "C4 - Analisis",
@@ -1757,7 +1757,7 @@
       "nomor": 59,
       "halaman_sumber": 26,
       "kata_kunci_modul": [
-        "pemutusan hubungan perjanjian kerja",
+        "hubungan perjanjian kerja",
         "tidak dengan hormat"
       ],
       "topik_materi": "Pemutusan PPPK Pidana Berencana",
@@ -1818,7 +1818,7 @@
       "halaman_sumber": 27,
       "kata_kunci_modul": [
         "Perlindungan berupa bantuan hukum dilakukan dengan",
-        "pemberian bantuan hukum dalam perkara yang dihadapi di pengadilan terkait pelaksanaan tugasnya"
+        "hukum dalam perkara yang dihadapi di pengadilan terkait pelaksanaan tugasnya"
       ],
       "topik_materi": "Ruang Lingkup Bantuan Hukum PPPK",
       "level_kognitif": "C2 - Pemahaman",
@@ -1848,7 +1848,7 @@
       "halaman_sumber": 27,
       "kata_kunci_modul": [
         "ketua, wakil ketua, dan anggota Mahkamah Konstitusi",
-        "diberhentikan sementara dari jabatannya, dan tidak kehilangan status sebagai PNS"
+        "jabatannya, dan tidak kehilangan status sebagai PNS"
       ],
       "topik_materi": "Status PNS Diangkat Pimpinan Lembaga Negara",
       "level_kognitif": "C2 - Pemahaman",
@@ -1877,8 +1877,8 @@
       "nomor": 63,
       "halaman_sumber": 27,
       "kata_kunci_modul": [
-        "Apabila pegawai ASN dari PNS tersebut tidak menjabat lagi sebagai pejabat negara",
-        "diaktifkan kembali sebagai PNS"
+        "PNS tersebut tidak menjabat lagi sebagai pejabat negara",
+        "diaktifkan kembali"
       ],
       "topik_materi": "Pengaktifan Kembali PNS Pejabat Negara",
       "level_kognitif": "C3 - Aplikasi",
@@ -1908,7 +1908,7 @@
       "halaman_sumber": 27,
       "kata_kunci_modul": [
         "Dalam hal tidak tersedia lowongan jabatan",
-        "dalam waktu paling lama 5 (lima) tahun PNS yang bersangkutan diberhentikan dengan hormat"
+        "waktu paling lama 5 (lima) tahun PNS yang bersangkutan diberhentikan dengan"
       ],
       "topik_materi": "Batas Waktu Lowongan Jabatan Mantan Pejabat Negara",
       "level_kognitif": "C2 - Pemahaman",
@@ -1937,8 +1937,8 @@
       "nomor": 65,
       "halaman_sumber": 27,
       "kata_kunci_modul": [
-        "PNS yang mencalonkan diri atau dicalonkan menjadi Presiden dan Wakil Presiden",
-        "wajib menyatakan pengunduran diri secara tertulis sebagai PNS sejak ditetapkan sebagai calon"
+        "PNS yang mencalonkan diri atau dicalonkan menjadi Presiden dan Wakil",
+        "wajib menyatakan pengunduran diri secara tertulis sebagai PNS sejak"
       ],
       "topik_materi": "Kewajiban Pengunduran Diri Calon Pilpres/Pilkada/Legislatif",
       "level_kognitif": "C3 - Aplikasi",
@@ -1967,8 +1967,8 @@
       "nomor": 66,
       "halaman_sumber": 27,
       "kata_kunci_modul": [
-        "Kepala perwakilan RI di luar negeri yang berkedudukan sebagai Duta Besar Luar Biasa dan Berkuasa Penuh",
-        "diberhentikan sementara dari jabatannya, dan tidak kehilangan status sebagai PNS"
+        "Kepala perwakilan RI di luar negeri yang berkedudukan sebagai Duta Besar",
+        "jabatannya, dan tidak kehilangan status sebagai PNS"
       ],
       "topik_materi": "Status PNS Diangkat Duta Besar Luar Biasa",
       "level_kognitif": "C2 - Pemahaman",
@@ -2029,7 +2029,7 @@
       "halaman_sumber": 27,
       "kata_kunci_modul": [
         "wajib menyatakan pengunduran diri secara tertulis sebagai PNS",
-        "sejak ditetapkan sebagai calon"
+        "ditetapkan sebagai calon"
       ],
       "topik_materi": "Titik Waktu Pengunduran Diri PNS Kontestasi Politik",
       "level_kognitif": "C2 - Pemahaman",
@@ -2059,7 +2059,7 @@
       "halaman_sumber": 27,
       "kata_kunci_modul": [
         "ketua, wakil ketua, dan anggota BPK",
-        "diberhentikan sementara dari jabatannya, dan tidak kehilangan status sebagai PNS"
+        "jabatannya, dan tidak kehilangan status sebagai PNS"
       ],
       "topik_materi": "Status PNS Menjadi Anggota BPK",
       "level_kognitif": "C3 - Aplikasi",
@@ -2095,21 +2095,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Tujuan utama pemberian perlindungan jaminan bantuan hukum kepada aparatur sipil negara adalah...",
       "pilihan": {
-        "A": "Menjadikan seluruh aparatur sipil kebal terhadap proses hukum pidana",
-        "B": "Menghindarkan pejabat dari kewajiban menyampaikan laporan perpajakan",
+        "A": "Memberikan pembebasan dari segala bentuk pengawasan internal dinas",
+        "B": "Meniadakan kewajiban pertanggungjawaban administratif bagi aparatur",
         "C": "Memberikan pendampingan hukum atas kebijakan dinas yang sah di pengadilan",
-        "D": "Membiayai pembelaan perkara kejahatan korupsi terencana pejabat dinas",
-        "E": "Menghentikan seluruh proses penyidikan perkara tindak pidana umum"
+        "D": "Melindungi pegawai dari kewajiban mematuhi putusan peradilan resmi",
+        "E": "Menjamin kekebalan hukum pegawai atas pelanggaran peraturan disiplin"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
         "konsep_materi": "Bantuan hukum disediakan guna memberikan rasa aman dan pendampingan profesi bagi ASN dalam **menghadapi perkara hukum di pengadilan terkait pelaksanaan tugas kedinasannya yang sah**.",
         "alasan_kunci": "Opsi C merupakan esensi perlindungan hukum aparatur agar pegawai tidak ragu dalam mengambil keputusan kedinasan yang sesuai regulasi. Negara mendampingi aparaturnya dari gugatan hukum pihak luar yang mempermasalahkan pelaksanaan tugas resmi. Regulasi menyebutkan bantuan hukum diberikan terkait pelaksanaan tugasnya. Oleh karena itu, opsi C adalah jawaban yang tepat.",
         "bedah_pengecoh": {
-          "A": "Merupakan asas imunitas keliru yang bertentangan dengan prinsip persamaan di muka hukum.",
-          "B": "Merupakan pelanggaran kewajiban pajak yang tidak dilindungi bantuan hukum.",
-          "D": "Merupakan larangan mutlak penggunaan dana negara membela kejahatan korupsi.",
-          "E": "Merupakan intervensi ilegal atas proses penegakan hukum pro-justitia."
+          "A": "Bantuan hukum tidak membebaskan pegawai dari pengawasan akuntabilitas dinas.",
+          "B": "Aparatur tetap wajib mempertanggungjawabkan pelaksanaan anggaran dan tugas kedinasan.",
+          "D": "Setiap aparatur wajib patuh dan taat terhadap putusan pengadilan yang telah berkekuatan hukum tetap.",
+          "E": "Pelanggaran disiplin tetap diproses sesuai mekanisme hukuman disiplin PNS yang berlaku."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -2119,7 +2119,7 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "antar-kabupaten/kota dalam satu provinsi ditetapkan oleh Gubernur",
-        "setelah memperoleh pertimbangan kepala Badan Kepegawaian Negara (BKN)"
+        "memperoleh pertimbangan kepala Badan Kepegawaian Negara (BKN)"
       ],
       "topik_materi": "Kewenangan Mutasi Antar-Kabupaten/Kota Satu Provinsi",
       "level_kognitif": "C2 - Pemahaman",
@@ -2149,7 +2149,7 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "antar-kabupaten/kota antar-provinsi dan antar-provinsi",
-        "ditetapkan oleh Menteri PAN-RB setelah memperoleh pertimbangan kepala BKN"
+        "Menteri PAN-RB setelah memperoleh pertimbangan kepala BKN"
       ],
       "topik_materi": "Kewenangan Mutasi Antar-Provinsi",
       "level_kognitif": "C2 - Pemahaman",
@@ -2209,7 +2209,7 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "Mutasi PNS dilakukan dengan memperhatikan prinsip",
-        "larangan konflik kepentingan (Peraturan BKN Nomor 5 Tahun 2019)"
+        "kepentingan (Peraturan BKN Nomor 5 Tahun 2019)"
       ],
       "topik_materi": "Prinsip Larangan Konflik Kepentingan Mutasi",
       "level_kognitif": "C2 - Pemahaman",
@@ -2239,7 +2239,7 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "tunjangan kinerja (dibayarkan sesuai pencapaian kinerja)",
-        "tunjangan kemahalan (dibayarkan sesuai dengan tingkat kemahalan berdasarkan indeks harga di daerah masing-masing)"
+        "kemahalan (dibayarkan sesuai dengan tingkat kemahalan berdasarkan indeks"
       ],
       "topik_materi": "Kriteria Pembayaran Tunjangan Kinerja dan Kemahalan",
       "level_kognitif": "C2 - Pemahaman",
@@ -2268,7 +2268,7 @@
       "nomor": 76,
       "halaman_sumber": 28,
       "kata_kunci_modul": [
-        "diberikan penghargaan berupa",
+        "penghargaan berupa",
         "tanda kehormatan",
         "kenaikan pangkat istimewa",
         "kesempatan prioritas untuk pengembangan kompetensi"
@@ -2331,27 +2331,27 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "Setiap PNS dapat dimutasi tugas dan/atau lokasi dalam 1 (satu) Instansi Pusat",
-        "ke Perwakilan Negara Kesatuan Republik Indonesia di luar negeri"
+        "ke Perwakilan Negara Kesatuan Republik"
       ],
       "topik_materi": "Ruang Lingkup Mobilitas Mutasi PNS",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Ketentuan mengenai ruang lingkup mutasi tugas dan/atau lokasi bagi Pegawai Negeri Sipil meliputi...",
       "pilihan": {
-        "A": "Hanya diizinkan berpindah tugas antar-meja kerja dalam satu seksi",
-        "B": "Dilarang keras dipindahkan keluar dari pulau tempat kelahiran",
-        "C": "Hanya berlaku bagi pegawai yang memiliki hubungan kekerabatan",
+        "A": "Terbatas pada perpindahan antar-seksi dalam satu kantor operasional",
+        "B": "Diprioritaskan pada wilayah yang memiliki jarak terdekat dari domisili",
+        "C": "Dibatasi pada satuan kerja yang membidangi urusan administrasi umum",
         "D": "Antar-instansi pusat, daerah, hingga kantor perwakilan RI luar negeri",
-        "E": "Wajib membayar sejumlah biaya administrasi perpindahan satker"
+        "E": "Memerlukan persetujuan dari seluruh rekan sejawat dalam unit kerja"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
         "konsep_materi": "PNS dapat **dimutasi tugas dan/atau lokasi dalam satu Instansi Pusat, antar-Instansi Pusat, Instansi Daerah, antar-Pusat dan Daerah, hingga ke Perwakilan NKRI di luar negeri**.",
         "alasan_kunci": "Opsi D merupakan perwujudan aparatur sipil sebagai perekat keutuhan Negara Kesatuan Republik Indonesia. Mobilitas penugasan terbuka fleksibel menjangkau seluruh instansi pemerintah baik di dalam negeri maupun pada kedutaan/konsulat luar negeri. Aturan menegaskan ruang lingkup mutasi hingga perwakilan RI luar negeri. Oleh karena itu, opsi D adalah jawaban yang benar.",
         "bedah_pengecoh": {
-          "A": "Merupakan pembatasan mikro ruangan kerja yang mengerdilkan mobilitas dinas.",
-          "B": "Merupakan sekat kedaerahan yang bertentangan dengan kesediaan penempatan NKRI.",
-          "C": "Merupakan pertimbangan nepotisme terlarang dalam tata kelola kepegawaian.",
-          "E": "Merupakan pembebanan biaya ilegal yang dilarang dalam prosedur mutasi."
+          "A": "Ruang lingkup mutasi ASN sangat luas, mencakup antar-instansi pusat, daerah, hingga luar negeri.",
+          "B": "Penempatan mutasi didasarkan pada kebutuhan organisasi instansi, bukan pertimbangan jarak domisili.",
+          "C": "Mutasi berlaku untuk seluruh jenis jabatan dan unit kerja, tidak terbatas pada administrasi umum.",
+          "E": "Mutasi merupakan wewenang manajemen PPK dan tidak memerlukan persetujuan rekan kerja."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -2361,7 +2361,7 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "Mutasi PNS",
-        "dalam satu Instansi Pusat atau Instansi Daerah dilakukan oleh Pejabat Pembina Kepegawaian"
+        "dalam satu Instansi Pusat atau Instansi Daerah dilakukan oleh Pejabat"
       ],
       "topik_materi": "Wewenang Mutasi Internal Satu Instansi",
       "level_kognitif": "C2 - Pemahaman",
@@ -2371,7 +2371,7 @@
         "B": "Kepala kantor perwakilan kementerian keuangan daerah",
         "C": "Koordinator perhimpunan serikat pekerja honorer kementerian",
         "D": "Ketua komite tetap dewan penasihat tata kelola swasta",
-        "E": "Inspektur pembina pencegahan korupsi tingkat kota"
+        "E": "Kepala Badan Kepegawaian dan Pengembangan SDM Daerah"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
@@ -2381,7 +2381,7 @@
           "B": "Merupakan instansi vertikal kementerian keuangan di wilayah provinsi/kota.",
           "C": "Merupakan kelompok pekerja lepas di luar jalur komando pembina kepegawaian.",
           "D": "Merupakan entitas nonpemerintah tanpa mandat yuridis tata kelola aparatur.",
-          "E": "Merupakan pejabat pengawas daerah yang menjalankan fungsi pemeriksaan."
+          "E": "Kepala BKP-SDM merupakan pelaksana teknis operasional kepegawaian dan bukan pemegang kewenangan PPK."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -2420,8 +2420,8 @@
       "nomor": 81,
       "halaman_sumber": 29,
       "kata_kunci_modul": [
-        "Pegawai ASN berhimpun dalam wadah korps profesi Pegawai ASN Republik Indonesia",
-        "menjaga kode etik profesi dan standar pelayanan profesi ASN"
+        "Pegawai ASN berhimpun dalam wadah korps profesi Pegawai ASN Republik",
+        "menjaga kode etik profesi dan standar pelayanan"
       ],
       "topik_materi": "Tujuan Wadah Korps Profesi ASN",
       "level_kognitif": "C2 - Pemahaman",
@@ -2451,27 +2451,27 @@
       "halaman_sumber": 29,
       "kata_kunci_modul": [
         "Sistem Informasi ASN",
-        "diselenggarakan secara nasional dan terintegrasi antar-Instansi Pemerintah"
+        "secara nasional dan terintegrasi antar-Instansi Pemerintah"
       ],
       "topik_materi": "Karakteristik Sistem Informasi ASN",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Karakteristik penyelenggaraan Sistem Informasi ASN yang diwajibkan oleh undang-undang adalah...",
       "pilihan": {
         "A": "Diselenggarakan secara nasional dan terintegrasi antar-instansi",
-        "B": "Dikelola terpisah-pisah oleh masing-masing unit tanpa koordinasi",
+        "B": "Dikelola secara parsial oleh masing-masing unit kerja pelaksana",
         "C": "Bersifat rahasia mutlak bahkan tidak dapat diakses pengelola SDM",
-        "D": "Diserahkan pengelolaannya kepada perusahaan konsultan swasta asing",
-        "E": "Hanya mencatat data pegawai yang memiliki jabatan struktural"
+        "D": "Dikelola secara desentralisasi penuh tanpa sistem kendali nasional",
+        "E": "Dibatasi pengisiannya pada data kepegawaian pejabat pimpinan tinggi"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
         "konsep_materi": "Sistem Informasi ASN **diselenggarakan secara nasional dan terintegrasi antar-Instansi Pemerintah** guna menjamin efisiensi, efektivitas, dan akurasi keputusan.",
         "alasan_kunci": "Opsi A merupakan prinsip keterpaduan basis data aparatur sipil negara (*one single data*). Integrasi data memudahkan interoperabilitas layanan, perencanaan mutasi, dan monitoring kinerja lintas kementerian. Aturan merumuskan sistem diselenggarakan nasional dan terintegrasi antar-instansi. Oleh karena itu, opsi A adalah jawaban yang benar.",
         "bedah_pengecoh": {
-          "B": "Merupakan ego sektoral fragmentasi data yang menghambat reformasi birokrasi.",
+          "B": "Pengelolaan parsial yang terpecah bertentangan dengan prinsip keterpaduan sistem informasi nasional.",
           "C": "Merupakan ketertutupan keliru yang merusak fungsi manajemen SDM instansi.",
-          "D": "Merupakan penyerahan data strategis negara kepada pihak asing yang berbahaya.",
-          "E": "Merupakan pembatasan data yang mengabaikan hak ribuan pejabat fungsional/pelaksana."
+          "D": "Sistem Informasi ASN wajib terintegrasi secara nasional di bawah kendali BKN.",
+          "E": "Sistem Informasi ASN mencakup seluruh data riwayat pegawai ASN dari level pelaksana hingga pimpinan."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -2480,10 +2480,8 @@
       "nomor": 83,
       "halaman_sumber": 29,
       "kata_kunci_modul": [
-        "Sistem Informasi ASN memuat seluruh informasi dan data pegawai ASN",
-        "riwayat gaji",
-        "daftar penilaian prestasi kerja",
-        "kompetensi"
+        "Sistem Informasi ASN memuat seluruh informasi dan data pegawai ASN, yang",
+        "riwayat jabatan dan kepangkatan;"
       ],
       "topik_materi": "Muatan Data Sistem Informasi ASN",
       "level_kognitif": "C4 - Analisis",
@@ -2513,7 +2511,7 @@
       "halaman_sumber": 29,
       "kata_kunci_modul": [
         "Sengketa pegawai ASN diselesaikan melalui upaya administratif",
-        "terdiri dari keberatan dan banding administratif"
+        "keberatan dan banding administratif"
       ],
       "topik_materi": "Jenis Upaya Administratif Sengketa ASN",
       "level_kognitif": "C2 - Pemahaman",
@@ -2693,7 +2691,7 @@
       "nomor": 90,
       "halaman_sumber": 29,
       "kata_kunci_modul": [
-        "efisiensi, efektivitas, dan akurasi pengambilan keputusan dalam Manajemen ASN",
+        "efisiensi, efektivitas, dan akurasi pengambilan keputusan dalam",
         "diperlukan Sistem Informasi ASN"
       ],
       "topik_materi": "Urgensi Sistem Informasi Manajemen ASN",
@@ -2723,8 +2721,8 @@
       "nomor": 91,
       "halaman_sumber": 30,
       "kata_kunci_modul": [
-        "PNS juga dapat diberhentikan dengan hormat tidak atas permintaan sendiri karena",
-        "tidak melapor dalam jangka waktu paling lama 15 (lima belas) hari kerja sejak berakhirnya masa tugas belajar"
+        "PNS juga dapat diberhentikan dengan hormat tidak atas permintaan sendiri",
+        "tidak melapor dalam jangka waktu paling lama 15 (lima belas) hari kerja sejak"
       ],
       "topik_materi": "Batas Waktu Lapor Pasca Tugas Belajar",
       "level_kognitif": "C2 - Pemahaman",
@@ -2753,7 +2751,7 @@
       "nomor": 92,
       "halaman_sumber": 30,
       "kata_kunci_modul": [
-        "PNS juga dapat diberhentikan dengan hormat tidak atas permintaan sendiri karena",
+        "PNS juga dapat diberhentikan dengan hormat tidak atas permintaan sendiri",
         "terbukti menggunakan ijazah palsu dalam pembinaan kepegawaian"
       ],
       "topik_materi": "Sanksi Penggunaan Ijazah Palsu",
@@ -2814,7 +2812,7 @@
       "halaman_sumber": 30,
       "kata_kunci_modul": [
         "PNS diberhentikan sementara apabila",
-        "ditahan karena menjadi tersangka tindak pidana (Pasal 53 UU Nomor 20 Tahun 2023)"
+        "ditahan karena menjadi tersangka tindak pidana (Pasal 53 UU Nomor 20"
       ],
       "topik_materi": "Pemberhentian Sementara Tersangka Pidana",
       "level_kognitif": "C3 - Aplikasi",
@@ -2844,7 +2842,7 @@
       "halaman_sumber": 30,
       "kata_kunci_modul": [
         "Pengaktifan kembali PNS yang diberhentikan sementara",
-        "dilakukan oleh Pejabat Pembina Kepegawaian"
+        "dilakukan oleh Pejabat"
       ],
       "topik_materi": "Pejabat Pengaktif Kembali PNS",
       "level_kognitif": "C2 - Pemahaman",
@@ -2964,7 +2962,7 @@
       "nomor": 99,
       "halaman_sumber": 30,
       "kata_kunci_modul": [
-        "PNS juga dapat diberhentikan dengan hormat tidak atas permintaan sendiri karena",
+        "PNS juga dapat diberhentikan dengan hormat tidak atas permintaan sendiri",
         "dipidana dengan pidana penjara kurang dari 2 (dua) tahun"
       ],
       "topik_materi": "Sanksi Pidana Berencana Kurang dari 2 Tahun",

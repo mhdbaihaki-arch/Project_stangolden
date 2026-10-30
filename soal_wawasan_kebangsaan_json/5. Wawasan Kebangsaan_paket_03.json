@@ -4,11 +4,11 @@
   "rentang_halaman": "Halaman 26 s/d Halaman 35",
   "jumlah_soal": 100,
   "distribusi_kunci": {
-    "B": 20,
-    "E": 20,
     "A": 20,
+    "B": 20,
     "C": 20,
-    "D": 20
+    "D": 20,
+    "E": 20
   },
   "daftar_soal": [
     {
@@ -46,7 +46,7 @@
       "halaman_sumber": 26,
       "kata_kunci_modul": [
         "Mantan Ketua BPUPKI",
-        "dipanggil oleh Genderal Besar Terauchi"
+        "oleh Genderal Besar Terauchi"
       ],
       "topik_materi": "Tokoh Bangsa yang Dipanggil ke Dalath",
       "level_kognitif": "C2 - Pemahaman",
@@ -495,7 +495,7 @@
       "nomor": 17,
       "halaman_sumber": 27,
       "kata_kunci_modul": [
-        "lebih suka berdiri di luar republik",
+        "berdiri di luar republik",
         "Indonesia"
       ],
       "topik_materi": "Dampak Bila Diskriminasi Ditetapkan",
@@ -536,12 +536,12 @@
         "B": "Rumusan tersebut telah mendapatkan persetujuan komandan militer sekutu",
         "C": "Klausul tersebut dapat disesuaikan pada tingkat aturan peraturan daerah",
         "D": "Seluruh ketentuan hukum dasar wajib dipatuhi oleh seluruh warga",
-        "E": "Penetapan itu bukan diskriminasi karena hanya mengikat umat Islam"
+        "E": "Penetapan itu bukan diskriminasi sebab dikhususkan bagi pemeluk agama Islam"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
-        "konsep_materi": "Hatta awalnya menjelaskan bahwa ketentuan itu **bukan diskriminasi sebab penetapan itu hanya mengenai rakyat yang beragama Islam**.",
-        "alasan_kunci": "Opsi E tepat karena dalam pandangan awal Panitia Sembilan, klausul syariat Islam dimaksudkan sebagai pedoman moral bagi pemeluknya sendiri. Namun, setelah menyadari persepsi dan dampak psikologis bagi keutuhan bangsa, Hatta segera berinisiatif menghapuskannya. Sikap Hatta menunjukkan kebesaran jiwa seorang negarawan sejati.",
+        "konsep_materi": "Hatta awalnya menjelaskan bahwa ketentuan itu **bukan diskriminasi sebab penetapan itu dikhususkan bagi pemeluk agama Islam**.",
+        "alasan_kunci": "Opsi E tepat karena dalam pandangan awal Panitia Sembilan, klausul syariat Islam dimaksudkan sebagai pedoman moral bagi pemeluknya sendiri. Namun, setelah menyadari aspirasi keutuhan bangsa, Hatta berinisiatif menyesuaikannya demi persatuan nasional. Sikap Hatta menunjukkan kebesaran jiwa seorang negarawan sejati.",
         "bedah_pengecoh": {
           "A": "Penjelasan mengenai UUD sementara baru disampaikan saat Soekarno berpidato di sidang PPKI.",
           "B": "Persetujuan komandan Sekutu tidak pernah menjadi rujukan legitimasi konstitusi Indonesia.",
@@ -585,8 +585,8 @@
       "nomor": 20,
       "halaman_sumber": 27,
       "kata_kunci_modul": [
-        "Kisah pencoretan tujuh kata dalam Piagam Jakarta",
-        "M. Hatta menuturkan dalam memoirnya"
+        "kisah pencoretan tujuh kata dalam Piagam Jakarta",
+        "menuturkan dalam memoirnya"
       ],
       "topik_materi": "Sumber Sejarah Penghapusan Tujuh Kata",
       "level_kognitif": "C2 - Pemahaman",
@@ -676,7 +676,7 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "Pembukaan Undang-Undang Dasar adalah pokok dari pokok",
-        "sebab itu harus teruntuk bagi seluruh bangsa"
+        "sebab itu harus teruntuk"
       ],
       "topik_materi": "Kedudukan Pembukaan UUD sebagai Pokok dari Pokok",
       "level_kognitif": "C2 - Pemahaman",
@@ -766,7 +766,7 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "Supaya kita jangan pecah sebagai bangsa",
-        "kami mufakat untuk menghilangkan bagian kalimat"
+        "kami mufakat untuk"
       ],
       "topik_materi": "Tujuan Utama Penghapusan Bagian Kalimat",
       "level_kognitif": "C2 - Pemahaman",
@@ -826,7 +826,7 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "pemimpin-pemimpin tersebut di waktu itu benar-benar",
-        "mementingkan nasib dan persatuan bangsa"
+        "mementingkan nasib dan"
       ],
       "topik_materi": "Makna Keberhasilan Sidang Cepat",
       "level_kognitif": "C3 - Aplikasi",
@@ -856,7 +856,7 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "Wahid Hasyim, Mr. Kasman Singodimedjo",
-        "Mr. Teuku Mohammad Hasan"
+        "Mr. Teuku Mohammad"
       ],
       "topik_materi": "Komposisi Tokoh Rapat Konsensus",
       "level_kognitif": "C2 - Pemahaman",
@@ -946,7 +946,7 @@
       "halaman_sumber": 29,
       "kata_kunci_modul": [
         "adalah berasal dari Piagam Jakarta setelah dihapuskan",
-        "“tujuh kata” dalam sila pertama"
+        "kata” dalam sila pertama"
       ],
       "topik_materi": "Asal-Usul Pancasila Alinea Keempat",
       "level_kognitif": "C2 - Pemahaman",
@@ -976,7 +976,7 @@
       "halaman_sumber": 29,
       "kata_kunci_modul": [
         "Mempunyai kedudukan yuridis konstitusional",
-        "merupakan bagian dari konstitusi (UUD)"
+        "bagian dari konstitusi (UUD)"
       ],
       "topik_materi": "Alasan Pertama Keabsahan Rumusan Pancasila",
       "level_kognitif": "C2 - Pemahaman",
@@ -1006,7 +1006,7 @@
       "halaman_sumber": 29,
       "kata_kunci_modul": [
         "Disahkan oleh lembaga atau badan yang mewakili seluruh bangsa",
-        "Indonesia (PPKI)"
+        "Indonesia"
       ],
       "topik_materi": "Alasan Kedua Keabsahan Rumusan Pancasila",
       "level_kognitif": "C2 - Pemahaman",
@@ -1125,7 +1125,7 @@
       "nomor": 38,
       "halaman_sumber": 29,
       "kata_kunci_modul": [
-        "ditetapkan sebagai dasar negara atau",
+        "sebagai dasar negara atau",
         "dasar falsafah negara"
       ],
       "topik_materi": "Kedudukan Pancasila sebagai Dasar Falsafah Negara",
@@ -1216,7 +1216,7 @@
       "halaman_sumber": 30,
       "kata_kunci_modul": [
         "Pengamalan Pancasila sebagai dasar negara adalah sebagai dasar",
-        "penyelenggaraan negara untuk mewujudkan cita-cita bangsa"
+        "negara untuk mewujudkan cita-cita bangsa"
       ],
       "topik_materi": "Hakikat Pengamalan Pancasila sebagai Dasar Negara",
       "level_kognitif": "C2 - Pemahaman",
@@ -1276,7 +1276,7 @@
       "halaman_sumber": 30,
       "kata_kunci_modul": [
         "dasar untuk mengatur penyelenggaraan negara",
-        "termasuk penyelenggaraan pemerintahan"
+        "termasuk penyelenggaraan"
       ],
       "topik_materi": "Fungsi Pancasila Mengatur Pemerintahan",
       "level_kognitif": "C2 - Pemahaman",
@@ -1425,7 +1425,7 @@
       "nomor": 48,
       "halaman_sumber": 30,
       "kata_kunci_modul": [
-        "mengutamakan kepentingan negara dan rakyat di atas",
+        "negara dan rakyat di atas",
         "kepentingan golongan dan kepentingan perorangan"
       ],
       "topik_materi": "Skala Prioritas Kepentingan Nasional",
@@ -1456,7 +1456,7 @@
       "halaman_sumber": 30,
       "kata_kunci_modul": [
         "menghendaki persatuan, meliputi segenap",
-        "bangsa Indonesia seluruhnya"
+        "bangsa Indonesia"
       ],
       "topik_materi": "Cakupan Persatuan Pembukaan UUD 1945",
       "level_kognitif": "C2 - Pemahaman",
@@ -1486,7 +1486,7 @@
       "halaman_sumber": 30,
       "kata_kunci_modul": [
         "Pernyataan ini terkandung dalam",
-        "alinea keempat Pembukaan UUD 1945"
+        "Pembukaan UUD 1945"
       ],
       "topik_materi": "Letak Klausul Melindungi Segenap Bangsa",
       "level_kognitif": "C2 - Pemahaman",
@@ -1516,7 +1516,7 @@
       "halaman_sumber": 31,
       "kata_kunci_modul": [
         "Negara bertujuan mewujudkan keadilan sosial bagi seluruh rakyat",
-        "sila kelima"
+        "kelima"
       ],
       "topik_materi": "Substansi Pokok Pikiran Kedua",
       "level_kognitif": "C2 - Pemahaman",
@@ -1575,7 +1575,7 @@
       "nomor": 53,
       "halaman_sumber": 31,
       "kata_kunci_modul": [
-        "Negara berkedaulatan rakyat berdasarkan atas kerakyatan dalam",
+        "atas kerakyatan dalam",
         "permusyawaratan/ perwakilan (sila keempat)"
       ],
       "topik_materi": "Substansi Pokok Pikiran Ketiga",
@@ -1605,7 +1605,7 @@
       "nomor": 54,
       "halaman_sumber": 31,
       "kata_kunci_modul": [
-        "sistem pemerintahan demokrasi yang kita sebut",
+        "sistem pemerintahan demokrasi",
         "Demokrasi Pancasila"
       ],
       "topik_materi": "Nama Sistem Demokrasi Indonesia",
@@ -1695,8 +1695,8 @@
       "nomor": 57,
       "halaman_sumber": 31,
       "kata_kunci_modul": [
-        "keselarasan kehidupan bernegara dan beragama",
-        "menjunjung tinggi semua agama"
+        "kehidupan bernegara dan beragama",
+        "menjunjung tinggi semua"
       ],
       "topik_materi": "Makna Keselarasan Bernegara dan Beragama",
       "level_kognitif": "C3 - Aplikasi",
@@ -1755,7 +1755,7 @@
       "nomor": 59,
       "halaman_sumber": 31,
       "kata_kunci_modul": [
-        "mengantarkan rakyat Indonesia ke pintu gerbang",
+        "mengantarkan rakyat Indonesia ke",
         "merdeka, bersatu, berdaulat, adil, dan makmur"
       ],
       "topik_materi": "Penegasan Alinea Kedua Pembukaan UUD 1945",
@@ -1815,7 +1815,7 @@
       "nomor": 61,
       "halaman_sumber": 32,
       "kata_kunci_modul": [
-        "makhluk individu sekaligus makhluk sosial dalam satu kesatuan",
+        "individu sekaligus makhluk sosial dalam satu kesatuan",
         "disebut “monodualistis”"
       ],
       "topik_materi": "Hakikat Manusia Monodualistis",
@@ -1846,7 +1846,7 @@
       "halaman_sumber": 32,
       "kata_kunci_modul": [
         "Pasal 1 ayat (1) UUD 1945, negara kita ialah",
-        "negara kesatuan yang berbentuk republik"
+        "yang berbentuk republik"
       ],
       "topik_materi": "Bentuk Negara dan Pemerintahan",
       "level_kognitif": "C2 - Pemahaman",
@@ -1876,7 +1876,7 @@
       "halaman_sumber": 32,
       "kata_kunci_modul": [
         "bentuk negara kesatuan (Eenheidstaat)",
-        "sesuai dengan sejarah perjuangan"
+        "sesuai dengan sejarah"
       ],
       "topik_materi": "Alasan Pemilihan Bentuk Negara Kesatuan",
       "level_kognitif": "C2 - Pemahaman",
@@ -1906,7 +1906,7 @@
       "halaman_sumber": 32,
       "kata_kunci_modul": [
         "Ipoleksosbud Hankamnas",
-        "satu kesatuan politik, satu kesatuan ekonomi"
+        "satu kesatuan politik,"
       ],
       "topik_materi": "Akronim Kesatuan Wawasan Nusantara",
       "level_kognitif": "C2 - Pemahaman",
@@ -1936,7 +1936,7 @@
       "halaman_sumber": 32,
       "kata_kunci_modul": [
         "Negara Pancasila menjunjung tinggi hak asasi",
-        "terdapat kewajiban asasi"
+        "kewajiban asasi"
       ],
       "topik_materi": "Keseimbangan Hak dan Kewajiban Asasi",
       "level_kognitif": "C2 - Pemahaman",
@@ -1965,8 +1965,8 @@
       "nomor": 66,
       "halaman_sumber": 32,
       "kata_kunci_modul": [
-        "tuntutan pelaksanaan hak-hak asasi manusia ada kecenderungan",
-        "berlebih-lebihan sehingga mungkin merugikan masyarakat"
+        "pelaksanaan hak-hak asasi manusia ada kecenderungan",
+        "sehingga mungkin merugikan masyarakat"
       ],
       "topik_materi": "Kelemahan Pandangan HAM Individualistis",
       "level_kognitif": "C2 - Pemahaman",
@@ -2146,7 +2146,7 @@
       "halaman_sumber": 33,
       "kata_kunci_modul": [
         "Pasal 27 ayat (1)",
-        "segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan"
+        "segala warga negara bersamaan kedudukannya di dalam hukum dan"
       ],
       "topik_materi": "Persamaan Kedudukan dalam Hukum dan Pemerintahan",
       "level_kognitif": "C2 - Pemahaman",
@@ -2206,7 +2206,7 @@
       "halaman_sumber": 33,
       "kata_kunci_modul": [
         "Perekonomian disusun sebagai usaha bersama",
-        "berdasarkan atas asas kekeluargaan"
+        "berdasarkan atas asas"
       ],
       "topik_materi": "Pasal 33 Ayat (1) Asas Kekeluargaan",
       "level_kognitif": "C2 - Pemahaman",
@@ -2236,7 +2236,7 @@
       "halaman_sumber": 33,
       "kata_kunci_modul": [
         "Cabang-cabang produksi yang penting bagi negara",
-        "menguasai hajat hidup orang banyak dikuasai oleh negara"
+        "hidup orang banyak dikuasai oleh negara"
       ],
       "topik_materi": "Pasal 33 Ayat (2) Penguasaan Cabang Produksi Vital",
       "level_kognitif": "C2 - Pemahaman",
@@ -2325,7 +2325,7 @@
       "nomor": 78,
       "halaman_sumber": 33,
       "kata_kunci_modul": [
-        "kekayaan wilayah Nusantara adalah modal dan",
+        "Nusantara adalah modal dan",
         "milik bersama bangsa"
       ],
       "topik_materi": "Makna Kesatuan Ekonomi Nusantara",
@@ -2355,7 +2355,7 @@
       "nomor": 79,
       "halaman_sumber": 33,
       "kata_kunci_modul": [
-        "tingkat perkembangan ekonomi harus serasi dan",
+        "ekonomi harus serasi dan",
         "seimbang di seluruh Indonesia"
       ],
       "topik_materi": "Pemerataan dan Keseimbangan Antarwilayah",
@@ -2416,7 +2416,7 @@
       "halaman_sumber": 34,
       "kata_kunci_modul": [
         "Dalam Pasal 32 UUD 1945 disebutkan bahwa",
-        "memajukan kebudayaan nasional"
+        "kebudayaan nasional"
       ],
       "topik_materi": "Ketentuan Kebudayaan Nasional Pasal 32 UUD 1945",
       "level_kognitif": "C2 - Pemahaman",
@@ -2535,7 +2535,7 @@
       "nomor": 85,
       "halaman_sumber": 34,
       "kata_kunci_modul": [
-        "pasal 30 ayat (1) UUD 1945 dinyatakan, bahwa tiap-tiap warga",
+        "30 ayat (1) UUD 1945 dinyatakan, bahwa tiap-tiap warga",
         "usaha pertahanan dan keamanan negara"
       ],
       "topik_materi": "Pasal 30 Ayat (1) Usaha Pertahanan Keamanan",
@@ -2566,7 +2566,7 @@
       "halaman_sumber": 34,
       "kata_kunci_modul": [
         "sistem pertahanan dan keamanan rakyat semesta",
-        "TNI dan Polri sebagai kekuatan utama"
+        "TNI dan Polri sebagai"
       ],
       "topik_materi": "Pasal 30 Ayat (2) Sishankamrata",
       "level_kognitif": "C2 - Pemahaman",
@@ -2596,7 +2596,7 @@
       "halaman_sumber": 34,
       "kata_kunci_modul": [
         "melindungi segenap bangsa Indonesia dan",
-        "seluruh tumpah darah Indonesia"
+        "seluruh tumpah darah"
       ],
       "topik_materi": "Tujuan Pertahanan Negara dalam Pembukaan UUD",
       "level_kognitif": "C2 - Pemahaman",
@@ -2625,7 +2625,7 @@
       "nomor": 88,
       "halaman_sumber": 34,
       "kata_kunci_modul": [
-        "tidak boleh mempertentangkan perbedaan sifat, bentuk, dan",
+        "tidak boleh mempertentangkan perbedaan sifat, bentuk,",
         "wujud kebudayaan"
       ],
       "topik_materi": "Larangan dalam Pengelolaan Keragaman Budaya",
@@ -2686,7 +2686,7 @@
       "halaman_sumber": 34,
       "kata_kunci_modul": [
         "Wawasan Nusantara",
-        "Corak ragam budaya menggambarkan kekayaan budaya bangsa"
+        "Corak ragam budaya menggambarkan kekayaan budaya"
       ],
       "topik_materi": "Wawasan Nusantara Bidang Sosial Budaya",
       "level_kognitif": "C2 - Pemahaman",
@@ -2746,7 +2746,7 @@
       "halaman_sumber": 35,
       "kata_kunci_modul": [
         "Indonesia ialah negara yang berdasar atas hukum (Rechtsstaat)",
-        "tidak berdasarkan kekuasaan belaka (Machtsstaat)"
+        "kekuasaan belaka (Machtsstaat)"
       ],
       "topik_materi": "Indonesia adalah Negara Hukum (Rechtsstaat)",
       "level_kognitif": "C2 - Pemahaman",
@@ -2806,7 +2806,7 @@
       "halaman_sumber": 35,
       "kata_kunci_modul": [
         "Sistem Konstitusional",
-        "presiden memegang kekuasaan pemerintahan berdasarkan UUD"
+        "presiden memegang kekuasaan pemerintahan"
       ],
       "topik_materi": "Prinsip Sistem Konstitusional",
       "level_kognitif": "C2 - Pemahaman",
@@ -2835,7 +2835,7 @@
       "nomor": 95,
       "halaman_sumber": 35,
       "kata_kunci_modul": [
-        "Kedaulatan berada di tangan rakyat dan dilaksanakan menurut",
+        "Kedaulatan berada di tangan rakyat dan",
         "Undang-Undang Dasar"
       ],
       "topik_materi": "Pasal 1 Ayat (2) Kedaulatan Rakyat",
@@ -2925,7 +2925,7 @@
       "nomor": 98,
       "halaman_sumber": 35,
       "kata_kunci_modul": [
-        "pasal 6A ayat (1) ditegaskan bahwa presiden",
+        "pasal 6A ayat (1)",
         "dipilih secara langsung oleh rakyat"
       ],
       "topik_materi": "Pasal 6A Ayat (1) Pemilihan Presiden Langsung",
@@ -2956,7 +2956,7 @@
       "halaman_sumber": 35,
       "kata_kunci_modul": [
         "Pancasila yang terkandung di dalam Pembukaan UUD 1945 tidaklah mungkin",
-        "dapat kita terapkan di dalam kehidupan ketatanegaraan sehari-hari"
+        "kita terapkan di dalam kehidupan ketatanegaraan sehari-hari"
       ],
       "topik_materi": "Hubungan Pembukaan dan Batang Tubuh UUD",
       "level_kognitif": "C2 - Pemahaman",
@@ -2985,8 +2985,8 @@
       "nomor": 100,
       "halaman_sumber": 35,
       "kata_kunci_modul": [
-        "tiap-tiap warga negara mempunyai hak dan kewajiban yang sama",
-        "upaya pembelaan dan pertahanan keamanan negara"
+        "mempunyai hak dan kewajiban yang sama",
+        "upaya pembelaan dan"
       ],
       "topik_materi": "Kesamaan Hak dan Kewajiban Bela Negara",
       "level_kognitif": "C3 - Aplikasi",

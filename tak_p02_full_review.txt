@@ -1,0 +1,1200 @@
+NO 1 | HLM 21 | KUNCI A | TOPIK: Materi Standar Seleksi Kompetensi Dasar
+KW: ['Seleksi kompetensi dasar dilakukan untuk', 'karakteristik pribadi, intelegensia umum, dan wawasan kebangsaan']
+Q: Standar materi yang diujikan dalam Seleksi Kompetensi Dasar (SKD) bagi calon PNS meliputi...
+  A: Karakteristik pribadi, intelegensia umum, dan wawasan kebangsaan [KUNCI]
+  B: Keterampilan teknis jabatan, bahasa asing, dan audit investigasi
+  C: Psikotes lanjutan, wawancara pimpinan, dan uji kesehatan militer
+  D: Penguasaan regulasi teknis, portofolio kerja, dan uji fisik lapangan
+  E: Keahlian riset akademik, tes kebugaran dinas, dan tes kepemimpinan
+Konsep: **Seleksi kompetensi dasar** dilakukan untuk menilai kesesuaian kompetensi pelamar yang meliputi **karakteristik pribadi, intelegensia umum, dan wawasan kebangsaan**.
+Alasan: Opsi A merupakan materi baku pengujian SKD calon aparatur negara. Seleksi awal ditujukan menyaring profil kepribadian, kapabilitas kognitif umum, serta komitmen kebangsaan peserta. Ketentuan seleksi menetapkan SKD mencakup karakteristik pribadi, intelegensia umum, dan wawasan kebangsaan. Dengan demikian, opsi A adalah materi yang tepat.
+Bedah: {"B": "Merupakan rumpun materi kompetensi bidang fungsional tertentu dan bukan standar SKD.", "C": "Merupakan instrumen tahapan seleksi lanjutan khusus pada instansi tertentu.", "D": "Merupakan cakupan uji kecakapan praktis pada seleksi kompetensi bidang.", "E": "Merupakan instrumen pengembangan karier pegawai senior dan bukan materi seleksi dasar."}
+======================================================================
+NO 2 | HLM 21 | KUNCI B | TOPIK: Tujuan Seleksi Kompetensi Bidang
+KW: ['Seleksi kompetensi bidang dilakukan untuk', 'standar kompetensi bidang sesuai dengan kebutuhan Jabatan']
+Q: Tujuan utama diselenggarakannya Seleksi Kompetensi Bidang (SKB) bagi pelamar CPNS adalah...
+  A: Mengetahui latar belakang riwayat kehidupan sosial keluarga pelamar
+  B: Menilai kesesuaian kompetensi bidang pelamar dengan kebutuhan jabatan [KUNCI]
+  C: Mengukur ketahanan fisik pelamar dalam menjalankan penugasan dinas
+  D: Menentukan besaran indeks tunjangan kinerja awal pelamar di kementerian
+  E: Memverifikasi keabsahan berkas administrasi kewarganegaraan secara hukum
+Konsep: **Seleksi kompetensi bidang** dilakukan untuk **menilai kesesuaian antara kompetensi bidang yang dimiliki oleh pelamar dengan standar kompetensi bidang sesuai dengan kebutuhan Jabatan**.
+Alasan: Opsi B merupakan fungsi pokok pelaksanaan tahapan SKB dalam pengadaan pegawai. Penilaian spesifik diperlukan guna menjamin pegawai yang ditempatkan menguasai keahlian teknis sesuai formasi jabatannya. Aturan menegaskan SKB bertujuan menguji kesesuaian kompetensi pelamar dengan standar formasi jabatan. Oleh karena itu, opsi B adalah jawaban yang benar.
+Bedah: {"A": "Merupakan materi penelusuran rekam jejak pribadi dan bukan esensi uji SKB.", "C": "Merupakan bagian dari pemeriksaan kesehatan jasmani khusus instansi tertentu.", "D": "Merupakan hak administratif kepegawaian pasca pengangkatan resmi pegawai.", "E": "Merupakan ruang lingkup tahapan seleksi administrasi berkas pendaftaran."}
+======================================================================
+NO 3 | HLM 21 | KUNCI C | TOPIK: Jangka Waktu Masa Percobaan CPNS
+KW: ['Masa percobaan sebagaimana dimaksud bagi calon PNS', 'dilaksanakan selama 1 (satu) tahun']
+Q: Masa percobaan wajib yang harus dijalani oleh Calon Pegawai Negeri Sipil dilaksanakan selama...
+  A: Enam bulan kalender berturut-turut
+  B: Sembilan bulan masa penugasan satker
+  C: Satu tahun masa pembinaan kedinasan [KUNCI]
+  D: Dua tahun masa penyesuaian kementerian
+  E: Tiga tahun masa orientasi kelembagaan
+Konsep: **Masa percobaan** bagi calon PNS **dilaksanakan selama 1 (satu) tahun** melalui proses pendidikan dan pelatihan terintegrasi.
+Alasan: Opsi C merupakan jangka waktu masa prajabatan CPNS yang sah secara hukum. Periode satu tahun disiapkan sebagai sarana evaluasi kelayakan moral, kepribadian, dan kecakapan kerja sebelum diangkat definitif. Regulasi menegaskan masa percobaan calon PNS berlangsung tepat selama 1 (satu) tahun. Dengan demikian, opsi C adalah ketetapan yang benar.
+Bedah: {"A": "Merupakan batas minimal waktu evaluasi berkala dan bukan masa percobaan CPNS.", "B": "Merupakan kurun waktu telaah penempatan unit kerja dan bukan durasi resmi.", "D": "Merupakan batas toleransi masa penundaan pengangkatan luar biasa.", "E": "Merupakan durasi evaluasi peninjauan masa kerja fungsional keahlian."}
+======================================================================
+NO 4 | HLM 21 | KUNCI D | TOPIK: Syarat Pengangkatan CPNS Menjadi PNS
+KW: ['Calon PNS yang diangkat menjadi PNS harus memenuhi persyaratan', 'Lulus pendidikan dan pelatihan', 'Sehat jasmani dan rohani']
+Q: Dua syarat mutlak yang wajib dipenuhi oleh CPNS untuk dapat diangkat menjadi PNS definitif adalah...
+  A: Memiliki gelar sarjana dan sertifikat keahlian bahasa asing
+  B: Telah menikah resmi dan memiliki rumah tempat tinggal mandiri
+  C: Mencapai prestasi kerja istimewa dan bebas dari catatan utang
+  D: Lulus pendidikan dan pelatihan serta sehat jasmani dan rohani [KUNCI]
+  E: Memiliki masa kerja dinas minimal lima tahun di unit kementerian
+Konsep: Calon PNS yang diangkat menjadi PNS harus memenuhi persyaratan: **1) Lulus pendidikan dan pelatihan; 2) Sehat jasmani dan rohani**.
+Alasan: Opsi D merupakan persyaratan kumulatif pengangkatan CPNS menjadi aparatur sipil penuh. Pegawai wajib membuktikan kelulusan pelatihan dasar kedinasan sekaligus kesiapan fisik dan mental melalui uji kesehatan. Ketentuan menyatakan calon PNS harus lulus diklat dan dinyatakan sehat jasmani rohani. Oleh karena itu, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Merupakan syarat kualifikasi akademik awal formasi saat mendaftar seleksi.", "B": "Merupakan urusan ranah privat individu yang tidak menjadi syarat dinas.", "C": "Merupakan kriteria promosi istimewa dan bukan syarat dasar pengangkatan.", "E": "Merupakan syarat pengajuan kenaikan pangkat atau mutasi jabatan struktural."}
+======================================================================
+NO 5 | HLM 21 | KUNCI E | TOPIK: Ketentuan Kesempatan Pelatihan Dasar CPNS
+KW: ['pendidikan dan pelatihan dasar bagi calon PNS', 'hanya dapat diikuti sebanyak satu kali']
+Q: Berdasarkan peraturan manajemen PNS, pendidikan dan pelatihan dasar bagi calon PNS hanya dapat diikuti sebanyak...
+  A: Tiga kali kesempatan mengulang
+  B: Dua kali kesempatan mengulang
+  C: Empat kali agenda terjadwal
+  D: Lima kali masa pembinaan
+  E: Satu kali kesempatan pelatihan [KUNCI]
+Konsep: Dalam PP 11/2017 stdd PP 17/2020 ditegaskan bahwa **pendidikan dan pelatihan dasar bagi calon PNS hanya dapat diikuti sebanyak satu kali**.
+Alasan: Opsi E merupakan pembatasan ketat kesempatan diklat prajabatan CPNS. Ketentuan tunggal ini menuntut kesungguhan penuh peserta agar berhasil menuntaskan seluruh kurikulum pelatihan dalam sekali kesempatan. Aturan menetapkan diklat dasar CPNS hanya dapat diikuti satu kali. Dengan demikian, opsi E adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan asumsi toleransi ujian remedial akademik umum dan tidak berlaku di latsar.", "B": "Merupakan kesempatan ujian dinas kenaikan pangkat dan bukan diklat dasar CPNS.", "C": "Merupakan frekuensi ujian sertifikasi keahlian berkala tenaga fungsional.", "D": "Merupakan skema uji berkala kompetensi tahunan pejabat manajerial."}
+======================================================================
+NO 6 | HLM 21 | KUNCI A | TOPIK: Sanksi Pengunduran Diri CPNS Masa Percobaan
+KW: ['calon PNS yang mengundurkan diri pada saat menjalani masa percobaan', 'tidak boleh mengikuti seleksi pengadaan PNS']
+Q: Seorang CPNS memilih mengundurkan diri saat baru menjalani masa percobaan enam bulan. Sanksi administratif yang dijatuhkan adalah...
+  A: Tidak boleh mengikuti seleksi pengadaan PNS untuk jangka waktu tertentu [KUNCI]
+  B: Kewajiban menjalani masa kerja sosial pada instansi pemerintah daerah
+  C: Pencabutan status hak pilih aktif dalam pemilihan umum kepala daerah
+  D: Penahanan ijazah pendidikan formal oleh kementerian selama lima tahun
+  E: Larangan bepergian ke luar negeri untuk seluruh urusan perjalanan dinas
+Konsep: **Calon PNS yang mengundurkan diri pada saat menjalani masa percobaan dikenakan sanksi tidak boleh mengikuti seleksi pengadaan PNS untuk jangka waktu tertentu**.
+Alasan: Opsi A merupakan konsekuensi hukum bagi pembatalan komitmen sepihak CPNS. Negara telah mengalokasikan anggaran formasi dan diklat sehingga pengunduran diri di masa percobaan dikenakan penalti seleksi masa depan. Aturan menegaskan sanksinya berupa larangan ikut seleksi pengadaan PNS untuk waktu tertentu. Oleh karena itu, opsi A adalah jawaban yang benar.
+Bedah: {"B": "Merupakan bentuk sanksi pidana kurungan alternatif dan bukan sanksi kepegawaian.", "C": "Merupakan vonis pidana pencabutan hak politik oleh majelis hakim peradilan.", "D": "Merupakan tindakan penahanan dokumen pribadi yang dilarang oleh hukum.", "E": "Merupakan tindakan keimigrasian dalam proses penyidikan perkara pidana."}
+======================================================================
+NO 7 | HLM 21 | KUNCI B | TOPIK: Kewajiban Pengucapan Sumpah Janji PNS
+KW: ['calon PNS wajib mengucapkan sumpah/janji PNS', 'setelah diangkat PNS']
+Q: Kewajiban formal yang harus dilaksanakan oleh Calon PNS segera setelah resmi diangkat menjadi PNS adalah...
+  A: Menyerahkan seluruh laporan harta kekayaan kepada inspektorat
+  B: Mengucapkan sumpah atau janji PNS menurut keyakinan agamanya [KUNCI]
+  C: Membuat karya tulis ilmiah tentang tata kelola instansi pusat
+  D: Membuka rekening simpanan wajib pegawai pada bank milik negara
+  E: Menyusun peta rencana alih tugas jabatan menuju satker daerah
+Konsep: Ketentuan kepegawaian menegaskan bahwa **calon PNS wajib mengucapkan sumpah/janji PNS setelah diangkat PNS**.
+Alasan: Opsi B merupakan ikrar kesetiaan konstitusional aparatur kepada negara. Pengucapan sumpah mengikat tanggung jawab moral dan etika kedinasan pegawai dalam mengabdi kepada bangsa. Regulasi merumuskan bahwa calon PNS wajib mengangkat sumpah/janji segera setelah pengangkatan definitif. Dengan demikian, opsi B adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan kewajiban administratif penyelenggara negara pada jabatan tertentu.", "C": "Merupakan syarat penilaian karya tulis untuk kenaikan jabatan fungsional.", "D": "Merupakan prosedur teknis penyaluran gaji dan bukan kewajiban ikrar.", "E": "Merupakan urusan pemetaan penugasan yang menjadi wewenang biro kepegawaian."}
+======================================================================
+NO 8 | HLM 21 | KUNCI C | TOPIK: Pemberhentian CPNS Pemalsuan Keterangan
+KW: ['calon PNS dapat diberhentikan dengan berbagai pertimbangan yaitu apabila', 'memberikan keterangan atau bukti yang tidak benar pada waktu melamar']
+Q: Seorang CPNS terbukti memalsukan surat keterangan riwayat pengalaman kerja saat melamar. Tindakan administratif yang dijatuhkan adalah...
+  A: Penundaan pembayaran tunjangan kinerja selama satu triwulan dinas
+  B: Pemberian teguran lisan di hadapan seluruh pegawai unit kantor satker
+  C: Pemberhentian dengan pertimbangan pemberian keterangan tidak benar [KUNCI]
+  D: Pemindahan tugas kerja ke unit pelayanan dengan intensitas lebih tinggi
+  E: Pengurangan masa cuti tahunan pegawai pada tahun anggaran berjalan
+Konsep: Calon PNS dapat **diberhentikan** apabila terbukti **memberikan keterangan atau bukti yang tidak benar pada waktu melamar**.
+Alasan: Opsi C merupakan sanksi tegas atas cacat integritas pada tahap rekrutmen pegawai. Pemalsuan dokumen membatalkan keabsahan proses seleksi sejak awal sehingga status kepesertaan tidak dapat dipertahankan. Regulasi menetapkan CPNS diberhentikan bila memberi bukti tidak benar saat melamar. Oleh karena itu, opsi C adalah keputusan yang benar.
+Bedah: {"A": "Merupakan hukuman disiplin ringan dan tidak sebanding dengan pemalsuan bukti.", "B": "Merupakan sanksi pembinaan etika ringan untuk pelanggaran presensi.", "D": "Merupakan mutasi internal dan bukan tindakan hukum atas ketidakjujuran seleksi.", "E": "Merupakan sanksi administratif tata tertib cuti kedinasan tahunan."}
+======================================================================
+NO 9 | HLM 21 | KUNCI D | TOPIK: Pertimbangan Pemberhentian Disiplin CPNS
+KW: ['calon PNS dapat diberhentikan dengan berbagai pertimbangan yaitu apabila', 'terbukti melakukan pelanggaran disiplin tingkat sedang atau berat']
+Q: Tingkat pelanggaran disiplin yang menjadi dasar hukum pertimbangan pemberhentian seorang Calon PNS di masa percobaan adalah...
+  A: Pelanggaran tata tertib presensi kerja kategori sangat ringan
+  B: Pelanggaran etika berpakaian dinas kategori ringan berulang kali
+  C: Kelalaian pengisian laporan kinerja harian staf kategori pembinaan
+  D: Terbukti melakukan pelanggaran disiplin tingkat sedang atau berat [KUNCI]
+  E: Keterlambatan penyampaian laporan tugas berkala kategori teguran
+Konsep: Calon PNS dapat diberhentikan apabila **terbukti melakukan pelanggaran disiplin tingkat sedang atau berat** selama menjalani masa percobaan.
+Alasan: Opsi D merupakan ambang batas kedisiplinan yang menentukan kelanjutan status CPNS. Status masa percobaan menuntut kepatuhan norma yang tinggi, sehingga pelanggaran sedang maupun berat berakibat terminasi status kepegawaian. Aturan menyebutkan dasar pemberhentian adalah pelanggaran disiplin sedang atau berat. Dengan demikian, opsi D adalah pilihan yang benar.
+Bedah: {"A": "Merupakan ranah pembinaan teguran atasan langsung dan tidak memberhentikan.", "B": "Merupakan pelanggaran disiplin ringan yang ditindak dengan teguran tertulis.", "C": "Merupakan kekurangan administratif yang diselesaikan melalui bimbingan kerja.", "E": "Merupakan kelalaian operasional tugas yang ditindak pembinaan internal."}
+======================================================================
+NO 10 | HLM 21 | KUNCI E | TOPIK: Pejabat Berwenang Mengangkat CPNS Menjadi PNS
+KW: ['Calon PNS yang diangkat menjadi PNS harus memenuhi persyaratan:', 'Pejabat Pembina Kepegawaian']
+Q: Pejabat yang memiliki wewenang resmi menetapkan pengangkatan Calon PNS menjadi PNS definitif adalah...
+  A: Kepala Kantor Pelayanan Perbendaharaan Negara setempat
+  B: Ketua Komisi Pemberantasan Korupsi Republik Indonesia
+  C: Pimpinan Unit Pelaksana Teknis Eselon Empat Pengawas
+  D: Koordinator Kelompok Jabatan Fungsional Madya Satker
+  E: Pejabat Pembina Kepegawaian pada instansi pemerintah [KUNCI]
+Konsep: **Calon PNS yang telah memenuhi persyaratan diangkat menjadi PNS oleh Pejabat Pembina Kepegawaian** (PPK).
+Alasan: Opsi E merupakan pemegang kewenangan yuridis mutlak penetapan status kepegawaian aparatur. Pejabat Pembina Kepegawaian (Menteri/Kepala Lembaga/Gubernur/Bupati/Walikota) menerbitkan surat keputusan penetapan PNS definitif. Aturan menegaskan kewenangan ini berada di tangan Pejabat Pembina Kepegawaian. Oleh karena itu, opsi E adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan pejabat perbendaharaan yang mengesahkan surat perintah pencairan dana.", "B": "Merupakan pimpinan lembaga penegak hukum tindak pidana korupsi.", "C": "Merupakan pejabat pengawas di tingkat unit operasional terbawah.", "D": "Merupakan tenaga ahli fungsional yang menjalankan tugas keahlian profesi."}
+======================================================================
+NO 11 | HLM 22 | KUNCI B | TOPIK: Prioritas Pengisian Jabatan ASN
+KW: ['Jabatan ASN diisi dari Pegawai ASN (PNS/PPPK)', 'Jabatan Manajerial dan Nonmanajerial diutamakan diisi PNS']
+Q: Menurut Undang-Undang ASN, pengisian Jabatan Manajerial dan Nonmanajerial diutamakan berasal dari...
+  A: Pegawai Badan Usaha Milik Negara yang memiliki kinerja unggul
+  B: Pegawai Negeri Sipil yang memenuhi kualifikasi dan kompetensi [KUNCI]
+  C: Tenaga konsultan swasta dengan keahlian sertifikasi internasional
+  D: Lulusan perguruan tinggi luar negeri melalui jalur afirmasi khusus
+  E: Staf kehormatan organisasi kemasyarakatan mitra kementerian
+Konsep: Ketentuan UU Nomor 20 Tahun 2023 menegaskan bahwa **Jabatan Manajerial dan Nonmanajerial diutamakan diisi PNS**.
+Alasan: Opsi B merupakan asas prioritas karier aparatur sipil dalam birokrasi pemerintahan. Pengisian struktur organisasi utama diarahkan mengoptimalkan potensi PNS yang memiliki status pegawai tetap negara. Ketentuan normatif merumuskan jabatan manajerial dan nonmanajerial diutamakan diisi PNS. Dengan demikian, opsi B adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan pegawai korporasi negara yang memiliki regulasi ketenagakerjaan tersendiri.", "C": "Merupakan penyedia jasa konsultansi eksternal berdasarkan kontrak kerja komersial.", "D": "Merupakan pelamar umum yang wajib melalui seleksi penerimaan resmi terlebih dahulu.", "E": "Merupakan anggota lembaga nonpemerintah yang berada di luar korps birokrasi."}
+======================================================================
+NO 12 | HLM 22 | KUNCI C | TOPIK: Pengisian Jabatan ASN Tertentu dari TNI Polri
+KW: ['Jabatan ASN tertentu dapat diisi dari', 'prajurit Tentara Nasional Indonesia dan anggota Kepolisian Negara Republik Indonesia']
+Q: Berdasarkan UU ASN terbaru, Jabatan ASN tertentu dapat diisi oleh prajurit TNI dan anggota Polri pada tingkat...
+  A: Seluruh kantor cabang perwakilan dinas kabupaten
+  B: Unit pelayanan publik di lingkungan dinas daerah
+  C: Instansi Pusat sesuai ketentuan peraturan perundangan [KUNCI]
+  D: Lembaga penegak hukum di tingkat distrik perbatasan
+  E: Kantor kelurahan dan perwakilan kecamatan perintis
+Konsep: **Jabatan ASN tertentu dapat diisi dari prajurit Tentara Nasional Indonesia dan anggota Kepolisian Negara Republik Indonesia dan dilaksanakan pada Instansi Pusat**.
+Alasan: Opsi C merupakan batasan yurisdiksi penugasan prajurit TNI dan anggota Polri dalam jabatan ASN. Penempatan personel pertahanan dan keamanan dibatasi pada pos instansi pusat yang membutuhkan sinergi keahlian strategis nasional. Regulasi menegaskan pengisian ini dilaksanakan pada Instansi Pusat. Oleh karena itu, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Merupakan unit kerja tingkat daerah kabupaten yang tidak menjadi lokus ketentuan ini.", "B": "Merupakan sektor pelayanan pemerintah daerah yang diisi aparatur sipil daerah.", "D": "Merupakan pos kepolisian kewilayahan di luar struktur jabatan sipil kementerian.", "E": "Merupakan struktur birokrasi kelurahan yang tidak menyerap penugasan pusat ini."}
+======================================================================
+NO 13 | HLM 22 | KUNCI D | TOPIK: Resiprokal Jabatan ASN di Lingkungan TNI Polri
+KW: ['Pegawai ASN (PNS/PPPK) dapat menduduki jabatan', 'di lingkungan Tentara Nasional Indonesia (TNI) dan Kepolisian Negara Republik Indonesia']
+Q: Ketentuan resiprokal dalam Pasal 20 UU Nomor 20 Tahun 2023 mengatur bahwa Pegawai ASN (PNS/PPPK) dapat...
+  A: Menolak instruksi tugas dinas ke luar wilayah kantor kementerian
+  B: Memperoleh kenaikan pangkat otomatis tanpa melalui evaluasi kinerja
+  C: Menjalankan kegiatan bisnis pribadi saat jam operasional kantor dinas
+  D: Menduduki jabatan di lingkungan TNI dan Polri sesuai kompetensi [KUNCI]
+  E: Mengalihkan status kepemilikan aset sarana kedinasan menjadi pribadi
+Konsep: **Pegawai ASN (PNS/PPPK) dapat menduduki jabatan di lingkungan Tentara Nasional Indonesia (TNI) dan Kepolisian Negara Republik Indonesia sesuai dengan kompetensi yang dibutuhkan**.
+Alasan: Opsi D merupakan asas mobilitas talenta dua arah antara birokrasi sipil dan institusi keamanan negara. ASN sipil yang memiliki kompetensi teknis manajerial atau fungsional tertentu dapat diperbantukan pada struktur internal TNI/Polri. Regulasi merumuskan hak resiprokal ASN untuk menduduki jabatan di TNI/Polri sesuai kebutuhan. Dengan demikian, opsi D adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan tindakan pembangkangan kedinasan yang melanggar kewajiban penugasan.", "B": "Merupakan penyimpangan asas meritokrasi kenaikan jenjang kepangkatan.", "C": "Merupakan larangan pemanfaatan jam kedinasan untuk kepentingan keuntungan diri.", "E": "Merupakan tindak penyelewengan pengelolaan barang milik negara yang melanggar hukum."}
+======================================================================
+NO 14 | HLM 22 | KUNCI E | TOPIK: Fondasi Pengembangan Talenta dan Karier
+KW: ['Pengembangan Talenta dan Karier diselenggarakan berdasarkan', 'Sistem Merit melalui manajemen talenta']
+Q: Pengembangan talenta dan pola karier Pegawai Negeri Sipil wajib diselenggarakan berdasarkan...
+  A: Senioritas usia kelender dan daftar kedekatan pribadi pejabat
+  B: Rekomendasi dari tokoh politik dan pertimbangan kekerabatan
+  C: Hasil undian terbuka berkala di lingkungan sekretariat jenderal
+  D: Penilaian subjektif atasan langsung tanpa instrumen terukur
+  E: Sistem Merit melalui manajemen talenta instansi pemerintah [KUNCI]
+Konsep: **Pengembangan Talenta dan Karier diselenggarakan berdasarkan Sistem Merit melalui manajemen talenta** (Pasal 46 UU No. 20 Tahun 2023).
+Alasan: Opsi E merupakan pilar utama tata kelola SDM aparatur modern yang transparan dan kompetitif. Manajemen talenta memetakan potensi dan kinerja pegawai guna mengisi posisi yang tepat (*right person on the right place*). Regulasi menegaskan pengembangan karier diselenggarakan berdasar Sistem Merit melalui manajemen talenta. Oleh karena itu, opsi E adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan pola patrimonial usang yang bertentangan dengan prinsip meritokrasi.", "B": "Merupakan praktik patronase politik yang dilarang keras dalam manajemen ASN.", "C": "Merupakan metode acak yang merusak tata kelola kompetensi organisasi.", "D": "Merupakan cara penilaian sepihak yang memicu diskriminasi perlakuan pegawai."}
+======================================================================
+NO 15 | HLM 22 | KUNCI A | TOPIK: Prinsip Pelaksanaan Promosi PNS
+KW: ['Promosi PNS dilakukan berdasarkan perbandingan objektif', 'prestasi kerja, kepemimpinan, kerjasama, kreativitas']
+Q: Biro SDM kementerian menyusun daftar usulan promosi jabatan administrator. Faktor pembanding objektif yang sah dinilai adalah...
+  A: Prestasi kerja, kepemimpinan, kerja sama, dan kreativitas pegawai [KUNCI]
+  B: Asal almamater pendidikan tinggi dan afiliasi kesukuan calon
+  C: Kondisi latar belakang ekonomi keluarga serta kepemilikan aset
+  D: Kedekatan tempat domisili pegawai dengan rumah kediaman menteri
+  E: Frekuensi keikutsertaan pegawai dalam kegiatan paguyuban kedaerahan
+Konsep: **Promosi PNS dilakukan berdasarkan perbandingan objektif** antara kompetensi, kualifikasi, persyaratan jabatan, **penilaian atas prestasi kerja, kepemimpinan, kerjasama, kreativitas, dan pertimbangan tim penilai kinerja**.
+Alasan: Opsi A merupakan parameter baku penilaian kinerja dan kualifikasi manajerial PNS. Penilaian promosi wajib bebas dari bias primordial dan murni mengukur rekam jejak kontribusi kerja nyata. Regulasi menyatakan promosi dinilai dari prestasi kerja, kepemimpinan, kerja sama, dan kreativitas. Dengan demikian, opsi A adalah pilihan yang benar.
+Bedah: {"B": "Merupakan faktor primordial alumni yang dilarang dijadikan tolak ukur promosi.", "C": "Merupakan data pribadi ekonomi yang tidak berkaitan dengan kecakapan tugas.", "D": "Merupakan pertimbangan kedekatan fisik yang memicu ketidakadilan seleksi.", "E": "Merupakan aktivitas sosial kedaerahan di luar ruang lingkup kinerja kedinasan."}
+======================================================================
+NO 16 | HLM 22 | KUNCI B | TOPIK: Asas Non-Diskriminasi Promosi PNS
+KW: ['tanpa membedakan gender, suku, agama, ras, dan golongan', 'Setiap PNS yang memenuhi syarat mempunyai hak yang sama untuk dipromosikan']
+Q: Asas perlakuan adil dalam promosi PNS menjamin bahwa promosi dilaksanakan tanpa membedakan...
+  A: Nilai capaian kinerja tahunan dan predikat integritas tugas
+  B: Gender, suku, agama, ras, maupun golongan sosial pegawai [KUNCI]
+  C: Tingkat kesesuaian kompetensi bidang dengan formasi jabatan
+  D: Hasil uji sertifikasi kecakapan manajerial yang terstandardisasi
+  E: Jenjang kepangkatan ruang minimal yang disyaratkan aturan
+Konsep: Promosi PNS wajib dilaksanakan secara adil **tanpa membedakan gender, suku, agama, ras, dan golongan**, di mana setiap PNS yang memenuhi syarat memiliki hak setara.
+Alasan: Opsi B merupakan perlindungan konstitusional terhadap hak asasi pegawai dalam meniti jenjang karier birokrasi. Sistem merit menuntut kesetaraan kesempatan bagi seluruh aparatur tanpa diskriminasi latar belakang identitas. Aturan menyatakan promosi dilarang membedakan gender, suku, agama, ras, dan golongan. Oleh karena itu, opsi B adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan indikator capaian kerja wajib yang justru harus dipertimbangkan.", "C": "Merupakan syarat mutlak kecakapan profesi yang wajib diuji secara teliti.", "D": "Merupakan bukti formal penguasaan standar manajerial yang harus dipenuhi.", "E": "Merupakan syarat legalitas kepegawaian yang wajib diperiksa sebelum promosi."}
+======================================================================
+NO 17 | HLM 22 | KUNCI C | TOPIK: Sifat Terbuka Pengisian JPT Utama dan Madya
+KW: ['Pengisian jabatan pimpinan tinggi utama dan madya', 'dilakukan secara terbuka dan kompetitif di kalangan PNS']
+Q: Pengisian jabatan pimpinan tinggi utama dan madya pada kementerian atau lembaga dilakukan secara...
+  A: Tertutup melalui mekanisme penunjukan langsung oleh rekan sejawat
+  B: Keluargaan dengan mengutamakan kerabat pejabat pimpinan sebelumnya
+  C: Terbuka dan kompetitif di kalangan PNS dengan memperhatikan syarat jabatan [KUNCI]
+  D: Tradisional melalui daftar antrean urut kepangkatan masa kerja tertua
+  E: Acak melalui penarikan nomor undian pada rapat pimpinan gabungan
+Konsep: **Pengisian jabatan pimpinan tinggi utama dan madya** pada kementerian/lembaga **dilakukan secara terbuka dan kompetitif di kalangan PNS** dengan memperhatikan syarat kompetensi, kualifikasi, rekam jejak, dan integritas.
+Alasan: Opsi C merupakan amanat undang-undang untuk mendapatkan talenta birokrasi terbaik melalui lelang jabatan terbuka. Mekanisme seleksi kompetitif memastikan pejabat yang terpilih memiliki kualifikasi, rekam jejak integritas, dan kompetensi mumpuni. Regulasi menegaskan seleksi JPT dilakukan terbuka dan kompetitif. Dengan demikian, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Merupakan mekanisme penunjukan tertutup yang rentan nepotisme birokrasi.", "B": "Merupakan praktik nepotisme terlarang yang merusak etika tata kelola publik.", "D": "Merupakan sistem DUK pasif murni yang telah digantikan oleh sistem merit kompetensi.", "E": "Merupakan metode acak nir-standar yang mencederai prinsip profesionalitas."}
+======================================================================
+NO 18 | HLM 22 | KUNCI D | TOPIK: Faktor Seleksi JPT Utama dan Madya
+KW: ['Pengisian jabatan pimpinan tinggi utama dan madya', 'memperhatikan syarat kompetensi, kualifikasi, kepangkatan']
+Q: Dalam seleksi terbuka JPT Utama dan Madya, hal yang BUKAN merupakan kriteria penilaian normatif adalah...
+  A: Kompetensi teknis dan manajerial calon
+  B: Kualifikasi pendidikan dan kepangkatan calon
+  C: Rekam jejak integritas dan moralitas calon
+  D: Besaran kontribusi finansial dana kampanye partai [KUNCI]
+  E: Riwayat pendidikan dan pelatihan kepemimpinan calon
+Konsep: Seleksi JPT Utama dan Madya memperhatikan **syarat kompetensi, kualifikasi, kepangkatan, pendidikan dan latihan, rekam jejak jabatan, dan integritas**.
+Alasan: Opsi D merupakan transaksi politik uang yang ilegal dan bertentangan total dengan asas netralitas aparatur. Seleksi JPT murni didasarkan pada kompetensi, kualifikasi, rekam jejak, dan integritas profesional pegawai. Aturan melarang segala bentuk intervensi dan sumbangan politik kepartaian. Oleh karena itu, opsi D adalah pilihan jawaban pengecualian yang benar.
+Bedah: {"A": "Merupakan kriteria utama pengujian kapabilitas memimpin organisasi kementerian.", "B": "Merupakan prasyarat administratif legal yang wajib dipenuhi pelamar JPT.", "C": "Merupakan tolak ukur etika dan rekam jejak moral yang wajib ditelusuri panitia.", "E": "Merupakan bukti pembinaan kompetensi manajerial yang tercatat di riwayat dinas."}
+======================================================================
+NO 19 | HLM 22 | KUNCI E | TOPIK: Peran Tim Penilai Kinerja dalam Promosi
+KW: ['dilakukan oleh Pejabat Pembina Kepegawaian', 'tim penilai kinerja PNS pada Instansi Pemerintah']
+Q: Sebelum Pejabat Pembina Kepegawaian menetapkan keputusan promosi seorang PNS, pertimbangan wajib diperoleh dari...
+  A: Dewan pengurus pusat partai politik pemenang pemilu legislatif
+  B: Konsultan manajemen sumber daya manusia dari pihak swasta
+  C: Asosiasi serikat buruh ketenagakerjaan sektor swasta nasional
+  D: Lembaga swadaya masyarakat pemerhati kebijakan anggaran publik
+  E: Tim penilai kinerja PNS pada instansi pemerintah bersangkutan [KUNCI]
+Konsep: Promosi PNS dilakukan oleh **Pejabat Pembina Kepegawaian setelah mendapat pertimbangan tim penilai kinerja PNS pada Instansi Pemerintah**.
+Alasan: Opsi E merupakan lembaga penasihat internal instansi yang bertugas menilai kelayakan promosi secara profesional dan terukur. Rekomendasi tim memastikan setiap pengangkatan didukung bukti capaian kinerja riil dan analisis kesesuaian kompetensi. Regulasi menetapkan PPK bertindak atas pertimbangan tim penilai kinerja PNS. Dengan demikian, opsi E adalah jawaban yang benar.
+Bedah: {"A": "Merupakan institusi politik di luar ranah netralitas birokrasi pemerintahan.", "B": "Merupakan entitas swasta eksternal yang tidak memiliki legalitas kewenangan penetapan.", "C": "Merupakan serikat pekerja sektor industri umum yang terpisah dari korps ASN.", "D": "Merupakan lembaga masyarakat pengawas eksternal tanpa mandat penilai ASN."}
+======================================================================
+NO 20 | HLM 22 | KUNCI A | TOPIK: Fleksibilitas Pengisian Jabatan dari PPPK
+KW: ['Jabatan Manajerial dan Jabatan Nonmanajerial tertentu', 'dapat diisi dari PPPK']
+Q: Ketentuan mengenai pengisian formasi jabatan tertentu dari unsur Pegawai Pemerintah dengan Perjanjian Kerja (PPPK) adalah...
+  A: PPPK dapat mengisi Jabatan Manajerial dan Nonmanajerial tertentu [KUNCI]
+  B: PPPK dilarang secara mutlak menduduki semua jenis jabatan pemerintah
+  C: PPPK hanya diperbolehkan bekerja pada unit kerja distrik perbatasan
+  D: PPPK otomatis diangkat menjadi pimpinan tinggi madya di kementerian
+  E: PPPK hanya dapat ditugaskan sebagai staf pelaksana kebersihan gedung
+Konsep: Ketentuan undang-undang mengatur bahwa **Jabatan Manajerial dan Jabatan Nonmanajerial tertentu dapat diisi dari PPPK** sesuai kebutuhan organisasi.
+Alasan: Opsi A merupakan wujud fleksibilitas pengadaan tenaga ahli profesional dalam birokrasi. Pemerintah membuka peluang bagi PPPK menduduki posisi fungsional maupun manajerial tertentu guna mempercepat pencapaian target strategis. Aturan menyatakan jabatan manajerial dan nonmanajerial tertentu dapat diisi PPPK. Oleh karena itu, opsi A adalah pilihan yang tepat.
+Bedah: {"B": "Merupakan penafsiran keliru yang mengabaikan kedudukan PPPK sebagai bagian resmi ASN.", "C": "Merupakan pembatasan geografis fiktif yang tidak berdasar pada ketentuan hukum.", "D": "Merupakan simplifikasi keliru karena pengisian JPT madya memerlukan syarat ketat.", "E": "Merupakan persepsi diskriminatif yang mendegradasi profesionalitas keahlian PPPK."}
+======================================================================
+NO 21 | HLM 23 | KUNCI C | TOPIK: Skala Pengisian JPT Utama dan Madya
+KW: ['Pengisian jabatan pimpinan tinggi utama dan madya sebagaimana dimaksud', 'dilakukan pada tingkat nasional']
+Q: Secara normatif, lingkup keterbukaan pengisian jabatan pimpinan tinggi utama dan madya dilakukan pada skala...
+  A: Internal terbatas pada satu unit eselon tiga satker
+  B: Wilayah kelurahan tempat kantor kementerian berada
+  C: Tingkat nasional di seluruh wilayah Republik Indonesia [KUNCI]
+  D: Kawasan perwakilan distrik kepulauan terluar negara
+  E: Tingkat kabupaten lokasi penerimaan formasi dibuka
+Konsep: **Pengisian jabatan pimpinan tinggi utama dan madya sebagaimana dimaksud dilakukan pada tingkat nasional**.
+Alasan: Opsi C merupakan skala jangkauan seleksi pucuk kepemimpinan aparatur sipil negara. Level manajerial tertinggi menuntut penyaringan kader terbaik bangsa tanpa dibatasi sekat kedaerahan atau instansi asal. Regulasi menetapkan seleksi JPT utama dan madya diadakan pada tingkat nasional. Oleh karena itu, opsi C adalah ketetapan yang benar.
+Bedah: {"A": "Merupakan lingkup pengisian jabatan pengawas lini unit terbawah.", "B": "Merupakan lingkup kewilayahan pemukiman di luar jangkauan seleksi JPT.", "D": "Merupakan zona afirmasi penempatan geografis khusus aparatur.", "E": "Merupakan lingkup seleksi jabatan pelaksana daerah kabupaten/kota."}
+======================================================================
+NO 22 | HLM 23 | KUNCI D | TOPIK: Lingkup Seleksi JPT Pratama
+KW: ['pengisian jabatan pimpinan tinggi pratama', 'dilakukan secara terbuka dan kompetitif pada tingkat nasional atau antar-kabupaten/kota dalam 1 (satu) provinsi']
+Q: Mekanisme pengisian jabatan pimpinan tinggi pratama dilaksanakan secara terbuka dan kompetitif pada lingkup...
+  A: Tingkat rukun tetangga dan perkumpulan aparatur lokal
+  B: Internal kelompok jabatan fungsional pelaksana kantor
+  C: Hanya di lingkungan staf khusus pimpinan lembaga pusat
+  D: Tingkat nasional atau antar-kabupaten/kota dalam satu provinsi [KUNCI]
+  E: Antar-asosiasi lembaga bantuan sosial kemasyarakatan
+Konsep: **Pengisian jabatan pimpinan tinggi pratama dilakukan secara terbuka dan kompetitif pada tingkat nasional atau antar-kabupaten/kota dalam 1 (satu) provinsi**.
+Alasan: Opsi D merupakan fleksibilitas jangkauan seleksi bagi eselon II/pratama yang diatur regulasi. Instansi dapat menjaring talenta dari seluruh tanah air atau memfokuskan mobilitas antardaerah dalam satu provinsi. Ketentuan hukum menegaskan seleksi pratama dapat berskala nasional atau antardaerah satu provinsi. Dengan demikian, opsi D adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan struktur komunitas masyarakat dan bukan ranah seleksi birokrasi.", "B": "Merupakan lingkup promosi internal kelompok fungsional teknis tingkat pertama.", "C": "Merupakan lingkup staf penasihat non-karier yang tidak berstatus JPT pratama.", "E": "Merupakan lembaga swadaya masyarakat di luar manajemen kepegawaian ASN."}
+======================================================================
+NO 23 | HLM 23 | KUNCI E | TOPIK: Pengisian JPT Tertentu dari Kalangan Non-PNS
+KW: ['Jabatan pimpinan tinggi utama dan madya tertentu', 'dapat berasal dari kalangan non-PNS dengan persetujuan Presiden']
+Q: Syarat yuridis mutlak agar jabatan pimpinan tinggi utama dan madya tertentu dapat diisi dari kalangan non-PNS adalah...
+  A: Mendapat rekomendasi dari pimpinan serikat pekerja swasta
+  B: Telah mempublikasikan buku ilmiah tentang sistem birokrasi
+  C: Pernah menjabat sebagai direktur pada korporasi multinasional
+  D: Memiliki izin tertulis dari pejabat pembina kepegawaian daerah
+  E: Mendapat persetujuan Presiden dan ditetapkan dalam Keppres [KUNCI]
+Konsep: **Jabatan pimpinan tinggi utama dan madya tertentu dapat berasal dari kalangan non-PNS dengan persetujuan Presiden** yang pengisiannya dilakukan secara terbuka dan kompetitif serta ditetapkan dalam **Keputusan Presiden**.
+Alasan: Opsi E merupakan wewenang tertinggi kepala pemerintahan dalam menetapkan pejabat negara profesional. Pengangkatan tenaga ahli non-PNS pada pucuk pimpinan kementerian memerlukan persetujuan kepala negara guna menjamin integritas visi nasional. Regulasi mensyaratkan persetujuan Presiden dan penetapan melalui Keppres. Oleh karena itu, opsi E adalah pilihan yang benar.
+Bedah: {"A": "Merupakan organisasi buruh umum yang tidak memiliki kewenangan penetapan ASN.", "B": "Merupakan karya akademik pribadi yang bukan syarat yuridis pengangkatan.", "C": "Merupakan rekam jejak korporasi swasta yang tidak otomatis mengesahkan status.", "D": "Merupakan pejabat daerah yang tidak berwenang mengesahkan JPT utama pusat."}
+======================================================================
+NO 24 | HLM 23 | KUNCI A | TOPIK: Syarat TNI Polri Masuk JPT Umum
+KW: ['diisi oleh prajurit TNI dan anggota Kepolisian Negara Republik Indonesia (Polri)', 'setelah mengundurkan diri dari dinas aktif']
+Q: Seorang perwira militer ingin mengikuti seleksi terbuka JPT Madya pada kementerian sipil umum. Syarat wajib yang harus dipenuhi adalah...
+  A: Mengundurkan diri terlebih dahulu dari dinas aktif militer [KUNCI]
+  B: Mengajukan penugasan rangkap dengan tetap menerima gaji ganda
+  C: Meminta surat rekomendasi penugasan dari gubernur setempat
+  D: Menjalani cuti tahunan selama masa pendaftaran lelang jabatan
+  E: Menyerahkan perlengkapan operasional kepada kejaksaan negeri
+Konsep: Jabatan pimpinan tinggi dapat diisi oleh prajurit TNI dan anggota Polri **setelah mengundurkan diri dari dinas aktif** apabila dibutuhkan dan sesuai dengan kompetensi.
+Alasan: Opsi A merupakan prinsip supremasi sipil dan pemisahan fungsi militer dengan tata kelola birokrasi sipil umum. Anggota TNI/Polri yang ingin berkompetisi dalam jabatan struktural sipil reguler wajib melepas status dinas aktif pertahanannya. Regulasi menegaskan keharusan mengundurkan diri dari dinas aktif terlebih dahulu. Dengan demikian, opsi A adalah keputusan yang tepat.
+Bedah: {"B": "Merupakan larangan rangkap status dan larangan penggajian ganda uang negara.", "C": "Merupakan pejabat daerah yang tidak membawahi komando personel militer.", "D": "Merupakan hak cuti biasa yang tidak menghapus ikatan dinas aktif keprajuritan.", "E": "Merupakan aparat kejaksaan yang berwenang dalam penuntutan perkara pidana."}
+======================================================================
+NO 25 | HLM 23 | KUNCI B | TOPIK: Komposisi Panitia Seleksi JPT
+KW: ['terlebih dahulu membentuk panitia seleksi Instansi Pemerintah', 'unsur internal maupun eksternal Instansi Pemerintah']
+Q: Panitia seleksi yang dibentuk oleh Pejabat Pembina Kepegawaian untuk pengisian JPT wajib beranggotakan...
+  A: Seluruh pejabat eselon empat unit administrasi dan kepegawaian
+  B: Kombinasi berimbang unsur internal dan eksternal instansi pemerintah [KUNCI]
+  C: Mantan terpidana perkara korupsi yang telah menjalani pidana
+  D: Pihak perwakilan vendor penyedia jasa teknologi komersial
+  E: Staf honorer yang memiliki masa kerja lebih dari sepuluh tahun
+Konsep: Pengisian jabatan pimpinan tinggi dilakukan oleh PPK dengan terlebih dahulu membentuk **panitia seleksi yang terdiri dari unsur internal maupun eksternal Instansi Pemerintah**.
+Alasan: Opsi B merupakan kaidah objektivitas dan independensi penilaian seleksi jabatan birokrasi. Kehadiran pakar eksternal (akademisi/praktisi) mencegah potensi konflik kepentingan di lingkungan internal birokrasi. Aturan menyebutkan pansel terdiri dari unsur internal dan eksternal instansi. Oleh karena itu, opsi B adalah pilihan yang benar.
+Bedah: {"A": "Merupakan pejabat tingkat pengawas yang tidak lazim menguji calon pimpinan tinggi.", "C": "Merupakan pihak yang memiliki catatan integritas cacat dan dilarang menjadi pansel.", "D": "Merupakan rekanan bisnis pengadaan yang tidak berwenang menguji aparat.", "E": "Merupakan staf non-ASN yang tidak memiliki kompetensi legal penilai JPT."}
+======================================================================
+NO 26 | HLM 23 | KUNCI C | TOPIK: Koordinasi Pembentukan Pansel JPT
+KW: ['panitia seleksi Instansi Pemerintah', 'unsur internal maupun eksternal']
+Q: Berdasarkan PermenPAN-RB Nomor 15 Tahun 2019, keanggotaan panitia seleksi instansi pemerintah terdiri atas unsur...
+  A: Pejabat eselon satu kementerian koordinator saja
+  B: Aparatur pengawas internal pemerintah daerah
+  C: Internal maupun eksternal instansi bersangkutan [KUNCI]
+  D: Asosiasi profesi advokat dan konsultan hukum
+  E: Staf khusus menteri serta tenaga ahli fraksi
+Konsep: Pembentukan panitia seleksi instansi pemerintah untuk pengisian JPT terdiri dari **unsur internal maupun eksternal Instansi Pemerintah yang bersangkutan** sesuai PermenPAN-RB Nomor 15 Tahun 2019.
+Alasan: Opsi C merupakan jawaban yang tepat. Regulasi pengisian JPT secara terbuka mengharuskan panitia seleksi memadukan perspektif internal instansi dan objektivitas ahli independen eksternal. Komposisi seimbang ini menjamin asesmen kompetensi kandidat berjalan secara profesional dan transparan.
+Bedah: {"A": "Pansel tidak boleh hanya diisi pejabat satu kementerian koordinator.", "B": "Aparatur pengawas internal daerah bukan komposisi tunggal panitia.", "D": "Asosiasi advokat bukan komponen wajib dalam seleksi terbuka JPT.", "E": "Tenaga ahli fraksi partai politik dilarang menjadi anggota pansel."}
+======================================================================
+NO 27 | HLM 23 | KUNCI D | TOPIK: Pengecualian Seleksi Terbuka bagi Instansi Merit
+KW: ['kalangan non-PNS dengan persetujuan Presiden', 'Keputusan Presiden']
+Q: Pengisian jabatan pimpinan tinggi utama dan madya tertentu dari kalangan non-PNS wajib ditetapkan melalui...
+  A: Surat Keputusan Bersama Kepala Lembaga
+  B: Peraturan Menteri Pendayagunaan Aparatur
+  C: Instruksi Khusus Pejabat Pembina Kepegawaian
+  D: Keputusan Presiden Republik Indonesia [KUNCI]
+  E: Piagam Kerja Sama Lembaga Non Struktural
+Konsep: Pengisian JPT utama dan madya dari kalangan non-PNS dilaksanakan atas **persetujuan Presiden** dan secara resmi **ditetapkan dalam Keputusan Presiden**.
+Alasan: Opsi D merupakan jawaban yang tepat. Pengangkatan profesional non-PNS pada posisi pimpinan tinggi utama dan madya merupakan hak prerogatif yang memerlukan persetujuan kepala negara. Penetapan akhir dituangkan secara sah dalam instrumen Keputusan Presiden setelah seleksi terbuka.
+Bedah: {"A": "SKB Kepala Lembaga tidak berwenang mengangkat pejabat pimpinan tinggi.", "B": "Peraturan Menteri merupakan pedoman umum bukan instrumen pengangkatan.", "C": "PPK instansi tidak dapat menetapkan pengangkatan non-PNS secara sepihak.", "E": "Piagam kerja sama tidak memiliki kekuatan hukum mengangkat pejabat."}
+======================================================================
+NO 28 | HLM 23 | KUNCI E | TOPIK: Kewajiban Pelaporan Berkala Sistem Merit
+KW: ['prajurit TNI dan anggota Kepolisian', 'mengundurkan diri dari dinas aktif']
+Q: Prajurit TNI dan anggota Polri dapat mengisi jabatan pimpinan tinggi umum setelah memenuhi persyaratan mutlak berupa...
+  A: Mendapatkan rekomendasi tertulis dari perwira tinggi
+  B: Menyelesaikan masa penugasan operasi perbatasan
+  C: Memperoleh tanda kehormatan tingkat bintang negara
+  D: Menyerahkan seluruh tanda kepangkatan dinas militer
+  E: Mengundurkan diri secara resmi dari dinas aktif [KUNCI]
+Konsep: Prajurit TNI dan anggota Polri dapat mengisi jabatan pimpinan tinggi **setelah mengundurkan diri dari dinas aktif** apabila dibutuhkan dan sesuai kompetensi yang ditetapkan.
+Alasan: Opsi E merupakan jawaban yang tepat. Prinsip supremasi sipil dan netralitas birokrasi mengharuskan personel militer atau kepolisian beralih status menjadi purnawirawan/sipil sebelum menduduki JPT umum. Pengunduran diri dari dinas aktif menjadi syarat mutlak keikutsertaan seleksi.
+Bedah: {"A": "Rekomendasi tertulis atasan militer bukan syarat utama pengisian JPT sipil.", "B": "Penugasan perbatasan tidak berkaitan dengan syarat administratif JPT.", "C": "Tanda kehormatan militer bukan prasyarat menduduki jabatan birokrasi.", "D": "Penyerahan tanda pangkat adalah konsekuensi simbolis bukan syarat formal."}
+======================================================================
+NO 29 | HLM 23 | KUNCI A | TOPIK: Regulasi Teknis Pengisian JPT Terbuka
+KW: ['Peraturan Menteri Pendayagunaan Aparatur Negara-Reformasi Birokrasi Nomor 15 Tahun 2019', 'Pengisian Jabatan Pimpinan Tinggi Secara Terbuka dan Kompetitif']
+Q: Regulasi menteri yang mengatur pedoman teknis pengisian jabatan pimpinan tinggi secara terbuka dan kompetitif adalah...
+  A: Peraturan Menteri PAN-RB Nomor 15 Tahun 2019 [KUNCI]
+  B: Peraturan Menteri Keuangan Nomor 10 Tahun 2015
+  C: Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2020
+  D: Peraturan Badan Pengawas Pemilu Nomor 8 Tahun 2021
+  E: Peraturan Jaksa Agung Muda Bidang Intelijen 2018
+Konsep: Tata cara pengisian JPT terbuka dijelaskan pada **Peraturan Menteri Pendayagunaan Aparatur Negara-Reformasi Birokrasi Nomor 15 Tahun 2019 tentang Pengisian Jabatan Pimpinan Tinggi Secara Terbuka dan Kompetitif di Lingkungan Instansi Pemerintah**.
+Alasan: Opsi A merupakan dasar hukum teknis pelaksanaan lelang jabatan pimpinan tinggi aparatur sipil negara. PermenPAN-RB ini memuat standar pembentukan pansel, tahapan uji kompetensi, hingga penetapan calon pejabat. Regulasi yang tepat adalah PermenPAN-RB No 15 Tahun 2019. Oleh karena itu, opsi A adalah jawaban yang benar.
+Bedah: {"B": "Merupakan peraturan bendahara umum negara mengenai tata kelola anggaran.", "C": "Merupakan regulasi kementerian dalam negeri mengenai administrasi wilayah.", "D": "Merupakan aturan tata laksana pengawasan kontestasi pemilu lembaga pemilu.", "E": "Merupakan regulasi teknis internal korps adhyaksa dalam fungsi intelijen."}
+======================================================================
+NO 30 | HLM 23 | KUNCI B | TOPIK: Penugasan TNI Polri di Instansi Tertentu
+KW: ['jabatan pimpinan tinggi di lingkungan Instansi Pemerintah tertentu', 'dapat diisi oleh prajurit TNI dan anggota Polri']
+Q: Ketentuan penugasan prajurit TNI dan anggota Polri pada jabatan pimpinan tinggi di instansi pemerintah tertentu mengatur bahwa...
+  A: Prajurit TNI dan Polri otomatis menguasai seluruh aset instansi sipil
+  B: Dapat diisi oleh prajurit TNI dan Polri sesuai kompetensi dan perundangan [KUNCI]
+  C: Seluruh pejabat sipil kementerian wajib diberhentikan tanpa pesangon
+  D: Instansi sipil tersebut dialihkan menjadi pangkalan komando pertahanan
+  E: Seleksi ditiadakan dan diganti dengan penunjukan langsung komandan batalion
+Konsep: Untuk jabatan pimpinan tinggi di lingkungan Instansi Pemerintah tertentu **dapat diisi oleh prajurit TNI dan anggota Polri sesuai dengan kompetensi berdasarkan ketentuan peraturan perundang-undangan**.
+Alasan: Opsi B merupakan kebijakan sinergi kelembagaan bagi instansi yang memiliki tugas pokok terkait pertahanan, keamanan, narkotika, atau intelijen. Penempatan personel tetap didasarkan pada kesesuaian kompetensi dan undang-undang terkait. Aturan menyatakan JPT tertentu dapat diisi TNI/Polri sesuai kompetensi. Dengan demikian, opsi B adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan tindakan penguasaan ilegal aset negara yang dilarang undang-undang.", "C": "Merupakan pemutusan hubungan kerja sepihak tanpa dasar hukum bagi pegawai sipil.", "D": "Merupakan alih status militeristik yang bertentangan dengan hukum tata negara.", "E": "Merupakan penunjukan non-prosedural yang melanggar undang-undang kepegawaian."}
+======================================================================
+NO 31 | HLM 24 | KUNCI E | TOPIK: Jumlah Calon JPT Utama Madya ke Presiden
+KW: ['panitia seleksi Instansi Pemerintah memilih 3 (tiga) nama calon', 'Pejabat Pembina Kepegawaian mengusulkan 3 (tiga) nama calon sebagaimana dimaksud kepada Presiden']
+Q: Dalam seleksi JPT Utama dan Madya di Instansi Pusat, jumlah nama calon pejabat terpilih yang diusulkan PPK kepada Presiden adalah...
+  A: Satu nama calon tunggal terbaik
+  B: Dua nama calon peraih nilai teratas
+  C: Lima nama calon peserta nilai tertinggi
+  D: Empat nama calon rekomendasi eselon satu
+  E: Tiga nama calon hasil seleksi pansel [KUNCI]
+Konsep: Panitia seleksi memilih **3 (tiga) nama calon** untuk setiap 1 lowongan, yang disampaikan kepada PPK untuk selanjutnya **diusulkan 3 (tiga) nama calon kepada Presiden**.
+Alasan: Opsi E merupakan kuota baku nama calon yang wajib diajukan ke kepala negara (*three-name list*). Hal ini memberikan diskresi legal bagi Presiden selaku pembina tertinggi ASN untuk memilih satu figur terbaik dari tiga kandidat terbaik. Aturan menegaskan jumlah yang diusulkan adalah 3 nama calon. Oleh karena itu, opsi E adalah jawaban yang benar.
+Bedah: {"A": "Merupakan calon tunggal yang menghilangkan ruang hak prerogatif pemilihan Presiden.", "B": "Merupakan usulan dua nama yang tidak memenuhi standar kuota baku regulasi.", "D": "Merupakan jumlah usulan berlebih yang tidak sesuai PermenPAN-RB No 15/2019.", "C": "Merupakan kuota tahap awal uji wawancara dan bukan naskah usulan ke Presiden."}
+======================================================================
+NO 32 | HLM 24 | KUNCI C | TOPIK: Wewenang Penetapan Pejabat JPT Utama Madya
+KW: ['Presiden memilih 1 (satu) nama dari 3 (tiga) nama calon yang disampaikan', 'ditetapkan sebagai pejabat pimpinan tinggi utama dan/atau madya']
+Q: Pihak yang memiliki kewenangan mutlak memilih satu nama dan menetapkan pejabat pimpinan tinggi utama dan madya di pusat adalah...
+  A: Ketua Komisi Pemilihan Umum Republik Indonesia
+  B: Kepala Badan Kepegawaian Daerah tingkat provinsi
+  C: Presiden Republik Indonesia selaku pemegang wewenang [KUNCI]
+  D: Pimpinan organisasi masyarakat mitra kementerian
+  E: Koordinator sekretariat panitia seleksi internal
+Konsep: **Presiden memilih 1 (satu) nama dari 3 (tiga) nama calon yang disampaikan untuk ditetapkan sebagai pejabat pimpinan tinggi utama dan/atau madya**.
+Alasan: Opsi C merupakan pemegang kekuasaan tertinggi dalam penetapan posisi pimpinan birokrasi strategis negara. Kepala negara menelaah ketiga kandidat dan menetapkan satu pejabat terpilih melalui Keputusan Presiden. Aturan menyatakan Presiden yang memilih 1 dari 3 nama calon. Dengan demikian, opsi C adalah ketetapan yang tepat.
+Bedah: {"A": "Merupakan penyelenggara pemilu kontestasi politik dan bukan pejabat kepegawaian.", "B": "Merupakan pejabat teknis daerah yang tidak berwenang atas JPT utama pusat.", "D": "Merupakan entitas swasta nonpemerintah di luar struktur tata negara.", "E": "Merupakan pelaksana administrasi teknis pansel tanpa kewenangan memutus."}
+======================================================================
+NO 33 | HLM 24 | KUNCI D | TOPIK: Mekanisme Pengisian JPT Pratama Pusat
+KW: ['pengisian jabatan pimpinan tinggi pratama dilakukan oleh Pejabat Pembina Kepegawaian', 'melalui Pejabat yang Berwenang']
+Q: Panitia seleksi JPT Pratama di kementerian telah menghasilkan tiga nama terbaik. Alur penyampaian naskah calon kepada PPK dilakukan melalui...
+  A: Pengumuman terbuka di media sosial kementerian
+  B: Rapat dengar pendapat bersama komisi parlemen
+  C: Sidang terbuka majelis kehormatan disiplin pegawai
+  D: Pejabat yang Berwenang pada instansi bersangkutan [KUNCI]
+  E: Laporan pengaduan masyarakat secara daring
+Konsep: Pada pengisian JPT Pratama, panitia seleksi memilih 3 nama calon yang disampaikan **kepada Pejabat Pembina Kepegawaian melalui Pejabat yang Berwenang (PyB)**.
+Alasan: Opsi D merupakan jalur hierarki birokrasi resmi sebelum naskah masuk ke meja menteri/kepala lembaga selaku PPK. Pejabat yang Berwenang (PyB, seperti Sekretaris Jenderal) memberikan telaah pertimbangan manajerial atas ketiga calon tersebut. Regulasi menegaskan penyampaian dilakukan melalui Pejabat yang Berwenang. Oleh karena itu, opsi D adalah alur yang benar.
+Bedah: {"A": "Merupakan sarana publikasi hasil dan bukan jalur legal penyampaian berkas.", "B": "Merupakan forum pengawasan legislatif yang tidak mencampuri seleksi eselon II.", "C": "Merupakan forum penegakan sanksi etik dan bukan prosedur seleksi jabatan.", "E": "Merupakan kanal pengaduan publik yang terpisah dari tahapan pengusulan nama."}
+======================================================================
+NO 34 | HLM 24 | KUNCI E | TOPIK: Penetapan Pejabat JPT Pratama Pusat
+KW: ['Pejabat Pembina Kepegawaian lalu memilih 1 (satu) dari 3 (tiga) nama calon', 'ditetapkan sebagai pejabat pimpinan tinggi pratama']
+Q: Pihak yang berwenang memilih satu dari tiga nama calon serta menetapkannya sebagai pejabat pimpinan tinggi pratama adalah...
+  A: Auditor madya pada badan pemeriksa keuangan
+  B: Direktur utama perusahaan penyedia tenaga kerja
+  C: Hakim ketua pada pengadilan tata usaha negara
+  D: Ketua dewan perwakilan rakyat tingkat daerah
+  E: Pejabat Pembina Kepegawaian instansi pemerintah [KUNCI]
+Konsep: **Pejabat Pembina Kepegawaian lalu memilih 1 (satu) dari 3 (tiga) nama calon yang diusulkan dengan memperhatikan pertimbangan Pejabat yang Berwenang untuk ditetapkan sebagai pejabat pimpinan tinggi pratama**.
+Alasan: Opsi E merupakan pemegang otoritas penetapan JPT Pratama (eselon II). Berbeda dengan JPT Utama/Madya yang ditetapkan Presiden, JPT Pratama ditetapkan langsung oleh menteri/kepala lembaga selaku PPK instansi. Regulasi menyebutkan PPK yang memilih dan menetapkan pejabat JPT pratama. Dengan demikian, opsi E adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan pejabat fungsional pemeriksa keuangan eksternal negara.", "C": "Merupakan aparatur peradilan yang mengadili perkara sengketa hukum.", "D": "Merupakan pimpinan lembaga perwakilan rakyat tingkat daerah.", "B": "Merupakan pimpinan korporasi swasta penyalur tenaga *outsourcing*."}
+======================================================================
+NO 35 | HLM 24 | KUNCI A | TOPIK: Alur Pengusulan Sekda Provinsi / JPT Madya Daerah
+KW: ['pengisian jabatan pimpinan tinggi madya di tingkat provinsi', 'usulkan kepada Presiden melalui Menteri Dalam Negeri (Mendagri)']
+Q: Gubernur telah mengantongi tiga nama calon hasil seleksi JPT Madya provinsi (Sekda). Prosedur pengusulan kepada Presiden dilakukan melalui...
+  A: Menteri Dalam Negeri Republik Indonesia [KUNCI]
+  B: Menteri Keuangan Republik Indonesia
+  C: Kepala Kepolisian Daerah setempat
+  D: Komandan Komando Resor Militer wilayah
+  E: Ketua Mahkamah Konstitusi Indonesia
+Konsep: Pada JPT madya tingkat provinsi, 3 nama calon diserahkan kepada PPK untuk selanjutnya **diusulkan kepada Presiden melalui Menteri Dalam Negeri (Mendagri)**.
+Alasan: Opsi A merupakan pintu koordinasi hierarki pemerintahan daerah ke tingkat pusat. Menteri Dalam Negeri memverifikasi kepatuhan administratif dan kesesuaian regulasi sebelum meneruskan naskah usulan kepada kepala negara. Aturan menegaskan pengusulan ke Presiden wajib melalui Menteri Dalam Negeri. Oleh karena itu, opsi A adalah alur yang benar.
+Bedah: {"B": "Merupakan menteri pengelola keuangan negara dan fiskal makro.", "C": "Merupakan pimpinan institusi kepolisian kewilayahan di daerah.", "D": "Merupakan komandan satuan teritorial militer angkatan darat di daerah.", "E": "Merupakan lembaga yudikatif penguji konstitusionalitas undang-undang."}
+======================================================================
+NO 36 | HLM 24 | KUNCI B | TOPIK: Penetapan Akhir JPT Madya Provinsi
+KW: ['Presiden akan memilih 1 (satu) nama dari 3 (tiga) nama calon yang disampaikan', 'ditetapkan sebagai pejabat pimpinan tinggi madya']
+Q: Pihak yang menetapkan keputusan final pengangkatan Sekretaris Daerah Provinsi (JPT Madya) adalah...
+  A: Ketua dewan perwakilan rakyat daerah provinsi
+  B: Presiden Republik Indonesia melalui Keputusan Presiden [KUNCI]
+  C: Rektor perguruan tinggi negeri terkemuka di daerah
+  D: Ketua majelis permusyawaratan ulama kabupaten
+  E: Kepala kantor perwakilan kementerian hukum dan ham
+Konsep: Untuk JPT Madya tingkat provinsi, **Presiden akan memilih 1 (satu) nama dari 3 (tiga) nama calon yang disampaikan untuk ditetapkan sebagai pejabat pimpinan tinggi madya**.
+Alasan: Opsi B merupakan pemegang hak legal penetapan sekretaris daerah provinsi sebagai eselon I daerah. Karena sekda provinsi memegang peranan strategis koordinasi nasional-daerah, penetapan hukumnya berada langsung di tangan Presiden. Regulasi menegaskan penetapan dilakukan oleh Presiden. Dengan demikian, opsi B adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan lembaga legislatif daerah mitra eksekutif pemerintah provinsi.", "C": "Merupakan pimpinan institusi pendidikan tinggi akademik.", "D": "Merupakan tokoh keagamaan daerah yang tidak memiliki wewenang tata negara.", "E": "Merupakan instansi vertikal kementerian yang tidak menetapkan sekda."}
+======================================================================
+NO 37 | HLM 24 | KUNCI A | TOPIK: Penetapan JPT Pratama di Daerah
+KW: ['pengisian jabatan pimpinan tinggi pratama dilakukan oleh Pejabat Pembina Kepegawaian', 'memilih 1 (satu) dari 3 (tiga) nama calon untuk ditetapkan dan dilantik']
+Q: Dalam seleksi terbuka JPT Pratama (Kepala Dinas/Badan) di lingkungan pemerintah daerah, pihak yang menetapkan dan melantik pejabat adalah...
+  A: Pejabat Pembina Kepegawaian pemerintah daerah bersangkutan [KUNCI]
+  B: Kepala kejaksaan tinggi tingkat wilayah provinsi
+  C: Pimpinan asosiasi pengusaha daerah tingkat kota
+  D: Ketua badan pengawas pemilu tingkat perwakilan
+  E: Inspektur jenderal kementerian dalam negeri pusat
+Konsep: Pengisian JPT Pratama di daerah dilakukan oleh **Pejabat Pembina Kepegawaian (Gubernur/Bupati/Walikota) yang memilih 1 dari 3 nama calon untuk ditetapkan dan dilantik**.
+Alasan: Opsi A merupakan otoritas kepegawaian kepala daerah terhadap pejabat eselon II di wilayahnya. Setelah menerima rekomendasi pansel melalui PyB, kepala daerah selaku PPK menetapkan dan melantik kandidat terpilih. Aturan menyatakan PPK daerah yang memilih, menetapkan, dan melantik. Oleh karena itu, opsi A adalah jawaban yang benar.
+Bedah: {"B": "Merupakan pimpinan penuntut umum kejaksaan di tingkat provinsi.", "C": "Merupakan perkumpulan sektor bisnis swasta nonpemerintah.", "D": "Merupakan pengawas penyelenggaraan pesta demokrasi elektoral.", "E": "Merupakan pejabat pengawas internal kementerian dalam negeri."}
+======================================================================
+NO 38 | HLM 24 | KUNCI E | TOPIK: Definisi Pejabat yang Berwenang (PyB)
+KW: ['pejabat yang memiliki kewenangan menetapkan pengangkatan, pemindahan, dan pemberhentian pegawai ASN', 'Pejabat yang Berwenang']
+Q: Berdasarkan regulasi manajemen kepegawaian, definisi dari Pejabat yang Berwenang (PyB) adalah pejabat yang memiliki kewenangan...
+  A: Menyelenggarakan penahanan fisik dan penyitaan aset aparatur
+  B: Mengubah susunan struktur pasal dalam undang-undang dasar
+  C: Mengesahkan pinjaman utang luar negeri atas nama negara
+  D: Membubarkan kepengurusan partai politik peserta pemilu
+  E: Menetapkan pengangkatan, pemindahan, dan pemberhentian pegawai ASN [KUNCI]
+Konsep: **Pejabat yang Berwenang (PyB)** didefinisikan sebagai **pejabat yang memiliki kewenangan menetapkan pengangkatan, pemindahan, dan pemberhentian pegawai ASN** sesuai pendelegasian wewenang.
+Alasan: Opsi E merupakan batasan yuridis tugas dan fungsi PyB dalam manajemen ASN. PyB bertindak membantu PPK dalam tata kelola administrasi mutasi, promosi, dan disiplin pegawai. Regulasi mendefinisikan PyB sebagai pejabat pengatur pengangkatan, pemindahan, dan pemberhentian ASN. Dengan demikian, opsi E adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan tindakan pro-justitia penegak hukum peradilan pidana.", "C": "Merupakan kewenangan menteri keuangan bersama persetujuan parlemen.", "D": "Merupakan wewenang eksklusif lembaga yudikatif Mahkamah Konstitusi.", "B": "Merupakan kewenangan tertinggi Majelis Permusyawaratan Rakyat."}
+======================================================================
+NO 39 | HLM 24 | KUNCI A | TOPIK: Fungsi Pertimbangan PyB dalam Seleksi Pratama
+KW: ['panitia seleksi memilih 3 (tiga) nama untuk setiap 1 (satu) lowongan', 'memperhatikan pertimbangan Pejabat yang Berwenang']
+Q: Dalam menetapkan pejabat JPT Pratama dari tiga kandidat terbaik, Pejabat Pembina Kepegawaian wajib memperhatikan...
+  A: Pertimbangan tertulis dari Pejabat yang Berwenang instansi [KUNCI]
+  B: Ramalan keberuntungan dari pakar spiritual daerah
+  C: Hasil jajak pendapat terbuka akun media sosial publik
+  D: Tingkat kedekatan hubungan keluarga calon dengan menteri
+  E: Besaran janji gratifikasi yang ditawarkan oleh calon terpilih
+Konsep: Pejabat Pembina Kepegawaian memilih 1 dari 3 nama calon dengan **memperhatikan pertimbangan Pejabat yang Berwenang (PyB)** untuk ditetapkan sebagai pejabat pimpinan tinggi pratama.
+Alasan: Opsi A merupakan rambu tata kelola yang menjamin telaah manajerial teknis tidak terabaikan oleh keputusan politis menteri/kepala daerah. Masukan dari PyB memastikan figur yang dipilih memiliki kecocokan (*fit*) operasional dengan ritme kerja instansi. Regulasi menetapkan PPK wajib memperhatikan pertimbangan PyB. Oleh karena itu, opsi A adalah jawaban yang benar.
+Bedah: {"B": "Merupakan hal takhayul yang bertentangan dengan rasionalitas tata kelola publik.", "C": "Merupakan jajak pendapat informal yang tidak berdasar pada instrumen merit.", "D": "Merupakan pertimbangan nepotisme yang dilarang keras dalam hukum birokrasi.", "E": "Merupakan tindak pidana korupsi penyuapan yang diancam pidana penjara berat."}
+======================================================================
+NO 40 | HLM 24 | KUNCI B | TOPIK: Tahapan Awal Pansel Pengisian JPT
+KW: ['pengisian jabatan pimpinan tinggi utama dan/atau madya', 'PermenPAN-RB Nomor 15 Tahun 2019']
+Q: Langkah pertama yang wajib dilakukan oleh Pejabat Pembina Kepegawaian dalam rangka pengisian JPT Pratama adalah...
+  A: Menunjuk langsung kerabat terdekat untuk mengisi jabatan lowong
+  B: Terlebih dahulu membentuk panitia seleksi instansi pemerintah [KUNCI]
+  C: Mengosongkan anggaran operasional belanja kantor selama setahun
+  D: Meminta bantuan pasukan pengamanan untuk menduduki kantor dinas
+  E: Menghentikan seluruh layanan perizinan terpadu kepada masyarakat
+Konsep: Pengisian jabatan pimpinan tinggi pratama dilakukan oleh PPK **dengan terlebih dahulu membentuk panitia seleksi** yang bertugas menyaring calon pejabat.
+Alasan: Opsi B merupakan prasyarat formal pelembagaan proses seleksi terbuka. Tanpa pembentukan pansel yang sah dan terkoordinasi dengan pengawas kepegawaian, proses lelang jabatan dinyatakan cacat prosedur. Regulasi menegaskan kewajiban terlebih dahulu membentuk panitia seleksi. Dengan demikian, opsi B adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan tindakan nepotisme yang merusak sistem birokrasi profesional.", "C": "Merupakan pemblokiran anggaran tanpa dasar hukum yang melumpuhkan satker.", "D": "Merupakan tindakan anarkis yang tidak ada hubungannya dengan lelang jabatan.", "E": "Merupakan pengabaian kewajiban pelayanan publik yang melanggar hukum."}
+======================================================================
+NO 41 | HLM 25 | KUNCI A | TOPIK: Koordinasi Penetapan Sekda Kab/Kota
+KW: ['memimpin sekretariat daerah kabupaten/kota', 'sebelum ditetapkan oleh bupati/walikota dikoordinasikan dengan gubernur']
+Q: Sebelum bupati atau walikota menetapkan pejabat Sekretaris Daerah Kabupaten/Kota terpilih, langkah wajib yang harus ditempuh adalah...
+  A: Melakukan koordinasi terlebih dahulu dengan Gubernur setempat [KUNCI]
+  B: Meminta pengesahan naskah pelantikan kepada komisi yudisial
+  C: Mengumumkan nama terpilih pada surat kabar internasional
+  D: Menunggu persetujuan tertulis dari pimpinan serikat pengusaha
+  E: Menyerahkan mandat kekuasaan daerah kepada komando distrik militer
+Konsep: Khusus untuk pejabat pimpinan tinggi pratama yang memimpin sekretariat daerah kabupaten/kota, **sebelum ditetapkan oleh bupati/walikota dikoordinasikan dengan gubernur**.
+Alasan: Opsi A merupakan wujud kedudukan Gubernur sebagai wakil pemerintah pusat di wilayah daerah (*dekonsentrasi*). Koordinasi menjamin figur sekda kabupaten/kota memiliki kapabilitas sinergi dengan arah pembangunan provinsi dan nasional. Aturan menyatakan sebelum ditetapkan wajib dikoordinasikan dengan gubernur. Oleh karena itu, opsi A adalah langkah yang benar.
+Bedah: {"B": "Merupakan lembaga pengawas kehormatan peradilan dan hakim agung.", "C": "Merupakan media luar negeri yang tidak diwajibkan dalam tata laksana ASN.", "D": "Merupakan perkumpulan asosiasi komersial di luar ranah birokrasi publik.", "E": "Merupakan tindakan peralihan kuasa yang bertentangan dengan hukum otonomi daerah."}
+======================================================================
+NO 42 | HLM 25 | KUNCI B | TOPIK: Larangan Mengganti JPT Selama 2 Tahun
+KW: ['Pejabat Pembina Kepegawaian dilarang mengganti pejabat pimpinan tinggi', 'selama 2 (dua) tahun terhitung sejak pelantikan']
+Q: Demi menjamin stabilitas kepemimpinan organisasi, Pejabat Pembina Kepegawaian dilarang mengganti pejabat pimpinan tinggi selama...
+  A: Enam bulan masa adaptasi penugasan kantor
+  B: Dua tahun terhitung sejak waktu pelantikan [KUNCI]
+  C: Tiga tahun masa evaluasi program strategis
+  D: Empat tahun masa bhakti jabatan pimpinan
+  E: Tujuh tahun masa pengabdian aparatur sipil
+Konsep: **Pejabat Pembina Kepegawaian dilarang mengganti pejabat pimpinan tinggi selama 2 (dua) tahun terhitung sejak pelantikan pejabat pimpinan tinggi**.
+Alasan: Opsi B merupakan perlindungan hukum bagi pejabat karier dari mutasi politis sewenang-wenang (seperti pasca pilkada). Masa tenang dua tahun diperlukan agar program kerja strategis yang dirancang dapat dieksekusi tuntas. Regulasi menegaskan larangan penggantian selama 2 tahun sejak pelantikan. Dengan demikian, opsi B adalah batas waktu yang tepat.
+Bedah: {"A": "Merupakan batas adaptasi informal dan bukan batas perlindungan hukum JPT.", "C": "Merupakan masa evaluasi jangka menengah yang tidak menjadi ambang larangan.", "D": "Merupakan siklus masa jabatan pimpinan daerah dan bukan ambang proteksi JPT.", "E": "Merupakan masa kerja fungsional yang melampaui batas maksimal jabatan."}
+======================================================================
+NO 43 | HLM 25 | KUNCI C | TOPIK: Pengecualian Penggantian JPT Utama Madya Sebelum 2 Tahun
+KW: ['penggantian pejabat pimpinan tinggi utama dan madya sebelum 2 (dua) tahun', 'setelah mendapat persetujuan Presiden']
+Q: Seorang menteri bermaksud merotasi seorang Direktur Jenderal (JPT Madya) yang baru menjabat satu tahun. Syarat legalitas penggantian ini adalah...
+  A: Cukup menerbitkan nota dinas internal kementerian
+  B: Mendapat persetujuan lisan dari seluruh staf eselon tiga
+  C: Telah mendapat persetujuan resmi dari Presiden RI [KUNCI]
+  D: Meminta izin dispensasi kepada dinas ketenagakerjaan
+  E: Menyelenggarakan unjuk rasa di lingkungan kantor kementerian
+Konsep: Penggantian pejabat pimpinan tinggi utama dan madya **sebelum 2 (dua) tahun dapat dilakukan setelah mendapat persetujuan Presiden**.
+Alasan: Opsi C merupakan kontrol penyeimbang agar pergantian pejabat eselon I sebelum masa 2 tahun memiliki alasan kinerja yang sangat mendasar dan objektif. Izin kepala negara mencegah tindakan mutasi emosional atau politis sepihak oleh menteri. Regulasi mensyaratkan persetujuan Presiden. Oleh karena itu, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Merupakan tindakan sepihak yang melanggar prosedur regulasi manajemen JPT.", "B": "Merupakan jajak pendapat bawahan yang tidak memiliki landasan yuridis formal.", "D": "Merupakan instansi pengawas buruh swasta yang tidak berwenang atas JPT madya.", "E": "Merupakan aksi unjuk rasa yang dilarang bagi aparatur sipil negara."}
+======================================================================
+NO 44 | HLM 25 | KUNCI D | TOPIK: Batas Maksimal Masa Jabatan JPT
+KW: ['diduduki paling lama 5 (lima) tahun', 'dapat diperpanjang']
+Q: Berdasarkan regulasi manajemen ASN, masa jabatan seorang pejabat pimpinan tinggi hanya dapat diduduki paling lama...
+  A: Dua tahun tanpa kemungkinan perpanjangan
+  B: Tiga tahun dan dapat diperpanjang satu periode
+  C: Empat tahun berdasarkan evaluasi berkala
+  D: Lima tahun dan dapat diperpanjang [KUNCI]
+  E: Tujuh tahun mengikuti masa jabatan kepala daerah
+Konsep: Jabatan pimpinan tinggi hanya dapat **diduduki paling lama 5 (lima) tahun** dan **dapat diperpanjang** berdasarkan pencapaian kinerja dan evaluasi kompetensi.
+Alasan: Opsi D merupakan jawaban yang tepat. PP Nomor 11 Tahun 2017 membatasi masa jabatan JPT maksimal 5 tahun guna menjamin dinamika dan penyegaran kepemimpinan organisasi. Perpanjangan masa jabatan dimungkinkan setelah melalui uji kompetensi dan penilaian kinerja komprehensif.
+Bedah: {"A": "Batas waktu dua tahun terlalu singkat dan bukan batasan legal modul.", "B": "Masa jabatan tiga tahun bukan batas maksimal normatif pemangku JPT.", "C": "Regulasi menetapkan batas lima tahun bukan empat tahun.", "E": "Masa jabatan dinas tidak terkait siklus politis kepala daerah."}
+======================================================================
+NO 45 | HLM 25 | KUNCI E | TOPIK: Dasar Penyusunan Kebutuhan PPPK
+KW: ['Instansi Pemerintah wajib menyusun kebutuhan jumlah dan jenis jabatan', 'berdasarkan analisis jabatan dan analisis beban kerja']
+Q: Setiap Instansi Pemerintah wajib menyusun kebutuhan jumlah dan jenis formasi PPPK berdasarkan instrumen...
+  A: Perkiraan subjektif dari pimpinan loket pelayanan kantor
+  B: Kapasitas ruangan gedung dan ketersediaan meja kursi kerja
+  C: Jumlah kerabat aparatur yang belum memiliki pekerjaan tetap
+  D: Daftar permohonan sumbangan dari yayasan kemasyarakatan
+  E: Analisis jabatan dan analisis beban kerja instansi pemerintah [KUNCI]
+Konsep: Setiap Instansi Pemerintah wajib menyusun kebutuhan jumlah dan jenis jabatan PPPK **berdasarkan analisis jabatan (anjab) dan analisis beban kerja (ABK)**.
+Alasan: Opsi E merupakan metodologi saintifik dalam perencanaan formasi pegawai negara. Perhitungan berbasis anjab dan ABK memastikan pengadaan PPPK benar-benar sesuai dengan volume riil pekerjaan dan kebutuhan kompetensi teknis organisasi. Aturan menetapkan dasar penyusunan adalah anjab dan ABK. Oleh karena itu, opsi E adalah jawaban yang benar.
+Bedah: {"A": "Merupakan perkiraan tanpa dasar perhitungan beban volume tugas nyata.", "B": "Merupakan pertimbangan sarana fisik kantor yang tidak mencerminkan beban tugas.", "C": "Merupakan pertimbangan nepotisme yang dilarang dalam perencanaan formasi.", "D": "Merupakan kegiatan sosial di luar ranah kebutuhan formasi teknis kementerian."}
+======================================================================
+NO 46 | HLM 25 | KUNCI A | TOPIK: Dasar Hukum Jenis Jabatan PPPK
+KW: ['Peraturan Presiden Nomor 38 Tahun 2020', 'Jenis Jabatan yang Dapat Diisi oleh Pegawai Pemerintah dengan Perjanjian Kerja']
+Q: Regulasi hukum yang menetapkan rincian jenis-jenis jabatan yang dapat diisi oleh PPPK adalah...
+  A: Peraturan Presiden Nomor 38 Tahun 2020 [KUNCI]
+  B: Keputusan Komisi Yudisial Nomor 12 Tahun 2018
+  C: Instruksi Jaksa Agung Muda Bidang Pembinaan 2017
+  D: Surat Edaran Bersama Asosiasi Advokat Indonesia 2019
+  E: Peraturan Bank Indonesia mengenai Sistem Kliring 2021
+Konsep: Jenis jabatan yang dapat diisi oleh PPPK diatur secara spesifik dengan **Peraturan Presiden Nomor 38 Tahun 2020 tentang Jenis Jabatan yang Dapat Diisi oleh Pegawai Pemerintah dengan Perjanjian Kerja**.
+Alasan: Opsi A merupakan landasan hukum resmi yang merinci rumpun jabatan fungsional dan pimpinan tertentu yang terbuka bagi tenaga PPPK. Perpres ini menjamin kejelasan status formasi kepegawaian secara nasional. Regulasi yang tepat adalah Perpres Nomor 38 Tahun 2020. Dengan demikian, opsi A adalah jawaban yang tepat.
+Bedah: {"B": "Merupakan keputusan lembaga peradilan yang tidak mengatur formasi aparatur.", "C": "Merupakan instruksi penegakan hukum internal institusi kejaksaan.", "D": "Merupakan edaran organisasi profesi advokat hukum swasta.", "E": "Merupakan regulasi perbankan mengenai lalu lintas pembayaran uang."}
+======================================================================
+NO 47 | HLM 25 | KUNCI B | TOPIK: Jangka Waktu Perencanaan Kebutuhan PPPK
+KW: ['Penyusunan kebutuhan jumlah PPPK dilakukan untuk jangka waktu', 'minimal 5 (lima) tahun yang diperinci per 1 (satu) tahun']
+Q: Penyusunan rencana kebutuhan jumlah formasi PPPK oleh instansi pemerintah disusun untuk jangka waktu...
+  A: Tiga bulan masa darurat penanganan bencana
+  B: Minimal lima tahun yang diperinci per satu tahun [KUNCI]
+  C: Sepuluh tahun tanpa evaluasi target tahunan
+  D: Enam bulan kalender masa percobaan pegawai
+  E: Dua puluh tahun siklus jangka panjang instansi
+Konsep: **Penyusunan kebutuhan jumlah PPPK dilakukan untuk jangka waktu minimal 5 (lima) tahun yang diperinci per 1 (satu) tahun** berdasarkan prioritas kebutuhan dan ditetapkan Keputusan Menteri.
+Alasan: Opsi B merupakan kerangka waktu perencanaan kebutuhan SDM aparatur jangka menengah yang selaras dengan RPJMN. Rencana 5 tahunan dirinci secara tahunan agar belanja pegawai tetap terkendali dan adaptif terhadap prioritas instansi. Aturan menyatakan jangka waktu minimal 5 tahun diperinci per 1 tahun. Oleh karena itu, opsi B adalah pilihan yang benar.
+Bedah: {"A": "Merupakan penanganan tanggap darurat jangka pendek dan bukan rencana SDM.", "C": "Merupakan rencana sepuluh tahunan tanpa rincian yang menyulitkan pengawasan.", "D": "Merupakan durasi jangka pendek yang tidak mencerminkan arah pembangunan SDM.", "E": "Merupakan visi jangka panjang makro di luar dokumen perencanaan kebutuhan riil."}
+======================================================================
+NO 48 | HLM 25 | KUNCI A | TOPIK: Urutan Tahapan Pengadaan PPPK
+KW: ['Pengadaan calon PPPK dilakukan melalui tahapan', 'perencanaan, pengumuman lowongan, pelamaran, seleksi, pengumuman hasil seleksi, dan pengangkatan']
+Q: Tahapan pengadaan calon PPPK yang BUKAN merupakan alur resmi sesuai regulasi manajemen PPPK adalah...
+  A: Pembayaran mahar formasi ke rekening pribadi [KUNCI]
+  B: Pengumuman lowongan dan pelamaran calon
+  C: Pelaksanaan seleksi dan pengumuman hasil
+  D: Perencanaan kebutuhan formasi jabatan
+  E: Pengangkatan resmi menjadi pegawai PPPK
+Konsep: Pengadaan calon PPPK dilakukan melalui tahapan: **perencanaan, pengumuman lowongan, pelamaran, seleksi, pengumuman hasil seleksi, dan pengangkatan menjadi PPPK**.
+Alasan: Opsi A merupakan tindakan pungutan liar (pungli) dan penipuan yang dilarang keras dalam hukum negara. Seluruh tahapan rekrutmen ASN/PPPK diselenggarakan secara akuntabel dan bebas biaya ilegal. Aturan menetapkan pengadaan murni melalui perencanaan, pengumuman, pelamaran, seleksi, pengumuman kelulusan, dan pengangkatan. Dengan demikian, opsi A adalah pilihan jawaban pengecualian yang benar.
+Bedah: {"B": "Merupakan tahapan pembukaan akses informasi terbuka bagi seluruh WNI.", "C": "Merupakan tahapan pengujian kompetensi objektif peserta seleksi.", "E": "Merupakan tahapan penetapan surat keputusan hubungan perjanjian kerja.", "D": "Merupakan tahapan awal perumusan kuota formasi berbasis analisis jabatan."}
+======================================================================
+NO 49 | HLM 25 | KUNCI C | TOPIK: Masa Minimum Perjanjian Kerja PPPK
+KW: ['Pengangkatan calon PPPK ditetapkan dengan keputusan Pejabat Pembina Kepegawaian', 'masa perjanjian kerja paling singkat 1 (satu) tahun']
+Q: Berdasarkan Peraturan Pemerintah Nomor 49 Tahun 2018, masa perjanjian kerja bagi calon PPPK ditetapkan paling singkat...
+  A: Tiga bulan masa percobaan tugas
+  B: Enam bulan masa adaptasi fungsi
+  C: Satu tahun dan dapat diperpanjang [KUNCI]
+  D: Tiga tahun masa evaluasi awal
+  E: Sepuluh tahun masa kerja kontrak
+Konsep: Pengangkatan calon PPPK ditetapkan keputusan PPK dengan **masa perjanjian kerja paling singkat 1 (satu) tahun** dan dapat diperpanjang sesuai kebutuhan dan berdasarkan penilaian kinerja.
+Alasan: Opsi C merupakan durasi minimal legal ikatan kerja aparatur PPPK. Batas minimal satu tahun memberikan kepastian hukum bagi pegawai sekaligus waktu memadai bagi organisasi untuk mengevaluasi kinerja. Aturan menegaskan masa kerja paling singkat 1 (satu) tahun. Oleh karena itu, opsi C adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan durasi uji coba pekerja swasta lepas dan bukan regulasi PPPK.", "B": "Merupakan kurun waktu orientasi teknis kantor di luar ketentuan undang-undang.", "D": "Merupakan asumsi durasi menengah yang melebihi batas minimum hukum.", "E": "Merupakan akumulasi masa kerja perpanjangan jangka panjang."}
+======================================================================
+NO 50 | HLM 25 | KUNCI D | TOPIK: Prinsip Penilaian Objektif PPPK
+KW: ['penerimaannya dilakukan melalui penilaian secara objektif', 'kompetensi, kualifikasi, kebutuhan instansi pemerintah']
+Q: Penerimaan calon PPPK dilaksanakan melalui penilaian objektif yang didasarkan pada faktor...
+  A: Afiliasi keanggotaan dalam organisasi politik peserta pemilu
+  B: Kemampuan membayar uang jaminan ke rekening panitia daerah
+  C: Koneksi kekerabatan keluarga dengan pejabat pembina instansi
+  D: Kompetensi, kualifikasi, dan kebutuhan instansi pemerintah [KUNCI]
+  E: Kepemilikan aset kekayaan pribadi di atas batas minimal pajak
+Konsep: Penerimaan calon PPPK dilakukan melalui **penilaian secara objektif berdasarkan kompetensi, kualifikasi, kebutuhan instansi pemerintah, dan persyaratan lain yang dibutuhkan dalam jabatan**.
+Alasan: Opsi D merupakan perwujudan sistem merit dalam pengadaan aparatur perjanjian kerja. Penilaian murni menguji kesesuaian antara keahlian pelamar dengan profil kompetensi formasi yang dibutuhkan instansi negara. Aturan menegaskan dasar penilaian adalah kompetensi, kualifikasi, dan kebutuhan instansi. Dengan demikian, opsi D adalah pilihan yang benar.
+Bedah: {"A": "Merupakan pertimbangan politik partisan yang dilarang keras dalam seleksi.", "B": "Merupakan praktik suap ilegal yang membatalkan kelulusan peserta seleksi.", "C": "Merupakan praktik nepotisme patrimonial yang merusak profesionalisme aparatur.", "E": "Merupakan diskriminasi status ekonomi yang bertentangan dengan hak kesetaraan WNI."}
+======================================================================
+NO 51 | HLM 26 | KUNCI A | TOPIK: Ketentuan Pengangkatan PPPK Menjadi PNS
+KW: ['PPPK tidak dapat diangkat secara otomatis menjadi calon PNS', 'harus mengikuti semua proses seleksi yang dilaksanakan bagi calon PNS']
+Q: Berdasarkan regulasi kepegawaian nasional, ketentuan peralihan status PPPK menjadi calon PNS adalah...
+  A: Wajib mengikuti semua proses seleksi resmi calon PNS [KUNCI]
+  B: Otomatis diangkat menjadi PNS setelah masa kerja lima tahun
+  C: Cukup melampirkan rekomendasi tertulis dari atasan satker
+  D: Dapat dialihkan melalui pembayaran iuran kas negara resmi
+  E: Dilarang selamanya menjadi PNS meski memenuhi persyaratan
+Konsep: **PPPK tidak dapat diangkat secara otomatis menjadi calon PNS**. Untuk diangkat menjadi calon PNS, PPPK **harus mengikuti semua proses seleksi yang dilaksanakan bagi calon PNS**.
+Alasan: Opsi A merupakan penegasan bahwa tidak ada jalur pintas otomatis peralihan status kepegawaian. PPPK yang ingin menjadi pegawai tetap PNS tetap wajib berkompetisi secara terbuka melalui seleksi pengadaan CPNS formasi umum. Aturan menegaskan keharusan mengikuti semua proses seleksi calon PNS. Dengan demikian, opsi A adalah pilihan yang tepat.
+Bedah: {"B": "Merupakan anggapan keliru tentang pengangkatan otomatis berbasis masa kerja.", "C": "Merupakan surat rekomendasi internal yang tidak menggantikan ujian seleksi.", "D": "Merupakan transaksi komersial ilegal yang dilarang dalam sistem aparatur.", "E": "Merupakan larangan diskriminatif yang bertentangan dengan hak kesetaraan WNI."}
+======================================================================
+NO 52 | HLM 26 | KUNCI C | TOPIK: Dasar Penetapan Gaji PPPK
+KW: ['Pemerintah wajib membayar gaji yang adil dan layak kepada PPPK', 'beban kerja, tanggung jawab jabatan, dan resiko pekerjaan']
+Q: Pemerintah wajib memberikan gaji yang adil dan layak kepada pegawai PPPK yang didasarkan pada...
+  A: Jumlah tanggungan sanak keluarga di kartu keluarga
+  B: Hasil negosiasi perorangan dengan pejabat tata usaha
+  C: Beban kerja, tanggung jawab jabatan, dan risiko pekerjaan [KUNCI]
+  D: Tingkat kedekatan pertemanan dengan pejabat bendahara
+  E: Nilai tukar mata uang asing pada penutupan pasar bursa
+Konsep: Pemerintah wajib membayar gaji yang adil dan layak kepada PPPK berdasarkan **beban kerja, tanggung jawab jabatan, dan resiko pekerjaan**.
+Alasan: Opsi C merupakan tiga variabel baku penentuan remunerasi aparatur berbasis keadilan internal dan eksternal. Penghitungan gaji mempertimbangkan bobot kesulitan tugas, wewenang jabatan, dan potensi bahaya kerja yang dihadapi. Regulasi menetapkan dasar pembayaran adalah beban kerja, tanggung jawab, dan risiko pekerjaan. Oleh karena itu, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Merupakan dasar perhitungan tunjangan keluarga tambahan dan bukan gaji pokok.", "B": "Merupakan mekanisme tawar-menawar swasta yang tidak berlaku pada birokrasi baku.", "D": "Merupakan pertimbangan pertemanan subjektif yang melanggar asas perlakuan adil.", "E": "Merupakan fluktuasi valuta asing komersial di luar standar gaji rupiah."}
+======================================================================
+NO 53 | HLM 26 | KUNCI E | TOPIK: Sebab Pemutusan Kerja PPPK dengan Hormat
+KW: ['Pemutusan hubungan perjanjian kerja PPPK dilakukan dengan hormat karena', 'jangka waktu perjanjian kerja berakhir', 'meninggal dunia']
+Q: Peristiwa hukum yang BUKAN merupakan alasan pemutusan hubungan perjanjian kerja PPPK dengan hormat adalah...
+  A: Jangka waktu masa perjanjian kerja telah berakhir
+  B: Pegawai bersangkutan meninggal dunia saat bertugas
+  C: Pengunduran diri secara sah atas permintaan sendiri
+  D: Perampingan organisasi akibat kebijakan pemerintah
+  E: Dihukum penjara karena penyelewengan ideologi negara [KUNCI]
+Konsep: Pemutusan perjanjian kerja PPPK dengan hormat terjadi karena: **jangka waktu berakhir, meninggal dunia, atas permintaan sendiri, perampingan organisasi, atau tidak cakap jasmani/rohani**.
+Alasan: Opsi E merupakan tindak kejahatan berat terhadap dasar negara yang berakibat pada pemutusan hubungan kerja TIDAK dengan hormat. Pemutusan dengan hormat hanya diberikan bagi sebab-sebab wajar dan non-kriminal seperti masa kontrak usai, wafat, atau perampingan. Dengan demikian, opsi E adalah jawaban pengecualian yang benar.
+Bedah: {"A": "Merupakan berakhirnya siklus masa perjanjian kerja formal secara wajar.", "B": "Merupakan peristiwa takdir kematian yang ditutup dengan pemutusan hormat.", "C": "Merupakan hak inisiatif pengunduran diri sukarela yang diajukan resmi.", "D": "Merupakan kebijakan penataan kelembagaan pemerintah di luar kesalahan pegawai."}
+======================================================================
+NO 54 | HLM 26 | KUNCI B | TOPIK: Pemutusan PPPK Karena Target Kinerja
+KW: ['Pemutusan hubungan perjanjian kerja PPPK dilakukan dengan hormat tidak atas permintaan sendiri', 'tidak memenuhi target kinerja yang telah disepakati']
+Q: Seorang pegawai PPPK selama dua tahun berturut-turut terbukti tidak mencapai target kinerja perjanjian kerja. Keputusan administratif yang diambil adalah...
+  A: Pemberian kenaikan bonus finansial tahunan dari kementerian
+  B: Pemutusan perjanjian kerja dengan hormat tidak atas permintaan sendiri [KUNCI]
+  C: Pengangkatan langsung menjadi pejabat fungsional ahli utama
+  D: Pemindahan tugas ke luar negeri dengan fasilitas dinas lengkap
+  E: Pemberian cuti istimewa di luar tanggungan negara selama setahun
+Konsep: Pemutusan hubungan kerja PPPK dilakukan **dengan hormat tidak atas permintaan sendiri** apabila **tidak memenuhi target kinerja yang telah disepakati sesuai dengan perjanjian kerja**.
+Alasan: Opsi B merupakan konsekuensi logis dari esensi kontrak kerja berbasis kinerja (*performance-based contract*). Aparatur PPPK direkrut untuk menuntaskan sasaran spesifik, sehingga kegagalan memenuhi target menjadi dasar terminasi kontrak secara hormat. Aturan menegaskan pemutusannya dilakukan dengan hormat tidak atas permintaan sendiri. Oleh karena itu, opsi B adalah keputusan yang tepat.
+Bedah: {"A": "Merupakan imbalan prestasi kerja yang keliru diberikan kepada pegawai tidak perform.", "C": "Merupakan promosi jabatan fungsional tertinggi yang menuntut kompetensi unggul.", "D": "Merupakan tugas belajar atau dinas luar negeri yang membutuhkan kualifikasi prima.", "E": "Merupakan fasilitas cuti tanpa gaji yang tidak menjawab masalah inkompetensi."}
+======================================================================
+NO 55 | HLM 26 | KUNCI D | TOPIK: Pemutusan PPPK Keterlibatan Partai Politik
+KW: ['Pemutusan hubungan perjanjian kerja PPPK dilakukan tidak dengan hormat', 'menjadi anggota dan/atau pengurus partai politik']
+Q: Seorang pegawai PPPK terdaftar resmi dan aktif menjabat sebagai pengurus partai politik. Jenis pemutusan hubungan kerja yang dijatuhkan adalah...
+  A: Pemutusan hubungan perjanjian kerja dengan pemberian penghargaan
+  B: Pemberian dispensasi khusus selama musim kampanye pemilihan umum
+  C: Pemindahan penugasan sementara ke sekretariat dewan perwakilan
+  D: Pemutusan hubungan perjanjian kerja dilakukan tidak dengan hormat [KUNCI]
+  E: Penundaan pembayaran gaji bulanan sampai masa kampanye selesai
+Konsep: Pemutusan hubungan perjanjian kerja PPPK dilakukan **tidak dengan hormat** karena terbukti **menjadi anggota dan/atau pengurus partai politik**.
+Alasan: Opsi D merupakan sanksi terberat atas pelanggaran prinsip netralitas aparatur negara. Keterlibatan aktif dalam kepengurusan partai meruntuhkan independensi fungsi pelayanan publik ASN. Regulasi menegaskan keterlibatan parpol berakibat pemutusan perjanjian kerja tidak dengan hormat. Dengan demikian, opsi D adalah keputusan yang benar.
+Bedah: {"A": "Merupakan terminasi kerja yang tidak pantas diberikan kepada pelanggar netralitas.", "B": "Merupakan pembiaran pelanggaran hukum yang merusak netralitas birokrasi.", "C": "Merupakan mutasi tugas yang tidak menyelesaikan pelanggaran status pegawai.", "E": "Merupakan penundaan gaji ringan yang tidak sebanding dengan sanksi undang-undang."}
+======================================================================
+NO 56 | HLM 26 | KUNCI A | TOPIK: Pemutusan PPPK Kejahatan Jabatan
+KW: ['Pemutusan hubungan perjanjian kerja PPPK dilakukan tidak dengan hormat', 'melakukan tindak pidana kejahatan jabatan atau tindak pidana kejahatan yang ada hubungannya dengan jabatan']
+Q: Pegawai PPPK yang terbukti melakukan tindak pidana kejahatan jabatan berdasarkan putusan pengadilan berkekuatan hukum tetap diberhentikan...
+  A: Tidak dengan hormat sebagai aparatur perjanjian kerja [KUNCI]
+  B: Dengan hormat disertai pemberian uang pensiun bulanan
+  C: Dengan hormat atas permintaan tertulis pejabat pembina
+  D: Sementara selama masa proses peninjauan kembali perkara
+  E: Secara bersyarat menunggu terbitnya surat grasi presiden
+Konsep: Pemutusan hubungan perjanjian kerja PPPK dilakukan **tidak dengan hormat** karena **melakukan tindak pidana kejahatan jabatan atau tindak pidana kejahatan yang ada hubungannya dengan jabatan dan/atau pidana umum**.
+Alasan: Opsi A merupakan tindakan pembersihan birokrasi dari aparatur yang menyalahgunakan wewenang negara untuk kejahatan jabatan (seperti suap/korupsi). Vonis *inkracht* kejahatan jabatan secara otomatis menghapus kelayakan integritas aparatur sipil. Aturan menetapkan pemutusannya dilakukan tidak dengan hormat. Oleh karena itu, opsi A adalah pilihan yang tepat.
+Bedah: {"B": "Merupakan hak pensiun yang tidak diberikan kepada pelaku kejahatan jabatan.", "C": "Merupakan terminasi kerja terhormat yang tidak berlaku bagi pelaku pidana jabatan.", "D": "Merupakan status pemberhentian sementara saat perkara masih dalam proses awal.", "E": "Merupakan permohonan pengampunan yang tidak meniadakan sanksi kepegawaian."}
+======================================================================
+NO 57 | HLM 26 | KUNCI C | TOPIK: Pemutusan PPPK Pelanggaran Disiplin Berat
+KW: ['Pemutusan hubungan perjanjian kerja PPPK dilakukan dengan hormat tidak atas permintaan sendiri', 'melakukan pelanggaran disiplin PPPK tingkat berat']
+Q: Pelanggaran disiplin tingkat berat yang dilakukan oleh pegawai PPPK berakibat pada pemutusan hubungan perjanjian kerja berupa...
+  A: Pemberian teguran lisan di depan apel gabungan dinas
+  B: Pemberian surat peringatan tertulis masa percobaan staf
+  C: Pemutusan hubungan kerja dengan hormat tidak atas permintaan sendiri [KUNCI]
+  D: Pemindahan meja kerja ke sudut ruangan gedung kementerian
+  E: Pengurangan jam kerja operasional kantor selama satu bulan
+Konsep: Pemutusan hubungan perjanjian kerja PPPK dilakukan **dengan hormat tidak atas permintaan sendiri** apabila terbukti **melakukan pelanggaran disiplin PPPK tingkat berat**.
+Alasan: Opsi C merupakan sanksi penegakan kode disiplin aparatur perjanjian kerja. Pelanggaran berat membuktikan kegagalan pegawai dalam menjunjung tata tertib kedinasan, sehingga kontrak kerja diakhiri tanpa keharusan permintaan sendiri. Regulasi menyatakan sanksinya adalah pemutusan dengan hormat tidak atas permintaan sendiri. Dengan demikian, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Merupakan hukuman disiplin paling ringan untuk keterlambatan hadir.", "B": "Merupakan instrumen peringatan pembinaan bagi pelanggaran disiplin ringan.", "D": "Merupakan pengaturan tata ruang kantor tanpa makna sanksi kepegawaian.", "E": "Merupakan dispensasi jam kerja yang tidak sah diberikan bagi pelanggar berat."}
+======================================================================
+NO 58 | HLM 26 | KUNCI E | TOPIK: Pemutusan PPPK Pidana Tidak Berencana
+KW: ['tindak pidana dengan pidana penjara paling singkat 2 (dua) tahun', 'tindak pidana tersebut dilakukan dengan tidak berencana']
+Q: Pegawai PPPK dijatuhi hukuman penjara 2 tahun karena tindak pidana kelalaian (tidak berencana) yang telah berkekuatan hukum tetap. Status pemutusannya adalah...
+  A: Diberhentikan tidak dengan hormat dan dicabut seluruh hak perdata
+  B: Diberikan izin menjalani masa hukuman sambil tetap menerima gaji pokok
+  C: Dialihkan statusnya menjadi calon pegawai negeri sipil istimewa
+  D: Diberikan cuti besar di luar tanggungan negara sampai masa tahanan usai
+  E: Pemutusan hubungan perjanjian kerja dengan hormat tidak atas permintaan sendiri [KUNCI]
+Konsep: PPPK diputus hubungan kerjanya **dengan hormat tidak atas permintaan sendiri** apabila **dihukum penjara paling singkat 2 tahun berdasarkan putusan berkekuatan hukum tetap karena tindak pidana tidak berencana**.
+Alasan: Opsi E merupakan pembedaan perlakuan yuridis antara pidana kelalaian (tidak berencana) dengan kejahatan berencana/jabatan. Karena tidak terdapat niat jahat terencana (*mens rea* terencana), pemutusan hubungan kerjanya tetap berstatus 'dengan hormat tidak atas permintaan sendiri'. Aturan menyatakan pemutusannya dilakukan dengan hormat tidak atas permintaan sendiri. Oleh karena itu, opsi E adalah keputusan yang tepat.
+Bedah: {"A": "Merupakan sanksi untuk tindak pidana berencana atau kejahatan jabatan.", "B": "Merupakan fasilitas ilegal yang melanggar aturan pengelolaan keuangan negara.", "C": "Merupakan alih status fiktif yang bertentangan dengan logika seleksi aparatur.", "D": "Merupakan penyalahgunaan hak cuti kedinasan bagi terpidana peradilan."}
+======================================================================
+NO 59 | HLM 26 | KUNCI B | TOPIK: Pemutusan PPPK Pidana Berencana
+KW: ['pemutusan hubungan perjanjian kerja', 'tidak dengan hormat']
+Q: Seorang PPPK dijatuhi vonis pidana penjara 3 tahun karena terbukti melakukan kejahatan penipuan berencana. Pemutusan perjanjian kerja dilakukan secara...
+  A: Pemutusan perjanjian kerja dengan hormat atas permintaan
+  B: Pemutusan hubungan perjanjian kerja dilakukan tidak dengan hormat [KUNCI]
+  C: Pemindahan tugas operasional ke unit kerja pendukung
+  D: Pembebasan sementara menunggu proses pengajuan grasi
+  E: Penundaan pembayaran hak tunjangan selama satu tahun
+Konsep: Pemutusan hubungan perjanjian kerja PPPK dilakukan **tidak dengan hormat** apabila **dihukum penjara berdasarkan putusan pengadilan yang berkekuatan hukum tetap** karena melakukan tindak pidana berencana paling singkat 2 tahun.
+Alasan: Opsi B merupakan jawaban yang tepat. Tindak pidana dengan vonis 3 tahun yang telah berkekuatan hukum tetap merupakan pelanggaran hukum berat. Berdasarkan manajemen PPPK, aparatur yang melakukan kejahatan berencana dengan vonis minimal 2 tahun wajib diberhentikan tidak dengan hormat.
+Bedah: {"A": "Pemberhentian dengan hormat hanya untuk permohonan pribadi atau pensiun.", "C": "Pemindahan tugas bukan sanksi atas vonis pidana peradilan umum.", "D": "Pembebasan sementara hanya berlangsung selama masa penahanan sidang.", "E": "Penundaan tunjangan tidak berlaku bagi terpidana hukuman penjara tetap."}
+======================================================================
+NO 60 | HLM 26 | KUNCI D | TOPIK: Pemutusan PPPK Ketidakcakapan Medis
+KW: ['tidak cakap jasmani dan/atau rohani sehingga tidak dapat menjalankan tugas', 'perjanjian kerja yang disepakati']
+Q: Pegawai PPPK yang mengalami gangguan kesehatan permanen sehingga tidak dapat lagi menjalankan tugas diputus hubungan kerjanya secara...
+  A: Tidak dengan hormat karena kelalaian menjaga kesehatan fisik
+  B: Pemberhentian sementara tanpa hak jaminan perlindungan sosial
+  C: Penurunan jenjang jabatan kerja ke tingkat staf pelaksana terendah
+  D: Dengan hormat karena tidak cakap jasmani dan/atau rohani [KUNCI]
+  E: Pemberhentian dengan sanksi pengembalian seluruh gaji yang diterima
+Konsep: Pemutusan hubungan perjanjian kerja PPPK dilakukan **dengan hormat** karena **tidak cakap jasmani dan/atau rohani sehingga tidak dapat menjalankan tugas dan kewajiban sesuai perjanjian kerja**.
+Alasan: Opsi D merupakan perlakuan humanis negara terhadap aparatur yang mengalami musibah kesehatan permanen. Karena ketidakmampuan kerja murni faktor medis di luar kesengajaan, terminasi dilakukan dengan terhormat dan pegawai berhak atas jaminan perlindungan. Aturan menyatakan pemutusannya dilakukan dengan hormat. Oleh karena itu, opsi D adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan vonis tidak hormat yang tidak manusiawi dan menyalahi hukum.", "B": "Merupakan tindakan penelantaran hak jaminan sosial aparatur negara.", "C": "Merupakan mutasi jabatan yang tidak menjawab kondisi ketidakmampuan permanen.", "E": "Merupakan penalti ganti rugi yang tidak berlaku bagi musibah kesehatan medis."}
+======================================================================
+NO 61 | HLM 27 | KUNCI B | TOPIK: Ruang Lingkup Bantuan Hukum PPPK
+KW: ['Perlindungan berupa bantuan hukum dilakukan dengan', 'pemberian bantuan hukum dalam perkara yang dihadapi di pengadilan terkait pelaksanaan tugasnya']
+Q: Bantuan hukum yang wajib diberikan oleh pemerintah kepada pegawai ASN/PPPK dibatasi pada perkara...
+  A: Sengketa pembagian harta warisan pribadi antar-anggota keluarga
+  B: Perkara yang dihadapi di pengadilan terkait pelaksanaan tugas kedinasan [KUNCI]
+  C: Gugatan utang-piutang bisnis komersial pribadi dengan lembaga pembiayaan
+  D: Perkara pelanggaran hukum lalu lintas kendaraan pribadi saat libur
+  E: Sengketa kepemilikan tanah kavling perumahan pribadi pegawai
+Konsep: Perlindungan berupa bantuan hukum bagi ASN dilakukan dengan **pemberian bantuan hukum dalam perkara yang dihadapi di pengadilan terkait pelaksanaan tugasnya**.
+Alasan: Opsi B merupakan ruang lingkup advokasi negara yang melindungi pegawai dalam mengeksekusi kebijakan dinas. Bantuan hukum tidak diberikan untuk perkara pribadi/komersial, melainkan khusus membela pegawai yang digugat atau diperkarakan akibat menjalankan wewenang tugas jabatannya. Aturan menegaskan bantuan hukum diberikan terkait pelaksanaan tugasnya. Dengan demikian, opsi B adalah jawaban yang benar.
+Bedah: {"A": "Merupakan sengketa hukum perdata keluarga yang menjadi tanggung jawab pribadi.", "C": "Merupakan perikatan perdata utang swasta di luar tugas dan fungsi kedinasan.", "D": "Merupakan pelanggaran hukum lalu lintas personal tanpa kaitan wewenang dinas.", "E": "Merupakan sengketa kepemilikan aset privat aparatur di luar urusan instansi."}
+======================================================================
+NO 62 | HLM 27 | KUNCI D | TOPIK: Status PNS Diangkat Pimpinan Lembaga Negara
+KW: ['ketua, wakil ketua, dan anggota Mahkamah Konstitusi', 'diberhentikan sementara dari jabatannya, dan tidak kehilangan status sebagai PNS']
+Q: Seorang PNS diangkat menjadi Ketua atau Anggota Mahkamah Konstitusi. Menurut Pasal 58 UU Nomor 20 Tahun 2023, status kepegawaiannya adalah...
+  A: Diberhentikan permanen dan dicabut hak pensiun aparatur sipil
+  B: Tetap menduduki jabatan struktural lamanya di kementerian asal
+  C: Diberikan kenaikan pangkat otomatis dua tingkat setiap semester
+  D: Diberhentikan sementara dari jabatan tanpa kehilangan status PNS [KUNCI]
+  E: Dialihkan menjadi pegawai kontrak daerah tempat tinggal keluarga
+Konsep: Pegawai ASN dari PNS yang diangkat menjadi pejabat negara (seperti pimpinan MK, BPK, KY, KPK, Menteri, Dubes) **diberhentikan sementara dari jabatannya, dan tidak kehilangan status sebagai PNS**.
+Alasan: Opsi D merupakan status hukum perlakuan aparatur karier yang mengemban amanah lembaga negara. Pejabat dinonaktifkan dari posisi struktural/fungsional kementeriannya agar fokus independen, namun nomor induk dan status PNS-nya tetap melekat. Regulasi menyatakan diberhentikan sementara dari jabatan dan tidak kehilangan status PNS. Oleh karena itu, opsi D adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan pemberhentian sewenang-wenang yang melanggar hak perlindungan PNS.", "B": "Merupakan rangkap jabatan struktural yang dilarang keras undang-undang.", "C": "Merupakan promosi pangkat otomatis tanpa dasar hukum manajemen prestasi.", "E": "Merupakan penurunan status kepegawaian yang tidak berdasar pada regulasi."}
+======================================================================
+NO 63 | HLM 27 | KUNCI A | TOPIK: Pengaktifan Kembali PNS Pejabat Negara
+KW: ['Apabila pegawai ASN dari PNS tersebut tidak menjabat lagi sebagai pejabat negara', 'diaktifkan kembali sebagai PNS']
+Q: Seorang PNS telah menyelesaikan masa tugasnya sebagai Menteri selama lima tahun. Kebijakan kepegawaian yang berlaku baginya adalah...
+  A: Diaktifkan kembali sebagai PNS sepanjang tersedia lowongan jabatan [KUNCI]
+  B: Wajib mengikuti kembali seluruh tahapan seleksi kompetensi dasar
+  C: Diberikan pensiun dini secara otomatis tanpa masa tunggu jabatan
+  D: Dilarang memasuki gedung kantor instansi pemerintah selamanya
+  E: Diharuskan membayar ganti rugi operasional jabatan kepada negara
+Konsep: Apabila PNS tidak menjabat lagi sebagai pejabat negara, **diaktifkan kembali sebagai PNS** dan **dapat menduduki Jabatan ASN sepanjang tersedia lowongan jabatan**.
+Alasan: Opsi A merupakan hak pemulihan status penugasan aparatur pasca bakti negara. Karena status PNS-nya tidak pernah dicabut, yang bersangkutan berhak kembali berdinas aktif menempati formasi jabatan yang lowong sesuai kualifikasinya. Aturan menegaskan PNS diaktifkan kembali sepanjang tersedia lowongan. Dengan demikian, opsi A adalah pilihan yang benar.
+Bedah: {"B": "Merupakan tahapan rekrutmen awal CPNS yang tidak berlaku bagi PNS aktif.", "C": "Merupakan pemensiunan paksa yang mengabaikan hak aktif berdinas kembali.", "D": "Merupakan pembatasan hak perdata yang tidak memiliki landasan hukum.", "E": "Merupakan sanksi finansial fiktif yang bertentangan dengan asas hukum."}
+======================================================================
+NO 64 | HLM 27 | KUNCI C | TOPIK: Batas Waktu Lowongan Jabatan Mantan Pejabat Negara
+KW: ['Dalam hal tidak tersedia lowongan jabatan', 'dalam waktu paling lama 5 (lima) tahun PNS yang bersangkutan diberhentikan dengan hormat']
+Q: Jika tidak tersedia lowongan jabatan bagi mantan pejabat negara, batas waktu maksimal sebelum diberhentikan dengan hormat adalah...
+  A: Satu tahun kalender masa tunggu
+  B: Dua tahun masa penyesuaian satker
+  C: Paling lama lima tahun masa tunggu [KUNCI]
+  D: Tujuh tahun masa evaluasi kelembagaan
+  E: Sepuluh tahun masa pembinaan dinas
+Konsep: Berdasarkan Pasal 60 UU Nomor 20 Tahun 2023, dalam hal tidak tersedia lowongan jabatan, **dalam waktu paling lama 5 (lima) tahun PNS yang bersangkutan diberhentikan dengan hormat**.
+Alasan: Opsi C merupakan masa tunggu legal (*grace period*) yang disediakan undang-undang untuk mencarikan posisi yang cocok bagi mantan pejabat negara. Jika hingga 5 tahun tidak ada formasi yang sesuai, hubungan dinas ditutup terhormat. Regulasi menetapkan kurun waktu paling lama 5 tahun. Oleh karena itu, opsi C adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan masa tunggu satu tahun pada ketentuan lama di UU No 5/2014.", "B": "Merupakan durasi dua tahun yang tidak sesuai dengan UU No 20 Tahun 2023.", "D": "Merupakan batas waktu berlebih yang melampaui ketentuan hukum positif.", "E": "Merupakan kurun waktu sepuluh tahun yang menyebabkan ketidakpastian status."}
+======================================================================
+NO 65 | HLM 27 | KUNCI E | TOPIK: Kewajiban Pengunduran Diri Calon Pilpres/Pilkada/Legislatif
+KW: ['PNS yang mencalonkan diri atau dicalonkan menjadi Presiden dan Wakil Presiden', 'wajib menyatakan pengunduran diri secara tertulis sebagai PNS sejak ditetapkan sebagai calon']
+Q: Seorang PNS resmi ditetapkan oleh KPU sebagai calon bupati dalam pemilihan kepala daerah. Tindakan hukum yang wajib dilakukannya adalah...
+  A: Mengajukan cuti tahunan selama masa kampanye pemilihan kepala daerah
+  B: Mengajukan cuti di luar tanggungan negara hingga pemungutan suara
+  C: Menyatakan nonaktif sementara dari tugas kedinasan di kementerian
+  D: Menyatakan penundaan tugas dinas dengan tetap menerima tunjangan penuh
+  E: Wajib menyatakan pengunduran diri secara tertulis sebagai PNS sejak penetapan [KUNCI]
+Konsep: PNS yang mencalonkan diri menjadi Presiden/Wapres, DPR, DPD, DPRD, Gubernur/Wagub, Bupati/Walikota **wajib menyatakan pengunduran diri secara tertulis sebagai PNS sejak ditetapkan sebagai calon** (Pasal 59 UU Nomor 20 Tahun 2023).
+Alasan: Opsi E merupakan garis demarkasi mutlak antara dunia politik praktis dengan korps birokrasi netral. Keterlibatan dalam kontestasi elektoral menuntut pelepasan permanen status aparatur demi mencegah penyalahgunaan fasilitas dan wewenang negara. Aturan menegaskan kewajiban mundur tertulis sejak ditetapkan sebagai calon. Dengan demikian, opsi E adalah jawaban yang benar.
+Bedah: {"A": "Merupakan fasilitas cuti yang dilarang digunakan untuk berkontestasi politik.", "B": "Merupakan skema cuti yang tidak menggantikan kewajiban pengunduran diri mutlak.", "C": "Merupakan status nonaktif sementara yang tidak sah bagi calon kontestan pilkada.", "D": "Merupakan tindakan koruptif menerima uang negara saat berpolitik praktis."}
+======================================================================
+NO 66 | HLM 27 | KUNCI B | TOPIK: Status PNS Diangkat Duta Besar Luar Biasa
+KW: ['Kepala perwakilan RI di luar negeri yang berkedudukan sebagai Duta Besar Luar Biasa dan Berkuasa Penuh', 'diberhentikan sementara dari jabatannya, dan tidak kehilangan status sebagai PNS']
+Q: Seorang pejabat karier diplomatik PNS diangkat Presiden menjadi Duta Besar Luar Biasa dan Berkuasa Penuh. Status hukum kedinasannya adalah...
+  A: Diberhentikan permanen dengan sanksi pencabutan paspor diplomatik
+  B: Diberhentikan sementara dari jabatannya tanpa kehilangan status PNS [KUNCI]
+  C: Otomatis kehilangan kewarganegaraan Indonesia karena bertugas di luar
+  D: Diberikan hak kebal hukum perdata penuh atas seluruh aset keluarganya
+  E: Dialihkan menjadi pegawai kontrak lokal kementerian luar negeri
+Konsep: PNS yang diangkat menjadi **Kepala perwakilan RI di luar negeri yang berkedudukan sebagai Duta Besar Luar Biasa dan Berkuasa Penuh** menurut Pasal 58 UU 20/2023 **diberhentikan sementara dari jabatannya, dan tidak kehilangan status sebagai PNS**.
+Alasan: Opsi B merupakan perlindungan status korps kepegawaian bagi pejabat negara di perwakilan luar negeri. Jabatan dubes adalah amanah pejabat negara, sehingga jabatan struktural/fungsional di kementerian dinonaktifkan sementara tanpa memutus status PNS-nya. Regulasi menyatakan statusnya diberhentikan sementara dari jabatan tanpa kehilangan status PNS. Oleh karena itu, opsi B adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan hukuman sanksi berat yang tidak berdasar bagi pengemban tugas negara.", "C": "Merupakan kehilangan kewarganegaraan keliru yang mengabaikan tugas diplomatik.", "D": "Merupakan kekebalan hukum privat yang tidak relevan dengan status kepegawaian.", "E": "Merupakan penurunan derajat pegawai tetap menjadi tenaga honorer lokal."}
+======================================================================
+NO 67 | HLM 27 | KUNCI C | TOPIK: Daftar Pejabat Negara Non-Kehilangan Status PNS
+KW: ['Pegawai ASN dari PNS yang diangkat menjadi', 'ketua, wakil ketua, dan anggota Komisi Yudisial', 'ketua, wakil ketua, dan anggota KPK']
+Q: Lembaga negara yang pimpinannya diisi dari unsur PNS dengan status diberhentikan sementara tanpa kehilangan status PNS adalah...
+  A: Direksi badan usaha milik swasta sektor telekomunikasi
+  B: Komisi Pemilihan Umum Daerah tingkat distrik kepulauan
+  C: Ketua, wakil ketua, dan anggota Komisi Yudisial serta KPK [KUNCI]
+  D: Dewan pengurus lembaga swadaya perlindungan konsumen
+  E: Pimpinan asosiasi pengembang perumahan rakyat nasional
+Konsep: Pasal 58 UU Nomor 20 Tahun 2023 merinci pimpinan pejabat negara yang mencakup: **MK, BPK, Komisi Yudisial, KPK, Menteri/setingkat menteri, dan Duta Besar LBBP** yang diberhentikan sementara dari jabatannya tanpa kehilangan status PNS.
+Alasan: Opsi C merupakan enumerasi yuridis lembaga negara independen yang termaktub dalam Pasal 58 UU ASN. Komisioner KY dan pimpinan KPK berkedudukan sebagai pejabat negara yang menuntut penonaktifan sementara dari jabatan sipil asalnya. Aturan menyebutkan pimpinan KY dan KPK termasuk dalam daftar resmi ini. Dengan demikian, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Merupakan pengurus korporasi bisnis komersial swasta nonpemerintah.", "B": "Merupakan penyelenggara pemilu kewilayahan di luar daftar Pasal 58 UU ASN.", "D": "Merupakan organisasi advokasi masyarakat nonpemerintah di luar struktur negara.", "E": "Merupakan asosiasi perkumpulan pengusaha properti swasta."}
+======================================================================
+NO 68 | HLM 27 | KUNCI D | TOPIK: Titik Waktu Pengunduran Diri PNS Kontestasi Politik
+KW: ['wajib menyatakan pengunduran diri secara tertulis sebagai PNS', 'sejak ditetapkan sebagai calon']
+Q: Berdasarkan Pasal 59 UU Nomor 20 Tahun 2023, titik waktu mutlak bagi PNS yang mencalonkan diri dalam pemilu untuk mundur tertulis adalah...
+  A: Saat mengambil formulir pendaftaran di kantor partai politik
+  B: Saat memasang baliho sosialisasi diri di jalan protokol
+  C: Saat penghitungan suara resmi dinyatakan selesai oleh panitia
+  D: Setelah resmi ditetapkan sebagai calon oleh lembaga penyelenggara [KUNCI]
+  E: Setelah resmi dilantik dan mengucapkan sumpah sebagai pejabat
+Konsep: PNS yang mencalonkan diri menjadi pejabat politik **wajib menyatakan pengunduran diri secara tertulis sebagai PNS sejak ditetapkan sebagai calon** oleh penyelenggara pemilihan.
+Alasan: Opsi D merupakan ketetapan waktu hukum yang mengikat status kepegawaian peserta kontestasi. Surat pengunduran diri tidak menunggu hasil pemilu atau pelantikan, melainkan wajib diserahkan tepat pada momentum pengumuman penetapan daftar calon tetap (DCT). Regulasi menegaskan pengunduran diri berlaku sejak ditetapkan sebagai calon. Oleh karena itu, opsi D adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan tahap penjajakan awal yang belum memiliki kepastian penetapan hukum.", "B": "Merupakan sosialisasi personal sebelum penetapan resmi oleh pihak KPU.", "C": "Merupakan akhir proses kontestasi yang telah terlambat secara prosedur hukum.", "E": "Merupakan tahap akhir pasca pemilu yang melanggar ketentuan status PNS."}
+======================================================================
+NO 69 | HLM 27 | KUNCI E | TOPIK: Status PNS Menjadi Anggota BPK
+KW: ['ketua, wakil ketua, dan anggota BPK', 'diberhentikan sementara dari jabatannya, dan tidak kehilangan status sebagai PNS']
+Q: Seorang PNS fungsional auditor BPKP terpilih melalui uji kepatutan parlemen menjadi Anggota BPK. Status kedinasannya diatur berupa...
+  A: Diberhentikan tidak dengan hormat dan kehilangan seluruh hak aparatur
+  B: Diberikan kewenangan merangkap jabatan sebagai kepala perwakilan daerah
+  C: Dialihkan menjadi pegawai kontrak lepas pada sekretariat jenderal dpr
+  D: Diharuskan mengajukan pensiun dini sukarela tanpa pertimbangan dinas
+  E: Diberhentikan sementara dari jabatan fungsional tanpa hilang status PNS [KUNCI]
+Konsep: PNS yang diangkat menjadi **ketua, wakil ketua, dan anggota BPK** diberhentikan sementara dari jabatannya dan **tidak kehilangan status sebagai PNS**.
+Alasan: Opsi E merupakan aplikasi Pasal 58 UU 20/2023 bagi pimpinan lembaga pemeriksa keuangan eksternal negara. Auditor dinonaktifkan dari jabatan sebelumnya untuk mencegah konflik audit, namun status kepegawaian negerinya tetap terpelihara. Aturan menegaskan status diberhentikan sementara dari jabatan tanpa kehilangan status PNS. Dengan demikian, opsi E adalah keputusan yang benar.
+Bedah: {"A": "Merupakan sanksi pidana/disiplin yang tidak berlaku bagi pengangkatan pejabat negara.", "B": "Merupakan rangkap jabatan yang mencederai independensi lembaga audit negara.", "D": "Merupakan pemensiunan paksa yang menyalahi hak perlindungan karier PNS.", "C": "Merupakan degradasi status yang tidak sesuai dengan ketentuan perundangan."}
+======================================================================
+NO 70 | HLM 27 | KUNCI C | TOPIK: Hakikat Jaminan Bantuan Hukum Pegawai
+KW: ['Perlindungan berupa bantuan hukum', 'perkara yang dihadapi di pengadilan terkait pelaksanaan tugasnya']
+Q: Tujuan utama pemberian perlindungan jaminan bantuan hukum kepada aparatur sipil negara adalah...
+  A: Menjadikan seluruh aparatur sipil kebal terhadap proses hukum pidana
+  B: Menghindarkan pejabat dari kewajiban menyampaikan laporan perpajakan
+  C: Memberikan pendampingan hukum atas kebijakan dinas yang sah di pengadilan [KUNCI]
+  D: Membiayai pembelaan perkara kejahatan korupsi terencana pejabat dinas
+  E: Menghentikan seluruh proses penyidikan perkara tindak pidana umum
+Konsep: Bantuan hukum disediakan guna memberikan rasa aman dan pendampingan profesi bagi ASN dalam **menghadapi perkara hukum di pengadilan terkait pelaksanaan tugas kedinasannya yang sah**.
+Alasan: Opsi C merupakan esensi perlindungan hukum aparatur agar pegawai tidak ragu dalam mengambil keputusan kedinasan yang sesuai regulasi. Negara mendampingi aparaturnya dari gugatan hukum pihak luar yang mempermasalahkan pelaksanaan tugas resmi. Regulasi menyebutkan bantuan hukum diberikan terkait pelaksanaan tugasnya. Oleh karena itu, opsi C adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan asas imunitas keliru yang bertentangan dengan prinsip persamaan di muka hukum.", "B": "Merupakan pelanggaran kewajiban pajak yang tidak dilindungi bantuan hukum.", "D": "Merupakan larangan mutlak penggunaan dana negara membela kejahatan korupsi.", "E": "Merupakan intervensi ilegal atas proses penegakan hukum pro-justitia."}
+======================================================================
+NO 71 | HLM 28 | KUNCI E | TOPIK: Kewenangan Mutasi Antar-Kabupaten/Kota Satu Provinsi
+KW: ['antar-kabupaten/kota dalam satu provinsi ditetapkan oleh Gubernur', 'setelah memperoleh pertimbangan kepala Badan Kepegawaian Negara (BKN)']
+Q: Penetapan mutasi PNS antar-kabupaten/kota dalam satu wilayah provinsi merupakan kewenangan...
+  A: Walikota tempat domisili keluarga pemohon mutasi
+  B: Bupati tempat satker unit kerja asal bertugas
+  C: Komandan satuan pangkalan militer pertahanan
+  D: Kepala kepolisian daerah resor wilayah bersangkutan
+  E: Gubernur setelah mendapat pertimbangan Kepala BKN [KUNCI]
+Konsep: Mutasi PNS **antar-kabupaten/kota dalam satu provinsi ditetapkan oleh Gubernur setelah memperoleh pertimbangan kepala Badan Kepegawaian Negara (BKN)**.
+Alasan: Opsi E merupakan garis wewenang koordinasi regional gubernur terhadap pergerakan aparatur di lingkup provinsinya. Keterlibatan pertimbangan BKN menjamin mutasi sesuai formasi jabatan dan data kepegawaian nasional. Regulasi menyatakan penetapan dilakukan Gubernur berdasar pertimbangan Kepala BKN. Dengan demikian, opsi E adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan kepala daerah penerima yang tidak berwenang memutus lintas wilayah.", "B": "Merupakan kepala daerah asal yang hanya memproses usulan pelepasan.", "D": "Merupakan aparat penegak hukum kepolisian di luar ranah mutasi PNS.", "C": "Merupakan institusi komando pertahanan di luar struktur kepegawaian sipil."}
+======================================================================
+NO 72 | HLM 28 | KUNCI E | TOPIK: Kewenangan Mutasi Antar-Provinsi
+KW: ['antar-kabupaten/kota antar-provinsi dan antar-provinsi', 'ditetapkan oleh Menteri PAN-RB setelah memperoleh pertimbangan kepala BKN']
+Q: Mutasi PNS antar-kabupaten/kota antar-provinsi dan antar-provinsi secara yuridis ditetapkan oleh...
+  A: Ketua Mahkamah Agung Republik Indonesia
+  B: Pimpinan badan usaha milik negara perbankan
+  C: Ketua dewan perwakilan rakyat tingkat pusat
+  D: Kepala dinas tenaga kerja tingkat provinsi
+  E: Menteri PAN-RB setelah pertimbangan Kepala BKN [KUNCI]
+Konsep: Mutasi PNS **antar-kabupaten/kota antar-provinsi dan antar-provinsi ditetapkan oleh Menteri PAN-RB setelah memperoleh pertimbangan kepala BKN**.
+Alasan: Opsi E merupakan wewenang skala makro lintas batas otonomi daerah yang dikelola langsung kementerian pendayagunaan aparatur. Pergerakan aparatur antarpulau/provinsi memerlukan persetujuan menteri guna menjaga keseimbangan formasi ASN nasional. Aturan menegaskan wewenang berada pada Menteri PAN-RB setelah pertimbangan BKN. Oleh karena itu, opsi E adalah jawaban yang benar.
+Bedah: {"A": "Merupakan pimpinan tertinggi yudikatif peradilan umum negara.", "B": "Merupakan pimpinan perseroan bank komersial milik pemerintah.", "C": "Merupakan pimpinan legislatif parlemen tanpa fungsi operasional mutasi.", "D": "Merupakan pejabat teknis dinas daerah dengan yurisdiksi terbatas satu daerah."}
+======================================================================
+NO 73 | HLM 28 | KUNCI B | TOPIK: Kewenangan Mutasi Daerah ke Instansi Pusat
+KW: ['mutasi PNS provinsi/kabupaten/kota ke Instansi Pusat atau sebaliknya', 'ditetapkan oleh Kepala BKN']
+Q: Pengalihan penugasan mutasi seorang PNS dari instansi pemerintah daerah ke Instansi Pusat atau sebaliknya ditetapkan oleh...
+  A: Rektor perguruan tinggi negeri wilayah asal pemohon
+  B: Kepala Badan Kepegawaian Negara (BKN) [KUNCI]
+  C: Pimpinan asosiasi sekretaris daerah seluruh indonesia
+  D: Inspektur pembantu wilayah pada inspektorat daerah
+  E: Ketua komisi pemilihan umum tingkat perwakilan
+Konsep: **Mutasi PNS provinsi/kabupaten/kota ke Instansi Pusat atau sebaliknya ditetapkan oleh Kepala BKN**, begitu pula mutasi antar-instansi Pusat.
+Alasan: Opsi B merupakan fungsi integratif BKN sebagai pengelola administrasi kepegawaian nasional. Mutasi yang menjembatani rezim pemerintah daerah dengan birokrasi kementerian pusat diputuskan secara langsung oleh Kepala BKN. Regulasi menetapkan penetapannya oleh Kepala BKN. Dengan demikian, opsi B adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan pimpinan lembaga pendidikan tinggi akademik.", "C": "Merupakan forum komunikasi non-regulator aparatur daerah.", "D": "Merupakan pejabat fungsional pengawas kepatuhan internal daerah.", "E": "Merupakan institusi penyelenggara pemilihan umum elektoral."}
+======================================================================
+NO 74 | HLM 28 | KUNCI D | TOPIK: Prinsip Larangan Konflik Kepentingan Mutasi
+KW: ['Mutasi PNS dilakukan dengan memperhatikan prinsip', 'larangan konflik kepentingan (Peraturan BKN Nomor 5 Tahun 2019)']
+Q: Berdasarkan Peraturan BKN Nomor 5 Tahun 2019, pelaksanaan mutasi PNS wajib berpegang teguh pada prinsip...
+  A: Pengutamaan penempatan pegawai di kampung halaman pribadi
+  B: Pemberian fasilitas rumah kedinasan gratis di pusat kota
+  C: Pencegahan pemisahan keluarga tanpa memperhatikan formasi
+  D: Larangan terjadinya benturan konflik kepentingan dalam penugasan [KUNCI]
+  E: Pemberian dispensasi jam kerja bagi pegawai di daerah perintis
+Konsep: **Mutasi PNS dilakukan dengan memperhatikan prinsip larangan konflik kepentingan** sebagaimana diatur dalam Peraturan BKN Nomor 5 Tahun 2019.
+Alasan: Opsi D merupakan fondasi etika dan tata kelola bersih agar mutasi tidak menempatkan pegawai pada unit yang menimbulkan relasi kekeluargaan langsung atau kepentingan bisnis pribadi. Hal ini mencegah potensi korupsi, kolusi, dan nepotisme di tempat tugas baru. Aturan menegaskan prinsip larangan konflik kepentingan. Oleh karena itu, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Merupakan preferensi subyektif pribadi yang tidak mengikat secara yuridis.", "B": "Merupakan fasilitas materiil yang bergantung pada kemampuan aset negara.", "C": "Merupakan pertimbangan sosial yang tidak boleh menabrak kebutuhan formasi.", "E": "Merupakan pelanggaran disiplin pemenuhan jam kerja operasional dinas."}
+======================================================================
+NO 75 | HLM 28 | KUNCI A | TOPIK: Kriteria Pembayaran Tunjangan Kinerja dan Kemahalan
+KW: ['tunjangan kinerja (dibayarkan sesuai pencapaian kinerja)', 'tunjangan kemahalan (dibayarkan sesuai dengan tingkat kemahalan berdasarkan indeks harga di daerah masing-masing)']
+Q: Ketentuan pembayaran tunjangan kemahalan bagi Pegawai ASN didasarkan pada tolak ukur...
+  A: Tingkat kemahalan berdasarkan indeks harga di daerah masing-masing [KUNCI]
+  B: Jumlah tagihan kartu kredit pribadi yang dilaporkan ke dinas
+  C: Frekuensi jam lembur yang dilakukan pegawai pada hari libur
+  D: Banyaknya keluhan masyarakat yang masuk ke loket pelayanan
+  E: Peringkat akreditasi almamater kelulusan pendidikan pegawai
+Konsep: ASN menerima **tunjangan kemahalan yang dibayarkan sesuai dengan tingkat kemahalan berdasarkan indeks harga di daerah masing-masing**, serta tunjangan kinerja sesuai pencapaian kinerja.
+Alasan: Opsi A merupakan dasar kompensasi geografis guna menjaga daya beli aparatur di wilayah dengan biaya hidup tinggi. Indeks harga konsumen dan tingkat kemahalan daerah menjadi rujukan objektif penetapan besaran tunjangan. Regulasi menyatakan tunjangan kemahalan dibayar berdasar indeks harga daerah. Dengan demikian, opsi A adalah pilihan yang tepat.
+Bedah: {"B": "Merupakan beban keuangan perdata individu yang tidak ditanggung anggaran negara.", "C": "Merupakan dasar perhitungan uang lembur operasional kerja tambahan.", "D": "Merupakan bahan evaluasi mutu pelayanan publik dan bukan tolak ukur tunjangan.", "E": "Merupakan data kualifikasi akademik yang tidak mempengaruhi indeks wilayah."}
+======================================================================
+NO 76 | HLM 28 | KUNCI C | TOPIK: Ragam Bentuk Penghargaan Prestasi PNS
+KW: ['diberikan penghargaan berupa', 'tanda kehormatan', 'kenaikan pangkat istimewa', 'kesempatan prioritas untuk pengembangan kompetensi']
+Q: Bentuk penghargaan kedinasan yang BUKAN merupakan hak penghargaan prestasi kerja bagi PNS berprestasi adalah...
+  A: Pemberian tanda kehormatan kenegaraan resmi
+  B: Pemberian kenaikan pangkat istimewa kedinasan
+  C: Pemberian hak kepemilikan mutlak atas gedung kantor negara [KUNCI]
+  D: Kesempatan prioritas pengembangan kompetensi diri
+  E: Kesempatan menghadiri acara resmi atau kenegaraan
+Konsep: Penghargaan prestasi bagi PNS mencakup: **tanda kehormatan, kenaikan pangkat istimewa, kesempatan prioritas pengembangan kompetensi, dan kesempatan menghadiri acara kenegaraan**.
+Alasan: Opsi C merupakan tindakan privatisasi ilegal terhadap barang milik negara (BMN) yang melanggar hukum perbendaharaan. Penghargaan kedinasan diberikan dalam bentuk reputasi, karier, dan kesempatan belajar, bukan dalam bentuk pengalihan aset gedung dinas. Oleh karena itu, opsi C adalah jawaban pengecualian yang benar.
+Bedah: {"A": "Merupakan bentuk apresiasi tanda jasa resmi yang diatur dalam undang-undang.", "B": "Merupakan percepatan kenaikan jenjang kepangkatan atas prestasi luar biasa.", "D": "Merupakan beasiswa atau prioritas pelatihan kedinasan tingkat tinggi.", "E": "Merupakan penghargaan protokoler menghadiri resepsi kenegaraan istana."}
+======================================================================
+NO 77 | HLM 28 | KUNCI B | TOPIK: Pencabutan Hak Memakai Tanda Kehormatan
+KW: ['sanksi administratif tingkat berat', 'tanda kehormatan']
+Q: Konsekuensi terhadap tanda kehormatan bagi PNS yang dijatuhi sanksi disiplin berat pemberhentian tidak dengan hormat adalah...
+  A: Diberikan ganti rugi uang tunai sebesar nilai tanda kehormatan
+  B: Dicabut haknya untuk memakai tanda kehormatan berdasarkan undang-undang [KUNCI]
+  C: Tanda kehormatan otomatis diwariskan kepada anak tertua keluarga
+  D: Tetap boleh dipakai secara bebas pada saat menghadiri acara pesta
+  E: Dilelang di hadapan publik dan hasilnya disetor ke rekening satker
+Konsep: **PNS yang dijatuhi sanksi administratif tingkat berat berupa pemberhentian tidak dengan hormat, dicabut haknya untuk memakai tanda kehormatan berdasarkan undang-undang ini**.
+Alasan: Opsi B merupakan sanksi moral dan kehormatan yang mencabut seluruh atribut apresiasi negara dari aparatur yang berkhianat pada sumpah jabatan. Pemecatan secara tidak hormat membatalkan kelayakan pemakaian bintang jasa atau satyalancana. Regulasi menegaskan pencabutan hak memakai tanda kehormatan. Dengan demikian, opsi B adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan kompensasi fiktif yang tidak berdasar bagi pelanggar berat.", "C": "Merupakan pewarisan simbolik yang tidak berlaku bagi gelar kehormatan sipil.", "D": "Merupakan pemakaian terlarang yang mencederai kehormatan lambang negara.", "E": "Merupakan tindakan komersialisasi tanda jasa yang dilarang oleh hukum."}
+======================================================================
+NO 78 | HLM 28 | KUNCI D | TOPIK: Ruang Lingkup Mobilitas Mutasi PNS
+KW: ['Setiap PNS dapat dimutasi tugas dan/atau lokasi dalam 1 (satu) Instansi Pusat', 'ke Perwakilan Negara Kesatuan Republik Indonesia di luar negeri']
+Q: Ketentuan mengenai ruang lingkup mutasi tugas dan/atau lokasi bagi Pegawai Negeri Sipil meliputi...
+  A: Hanya diizinkan berpindah tugas antar-meja kerja dalam satu seksi
+  B: Dilarang keras dipindahkan keluar dari pulau tempat kelahiran
+  C: Hanya berlaku bagi pegawai yang memiliki hubungan kekerabatan
+  D: Antar-instansi pusat, daerah, hingga kantor perwakilan RI luar negeri [KUNCI]
+  E: Wajib membayar sejumlah biaya administrasi perpindahan satker
+Konsep: PNS dapat **dimutasi tugas dan/atau lokasi dalam satu Instansi Pusat, antar-Instansi Pusat, Instansi Daerah, antar-Pusat dan Daerah, hingga ke Perwakilan NKRI di luar negeri**.
+Alasan: Opsi D merupakan perwujudan aparatur sipil sebagai perekat keutuhan Negara Kesatuan Republik Indonesia. Mobilitas penugasan terbuka fleksibel menjangkau seluruh instansi pemerintah baik di dalam negeri maupun pada kedutaan/konsulat luar negeri. Aturan menegaskan ruang lingkup mutasi hingga perwakilan RI luar negeri. Oleh karena itu, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Merupakan pembatasan mikro ruangan kerja yang mengerdilkan mobilitas dinas.", "B": "Merupakan sekat kedaerahan yang bertentangan dengan kesediaan penempatan NKRI.", "C": "Merupakan pertimbangan nepotisme terlarang dalam tata kelola kepegawaian.", "E": "Merupakan pembebanan biaya ilegal yang dilarang dalam prosedur mutasi."}
+======================================================================
+NO 79 | HLM 28 | KUNCI A | TOPIK: Wewenang Mutasi Internal Satu Instansi
+KW: ['Mutasi PNS', 'dalam satu Instansi Pusat atau Instansi Daerah dilakukan oleh Pejabat Pembina Kepegawaian']
+Q: Pelaksanaan mutasi penugasan PNS dalam lingkungan internal satu Instansi Pusat atau Instansi Daerah merupakan wewenang...
+  A: Pejabat Pembina Kepegawaian pada instansi bersangkutan [KUNCI]
+  B: Kepala kantor perwakilan kementerian keuangan daerah
+  C: Koordinator perhimpunan serikat pekerja honorer kementerian
+  D: Ketua komite tetap dewan penasihat tata kelola swasta
+  E: Inspektur pembina pencegahan korupsi tingkat kota
+Konsep: Mutasi PNS **dalam satu Instansi Pusat atau Instansi Daerah dilakukan oleh Pejabat Pembina Kepegawaian** (PPK).
+Alasan: Opsi A merupakan kewenangan otonom menteri, pimpinan lembaga, atau kepala daerah dalam mengatur sebaran pegawai di unit kerjanya sendiri. Rotasi internal ditujukan mengoptimalkan penempatan kompetensi pegawai sesuai beban kerja. Regulasi menetapkan kewenangan ini berada di tangan Pejabat Pembina Kepegawaian. Dengan demikian, opsi A adalah pilihan yang tepat.
+Bedah: {"B": "Merupakan instansi vertikal kementerian keuangan di wilayah provinsi/kota.", "C": "Merupakan kelompok pekerja lepas di luar jalur komando pembina kepegawaian.", "D": "Merupakan entitas nonpemerintah tanpa mandat yuridis tata kelola aparatur.", "E": "Merupakan pejabat pengawas daerah yang menjalankan fungsi pemeriksaan."}
+======================================================================
+NO 80 | HLM 28 | KUNCI E | TOPIK: Syarat Kualitatif Pemberian Penghargaan PNS
+KW: ['PNS yang telah menunjukkan kesetiaan, pengabdian, kecakapan, kejujuran', 'kedisiplinan, dan prestasi kerja dalam melaksanakan tugasnya']
+Q: Nilai-nilai kualitatif yang menjadi prasyarat pertimbangan utama dalam pemberian penghargaan kedinasan bagi PNS adalah...
+  A: Besaran dana iuran sukarela yang disumbangkan ke yayasan
+  B: Kemampuan berbahasa daerah saat berkomunikasi dengan rekan
+  C: Frekuensi perjalanan dinas luar kota yang telah diselesaikan
+  D: Status latar belakang kebangsawanan keluarga pegawai bersangkutan
+  E: Kesetiaan, pengabdian, kecakapan, kejujuran, disiplin, dan prestasi [KUNCI]
+Konsep: PNS dapat diberikan penghargaan apabila telah menunjukkan **kesetiaan, pengabdian, kecakapan, kejujuran, kedisiplinan, dan prestasi kerja dalam melaksanakan tugasnya**.
+Alasan: Opsi E merupakan enam pilar karakter integritas dan kinerja unggul aparatur negara. Penghargaan negara hanya dianugerahkan kepada pegawai yang membuktikan loyalitas pada Pancasila/UUD, kecakapan kerja, dan rekam jejak moral yang bersih. Aturan menetapkan syaratnya meliputi kesetiaan, pengabdian, kecakapan, kejujuran, disiplin, dan prestasi. Oleh karena itu, opsi E adalah jawaban yang benar.
+Bedah: {"A": "Merupakan aktivitas filantropi pribadi yang bukan tolak ukur prestasi dinas.", "C": "Merupakan volume tugas perjalanan dinas biasa tanpa jaminan mutu kinerja.", "D": "Merupakan gelar feodal yang bertentangan dengan prinsip kesetaraan warga.", "B": "Merupakan kemampuan linguistik lokal yang tidak menjadi prasyarat nasional."}
+======================================================================
+NO 81 | HLM 29 | KUNCI D | TOPIK: Tujuan Wadah Korps Profesi ASN
+KW: ['Pegawai ASN berhimpun dalam wadah korps profesi Pegawai ASN Republik Indonesia', 'menjaga kode etik profesi dan standar pelayanan profesi ASN']
+Q: Tujuan pokok dibentuknya wadah Korps Profesi Pegawai ASN Republik Indonesia adalah...
+  A: Mengorganisir aksi mogok kerja massal saat tuntutan upah ditolak
+  B: Menghimpun dana iuran politik guna mendukung calon kepala daerah
+  C: Membentuk badan usaha komersial yang memonopoli proyek kementerian
+  D: Menjaga kode etik profesi, standar pelayanan, dan pemersatu bangsa [KUNCI]
+  E: Menyediakan layanan pinjaman dana berbunga tinggi kepada anggota
+Konsep: Korps profesi Pegawai ASN Republik Indonesia bertujuan **menjaga kode etik profesi dan standar pelayanan profesi ASN, dan mewujudkan jiwa korps ASN sebagai pemersatu bangsa**.
+Alasan: Opsi D merupakan mandat luhur korps profesi ASN yang terbebas dari politik praktis dan kepentingan komersial. Wadah korps membina etika kerja, memastikan mutu layanan publik seragam di seluruh tanah air, dan merawat soliditas nasional. Aturan menegaskan tujuan korps adalah menjaga kode etik, standar pelayanan, dan pemersatu bangsa. Dengan demikian, opsi D adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan aksi buruh industri yang dilarang keras bagi aparatur negara.", "B": "Merupakan pelanggaran berat asas netralitas yang diancam hukuman pemecatan.", "C": "Merupakan praktik monopoli terlarang yang melanggar hukum persaingan usaha.", "E": "Merupakan aktivitas rentenir yang bertentangan dengan kesejahteraan korps."}
+======================================================================
+NO 82 | HLM 29 | KUNCI A | TOPIK: Karakteristik Sistem Informasi ASN
+KW: ['Sistem Informasi ASN', 'diselenggarakan secara nasional dan terintegrasi antar-Instansi Pemerintah']
+Q: Karakteristik penyelenggaraan Sistem Informasi ASN yang diwajibkan oleh undang-undang adalah...
+  A: Diselenggarakan secara nasional dan terintegrasi antar-instansi [KUNCI]
+  B: Dikelola terpisah-pisah oleh masing-masing unit tanpa koordinasi
+  C: Bersifat rahasia mutlak bahkan tidak dapat diakses pengelola SDM
+  D: Diserahkan pengelolaannya kepada perusahaan konsultan swasta asing
+  E: Hanya mencatat data pegawai yang memiliki jabatan struktural
+Konsep: Sistem Informasi ASN **diselenggarakan secara nasional dan terintegrasi antar-Instansi Pemerintah** guna menjamin efisiensi, efektivitas, dan akurasi keputusan.
+Alasan: Opsi A merupakan prinsip keterpaduan basis data aparatur sipil negara (*one single data*). Integrasi data memudahkan interoperabilitas layanan, perencanaan mutasi, dan monitoring kinerja lintas kementerian. Aturan merumuskan sistem diselenggarakan nasional dan terintegrasi antar-instansi. Oleh karena itu, opsi A adalah jawaban yang benar.
+Bedah: {"B": "Merupakan ego sektoral fragmentasi data yang menghambat reformasi birokrasi.", "C": "Merupakan ketertutupan keliru yang merusak fungsi manajemen SDM instansi.", "D": "Merupakan penyerahan data strategis negara kepada pihak asing yang berbahaya.", "E": "Merupakan pembatasan data yang mengabaikan hak ribuan pejabat fungsional/pelaksana."}
+======================================================================
+NO 83 | HLM 29 | KUNCI C | TOPIK: Muatan Data Sistem Informasi ASN
+KW: ['Sistem Informasi ASN memuat seluruh informasi dan data pegawai ASN', 'riwayat gaji', 'daftar penilaian prestasi kerja', 'kompetensi']
+Q: Data yang BUKAN merupakan bagian dari sepuluh cakupan data resmi dalam Sistem Informasi ASN adalah...
+  A: Data riwayat hidup dan pendidikan formal/nonformal
+  B: Riwayat jabatan, kepangkatan, serta riwayat penggajian
+  C: Daftar preferensi pilihan politik dan nama partai binaan [KUNCI]
+  D: Daftar penilaian prestasi kerja serta sertifikat kompetensi
+  E: Riwayat tanda penghargaan, tanda jasa, dan tanda kehormatan
+Konsep: Sistem Informasi ASN memuat: **riwayat hidup, pendidikan, jabatan/pangkat, tanda jasa/kehormatan, organisasi, gaji, diklat, prestasi kerja, SK, dan kompetensi**.
+Alasan: Opsi C merupakan data politik praktis yang dilarang berada dalam rekam jejak aparatur sipil yang netral. Sistem Informasi ASN murni merekam riwayat profesionalisme, kualifikasi, rekam jejak kedinasan, dan kompetensi pegawai. Dengan demikian, opsi C adalah pilihan jawaban pengecualian yang benar.
+Bedah: {"A": "Merupakan data dasar identitas dan jenjang akademik aparatur sipil.", "B": "Merupakan rekam jejak karier struktural/fungsional dan hak finansial dinas.", "D": "Merupakan catatan kinerja tahunan dan bukti penguasaan keahlian teknis.", "E": "Merupakan portofolio apresiasi negara atas kesetiaan dan prestasi dinas."}
+======================================================================
+NO 84 | HLM 29 | KUNCI E | TOPIK: Jenis Upaya Administratif Sengketa ASN
+KW: ['Sengketa pegawai ASN diselesaikan melalui upaya administratif', 'terdiri dari keberatan dan banding administratif']
+Q: Upaya administratif yang dapat ditempuh dalam rangka penyelesaian sengketa pegawai ASN terdiri atas...
+  A: Gugatan perdata ganti rugi dan mediasi di kepolisian wilayah
+  B: Somasi terbuka di media massa dan dengar pendapat parlemen
+  C: Permohonan uji materi undang-undang ke mahkamah konstitusi
+  D: Tuntutan pembubaran organisasi kementerian di forum publik
+  E: Keberatan administratif dan banding administratif [KUNCI]
+Konsep: Sengketa pegawai ASN diselesaikan melalui **upaya administratif, yang terdiri dari keberatan dan banding administratif**.
+Alasan: Opsi E merupakan dua pintu hukum penyelesaian sengketa internal sebelum perkara dapat dibawa ke Pengadilan Tata Usaha Negara (PTUN). Pegawai wajib menuntaskan jalur keberatan dan banding sebagai wujud kepatuhan pada hukum administrasi negara. Aturan menyatakan upaya administratif terdiri dari keberatan dan banding administratif. Oleh karena itu, opsi E adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan jalur peradilan umum yang tidak menangani sengketa disiplin ASN.", "B": "Merupakan aksi publikasi media yang melanggar etika tata kelola aparatur.", "C": "Merupakan pengujian norma undang-undang dan bukan sengketa kasuistis pegawai.", "D": "Merupakan tindakan ekstrem yang tidak diakui dalam sistem hukum administrasi."}
+======================================================================
+NO 85 | HLM 29 | KUNCI B | TOPIK: Tujuan Pengajuan Keberatan Administratif
+KW: ['Keberatan diajukan secara tertulis kepada', 'atasan pejabat yang berwenang menghukum']
+Q: Seorang PNS dijatuhi sanksi hukuman disiplin oleh Kepala Kantor Pelayanan. Pengajuan surat keberatan administratif ditujukan kepada...
+  A: Ketua dewan perwakilan rakyat daerah tingkat kota
+  B: Atasan pejabat yang berwenang menghukum bersangkutan [KUNCI]
+  C: Pimpinan kantor lembaga bantuan hukum swasta setempat
+  D: Komandan komando distrik militer wilayah penugasan
+  E: Kepala kepolisian resor wilayah hukum setempat
+Konsep: **Keberatan diajukan secara tertulis kepada atasan pejabat yang berwenang menghukum** dengan memuat alasan keberatan dan tembusannya disampaikan kepada pejabat yang berwenang menghukum.
+Alasan: Opsi B merupakan jalur pengujian hierarkis internal atas keputusan hukuman disiplin. Atasan langsung pejabat penghukum bertindak memeriksa ulang fakta, bukti, dan prosedur penjatuhan sanksi guna menjamin keadilan bagi pegawai. Aturan menyebutkan keberatan diajukan kepada atasan pejabat yang berwenang menghukum. Dengan demikian, opsi B adalah alur yang benar.
+Bedah: {"A": "Merupakan lembaga legislatif daerah yang tidak berwenang mengadili disiplin.", "C": "Merupakan organisasi advokat swasta di luar hierarki penjatuhan sanksi sipil.", "D": "Merupakan pimpinan teritorial tentara di luar sistem peradilan disiplin ASN.", "E": "Merupakan penegak hukum kepolisian yang tidak memproses keberatan internal dinas."}
+======================================================================
+NO 86 | HLM 29 | KUNCI D | TOPIK: Lembaga Penerima Banding Administratif
+KW: ['Adapun banding diajukan kepada', 'badan pertimbangan ASN']
+Q: Permohonan banding administratif terhadap sanksi hukuman disiplin pegawai ASN diajukan kepada...
+  A: Dewan kehormatan partai politik pemenang pemilu
+  B: Majelis perwakilan pedagang pasar tradisional
+  C: Lembaga sensor film dan penyiaran nasional
+  D: Badan pertimbangan ASN tingkat pusat [KUNCI]
+  E: Panitia ad-hoc pembentukan daerah pemekaran
+Konsep: Dalam mekanisme sengketa kepegawaian, **banding administratif diajukan kepada badan pertimbangan ASN** (dahulu BAPEK).
+Alasan: Opsi D merupakan kuasi-peradilan kepegawaian independen yang dibentuk untuk memeriksa banding sanksi berat (seperti pemberhentian). Badan Pertimbangan ASN menilai objektivitas putusan PPK sebelum pegawai membawa perkara ke tingkat pengadilan peradilan tata usaha negara. Aturan menegaskan banding diajukan ke badan pertimbangan ASN. Oleh karena itu, opsi D adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan partai politik partisan yang dilarang mencampuri urusan ASN.", "B": "Merupakan paguyuban pedagang komersial di luar ranah aparatur publik.", "C": "Merupakan komisi penyiaran di luar sistem sengketa manajemen pegawai.", "E": "Merupakan kepanitiaan otonomi daerah yang tidak mengadili perkara disiplin."}
+======================================================================
+NO 87 | HLM 29 | KUNCI C | TOPIK: Penyebab Pemberhentian PNS dengan Hormat
+KW: ['PNS diberhentikan dengan hormat karena', 'mencapai batas usia pensiun', 'perampingan organisasi atau kebijakan pemerintah']
+Q: Peristiwa yang BUKAN merupakan dasar pemberhentian Pegawai Negeri Sipil dengan hormat adalah...
+  A: Permohonan pengunduran diri atas permintaan sendiri
+  B: Mencapai batas usia pensiun sesuai peraturan hukum
+  C: Terbukti melakukan penyelewengan terhadap ideologi Pancasila [KUNCI]
+  D: Perampingan organisasi atau penataan kebijakan pemerintah
+  E: Dinyatakan tidak cakap jasmani dan rohani oleh tim medis
+Konsep: PNS diberhentikan dengan hormat karena: **permintaan sendiri, mencapai BUP, perampingan organisasi, tidak cakap jasmani/rohani, atau meninggal dunia/tewas/hilang**.
+Alasan: Opsi C merupakan bentuk pengkhianatan dasar negara yang berakibat pada pemberhentian TIDAK dengan hormat. Seluruh alasan pemberhentian dengan hormat berakar pada faktor alamiah, batas usia, permohonan sukarela, atau kebijakan restrukturisasi negara. Dengan demikian, opsi C adalah pilihan jawaban pengecualian yang benar.
+Bedah: {"A": "Merupakan hak inisiatif pegawai untuk mengakhiri masa tugas kedinasan.", "B": "Merupakan akhir masa pengabdian normal yang dihargai dengan jaminan pensiun.", "D": "Merupakan likuidasi instansi yang diselesaikan dengan pemberhentian terhormat.", "E": "Merupakan kondisi medis permanen yang ditutup dengan pemberhentian terhormat."}
+======================================================================
+NO 88 | HLM 29 | KUNCI C | TOPIK: Diskresi Hukuman Pidana Tidak Berencana Minimal 2 Tahun
+KW: ['PNS dapat diberhentikan dengan hormat atau tidak diberhentikan', 'dihukum penjara berdasarkan putusan pengadilan']
+Q: PNS yang dipidana penjara paling singkat dua tahun atas perbuatan pidana TIDAK berencana yang telah berkekuatan hukum tetap...
+  A: Otomatis diangkat menjadi pimpinan tinggi madya di kementerian
+  B: Wajib dijatuhi hukuman mati oleh pejabat pembina kepegawaian
+  C: Dapat diberhentikan dengan hormat atau tidak diberhentikan [KUNCI]
+  D: Diberikan kenaikan pangkat istimewa dua tingkat lebih tinggi
+  E: Dilarang menerima kunjungan keluarga selama masa pemidanaan
+Konsep: PNS **dapat diberhentikan dengan hormat atau tidak diberhentikan** karena dihukum penjara berdasarkan putusan pengadilan berkekuatan hukum tetap karena tindak pidana **paling singkat 2 tahun dan dilakukan tidak berencana**.
+Alasan: Opsi C merupakan diskresi hukum yang mempertimbangkan tidak adanya unsur kesengajaan (*dolus*) dalam perbuatan pidana (seperti kecelakaan lalu lintas). Pejabat Pembina Kepegawaian dapat menimbang apakah pegawai diberhentikan dengan hormat atau tetap dipertahankan. Regulasi menyatakan 'dapat diberhentikan dengan hormat atau tidak diberhentikan'. Oleh karena itu, opsi C adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan promosi fiktif yang tidak masuk akal bagi terpidana kasus pidana.", "B": "Merupakan vonis pidana pokok terberat yang hanya dijatuhkan hakim pengadilan.", "D": "Merupakan penghargaan istimewa yang bertentangan dengan fakta hukuman pidana.", "E": "Merupakan tata tertib lembaga pemasyarakatan di luar ranah status PNS."}
+======================================================================
+NO 89 | HLM 29 | KUNCI B | TOPIK: Pemberhentian PNS Karena Gugur Tewas Hilang
+KW: ['PNS diberhentikan dengan hormat karena', 'meninggal dunia, tewas, atau hilang']
+Q: PNS yang dinyatakan tewas atau hilang dalam menjalankan tugas operasi kedinasan negara diberhentikan secara...
+  A: Tidak dengan hormat karena tidak dapat menyelesaikan laporan
+  B: Dengan hormat atas jasa dan pengabdiannya kepada bangsa [KUNCI]
+  C: Pemberhentian sementara menunggu kabar selama dua puluh tahun
+  D: Pemberhentian dengan kewajiban ganti rugi aset dinas kantor
+  E: Pemberhentian administratif dengan pencabutan hak jaminan duka
+Konsep: PNS **diberhentikan dengan hormat** karena **meninggal dunia, tewas, atau hilang** dalam menjalankan tugas pengabdian negara.
+Alasan: Opsi B merupakan penghormatan tertinggi negara atas pengorbanan jiwa raga aparatur. Gugur atau tewas saat menjalankan tugas resmi diselesaikan melalui surat keputusan pemberhentian dengan hormat disertai hak-hak tewas dan santunan jaminan bagi ahli waris. Aturan menegaskan pemberhentian dilakukan dengan hormat. Dengan demikian, opsi B adalah pilihan yang benar.
+Bedah: {"A": "Merupakan tindakan tidak berperikemanusiaan yang melanggar hukum negara.", "C": "Merupakan masa tunggu berlebih yang menelantarkan hak-hak ahli waris pegawai.", "D": "Merupakan tuntutan ganti rugi yang tidak sah atas musibah kematian dinas.", "E": "Merupakan pencabutan hak ilegal yang merugikan jaminan sosial keluarga."}
+======================================================================
+NO 90 | HLM 29 | KUNCI D | TOPIK: Urgensi Sistem Informasi Manajemen ASN
+KW: ['efisiensi, efektivitas, dan akurasi pengambilan keputusan dalam Manajemen ASN', 'diperlukan Sistem Informasi ASN']
+Q: Urgensi utama dibangunnya Sistem Informasi ASN yang terintegrasi secara nasional adalah menjamin...
+  A: Kerahasiaan anggaran belanja militer dari pengawasan parlemen
+  B: Keterbukaan seluruh data rekening bank pribadi pejabat kepada publik
+  C: Monopoli pengadaan barang teknologi oleh satu vendor penyedia
+  D: Efisiensi, efektivitas, dan akurasi pengambilan keputusan ASN [KUNCI]
+  E: Kewajiban seluruh pegawai memiliki kendaraan dinas roda empat
+Konsep: Sistem Informasi ASN diperlukan **untuk menjamin efisiensi, efektivitas, dan akurasi pengambilan keputusan dalam Manajemen ASN**.
+Alasan: Opsi D merupakan tujuan strategis digitalisasi birokrasi pemerintahan. Data yang akurat dan *real-time* mencegah salah penempatan pegawai, mempercepat layanan mutasi/pensiun, dan menjamin ketepatan analisis kebutuhan talenta nasional. Regulasi merumuskan tujuannya menjamin efisiensi, efektivitas, dan akurasi keputusan. Oleh karena itu, opsi D adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan rahasia pertahanan negara yang berada di luar Sistem Informasi ASN.", "B": "Merupakan data perbankan privat yang dilindungi undang-undang perbankan.", "C": "Merupakan praktik persaingan curang pengadaan yang dilarang undang-undang.", "E": "Merupakan fasilitas materiil yang tidak terkait tujuan sistem informasi data."}
+======================================================================
+NO 91 | HLM 30 | KUNCI E | TOPIK: Batas Waktu Lapor Pasca Tugas Belajar
+KW: ['PNS juga dapat diberhentikan dengan hormat tidak atas permintaan sendiri karena', 'tidak melapor dalam jangka waktu paling lama 15 (lima belas) hari kerja sejak berakhirnya masa tugas belajar']
+Q: PNS dapat diberhentikan dengan hormat tidak atas permintaan sendiri apabila tidak melapor kepada PPK pasca tugas belajar dalam waktu paling lama...
+  A: Tiga hari kerja sejak pengumuman kelulusan
+  B: Tujuh hari kalender sejak kembali ke tanah air
+  C: Sepuluh hari dinas sejak selesainya yudisium
+  D: Tiga puluh hari kalender sejak penerimaan ijazah
+  E: Lima belas hari kerja sejak berakhirnya masa tugas belajar [KUNCI]
+Konsep: PNS diberhentikan dengan hormat tidak atas permintaan sendiri apabila **tidak melapor dalam jangka waktu paling lama 15 (lima belas) hari kerja sejak berakhirnya masa tugas belajar kepada PPK**.
+Alasan: Opsi E merupakan batas kedisiplinan mutlak bagi penerima beasiswa dinas negara. Kelalaian melapor kembali bekerja mengindikasikan ketidakinginan mengabdi kembali, sehingga berakibat pada pemutusan hubungan kerja terhormat tidak atas permintaan sendiri. Regulasi menetapkan tenggat paling lama 15 hari kerja. Dengan demikian, opsi E adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan batas waktu terlalu singkat yang tidak sesuai PP 11/2017 stdd PP 17/2020.", "B": "Merupakan batas hari kalender yang mengabaikan hari libur kedinasan.", "C": "Merupakan kurun waktu sepuluh hari yang tidak memiliki dasar yuridis modul.", "D": "Merupakan jangka waktu satu bulan yang melebihi batas toleransi aturan."}
+======================================================================
+NO 92 | HLM 30 | KUNCI B | TOPIK: Sanksi Penggunaan Ijazah Palsu
+KW: ['PNS juga dapat diberhentikan dengan hormat tidak atas permintaan sendiri karena', 'terbukti menggunakan ijazah palsu dalam pembinaan kepegawaian']
+Q: Seorang pejabat pengawas terbukti menggunakan ijazah palsu untuk kenaikan pangkat penyesuaian ijazah. Sanksi administratif yang dijatuhkan adalah...
+  A: Pemberian teguran tertulis dan pemotongan uang makan dinas
+  B: Pemberhentian dengan hormat tidak atas permintaan sendiri [KUNCI]
+  C: Penurunan jenjang kepangkatan satu tingkat selama enam bulan
+  D: Pemindahan meja tugas ke bagian pelayanan loket perizinan
+  E: Penundaan pembayaran tunjangan kinerja selama satu triwulan
+Konsep: PNS diberhentikan **dengan hormat tidak atas permintaan sendiri** apabila **terbukti menggunakan ijazah palsu dalam pembinaan kepegawaian**.
+Alasan: Opsi B merupakan sanksi yuridis atas pelanggaran integritas akademik serius dalam pembinaan karier aparatur. Penggunaan dokumen pendidikan palsu merusak tatanan kualifikasi meritokrasi birokrasi, sehingga yang bersangkutan dihentikan kariernya secara tidak atas permintaan sendiri. Aturan menetapkan sanksinya pemberhentian dengan hormat tidak atas permintaan sendiri. Oleh karena itu, opsi B adalah jawaban yang benar.
+Bedah: {"A": "Merupakan sanksi disiplin ringan yang tidak sebanding dengan pemalsuan ijazah.", "C": "Merupakan penurunan pangkat sementara yang tidak menghapus cacat integritas.", "D": "Merupakan mutasi internal tanpa dampak pembatalan status kepegawaian.", "E": "Merupakan pemotongan tunjangan sementara yang terlalu ringan."}
+======================================================================
+NO 93 | HLM 30 | KUNCI D | TOPIK: Pemberhentian Tidak dengan Hormat Ideologi
+KW: ['diberhentikan tidak dengan hormat', 'penyelewengan terhadap Pancasila dan UUD 1945']
+Q: PNS yang terbukti melakukan penyelewengan terhadap ideologi Pancasila dan UUD 1945 dijatuhi sanksi kepegawaian berupa...
+  A: Teguran tertulis disertai penugasan kembali ke daerah
+  B: Pembebasan dari jabatan struktural menjadi fungsional
+  C: Pemberhentian dengan hormat tidak atas permintaan sendiri
+  D: Pemberhentian tidak dengan hormat sebagai aparatur negara [KUNCI]
+  E: Pengurangan tunjangan kinerja sebesar lima puluh persen
+Konsep: PNS **diberhentikan tidak dengan hormat** apabila terbukti **melakukan penyelewengan terhadap Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945**.
+Alasan: Opsi D merupakan jawaban yang tepat. Kesetiaan pada Pancasila dan UUD 1945 adalah kewajiban fundamental yang tidak dapat ditawar bagi seluruh aparatur sipil negara. Pelanggaran berupa penyelewengan terhadap ideologi negara berakibat sanksi terberat yaitu pemecatan tidak dengan hormat.
+Bedah: {"A": "Teguran tertulis hanya diperuntukkan bagi pelanggaran disiplin ringan.", "B": "Pembebasan jabatan adalah sanksi hukuman disiplin kategori berat.", "C": "Pemberhentian dengan hormat diberikan jika tidak ada unsur makar/pidana.", "E": "Pemotongan tunjangan kinerja diterapkan pada disiplin tingkat sedang."}
+======================================================================
+NO 94 | HLM 30 | KUNCI A | TOPIK: Pemberhentian Sementara Tersangka Pidana
+KW: ['PNS diberhentikan sementara apabila', 'ditahan karena menjadi tersangka tindak pidana (Pasal 53 UU Nomor 20 Tahun 2023)']
+Q: Seorang PNS resmi ditahan oleh kejaksaan karena berstatus tersangka perkara dugaan korupsi. Keputusan administratif PPK terhadapnya adalah...
+  A: Diberhentikan sementara dari statusnya sebagai pegawai negeri sipil [KUNCI]
+  B: Diberikan kenaikan pangkat kehormatan atas dedikasi kerja kantor
+  C: Diberhentikan permanen tanpa menunggu putusan pengadilan berkekuatan tetap
+  D: Diberikan bantuan dana taktis dinas untuk membayar uang penjaminan
+  E: Diperintahkan tetap memimpin rapat satker dari dalam tahanan kejaksaan
+Konsep: Menurut Pasal 53 UU Nomor 20 Tahun 2023, PNS **diberhentikan sementara** apabila **ditahan karena menjadi tersangka tindak pidana**.
+Alasan: Opsi A merupakan status penonaktifan sementara demi menjunjung asas praduga tak bersalah (*presumption of innocence*) sekaligus menjaga integritas kedinasan. Selama masa penahanan, pegawai tidak dapat menjalankan tugas sehingga dinonaktifkan sementara menunggu putusan hakim yang berkekuatan hukum tetap (*inkracht*). Aturan menyatakan statusnya diberhentikan sementara. Oleh karena itu, opsi A adalah keputusan yang benar.
+Bedah: {"B": "Merupakan promosi pangkat yang mustahil diberikan kepada tersangka tahanan.", "C": "Merupakan pemecatan dini yang melanggar asas praduga tak bersalah sebelum inkracht.", "D": "Merupakan penyalahgunaan dana anggaran negara untuk kepentingan pidana privat.", "E": "Merupakan tindakan melanggar hukum tata tertib penahanan lembaga peradilan."}
+======================================================================
+NO 95 | HLM 30 | KUNCI C | TOPIK: Pejabat Pengaktif Kembali PNS
+KW: ['Pengaktifan kembali PNS yang diberhentikan sementara', 'dilakukan oleh Pejabat Pembina Kepegawaian']
+Q: Pihak yang memiliki kewenangan legal menerbitkan surat pengaktifan kembali PNS yang sebelumnya diberhentikan sementara adalah...
+  A: Kepala kantor pos pelayanan pengiriman barang daerah
+  B: Pimpinan organisasi lembaga swadaya pemerhati hukum
+  C: Pejabat Pembina Kepegawaian pada instansi pemerintah [KUNCI]
+  D: Ketua komite penasihat perbankan milik swasta nasional
+  E: Koordinator tenaga alih daya pada kantor sekretariat
+Konsep: **Pengaktifan kembali PNS yang diberhentikan sementara dilakukan oleh Pejabat Pembina Kepegawaian** (PPK).
+Alasan: Opsi C merupakan pemegang kekuasaan kepegawaian tertinggi di instansi pemerintah yang memiliki otoritas memulihkan status kedinasan aparatur. Berdasarkan surat putusan pengadilan bebas atau berakhirnya masa penugasan negara, PPK menetapkan surat keputusan pengaktifan kembali. Aturan menyebutkan wewenang berada pada Pejabat Pembina Kepegawaian. Dengan demikian, opsi C adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan perusahaan logistik pos tanpa kewenangan administrasi kepegawaian.", "B": "Merupakan entitas swasta nonpemerintah di luar struktur aparatur sipil.", "D": "Merupakan komite perbankan swasta yang tidak mengelola status PNS.", "E": "Merupakan petugas tenaga kerja kontrak di luar formasi aparatur sipil."}
+======================================================================
+NO 96 | HLM 30 | KUNCI E | TOPIK: Pemberhentian Tidak dengan Hormat Parpol
+KW: ['PNS diberhentikan tidak dengan hormat apabila', 'menjadi anggota dan/atau pengurus partai politik']
+Q: Hasil verifikasi faktual KPU mendapati seorang PNS aktif terdaftar sebagai bendahara dewan pimpinan cabang partai politik. Sanksinya adalah...
+  A: Pemberian teguran lisan tertutup di ruangan biro kepegawaian
+  B: Pemindahan wilayah kerja ke instansi vertikal di kabupaten lain
+  C: Pemberhentian dengan hormat disertai hak uang tunggu pensiun
+  D: Pemberian dispensasi khusus selama masa verifikasi peserta pemilu
+  E: Pemberhentian tidak dengan hormat sebagai pegawai negeri sipil [KUNCI]
+Konsep: PNS **diberhentikan tidak dengan hormat** apabila terbukti **menjadi anggota dan/atau pengurus partai politik**.
+Alasan: Opsi E merupakan ketentuan hukum tegas untuk menjaga netralitas aparatur sipil dari kontaminasi politik kepartaian. PNS dilarang merangkap sebagai anggota apalagi pengurus partai, dan pelanggaran atas asas ini berakibat pemutusan hubungan kerja tidak hormat. Aturan menegaskan sanksinya pemberhentian tidak dengan hormat. Oleh karena itu, opsi E adalah jawaban yang benar.
+Bedah: {"A": "Merupakan teguran ringan yang tidak sebanding dengan pelanggaran netralitas parpol.", "B": "Merupakan mutasi yang tidak menghapus cacat netralitas keanggotaan partai.", "C": "Merupakan terminasi kerja terhormat yang tidak sah diberikan bagi pengurus partai.", "D": "Merupakan pembiaran ilegal yang merusak netralitas penyelenggara negara."}
+======================================================================
+NO 97 | HLM 30 | KUNCI B | TOPIK: Status PNS Menjalani CLTN
+KW: ['PNS diberhentikan sementara apabila', 'menjalani cuti di luar tanggungan negara']
+Q: Seorang PNS yang telah disetujui untuk menjalani cuti di luar tanggungan negara (CLTN) secara hukum berstatus...
+  A: Diberhentikan permanen dan dicabut seluruh tanda jasa kehormatan
+  B: Diberhentikan sementara dari jabatannya selama masa cuti berlangsung [KUNCI]
+  C: Tetap menerima gaji pokok dan tunjangan jabatan penuh setiap bulan
+  D: Wajib mengikuti apel presensi harian di kantor satker terdekat
+  E: Diberikan tugas rangkap sebagai pengawas proyek konstruksi daerah
+Konsep: PNS **diberhentikan sementara** apabila: **diangkat menjadi pejabat negara, anggota lembaga nonstruktural, menjalani cuti di luar tanggungan negara (CLTN), atau ditahan tersangka pidana**.
+Alasan: Opsi B merupakan konsekuensi administratif CLTN di mana jabatan struktural/fungsional pegawai dilepaskan sementara agar dapat diisi pejabat lain. Selama CLTN, penghasilan negara dihentikan namun ikatan status PNS tetap terjaga hingga masa cuti berakhir. Aturan menyebutkan statusnya diberhentikan sementara. Dengan demikian, opsi B adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan pemecatan permanen yang menyalahi hak cuti yang telah disetujui sah.", "C": "Merupakan pembayaran gaji terlarang karena CLTN berada di luar tanggungan belanja negara.", "D": "Merupakan kewajiban presensi yang dikecualikan selama masa cuti di luar tanggungan.", "E": "Merupakan penugasan kerja yang bertentangan dengan esensi izin bebas tugas cuti."}
+======================================================================
+NO 98 | HLM 30 | KUNCI D | TOPIK: Kondisi Pemberian Jaminan Pensiun PNS
+KW: ['PNS diberikan jaminan pensiun (UU Nomor 20 Tahun 2023) apabila', 'mencapai batas usia pensiun', 'meninggal dunia']
+Q: Kondisi yang BUKAN merupakan dasar hukum pemberian hak jaminan pensiun bagi PNS adalah...
+  A: Pegawai meninggal dunia saat masih berstatus dinas aktif
+  B: Mencapai batas usia pensiun resmi sesuai jenjang jabatan
+  C: Atas permintaan sendiri dengan memenuhi usia dan masa kerja tertentu
+  D: Diberhentikan tidak dengan hormat karena menjadi pengurus partai politik [KUNCI]
+  E: Perampingan organisasi dengan masa kerja dan usia pensiun tertentu
+Konsep: Berdasarkan UU Nomor 20 Tahun 2023, PNS diberikan jaminan pensiun apabila: **meninggal dunia, atas permintaan sendiri dengan usia dan masa kerja tertentu, atau mencapai batas usia pensiun**.
+Alasan: Opsi D merupakan pemberhentian dengan sanksi tercela yang menghapuskan hak jaminan pensiun aparatur sipil negara. Hak jaminan pensiun adalah bentuk penghargaan atas pengabdian purna tugas yang bersih hingga akhir masa kerja. Oleh karena itu, opsi D adalah pilihan jawaban pengecualian yang benar.
+Bedah: {"A": "Merupakan peristiwa kematian aktif yang hak pensiunnya diteruskan ke ahli waris.", "B": "Merupakan kondisi normal purnatugas kedinasan penerima jaminan pensiun.", "C": "Merupakan hak pensiun dini sukarela bagi pegawai yang memenuhi syarat.", "E": "Merupakan kompensasi pensiun akibat kebijakan rasionalisasi kelembagaan."}
+======================================================================
+NO 99 | HLM 30 | KUNCI A | TOPIK: Sanksi Pidana Berencana Kurang dari 2 Tahun
+KW: ['PNS juga dapat diberhentikan dengan hormat tidak atas permintaan sendiri karena', 'dipidana dengan pidana penjara kurang dari 2 (dua) tahun']
+Q: PNS yang dijatuhi pidana penjara KURANG dari dua tahun karena tindak pidana berencana berkekuatan hukum tetap diberhentikan secara...
+  A: Dengan hormat tidak atas permintaan sendiri sebagai pegawai [KUNCI]
+  B: Dengan hormat atas permintaan pribadi dengan uang pesangon
+  C: Diberikan kenaikan pangkat penyesuaian masa tahanan pidana
+  D: Pemberhentian sementara sambil menunggu tawaran jabatan baru
+  E: Tetap dipertahankan aktif berdinas tanpa catatan hukuman
+Konsep: PNS diberhentikan **dengan hormat tidak atas permintaan sendiri** apabila **dipidana dengan pidana penjara kurang dari 2 (dua) tahun berdasarkan putusan pengadilan berkekuatan hukum tetap karena tindak pidana dengan berencana**.
+Alasan: Opsi A merupakan konstruksi yuridis Pasal 87 PP 11/2017 stdd PP 17/2020. Kendati hukuman penjara di bawah dua tahun, unsur kesengajaan/perencanaan tindak pidana menggugurkan kelayakan moral pegawai sehingga diberhentikan dengan hormat tidak atas permintaan sendiri. Regulasi menyatakan sanksinya diberhentikan dengan hormat tidak atas permintaan sendiri. Dengan demikian, opsi A adalah jawaban yang tepat.
+Bedah: {"B": "Merupakan permohonan sukarela yang tidak relevan bagi status terpidana pidana.", "C": "Merupakan kenaikan pangkat fiktif yang melanggar logika hukum kepegawaian.", "D": "Merupakan status sementara yang keliru karena perkara telah inkracht.", "E": "Merupakan pemutihan rekam jejak kriminal yang dilarang dalam sistem merit."}
+======================================================================
+NO 100 | HLM 30 | KUNCI C | TOPIK: Status PNS Diangkat Anggota LNS
+KW: ['PNS diberhentikan sementara apabila', 'diangkat menjadi komisioner atau anggota lembaga nonstruktural']
+Q: Seorang pejabat struktural PNS terpilih menjadi anggota komisioner lembaga nonstruktural (LNS). Status kepegawaiannya adalah...
+  A: Diberikan kewenangan merangkap dua jabatan struktural sekaligus
+  B: Diberhentikan permanen dengan pencabutan nomor induk kepegawaian
+  C: Diberhentikan sementara dari jabatannya selama menjadi anggota LNS [KUNCI]
+  D: Dialihkan menjadi pegawai swasta tetap pada yayasan komersial
+  E: Diharuskan mengundurkan diri permanen dari status aparatur negara
+Konsep: PNS **diberhentikan sementara apabila diangkat menjadi komisioner atau anggota lembaga nonstruktural** (LNS).
+Alasan: Opsi C merupakan aturan penugasan penunjang lembaga nonstruktural independen (seperti Komisi Informasi Publik atau Ombudsman). Jabatan karier sipil diistirahatkan sementara agar pegawai fokus bertugas di LNS tanpa merangkap komando. Aturan menyebutkan statusnya diberhentikan sementara. Oleh karena itu, opsi C adalah keputusan yang benar.
+Bedah: {"A": "Merupakan rangkap komando yang mencederai independensi lembaga nonstruktural.", "B": "Merupakan penghapusan status sewenang-wenang yang melanggar hak pegawai.", "D": "Merupakan pengalihan korporasi swasta di luar status pengabdian LNS negara.", "E": "Merupakan kewajiban mundur permanen yang hanya berlaku bagi kontestan politik."}
+======================================================================

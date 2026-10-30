@@ -166,14 +166,14 @@
       "halaman_sumber": 62,
       "kata_kunci_modul": [
         "mengurangi hak cuti persalinan",
-        "CPNS wanita untuk persalinan anaknya yang pertama"
+        "CPNS wanita untuk persalinan"
       ],
       "topik_materi": "Ketentuan Cuti Bersalin bagi CPNS Wanita",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Penggunaan cuti bersalin oleh CPNS wanita untuk persalinan anak pertama akan berakibat...",
       "pilihan": {
-        "A": "Menghapuskan hak cuti tahunan selama tiga tahun",
-        "B": "Membatalkan pengangkatan resmi menjadi PNS penuh",
+        "A": "Menangguhkan hak cuti tahunan pada tahun berjalan berikutnya",
+        "B": "Memerlukan permohonan persetujuan khusus kepala perwakilan",
         "C": "Mengurangi hak cuti persalinan setelah menjadi PNS",
         "D": "Menangguhkan penerbitan kartu identitas pegawai resmi",
         "E": "Menghentikan seluruh tunjangan melekat CPNS"
@@ -183,8 +183,8 @@
         "konsep_materi": "Cuti bersalin yang digunakan oleh CPNS wanita untuk persalinan anak pertama **mengurangi hak cuti bersalin setelah yang bersangkutan diangkat menjadi PNS**.",
         "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Berdasarkan regulasi teknis cuti ASN, CPNS wanita berhak atas cuti bersalin untuk anak pertama, namun pemanfaatan hak tersebut diperhitungkan secara kumulatif sehingga mengurangi jatah cuti bersalin yang berhak diambil setelah resmi diangkat sebagai PNS.",
         "bedah_pengecoh": {
-          "A": "Cuti bersalin tidak berdampak pada gugurnya hak cuti tahunan tiga tahun.",
-          "B": "Pengambilan cuti bersalin tidak membatalkan proses pengangkatan PNS.",
+          "A": "Kurang tepat, penggunaan hak cuti bersalin tidak menangguhkan hak cuti tahunan pada tahun berjalan.",
+          "B": "Kurang tepat, persetujuan cuti bersalin mengikuti prosedur baku kepegawaian tanpa persetujuan luar negeri khusus.",
           "D": "Penerbitan kartu identitas aparatur tetap diproses sesuai mekanisme resmi.",
           "E": "Tunjangan yang melekat pada status CPNS tetap dibayarkan sesuai haknya."
         },
@@ -533,7 +533,7 @@
       "pertanyaan": "Kompensasi finansial yang diterima oleh PNS selama menjalankan Cuti Karena Alasan Penting adalah...",
       "pilihan": {
         "A": "Diberikan uang tunggu sebesar lima puluh persen",
-        "B": "Hanya menerima gaji pokok tanpa tunjangan apa pun",
+        "B": "Menerima tunjangan jabatan tanpa pembayaran gaji pokok",
         "C": "Memperoleh penghasilan dan tunjangan sesuai aturan",
         "D": "Tidak berhak menerima penghasilan dari kas negara",
         "E": "Tunjangan kinerja dipotong sebesar delapan puluh persen"
@@ -544,7 +544,7 @@
         "alasan_kunci": "Opsi C tepat karena cuti karena alasan penting memberikan jaminan penghasilan dan tunjangan penuh bagi pegawai. Negara menjamin perlindungan finansial saat pegawai mengalami peristiwa mendesak. Oleh sebab itu, opsi A benar.",
         "bedah_pengecoh": {
           "A": "Uang tunggu hanya diberikan bagi pegawai yang diberhentikan dengan hormat karena sakit/perampingan.",
-          "B": "Pegawai tidak hanya menerima gaji pokok melainkan juga tunjangan yang sah.",
+          "B": "Kurang tepat, selama cuti karena alasan penting PNS tetap menerima gaji pokok dan tunjangan sah.",
           "D": "Penghentian penghasilan hanya berlaku pada Cuti di Luar Tanggungan Negara (CLTN).",
           "E": "Tidak ada ketentuan pemotongan tunjangan kinerja hingga 80% dalam pasal cuti alasan penting."
         },
@@ -562,21 +562,21 @@
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Ibu Ratna memiliki 2 anak sebelum lulus CPNS. Setelah menjadi PNS, ia melahirkan anak berikutnya. Hak cuti melahirkan yang sah adalah...",
       "pilihan": {
-        "A": "Hanya diizinkan mengambil izin pribadi 3 hari",
-        "B": "Hanya boleh mengambil cuti tahunan 12 hari",
+        "A": "Diberikan izin tidak masuk kantor sementara selama tiga pekan",
+        "B": "Diberikan hak pemanfaatan sisa cuti tahunan tahun berjalan",
         "C": "Wajib mengajukan cuti di luar tanggungan",
-        "D": "Tetap berhak atas cuti melahirkan selama 3 bulan",
-        "E": "Hak cuti melahirkan langsung dinyatakan gugur"
+        "D": "Tetap berhak atas cuti melahirkan selama tiga bulan penuh",
+        "E": "Diberikan penyesuaian jam kerja fleksibel selama enam bulan"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
         "konsep_materi": "PNS wanita yang telah beranak sebelum menjadi PNS berhak cuti melahirkan **sampai dengan 3 anak setelah menjadi PNS**, dengan durasi **3 bulan**.",
         "alasan_kunci": "Opsi D tepat karena kelahiran tersebut adalah kelahiran pertama Ibu Ratna setelah berstatus PNS. Karena kuota 3 anak dihitung sejak berstatus PNS, ia berhak penuh atas cuti melahirkan 3 bulan. Dengan demikian, opsi A benar.",
         "bedah_pengecoh": {
-          "A": "Izin 3 hari bukan pengganti hak cuti persalinan aparatur.",
-          "B": "Cuti melahirkan tidak digantikan oleh cuti tahunan yang hanya berdurasi 12 hari kerja.",
+          "A": "Kurang tepat, izin sementara tiga pekan tidak sesuai regulasi baku cuti melahirkan.",
+          "B": "Kurang tepat, cuti melahirkan merupakan hak tersendiri dan tidak menggantikan cuti tahunan.",
           "C": "Tidak perlu mengajukan CLTN karena hak normatif cuti melahirkan masih tersedia.",
-          "E": "Hak cuti melahirkan tidak gugur karena anak sebelumnya lahir sebelum masa bakti ASN."
+          "E": "Kurang tepat, penyesuaian jam kerja bukan merupakan mekanisme pengganti cuti melahirkan resmi."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -773,7 +773,7 @@
       "pertanyaan": "Ruang lingkup keluarga yang sakit keras atau wafat sehingga PNS berhak cuti alasan penting mencakup...",
       "pilihan": {
         "A": "Kakek, nenek, paman, dan bibi sekandung",
-        "B": "Hanya pasangan sah dan anak kandung di rumah",
+        "B": "Pasangan sah, anak kandung, serta saudara sepupu satu garis wali",
         "C": "Seluruh keluarga besar hingga derajat ketiga",
         "D": "Sepupu satu garis keturunan dan keponakan",
         "E": "Ibu, bapak, istri/suami, anak, adik, kakak, mertua, menantu"
@@ -784,7 +784,7 @@
         "alasan_kunci": "Opsi E tepat karena pasal cuti alasan penting menyebutkan secara limitatif daftar keluarga inti: orang tua, pasangan, anak, saudara kandung (adik/kakak), mertua, dan menantu. Dengan demikian, opsi A benar.",
         "bedah_pengecoh": {
           "A": "Kakek, nenek, paman, dan bibi tidak masuk dalam rumusan pasal Cuti Alasan Penting.",
-          "B": "Terlalu sempit karena mencoret orang tua, mertua, menantu, dan saudara kandung.",
+          "B": "Kurang tepat, saudara sepupu tidak termasuk dalam kategori keluarga inti yang sah untuk cuti alasan penting.",
           "C": "Terlalu luas dan tidak sesuai rincian limitatif peraturan kepegawaian.",
           "D": "Sepupu dan keponakan tidak tercantum dalam daftar keluarga inti penerima hak cuti."
         },
@@ -805,7 +805,7 @@
         "A": "Memulihkan kondisi kejiwaan pegawai",
         "B": "Mencari peluang mutasi dinas baru",
         "C": "Menambah tunjangan luar negeri",
-        "D": "Menghindari evaluasi kinerja rutin",
+        "D": "Mengikuti program pembekalan diplomatik",
         "E": "Melakukan penugasan intelijen tambahan"
       },
       "kunci_jawaban": "A",
@@ -815,7 +815,7 @@
         "bedah_pengecoh": {
           "B": "Cuti tidak diberikan untuk mencari peluang mutasi dinas.",
           "C": "Tunjangan luar negeri diatur tersendiri dan bukan tujuan pemberian cuti pemulihan jiwa.",
-          "D": "Cuti bukan sarana menghindari kewajiban evaluasi akuntabilitas kinerja.",
+          "D": "Kurang tepat, pembekalan diplomatik merupakan bagian dari pengembangan kompetensi, bukan tujuan cuti pemulihan kondisi rawan.",
           "E": "Tugas intelijen bukan merupakan alasan yuridis pemberian hak cuti alasan penting."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
@@ -893,9 +893,9 @@
       "pertanyaan": "Seorang PNS pria mengajukan izin mendampingi istrinya yang menjalani operasi sesar darurat. Tindakan kepegawaian yang benar adalah...",
       "pilihan": {
         "A": "Mengharuskan penggunaan cuti besar enam bulan",
-        "B": "Menolak izin karena bukan pegawai wanita",
+        "B": "Mengarahkan penggunaan izin dispensasi harian selama tiga hari",
         "C": "Memotong gaji pokok pegawai sebesar sepertiga",
-        "D": "Memberikan cuti alasan penting maksimal 1 bulan",
+        "D": "Memberikan cuti alasan penting maksimal 1 bulan kalender",
         "E": "Mewajibkan lembur pengganti selama dua pekan"
       },
       "kunci_jawaban": "D",
@@ -904,7 +904,7 @@
         "alasan_kunci": "Opsi D tepat karena regulasi menjamin hak cuti alasan penting bagi PNS pria yang istrinya operasi sesar. Durasi diberikan sesuai pertimbangan kondisi medis hingga maksimal 1 bulan. Oleh sebab itu, opsi A benar.",
         "bedah_pengecoh": {
           "A": "Cuti besar memerlukan masa kerja 5 tahun dan bukan prosedur pendampingan persalinan.",
-          "B": "Menolak permohonan melanggar hak hukum PNS pria yang dilindungi peraturan kepegawaian.",
+          "B": "Kurang tepat, dispensasi harian tidak mencukupi untuk pendampingan persalinan operasi sesar yang diwadahi melalui cuti penting hingga satu bulan.",
           "C": "Penghasilan dan tunjangan tetap berhak diterima penuh tanpa pemotongan sepertiga.",
           "E": "Tidak ada aturan kompensasi lembur pengganti bagi hak cuti alasan penting."
         },
@@ -1223,20 +1223,20 @@
       "pertanyaan": "Seorang staf memiliki masa kerja 3 tahun dan ingin mengajukan CLTN untuk mendampingi pasangan. Keputusan pejabat kepegawaian adalah...",
       "pilihan": {
         "A": "Menyetujui dengan syarat bersedia dipotong gaji penuh",
-        "B": "Menolak permohonan karena masa kerja kurang dari 5 tahun",
+        "B": "Tidak dapat menyetujui karena syarat masa kerja minimal lima tahun",
         "C": "Mengabulkan dengan durasi percobaan enam bulan",
         "D": "Mengalihkan status pegawai menjadi honorer lepas",
-        "E": "Memberhentikan secara sepihak dari jabatan ASN"
+        "E": "Memberikan izin penugasan belajar pendamping tanpa pembiayaan dinas"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
         "konsep_materi": "CLTN hanya dapat diberikan bagi PNS yang telah **bekerja paling kurang 5 tahun secara terus-menerus**.",
-        "alasan_kunci": "Opsi B tepat karena masa dinas pegawai baru 3 tahun, belum mencapai syarat minimal 5 tahun kerja terus-menerus sehingga permohonan wajib ditolak secara administratif. Oleh sebab itu, opsi A benar.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Berdasarkan ketentuan PP Manajemen PNS, cuti di luar tanggungan negara (CLTN) hanya dapat diberikan kepada aparatur yang telah bekerja sekurang-kurangnya 5 tahun secara terus-menerus. Pegawai yang baru bermasa kerja 3 tahun belum memenuhi syarat formal tersebut sehingga permohonan tidak dapat disetujui. Dengan demikian, keputusan pejabat kepegawaian sudah sesuai regulasi yang berlaku.",
         "bedah_pengecoh": {
           "A": "Pejabat kepegawaian tidak boleh melanggar syarat masa kerja 5 tahun meski pegawai bersedia nir-gaji.",
           "C": "Tidak ada skema CLTN masa percobaan 6 bulan bagi masa kerja di bawah 5 tahun.",
           "D": "Status PNS tidak dapat diubah menjadi tenaga honorer.",
-          "E": "Penolakan permohonan cuti bukan alasan menjatuhkan sanksi pemberhentian jabatan."
+          "E": "Kurang tepat, penugasan belajar memiliki dasar hukum dan mekanisme tersendiri yang berbeda dengan permohonan CLTN urusan pribadi."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -1701,7 +1701,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Sistem skala tunggal dalam penggajian pegawai negeri sipil didefinisikan sebagai sistem yang...",
       "pilihan": {
-        "A": "Menghitung gaji semata-mata dari jam lembur kantor",
+        "A": "Menghitung besaran gaji berdasarkan akumulasi jam kerja dinas",
         "B": "Membedakan gaji pokok berdasarkan lokasi penugasan",
         "C": "Memberi gaji sama bagi pangkat sama tanpa beda beban",
         "D": "Memberikan bonus besar bagi pegawai berprestasi tinggi",
@@ -1712,7 +1712,7 @@
         "konsep_materi": "Sistem skala tunggal adalah **sistem penggajian yang memberikan gaji yang sama kepada pegawai yang berpangkat sama dengan tidak atau kurang memperhatikan sifat pekerjaan dan beratnya tanggung jawab**.",
         "alasan_kunci": "Opsi C tepat karena karakteristik mutlak skala tunggal adalah kesetaraan gaji murni berbasis pangkat semata tanpa memperhitungkan variasi risiko atau beban kerja riil. Dengan demikian, opsi A benar.",
         "bedah_pengecoh": {
-          "A": "Penghitungan berbasis jam lembur bukan prinsip dasar skala tunggal.",
+          "A": "Kurang tepat, akumulasi jam kerja digunakan untuk penghitungan uang lembur dan bukan penentu gaji pokok pada sistem skala tunggal.",
           "B": "Pembedaan berbasis lokasi bukan ciri dari sistem skala tunggal murni.",
           "D": "Bonus prestasi tinggi merupakan instrumen skala ganda atau tunjangan kinerja.",
           "E": "Negosiasi kontrak merupakan karakteristik pegawai swasta, bukan sistem skala tunggal PNS."
@@ -1914,8 +1914,8 @@
         "A": "Gaji pokok langsung dinaikkan menjadi golongan IV/a",
         "B": "Gaji pokok sama ditambah tunjangan beban kerja lebih tinggi",
         "C": "Gaji pokok dan seluruh fasilitas disamaratakan persis",
-        "D": "Hanya pemeriksa lapangan yang berhak menerima gaji pokok",
-        "E": "Pegawai di kantor dipotong gajinya sebesar lima puluh persen"
+        "D": "Gaji pokok disesuaikan berdasarkan persentase realisasi target",
+        "E": "Gaji pokok dipertahankan dengan insentif kompensasi berkala"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
@@ -1924,8 +1924,8 @@
         "bedah_pengecoh": {
           "A": "Kenaikan golongan pangkat memerlukan prosedur kenaikan pangkat resmi, bukan instan dinaikkan.",
           "C": "Menyamaratakan persis merupakan kelemahan sistem skala tunggal yang tidak adil bagi tugas berisiko.",
-          "D": "Setiap pegawai yang berdinas sah tetap berhak atas gaji pokok pangkatnya.",
-          "E": "Pemotongan 50% bagi staf kantor melanggar hak hukum penghasilan aparatur."
+          "D": "Kurang tepat, penyesuaian gaji pokok berdasar target bukan karakteristik sistem skala gabungan.",
+          "E": "Kurang tepat, kompensasi berkala tidak menggantikan tunjangan risiko beban kerja spesifik."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -2273,7 +2273,7 @@
       "pilihan": {
         "A": "Kompetensi menentukan pensiun, kinerja menentukan cuti tahunan",
         "B": "Kompetensi menilai jam kerja, kinerja menilai pakaian dinas",
-        "C": "Kompetensi berlaku bagi pimpinan, kinerja hanya bagi bawahan",
+        "C": "Kompetensi mengukur aspek administratif, kinerja mengukur integritas",
         "D": "Kompetensi menguji kapasitas profil, kinerja menguji hasil target",
         "E": "Kompetensi dinilai auditor BPK, kinerja dinilai kepala kantor"
       },
@@ -2284,7 +2284,7 @@
         "bedah_pengecoh": {
           "A": "Pensiun dan cuti tahunan tidak ditentukan secara langsung oleh pembedaan analisis ini.",
           "B": "Jam kerja dan pakaian dinas adalah aspek kedisiplinan aturan tata tertib.",
-          "C": "Kedua analisis berlaku setara bagi seluruh jenjang jabatan aparatur.",
+          "C": "Kurang tepat, kompetensi mencakup pengetahuan, keterampilan, dan sikap kerja, bukan sekadar administrasi.",
           "E": "Kedua analisis merupakan ranah internal manajemen kepegawaian instansi."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
@@ -2602,10 +2602,10 @@
       "pertanyaan": "Pergeseran paradigma utama pembelajaran melalui Model 10:20:70 di lingkungan birokrasi kementerian adalah...",
       "pilihan": {
         "A": "Mewajibkan seluruh pegawai magang di perusahaan swasta",
-        "B": "Menghapuskan seluruh pelatihan tatap muka klasikal",
+        "B": "Mengutamakan program magang kerja profesional di sektor industri swasta",
         "C": "Menjadikan jam perkuliahan formal sebagai tolok ukur tunggal",
         "D": "Beralih dari dominasi kelas teori ke praktik nyata di tempat kerja",
-        "E": "Meniadakan peran atasan dalam membimbing bawahan"
+        "E": "Menitikberatkan pembelajaran mandiri berbasis digital tanpa pendampingan"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
@@ -2613,9 +2613,9 @@
         "alasan_kunci": "Opsi D tepat karena model ini mengakui bahwa keahlian profesional sejati terbentuk dari pengalaman langsung menyelesaikan masalah kedinasan di meja kerja. Oleh sebab itu, opsi A benar.",
         "bedah_pengecoh": {
           "A": "Pertukaran swasta adalah opsi fleksibel, bukan kewajiban bagi seluruh pegawai.",
-          "B": "Pelatihan tatap muka tidak dihapuskan melainkan tetap diberi porsi 10% fondasi konsep.",
+          "B": "Kurang tepat, model 10:20:70 tidak mewajibkan magang di sektor swasta melainkan fokus pada pengalaman kerja kedinasan.",
           "C": "Perkuliahan formal bukan ukuran tunggal melainkan hanya salah satu jalur pengembangan.",
-          "E": "Peran atasan justru makin vital sebagai mentor dan coach dalam porsi 20%."
+          "E": "Kurang tepat, pendampingan atau mentoring justru mengambil porsi 20 persen dalam model tersebut."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -2785,7 +2785,7 @@
         "B": "Secara terjadwal sebelum tahun pembelajaran berjalan",
         "C": "Sepanjang tahun berjalan tanpa jadwal tertulis",
         "D": "Setiap lima tahun sekali bersamaan sensus pegawai",
-        "E": "Hanya apabila terdapat sisa anggaran belanja diklat"
+        "E": "Berdasarkan permohonan mandiri pegawai yang diajukan ke dinas"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
@@ -2795,7 +2795,7 @@
           "A": "Pelaksanaan mendadak responsif merupakan ciri dari AKP Insidental.",
           "C": "Pelaksanaan sepanjang tahun berjalan merupakan karakteristik AKP Insidental.",
           "D": "AKP dilaksanakan setiap tahun, bukan siklus lima tahunan sensus.",
-          "E": "Perencanaan diklat mendahului alokasi anggaran, bukan sekadar memanfaatkan sisa dana."
+          "E": "Kurang tepat, AKP Reguler merupakan inisiatif terencana instansi sebelum tahun anggaran berjalan, bukan pengajuan perorangan ad-hoc."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }

@@ -145,7 +145,7 @@
         "A": "Otomatis disamakan menjadi 55 tahun untuk seluruh rumpun jabatan",
         "B": "Wajib mengikuti keputusan menteri keuangan selaku bendahara negara",
         "C": "Mengikuti kesepakatan informal antar-pejabat fungsional di satker",
-        "D": "Dapat ditentukan secara sepihak oleh pimpinan kantor perwakilan",
+        "D": "Ditetapkan berdasarkan kebijakan penugasan perwakilan luar negeri",
         "E": "Berlaku sesuai batas usia pensiun yang ditetapkan undang-undang terkait"
       },
       "kunci_jawaban": "E",
@@ -156,7 +156,7 @@
           "A": "Merupakan penyeragaman keliru yang menabrak ketentuan undang-undang profesi.",
           "B": "Merupakan menteri sektoral fiskal yang tidak menetapkan BUP profesi lain.",
           "C": "Merupakan musyawarah tanpa dasar legalitas yang batal demi hukum.",
-          "D": "Merupakan keputusan sepihak lokal yang melanggar hierarki perundang-undangan."
+          "D": "Penugasan perwakilan luar negeri diatur melalui regulasi penempatan instansi dan bukan keputusan sepihak."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -446,7 +446,7 @@
         "A": "Objektif, terencana, terbuka, tepat waktu, dan akuntabel",
         "B": "Tertutup, fleksibel, tergesa-gesa, dan berbasis kekeluargaan",
         "C": "Spontan, informal, rahasia pimpinan, dan tanpa tolak ukur",
-        "D": "Birokratis, kaku, memprioritaskan senioritas umur tertinggi",
+        "D": "Konvensional, hierarkis, mengutamakan senioritas masa dinas kerja",
         "E": "Kompromistis, politis, mengakomodasi titipan pihak eksternal"
       },
       "kunci_jawaban": "A",
@@ -456,7 +456,7 @@
         "bedah_pengecoh": {
           "B": "Merupakan pola suksesi patrimonial yang merusak transparansi meritokrasi.",
           "C": "Merupakan metode acak nir-rencana yang menimbulkan krisis kepemimpinan.",
-          "D": "Merupakan pola birokrasi lama yang mengutamakan senioritas di atas kompetensi.",
+          "D": "Sistem konvensional berbasis senioritas murni bertentangan dengan prinsip meritokrasi manajemen talenta.",
           "E": "Merupakan intervensi politik yang dilarang dalam pembinaan pegawai Kemenkeu."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
@@ -657,7 +657,7 @@
         "B": "Seluruh kursi tenaga honorer kebersihan kantor kementerian",
         "C": "Posisi di luar negeri tanpa batas waktu masa penugasan",
         "D": "Posisi setingkat lebih tinggi atau posisi lain yang strategis",
-        "E": "Hanya posisi pimpinan pada kantor cabang pembantu daerah"
+        "E": "Posisi pimpinan satuan kerja penunjang administratif daerah"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
@@ -667,7 +667,7 @@
           "A": "Merupakan penurunan jabatan akibat sanksi disiplin dan bukan sasaran suksesi.",
           "B": "Merupakan tenaga penunjang umum non-ASN yang tidak masuk skema talent.",
           "C": "Merupakan penempatan luar negeri permanen yang melanggar siklus rotasi.",
-          "E": "Merupakan pembatasan unit lokal yang mengabaikan kebutuhan unit eselon satu."
+          "E": "Pola mutasi mencakup seluruh unit organisasi eselon dan bukan terbatas pada satuan penunjang."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -1048,21 +1048,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Ruang lingkup Jabatan Karier dalam pola mutasi di lingkungan Kementerian Keuangan mencakup...",
       "pilihan": {
-        "A": "Hanya jabatan menteri dan wakil menteri keuangan selaku pembina",
+        "A": "Seluruh jabatan pimpinan tinggi madya dan staf khusus kementerian",
         "B": "Tenaga staf khusus menteri dan penasihat ahli fraksi parlemen",
         "C": "Jabatan struktural eselon II, III, IV, V, dan jabatan fungsional",
         "D": "Seluruh pegawai kontrak pihak ketiga penyedia jasa keamanan",
-        "E": "Hanya pegawai yang berkedudukan di kantor sekretariat jenderal"
+        "E": "Pegawai yang memiliki rekam jejak kepemimpinan pada unit eselon satu"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
         "konsep_materi": "**Jabatan karier adalah jabatan struktural eselon II, eselon III, eselon IV, eselon V, dan jabatan fungsional** yang ada di lingkungan Kementerian Keuangan.",
         "alasan_kunci": "Opsi C merupakan definisi yuridis cakupan jabatan karier aparatur sipil negara di Kemenkeu. Jabatan karier membedakan pegawai berstatus ASN tetap yang meniti tangga struktural dan fungsional dari jabatan politis kementerian. Aturan menetapkan ruang lingkupnya adalah eselon II sampai V dan fungsional. Dengan demikian, opsi C adalah pilihan yang tepat.",
         "bedah_pengecoh": {
-          "A": "Merupakan jabatan politis pejabat negara dan bukan jabatan karier ASN.",
+          "A": "Pembina kepegawaian adalah Menteri Keuangan itu sendiri, bukan seluruh pejabat eselon satu.",
           "B": "Merupakan tenaga penasihat non-karier yang masa tugasnya mengikuti menteri.",
           "D": "Merupakan pekerja alih daya swasta di luar formasi aparatur sipil negara.",
-          "E": "Merupakan pembatasan unit kerja yang mengabaikan ribuan pegawai vertikal."
+          "E": "Rencana suksesi mencakup seluruh kelompok talenta aparatur yang memenuhi syarat kualifikasi."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -1078,7 +1078,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Berdasarkan modul kepegawaian Kemenkeu, definisi dari Pola Mutasi adalah...",
       "pilihan": {
-        "A": "Tindakan pemindahan pegawai secara sepihak untuk memberikan efek jera",
+        "A": "Penyesuaian formasi penugasan berkala demi pemerataan beban kerja",
         "B": "Mekanisme perpindahan tugas atas dasar permohonan sukarela tanpa syarat",
         "C": "Proses seleksi penerimaan calon pegawai negeri sipil formasi umum",
         "D": "Sistem pemindahan PNS dalam jabatan karier secara terencana dan berdasar syarat",
@@ -1089,7 +1089,7 @@
         "konsep_materi": "**Pola mutasi adalah sistem pemindahan PNS dalam jabatan karier yang dilakukan secara terencana dengan memperhatikan persyaratan sesuai peraturan perundang-undangan dan kebutuhan organisasi**.",
         "alasan_kunci": "Opsi D merupakan kaidah pemindahan terstruktur yang menghindarkan mutasi dari sifat mendadak, diskriminatif, atau tanpa dasar kompetensi. Pola mutasi mempertimbangkan kebutuhan unit, syarat jabatan, dan pengembangan wawasan pegawai. Aturan mendefinisikan pola mutasi sebagai sistem pemindahan terencana berdasar syarat dan kebutuhan. Oleh karena itu, opsi D adalah jawaban yang benar.",
         "bedah_pengecoh": {
-          "A": "Merupakan hukuman disiplin pemindahan dan bukan konsep pola mutasi karier.",
+          "A": "Pemerataan beban kerja merupakan dinamika mutasi reguler dan bukan tujuan evaluasi kinerja talenta.",
           "B": "Merupakan permohonan pribadi yang tidak otomatis dapat dipenuhi organisasi.",
           "C": "Merupakan tahapan pengadaan baru dan bukan pemindahan pegawai karier.",
           "E": "Merupakan jenis kenaikan pangkat pilihan dan bukan sistem rotasi jabatan."
@@ -1322,7 +1322,7 @@
         "B": "Permanen seumur hidup tanpa evaluasi kinerja tahunan",
         "C": "Paling lama 3 tahun dan dapat diperpanjang setiap 2 tahun",
         "D": "Paling lama lima tahun tanpa opsi penarikan ke kementerian",
-        "E": "Dibatasi hanya enam bulan masa uji coba penugasan kerja"
+        "E": "Ditetapkan selama enam bulan masa orientasi tugas jabatan"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
@@ -1332,7 +1332,7 @@
           "A": "Merupakan pembatasan kaku yang merugikan keberlanjutan program unit non-eselon.",
           "B": "Merupakan status permanen yang menghilangkan status pembinaan Kemenkeu.",
           "D": "Merupakan durasi lima tahun tanpa opsi yang tidak sesuai formula 3+2 tahun.",
-          "E": "Merupakan masa uji coba jangka pendek yang tidak mencerminkan penugasan non-eselon."
+          "E": "Masa penugasan pejabat pimpinan tinggi berlaku hingga 5 tahun dan dapat diperpanjang berdasar kinerja."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -1409,7 +1409,7 @@
       "pertanyaan": "Biro SDM Kemenkeu menjadwalkan gelombang mutasi pegawai luar daerah pada bulan Juni-Juli dan Desember. Pertimbangan humanis yang mendasarinya adalah...",
       "pilihan": {
         "A": "Menyesuaikan dengan masa pergantian tahun ajaran sekolah anak",
-        "B": "Menghindari cuaca musim hujan di wilayah kepulauan terpencil",
+        "B": "Pertimbangan jarak tempuh geografis antar-satuan kerja wilayah",
         "C": "Menghabiskan alokasi anggaran tiket pesawat sebelum audit BPK",
         "D": "Menunggu selesainya perayaan pesta rakyat di ibu kota provinsi",
         "E": "Memberikan kesempatan pegawai berlibur panjang bersama keluarga"
@@ -1419,7 +1419,7 @@
         "konsep_materi": "Mutasi Kemenkeu mempertimbangkan aspek kesejahteraan keluarga yaitu **masa pergantian tahun ajaran/periode pendidikan per semester bagi keluarga inti dari PNS Kemenkeu**.",
         "alasan_kunci": "Opsi A merupakan kebijakan pro-keluarga (*family-friendly policy*) dalam manajemen ASN Kemenkeu. Penyelenggaraan mutasi diselaraskan dengan kalender kenaikan kelas dan kelulusan anak agar proses perpindahan sekolah tidak terganggu di tengah semester. Regulasi menegaskan pertimbangan pergantian tahun ajaran pendidikan keluarga. Oleh karena itu, opsi A adalah pilihan yang tepat.",
         "bedah_pengecoh": {
-          "B": "Merupakan faktor cuaca alamiah yang tidak menjadi butir resmi pertimbangan KMK.",
+          "B": "Faktor geografis diperhitungkan dalam analisis kebutuhan namun bukan penghambat rotasi berkala.",
           "C": "Merupakan motif serapan anggaran yang keliru dalam perencanaan SDM.",
           "D": "Merupakan agenda pesta kultural yang tidak berkaitan dengan regulasi dinas.",
           "E": "Merupakan liburan pribadi yang tidak menjadi landasan penetapan mutasi."
@@ -1438,7 +1438,7 @@
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Dua orang PNS Kemenkeu yang berstatus suami-istri mengajukan penempatan di wilayah kota yang sama. Dasar pertimbangan sah dalam KMK 7/2023 adalah...",
       "pilihan": {
-        "A": "Kewajiban seluruh pegawai menolak penugasan luar pulau Jawa",
+        "A": "Hak memilih lokasi penempatan dinas berdasar preferensi keluarga",
         "B": "Pasangan suami/istri yang bekerja di Kemenkeu dan aspek kemanusiaan",
         "C": "Hak istimewa pasangan pegawai untuk tidak perlu masuk kantor",
         "D": "Pemberian fasilitas rumah tinggal ganda di dua kementerian",
@@ -1449,7 +1449,7 @@
         "konsep_materi": "Mutasi Kemenkeu mempertimbangkan **pasangan suami/istri yang bekerja di lingkungan Kementerian Keuangan dan di luar Kementerian Keuangan dan/atau aspek kemanusiaan**.",
         "alasan_kunci": "Opsi B merupakan bentuk perhatian organisasi terhadap keutuhan rumah tangga aparatur sipil. Sedapat mungkin kementerian menempatkan pasangan suami-istri pada satu zona geografis kerja atau mendekatkan mereka guna menjaga motivasi dan kesehatan mental pegawai. Aturan menetapkan pertimbangan pasangan suami/istri dan kemanusiaan. Dengan demikian, opsi B adalah jawaban yang benar.",
         "bedah_pengecoh": {
-          "A": "Merupakan pembangkangan penugasan yang melanggar ikrar penempatan NKRI.",
+          "A": "ASN terikat kewajiban bersedia ditempatkan di seluruh wilayah NKRI tanpa hak memilih sepihak.",
           "C": "Merupakan pelanggaran jam kerja kedinasan yang tidak dibenarkan hukum.",
           "D": "Merupakan fasilitas ganda ilegal yang memboroskan keuangan negara.",
           "E": "Merupakan manipulasi tunjangan yang melanggar regulasi penggajian."
@@ -1502,7 +1502,7 @@
         "B": "Pegawai yang memiliki hubungan bisnis komersial dengan rekanan",
         "C": "Aparatur yang pernah dijatuhi hukuman disiplin pemotongan tunjangan",
         "D": "Lulusan pascasarjana luar negeri dan pegawai yang berprestasi unggul",
-        "E": "Pegawai yang menolak menandatangani pakta integritas netralitas"
+        "E": "Pegawai yang memilih untuk tidak mengikuti uji pemetaan kompetensi"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
@@ -1512,7 +1512,7 @@
           "A": "Merupakan ketidakaktifan pengembangan diri yang menghambat penugasan strategis.",
           "B": "Merupakan benturan kepentingan terlarang yang ditindak sanksi kepatuhan.",
           "C": "Merupakan catatan disiplin buruk yang menghambat promosi dan penugasan utama.",
-          "E": "Merupakan penolakan komitmen etik yang mengarah pada pemberhentian dinas."
+          "E": "Seluruh pegawai pada talent pool wajib mengikuti asesmen kompetensi yang diselenggarakan instansi."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -1793,8 +1793,8 @@
       "nomor": 60,
       "halaman_sumber": 37,
       "kata_kunci_modul": [
-        "semi horizontal",
-        "unit non Eselon"
+        "Semi horizontal, yaitu perpindahan dari dan ke Jabatan lain, yang",
+        "ke posisi Jabatan pada Unit non Eselon yang"
       ],
       "topik_materi": "Mutasi Antar-Unit Non-Eselon Setingkat",
       "level_kognitif": "C2 - Pemahaman",
@@ -2284,7 +2284,7 @@
         "B": "Spontan, spekulatif, dan fleksibel tanpa aturan",
         "C": "Objektif, terencana, dan akuntabel sesuai Sistem Merit",
         "D": "Patrimonial, politis, dan berbasis kekerabatan daerah",
-        "E": "Birokratis, kaku, dan mengabaikan kinerja pegawai"
+        "E": "Hierarkis, administratif, dan mengutamakan urutan kepangkatan"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
@@ -2294,7 +2294,7 @@
           "A": "Merupakan pengelolaan subjektif tertutup yang merusak integritas birokrasi.",
           "B": "Merupakan pengelolaan nir-rencana yang menimbulkan ketidakpastian karier.",
           "D": "Merupakan praktik nepotisme patrimonial terlarang dalam tata kelola modern.",
-          "E": "Merupakan birokrasi kaku yang mengabaikan penilaian kontribusi kinerja."
+          "E": "Pendekatan kepangkatan administratif murni tidak mencerminkan sistem merit manajemen talenta modern."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -2519,7 +2519,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Salah satu dari enam tujuan perumusan Manajemen Karier di Kementerian Keuangan bagi kenyamanan aparatur adalah...",
       "pilihan": {
-        "A": "Menghapus kewajiban pengisian sasaran kinerja pegawai tahunan",
+        "A": "Pemberian dispensasi pemenuhan target kinerja pada triwulan akhir",
         "B": "Memberikan hak pensiun otomatis bagi pegawai di bawah usia 30 tahun",
         "C": "Memberikan izin penolakan penugasan dinas di wilayah kepulauan",
         "D": "Memberikan hak bagi staf untuk menentukan sendiri nominal gaji",
@@ -2530,7 +2530,7 @@
         "konsep_materi": "Tujuan manajemen karier butir b adalah **memberikan kejelasan dan kepastian karier bagi Pegawai Negeri Sipil** di lingkungan Kementerian Keuangan.",
         "alasan_kunci": "Opsi E merupakan pemenuhan hak transparansi pola jenjang karier aparatur sipil. Dengan adanya standar kompetensi, peta suksesi, dan pola karier yang jelas, setiap pegawai mengetahui secara pasti prasyarat apa yang harus dipenuhi untuk mencapai level jabatan tertentu. Regulasi menegaskan tujuannya memberikan kejelasan dan kepastian karier. Oleh karena itu, opsi E adalah pilihan yang benar.",
         "bedah_pengecoh": {
-          "A": "Merupakan pengabaian penilaian kinerja yang merusak asas meritokrasi.",
+          "A": "Evaluasi kinerja pegawai berjalan berkesinambungan tanpa pemberian dispensasi target.",
           "B": "Merupakan pemensiunan usia muda yang melanggar ketentuan hukum pensiun.",
           "C": "Merupakan penolakan tugas yang melanggar ikrar penempatan NKRI.",
           "D": "Merupakan penentuan gaji sepihak yang melanggar sistem remunerasi negara."
@@ -2580,7 +2580,7 @@
       "pertanyaan": "Tujuan butir f dari penyelenggaraan Manajemen Karier di Kementerian Keuangan diarahkan untuk...",
       "pilihan": {
         "A": "Menyerahkan seluruh wewenang promosi kepada pihak ketiga swasta",
-        "B": "Menutup akses informasi formasi jabatan dari pantauan para pegawai",
+        "B": "Membatasi pengumuman lowongan formasi pada tingkat pejabat struktural",
         "C": "Menjadikan masa kerja tertua sebagai satu-satunya syarat mutasi",
         "D": "Meningkatkan objektivitas dan transparansi perencanaan karier PNS",
         "E": "Mewajibkan pegawai melapor seluruh kegiatan pergaulan pribadi"
@@ -2591,7 +2591,7 @@
         "alasan_kunci": "Opsi D merupakan komitmen peniadaan ruang gelap dalam penentuan mutasi dan promosi jabatan. Perencanaan karier yang transparan memastikan pegawai mengetahui profil kompetensinya dan jalur suksesi yang dapat ditempuh secara adil. Regulasi menegaskan tujuannya meningkatkan objektivitas dan transparansi. Oleh karena itu, opsi D adalah jawaban yang benar.",
         "bedah_pengecoh": {
           "A": "Merupakan penyerahan kewenangan publik yang melanggar kedaulatan negara.",
-          "B": "Merupakan ketertutupan birokrasi yang merusak kepercayaan pegawai.",
+          "B": "Transparansi formasi talenta dibuka bagi seluruh pegawai yang memenuhi kriteria kompetensi.",
           "C": "Merupakan pola patrimonial usang yang bertentangan dengan sistem merit.",
           "E": "Merupakan intervensi privasi yang melanggar hak asasi perorangan pegawai."
         },
@@ -2703,7 +2703,7 @@
         "B": "Profesionalitas dan integritas Pegawai Negeri Sipil",
         "C": "Ketergantungan operasional kantor pada tenaga konsultan swasta",
         "D": "Frekuensi unjuk rasa menuntut kenaikan uang makan kedinasan",
-        "E": "Kemampuan pegawai dalam menghindari sistem presensi elektronik"
+        "E": "Kemampuan teknis aparatur dalam mengoperasikan sistem presensi"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
@@ -2713,7 +2713,7 @@
           "A": "Merupakan pelanggaran berat netralitas yang diancam hukuman disiplin berat.",
           "C": "Merupakan pelemahan kapasitas aparatur internal kementerian negara.",
           "D": "Merupakan tindakan anarkis yang dilarang bagi korps pegawai negeri sipil.",
-          "E": "Merupakan kecurangan presensi yang melanggar kode etik kedisiplinan dinas."
+          "E": "Keahlian teknis presensi merupakan keterampilan dasar operasional dan bukan dimensi kinerja utama."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -2793,7 +2793,7 @@
         "B": "Diberhentikan permanen dari korps pegawai negeri sipil kementerian",
         "C": "Wajib mengajukan surat pensiun dini sukarela kepada menteri keuangan",
         "D": "Diberhentikan dari jabatan Kemenkeu dan diangkat di instansi penugasan",
-        "E": "Hanya diizinkan bertugas sebagai staf honorer lepas tanpa surat keputusan"
+        "E": "Ditempatkan sebagai tenaga pembantu administratif masa percobaan"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
@@ -2803,7 +2803,7 @@
           "A": "Merupakan rangkap jabatan dan penggajian ganda yang melanggar hukum keuangan.",
           "B": "Merupakan pemutusan status PNS sewenang-wenang yang melanggar hak pegawai.",
           "C": "Merupakan pemensiunan dini yang bertentangan dengan hak penugasan dinas.",
-          "E": "Merupakan penurunan status ilegal menjadi tenaga honorer lepas."
+          "E": "ASN yang selesai tugas belajar berhak kembali ke jenjang jabatan definitif sesuai formasi yang tersedia."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -2883,7 +2883,7 @@
       "pilihan": {
         "A": "Pegawai non-eselon dilarang selamanya memperoleh promosi jabatan",
         "B": "Seluruh hak karier kepegawaian dinonaktifkan secara permanen",
-        "C": "Hanya boleh menduduki jabatan staf pelaksana tingkat pertama",
+        "C": "Diprioritaskan menduduki jabatan fungsional pelaksana teknis",
         "D": "Wajib mengundurkan diri dari status PNS sebelum menerima promosi",
         "E": "Mutasi dan promosi tetap berlaku bagi PNS pada Unit Non-Eselon"
       },
@@ -2894,7 +2894,7 @@
         "bedah_pengecoh": {
           "A": "Merupakan diskriminasi pembinaan yang merugikan pegawai di unit non-eselon.",
           "B": "Merupakan penonaktifan hak sewenang-wenang yang melanggar hukum kepegawaian.",
-          "C": "Merupakan pembatasan fiktif yang tidak berdasar pada regulasi manajemen karier.",
+          "C": "Peluang karier terbuka bagi seluruh rumpun jabatan manajerial maupun fungsional berbasis talenta.",
           "D": "Merupakan kewajiban mundur keliru yang mengabaikan status penugasan resmi."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"

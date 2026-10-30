@@ -4,11 +4,11 @@
   "rentang_halaman": "Halaman 16 s/d Halaman 25",
   "jumlah_soal": 100,
   "distribusi_kunci": {
-    "B": 20,
-    "E": 20,
     "A": 20,
+    "B": 20,
     "C": 20,
-    "D": 20
+    "D": 20,
+    "E": 20
   },
   "daftar_soal": [
     {
@@ -45,7 +45,7 @@
       "nomor": 2,
       "halaman_sumber": 16,
       "kata_kunci_modul": [
-        "Sedangkan nilai rohani tidak dapat diukur",
+        "Sedangkan nilai rohani",
         "budi nurani manusia"
       ],
       "topik_materi": "Tolok Ukur Pengujian Nilai Rohani",
@@ -75,7 +75,7 @@
       "nomor": 3,
       "halaman_sumber": 16,
       "kata_kunci_modul": [
-        "menggunakan hati nurani dengan dibantu indera",
+        "menggunakan hati nurani dengan dibantu",
         "akal, perasaan, kehendak"
       ],
       "topik_materi": "Alat Bantu Penilaian Kerohanian Manusia",
@@ -210,7 +210,7 @@
       },
       "kunci_jawaban": "A",
       "pembahasan": {
-        "konsep_materi": "Berdasarkan uraian materi, **nilai berperan sebagai dasar pedoman yang menentukan kehidupan setiap manusia**.",
+        "konsep_materi": "Secara fundamental, **nilai berperan sebagai dasar pedoman yang menentukan kehidupan setiap manusia**.",
         "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Nilai memberikan arah orientasi hidup, kompas moralitas, dan standar kelayakan bagi masyarakat. Tanpa adanya tata nilai, kehidupan manusia akan kehilangan pedoman dasar dalam membedakan hal yang luhur dan yang tercela.",
         "bedah_pengecoh": {
           "B": "Nilai organisasi tidak menghambat mobilitas penugasan dinas.",
@@ -226,7 +226,7 @@
       "halaman_sumber": 16,
       "kata_kunci_modul": [
         "Dalam pidato tanggal 31 Mei 1945",
-        "Soepomo mengemukakan gagasan tentang cita negara integralistik"
+        "Soepomo"
       ],
       "topik_materi": "Pencetus Gagasan Cita Negara Integralistik",
       "level_kognitif": "C2 - Pemahaman",
@@ -255,7 +255,7 @@
       "nomor": 9,
       "halaman_sumber": 16,
       "kata_kunci_modul": [
-        "dasar sistem suatu pemerintahan tergantung pada cita negaranya",
+        "dasar sistem suatu pemerintahan tergantung pada cita",
         "pada staatsidee"
       ],
       "topik_materi": "Fondasi Sistem Pemerintahan Menurut Soepomo",
@@ -285,7 +285,7 @@
       "nomor": 10,
       "halaman_sumber": 16,
       "kata_kunci_modul": [
-        "pada pemahaman tentang negara yang hendak digunakan",
+        "pada pemahaman tentang negara",
         "membangun negara Indonesia"
       ],
       "topik_materi": "Tujuan Pemahaman Staatsidee Indonesia Merdeka",
@@ -345,7 +345,7 @@
       "nomor": 12,
       "halaman_sumber": 17,
       "kata_kunci_modul": [
-        "negara tidak untuk menjamin kepentingan seseorang atau golongan",
+        "negara tidak untuk menjamin kepentingan",
         "menjamin kepentingan masyarakat seluruhnya"
       ],
       "topik_materi": "Tujuan Negara Menurut Aliran Integralistik",
@@ -465,7 +465,7 @@
       "nomor": 16,
       "halaman_sumber": 17,
       "kata_kunci_modul": [
-        "kepala negara dan lain-lain badan pemerintah",
+        "kepala negara dan lain-lain",
         "harus bersifat pemimpin yang sejati"
       ],
       "topik_materi": "Karakter Pemimpin dalam Aliran Integralistik",
@@ -495,7 +495,7 @@
       "nomor": 17,
       "halaman_sumber": 17,
       "kata_kunci_modul": [
-        "Negara tidak bertindak sebagai seseorang yang maha kuasa",
+        "sebagai seseorang yang maha kuasa",
         "mempunyai kepentingan sendiri"
       ],
       "topik_materi": "Kedudukan Kekuasaan Negara Integralistik",
@@ -525,7 +525,7 @@
       "nomor": 18,
       "halaman_sumber": 17,
       "kata_kunci_modul": [
-        "tidak ada pertentangan antara staat dan individu",
+        "tidak ada pertentangan antara staat dan",
         "suatu bagian organik dari staat"
       ],
       "topik_materi": "Hubungan Negara dan Individu dalam Integralistik",
@@ -586,7 +586,7 @@
       "halaman_sumber": 17,
       "kata_kunci_modul": [
         "hukum negara akan memperhatikan",
-        "segala keistimewaan golongan yang bermacam-macam"
+        "keistimewaan golongan yang bermacam-macam"
       ],
       "topik_materi": "Perlindungan Hukum terhadap Keistimewaan Golongan",
       "level_kognitif": "C2 - Pemahaman",
@@ -645,7 +645,7 @@
       "nomor": 22,
       "halaman_sumber": 18,
       "kata_kunci_modul": [
-        "ideologi adalah ajaran atau ilmu",
+        "ideologi adalah ajaran",
         "tentang gagasan dan buah pikiran"
       ],
       "topik_materi": "Definisi Harfiah Ideologi",
@@ -675,8 +675,8 @@
       "nomor": 23,
       "halaman_sumber": 18,
       "kata_kunci_modul": [
-        "suatu konsensus mayoritas warga negara",
-        "tentang nilai-nilai dasar yang ingin diwujudkan"
+        "konsensus mayoritas warga negara",
+        "tentang nilai-nilai dasar yang"
       ],
       "topik_materi": "Makna Ideologi dalam Kehidupan Kenegaraan",
       "level_kognitif": "C2 - Pemahaman",
@@ -706,7 +706,7 @@
       "halaman_sumber": 18,
       "kata_kunci_modul": [
         "pikiran-pikiran terdalam, hasrat terdalam",
-        "di atasnya didirikan suatu negara"
+        "atasnya didirikan suatu negara"
       ],
       "topik_materi": "Hakikat Ideologi sebagai Hasrat Terdalam Bangsa",
       "level_kognitif": "C2 - Pemahaman",
@@ -736,7 +736,7 @@
       "halaman_sumber": 18,
       "kata_kunci_modul": [
         "Mubyarto mengartikan bahwa ideologi adalah",
-        "sejumlah doktrin, kepercayaan, dan simbol-simbol"
+        "kepercayaan, dan simbol-simbol"
       ],
       "topik_materi": "Definisi Ideologi Menurut Mubyarto",
       "level_kognitif": "C2 - Pemahaman",
@@ -766,7 +766,7 @@
       "halaman_sumber": 18,
       "kata_kunci_modul": [
         "Padmo Wahjono mengartikan ideologi sebagai",
-        "kesatuan yang bulat dan utuh dari ide-ide dasar"
+        "dan utuh dari ide-ide dasar"
       ],
       "topik_materi": "Definisi Ideologi Menurut Padmo Wahjono",
       "level_kognitif": "C2 - Pemahaman",
@@ -826,7 +826,7 @@
       "halaman_sumber": 18,
       "kata_kunci_modul": [
         "Pancasila sebagai ideologi mencerminkan",
-        "seperangkat nilai terpadu dalam kehidupan politik"
+        "seperangkat nilai terpadu"
       ],
       "topik_materi": "Kedudukan Pancasila dalam Kehidupan Politik",
       "level_kognitif": "C2 - Pemahaman",
@@ -855,8 +855,8 @@
       "nomor": 29,
       "halaman_sumber": 18,
       "kata_kunci_modul": [
-        "Semua gagasan-gagasan yang timbul",
-        "ditata secara sistematis menjadi satu kesatuan yang utuh"
+        "Semua gagasan-gagasan",
+        "sistematis menjadi satu kesatuan yang utuh"
       ],
       "topik_materi": "Penataan Gagasan Sistematis dalam Pancasila",
       "level_kognitif": "C2 - Pemahaman",
@@ -916,7 +916,7 @@
       "halaman_sumber": 19,
       "kata_kunci_modul": [
         "Pengembangan atas nilai-nilai dasar Pancasila",
-        "dilaksanakan secara kreatif dan dinamis"
+        "dilaksanakan secara kreatif dan"
       ],
       "topik_materi": "Metode Pengembangan Nilai Dasar Pancasila",
       "level_kognitif": "C2 - Pemahaman",
@@ -946,7 +946,7 @@
       "halaman_sumber": 19,
       "kata_kunci_modul": [
         "membuka ruang membentuk kesepakatan masyarakat",
-        "bagaimana mencapai cita-cita"
+        "bagaimana mencapai"
       ],
       "topik_materi": "Konsekuensi Keterbukaan Ideologi Pancasila",
       "level_kognitif": "C2 - Pemahaman",
@@ -1006,7 +1006,7 @@
       "halaman_sumber": 19,
       "kata_kunci_modul": [
         "hanya mungkin dicapai jika sistem yang dikembangkan",
-        "adalah sistem demokrasi"
+        "adalah sistem"
       ],
       "topik_materi": "Sistem Politik Prasyarat Konstitusionalisme",
       "level_kognitif": "C2 - Pemahaman",
@@ -1065,7 +1065,7 @@
       "nomor": 36,
       "halaman_sumber": 19,
       "kata_kunci_modul": [
-        "Dengan tidak diubahnya Pembukaan UUD 1945",
+        "diubahnya Pembukaan UUD 1945",
         "tidak berubah pula kedudukan Pancasila"
       ],
       "topik_materi": "Dampak Yuridis Tidak Diubahnya Pembukaan UUD 1945",
@@ -1095,8 +1095,8 @@
       "nomor": 37,
       "halaman_sumber": 19,
       "kata_kunci_modul": [
-        "Yang berubah adalah sistem dan institusi",
-        "mewujudkan cita-cita berdasarkan nilai-nilai Pancasila"
+        "adalah sistem dan institusi",
+        "mewujudkan cita-cita berdasarkan nilai-nilai"
       ],
       "topik_materi": "Dimensi Perubahan dalam Ideologi Terbuka",
       "level_kognitif": "C2 - Pemahaman",
@@ -1155,7 +1155,7 @@
       "nomor": 39,
       "halaman_sumber": 19,
       "kata_kunci_modul": [
-        "Demokrasi yang dikembangkan bukan demokrasi politik semata",
+        "Demokrasi yang dikembangkan bukan demokrasi politik",
         "tetapi juga demokrasi ekonomi"
       ],
       "topik_materi": "Konsep Demokrasi Ekonomi Pancasila",
@@ -1185,7 +1185,7 @@
       "nomor": 40,
       "halaman_sumber": 19,
       "kata_kunci_modul": [
-        "bukan usaha bersama dan kekeluargaan",
+        "bukan usaha bersama dan",
         "kebebasan individual untuk berusaha"
       ],
       "topik_materi": "Perbedaan Sistem Perekonomian Menurut Jimly Asshiddiqie",
@@ -1246,7 +1246,7 @@
       "halaman_sumber": 20,
       "kata_kunci_modul": [
         "kedua kerajaan Sriwijaya dan Majapahit",
-        "meliputi seluruh nusantara"
+        "meliputi seluruh"
       ],
       "topik_materi": "Dua Kerajaan Kedaulatan Nusantara",
       "level_kognitif": "C2 - Pemahaman",
@@ -1276,7 +1276,7 @@
       "halaman_sumber": 20,
       "kata_kunci_modul": [
         "unsur-unsur atau sila-sila dari Pancasila",
-        "telah dihayati dan dijadikan asas"
+        "telah dihayati dan"
       ],
       "topik_materi": "Penghayatan Nilai Pancasila Zaman Kerajaan Nusantara",
       "level_kognitif": "C2 - Pemahaman",
@@ -1306,7 +1306,7 @@
       "halaman_sumber": 20,
       "kata_kunci_modul": [
         "dokumen-dokumen tertulis yang ada seperti",
-        "Telaga Batu, Kedukan Bukit, Karang Brahi"
+        "Telaga Batu, Kedukan Bukit,"
       ],
       "topik_materi": "Prasasti Sejarah Pembukti Nilai Sriwijaya",
       "level_kognitif": "C2 - Pemahaman",
@@ -1365,7 +1365,7 @@
       "nomor": 46,
       "halaman_sumber": 20,
       "kata_kunci_modul": [
-        "dalam buku Sutasoma karangan Mpu Tantular",
+        "dalam buku Sutasoma",
         "toleransi kehidupan beragama"
       ],
       "topik_materi": "Toleransi Kehidupan Beragama dalam Kitab Sutasoma",
@@ -1395,8 +1395,8 @@
       "nomor": 47,
       "halaman_sumber": 20,
       "kata_kunci_modul": [
-        "bangsa Indonesia telah mengalami kejayaan",
-        "nilai-nilai yang terkandung dalam Pancasila sudah diterapkan"
+        "bangsa Indonesia telah mengalami",
+        "nilai-nilai yang terkandung dalam Pancasila"
       ],
       "topik_materi": "Penerapan Nilai Pancasila Zaman Kejayaan",
       "level_kognitif": "C2 - Pemahaman",
@@ -1426,7 +1426,7 @@
       "halaman_sumber": 20,
       "kata_kunci_modul": [
         "dengan datangnya penjajahan Barat",
-        "kehidupan bangsa Indonesia berubah menjadi penderitaan"
+        "Indonesia berubah menjadi penderitaan"
       ],
       "topik_materi": "Dampak Kolonialisme terhadap Kehidupan Bangsa",
       "level_kognitif": "C2 - Pemahaman",
@@ -1486,7 +1486,7 @@
       "halaman_sumber": 20,
       "kata_kunci_modul": [
         "diilhami oleh gagasan-gagasan besar dunia",
-        "berakar pada kepribadian dan gagasan besar bangsa"
+        "dan gagasan besar bangsa"
       ],
       "topik_materi": "Sintesis Gagasan Dunia dan Kepribadian Lokal",
       "level_kognitif": "C2 - Pemahaman",
@@ -1545,7 +1545,7 @@
       "nomor": 52,
       "halaman_sumber": 21,
       "kata_kunci_modul": [
-        "kemunculan berbagai organisasi pergerakan",
+        "berbagai organisasi pergerakan",
         "Boedi Oetomo, SDI, SI, Muhammadiyah"
       ],
       "topik_materi": "Kemunculan Organisasi Pergerakan Nasional",
@@ -1576,7 +1576,7 @@
       "halaman_sumber": 21,
       "kata_kunci_modul": [
         "tanggal 7 September 1944 Jepang",
-        "menjanjikan kemerdekaan Indonesia di kemudian hari"
+        "kemerdekaan Indonesia di kemudian hari"
       ],
       "topik_materi": "Janji Kemerdekaan Perdana Jepang (Koiso)",
       "level_kognitif": "C2 - Pemahaman",
@@ -1636,7 +1636,7 @@
       "halaman_sumber": 21,
       "kata_kunci_modul": [
         "Pada tanggal 29 April 1945",
-        "Jepang membentuk BPUPKI yang diketuai Dr.K.R.T. Radjiman Wediodiningrat"
+        "Jepang membentuk BPUPKI yang diketuai Dr.K.R.T."
       ],
       "topik_materi": "Peresmian Pembentukan dan Ketua BPUPKI",
       "level_kognitif": "C2 - Pemahaman",
@@ -1666,7 +1666,7 @@
       "halaman_sumber": 21,
       "kata_kunci_modul": [
         "dua orang Ketua Muda (Fuku Kaityo)",
-        "Ketua Muda I Itibangase, dan Ketua Muda II, Raden Pandji Soeroso"
+        "Itibangase, dan Ketua Muda II, Raden Pandji Soeroso"
       ],
       "topik_materi": "Pimpinan Ketua Muda BPUPKI",
       "level_kognitif": "C2 - Pemahaman",
@@ -1725,7 +1725,7 @@
       "nomor": 58,
       "halaman_sumber": 21,
       "kata_kunci_modul": [
-        "jumlah keseluruhan anggota BPUPKI",
+        "jumlah keseluruhan",
         "adalah 76 orang (termasuk Ketua dan Ketua Muda)"
       ],
       "topik_materi": "Jumlah Total Keanggotaan Akhir BPUPKI",
@@ -1744,7 +1744,7 @@
         "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Modul merinci perhitungan keanggotaan BPUPKI secara komprehensif. Penambahan 6 tokoh Indonesia di tengah perjalanan membuat total forum musyawarah berjumlah genap 76 orang pemikir bangsa.",
         "bedah_pengecoh": {
           "A": "60 orang adalah jumlah awal anggota biasa bangsa Indonesia.",
-          "B": "85 orang bukan angka resmi keanggotaan menurut dokumen modul.",
+          "B": "85 orang bukan angka resmi ketetapan keanggotaan badan penyelidik.",
           "D": "90 orang bukan komposisi keanggotaan badan penyelidik.",
           "E": "100 orang adalah representasi kabinet menteri seratus menteri."
         },
@@ -1785,7 +1785,7 @@
       "nomor": 60,
       "halaman_sumber": 21,
       "kata_kunci_modul": [
-        "sidang pertama dari tanggal 29 Mei 1945 hingga 1 Juni 1945",
+        "sidang pertama dari tanggal 29 Mei 1945 hingga 1 Juni",
         "dan sidang kedua dari tanggal 10 Juli 1945"
       ],
       "topik_materi": "Jadwal Resmi Masa Sidang I dan II BPUPKI",
@@ -1815,7 +1815,7 @@
       "nomor": 61,
       "halaman_sumber": 22,
       "kata_kunci_modul": [
-        "kegiatan perumusan Pancasila sebagai dasar negara",
+        "kegiatan perumusan Pancasila sebagai dasar",
         "diskusi dan perdebatan-perdebatan dalam sidang"
       ],
       "topik_materi": "Forum Perumusan Dasar Negara",
@@ -1875,7 +1875,7 @@
       "nomor": 63,
       "halaman_sumber": 22,
       "kata_kunci_modul": [
-        "Mr. Moh. Yamin, Prof. R. Soepomo, dan Ir. Soekarno",
+        "Yamin, Prof. R. Soepomo, dan Ir. Soekarno",
         "lima asas atau lima dasar negara"
       ],
       "topik_materi": "Tiga Tokoh Konseptor Dasar Negara",
@@ -1935,8 +1935,7 @@
       "nomor": 65,
       "halaman_sumber": 22,
       "kata_kunci_modul": [
-        "menyampaikan pula secara tertulis rancangan UUD",
-        "lima asas tersebut rumusannya berbeda"
+        "Lima asas tersebut rumusannya berbeda"
       ],
       "topik_materi": "Dualitas Rumusan Usulan Moh. Yamin",
       "level_kognitif": "C2 - Pemahaman",
@@ -2116,7 +2115,7 @@
       "halaman_sumber": 23,
       "kata_kunci_modul": [
         "Pada tanggal 1 Juni 1945, tibalah giliran Ir. Soekarno",
-        "mengusulkan pula lima asas"
+        "mengusulkan pula"
       ],
       "topik_materi": "Lima Asas Dasar Negara Pidato Ir. Soekarno",
       "level_kognitif": "C2 - Pemahaman",
@@ -2175,7 +2174,7 @@
       "nomor": 73,
       "halaman_sumber": 23,
       "kata_kunci_modul": [
-        "tahun 1947, pidato Ir. Soekarno tersebut dipublikasikan",
+        "tahun 1947, pidato Ir. Soekarno tersebut",
         "dalam bentuk sebuah buku yang berjudul Lahirnya Pancasila"
       ],
       "topik_materi": "Publikasi Buku Lahirnya Pancasila Tahun 1947",
@@ -2206,7 +2205,7 @@
       "halaman_sumber": 23,
       "kata_kunci_modul": [
         "tidak didasarkan kepada pola berfikir filosofis/ religius",
-        "pola berfikir dialektis atau historis materialisme"
+        "berfikir dialektis atau historis materialisme"
       ],
       "topik_materi": "Pola Berpikir Dialektis Perumusan Soekarno",
       "level_kognitif": "C2 - Pemahaman",
@@ -2235,7 +2234,7 @@
       "nomor": 75,
       "halaman_sumber": 23,
       "kata_kunci_modul": [
-        "sila kebangsaan disandingkan dengan Internasionalisme",
+        "disandingkan dengan",
         "menjadi “Sosio Nasionalisme”"
       ],
       "topik_materi": "Konsep Sosio Nasionalisme Bung Karno",
@@ -2266,7 +2265,7 @@
       "halaman_sumber": 23,
       "kata_kunci_modul": [
         "sila Mufakat/ Demokrasi disandingkan dengan",
-        "sila kesejahteraan Sosial, menjadi “Sosio Demokrasi”"
+        "sila kesejahteraan Sosial, menjadi"
       ],
       "topik_materi": "Konsep Sosio Demokrasi Bung Karno",
       "level_kognitif": "C2 - Pemahaman",
@@ -2355,7 +2354,7 @@
       "nomor": 79,
       "halaman_sumber": 23,
       "kata_kunci_modul": [
-        "dikenal sebagai Panitia Delapan yang diketuai Ir. Soekarno",
+        "sebagai Panitia Delapan yang diketuai Ir. Soekarno",
         "mengumpulkan dan menggolong-golongkan usul-usul"
       ],
       "topik_materi": "Pembentukan dan Tugas Pokok Panitia Delapan",
@@ -2385,7 +2384,7 @@
       "nomor": 80,
       "halaman_sumber": 23,
       "kata_kunci_modul": [
-        "Pada tanggal 22 Juni 1945",
+        "Pada tanggal 22 Juni",
         "ketua Panitia Delapan telah mengadakan pertemuan"
       ],
       "topik_materi": "Pertemuan Bersejarah 22 Juni 1945 di Jakarta",
@@ -2416,7 +2415,7 @@
       "halaman_sumber": 24,
       "kata_kunci_modul": [
         "Pertemuan tersebut merupakan pertemuan antara",
-        "golongan/ paham kebangsaan dan golongan/ paham agama"
+        "golongan/ paham kebangsaan dan"
       ],
       "topik_materi": "Dua Kekuatan Utama dalam Rapat 22 Juni 1945",
       "level_kognitif": "C2 - Pemahaman",
@@ -2446,7 +2445,7 @@
       "halaman_sumber": 24,
       "kata_kunci_modul": [
         "Dalam rapat tersebut dibentuk Panitia Sembilan",
-        "anggotanya terdiri dari Ir. Soekarno, Drs. Moh. Hatta"
+        "anggotanya terdiri dari Ir."
       ],
       "topik_materi": "Pembentukan Panitia Sembilan",
       "level_kognitif": "C2 - Pemahaman",
@@ -2475,7 +2474,7 @@
       "nomor": 83,
       "halaman_sumber": 24,
       "kata_kunci_modul": [
-        "menghasilkan persetujuan dari golongan/ paham agama",
+        "menghasilkan persetujuan dari",
         "dan golongan/ paham kebangsaan"
       ],
       "topik_materi": "Keberhasilan Konsensus Panitia Sembilan",
@@ -2505,7 +2504,7 @@
       "nomor": 84,
       "halaman_sumber": 24,
       "kata_kunci_modul": [
-        "ditetapkan sebagai Rancangan Preambule Hukum Dasar",
+        "Rancangan Preambule Hukum Dasar",
         "hasil Panitia Sembilan tersebut"
       ],
       "topik_materi": "Penetapan Rancangan Preambule Hukum Dasar",
@@ -2535,7 +2534,7 @@
       "nomor": 85,
       "halaman_sumber": 24,
       "kata_kunci_modul": [
-        "oleh Mr. Moh. Yamin disebut sebagai Jakarta Charter",
+        "oleh Mr. Moh. Yamin disebut",
         "atau Piagam Jakarta"
       ],
       "topik_materi": "Pemberian Nama Piagam Jakarta oleh Moh. Yamin",
@@ -2565,8 +2564,8 @@
       "nomor": 86,
       "halaman_sumber": 24,
       "kata_kunci_modul": [
-        "terdapat rancangan dasar negara Pancasila",
-        "dalam Piagam Jakarta"
+        "rancangan dasar negara Pancasila",
+        "Piagam Jakarta"
       ],
       "topik_materi": "Kandungan Rancangan Dasar Negara dalam Piagam Jakarta",
       "level_kognitif": "C2 - Pemahaman",
@@ -2626,7 +2625,7 @@
       "halaman_sumber": 24,
       "kata_kunci_modul": [
         "2.Kemanusiaan yang Adil dan Beradab",
-        "rancangan dasar negara Pancasila yang terdapat dalam Piagam Jakarta"
+        "rancangan dasar negara Pancasila yang terdapat dalam"
       ],
       "topik_materi": "Sila Kedua dalam Piagam Jakarta",
       "level_kognitif": "C2 - Pemahaman",
@@ -2746,7 +2745,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "pada tanggal 11 Juli 1945",
-        "ketua BPUPKI membentuk tiga panitia"
+        "ketua BPUPKI membentuk tiga"
       ],
       "topik_materi": "Pembentukan Tiga Panitia Kerja pada 11 Juli 1945",
       "level_kognitif": "C2 - Pemahaman",
@@ -2776,7 +2775,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "Panitia Perancang UUD",
-        "membentuk panitia kecil yang diketuai Prof. R. Soepomo"
+        "membentuk panitia kecil yang diketuai"
       ],
       "topik_materi": "Ketua Panitia Kecil Perancang UUD",
       "level_kognitif": "C2 - Pemahaman",
@@ -2806,7 +2805,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "Pada tanggal 14 Juli 1945",
-        "Ir. Soekarno melaporkan hasil tugasnya kepada sidang kedua"
+        "melaporkan hasil tugasnya kepada sidang kedua"
       ],
       "topik_materi": "Laporan Hasil Perancang UUD 14 Juli 1945",
       "level_kognitif": "C2 - Pemahaman",
@@ -2836,7 +2835,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "Rancangan Pembukaan UUD 1945 diambil dari",
-        "alinea 4 Rancangan Preambule Hukum dasar"
+        "alinea 4 Rancangan Preambule"
       ],
       "topik_materi": "Sumber Naskah Pembukaan UUD 1945",
       "level_kognitif": "C2 - Pemahaman",
@@ -2866,7 +2865,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "Pada tanggal 16 Juli 1945",
-        "Rancangan Batang Tubuh UUD diterima dalam sidang"
+        "Rancangan Batang Tubuh UUD"
       ],
       "topik_materi": "Penerimaan Seluruh Naskah Konstitusi 16 Juli 1945",
       "level_kognitif": "C2 - Pemahaman",
@@ -2895,7 +2894,7 @@
       "nomor": 97,
       "halaman_sumber": 25,
       "kata_kunci_modul": [
-        "perumusan Pancasila sebagai dasar negara",
+        "Pancasila sebagai dasar negara",
         "dirumuskan dalam sidang-sidang BPUPKI"
       ],
       "topik_materi": "Simpulan Peran BPUPKI dalam Dasar Negara",
@@ -2926,7 +2925,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "Setelah menyelesaikan tugasnya, BPUPKI dibubarkan",
-        "pada tanggal 7 Agustus 1945"
+        "pada tanggal 7 Agustus"
       ],
       "topik_materi": "Pembubaran BPUPKI dan Pembentukan PPKI",
       "level_kognitif": "C2 - Pemahaman",
@@ -2955,7 +2954,7 @@
       "nomor": 99,
       "halaman_sumber": 25,
       "kata_kunci_modul": [
-        "PPKI yang diketuai oleh Ir. Soekarno",
+        "PPKI yang diketuai oleh Ir.",
         "wakil ketua Drs. Moh. Hatta"
       ],
       "topik_materi": "Pimpinan Puncak Lembaga PPKI",
@@ -2986,7 +2985,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "beranggotakan 21 orang",
-        "PPKI yang diketuai oleh Ir. Soekarno"
+        "PPKI yang diketuai oleh Ir."
       ],
       "topik_materi": "Jumlah Keanggotaan Awal PPKI",
       "level_kognitif": "C2 - Pemahaman",

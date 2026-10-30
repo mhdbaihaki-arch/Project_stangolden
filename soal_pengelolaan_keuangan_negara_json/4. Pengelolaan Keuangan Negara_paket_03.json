@@ -1254,7 +1254,7 @@
       "nomor": 42,
       "halaman_sumber": 32,
       "kata_kunci_modul": [
-        "standar yang berlaku secara internasional",
+        "standar yang berlaku secara",
         "Government Finance Statistics"
       ],
       "topik_materi": "Tujuan Keempat: Menghadapi Desentralisasi Fiskal",
@@ -2112,7 +2112,7 @@
       "halaman_sumber": 37,
       "kata_kunci_modul": [
         "14 Januari 2004",
-        "UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara"
+        "Tahun 2004 tentang Perbendaharaan Negara"
       ],
       "topik_materi": "Dasar Hukum Perbendaharaan Negara",
       "level_kognitif": "C2 - Pemahaman",
@@ -2825,12 +2825,12 @@
         "B": "Menerbitkan SP2D bersyarat dengan jaminan lisan satker",
         "C": "Mengoreksi dokumen sendiri tanpa memberitahu satker",
         "D": "Membayarkan separuh dari total nominal tagihan SPM",
-        "E": "Menolak pencairan dana yang diajukan oleh PA atau KPA"
+        "E": "Mengembalikan berkas dan tidak mencairkan dana ajuan PA atau KPA"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
         "konsep_materi": "BUN/Kuasa BUN berwenang **menolak pencairan dana, apabila perintah pembayaran yang diterbitkan oleh Pengguna Anggaran/Kuasa Pengguna Anggaran tidak memenuhi persyaratan**.",
-        "alasan_kunci": "Opsi E tepat karena undang-undang secara tegas melarang kasir negara mencairkan dana atas dokumen pembayaran yang cacat hukum atau tidak lengkap. Penolakan ini disertai surat pengembalian berkas untuk diperbaiki satker.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Berdasarkan ketentuan UU Nomor 1 Tahun 2004, Kuasa BUN memiliki kewajiban untuk menguji kelengkapan dan keabsahan perintah pembayaran (SPM). Apabila persyaratan tidak terpenuhi, Kuasa BUN berwenang mengembalikan dokumen dan menolak/tidak mencairkan dana yang diajukan oleh PA atau KPA. Dengan demikian, tindakan tersebut merupakan mandat undang-undang.",
         "bedah_pengecoh": {
           "A": "Kas daerah APBD terpisah mutlak dari pengeluaran APBN kementerian.",
           "B": "Menerbitkan SP2D bersyarat atas jaminan lisan melanggar hukum perbendaharaan.",
