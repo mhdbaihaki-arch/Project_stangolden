@@ -23,20 +23,21 @@
       "pertanyaan": "Berdasarkan Kamus Besar Bahasa Indonesia (KBBI), sinergi diartikan secara lugas sebagai...",
       "pilihan": {
         "A": "Kegiatan atau operasi gabungan",
-        "B": "Kepatuhan penuh pada hierarki",
-        "C": "Pemberian layanan bebas biaya",
-        "D": "Penyelesaian tugas mandiri rutin",
-        "E": "Tindakan penegakan disiplin kerja"
+        "B": "Hubungan kemitraan kerja sama",
+        "C": "Koordinasi terpadu antarlembaga",
+        "D": "Penyelarasan tugas kedinasan",
+        "E": "Penguatan jejaring kelembagaan"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
-        "konsep_materi": "Menurut KBBI, **sinergi** diartikan sebagai **kegiatan atau operasi gabungan**.",
-        "alasan_kunci": "Opsi A merupakan jawaban yang tepat untuk definisi sinergi menurut KBBI. Secara leksikal bahasa, sinergi mengacu pada aksi kolektif terpadu dari berbagai pihak yang bekerja bersama. Dalam pedoman etika, sinergi dimaknai sebagai kegiatan atau operasi gabungan untuk mencapai sasaran bersama. Oleh sebab itu, opsi A merupakan rumusan definisi resmi KBBI.",
+        "konsep_materi": "Menurut KBBI, **sinergi** diartikan secara lugas sebagai **kegiatan atau operasi gabungan**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat karena KBBI mendefinisikan sinergi sebagai kegiatan atau operasi gabungan dari berbagai unsur berbeda untuk menghasilkan kekuatan yang lebih besar. Penggabungan potensi ini melandasi terbangunnya koordinasi kerja sama yang efektif dalam organisasi. Dengan demikian, kegiatan atau operasi gabungan adalah makna leksikal resmi sinergi.",
         "bedah_pengecoh": {
-          "B": "Merupakan prinsip disiplin birokrasi, bukan batasan definisi sinergi pada KBBI.",
-          "C": "Merupakan karakteristik operasional layanan publik, bukan pengertian sinergi.",
-          "D": "Merupakan kemandirian tugas individu yang berkebalikan dengan kerja gabungan.",
-          "E": "Merupakan penegakan hukum kepegawaian, bukan hakikat kerja sama sinergis."
+          "A": "Merupakan definisi eksplisit sinergi menurut KBBI dalam ketentuan resmi.",
+          "B": "Kurang tepat karena hubungan kemitraan kerja sama merupakan bentuk perwujudan praktis dari sinergi.",
+          "C": "Kurang tepat karena koordinasi terpadu antarlembaga merupakan metode pelaksanaan sinergi di lapangan.",
+          "D": "Kurang tepat karena penyelarasan tugas kedinasan berfokus pada sinkronisasi uraian tugas aparatur.",
+          "E": "Kurang tepat karena penguatan jejaring kelembagaan merupakan sarana penunjang kemitraan organisasi."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -105,28 +106,29 @@
       "nomor": 4,
       "halaman_sumber": 25,
       "kata_kunci_modul": [
-        "koordinasi dan kerja sama yang baik",
-        "memperoleh hasil yang lebih besar, berkualitas, dan cepat"
+        "koordinasi dan kerja sama yang",
+        "memperoleh hasil yang lebih besar,"
       ],
       "topik_materi": "Tujuan Koordinasi dalam Sinergi",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Koordinasi dan kerja sama dalam nilai sinergi diwujudkan secara terarah demi memperoleh hasil yang...",
       "pilihan": {
-        "A": "Seragam di seluruh tingkatan jabatan dinas",
+        "A": "Seragam dan terstandarisasi penuh",
         "B": "Lebih besar, berkualitas, dan cepat",
-        "C": "Bebas dari segala bentuk koreksi teknis",
-        "D": "Menguntungkan unit kerja sendiri semata",
-        "E": "Selesai tanpa memerlukan evaluasi lanjutan"
+        "C": "Tepat waktu, terukur, dan akuntabel",
+        "D": "Efisien, terpadu, dan berdaya guna",
+        "E": "Komprehensif dan berkelanjutan"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
-        "konsep_materi": "Sinergi diwujudkan dengan koordinasi dan kerja sama yang baik dengan pihak berkepentingan untuk **memperoleh hasil yang lebih besar, berkualitas, dan cepat**.",
-        "alasan_kunci": "Opsi B merupakan jawaban yang tepat mengenai manfaat sinergi dalam kinerja organisasi. Keterpaduan langkah kerja ditujukan untuk meningkatkan daya guna dan keandalan output pelaksanaan tugas negara. Secara fungsional, koordinasi dibangun agar menghasilkan dampak yang lebih besar, berkualitas, serta berproses cepat. Oleh sebab itu, opsi B merangkum tujuan utama sinergi.",
+        "konsep_materi": "Sinergi diwujudkan dengan koordinasi dan kerja sama yang baik dengan pihak yang berkepentingan untuk **memperoleh hasil yang lebih besar, berkualitas, dan cepat**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat karena integrasi kekuatan lintas unit mampu melipatgandakan output kerja dibandingkan penyelesaian secara parsial. Kecepatan dan keunggulan mutu hasil kerja menjadi keunggulan utama dari pola kerja kolaboratif. Oleh karena itu, hasil yang lebih besar, berkualitas, dan cepat adalah sasaran nilai sinergi.",
         "bedah_pengecoh": {
-          "A": "Merupakan sasaran standardisasi administratif, bukan target keunggulan output.",
-          "C": "Merupakan klaim kesempurnaan mutlak yang mustahil tanpa tinjauan teknis.",
-          "D": "Merupakan sikap mementingkan unit sendiri yang bertentangan dengan sinergi.",
-          "E": "Merupakan pengabaian siklus perbaikan mutu yang berisiko menurunkan kualitas."
+          "A": "Kurang tepat karena keseragaman kerja berfokus pada standardisasi operasional, bukan esensi sinergi.",
+          "B": "Merupakan rumusan tujuan eksplisit koordinasi dan kerja sama sinergi dalam etika kedinasan.",
+          "C": "Kurang tepat karena tepat waktu dan akuntabel merupakan fokus utama pada nilai Akuntabel.",
+          "D": "Kurang tepat karena efisien dan terpadu merupakan prinsip umum manajemen penyelenggaraan tugas.",
+          "E": "Kurang tepat karena komprehensif dan berkelanjutan merupakan sasaran perbaikan nilai Kesempurnaan."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -135,28 +137,29 @@
       "nomor": 5,
       "halaman_sumber": 25,
       "kata_kunci_modul": [
-        "sifat gotong royong yang telah mengakar",
+        "sifat gotong royong yang telah",
         "membangun sifat mulia berupa gotong royong yang produktif"
       ],
       "topik_materi": "Akar Budaya Bangsa pada Nilai Sinergi",
       "level_kognitif": "C2 - Pemahaman",
-      "pertanyaan": "Nilai sinergi bukan hal baru bagi pegawai karena bangsa Indonesia memiliki sifat budaya luhur berupa...",
+      "pertanyaan": "Nilai sinergi bukan hal baru bagi aparatur karena bangsa Indonesia memiliki kebiasaan luhur berupa...",
       "pilihan": {
-        "A": "Individualisme yang profesional",
-        "B": "Formalitas seremonial adat",
-        "C": "Kemandirian kerja sektoral",
-        "D": "Gotong royong yang mengakar",
-        "E": "Kompetisi antarkelompok kerja"
+        "A": "Musyawarah mufakat yang berkeadilan",
+        "B": "Ketaatan pada tatanan adat istiadat",
+        "C": "Kesantunan dalam bertutur dan bersikap",
+        "D": "Gotong royong yang telah mengakar kuat",
+        "E": "Semangat kemandirian dalam bertindak"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
-        "konsep_materi": "Masyarakat Indonesia sangat akrab dengan sifat **gotong royong yang telah mengakar**, sehingga nilai sinergi bagi pegawai Kementerian Keuangan **bukan kebiasaan yang baru**.",
-        "alasan_kunci": "Opsi D merupakan jawaban yang tepat terkait fondasi kultural nilai sinergi di Indonesia. Sejak dahulu masyarakat terbiasa saling menolong secara sukarela saat menghadapi kebutuhan bersama. Prinsip kerja sama menyebutkan bahwa gotong royong yang telah mengakar menjadi modal historis pelaksanaan nilai sinergi. Dengan demikian, gotong royong merupakan cerminan luhur nilai sinergi.",
+        "konsep_materi": "Nilai sinergi bagi pegawai Kementerian Keuangan bukan kebiasaan baru karena masyarakat Indonesia sangat erat dengan **sifat gotong royong yang telah mengakar**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat karena tradisi gotong royong mengajarkan kebiasaan tolong-menolong secara sukarela demi kepentingan bersama masyarakat. Nilai kultural warisan leluhur ini menjadi fondasi sosio-kultural yang kokoh bagi pengamalan sinergi di lingkungan birokrasi kementerian. Dengan demikian, gotong royong adalah akar budaya sinergi bangsa.",
         "bedah_pengecoh": {
-          "A": "Merupakan corak kerja perseorangan yang berlawanan dengan asas kekeluargaan.",
-          "B": "Merupakan kegiatan ritualitas luar yang tidak memuat esensi kolaborasi nyata.",
-          "C": "Merupakan pola pemisahan antarsektor yang menghambat integrasi kerja.",
-          "E": "Merupakan persaingan internal yang berpotensi memecah keutuhan tim kerja."
+          "A": "Kurang tepat karena musyawarah mufakat merupakan tradisi luhur dalam pengambilan keputusan mufakat.",
+          "B": "Kurang tepat karena ketaatan adat istiadat berfokus pada kepatuhan terhadap norma kedaerahan.",
+          "C": "Kurang tepat karena kesantunan bertutur kata merupakan etika pergaulan pada nilai pelayanan prima.",
+          "D": "Merupakan akar budaya luhur bangsa Indonesia yang melandasi nilai sinergi dalam prinsip tata kelola.",
+          "E": "Kurang tepat karena kemandirian bertindak berorientasi pada ketuntasan kerja mandiri pegawai."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -165,7 +168,7 @@
       "nomor": 6,
       "halaman_sumber": 25,
       "kata_kunci_modul": [
-        "hubungan dengan atasan, bawahan, dan teman sejawat",
+        "bawahan, dan teman sejawat",
         "satu unit maupun lintas unit"
       ],
       "topik_materi": "Cakupan Hubungan Harmonis Internal",
@@ -195,8 +198,8 @@
       "nomor": 7,
       "halaman_sumber": 25,
       "kata_kunci_modul": [
-        "antara Kementerian Keuangan dengan kementerian atau lembaga lain",
-        "pemangku kepentingan (stakeholders) dari luar"
+        "Keuangan dengan kementerian atau lembaga",
+        "(stakeholders) dari luar"
       ],
       "topik_materi": "Sinergi dengan Pemangku Kepentingan Eksternal",
       "level_kognitif": "C3 - Aplikasi",
@@ -226,7 +229,7 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "Kenyamanan iklim kerja di kantor akan menyebabkan",
-        "kinerja pegawai baik secara individu maupun kelembagaan akan maksimal"
+        "kinerja pegawai baik secara individu"
       ],
       "topik_materi": "Dampak Kenyamanan Iklim Kerja Sinergis",
       "level_kognitif": "C2 - Pemahaman",
@@ -256,27 +259,28 @@
       "halaman_sumber": 25,
       "kata_kunci_modul": [
         "Persangkaan baik kepada teman, atasan maupun bawahan",
-        "modal awal dalam membangun hubungan yang baik"
+        "membangun hubungan yang baik"
       ],
       "topik_materi": "Modal Awal Membangun Hubungan",
       "level_kognitif": "C2 - Pemahaman",
-      "pertanyaan": "Modal awal yang sangat mendasar dalam membangun hubungan baik di lingkungan kerja secara konseptual adalah...",
+      "pertanyaan": "Modal awal yang sangat mendasar dalam membangun hubungan kerja sama yang baik secara konseptual adalah...",
       "pilihan": {
-        "A": "Keseragaman asal daerah dan almamater pendidikan",
-        "B": "Persangkaan baik kepada rekan, atasan, dan bawahan",
-        "C": "Keahlian teknis komputer yang melebihi standar rekan",
-        "D": "Ketersediaan fasilitas kerja pribadi yang sangat lengkap",
-        "E": "Kedekatan personal dengan pejabat struktural tertinggi"
+        "A": "Kesamaan latar belakang disiplin keilmuan",
+        "B": "Persangkaan baik kepada rekan dan pimpinan",
+        "C": "Keahlian teknis operasional yang mumpuni",
+        "D": "Ketuntasan dalam menyelesaikan target kerja",
+        "E": "Kepatuhan penuh pada instruksi kedinasan"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
         "konsep_materi": "**Persangkaan baik kepada teman, atasan maupun bawahan** adalah **modal awal dalam membangun hubungan yang baik**.",
-        "alasan_kunci": "Opsi B merupakan jawaban yang tepat tentang landasan psikologis interaksi kerja. Prasangka positif membuka keterbukaan hati dan kejujuran untuk saling menerima serta bekerja sama dengan tulus. Prinsip kerja menyatakan tegas bahwa sangka baik kepada rekan, atasan, dan bawahan merupakan modal awal hubungan yang sehat. Dengan demikian, persangkaan baik merupakan fondasi utama relasi.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat karena prasangka positif menumbuhkan rasa aman psikologis dan keterbukaan antarsesama pegawai di tempat kerja. Tanpa adanya sangkaan baik, rasa saling curiga akan menghambat terciptanya koordinasi yang tulus dan produktif. Oleh sebab itu, persangkaan baik menjadi fondasi pemula hubungan yang baik.",
         "bedah_pengecoh": {
-          "A": "Merupakan primordialisme kedaerahan yang wajib dihindari aparatur negara.",
-          "C": "Merupakan kapabilitas keterampilan individu yang bukan penentu utama relasi.",
-          "D": "Merupakan sarana penunjang materiil yang tidak menjamin kerukunan kerja.",
-          "E": "Merupakan hubungan subjektif elitis yang mencederai keadilan perlakuan kerja."
+          "A": "Kurang tepat karena kesamaan disiplin keilmuan bukan prasyarat utama membangun keharmonisan relasi kerja.",
+          "B": "Merupakan modal awal mendasar dalam membangun hubungan baik pada nilai Sinergi dalam etika kedinasan.",
+          "C": "Kurang tepat karena keahlian teknis operasional merupakan modal kapabilitas pada nilai Profesionalisme.",
+          "D": "Kurang tepat karena ketuntasan menyelesaikan target kerja merupakan tolok ukur capaian output aparatur.",
+          "E": "Kurang tepat karena kepatuhan instruksi dinas merupakan cerminan kedisiplinan dan loyalitas kerja."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -285,7 +289,7 @@
       "nomor": 10,
       "halaman_sumber": 25,
       "kata_kunci_modul": [
-        "Rasa aman akan menimbulkan",
+        "aman akan menimbulkan",
         "rasa saling percaya dan saling menghormati"
       ],
       "topik_materi": "Hubungan Rasa Aman dan Sinergi",
@@ -322,21 +326,22 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Tanda nyata bahwa seorang pegawai senantiasa berpikir positif dalam tata krama kerja terlihat pada cara...",
       "pilihan": {
-        "A": "Menghitung tunjangan kinerja setiap bulannya",
+        "A": "Menata prioritas target capaian kinerja",
         "B": "Mengungkapkan sesuatu secara verbal dan nonverbal",
-        "C": "Menyusun nota dinas dengan format formal baku",
-        "D": "Memilih rekan kerja berdasarkan jenjang jabatan",
-        "E": "Membatasi waktu penyelesaian tugas rutin dinas"
+        "C": "Menyusun laporan dinas secara tertib dan cermat",
+        "D": "Memilih metode penyelesaian masalah secara tepat",
+        "E": "Mengelola waktu penyelesaian tugas operasional"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
-        "konsep_materi": "Hasil atau tanda bahwa pegawai senantiasa berpikir positif terlihat di dalam **cara mereka mengungkapkan sesuatu, baik secara verbal maupun nonverbal**.",
-        "alasan_kunci": "Opsi B merupakan jawaban yang tepat mengenai indikator perilaku berpikir positif. Sikap batin terpancar nyata dalam pilihan kata, nada bicara, serta ekspresi tubuh saat berinteraksi dengan sesama pegawai. Dalam pedoman etika, cara mengungkapkan sesuatu baik verbal maupun nonverbal menjadi bukti kematangan berpikir positif. Dengan demikian, opsi B mencerminkan tanda yang dimaksud secara konseptual.",
+        "konsep_materi": "Tanda bahwa pegawai senantiasa berpikir positif terlihat di dalam **cara mereka mengungkapkan sesuatu, baik secara verbal maupun nonverbal**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat karena pikiran positif memancar melalui pemilihan tutur kata yang santun serta gestur tubuh yang bersahabat dan menghargai orang lain. Cara berkomunikasi yang konstruktif mencerminkan kejernihan batin dan ketulusan niat pegawai dalam berinteraksi. Dengan demikian, ungkapan verbal dan nonverbal adalah indikator berpikir positif.",
         "bedah_pengecoh": {
-          "A": "Merupakan kalkulasi hak keuangan pribadi, bukan cerminan sikap mental positif.",
-          "C": "Merupakan kepatuhan tata naskah dinas formal, bukan ekspresi komunikasi interpersonal.",
-          "D": "Merupakan sikap pilih-pilih dalam bergaul yang mencederai kehangatan sinergi.",
-          "E": "Merupakan manajemen waktu kerja teknis, bukan manifestasi pola pikir positif."
+          "A": "Kurang tepat karena penataan prioritas target kinerja berkaitan dengan manajemen efektivitas penugasan.",
+          "B": "Merupakan wujud nyata cerminan berpikir positif pegawai sebagaimana dirumuskan dalam modul.",
+          "C": "Kurang tepat karena penyusunan laporan dinas secara cermat mencerminkan ketelitian nilai Akuntabel.",
+          "D": "Kurang tepat karena pemilihan metode pemecahan masalah mencerminkan kemampuan analitis Profesionalisme.",
+          "E": "Kurang tepat karena pengelolaan waktu operasional mencerminkan kedisiplinan kerja harian."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -352,21 +357,22 @@
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Selain saling menyapa dan bersalaman, perilaku luhur yang penting dilakukan antarpegawai adalah...",
       "pilihan": {
-        "A": "Membandingkan pencapaian angka kredit kepegawaian",
-        "B": "Menyerahkan penyelesaian seluruh beban tugas dinas",
-        "C": "Mengikuti setiap pilihan preferensi pribadi rekan",
-        "D": "Mendoakan teman agar sukses dan bahagia secara tulus",
-        "E": "Meminta bantuan finansial saat menghadapi kesulitan"
+        "A": "Memberikan apresiasi atas capaian kinerja tim",
+        "B": "Membantu penyusunan berkas administrasi dinas",
+        "C": "Berbagi referensi keahlian teknis pekerjaan",
+        "D": "Mendoakan rekan kerja agar sukses dan bahagia",
+        "E": "Mengajak berdiskusi mengenai strategi kantor"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
-        "konsep_materi": "Penting bagi pegawai untuk **mendoakan agar teman-temannya sukses dan bahagia**, baik diungkapkan **secara langsung maupun sembunyi-sembunyi**.",
-        "alasan_kunci": "Opsi D merupakan jawaban yang tepat tentang amalan penguat persaudaraan kerja. Mendoakan kebaikan rekan kerja melahirkan ketulusan batin dan mengikis rasa iri hati dalam lingkungan instansi. Mendoakan rekan sejawat agar sukses dan bahagia perlu dibiasakan baik secara langsung maupun diam-diam. Oleh sebab itu, opsi D adalah wujud perilaku luhur tersebut.",
+        "konsep_materi": "Penting bagi pegawai untuk **mendoakan agar teman-temannya sukses dan bahagia**, baik diungkapkan secara langsung maupun sembunyi-sembunyi.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat karena ketulusan mendoakan kebaikan rekan sekerja membersihkan hati dari rasa iri dengki serta mempererat ikatan persaudaraan korps. Doa yang tulus melahirkan empati dan kehangatan relasi yang memperkuat sinergi organisasi secara batiniah. Oleh karena itu, mendoakan kesuksesan rekan merupakan anjuran luhur nilai sinergi.",
         "bedah_pengecoh": {
-          "A": "Merupakan perbandingan kinerja bernuansa rivalitas yang berpotensi memicu ketegangan.",
-          "B": "Merupakan pelimpahan tanggung jawab yang merugikan rekan kerja seunit.",
-          "C": "Merupakan peniruan perilaku personal yang tidak disyaratkan dalam etika profesi.",
-          "E": "Merupakan urusan pribadi yang berada di luar etika kebersamaan tugas kantor."
+          "A": "Kurang tepat karena pemberian apresiasi capaian kinerja tim merupakan penguatan motivasi manajerial.",
+          "B": "Kurang tepat karena bantuan penyusunan berkas administrasi merupakan praktik tolong-menolong teknis.",
+          "C": "Kurang tepat karena berbagi referensi keahlian teknis mencerminkan transfer pengetahuan Profesionalisme.",
+          "D": "Merupakan perilaku luhur yang dianjurkan dalam menjaga keharmonisan hubungan kerja dalam etika kedinasan.",
+          "E": "Kurang tepat karena diskusi mengenai strategi kantor merupakan bagian dari forum koordinasi kerja."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -376,27 +382,28 @@
       "halaman_sumber": 26,
       "kata_kunci_modul": [
         "Solusi yang baik hanya dapat diperoleh jika didukung oleh",
-        "data dan informasi terkini, lengkap, dan akurat"
+        "data dan informasi terkini,"
       ],
       "topik_materi": "Prasyarat Perumusan Solusi Terbaik",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Perumusan dan pelaksanaan solusi terbaik dalam nilai sinergi wajib didukung oleh ketersediaan...",
       "pilihan": {
         "A": "Data dan informasi terkini, lengkap, dan akurat",
-        "B": "Instruksi tertulis bertingkat dari para pimpinan",
-        "C": "Dana anggaran cadangan darurat bernilai besar",
-        "D": "Kelonggaran batas waktu pengerjaan tugas dinas",
-        "E": "Opini mayoritas pegawai tanpa pengujian fakta"
+        "B": "Petunjuk teknis operasional baku dari pimpinan",
+        "C": "Alokasi sarana prasarana kerja yang memadai",
+        "D": "Kesepakatan hasil musyawarah kelompok dinas",
+        "E": "Dukungan koordinasi kemitraan lintas satuan kerja"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
         "konsep_materi": "Solusi yang baik hanya dapat diperoleh jika didukung oleh **data dan informasi terkini, lengkap, dan akurat**.",
-        "alasan_kunci": "Opsi A merupakan jawaban yang tepat mengenai landasan pengambilan keputusan yang berkualitas. Solusi yang efektif tidak boleh bertumpu pada perkiraan spekulatif, melainkan harus berbasis fakta sahih yang dapat dipertanggungjawabkan. Pedoman etika menegaskan bahwa solusi terbaik mutlak ditopang oleh data yang mutakhir, komprehensif, dan tepat. Oleh karena itu, opsi A merupakan prasyarat utama perumusan solusi.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat karena keandalan suatu keputusan atau rekomendasi kebijakan sangat bergantung pada validitas fakta dan data pendukung. Keputusan berbasis data yang mutakhir menjamin ketepatan solusi dalam menyelesaikan akar persoalan kedinasan. Dengan demikian, data terkini, lengkap, dan akurat adalah syarat mutlak solusi terbaik.",
         "bedah_pengecoh": {
-          "B": "Merupakan mekanisme komando yang memperlambat respon penyelesaian masalah mandiri.",
-          "C": "Merupakan dukungan materiil yang bukan penentu utama ketepatan analisis solusi.",
-          "D": "Merupakan kelonggaran jadwal yang justru dapat menurunkan produktivitas layanan.",
-          "E": "Merupakan konsensus populer tanpa dasar analisis data yang berisiko keliru."
+          "A": "Merupakan prasyarat fundamental dalam merumuskan solusi terbaik sebagaimana dalam etika kerja.",
+          "B": "Kurang tepat karena petunjuk teknis operasional merupakan panduan baku pelaksanaan tugas rutin.",
+          "C": "Kurang tepat karena alokasi sarana prasarana merupakan dukungan fasilitas fisik penunjang kerja.",
+          "D": "Kurang tepat karena kesepakatan hasil musyawarah merupakan wujud mufakat tim koordinasi kerja.",
+          "E": "Kurang tepat karena dukungan koordinasi kemitraan merupakan instrumen kelembagaan kerja sama."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -405,28 +412,29 @@
       "nomor": 14,
       "halaman_sumber": 26,
       "kata_kunci_modul": [
-        "berkontribusi menemukan ide penyelesaian setiap kali menemui persoalan",
+        "menemukan ide penyelesaian setiap kali",
         "tidak boleh hanya menunggu instruksi dari pimpinan"
       ],
       "topik_materi": "Inisiatif Pegawai dalam Pemecahan Masalah",
       "level_kognitif": "C3 - Aplikasi",
-      "pertanyaan": "Saat menjumpai kendala teknis dalam tugas, sikap proaktif pegawai yang tepat menurut nilai sinergi adalah...",
+      "pertanyaan": "Saat menjumpai kendala dalam tugas, sikap proaktif pegawai yang tepat menurut nilai sinergi adalah...",
       "pilihan": {
-        "A": "Menyerahkan persoalan sepenuhnya pada bagian pengawas",
-        "B": "Menghentikan pekerjaan sampai adanya petunjuk atasan",
-        "C": "Berkontribusi menemukan ide penyelesaian setiap ada kendala",
-        "D": "Membuat nota pembelaan diri atas keterlambatan tugas",
-        "E": "Memindahkan penanganan berkas kendala ke rekan lain"
+        "A": "Menyerahkan telaah kendala kepada tim perumus",
+        "B": "Menyesuaikan target output dengan kendala tugas",
+        "C": "Berkontribusi menemukan ide penyelesaian masalah",
+        "D": "Melaporkan perkembangan berkas secara berkala",
+        "E": "Mengkaji regulasi pedoman operasional satker"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Pegawai Kementerian Keuangan harus mampu **berkontribusi menemukan ide penyelesaian setiap kali menemui persoalan** dan **tidak boleh hanya menunggu instruksi dari pimpinan**.",
-        "alasan_kunci": "Opsi C merupakan jawaban yang tepat untuk peran aktif pegawai dalam mengatasi hambatan kerja. Nilai sinergi menuntut keterlibatan pemikiran dari setiap anggota tim demi kelancaran penyelesaian misi organisasi. Pedoman perilaku menerangkan bahwa pegawai wajib proaktif menyumbangkan ide solusi dan tidak sekadar menanti komando atasan. Dengan demikian, inisiatif mandiri pada opsi C adalah perilaku yang diharapkan.",
+        "konsep_materi": "Seorang pegawai Kementerian Keuangan harus mampu **berkontribusi menemukan ide penyelesaian setiap kali menemui persoalan** dalam menjalankan tugas.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat karena aparatur yang sinergis dan bertanggung jawab tidak bersikap pasif atau sekadar menunggu perintah atasan saat menghadapi kendala. Inisiatif sumbangsih ide mempercepat penemuan jalan keluar terbaik demi kelancaran operasional satuan kerja. Oleh sebab itu, kontribusi ide pemecahan adalah perwujudan perilaku solusi terbaik.",
         "bedah_pengecoh": {
-          "A": "Merupakan pengalihan beban kerja yang mencerminkan rendahnya rasa tanggung jawab.",
-          "B": "Merupakan sikap pasif menunggu yang memperlambat ritme penyelesaian pekerjaan.",
-          "D": "Merupakan tindakan defensif administratif yang tidak menyelesaikan substansi masalah.",
-          "E": "Merupakan pelemparan tugas kepada orang lain yang merusak kebersamaan tim."
+          "A": "Kurang tepat karena menyerahkan telaah kendala kepada tim lain mencerminkan sikap mengalihkan peran.",
+          "B": "Kurang tepat karena menyesuaikan target output dapat menurunkan standar pencapaian kinerja kantor.",
+          "C": "Merupakan wujud proaktif pegawai dalam menerapkan perilaku solusi terbaik sebagaimana secara konseptual.",
+          "D": "Kurang tepat karena pelaporan berkas berkala merupakan kepatuhan prosedur administratif formal.",
+          "E": "Kurang tepat karena kajian regulasi pedoman merupakan langkah normatif dalam telaah aturan."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -435,28 +443,29 @@
       "nomor": 15,
       "halaman_sumber": 26,
       "kata_kunci_modul": [
-        "berpikir out of box, berpikir di luar kebiasaan",
-        "idenya tidak bertentangan dengan norma dan aturan yang berlaku"
+        "berpikir out of box, berpikir",
+        "idenya tidak bertentangan dengan norma"
       ],
       "topik_materi": "Batasan Berpikir Out of the Box",
       "level_kognitif": "C4 - Analisis",
-      "pertanyaan": "Pegawai didorong berpikir out of the box dalam menggali solusi dengan syarat gagasan tersebut...",
+      "pertanyaan": "Pegawai didorong berani berpikir out of the box dalam menggali solusi dengan syarat gagasan tersebut...",
       "pilihan": {
-        "A": "Disetujui terlebih dahulu oleh seluruh anggota unit",
-        "B": "Mampu diadopsi secara instan tanpa perlu pelatihan",
-        "C": "Menghabiskan seluruh anggaran operasional yang ada",
-        "D": "Meniru secara utuh sistem kerja korporasi komersial",
+        "A": "Mendapat persetujuan bulat dari seluruh staf",
+        "B": "Memberikan efisiensi biaya operasional tinggi",
+        "C": "Memanfaatkan sarana teknologi informasi terkini",
+        "D": "Mengadopsi praktik terbaik institusi modern",
         "E": "Tidak bertentangan dengan norma dan aturan berlaku"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
-        "konsep_materi": "Selama idenya **tidak bertentangan dengan norma dan aturan yang berlaku**, pegawai Kementerian Keuangan harus berani mengutarakan dan melaksanakannya melalui pemikiran *out of the box*.",
-        "alasan_kunci": "Opsi E merupakan jawaban yang tepat mengenai koridor hukum dan moral inovasi birokrasi. Keberanian memunculkan terobosan baru harus tetap berlabuh pada kepatuhan terhadap perundang-undangan dan nilai etika yang sah. Prinsip budaya menegaskan bahwa ide di luar kebiasaan bebas dijalankan asalkan selaras dengan norma dan aturan yang berlaku. Oleh sebab itu, opsi E merupakan batas mutlak inovasi ASN.",
+        "konsep_materi": "Pegawai didorong berpikir di luar kebiasaan (out of box), **selama idenya tidak bertentangan dengan norma dan aturan yang berlaku**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat karena inovasi dan kreativitas birokrasi harus tetap berlandaskan pada prinsip legalitas serta moralitas penyelenggaraan negara. Terobosan gagasan baru tidak boleh melanggar koridor regulasi maupun kode etik kedinasan yang sah. Dengan demikian, ketaatan pada norma dan aturan menjadi batasan mutlak berpikir kreatif.",
         "bedah_pengecoh": {
-          "A": "Merupakan tuntutan suara bulat yang dapat mematikan terobosan gagasan baru.",
-          "B": "Merupakan harapan kepraktisan berlebihan yang mengabaikan masa transisi adaptasi.",
-          "C": "Merupakan pemborosan anggaran dinas yang melanggar asas efisiensi pengelolaan kas.",
-          "D": "Merupakan adopsi mentah tanpa penyesuaian regulasi sektor publik kementerian."
+          "A": "Kurang tepat karena persetujuan bulat seluruh staf bukan syarat mutlak keabsahan gagasan kreatif.",
+          "B": "Kurang tepat karena efisiensi biaya operasional merupakan salah satu manfaat positif inovasi kerja.",
+          "C": "Kurang tepat karena pemanfaatan teknologi informasi merupakan sarana penunjang modernisasi ide.",
+          "D": "Kurang tepat karena adopsi praktik terbaik merupakan metode pembanding dalam pengembangan gagasan.",
+          "E": "Merupakan batasan normatif mutlak berpikir out of the box dalam standar perilaku kementerian."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -466,7 +475,7 @@
       "halaman_sumber": 26,
       "kata_kunci_modul": [
         "Kreativitas tidak dibatasi oleh ruang dan waktu",
-        "bisa muncul dimana pun dan kapan pun"
+        "dimana pun dan kapan pun"
       ],
       "topik_materi": "Karakteristik Fleksibilitas Kreativitas",
       "level_kognitif": "C2 - Pemahaman",
@@ -496,7 +505,7 @@
       "halaman_sumber": 26,
       "kata_kunci_modul": [
         "Kreativitas juga tidak tergantung pada biaya dan tenaga",
-        "kemauan menggali ide dan keberanian untuk berpikir di luar kebiasaan"
+        "kemauan menggali ide dan keberanian"
       ],
       "topik_materi": "Kunci Utama Tumbuhnya Kreativitas",
       "level_kognitif": "C2 - Pemahaman",
@@ -525,28 +534,29 @@
       "nomor": 18,
       "halaman_sumber": 26,
       "kata_kunci_modul": [
-        "Memperbanyak diskusi bersama teman-teman sekantor",
+        "Memperbanyak diskusi bersama teman-teman",
         "membaca banyak literatur, berimajinasi dan sebagainya"
       ],
       "topik_materi": "Aktivitas Pengaya Kreativitas Pegawai",
       "level_kognitif": "C3 - Aplikasi",
-      "pertanyaan": "Aktivitas positif yang disarankan guna memperkaya khazanah kreativitas pegawai adalah...",
+      "pertanyaan": "Aktivitas positif yang disarankan guna memperkaya khazanah kreativitas pegawai kantor adalah...",
       "pilihan": {
         "A": "Memperbanyak diskusi dengan rekan dan membaca literatur",
-        "B": "Mengikuti kegiatan seremonial di luar instansi pemerintah",
-        "C": "Menyusun pembukuan keuangan pribadi di ruang dinas kantor",
-        "D": "Mengamati perdebatan warganet di berbagai media sosial",
-        "E": "Mencari kelemahan aturan internal demi keuntungan pribadi"
+        "B": "Mengikuti pelatihan teknis manajemen risiko kedinasan",
+        "C": "Menata tata ruang kerja kantor agar lebih ergonomis",
+        "D": "Melakukan studi banding tata kelola berkas ke satker lain",
+        "E": "Menyusun telaah regulasi perbendaharaan secara berkala"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
-        "konsep_materi": "**Memperbanyak diskusi bersama teman-teman sekantor, membaca banyak literatur, berimajinasi dan sebagainya** dapat **memperkaya kreativitas**.",
-        "alasan_kunci": "Opsi A merupakan jawaban yang tepat mengenai kebiasaan intelektual yang memperluas daya cipta. Pertukaran wawasan antarpegawai serta kajian kepustakaan membuka sudut pandang baru dalam menghadapi tantangan birokrasi. Diskusi terbuka dan terarah bersama rekan sekerja dan giat membaca literatur sangat efektif menyuburkan kreativitas. Dengan demikian, opsi A adalah metode yang dianjurkan.",
+        "konsep_materi": "Kreativitas dapat diperkaya dengan **memperbanyak diskusi bersama teman-teman sekantor, membaca banyak literatur, berimajinasi**, dan sebagainya.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat karena pertukaran wawasan melalui dialog terbuka serta kekayaan literasi memicu keterhubungan gagasan-gagasan baru yang inovatif. Membaca dan berimajinasi melatih kelenturan kognitif aparatur dalam merumuskan terobosan solusi kerja. Oleh sebab itu, diskusi dan literasi merupakan sarana utama pengaya kreativitas.",
         "bedah_pengecoh": {
-          "B": "Merupakan kegiatan formalitas luar yang tidak berfokus pada pengayaan materi tugas.",
-          "C": "Merupakan aktivitas pribadi yang tidak patut dikerjakan pada jam kedinasan.",
-          "D": "Merupakan konsumsi informasi bebas yang tidak terarah pada pemecahan tugas kedinasan.",
-          "E": "Merupakan pencarian celah hukum yang mencederai etika integritas kejujuran ASN."
+          "A": "Merupakan aktivitas praktis pengaya kreativitas aparatur sebagaimana dirinci secara jelas dalam modul.",
+          "B": "Kurang tepat karena pelatihan manajemen risiko berfokus pada pengendalian mitigasi bahaya operasional.",
+          "C": "Kurang tepat karena penataan ruang kerja ergonomis berkaitan dengan kenyamanan fisik lingkungan dinas.",
+          "D": "Kurang tepat karena studi banding ke satker lain merupakan metode observasi komparatif kelembagaan.",
+          "E": "Kurang tepat karena telaah regulasi perbendaharaan berfokus pada pengkajian kepatuhan yuridis norma kas."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -585,8 +595,8 @@
       "nomor": 20,
       "halaman_sumber": 26,
       "kata_kunci_modul": [
-        "prasangka baik akan hilang jika para pegawai",
-        "tidak saling salam di antara mereka"
+        "hilang jika para pegawai",
+        "tidak saling salam di"
       ],
       "topik_materi": "Pengaruh Saling Salam terhadap Prasangka Baik",
       "level_kognitif": "C4 - Analisis",
@@ -622,21 +632,22 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Menurut Nilai-Nilai Kementerian Keuangan, nilai pelayanan didefinisikan sebagai pemberian layanan yang...",
       "pilihan": {
-        "A": "Mengharuskan adanya imbalan jasa resmi sesuai tarif",
-        "B": "Dibatasi pada jam kerja formal tanpa adanya keluhan",
+        "A": "Menjamin ketuntasan administrasi sesuai jadwal baku",
+        "B": "Menerapkan prinsip keterbukaan informasi secara terukur",
         "C": "Memenuhi kepuasan pemangku kepentingan secara prima",
-        "D": "Diberikan khusus bagi pemohon yang memiliki relasi dinas",
-        "E": "Mengutamakan aspek legal formal di atas kepuasan warga"
+        "D": "Mengutamakan efisiensi pemanfaatan sumber daya kantor",
+        "E": "Menyelaraskan prosedur dinas dengan standar mutu kerja"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Menurut Nilai-Nilai Kementerian Keuangan, **pelayanan** diartikan sebagai **pemberian layanan yang memenuhi kepuasan pemangku kepentingan yang dilakukan dengan sepenuh hati, transparan, cepat, akurat, dan aman**.",
-        "alasan_kunci": "Opsi C merupakan jawaban yang tepat untuk batasan definisi nilai pelayanan di instansi. Kemenkeu menempatkan kepuasan pengguna layanan sebagai tolak ukur keberhasilan kerja yang dilandasi transparansi, kecepatan, akurasi, dan keamanan. Sebagaimana dijelaskan di pedoman etika, pelayanan bermakna memenuhi kepuasan pemangku kepentingan secara utuh. Dengan demikian, opsi C merupakan rumusan definisi yang tepat.",
+        "konsep_materi": "Pelayanan diartikan sebagai **pemberian layanan yang memenuhi kepuasan pemangku kepentingan** yang dilakukan dengan sepenuh hati, transparan, cepat, akurat, dan aman.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat karena orientasi utama pelayanan Kementerian Keuangan adalah memastikan kebutuhan pemangku kepentingan terlayani dengan standar kepuasan terbaik. Layanan prima diberikan secara tulus dan akuntabel demi memberikan manfaat nyata bagi pengguna jasa. Dengan demikian, pemenuhan kepuasan pemangku kepentingan adalah definisi hakiki nilai pelayanan.",
         "bedah_pengecoh": {
-          "A": "Merupakan konsep komersial jasa berbayar yang menyimpang dari asas pelayanan publik.",
-          "B": "Merupakan pembatasan kaku jam kantor yang mengabaikan kebutuhan darurat pemohon.",
-          "D": "Merupakan diskriminasi perlakuan dinas yang dilarang keras dalam kode etik ASN.",
-          "E": "Merupakan formalisme sempit yang mengesampingkan kepuasan dan manfaat bagi warga."
+          "A": "Kurang tepat karena ketuntasan administrasi sesuai jadwal mencerminkan pilar nilai Profesionalisme.",
+          "B": "Kurang tepat karena keterbukaan informasi terukur merupakan bagian dari tata kelola akuntabilitas publik.",
+          "C": "Merupakan rumusan definisi resmi nilai Pelayanan sebagaimana ditetapkan dalam naskah modul kementerian.",
+          "D": "Kurang tepat karena efisiensi pemanfaatan sumber daya merupakan prinsip utama pada nilai Akuntabel.",
+          "E": "Kurang tepat karena penyelarasan prosedur dengan standar mutu berfokus pada manajemen kendali mutu."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -646,7 +657,7 @@
       "halaman_sumber": 27,
       "kata_kunci_modul": [
         "Pelayanan sepenuh hati adalah",
-        "pemberian pelayanan tanpa memandang siapa yang dilayani"
+        "pemberian pelayanan tanpa memandang siapa"
       ],
       "topik_materi": "Hakikat Pelayanan Sepenuh Hati",
       "level_kognitif": "C2 - Pemahaman",
@@ -675,7 +686,7 @@
       "nomor": 23,
       "halaman_sumber": 27,
       "kata_kunci_modul": [
-        "kepuasan pelayanan tidak hanya dirasakan oleh penerima layanan",
+        "kepuasan pelayanan tidak hanya dirasakan",
         "tetapi juga oleh pemberi layanan"
       ],
       "topik_materi": "Dimensi Rasa Kepuasan dalam Pelayanan",
@@ -705,28 +716,29 @@
       "nomor": 24,
       "halaman_sumber": 27,
       "kata_kunci_modul": [
-        "Survei kebutuhan stakeholders adalah salah satu contoh",
+        "Survei kebutuhan stakeholders adalah salah",
         "memahami kebutuhan pemangku kepentingan"
       ],
       "topik_materi": "Contoh Upaya Memahami Kebutuhan Pemangku Kepentingan",
       "level_kognitif": "C3 - Aplikasi",
-      "pertanyaan": "Salah satu contoh konkret tindakan untuk memahami kebutuhan pengguna layanan secara konseptual adalah...",
+      "pertanyaan": "Salah satu contoh konkret tindakan untuk memahami kebutuhan pengguna layanan secara terarah adalah...",
       "pilihan": {
-        "A": "Mengadakan rapat evaluasi tertutup pimpinan eselon",
+        "A": "Mengadakan rapat evaluasi kinerja internal kantor",
         "B": "Melakukan survei kebutuhan stakeholders secara berkala",
-        "C": "Menyusun anggaran perjalanan dinas pengawasan tahunan",
-        "D": "Membatasi jenis saluran pengaduan masyarakat publik",
-        "E": "Memasang pengumuman sanksi hukum di pintu gerbang kantor"
+        "C": "Menyusun pedoman standar operasional prosedur loket",
+        "D": "Mengoptimalkan pemanfaatan papan informasi dinas",
+        "E": "Mengembangkan sistem pelaporan capaian output tugas"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
-        "konsep_materi": "**Survei kebutuhan stakeholders** adalah salah satu contoh usaha **memahami kebutuhan pemangku kepentingan (pengguna layanan)**.",
-        "alasan_kunci": "Opsi B merupakan jawaban yang tepat tentang metode ilmiah menangkap harapan publik. Melalui survei terstruktur, unit kerja dapat memetakan secara presisi ekspektasi, kendala, dan masukan pengguna layanan. Pedoman mutu secara eksplisit menyebut survei kebutuhan pemangku kepentingan sebagai contoh nyata usaha memahaminya. Dengan demikian, opsi B merupakan instrumen resmi evaluasi layanan.",
+        "konsep_materi": "**Survei kebutuhan stakeholders** adalah salah satu contoh usaha **memahami kebutuhan pemangku kepentingan** (pengguna layanan).",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat karena survei berkala menyediakan data empiris langsung mengenai harapan dan kendala yang dialami oleh masyarakat pengguna layanan. Melalui umpan balik tersebut, unit kerja dapat menyempurnakan fasilitas dan mekanisme pelayanan secara tepat sasaran. Oleh sebab itu, survei kebutuhan adalah sarana konkret memahami pengguna layanan.",
         "bedah_pengecoh": {
-          "A": "Merupakan koordinasi internal manajerial yang tidak langsung menyerap suara pengguna.",
-          "C": "Merupakan perencanaan anggaran perjalanan dinas yang bersifat administratif internal.",
-          "D": "Merupakan penyempitan saluran aspirasi yang menghambat perbaikan kualitas layanan.",
-          "E": "Merupakan sosialisasi pencegahan pelanggaran yang bukan sarana mendengar kebutuhan."
+          "A": "Kurang tepat karena rapat evaluasi kinerja internal berfokus pada penilaian output capaian organisasi.",
+          "B": "Merupakan contoh konkret upaya memahami kebutuhan pengguna layanan sebagaimana tersurat dalam modul.",
+          "C": "Kurang tepat karena penyusunan pedoman standar operasional loket bertujuan menjaga konsistensi alur.",
+          "D": "Kurang tepat karena pemanfaatan papan informasi dinas berkaitan dengan penyebarluasan info kedinasan.",
+          "E": "Kurang tepat karena pengembangan sistem pelaporan capaian tugas berkaitan dengan tata kelola akuntabilitas."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -736,27 +748,28 @@
       "halaman_sumber": 27,
       "kata_kunci_modul": [
         "Perilaku asertif adalah",
-        "perilaku ramah, sopan, menghargai dan peduli kepada orang lain"
+        "perilaku ramah, sopan, menghargai dan"
       ],
       "topik_materi": "Pengertian Perilaku Asertif dalam Pelayanan",
       "level_kognitif": "C2 - Pemahaman",
-      "pertanyaan": "Perilaku asertif pegawai Kementerian Keuangan kepada pemangku kepentingan diartikan sebagai...",
+      "pertanyaan": "Perilaku asertif pegawai Kementerian Keuangan kepada para pemangku kepentingan diartikan sebagai...",
       "pilihan": {
-        "A": "Tindakan mendesak pemohon mematuhi alur birokrasi",
-        "B": "Sikap mempertahankan pendapat pribadi atas kritik luar",
-        "C": "Kepatuhan membabi buta tanpa pertimbangan logika",
+        "A": "Sikap lugas dalam menyampaikan ketentuan regulasi",
+        "B": "Ketegasan dalam menegakkan prosedur layanan publik",
+        "C": "Kecepatan dalam merespons disposisi surat kedinasan",
         "D": "Perilaku ramah, sopan, menghargai, dan peduli sesama",
-        "E": "Kewajiban menghafal seluruh regulasi perpajakan negara"
+        "E": "Ketelitian dalam memverifikasi berkas permohonan dinas"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
-        "konsep_materi": "**Perilaku asertif** adalah **perilaku ramah, sopan, menghargai dan peduli kepada orang lain**.",
-        "alasan_kunci": "Opsi D merupakan jawaban yang tepat untuk definisi perilaku asertif dalam konteks pelayanan Nilai Kemenkeu. Asertif memadukan kejelasan sikap yang profesional dengan keramahan, kesopanan, rasa hormat, dan kepedulian yang hangat. Secara psikologis, perilaku asertif didefinisikan sebagai sikap ramah, sopan, menghargai, dan peduli kepada orang lain. Oleh sebab itu, opsi D adalah rumusan yang tepat.",
+        "konsep_materi": "**Perilaku asertif** adalah **perilaku ramah, sopan, menghargai dan peduli kepada orang lain** dalam memberikan pelayanan.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat karena keasertifan dalam konteks pelayanan kementerian memadukan kesantunan sikap dengan kepedulian tulus terhadap kebutuhan masyarakat pemangku kepentingan. Sikap bersahabat ini menumbuhkan rasa nyaman dan kepercayaan publik terhadap profesionalitas aparatur. Dengan demikian, ramah, sopan, menghargai, dan peduli adalah makna perilaku asertif.",
         "bedah_pengecoh": {
-          "A": "Merupakan pemaksaan kehendak sepihak yang mencederai kenyamanan pengguna layanan.",
-          "B": "Merupakan kekakuan defensif yang menutup diri dari koreksi demi perbaikan.",
-          "C": "Merupakan kepatuhan pasif tanpa nalar kritis yang tidak mencerminkan profesionalisme.",
-          "E": "Merupakan hafalan materi hukum yang tidak menggambarkan dimensi sikap perilaku."
+          "A": "Kurang tepat karena kelugasan menyampaikan regulasi berfokus pada kejelasan komunikasi hukum.",
+          "B": "Kurang tepat karena ketegasan menegakkan prosedur berkaitan dengan kedisiplinan operasional layanan.",
+          "C": "Kurang tepat karena kecepatan merespons disposisi surat mencerminkan ketangkasan nilai Pelayanan.",
+          "D": "Merupakan definisi perilaku asertif pada nilai Pelayanan dalam standar operasional modul.",
+          "E": "Kurang tepat karena ketelitian memverifikasi berkas permohonan mencerminkan kecermatan Profesionalisme."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -772,21 +785,22 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Perilaku utama kedua dari nilai pelayanan yang wajib dimiliki oleh para pegawai adalah...",
       "pilihan": {
-        "A": "Bersikap proaktif dan cepat tanggap melayani",
-        "B": "Melaksanakan efisiensi biaya rapat pimpinan",
-        "C": "Menjaga kerahasiaan dokumen tanpa verifikasi",
-        "D": "Menyelesaikan tugas secara mandiri tanpa bantuan",
-        "E": "Mempertahankan prosedur kerja yang sudah lama ada"
+        "A": "Bersikap proaktif dan cepat tanggap dalam melayani",
+        "B": "Melayani berorientasi kepuasan pemangku kepentingan",
+        "C": "Mempunyai keahlian dan pengetahuan yang luas",
+        "D": "Menemukan dan melaksanakan solusi terbaik bersama",
+        "E": "Melakukan perbaikan terus-menerus di segala bidang"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
-        "konsep_materi": "Perilaku utama kedua nilai pelayanan adalah **bersikap proaktif dan cepat tanggap**, yang merupakan **salah satu ciri pelayanan yang baik**.",
-        "alasan_kunci": "Opsi A merupakan jawaban yang tepat untuk butir kedua perilaku utama nilai pelayanan. Aparatur tidak boleh menunggu perintah saat melihat kesulitan masyarakat, melainkan harus segera mengambil inisiatif responsif. Pedoman pelayanan menetapkan bersikap proaktif dan cepat tanggap sebagai pilar perilaku pelayanan. Oleh karena itu, opsi A merupakan rumusan resmi perilaku kedua tersebut.",
+        "konsep_materi": "Perilaku utama kedua dari nilai Pelayanan adalah **bersikap proaktif dan cepat tanggap** dalam melayani pemangku kepentingan.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat karena petugas pelayanan dituntut peka mengenali kebutuhan pengguna jasa dan tanggap memberikan solusi tanpa harus menunggu diminta. Ketangkasan merespons ini menjadi tolok ukur keunggulan birokrasi modern yang berorientasi pada kepuasan masyarakat. Oleh sebab itu, proaktif dan cepat tanggap adalah perilaku utama kedua nilai pelayanan.",
         "bedah_pengecoh": {
-          "B": "Merupakan kebijakan efisiensi anggaran belanja, bukan perilaku utama pelayanan.",
-          "C": "Merupakan tindakan kerahasiaan data yang berada di luar konteks kesigapan melayani.",
-          "D": "Merupakan kemandirian tugas teknis yang tidak menggambarkan interaksi dengan pemohon.",
-          "E": "Merupakan keengganan berinovasi yang bertentangan dengan semangat pembaruan."
+          "A": "Merupakan perilaku utama kedua dari nilai Pelayanan dalam naskah keputusan nilai-nilai kementerian.",
+          "B": "Kurang tepat karena melayani berorientasi kepuasan merupakan perilaku utama pertama nilai Pelayanan.",
+          "C": "Kurang tepat karena mempunyai keahlian luas merupakan perilaku utama pertama nilai Profesionalisme.",
+          "D": "Kurang tepat karena menemukan solusi terbaik merupakan perilaku utama kedua dari nilai Sinergi.",
+          "E": "Kurang tepat karena melakukan perbaikan terus-menerus merupakan perilaku utama nilai Kesempurnaan."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -796,27 +810,28 @@
       "halaman_sumber": 27,
       "kata_kunci_modul": [
         "tanpa disuruh atau diminta, seorang pegawai",
-        "perlu menghampiri dan menanyakan sesuatu yang mungkin kita bisa membantunya"
+        "perlu menghampiri dan menanyakan sesuatu"
       ],
       "topik_materi": "Ilustrasi Praktik Proaktif dan Cepat Tanggap",
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Contoh perilaku proaktif dan cepat tanggap saat melihat tamu nampak kebingungan di kantor dinas adalah...",
       "pilihan": {
-        "A": "Meminta satpam kantor untuk mengawasi gerak-gerik tamu",
-        "B": "Menunggu sampai tamu tersebut melapor ke loket informasi",
+        "A": "Meminta petugas resepsionis memanggil pemohon bersangkutan",
+        "B": "Menunggu pemohon mendatangi loket pelayanan informasi",
         "C": "Menghampiri dan menawarkan bantuan tanpa menunggu diminta",
-        "D": "Mempersilakan tamu membaca papan petunjuk arah mandiri",
-        "E": "Melaporkan kehadiran orang asing kepada pejabat atasan"
+        "D": "Menyediakan brosur panduan alur perizinan di meja tunggu",
+        "E": "Menjelaskan jadwal loket layanan melalui pengeras suara"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Jika seseorang nampak kebingungan di kantor pelayanan, tanpa disuruh atau diminta pegawai **perlu menghampiri dan menawarkan bantuan tanpa mereka minta**.",
-        "alasan_kunci": "Opsi C merupakan jawaban yang tepat mengenai inisiatif layanan kesigapan aparatur. Sikap cepat peduli tanpa diminta menunjukkan keramahan tulus yang membuat pemohon merasa dihormati dan dipedulikan. Dalam praktik keteladanan dicontohkan bahwa pegawai berinisiatif menghampiri dan menawarkan bantuan sebelum tamu meminta. Dengan demikian, opsi C adalah teladan proaktif yang digariskan dalam budaya kerja.",
+        "konsep_materi": "Jika ada seseorang nampak kebingungan, pegawai perlu **menghampiri dan menawarkan bantuan tanpa disuruh atau diminta**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat karena inisiatif langsung menghampiri masyarakat yang membutuhkan panduan mencerminkan kepekaan empati aparatur dalam melayani. Pelayanan prima tidak bersifat pasif di balik meja, melainkan aktif menjemput kebutuhan pengguna jasa di ruang layanan. Dengan demikian, menawarkan bantuan langsung adalah wujud cepat tanggap.",
         "bedah_pengecoh": {
-          "A": "Merupakan perlakuan curiga berlebihan yang merusak kenyamanan suasana kantor.",
-          "B": "Merupakan sikap pasif yang membiarkan kebingungan tamu berlarut-larut.",
-          "D": "Merupakan pelepasan tanggung jawab interaksi yang menurunkan kehangatan layanan.",
-          "E": "Merupakan respons berlebihan yang memperumit prosedur penyambutan tamu dinas."
+          "A": "Kurang tepat karena meminta resepsionis memanggil pemohon mencerminkan sikap mengalihkan tanggung jawab.",
+          "B": "Kurang tepat karena menunggu pemohon mendatangi loket mencerminkan pola pelayanan pasif.",
+          "C": "Merupakan contoh konkret penerapan perilaku proaktif dan cepat tanggap sebagaimana secara normatif.",
+          "D": "Kurang tepat karena penyediaan brosur alur perizinan merupakan fasilitas informasi pasif di ruang tunggu.",
+          "E": "Kurang tepat karena pengumuman jadwal loket merupakan penyampaian informasi massal umum."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -825,7 +840,7 @@
       "nomor": 28,
       "halaman_sumber": 27,
       "kata_kunci_modul": [
-        "para pegawai Kementerian Keuangan perlu mempelajari dan memahami",
+        "Kementerian Keuangan perlu mempelajari dan",
         "bahasa tubuh"
       ],
       "topik_materi": "Keterampilan Memahami Bahasa Tubuh",
@@ -855,7 +870,7 @@
       "nomor": 29,
       "halaman_sumber": 27,
       "kata_kunci_modul": [
-        "melayani sepenuh hati kepada pengguna layanan",
+        "melayani sepenuh hati kepada pengguna",
         "tidak perlu mengingat seberapa besar kita dibayar"
       ],
       "topik_materi": "Kesadaran Ikhlas dalam Melayani",
@@ -915,28 +930,29 @@
       "nomor": 31,
       "halaman_sumber": 28,
       "kata_kunci_modul": [
-        "bekerjalah Anda melebihi apa yang Anda dapatkan",
+        "bekerjalah Anda melebihi apa yang",
         "maka Anda akan mendapatkan melebihi apa yang Anda kerjakan"
       ],
       "topik_materi": "Ungkapan Bijak Etos Kerja Melayani",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Ungkapan bijak yang ditekankan dalam etos kerja agar dicamkan oleh pegawai Kementerian Keuangan berbunyi...",
       "pilihan": {
-        "A": "Bekerjalah sesuai batas minimal jam kedinasan kantor",
+        "A": "Selesaikan pekerjaan hari ini tanpa menunda waktu esok",
         "B": "Bekerjalah melebihi apa yang didapatkan demi hasil lebih",
-        "C": "Berikan pelayanan terbaik jika memperoleh imbalan jasa",
-        "D": "Hindarilah penambahan tanggung jawab tanpa nota dinas",
-        "E": "Bekerja terbatas demi mengejar target output pribadi"
+        "C": "Utamakan ketepatan prosedur di atas kecepatan layanan",
+        "D": "Jadikan integritas sebagai pedoman utama setiap tindakan",
+        "E": "Bangun sinergi harmonis demi keberhasilan tugas bersama"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
-        "konsep_materi": "Ungkapan bijak yang perlu dicamkan berbunyi: **“bekerjalah Anda melebihi apa yang Anda dapatkan, maka Anda akan mendapatkan melebihi apa yang Anda kerjakan”**.",
-        "alasan_kunci": "Opsi B merupakan jawaban yang tepat untuk kutipan etos kerja unggul dalam etika kedinasan. Pengabdian sejati menuntut kesediaan memberikan dedikasi melampaui kompensasi materiil yang diterima saat ini demi kebaikan bersama. Etos kerja mengingatkan bahwa bekerja melampaui hak bayaran akan mendatangkan balasan kebaikan yang jauh lebih besar. Dengan demikian, opsi B adalah bunyi ungkapan bijak tersebut.",
+        "konsep_materi": "Ungkapan bijak yang perlu dicamkan pegawai berbunyi: **bekerjalah Anda melebihi apa yang Anda dapatkan, maka Anda akan mendapatkan melebihi apa yang Anda kerjakan**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat karena pepatah tersebut menanamkan semangat pengabdian total di mana aparatur memberikan karya terbaik melampaui imbalan materiil yang diterimanya. Dedikasi tulus ini membuka jalan bagi pencapaian prestasi dan keberkahan karier yang jauh melampaui ekspektasi. Oleh karena itu, bekerja melampaui imbalan adalah nasihat bijak yang ditekankan.",
         "bedah_pengecoh": {
-          "A": "Merupakan etos kerja minimalis yang menghambat pencapaian kinerja terbaik instansi.",
-          "C": "Merupakan sikap kerja pamrih transaksional yang bertolak belakang dengan nilai pelayanan.",
-          "D": "Merupakan keengganan berkorban yang membatasi pengembangan potensi diri pegawai.",
-          "E": "Merupakan orientasi egoistis yang mengabaikan kontribusi terhadap kepentingan publik."
+          "A": "Kurang tepat karena tidak menunda pekerjaan mencerminkan prinsip kedisiplinan manajemen waktu umum.",
+          "B": "Merupakan ungkapan bijak yang ditekankan secara tersurat dalam materi nilai kementerian.",
+          "C": "Kurang tepat karena ketepatan prosedur di atas kecepatan merupakan kaidah kepatuhan administratif.",
+          "D": "Kurang tepat karena integritas sebagai pedoman tindakan mencerminkan amanat umum nilai moral.",
+          "E": "Kurang tepat karena sinergi harmonis demi keberhasilan tugas merupakan prinsip kerja sama tim."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -976,27 +992,28 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "Pegawai Kementerian Keuangan perlu memiliki perilaku",
-        "tidak cepat puas dengan prestasi yang sudah didapatkan saat ini"
+        "dengan prestasi yang sudah didapatkan"
       ],
       "topik_materi": "Sikap Mental Menghadapi Prestasi",
       "level_kognitif": "C3 - Aplikasi",
-      "pertanyaan": "Terkait capaian keberhasilan tugas saat ini, sikap mental yang wajib dimiliki pegawai adalah...",
+      "pertanyaan": "Terkait capaian prestasi tugas yang diraih saat ini, sikap mental yang wajib dimiliki pegawai adalah...",
       "pilihan": {
-        "A": "Tidak cepat berpuas diri atas prestasi yang diraih",
-        "B": "Merayakan keberhasilan secara berlebihan di media sosial",
-        "C": "Meminta kenaikan pangkat istimewa kepada pimpinan dinas",
-        "D": "Mengurangi intensitas kerja harian karena target tercapai",
-        "E": "Meminta penundaan tugas baru yang berisiko lebih tinggi"
+        "A": "Tidak cepat puas dengan prestasi yang sudah didapatkan",
+        "B": "Menjaga konsistensi metode kerja lama secara cermat",
+        "C": "Menjadikan prestasi sebagai standar pencapaian permanen",
+        "D": "Memfokuskan energi pada pemeliharaan sistem yang ada",
+        "E": "Mengupayakan pengakuan formal atas kinerja yang diraih"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
-        "konsep_materi": "Pegawai Kementerian Keuangan perlu memiliki perilaku **tidak cepat puas dengan prestasi yang sudah didapatkan saat ini** guna memelihara semangat perbaikan berkelanjutan.",
-        "alasan_kunci": "Opsi A merupakan jawaban yang tepat tentang mentalitas perbaikan tiada henti. Kepuasan semu yang terlalu dini sering kali membuat aparatur lengah dan enggan melakukan pembaruan mutu kerja. Pedoman kerja menegaskan bahwa pegawai harus senantiasa merasa belum puas terhadap pencapaian saat ini agar terus terpacu berbenah. Maka dari itu, opsi A adalah sikap mental yang diharapkan.",
+        "konsep_materi": "Pegawai Kementerian Keuangan perlu memiliki perilaku **tidak cepat puas dengan prestasi yang sudah didapatkan saat ini** guna memacu perbaikan tiada henti.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat karena rasa cepat puas dapat memicu kejenuhan dan stagnasi kinerja di tengah dinamika tantangan birokrasi yang terus berkembang. Sikap rendah hati dan senantiasa haus perbaikan mendorong lahirnya inovasi-inovasi baru demi kemajuan institusi. Dengan demikian, tidak cepat berpuas diri adalah sikap mental nilai Kesempurnaan.",
         "bedah_pengecoh": {
-          "B": "Merupakan euforia publikasi diri yang tidak mencerminkan kerendahan hati ASN.",
-          "C": "Merupakan tuntutan pamrih kedudukan yang mengabaikan pengabdian tulus.",
-          "D": "Merupakan sikap mengendurkan kinerja yang merusak konsistensi mutu layanan.",
-          "E": "Merupakan keengganan berkembang yang menghambat perluasan kapabilitas diri."
+          "A": "Merupakan sikap mental esensial dalam menerapkan nilai Kesempurnaan sebagaimana secara konseptual.",
+          "B": "Kurang tepat karena mempertahankan metode lama secara kaku dapat menghambat adaptasi perubahan zaman.",
+          "C": "Kurang tepat karena menganggap prestasi sebagai standar permanen membatasi ruang pengembangan diri.",
+          "D": "Kurang tepat karena pemeliharaan sistem yang ada tanpa pembaruan menimbulkan stagnasi birokrasi.",
+          "E": "Kurang tepat karena mengejar pengakuan formal berorientasi pada pencitraan, bukan mutu kerja nyata."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1005,28 +1022,29 @@
       "nomor": 34,
       "halaman_sumber": 28,
       "kata_kunci_modul": [
-        "Cara melakukan perbaikan secara terus menerus adalah",
+        "Cara melakukan perbaikan secara",
         "dengan selalu mengevaluasi setiap hasil pekerjaan"
       ],
       "topik_materi": "Metode Melakukan Perbaikan Terus Menerus",
       "level_kognitif": "C2 - Pemahaman",
-      "pertanyaan": "Cara praktis yang diterapkan secara praktis untuk melakukan perbaikan terus-menerus adalah...",
+      "pertanyaan": "Cara praktis yang diterapkan secara berkelanjutan untuk melakukan perbaikan terus-menerus adalah...",
       "pilihan": {
-        "A": "Menerima seluruh hasil kerja masa lalu tanpa telaah",
-        "B": "Menunggu audit resmi tahunan dari badan pemeriksa luar",
-        "C": "Selalu mengevaluasi secara kritis setiap hasil pekerjaan",
-        "D": "Membatasi keterlibatan dalam proyek pengembangan kantor",
-        "E": "Menyerahkan penilaian kinerja kepada rekan kerja terdekat"
+        "A": "Menata jadwal pelatihan pegawai secara berkala",
+        "B": "Menyusun standar prosedur operasional baru",
+        "C": "Selalu mengevaluasi setiap hasil pekerjaan",
+        "D": "Memperkuat koordinasi tim lintas seksi kerja",
+        "E": "Mengembangkan sarana teknologi informasi dinas"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
         "konsep_materi": "Cara melakukan perbaikan secara terus menerus adalah **dengan selalu mengevaluasi setiap hasil pekerjaan**.",
-        "alasan_kunci": "Opsi C merupakan jawaban yang tepat mengenai instrumen perbaikan mutu kerja berkesinambungan. Tanpa penelaahan rutin, kekeliruan kecil akan terus berulang dan membudaya dalam alur kerja birokrasi. Pedoman kerja menerangkan bahwa evaluasi berkelanjutan atas setiap produk pekerjaan adalah cara utama menjaga siklus perbaikan. Dengan demikian, opsi C merupakan tindakan tepat yang diarahkan dalam etos kerja.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat karena evaluasi berkala memungkinkan pendeteksian dini terhadap celah kelemahan atau ketidakefisienan dalam proses bisnis kantor. Temuan evaluasi tersebut menjadi landasan konkret perumusan langkah-langkah penyempurnaan di masa berikutnya. Oleh sebab itu, evaluasi hasil kerja adalah metode praktis perbaikan terus-menerus.",
         "bedah_pengecoh": {
-          "A": "Merupakan sikap permisif apatis yang membiarkan kelemahan tanpa diperbaiki.",
-          "B": "Merupakan kepasifan reaktif yang mengabaikan pengendalian mutu internal harian.",
-          "D": "Merupakan sikap menutup diri dari pembaruan yang bertentangan dengan inovasi.",
-          "E": "Merupakan subjektivitas evaluasi informal yang tidak menjamin objektivitas mutu."
+          "A": "Kurang tepat karena penataan jadwal pelatihan pegawai merupakan sarana pengembangan kapasitas SDM.",
+          "B": "Kurang tepat karena penyusunan standar prosedur baru merupakan tindak lanjut dari standardisasi kerja.",
+          "C": "Merupakan cara praktis melakukan perbaikan terus-menerus dalam kaidah kerja kementerian.",
+          "D": "Kurang tepat karena penguatan koordinasi tim lintas seksi merupakan instrumen pada nilai Sinergi.",
+          "E": "Kurang tepat karena pengembangan teknologi informasi merupakan modernisasi sarana prasarana dinas."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1042,21 +1060,22 @@
       "level_kognitif": "C4 - Analisis",
       "pertanyaan": "Melalui evaluasi rutin diperoleh temuan ketidaksempurnaan pekerjaan, yang secara positif berfungsi untuk...",
       "pilihan": {
-        "A": "Menjatuhkan hukuman potongan gaji pegawai pelaksana",
-        "B": "Menjadi dasar pencarian kesalahan pribadi rekan kerja",
-        "C": "Mengurangi nilai capaian kinerja tahunan seluruh kantor",
-        "D": "Membatalkan seluruh target output rencana strategis unit",
-        "E": "Membuka ruang perbaikan demi peningkatan mutu kerja"
+        "A": "Menjadi dasar penyusunan kontrak kinerja baru",
+        "B": "Menata alokasi sumber daya secara proporsional",
+        "C": "Menyesuaikan target sasaran rencana operasional",
+        "D": "Memperbarui panduan standar pelayanan masyarakat",
+        "E": "Membuka ruang perbaikan demi keunggulan kerja"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
-        "konsep_materi": "Melalui evaluasi hasil pekerjaan akan didapatkan kekurangan atau ketidaksempurnaan, di mana penemuan ini **membuka ruang perbaikan**.",
-        "alasan_kunci": "Opsi E merupakan jawaban yang tepat tentang paradigma konstruktif memandang kekurangan tugas. Identifikasi kelemahan bukan dimaksudkan untuk menghakimi individu, melainkan menjadi titik pijak penyempurnaan sistem kerja di masa depan. Evaluasi perbaikan berpijak secara mendasar pada penemuan ketidaksempurnaan berperan membuka ruang perbaikan yang nyata. Oleh sebab itu, opsi E menyajikan sudut pandang evaluasi yang benar.",
+        "konsep_materi": "Penemuan kekurangan atau ketidaksempurnaan hasil pekerjaan berfungsi secara positif untuk **membuka ruang perbaikan**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat karena pengakuan atas kekurangan kerja bukanlah alasan saling menyalahkan, melainkan titik tolak penyempurnaan mutu kelembagaan. Kesadaran terhadap celah perbaikan memacu seluruh pegawai untuk terus berinovasi menghasilkan karya yang lebih sempurna. Dengan demikian, terbukanya ruang perbaikan adalah fungsi utama evaluasi hasil kerja.",
         "bedah_pengecoh": {
-          "A": "Merupakan sanksi punitif sepihak yang keliru dalam memandang evaluasi mutu.",
-          "B": "Merupakan budaya saling menyalahkan yang merusak keharmonisan tim kerja.",
-          "C": "Merupakan penurunan moral pesimistis yang mengabaikan nilai pembelajaran.",
-          "D": "Merupakan keputusasaan perencanaan yang menghancurkan kesinambungan program."
+          "A": "Kurang tepat karena penyusunan kontrak kinerja baru merupakan siklus tahunan manajemen kinerja ASN.",
+          "B": "Kurang tepat karena penataan alokasi sumber daya merupakan aspek perimbangan kapasitas satuan kerja.",
+          "C": "Kurang tepat karena penyesuaian target rencana operasional berfokus pada revisi target berkala.",
+          "D": "Kurang tepat karena pembaruan panduan standar pelayanan masyarakat merupakan aspek tata kelola loket.",
+          "E": "Merupakan fungsi konstruktif dari penemuan ketidaksempurnaan kerja sebagaimana dalam etika kerja."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1066,7 +1085,7 @@
       "halaman_sumber": 28,
       "kata_kunci_modul": [
         "Inovasi diartikan sebagai proses pengembangan",
-        "memberikan nilai tambah secara signifikan"
+        "nilai tambah secara signifikan"
       ],
       "topik_materi": "Definisi Inovasi dalam Buku Modul",
       "level_kognitif": "C2 - Pemahaman",
@@ -1095,28 +1114,29 @@
       "nomor": 37,
       "halaman_sumber": 28,
       "kata_kunci_modul": [
-        "memberikan nilai tambah secara signifikan",
+        "nilai tambah secara signifikan",
         "terutama nilai ekonomi dan sosial"
       ],
       "topik_materi": "Bentuk Nilai Tambah Signifikan dari Inovasi",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Nilai tambah signifikan yang dihasilkan dari proses inovasi dalam organisasi terutama berupa...",
       "pilihan": {
-        "A": "Popularitas individu inovator di berbagai media massa",
-        "B": "Penghapusan seluruh fungsi regulasi pengawasan intern",
-        "C": "Kemudahan bagi pegawai untuk bekerja tanpa jadwal pasti",
-        "D": "Nilai ekonomi dan sosial bagi masyarakat pemangku",
-        "E": "Pengurangan jumlah pegawai secara massal di instansi"
+        "A": "Efisiensi waktu dalam alur birokrasi perizinan",
+        "B": "Keandalan sistem tata kelola administrasi naskah",
+        "C": "Ketepatan perhitungan target penerimaan negara",
+        "D": "Nilai ekonomi dan sosial bagi masyarakat publik",
+        "E": "Penguatan sinergi kemitraan lintas kementerian"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
-        "konsep_materi": "Inovasi menciptakan produk atau sistem baru yang memberikan nilai tambah secara signifikan, **terutama nilai ekonomi dan sosial**.",
-        "alasan_kunci": "Opsi D merupakan jawaban yang tepat tentang dampak strategis inovasi pada sektor publik. Inovasi kementerian keuangan ditujukan untuk menggerakkan perekonomian nasional dan menyejahterakan kehidupan sosial masyarakat. Secara fungsional, nilai tambah signifikan yang diharapkan terfokus pada nilai ekonomi dan sosial. Dengan demikian, opsi D menyatakan dampak utama inovasi secara tepat.",
+        "konsep_materi": "Inovasi ditujukan untuk menciptakan produk atau sistem baru yang **memberikan nilai tambah secara signifikan (terutama nilai ekonomi dan sosial)**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat karena inovasi di sektor publik dinilai berdampak nyata apabila mampu mendorong pertumbuhan ekonomi nasional serta meningkatkan kesejahteraan masyarakat. Kemaslahatan sosial-ekonomi membuktikan bahwa pembaruan sistem birokrasi dirasakan langsung manfaatnya oleh rakyat. Oleh karena itu, nilai ekonomi dan sosial adalah nilai tambah utama inovasi.",
         "bedah_pengecoh": {
-          "A": "Merupakan pencitraan personal yang menyimpang dari orientasi kemanfaatan publik.",
-          "B": "Merupakan penghilangan fungsi kontrol yang berbahaya bagi tata kelola negara.",
-          "C": "Merupakan kebebasan tidak tertib yang mencederai kepatuhan disiplin kerja ASN.",
-          "E": "Merupakan pemutusan hubungan kerja yang bukan tujuan mulia inovasi pelayanan."
+          "A": "Kurang tepat karena efisiensi waktu birokrasi perizinan merupakan salah satu dampak operasional inovasi.",
+          "B": "Kurang tepat karena keandalan tata kelola naskah dinas merupakan dampak teknis kearsipan kantor.",
+          "C": "Kurang tepat karena ketepatan perhitungan target penerimaan merupakan sasaran teknis perbendaharaan.",
+          "D": "Merupakan bentuk nilai tambah signifikan yang ditegaskan dalam rumusan definisi inovasi pada modul.",
+          "E": "Kurang tepat karena sinergi kemitraan lintas kementerian merupakan sasaran hubungan pada nilai Sinergi."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1155,8 +1175,8 @@
       "nomor": 39,
       "halaman_sumber": 28,
       "kata_kunci_modul": [
-        "baru bagi perusahaan (atau agen/aktor), baru bagi pasar",
-        "baru bagi suatu daerah atau negara, atau bahkan dunia"
+        "(atau agen/aktor), baru bagi pasar",
+        "baru bagi suatu daerah atau"
       ],
       "topik_materi": "Tingkat Kebaruan dalam Konteks Inovasi",
       "level_kognitif": "C4 - Analisis",
@@ -1185,7 +1205,7 @@
       "nomor": 40,
       "halaman_sumber": 28,
       "kata_kunci_modul": [
-        "Nilai kesempurnaan dalam Nilai-Nilai Kementerian Keuangan dijabarkan ke dalam dua perilaku utama",
+        "Nilai kesempurnaan dalam Nilai-Nilai Kementerian",
         "Melakukan perbaikan terus menerus",
         "Mengembangkan inovasi baru dan kreativitas"
       ],
@@ -1217,27 +1237,28 @@
       "halaman_sumber": 29,
       "kata_kunci_modul": [
         "mengembangkan inovasi baru dan kreativitas",
-        "pegawai Kementerian Keuangan perlu menjadi manusia pemelajar"
+        "Kementerian Keuangan perlu menjadi manusia"
       ],
       "topik_materi": "Karakter Manusia Pemelajar bagi Inovasi",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Untuk mampu mengembangkan inovasi dan kreativitas kerja, pegawai Kementerian Keuangan harus menjadi...",
       "pilihan": {
         "A": "Manusia pemelajar yang aktif memperbarui diri",
-        "B": "Aparatur yang terpaku pada alur rutinitas tugas lama",
-        "C": "Pengamat netral terhadap perkembangan instansi",
-        "D": "Pelaksana tugas teknis tanpa inisiatif pribadi",
-        "E": "Petugas administrasi yang menjaga status quo"
+        "B": "Praktisi manajemen yang disiplin pada aturan",
+        "C": "Pengkaji kebijakan yang cermat dan akuntabel",
+        "D": "Perencana strategi yang berorientasi ke depan",
+        "E": "Pelaksana operasional yang konsisten bertugas"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
-        "konsep_materi": "Untuk memiliki perilaku mengembangkan inovasi baru dan kreativitas, pegawai Kementerian Keuangan **perlu menjadi manusia pemelajar**.",
-        "alasan_kunci": "Opsi A merupakan jawaban yang tepat tentang profil kepribadian inovatif aparatur negara. Inovasi tidak mungkin lahir dari pola kerja kaku yang enggan menyerap ilmu pengetahuan dan wawasan baru. Secara leksikal, pegawai mutlak menjadi manusia pemelajar agar mampu melahirkan kreasi proses maupun hasil kerja baru. Dengan demikian, opsi A adalah karakter yang disyaratkan.",
+        "konsep_materi": "Untuk memiliki perilaku mengembangkan inovasi dan kreativitas, pegawai Kementerian Keuangan **perlu menjadi manusia pemelajar**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat karena insan pemelajar memiliki kehausan intelektual untuk selalu mengeksplorasi ilmu baru dan berani mengadopsi kemajuan zaman ke dalam pekerjaannya. Sikap pembelajar berkelanjutan menjadi motor penggerak terciptanya gagasan segar dan terobosan metode kerja di instansi. Dengan demikian, menjadi manusia pemelajar adalah syarat mutlak inovasi.",
         "bedah_pengecoh": {
-          "B": "Merupakan kepatuhan pasif yang mematikan daya kritis dan keberanian pembaruan.",
-          "C": "Merupakan sikap penonton yang tidak berkontribusi nyata dalam transformasi sistem.",
-          "D": "Merupakan ketiadaan inisiatif yang bertentangan dengan semangat nilai kesempurnaan.",
-          "E": "Merupakan pembela kemapanan lama yang menolak perubahan ke arah lebih baik."
+          "A": "Merupakan karakter esensial pegawai yang dituntut dalam mengembangkan inovasi menurut teks modul.",
+          "B": "Kurang tepat karena disiplin aturan mencerminkan ketaatan terhadap prosedur pada nilai Integritas.",
+          "C": "Kurang tepat karena kecermatan pengkajian kebijakan mencerminkan ketelitian pada nilai Profesionalisme.",
+          "D": "Kurang tepat karena perencana strategi berorientasi ke depan berfokus pada fungsi perencanaan dinas.",
+          "E": "Kurang tepat karena pelaksana operasional konsisten mencerminkan keandalan dalam eksekusi tugas."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1246,28 +1267,29 @@
       "nomor": 42,
       "halaman_sumber": 29,
       "kata_kunci_modul": [
-        "Orang-orang pemelajar akan mendorong dan memfasilitasi dirinya",
-        "menciptakan cara kerja (proses) atau produk-produk (hasil) baru"
+        "akan mendorong dan memfasilitasi dirinya",
+        "kerja (proses) atau produk-produk (hasil)"
       ],
       "topik_materi": "Perilaku Orang-Orang Pemelajar",
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Perilaku konkret yang ditunjukkan oleh orang-orang pemelajar di lingkungan kerja adalah...",
       "pilihan": {
-        "A": "Menunggu instruksi tertulis sebelum memulai belajar",
-        "B": "Membatasi diri dari tim kerja berbasis teknologi baru",
-        "C": "Menciptakan cara kerja proses atau hasil yang baru",
-        "D": "Menyerahkan pembuatan inovasi ke unit eselon lain",
-        "E": "Membatasi pertukaran pengetahuan antarpegawai dinas"
+        "A": "Mempelajari regulasi teknis kepegawaian terkini",
+        "B": "Menghadiri agenda sosialisasi program dinas kantor",
+        "C": "Mendorong diri menciptakan proses atau produk baru",
+        "D": "Berbagi data informasi melalui jaringan intranet",
+        "E": "Menyusun kajian komparatif terhadap metode kerja"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Orang-orang pemelajar akan mendorong dan memfasilitasi dirinya untuk berbuat, serta **menciptakan cara kerja (proses) atau produk-produk (hasil) baru**.",
-        "alasan_kunci": "Opsi C merupakan jawaban yang tepat mengenai bukti nyata semangat belajar aparatur. Manusia pemelajar senantiasa bergerak memperbarui metode pelaksanaan tugas agar lebih efektif, cepat, dan bernilai tambah. Dalam prinsip dasar, ciri pemelajar adalah memfasilitasi diri menciptakan proses kerja atau produk baru yang bermanfaat. Oleh sebab itu, opsi C adalah tindakan pemelajar yang benar.",
+        "konsep_materi": "Orang-orang pemelajar akan **mendorong dan memfasilitasi dirinya untuk berbuat, serta menciptakan cara kerja (proses) atau produk-produk (hasil) baru**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat karena pembelajar sejati tidak berhenti pada penguasaan teori semata, melainkan mengaktualisasikannya dalam bentuk karya nyata dan penyempurnaan alur kerja. Kemampuan mengubah pengetahuan menjadi solusi praktis merupakan bukti kematangan daya cipta aparatur. Oleh sebab itu, penciptaan proses atau hasil baru adalah ciri konkret manusia pemelajar.",
         "bedah_pengecoh": {
-          "A": "Merupakan ketergantungan birokratis yang memperlambat inisiatif belajar mandiri.",
-          "B": "Merupakan penolakan teknologi yang merugikan adaptasi modernisasi kerja.",
-          "D": "Merupakan pelemparan peran inovasi yang menunjukkan sikap lepas tangan.",
-          "E": "Merupakan isolasi pengetahuan yang merusak iklim kolaboratif organisasi."
+          "A": "Kurang tepat karena mempelajari regulasi terkini merupakan kewajiban umum pembaruan pengetahuan dinas.",
+          "B": "Kurang tepat karena menghadiri sosialisasi program kantor merupakan kepatuhan agenda dinas kepegawaian.",
+          "C": "Merupakan perwujudan konkret dari insan pemelajar sebagaimana diuraikan secara eksplisit di modul.",
+          "D": "Kurang tepat karena berbagi informasi melalui intranet merupakan wujud kerja sama pada nilai Sinergi.",
+          "E": "Kurang tepat karena penyusunan kajian komparatif merupakan metode penelitian analitis kebijakan."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1277,7 +1299,7 @@
       "halaman_sumber": 29,
       "kata_kunci_modul": [
         "Kreativitas atau daya cipta adalah proses mental",
-        "pemunculan gagasan (concept) baru, atau hubungan baru antara gagasan-gagasan yang sudah ada"
+        "gagasan (concept) baru, atau hubungan"
       ],
       "topik_materi": "Definisi Konseptual Daya Cipta",
       "level_kognitif": "C2 - Pemahaman",
@@ -1336,7 +1358,7 @@
       "nomor": 45,
       "halaman_sumber": 29,
       "kata_kunci_modul": [
-        "Sebagai alternatif, konsepsi sehari-hari dari daya cipta",
+        "sehari-hari dari daya cipta",
         "tindakan membuat sesuatu yang baru"
       ],
       "topik_materi": "Konsepsi Sehari-Hari Daya Cipta",
@@ -1366,8 +1388,8 @@
       "nomor": 46,
       "halaman_sumber": 29,
       "kata_kunci_modul": [
-        "Daya cipta di masa kini sangat dipengaruhi oleh berbagai faktor",
-        "faktor diri dari keturunan dan lingkungan"
+        "masa kini sangat dipengaruhi oleh",
+        "faktor diri dari keturunan dan"
       ],
       "topik_materi": "Faktor yang Memengaruhi Daya Cipta",
       "level_kognitif": "C2 - Pemahaman",
@@ -1396,28 +1418,29 @@
       "nomor": 47,
       "halaman_sumber": 29,
       "kata_kunci_modul": [
-        "organizational values adalah sebuah pedoman, petunjuk, atau peraturan",
+        "adalah sebuah pedoman, petunjuk, atau",
         "meningkatkan kohesi dan rasa kesatuan dalam organisasi"
       ],
       "topik_materi": "Definisi dan Fungsi Nilai Organisasi",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Nilai-nilai organisasi (organizational values) berfungsi sebagai pedoman bertindak sekaligus untuk...",
       "pilihan": {
-        "A": "Menghilangkan seluruh perbedaan pendapat secara paksa",
-        "B": "Membatasi jenjang kepangkatan pegawai golongan rendah",
-        "C": "Mengurangi alokasi belanja operasional kantor tahunan",
-        "D": "Menyeragamkan pandangan politik pribadi para pegawai",
+        "A": "Menata hierarki kepemimpinan dalam birokrasi",
+        "B": "Mengatur alokasi pembagian pagu anggaran seksi",
+        "C": "Menetapkan kriteria promosi jenjang kepangkatan",
+        "D": "Menyusun instrumen evaluasi akuntabilitas satker",
         "E": "Meningkatkan kohesi dan rasa kesatuan organisasi"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
-        "konsep_materi": "**Organizational values** adalah pedoman bagi organisasi dalam mengambil tindakan dan keputusan, serta akan **meningkatkan kohesi dan rasa kesatuan dalam organisasi**.",
-        "alasan_kunci": "Opsi E merupakan jawaban yang tepat mengenai peran integratif nilai bersama instansi. Adanya pegangan nilai yang seragam mempererat keterikatan batin antarpribadi dan menyatukan langkah seluruh unit yang beragam tugasnya. Secara konseptual, nilai organisasi meningkatkan kohesi dan rasa kesatuan di tubuh kementerian. Oleh sebab itu, opsi E adalah fungsi strategis nilai organisasi.",
+        "konsep_materi": "Nilai-nilai organisasi adalah pedoman dalam mengambil tindakan dan keputusan, serta berfungsi untuk **meningkatkan kohesi dan rasa kesatuan dalam organisasi**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat karena nilai bersama merekatkan seluruh anggota dari berbagai latar belakang ke dalam satu identitas korps yang solid dan harmonis. Keterpaduan rasa kesatuan ini mencegah timbulnya ego sektoral dan memperkuat komitmen pencapaian visi institusi. Dengan demikian, peningkatan kohesi dan persatuan adalah fungsi utama nilai organisasi.",
         "bedah_pengecoh": {
-          "A": "Merupakan pembungkaman paksa yang merusak dinamika pemikiran sehat organisasi.",
-          "B": "Merupakan diskriminasi karier kepangkatan yang melanggar sistem merit kepegawaian.",
-          "C": "Merupakan penghematan anggaran dinas yang bukan fungsi utama nilai organisasi.",
-          "D": "Merupakan penyeragaman pandangan politik yang bertentangan dengan netralitas ASN."
+          "A": "Kurang tepat karena penataan hierarki kepemimpinan merupakan ranah regulasi struktur organisasi.",
+          "B": "Kurang tepat karena pengaturan pagu anggaran seksi merupakan instrumen teknis penganggaran negara.",
+          "C": "Kurang tepat karena kriteria promosi jenjang kepangkatan diatur dalam sistem manajemen talenta ASN.",
+          "D": "Kurang tepat karena evaluasi akuntabilitas satker menggunakan pedoman penilaian sistem kinerja publik.",
+          "E": "Merupakan fungsi fundamental nilai-nilai organisasi bagi keutuhan institusi sebagaimana secara konseptual."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1426,28 +1449,29 @@
       "nomor": 48,
       "halaman_sumber": 29,
       "kata_kunci_modul": [
-        "organisasi modern yang dinamis yang pergerakannya selalu menuju",
-        "pengelolaan manajemen yang maju (best practices)"
+        "dinamis yang pergerakannya selalu menuju",
+        "pengelolaan manajemen yang"
       ],
       "topik_materi": "Arah Tata Kelola Manajemen Kementerian Keuangan",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Sebagai organisasi modern dan dinamis, arah pergerakan tata kelola Kementerian Keuangan selalu menuju...",
       "pilihan": {
-        "A": "Sistem komando birokrasi tanpa adaptasi perubahan",
-        "B": "Sentralisasi wewenang anggaran ke kantor pusat",
+        "A": "Standarisasi prosedur pelayanan berbasis digital",
+        "B": "Penguatan struktur hierarki kelembagaan vertikal",
         "C": "Pengelolaan manajemen yang maju (best practices)",
-        "D": "Pengurangan interaksi langsung dengan masyarakat",
-        "E": "Penerapan pola birokrasi tradisional masa lalu"
+        "D": "Kemitraan strategis dengan institusi internasional",
+        "E": "Optimalisasi penerimaan fiskal berbasis potensi riil"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Kementerian Keuangan adalah organisasi modern yang dinamis yang pergerakannya selalu menuju sebuah **pengelolaan manajemen yang maju (best practices)**.",
-        "alasan_kunci": "Opsi C merupakan jawaban yang tepat mengenai visi kelembagaan Kementerian Keuangan. Instansi senantiasa memperbarui tata kelola manajerialnya agar sejajar dengan standar terbaik pengelolaan keuangan publik dunia (*best practices*). Pedoman kerja menegaskan arah gerak Kemenkeu selalu menuju sistem manajemen yang maju. Maka dari itu, opsi C adalah arah pergerakan yang digariskan.",
+        "konsep_materi": "Kementerian Keuangan adalah organisasi modern yang dinamis yang pergerakannya selalu menuju **sebuah pengelolaan manajemen yang maju (best practices)**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat karena Kementerian Keuangan senantiasa melakukan modernisasi tata kelola birokrasi mengadopsi standar-standar keunggulan manajemen kelas dunia. Pengelolaan yang maju menjamin efektivitas tata kelola fiskal negara yang transparan dan akuntabel. Oleh karena itu, pengelolaan manajemen maju (best practices) adalah arah pergerakan kementerian.",
         "bedah_pengecoh": {
-          "A": "Merupakan birokrasi kaku yang menghambat kelincahan respon organisasi modern.",
-          "B": "Merupakan pemusatan kekuasaan yang berlawanan dengan desentralisasi pelayanan.",
-          "D": "Merupakan penutupan akses publik yang mencederai prinsip transparansi pelayanan.",
-          "E": "Merupakan langkah mundur ke masa lalu yang mengabaikan tuntutan transformasi."
+          "A": "Kurang tepat karena standarisasi prosedur digital merupakan salah satu sarana penunjang tata laksana.",
+          "B": "Kurang tepat karena penguatan struktur hierarki vertikal berkaitan dengan perancangan struktur kelembagaan.",
+          "C": "Merupakan rumusan resmi arah pergerakan tata kelola kementerian sebagaimana dipaparkan dalam konsep manajemen.",
+          "D": "Kurang tepat karena kemitraan internasional merupakan aspek diplomasi kerja sama bidang fiskal.",
+          "E": "Kurang tepat karena optimalisasi penerimaan fiskal merupakan target output pada fungsi penerimaan negara."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1457,27 +1481,28 @@
       "halaman_sumber": 29,
       "kata_kunci_modul": [
         "Membangun dan mengembangkan sumber daya manusia yang",
-        "amanah, profesional, berintegritas tinggi, dan bertanggung jawab"
+        "profesional, berintegritas tinggi, dan bertanggung"
       ],
       "topik_materi": "Misi Penguatan Sumber Daya Manusia Kemenkeu",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Dalam misi penguatan kelembagaan, Kementerian Keuangan menargetkan pembangunan SDM yang...",
       "pilihan": {
-        "A": "Mengutamakan kepatuhan buta pada instruksi pimpinan",
+        "A": "Terampil, cekatan, berwawasan luas, dan adaptif",
         "B": "Amanah, profesional, berintegritas, dan bertanggung jawab",
-        "C": "Berasal khusus dari lulusan perguruan tinggi kedinasan",
-        "D": "Mampu menyelesaikan seluruh pekerjaan tanpa beristirahat",
-        "E": "Mencari keuntungan materiil pribadi dari tugas jabatan"
+        "C": "Kritis, solutif, memiliki dedikasi tinggi, dan loyal",
+        "D": "Mandiri, inovatif, berdaya saing global, dan tanggap",
+        "E": "Kolaboratif, ramah, beretika luhur, dan disiplin"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
-        "konsep_materi": "Misi penguatan kelembagaan Kemenkeu mencakup: **Membangun dan mengembangkan sumber daya manusia yang amanah, profesional, berintegritas tinggi, dan bertanggung jawab**.",
-        "alasan_kunci": "Opsi B merupakan jawaban yang tepat untuk rumusan misi pengembangan SDM Kementerian Keuangan. Kualitas aparatur pengelola keuangan negara harus memadukan kecakapan teknis profesional dengan moralitas kejujuran yang kokoh. Sebagaimana termaktub di pedoman etika, SDM dibangun dengan karakter amanah, profesional, berintegritas tinggi, dan bertanggung jawab. Oleh sebab itu, opsi B adalah profil SDM yang tepat.",
+        "konsep_materi": "Misi kementerian mencakup: membangun dan mengembangkan sumber daya manusia yang **amanah, profesional, berintegritas tinggi, dan bertanggung jawab**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat karena keempat karakter luhur tersebut menjadi pilar utama pembentukan aparatur pengelola keuangan negara yang beretika mulia dan kompeten. Karakter amanah dan integritas menjaga kepercayaan rakyat terhadap tata kelola kas negara. Dengan demikian, amanah, profesional, berintegritas, dan bertanggung jawab adalah rumusan misi SDM.",
         "bedah_pengecoh": {
-          "A": "Merupakan kepatuhan tanpa nalar kritis yang mengesampingkan prinsip kebenaran.",
-          "C": "Merupakan eksklusivitas asal pendidikan yang bertentangan dengan meritokrasi terbuka.",
-          "D": "Merupakan tuntutan tidak manusiawi yang mengabaikan kesehatan jasmani rohani pegawai.",
-          "E": "Merupakan penyalahgunaan wewenang jabatan yang mencoreng kehormatan institusi."
+          "A": "Kurang tepat karena kombinasi kompetensi ini merupakan rumusan umum pengembangan kapasitas kerja.",
+          "B": "Merupakan rumusan baku butir misi penguatan SDM Kementerian Keuangan sebagaimana secara konseptual.",
+          "C": "Kurang tepat karena kritis dan loyal merupakan nilai sikap umum dalam pembinaan etika pegawai.",
+          "D": "Kurang tepat karena mandiri dan berdaya saing global merupakan visi pengembangan talenta aparatur.",
+          "E": "Kurang tepat karena kolaboratif dan beretika luhur mencerminkan sikap pada nilai Harmonis dan Pelayanan."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1486,28 +1511,29 @@
       "nomor": 50,
       "halaman_sumber": 29,
       "kata_kunci_modul": [
-        "teknologi informasi keuangan yang modern dan terintegrasi",
+        "teknologi informasi keuangan yang modern",
         "sarana dan prasarana strategis lainnya"
       ],
       "topik_materi": "Misi Pengembangan Teknologi Informasi dan Sarana",
       "level_kognitif": "C4 - Analisis",
-      "pertanyaan": "Karakteristik sistem teknologi informasi keuangan yang dibangun dalam misi penguatan kelembagaan adalah...",
+      "pertanyaan": "Karakteristik sistem teknologi informasi keuangan yang dibangun dalam misi kelembagaan kementerian adalah...",
       "pilihan": {
-        "A": "Dikelola mandiri dan terpisah di setiap unit eselon",
-        "B": "Disediakan eksklusif untuk kepentingan pimpinan eselon",
-        "C": "Menggunakan perangkat lunak tanpa sistem pengamanan data",
+        "A": "Mandiri, terdesentralisasi, dan berbasis web lokal",
+        "B": "Fleksibel, adaptif, serta ditopang aplikasi terbuka",
+        "C": "Cepat, responsif, dan berbasis kecerdasan buatan",
         "D": "Modern, terintegrasi, dan ditopang sarana strategis",
-        "E": "Menggantikan seluruh kewenangan pengawasan lembaga hukum"
+        "E": "Komprehensif, otomatis, dan berorientasi pengguna"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
-        "konsep_materi": "Misi kementerian mencakup: **Membangun dan mengembangkan teknologi informasi keuangan yang modern dan terintegrasi serta sarana dan prasarana strategis lainnya**.",
-        "alasan_kunci": "Opsi D merupakan jawaban yang tepat mengenai arah modernisasi teknologi Kementerian Keuangan. Pengelolaan fiskal negara membutuhkan keterpaduan data antar-unit agar menghasilkan informasi keuangan yang cepat, akurat, dan terpercaya. Prinsip budaya menegaskan bahwa teknologi informasi dibangun secara modern dan terintegrasi bersama sarana strategis. Dengan demikian, opsi D menyatakan misi teknologi secara utuh.",
+        "konsep_materi": "Misi penguatan kementerian mencakup: membangun dan mengembangkan **teknologi informasi keuangan yang modern dan terintegrasi serta sarana dan prasarana strategis lainnya**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat karena integrasi sistem teknologi informasi keuangan menjamin kelancaran arus data perbendaharaan negara secara aman, cepat, dan terpercaya. Keterpaduan infrastruktur strategis ini meminimalisasi duplikasi data dan meningkatkan akurasi analisis fiskal. Oleh sebab itu, modern, terintegrasi, dan ditopang sarana strategis adalah karakteristiknya.",
         "bedah_pengecoh": {
-          "A": "Merupakan ego sektoral fragmentasi data yang menghambat konsolidasi laporan.",
-          "B": "Merupakan elitisme pemanfaatan sistem yang membatasi efisiensi kerja operasional.",
-          "C": "Merupakan pengabaian keamanan siber yang membahayakan kerahasiaan keuangan negara.",
-          "E": "Merupakan perluasan fungsi teknologi yang keliru melampaui kewenangan hukum."
+          "A": "Kurang tepat karena desentralisasi web lokal bertentangan dengan prinsip keterpaduan basis data nasional.",
+          "B": "Kurang tepat karena aplikasi terbuka memiliki risiko kerentanan keamanan terhadap kerahasiaan data fiskal.",
+          "C": "Kurang tepat karena kecerdasan buatan merupakan salah satu fitur pengembangan teknologi mutakhir dinas.",
+          "D": "Merupakan rumusan baku karakteristik misi pengembangan teknologi informasi secara konseptual modul.",
+          "E": "Kurang tepat karena otomatis dan berorientasi pengguna merupakan karakteristik umum antarmuka sistem."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1517,7 +1543,7 @@
       "halaman_sumber": 30,
       "kata_kunci_modul": [
         "Agus Dermawan Mintarto Martowardojo",
-        "Menteri Keuangan periode 2010-2013"
+        "Menteri Keuangan"
       ],
       "topik_materi": "Menteri Keuangan Pencetus Nilai Bersama",
       "level_kognitif": "C2 - Pemahaman",
@@ -1546,8 +1572,8 @@
       "nomor": 52,
       "halaman_sumber": 30,
       "kata_kunci_modul": [
-        "punya segudang pengalaman mengelola berbagai institusi korporasi",
-        "khususnya perbankan"
+        "punya segudang pengalaman",
+        "perbankan, mencetuskan ide untuk"
       ],
       "topik_materi": "Latar Belakang Pengalaman Menteri Pencetus",
       "level_kognitif": "C2 - Pemahaman",
@@ -1576,8 +1602,8 @@
       "nomor": 53,
       "halaman_sumber": 30,
       "kata_kunci_modul": [
-        "mencetuskan ide untuk merumuskan nilai-nilai organisasi Kementerian Keuangan",
-        "setelah mengamati terjadinya variasi nilai dari Eselon-Eselon I"
+        "mencetuskan ide untuk merumuskan nilai-nilai",
+        "terjadinya variasi nilai dari Eselon-Eselon"
       ],
       "topik_materi": "Pemicu Awal Perumusan Nilai Kemenkeu",
       "level_kognitif": "C2 - Pemahaman",
@@ -1608,7 +1634,7 @@
       "kata_kunci_modul": [
         "tidak ingin setiap unit Eselon I",
         "berjalan sendiri-sendiri",
-        "tidak menyatu sebagai satu kesatuan organisasi Kementerian Keuangan"
+        "tidak menyatu sebagai satu kesatuan"
       ],
       "topik_materi": "Kekhawatiran Utama Menteri Keuangan",
       "level_kognitif": "C4 - Analisis",
@@ -1638,7 +1664,7 @@
       "halaman_sumber": 30,
       "kata_kunci_modul": [
         "Pada tahun 2011, Agus Martowardojo mengumpulkan",
-        "untuk melakukan brainstorming penggalian nilai-nilai"
+        "untuk melakukan brainstorming"
       ],
       "topik_materi": "Tahun Pelaksanaan Brainstorming Perumusan Nilai",
       "level_kognitif": "C2 - Pemahaman",
@@ -1667,8 +1693,8 @@
       "nomor": 56,
       "halaman_sumber": 30,
       "kata_kunci_modul": [
-        "yang berjumlah 76 pejabat, untuk melakukan brainstorming",
-        "Mengingat nilai-nilai yang sedang dirumuskan adalah sesuatu yang sangat penting"
+        "berjumlah 76 pejabat, untuk melakukan",
+        "sedang dirumuskan adalah sesuatu yang"
       ],
       "topik_materi": "Jumlah Pejabat Perumus Nilai Kemenkeu",
       "level_kognitif": "C2 - Pemahaman",
@@ -1697,7 +1723,7 @@
       "nomor": 57,
       "halaman_sumber": 30,
       "kata_kunci_modul": [
-        "mengumpulkan Wakil Menteri Keuangan, seluruh pejabat Eselon I",
+        "pejabat Eselon I",
         "perwakilan pejabat Eselon II dari masing-masing unit"
       ],
       "topik_materi": "Komposisi Pejabat Perumus Nilai Bersama",
@@ -1727,7 +1753,7 @@
       "nomor": 58,
       "halaman_sumber": 30,
       "kata_kunci_modul": [
-        "bekerja mulai jam 08.00 pagi sampai disepakatinya Nilai-Nilai Kementerian Keuangan tersebut sekitar jam 01.00 dini hari",
+        "bekerja mulai jam 08.00 pagi",
         "selama sekitar 17 jam tanpa henti"
       ],
       "topik_materi": "Durasi Waktu Brainstorming Perumusan",
@@ -1757,8 +1783,8 @@
       "nomor": 59,
       "halaman_sumber": 30,
       "kata_kunci_modul": [
-        "Akhirnya, mereka menyepakati 5 Nilai Kementerian Keuangan",
-        "yang kita kenal saat ini"
+        "mereka menyepakati 5 Nilai Kementerian",
+        "kita kenal saat ini"
       ],
       "topik_materi": "Hasil Kesepakatan Jumlah Nilai Kemenkeu",
       "level_kognitif": "C2 - Pemahaman",
@@ -1788,7 +1814,7 @@
       "halaman_sumber": 30,
       "kata_kunci_modul": [
         "dituangkan dalam Keputusan Menteri Keuangan Nomor",
-        "312/KMK.01/2011 tentang Nilai-Nilai Kementerian Keuangan"
+        "Nilai-Nilai Kementerian Keuangan"
       ],
       "topik_materi": "Regulasi Penetapan Nilai-Nilai Kemenkeu",
       "level_kognitif": "C2 - Pemahaman",
@@ -1817,28 +1843,29 @@
       "nomor": 61,
       "halaman_sumber": 31,
       "kata_kunci_modul": [
-        "tidak akan bermakna sama sekali jika tidak diimplementasikan",
+        "tidak akan bermakna sama sekali",
         "atau tidak diterapkan dalam kehidupan sehari-hari"
       ],
       "topik_materi": "Urgensi Implementasi Nyata Nilai Bersama",
       "level_kognitif": "C2 - Pemahaman",
-      "pertanyaan": "Dalam penguatan budaya kerja, nilai-nilai organisasi tidak akan bermakna sama sekali apabila...",
+      "pertanyaan": "Dalam pembinaan budaya kerja, nilai-nilai organisasi tidak akan bermakna sama sekali apabila...",
       "pilihan": {
         "A": "Tidak diimplementasikan dalam kehidupan sehari-hari",
-        "B": "Tidak dicantumkan dalam pedoman kerja fisik",
-        "C": "Dihafalkan oleh jajaran pimpinan tertinggi kementerian",
-        "D": "Tidak dipublikasikan ke media massa komersial luas",
-        "E": "Diberlakukan tanpa adanya tunjangan kinerja tambahan"
+        "B": "Tidak didukung oleh alokasi sarana prasarana kerja",
+        "C": "Tidak dituangkan dalam modul pembelajaran pegawai",
+        "D": "Tidak disosialisasikan secara berkala oleh pimpinan",
+        "E": "Tidak diujikan dalam penilaian kompetensi berkala"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
-        "konsep_materi": "Nilai-nilai yang sudah digali dan dirumuskan **tidak akan bermakna sama sekali jika tidak diimplementasikan atau tidak diterapkan dalam kehidupan sehari-hari** oleh para pemangku kepentingan.",
-        "alasan_kunci": "Opsi A merupakan jawaban yang tepat tentang hakikat keberfungsian nilai organisasi. Nilai luhur bukanlah sekadar teks pajangan atau dokumen administratif, melainkan harus menjelma dalam perilaku dan keputusan nyata aparatur setiap hari. Prinsip kerja menyatakan tegas bahwa tanpa implementasi harian, nilai organisasi kehilangan seluruh maknanya. Dengan demikian, opsi A adalah simpulan yang benar.",
+        "konsep_materi": "Nilai-nilai yang sudah dirumuskan **tidak akan bermakna sama sekali jika tidak diimplementasikan atau tidak diterapkan dalam kehidupan sehari-hari**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat karena nilai organisasi bukan sekadar pajangan slogan administratif, melainkan penuntun perilaku moral dan operasional nyata di lingkungan dinas. Keberhasilan budaya kerja diukur dari sejauh mana nilai tersebut diamalkan dalam setiap tindakan dan pengambilan keputusan aparatur. Dengan demikian, penerapan harian adalah penentu utama kebermaknaan nilai.",
         "bedah_pengecoh": {
-          "B": "Merupakan publikasi fisik yang sekadar sarana sosialisasi luar.",
-          "C": "Merupakan penguasaan hafalan pimpinan yang tidak mencukupi tanpa praktik seluruh staf.",
-          "D": "Merupakan publikasi pers yang bukan penentu utama keberhasilan internalisasi nilai.",
-          "E": "Merupakan kompensasi materiil yang tidak boleh menjadi syarat pelaksanaan etika."
+          "A": "Merupakan penegasan substantif mengenai urgensi penerapan nilai bersama sebagaimana secara normatif.",
+          "B": "Kurang tepat karena sarana prasarana merupakan pendukung fisik, bukan penentu esensi hidupnya nilai.",
+          "C": "Kurang tepat karena modul pembelajaran merupakan media sosialisasi transfer pengetahuan nilai.",
+          "D": "Kurang tepat karena sosialisasi pimpinan merupakan metode penyebaran pemahaman konsep budaya kerja.",
+          "E": "Kurang tepat karena uji kompetensi merupakan instrumen formal evaluasi pemahaman regulasi dinas."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1849,7 +1876,7 @@
       "kata_kunci_modul": [
         "diwujudkan dalam kaidah-kaidah perilaku utama",
         "keputusan kedua",
-        "kaidah-kaidah perilaku utama dari setiap nilai"
+        "kaidah-kaidah perilaku utama dari"
       ],
       "topik_materi": "Perwujudan Nilai dalam KMK 312/2011",
       "level_kognitif": "C2 - Pemahaman",
@@ -1879,27 +1906,28 @@
       "halaman_sumber": 31,
       "kata_kunci_modul": [
         "setiap pimpinan dan seluruh Pegawai Negeri Sipil",
-        "wajib melaksanakan tugas pokok dan fungsinya dengan mendasarkan pada nilai-nilai"
+        "wajib melaksanakan tugas pokok dan"
       ],
       "topik_materi": "Kewajiban Pelaksanaan Tugas Berdasar Nilai",
       "level_kognitif": "C3 - Aplikasi",
-      "pertanyaan": "Diktum ketiga KMK Nomor 312/KMK.01/2011 mewajibkan pelaksanaan tugas pokok dan fungsi berlandaskan nilai bagi...",
+      "pertanyaan": "Diktum ketiga KMK Nomor 312/KMK.01/2011 mewajibkan pelaksanaan tugas pokok berlandaskan nilai bagi...",
       "pilihan": {
-        "A": "Pegawai pada bagian pengawasan kepatuhan internal saja",
-        "B": "Setiap pimpinan dan seluruh Pegawai Negeri Sipil Kemenkeu",
-        "C": "Pejabat eselon yang bertugas di kantor pusat kementerian",
-        "D": "Tenaga kerja kontrak bantuan administrasi di kantor dinas",
-        "E": "Aparatur yang sedang menjalani masa hukuman disipliner"
+        "A": "Pejabat struktural eselon satu dan eselon dua",
+        "B": "Setiap pimpinan dan seluruh Pegawai Negeri Sipil",
+        "C": "Pejabat fungsional pemeriksa dan auditor dinas",
+        "D": "Aparatur yang bertugas pada seksi pelayanan loket",
+        "E": "Seluruh agen perubahan di tingkat satuan kerja"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
-        "konsep_materi": "Dalam keputusan ketiga disebutkan bahwa **setiap pimpinan dan seluruh Pegawai Negeri Sipil di lingkungan Kementerian Keuangan wajib melaksanakan tugas pokok dan fungsinya dengan mendasarkan pada nilai-nilai** dan kaidah perilaku utama.",
-        "alasan_kunci": "Opsi B merupakan jawaban yang tepat mengenai subjek yang terikat kewajiban nilai organisasi. Kewajiban menjunjung nilai berlaku menyeluruh tanpa kecuali, mengikat mulai dari level pimpinan tertinggi hingga seluruh staf aparatur di manapun bertugas. Dalam pedoman etika, subjek kewajiban tersebut adalah setiap pimpinan dan seluruh PNS Kemenkeu. Dengan demikian, opsi B adalah subjek hukum yang benar.",
+        "konsep_materi": "Dalam keputusan ketiga KMK 312/2011 disebutkan bahwa **setiap pimpinan dan seluruh Pegawai Negeri Sipil di lingkungan Kementerian Keuangan wajib melaksanakan tugas pokok dan fungsinya dengan mendasarkan pada nilai-nilai dan kaidah perilaku utama**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat karena kewajiban menjunjung tinggi nilai kementerian mengikat seluruh jajaran pegawai tanpa terkecuali, mulai dari pejabat tertinggi hingga pelaksana. Keterikatan universal ini menjamin terbentuknya budaya integritas yang merata di seluruh lini organisasi kementerian. Oleh karena itu, pimpinan dan seluruh PNS adalah subjek wajib pelaksanaan nilai.",
         "bedah_pengecoh": {
-          "A": "Merupakan unit pengawasan yang membatasi kewajiban seolah unit lain terbebas.",
-          "C": "Merupakan pejabat pusat yang mengabaikan pegawai kantor pelayanan daerah.",
-          "D": "Merupakan tenaga pendukung yang bukan subjek utama penyebutan keputusan ketiga.",
-          "E": "Merupakan aparatur terhukum yang mempersempit ruang lingkup kewajiban umum ASN."
+          "A": "Kurang tepat karena kewajiban tidak terbatas pada pejabat eselon struktural saja, melainkan seluruh aparatur.",
+          "B": "Merupakan bunyi eksplisit diktum keputusan ketiga KMK Nomor 312/KMK.01/2011 sebagaimana dalam ketentuan kementerian.",
+          "C": "Kurang tepat karena pejabat fungsional auditor merupakan salah satu rumpun jabatan di kementerian.",
+          "D": "Kurang tepat karena petugas pelayanan loket hanyalah sebagian dari seluruh aparatur sipil negara kementerian.",
+          "E": "Kurang tepat karena agen perubahan merupakan penggerak budaya, sedangkan kewajiban nilai mengikat semua."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -1938,8 +1966,8 @@
       "nomor": 65,
       "halaman_sumber": 31,
       "kata_kunci_modul": [
-        "dikoordinasi oleh Sekretariat Jenderal Kementerian Keuangan dan",
-        "dibantu oleh seluruh pimpinan unit Eselon I di Kementerian Keuangan"
+        "Sekretariat Jenderal Kementerian Keuangan dan",
+        "dibantu oleh seluruh pimpinan unit"
       ],
       "topik_materi": "Peran Pimpinan Unit Eselon I dalam Internalisasi",
       "level_kognitif": "C3 - Aplikasi",
@@ -1969,7 +1997,7 @@
       "halaman_sumber": 31,
       "kata_kunci_modul": [
         "Keputusan Menteri Keuangan Nomor 127/KMK.01/2013 tentang",
-        "Program Budaya di lingkungan Kementerian Keuangan tahun 2013"
+        "di lingkungan Kementerian Keuangan tahun"
       ],
       "topik_materi": "Materi Muatan KMK Nomor 127/KMK.01/2013",
       "level_kognitif": "C2 - Pemahaman",
@@ -1999,7 +2027,7 @@
       "halaman_sumber": 31,
       "kata_kunci_modul": [
         "Instruksi Menteri Keuangan Nomor 346/IMK.01/2017 tentang",
-        "Gerakan Efisiensi sebagai bagian implementasi penguatan budaya"
+        "sebagai bagian implementasi penguatan budaya"
       ],
       "topik_materi": "Materi Muatan IMK Nomor 346/IMK.01/2017",
       "level_kognitif": "C2 - Pemahaman",
@@ -2028,8 +2056,8 @@
       "nomor": 68,
       "halaman_sumber": 31,
       "kata_kunci_modul": [
-        "Penerapan Nilai-Nilai Kementerian Keuangan dan Kode Etik sebagai",
-        "Early Warning System di lingkungan Kementerian Keuangan"
+        "Early Warning System",
+        "SE-12/MK.1/2018"
       ],
       "topik_materi": "Fungsi Nilai sebagai Early Warning System",
       "level_kognitif": "C4 - Analisis",
@@ -2037,19 +2065,19 @@
       "pilihan": {
         "A": "Materi tunggal ujian kenaikan pangkat kedinasan",
         "B": "Early Warning System deteksi dini pelanggaran",
-        "C": "Alasan penundaan kenaikan gaji berkala pegawai",
+        "C": "Instrumen evaluasi beban kerja harian pegawai",
         "D": "Dasar penghitungan anggaran tunjangan hari raya",
         "E": "Kriteria kelulusan pelatihan dasar prajabatan PNS"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
-        "konsep_materi": "Surat Edaran Nomor SE-12/MK.1/2018 mengatur tentang Penerapan Nilai-Nilai Kementerian Keuangan dan Kode Etik sebagai **Early Warning System (EWS) di lingkungan Kementerian Keuangan**.",
-        "alasan_kunci": "Opsi B merupakan jawaban yang tepat untuk peran strategis pencegahan pelanggaran di Kemenkeu. Penerapan nilai dijadikan sistem peringatan dini agar potensi penyimpangan perilaku, radikalisme, atau pelanggaran disiplin dapat dicegah sebelum menimbulkan kerusakan moral dan hukum. Dalam pedoman etika, SE-12/2018 memfungsikannya sebagai Early Warning System. Maka dari itu, opsi B adalah fungsi yang tepat.",
+        "konsep_materi": "Berdasarkan **Surat Edaran Nomor SE-12/MK.1/2018**, penerapan nilai-nilai dan kode etik difungsikan sebagai **Early Warning System** guna mendeteksi secara dini potensi pelanggaran.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Surat Edaran Menteri Keuangan tersebut secara eksplisit memfungsikan pengawasan nilai dan kode etik sebagai sistem peringatan dini (Early Warning System) di unit kerja. Mekanisme ini dirancang untuk mencegah terjadinya penyimpangan sebelum menjadi pelanggaran disiplin yang lebih berat.",
         "bedah_pengecoh": {
-          "A": "Merupakan instrumen ujian kompetensi yang sekadar salah satu bagian evaluasi ASN.",
-          "C": "Merupakan penalti hukuman disipliner yang bukan tujuan preventif dari sistem EWS.",
-          "D": "Merupakan hak keuangan pegawai yang perhitungannya diatur peraturan pemerintah.",
-          "E": "Merupakan kurikulum diklat prajabatan yang berada di bawah kewenangan LAN dan BPPK."
+          "A": "Ujian dinas memiliki instrumen kurikulum evaluasi tersendiri.",
+          "C": "Beban kerja dinilai melalui instrumen analisis beban kerja.",
+          "D": "Tunjangan hari raya dihitung berdasarkan regulasi keuangan negara.",
+          "E": "Kelulusan pelatihan dasar mengacu pada pedoman kurikulum diklat."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2059,7 +2087,7 @@
       "halaman_sumber": 31,
       "kata_kunci_modul": [
         "Surat Edaran Nomor SE-12/MK.1/2018 dari",
-        "Sekretaris Jenderal Kementerian Keuangan"
+        "Sekretaris Jenderal Kementerian"
       ],
       "topik_materi": "Pejabat Penerbit Surat Edaran EWS",
       "level_kognitif": "C2 - Pemahaman",
@@ -2088,28 +2116,29 @@
       "nomor": 70,
       "halaman_sumber": 31,
       "kata_kunci_modul": [
-        "Penguatan Internalisasi Nilai-Nilai Kementerian Keuangan",
+        "Penguatan Internalisasi Nilai-Nilai Kementerian",
         "melalui Budaya Organisasi"
       ],
       "topik_materi": "Wahana Penguatan Internalisasi Nilai",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Penguatan internalisasi Nilai-Nilai Kementerian Keuangan secara terstruktur dilakukan melalui wahana...",
       "pilihan": {
-        "A": "Penurunan tarif pajak penghasilan badan usaha",
-        "B": "Pengalihan seluruh aset kantor kepada pemerintah daerah",
-        "C": "Pembudayaan melalui budaya organisasi yang hidup",
-        "D": "Peniadaan rapat koordinasi antarunit eselon kementerian",
-        "E": "Perekrutan tenaga kerja lepas tanpa kontrak resmi"
+        "A": "Standardisasi kurikulum diklat kepemimpinan aparatur",
+        "B": "Evaluasi berkala terhadap peta proses bisnis kantor",
+        "C": "Penguatan budaya organisasi yang hidup dan dinamis",
+        "D": "Penyusunan kontrak kinerja tahunan berbasis output",
+        "E": "Optimalisasi sistem reward and punishment kepegawaian"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Penguatan internalisasi Nilai-Nilai Kementerian Keuangan dilaksanakan **melalui Budaya Organisasi**.",
-        "alasan_kunci": "Opsi C merupakan jawaban yang tepat untuk sarana penanaman nilai ke dalam sanubari pegawai. Nilai hanya akan mendarah daging jika diubah menjadi kebiasaan sosial bersama yang dipraktikkan berulang kali dalam budaya kerja kantor sehari-hari. Sesuai strategi internalisasi, penguatan internalisasi dilaksanakan melalui budaya organisasi. Dengan demikian, opsi C adalah jawaban yang benar.",
+        "konsep_materi": "Penguatan internalisasi Nilai-Nilai Kementerian Keuangan secara terstruktur dilakukan **melalui Budaya Organisasi**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat karena budaya kerja organisasi menyediakan wahana pembiasaan hal-hal positif serta internalisasi kaidah perilaku utama dalam aktivitas harian aparatur. Melalui budaya kerja yang sehat, nilai-nilai kementerian bertransformasi menjadi norma kerja yang mengakar secara alamiah. Dengan demikian, budaya organisasi adalah wahana penguatan internalisasi.",
         "bedah_pengecoh": {
-          "A": "Merupakan kebijakan perpajakan fiskal yang tidak berkaitan dengan internalisasi nilai.",
-          "B": "Merupakan hibah aset barang milik negara yang berada di luar ranah budaya organisasi.",
-          "D": "Merupakan penghapusan koordinasi yang justru merusak komunikasi internal instansi.",
-          "E": "Merupakan pengadaan tenaga kerja ilegal yang melanggar ketentuan perundang-undangan."
+          "A": "Kurang tepat karena kurikulum diklat kepemimpinan merupakan sarana pendidikan formal manajerial SDM.",
+          "B": "Kurang tepat karena evaluasi peta proses bisnis berfokus pada penyempurnaan alur tata kelola kerja.",
+          "C": "Merupakan wahana utama penguatan internalisasi nilai-nilai kementerian sebagaimana tercantum di modul.",
+          "D": "Kurang tepat karena penyusunan kontrak kinerja tahunan berkaitan dengan pengukuran target tugas individu.",
+          "E": "Kurang tepat karena sistem reward and punishment merupakan instrumen motivasi kedisiplinan pegawai."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2119,7 +2148,7 @@
       "halaman_sumber": 32,
       "kata_kunci_modul": [
         "Peraturan Menteri Keuangan Republik Indonesia Nomor 190/PMK.01/2018",
-        "Kode Etik dan Kode Perilaku Pegawai Negeri Sipil di lingkungan Kementerian Keuangan"
+        "Kode Etik dan Kode Perilaku"
       ],
       "topik_materi": "Materi Muatan PMK Nomor 190/PMK.01/2018",
       "level_kognitif": "C2 - Pemahaman",
@@ -2149,7 +2178,7 @@
       "halaman_sumber": 32,
       "kata_kunci_modul": [
         "Keputusan Menteri Keuangan Nomor 429/KMK.01/2022 tentang",
-        "Penguatan Budaya di lingkungan Kementerian Keuangan"
+        "Budaya di lingkungan Kementerian Keuangan"
       ],
       "topik_materi": "Materi Muatan KMK Nomor 429/KMK.01/2022",
       "level_kognitif": "C2 - Pemahaman",
@@ -2179,7 +2208,7 @@
       "halaman_sumber": 32,
       "kata_kunci_modul": [
         "Surat Edaran Nomor SE-15/MK.1/2022 tentang",
-        "Panduan Pelaksanaan Penguatan Budaya di lingkungan Kementerian Keuangan"
+        "Budaya di lingkungan Kementerian Keuangan"
       ],
       "topik_materi": "Materi Muatan SE-15/MK.1/2022",
       "level_kognitif": "C2 - Pemahaman",
@@ -2208,28 +2237,29 @@
       "nomor": 74,
       "halaman_sumber": 32,
       "kata_kunci_modul": [
-        "perlu dilaksanakan oleh seluruh Pegawai Negeri Sipil dan",
-        "Calon Pegawai Negeri Sipil di lingkungan Kementerian Keuangan"
+        "perlu dilaksanakan oleh seluruh",
+        "Calon Pegawai Negeri Sipil di"
       ],
       "topik_materi": "Sasaran Program Budaya dalam KMK 127/2013",
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Program Budaya yang diatur dalam KMK Nomor 127/KMK.01/2013 wajib dilaksanakan oleh...",
       "pilihan": {
-        "A": "Pegawai berstatus eselon satu dan eselon dua saja",
-        "B": "Tenaga honorer kebersihan dan keamanan gedung dinas",
+        "A": "Pejabat struktural pemegang wewenang otorisasi anggaran",
+        "B": "Pegawai yang bertugas pada bagian kepegawaian dan umum",
         "C": "Seluruh Pegawai Negeri Sipil dan Calon Pegawai Negeri Sipil",
-        "D": "Aparatur sipil negara yang bertugas di bagian pelayanan",
-        "E": "Pejabat fungsional perbendaharaan yang telah bersertifikat"
+        "D": "Tenaga analis kebijakan dan fungsional perbendaharaan",
+        "E": "Aparatur sipil negara di lingkungan kantor wilayah daerah"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
         "konsep_materi": "KMK Nomor 127/KMK.01/2013 berisi tentang Program Budaya yang perlu dilaksanakan oleh **seluruh Pegawai Negeri Sipil dan Calon Pegawai Negeri Sipil di lingkungan Kementerian Keuangan**.",
-        "alasan_kunci": "Opsi C merupakan jawaban yang tepat mengenai cakupan sasaran aparatur pada program budaya kerja. Penanaman kebiasaan positif harus dimulai sejak hari pertama aparatur bergabung, sehingga mengikat baik pegawai tetap (PNS) maupun yang masih berstatus calon (CPNS). Sesuai ketentuan pembinaan, program budaya wajib dijalankan oleh seluruh PNS dan CPNS Kemenkeu. Dengan demikian, opsi C adalah sasaran yang benar.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat karena pembiasaan etika kerja dan disiplin ditanamkan sejak dini kepada CPNS serta diwajibkan kepada seluruh PNS kementerian tanpa diskriminasi jabatan. Inklusivitas sasaran program budaya memastikan tidak ada satupun insan aparatur yang luput dari pembinaan karakter. Oleh sebab itu, seluruh PNS dan CPNS adalah sasaran wajib pelaksanaan program budaya.",
         "bedah_pengecoh": {
-          "A": "Merupakan pejabat pimpinan tinggi yang membatasi kewajiban tanpa menyentuh pelaksana.",
-          "B": "Merupakan tenaga pendukung alih daya yang bukan aparatur sipil negara kementerian.",
-          "D": "Merupakan unit pelayanan publik yang mengabaikan pegawai di unit pendukung internal.",
-          "E": "Merupakan kelompok fungsional tertentu yang tidak mencakup seluruh korps pegawai."
+          "A": "Kurang tepat karena pemegang otorisasi anggaran merupakan pejabat struktural perbendaharaan tertentu.",
+          "B": "Kurang tepat karena bagian kepegawaian merupakan unit pengelola administrasi SDM satuan kerja.",
+          "C": "Merupakan subjek hukum wajib yang diatur secara eksplisit dalam naskah KMK Nomor 127/KMK.01/2013.",
+          "D": "Kurang tepat karena analis kebijakan dan fungsional merupakan kelompok jabatan fungsional keahlian.",
+          "E": "Kurang tepat karena kewajiban berlaku menyeluruh di kantor pusat maupun kantor vertikal daerah."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2243,23 +2273,24 @@
       ],
       "topik_materi": "Pertimbangan Filosofis Program Budaya",
       "level_kognitif": "C4 - Analisis",
-      "pertanyaan": "Pertimbangan filosofis dibentuknya program budaya kerja dalam pembiasaan etika kerja adalah...",
+      "pertanyaan": "Pertimbangan filosofis dibentuknya program budaya kerja dalam pembiasaan etika kerja pegawai adalah...",
       "pilihan": {
-        "A": "Kepatuhan pegawai ditegakkan melalui ancaman sanksi denda",
-        "B": "Aparatur negara membutuhkan pencitraan berkala di publik",
-        "C": "Kebijakan birokrasi wajib diselaraskan dengan tren media",
-        "D": "Perilaku pegawai harus diawasi menggunakan kamera siber",
-        "E": "Kebaikan yang berulang-ulang akan membentuk kebiasaan"
+        "A": "Penegakan disiplin waktu menjamin keteraturan tugas",
+        "B": "Penerapan tata tertib seragam memelihara citra korps",
+        "C": "Komitmen bersama pimpinan mempercepat perubahan pola kerja",
+        "D": "Pembentukan change agent memperkuat sinergi organisasi",
+        "E": "Kebaikan yang berulang-ulang akan menjadi suatu kebiasaan"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
-        "konsep_materi": "Pemikiran yang dijadikan pertimbangan adalah **bahwa dengan melakukan kebaikan-kebaikan yang berulang, maka kegiatan yang dilakukan para pegawai akan menjadi kebiasaan**.",
-        "alasan_kunci": "Opsi E merupakan jawaban yang tepat mengenai dasar psikologi pembentukan karakter organisasi. Perubahan perilaku bermula dari tindakan positif terencana yang dipraktikkan secara konsisten hingga terinternalisasi secara alami menjadi tabiat luhur. Pedoman kerja menerangkan bahwa kebaikan yang berulang-ulang akan melahirkan kebiasaan hidup. Oleh sebab itu, opsi E merupakan landasan pemikiran yang tepat.",
+        "konsep_materi": "Pemikiran yang dijadikan pertimbangan adalah bahwa **dengan melakukan kebaikan-kebaikan yang berulang, maka kegiatan yang dilakukan para pegawai akan menjadi kebiasaan**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat karena pembentukan karakter aparatur tidak dapat terwujud instan, melainkan melalui proses pengulangan perilaku kebajikan secara konsisten setiap hari. Ketika perbuatan baik telah menjadi kebiasaan alamiah, integritas kerja akan otomatis terpelihara tanpa perlu pengawasan ketat. Dengan demikian, kebaikan berulang yang menjadi kebiasaan adalah filosofi dasarnya.",
         "bedah_pengecoh": {
-          "A": "Merupakan pendekatan punitif yang mengabaikan kesadaran intrinsik pegawai.",
-          "B": "Merupakan orientasi pencitraan eksternal yang bukan tujuan hakiki budaya kerja.",
-          "C": "Merupakan sikap terbawa arus tren yang mengaburkan nilai luhur dasar kementerian.",
-          "D": "Merupakan pengawasan mekanis yang tidak membangun integritas batin pegawai."
+          "A": "Kurang tepat karena keteraturan tugas merupakan salah satu manfaat teknis penegakan disiplin waktu.",
+          "B": "Kurang tepat karena memelihara citra korps merupakan dampak positif dari ketertiban pakaian seragam.",
+          "C": "Kurang tepat karena komitmen pimpinan merupakan faktor pendorong akselerasi transformasi birokrasi.",
+          "D": "Kurang tepat karena change agent merupakan instrumen penggerak budaya pada satuan kerja kantor.",
+          "E": "Merupakan landasan pemikiran filosofis program budaya sebagaimana dirumuskan secara tegas dalam modul."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2268,7 +2299,7 @@
       "nomor": 76,
       "halaman_sumber": 32,
       "kata_kunci_modul": [
-        "Program budaya yang diatur dalam KMK tentang Program Budaya di atas meliputi",
+        "budaya yang diatur dalam KMK",
         "Penerapan disiplin dalam waktu",
         "Penerapan disiplin dalam berpakaian",
         "Penerapan “5 Must”"
@@ -2338,20 +2369,21 @@
       "pertanyaan": "Ketentuan mengenai 'Two minutes before schedule' pada butir kedua program 5 Must bermakna...",
       "pilihan": {
         "A": "Hadir dua menit sebelum jadwal yang ditentukan",
-        "B": "Menyelesaikan seluruh rapat tepat dalam dua menit",
-        "C": "Mengirimkan laporan tertulis dua menit pasca kegiatan",
-        "D": "Mengambil jeda istirahat selama dua menit saat bekerja",
-        "E": "Membatasi waktu pelayanan pemohon maksimal dua menit"
+        "B": "Membaca risalah rapat dua menit sebelum dimulai",
+        "C": "Menyiapkan perlengkapan tugas dua menit lebih awal",
+        "D": "Mengonfirmasi kehadiran dinas dua menit sebelum apel",
+        "E": "Menyelesaikan disposisi surat dua menit sebelum tenggat"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
-        "konsep_materi": "Butir kedua dalam 5 Must adalah **Two minutes before schedule (hadir dua menit sebelum jadwal)**.",
-        "alasan_kunci": "Opsi A merupakan jawaban yang tepat untuk makna disiplin waktu pada butir kedua. Kebiasaan hadir beberapa saat sebelum acara dimulai melatih kesiapan mental, ketertiban administrasi, dan rasa hormat kepada pihak lain. Makna butir keteladanan ini adalah hadir dua menit sebelum jadwal. Maka dari itu, opsi A menyajikan pengertian yang tepat.",
+        "konsep_materi": "Butir kedua program 5 Must adalah **Two minutes before schedule (hadir dua menit sebelum jadwal)**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat karena pembiasaan hadir lebih awal melatih kedisiplinan tinggi, kesiapan mental, serta bentuk penghormatan terhadap waktu rekan kerja dan pemangku kepentingan. Ketepatan waktu menjamin setiap agenda rapat maupun pelayanan dinas dapat dimulai persis sesuai jadwal. Oleh karena itu, hadir dua menit sebelum jadwal adalah makna harfiahnya.",
         "bedah_pengecoh": {
-          "B": "Merupakan pemotongan waktu rapat yang mustahil menuntaskan pembahasan dinas.",
-          "C": "Merupakan batas pelaporan tergesa-gesa yang mengabaikan akurasi penulisan.",
-          "D": "Merupakan waktu jeda istirahat yang bukan maksud butir ketepatan waktu hadir.",
-          "E": "Merupakan pembatasan layanan yang keliru dan berisiko menurunkan mutu solusi."
+          "A": "Merupakan arti dan maksud eksplisit butir kedua program 5 Must dalam ketentuan program kerja.",
+          "B": "Kurang tepat karena membaca risalah rapat merupakan langkah persiapan materi sebelum agenda dimulai.",
+          "C": "Kurang tepat karena menyiapkan perlengkapan tugas merupakan wujud kesiapan operasional kerja.",
+          "D": "Kurang tepat karena konfirmasi kehadiran dinas merupakan bagian dari tertib absensi kepegawaian.",
+          "E": "Kurang tepat karena penyelesaian disposisi surat berkaitan dengan ketepatan waktu tata persuratan."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2420,28 +2452,29 @@
       "nomor": 81,
       "halaman_sumber": 33,
       "kata_kunci_modul": [
-        "simbol-simbol Nilai-Nilai Kementerian yang dipasang di tempat-tempat yang sering dilewati pegawai",
-        "pintu gerbang kantor, koridor kantor, dinding ruang kerja, meja kerja"
+        "simbol-simbol Nilai-Nilai Kementerian yang dipasang",
+        "pintu gerbang kantor, koridor kantor,"
       ],
       "topik_materi": "Titik Pemasangan Simbol Fisik Nilai",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Simbol fisik Nilai-Nilai Kementerian Keuangan dipasang pada area yang sering dilewati pegawai seperti...",
       "pilihan": {
-        "A": "Pintu gerbang, koridor, dinding ruang kerja, dan meja kerja",
-        "B": "Gudang arsip mati bawah tanah yang terkunci secara rapat",
-        "C": "Ruang brankas penyimpanan surat berharga negara rahasia",
-        "D": "Pagar batas terluar kompleks perumahan dinas pejabat",
-        "E": "Kantin swasta di luar lingkungan kantor kementerian"
+        "A": "Pintu gerbang kantor, koridor, dinding, dan meja kerja",
+        "B": "Ruang sidang pimpinan, perpustakaan, dan aula utama",
+        "C": "Ruang arsip berkas, pos penjagaan, dan tempat parkir",
+        "D": "Loket pelayanan umum, ruang tunggu, dan serambi depan",
+        "E": "Ruang rapat koordinasi, laboratorium komputer, dan teras"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
-        "konsep_materi": "Simbol-simbol nilai kementerian dipasang di tempat yang sering dilewati pegawai seperti di **pintu gerbang kantor, koridor kantor, dinding ruang kerja, meja kerja, dan sebagainya**.",
-        "alasan_kunci": "Opsi A merupakan jawaban yang tepat mengenai letak penempatan media visual nilai organisasi. Peletakan di titik-titik lintas harian bertujuan memberikan pengingat visual (*visual reminder*) secara berkelanjutan agar nilai senantiasa diresapi dalam kesadaran pegawai. Pedoman kerja pembiasaan budaya difokuskan pada area gerbang, koridor, dinding, hingga meja kerja. Oleh sebab itu, opsi A menyajikan lokasi yang tepat.",
+        "konsep_materi": "Simbol-simbol Nilai-Nilai Kementerian dipasang di tempat-tempat yang sering dilewati pegawai seperti di **pintu gerbang kantor, koridor kantor, dinding ruang kerja, meja kerja**, dan sebagainya.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat karena penempatan simbol nilai pada titik-titik lintasan harian pegawai berfungsi sebagai pengingat visual yang terus-menerus terhadap komitmen kode etik kementerian. Kekerapan melihat simbol nilai memperkuat proses internalisasi nilai secara bawah sadar dalam bekerja. Dengan demikian, pintu gerbang, koridor, dinding, dan meja kerja adalah lokasi pemasangannya.",
         "bedah_pengecoh": {
-          "B": "Merupakan ruang penyimpanan tertutup yang jarang diakses oleh seluruh pegawai.",
-          "C": "Merupakan area berkeamanan tinggi dengan akses sangat terbatas bagi petugas tertentu.",
-          "D": "Merupakan batas perumahan dinas yang berada di luar lingkungan operasional kantor.",
-          "E": "Merupakan fasilitas komersial eksternal yang bukan ranah resmi instansi pemerintah."
+          "A": "Merupakan rincian lokasi fisik penempatan simbol nilai sebagaimana tertulis eksplisit dalam teks modul.",
+          "B": "Kurang tepat karena perpustakaan dan aula utama merupakan area penunjang kegiatan tertentu saja.",
+          "C": "Kurang tepat karena ruang arsip dan pos penjagaan bukan merupakan titik utama perlintasan seluruh pegawai.",
+          "D": "Kurang tepat karena ruang tunggu loket pelayanan lebih ditujukan bagi masyarakat publik pengguna jasa.",
+          "E": "Kurang tepat karena laboratorium komputer dan teras merupakan fasilitas penunjang teknis kantor."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2450,28 +2483,29 @@
       "nomor": 82,
       "halaman_sumber": 33,
       "kata_kunci_modul": [
-        "berbentuk running text, baliho, tulisan-tulisan yang disangga dengan tripod",
+        "berbentuk running text, baliho, tulisan-tulisan",
         "signal-signal yang muncul di halaman utama web instansi"
       ],
       "topik_materi": "Ragam Bentuk Simbol Internalisasi Nilai",
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Variasi bentuk simbol nilai yang digunakan di lingkungan kantor kementerian meliputi media...",
       "pilihan": {
-        "A": "Spanduk komersial promosi produk perbankan swasta",
-        "B": "Brosur penawaran pinjaman dana tunai bagi pegawai",
-        "C": "Running text, baliho, tripod, dan notifikasi laman web",
-        "D": "Katalog lelang barang sitaan kepabeanan yang expired",
-        "E": "Poster kampanye politik calon kepala daerah setempat"
+        "A": "Papan pengumuman berkas, brosur cetak, dan majalah dinding",
+        "B": "Spanduk kain, stiker inventaris dinas, dan kartu pegawai",
+        "C": "Running text, baliho, standing tripod, dan sinyal web",
+        "D": "Banner digital interaktif, kalender kerja, dan plakat kayu",
+        "E": "Booklet panduan saku, selebaran dinas, dan papan petunjuk"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Simbol-simbol nilai dibuat dalam berbagai bentuk: **running text, baliho, tulisan yang disangga tripod, hingga signal-signal yang muncul di beranda utama web instansi**.",
-        "alasan_kunci": "Opsi C merupakan jawaban yang tepat mengenai sarana fisik dan digital penyampaian pesan nilai. Pemanfaatan teknologi teks berjalan, baliho, papan tripod, serta notifikasi web resmi memastikan pesan budaya menjangkau pegawai baik secara langsung di kantor maupun saat berselancar di sistem informasi. Media internalisasi mencakup variasi bentuk tersebut secara rinci. Dengan demikian, opsi C adalah ragam media yang benar.",
+        "konsep_materi": "Simbol-simbol nilai dibuat dalam berbagai bentuk seperti **running text, baliho, tulisan-tulisan yang disangga dengan tripod, hingga signal-signal yang muncul di halaman utama web instansi**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat karena pemanfaatan beragam media visual modern baik cetak maupun digital memastikan pesan nilai kementerian tersampaikan secara menarik dan dinamis. Kreativitas bentuk simbol menghindarkan pegawai dari kejenuhan visual serta memperkuat daya ingat pesan nilai. Oleh sebab itu, running text, baliho, tripod, dan notifikasi web adalah variasinya.",
         "bedah_pengecoh": {
-          "A": "Merupakan iklan niaga swasta yang dilarang dipasang sebagai media nilai dinas.",
-          "B": "Merupakan penawaran kredit keuangan yang tidak ada kaitannya dengan penguatan nilai.",
-          "D": "Merupakan materi teknis lelang bea cukai yang berada di luar ranah media nilai.",
-          "E": "Merupakan materi politis yang melanggar ketentuan netralitas mutlak aparatur negara."
+          "A": "Kurang tepat karena majalah dinding dan papan pengumuman merupakan media informasi konvensional kantor.",
+          "B": "Kurang tepat karena stiker inventaris dinas merupakan tanda registrasi barang milik negara satker.",
+          "C": "Merupakan ragam bentuk media simbol nilai kementerian sebagaimana disebutkan secara rinci dalam modul.",
+          "D": "Kurang tepat karena plakat kayu dan kalender kerja merupakan suvenir kedinasan operasional tahunan.",
+          "E": "Kurang tepat karena booklet panduan saku merupakan dokumen pegangan fisik ketentuan kedinasan."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2480,8 +2514,8 @@
       "nomor": 83,
       "halaman_sumber": 33,
       "kata_kunci_modul": [
-        "paling sering berasal dari Badan Pendidikan dan Pelatihan Keuangan",
-        "tugas pokok dan fungsinya memberikan pelatihan-pelatihan semacam itu"
+        "paling sering berasal dari Badan",
+        "tugas pokok dan fungsinya memberikan"
       ],
       "topik_materi": "Narasumber Utama In House Training (IHT)",
       "level_kognitif": "C2 - Pemahaman",
@@ -2510,8 +2544,8 @@
       "nomor": 84,
       "halaman_sumber": 33,
       "kata_kunci_modul": [
-        "nilai-nilai dapat terinternalisasi pada setiap pegawai dan menjadi sebuah budaya organisasi",
-        "meningkatkan kinerja individu pegawai dan juga kinerja organisasi"
+        "nilai-nilai dapat terinternalisasi pada setiap",
+        "kinerja individu pegawai dan juga"
       ],
       "topik_materi": "Tujuan Akhir Agenda Internalisasi Nilai",
       "level_kognitif": "C2 - Pemahaman",
@@ -2540,8 +2574,8 @@
       "nomor": 85,
       "halaman_sumber": 33,
       "kata_kunci_modul": [
-        "Di tahun 2017, dilaksanakan penguatan Nilai-Nilai Kementerian Keuangan dengan terbitnya",
-        "Instruksi Menteri Keuangan Nomor 346/IMK.01/2017 tentang Gerakan Efisiensi"
+        "Di tahun 2017, dilaksanakan penguatan",
+        "Instruksi Menteri Keuangan Nomor 346/IMK.01/2017"
       ],
       "topik_materi": "Tahun Peluncuran Gerakan Efisiensi",
       "level_kognitif": "C2 - Pemahaman",
@@ -2571,7 +2605,7 @@
       "halaman_sumber": 33,
       "kata_kunci_modul": [
         "Instruksi Menteri Keuangan Nomor 346/IMK.01/2017",
-        "Gerakan Efisiensi sebagai bagian implementasi penguatan budaya Kementerian Keuangan"
+        "Efisiensi sebagai bagian implementasi penguatan"
       ],
       "topik_materi": "Nomor Regulasi Gerakan Efisiensi",
       "level_kognitif": "C2 - Pemahaman",
@@ -2600,28 +2634,29 @@
       "nomor": 87,
       "halaman_sumber": 33,
       "kata_kunci_modul": [
-        "1.Pertama: mengimplementasikan dan menginternalisasikan Nilai-Nilai Kementerian Keuangan dan",
-        "mendorong perubahan mindset, pola kerja, dan spirit dalam pelaksanaan tugas"
+        "Nilai-Nilai Kementerian Keuangan",
+        "mendorong perubahan mindset, pola kerja,"
       ],
       "topik_materi": "Instruksi Pertama Menteri Keuangan dalam IMK 346/2017",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Instruksi pertama Menteri Keuangan dalam IMK Nomor 346/IMK.01/2017 memerintahkan pegawai untuk...",
       "pilihan": {
-        "A": "Mengganti seluruh pengadaan mebel kantor dengan produk lokal",
-        "B": "Mengalihkan pencairan anggaran kas ke bank-bank milik negara",
+        "A": "Menyusun rencana aksi penghematan belanja satuan kerja",
+        "B": "Mengoptimalkan pemanfaatan aset sarana prasarana dinas",
         "C": "Mendorong perubahan mindset, pola kerja, dan spirit bertugas",
-        "D": "Menghapus kegiatan perjalanan dinas luar kota secara permanen",
-        "E": "Mewajibkan lembur kerja akhir pekan di setiap unit kementerian"
+        "D": "Mengembangkan inovasi digital dalam alur administrasi kerja",
+        "E": "Melakukan evaluasi berkala terhadap efektivitas anggaran unit"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Instruksi Pertama: mengimplementasikan dan menginternalisasikan Nilai-Nilai Kementerian Keuangan dan **mendorong perubahan mindset, pola kerja, dan spirit dalam pelaksanaan tugas**.",
-        "alasan_kunci": "Opsi C merupakan jawaban yang tepat untuk butir instruksi pertama Menkeu. Efisiensi sejati berawal dari transformasi cara pandang (*mindset*), kebiasaan kerja, dan semangat integritas dalam membelanjakan uang negara. Instruksi pimpinan menegaskan bahwa pertama berfokus pada perubahan pola pikir, pola kerja, dan spirit tugas. Maka dari itu, opsi C adalah isi instruksi pertama yang benar.",
+        "konsep_materi": "Instruksi pertama IMK Nomor 346/IMK.01/2017 adalah mengimplementasikan dan menginternalisasikan Nilai-Nilai Kementerian Keuangan dan **mendorong perubahan mindset, pola kerja, dan spirit dalam pelaksanaan tugas**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat karena efisiensi birokrasi sejati harus diawali dari pembaruan pola pikir (mindset) dan semangat kerja aparatur dari pola lama yang boros menuju tata kerja yang produktif dan hemat. Perubahan sikap mental menjadi fondasi utama keberhasilan penghematan anggaran negara. Dengan demikian, pembaruan mindset, pola kerja, dan spirit adalah instruksi pertama.",
         "bedah_pengecoh": {
-          "A": "Merupakan rincian belanja sarana mebel yang bukan substansi pokok instruksi pertama.",
-          "B": "Merupakan tata cara rekening perbankan kas negara yang diatur ketentuan perbendaharaan.",
-          "D": "Merupakan pelarangan mutlak ekstrem yang tidak realistis bagi koordinasi kedinasan.",
-          "E": "Merupakan pemaksaan kerja lembur yang bertolak belakang dengan manajemen kerja sehat."
+          "A": "Kurang tepat karena penyusunan rencana aksi penghematan merupakan tahapan perencanaan teknis satker.",
+          "B": "Kurang tepat karena optimalisasi aset sarana prasarana merupakan mandat teknis pengelolaan barang dinas.",
+          "C": "Merupakan butir instruksi pertama Menkeu dalam IMK Nomor 346/IMK.01/2017 sebagaimana dalam ketentuan kementerian.",
+          "D": "Kurang tepat karena pengembangan inovasi digital tata kelola kerja merupakan wujud nilai Kesempurnaan.",
+          "E": "Kurang tepat karena evaluasi efektivitas anggaran unit merupakan fungsi pengawasan akuntabilitas kas."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2660,7 +2695,7 @@
       "nomor": 89,
       "halaman_sumber": 33,
       "kata_kunci_modul": [
-        "4.Keempat: menyusun dan melaksanakan Gerakan Efisiensi pada unit organisasi masing-masing",
+        "4.Keempat: menyusun dan melaksanakan Gerakan",
         "dengan mengoptimalkan peran change agent"
       ],
       "topik_materi": "Peran Change Agent dalam Gerakan Efisiensi",
@@ -2690,8 +2725,8 @@
       "nomor": 90,
       "halaman_sumber": 33,
       "kata_kunci_modul": [
-        "Menteri Keuangan menginstruksikan kepada wakil Menteri Keuangan",
-        "Pimpinan Satuan Kerja Eselon II/III/IV, Pejabat Pembuat Komitmen, dan Pejabat Fungsional/pegawai"
+        "Menteri Keuangan menginstruksikan kepada wakil",
+        "Pimpinan Satuan Kerja Eselon II/III/IV,"
       ],
       "topik_materi": "Pihak yang Menerima Instruksi Gerakan Efisiensi",
       "level_kognitif": "C2 - Pemahaman",
@@ -2720,8 +2755,8 @@
       "nomor": 91,
       "halaman_sumber": 34,
       "kata_kunci_modul": [
-        "penguatan nilai-nilai tidak sekadar sebuah jargon atau yel-yel",
-        "mengerucut pada karakterisik tugas pokok dan fungsi yang ada di Kementerian Keuangan, yakni sebagai pengelola keuangan negara"
+        "penguatan nilai-nilai tidak sekadar sebuah",
+        "mengerucut pada karakterisik tugas pokok"
       ],
       "topik_materi": "Hakikat Substansi Gerakan Efisiensi",
       "level_kognitif": "C2 - Pemahaman",
@@ -2750,8 +2785,8 @@
       "nomor": 92,
       "halaman_sumber": 34,
       "kata_kunci_modul": [
-        "Pelaksanaan instruksi untuk melakukan upaya-upaya efisiensi pelaksanaan tugas ini juga akan selalu diawasi oleh",
-        "Inspektorat Jenderal Kementerian Keuangan dan Kepala/Petugas Unit kepatuhan Internal"
+        "Pelaksanaan instruksi untuk melakukan upaya-upaya",
+        "Inspektorat Jenderal Kementerian Keuangan dan"
       ],
       "topik_materi": "Pengawas Pelaksanaan Upaya Efisiensi",
       "level_kognitif": "C3 - Aplikasi",
@@ -2781,27 +2816,28 @@
       "halaman_sumber": 34,
       "kata_kunci_modul": [
         "menekankan pada instruksi untuk para Pejabat Pembuat Komitmen agar",
-        "mengelola anggaran pada satuan kerja masing-masing dengan efektif, efisien, dan beretika"
+        "anggaran pada satuan kerja masing-masing"
       ],
       "topik_materi": "Instruksi Khusus untuk Pejabat Pembuat Komitmen",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Instruksi Menteri Keuangan memberikan penekanan khusus kepada Pejabat Pembuat Komitmen (PPK) agar...",
       "pilihan": {
-        "A": "Menghabiskan seluruh pagu anggaran belanja sebelum akhir tahun",
-        "B": "Menunjuk rekanan pengadaan barang dari relasi keluarga dekat",
-        "C": "Mempercepat pencairan tanpa verifikasi dokumen tagihan",
-        "D": "Membayarkan uang muka proyek lelang tanpa jaminan perbankan",
-        "E": "Mengelola anggaran dengan efektif, efisien, dan beretika"
+        "A": "Mempercepat proses lelang pengadaan barang secara terpadu",
+        "B": "Menyusun analisis standar biaya masukan satuan kerja",
+        "C": "Melakukan rekonsiliasi data realisasi perbendaharaan kas",
+        "D": "Mengoptimalkan penyerapan belanja operasional kantor",
+        "E": "Mengelola anggaran pada satker secara efektif, efisien, dan beretika"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
-        "konsep_materi": "Instruksi ini menekankan pada instruksi untuk para Pejabat Pembuat Komitmen agar **mengelola anggaran pada satuan kerja masing-masing dengan efektif, efisien, dan beretika**.",
-        "alasan_kunci": "Opsi E merupakan jawaban yang tepat untuk mandat integritas para pengelola pengadaan dinas. PPK memegang peranan krusial sebagai penandatangan kontrak pengeluaran uang negara, sehingga dituntut menjaga kepatutan moral dan ketepatan nilai belanja (*value for money*). Regulasi pengadaan menetapkan PPK wajib mengelola anggaran secara efektif, efisien, dan beretika. Oleh sebab itu, opsi E adalah amanat yang benar.",
+        "konsep_materi": "Instruksi ini menekankan kepada para Pejabat Pembuat Komitmen agar **mengelola anggaran pada satuan kerja masing-masing dengan efektif, efisien, dan beretika**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat karena PPK memegang peranan krusial sebagai pengambil keputusan komitmen belanja negara yang wajib mengedepankan integritas moral dan kehati-hatian fiskal. Tata kelola belanja yang efektif dan beretika memastikan setiap rupiah uang rakyat digunakan secara akuntabel bagi kepentingan publik. Oleh sebab itu, pengelolaan anggaran efektif, efisien, dan beretika adalah instruksinya.",
         "bedah_pengecoh": {
-          "A": "Merupakan perilaku kejar tayang penyerapan anggaran yang sering memicu inefisiensi.",
-          "B": "Merupakan praktik nepotisme terlarang yang mencederai keadilan dan integritas.",
-          "C": "Merupakan kelalaian pemeriksaan keuangan yang membahayakan kas perbendaharaan.",
-          "D": "Merupakan pelanggaran hukum perikatan keuangan negara yang berisiko pidana."
+          "A": "Kurang tepat karena percepatan proses lelang pengadaan merupakan tugas pejabat pengadaan barang jasa.",
+          "B": "Kurang tepat karena analisis standar biaya masukan disusun oleh unit perencana anggaran kementerian.",
+          "C": "Kurang tepat karena rekonsiliasi realisasi kas merupakan tugas pejabat penatausahaan keuangan kantor.",
+          "D": "Kurang tepat karena optimalisasi penyerapan belanja harus tetap memperhatikan prinsip efisiensi mutu.",
+          "E": "Merupakan amanat instruksi khusus Menkeu kepada Pejabat Pembuat Komitmen sebagaimana secara konseptual."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2817,21 +2853,22 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Himbauan pertama yang ditujukan kepada setiap pegawai dalam SE-12/MK.1/2018 adalah...",
       "pilihan": {
-        "A": "Menghafal seluruh nama pimpinan unit eselon satu kementerian",
+        "A": "Meningkatkan kompetensi teknis melalui pelatihan berkala",
         "B": "Memegang teguh Nilai-Nilai Kementerian Keuangan",
-        "C": "Menyusun pembukuan penerimaan negara bukan pajak pribadi",
-        "D": "Mengikuti setiap perkembangan harga komoditas pasar dunia",
-        "E": "Menghadiri apel pagi setiap hari tanpa terkecuali apapun"
+        "C": "Mengoptimalkan koordinasi kerja sama lintas direktorat",
+        "D": "Menjaga standar mutu pelayanan publik secara konsisten",
+        "E": "Menerapkan prinsip efisiensi anggaran dalam pelaksanaan tugas"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
-        "konsep_materi": "Himbauan kepada setiap pegawai Kementerian Keuangan: butir pertama adalah **Memegang teguh Nilai-Nilai Kementerian Keuangan**.",
-        "alasan_kunci": "Opsi B merupakan jawaban yang tepat untuk butir pertama himbauan bagi seluruh pegawai. Berpegang teguh pada nilai menjadi benteng pertahanan moral pertama bagi aparatur agar tidak tergelincir dalam perbuatan tercela yang merusak kehormatan diri dan korps. Dalam pedoman etika, butir pertama mewajibkan memegang teguh Nilai-Nilai Kemenkeu. Dengan demikian, opsi B adalah butir pertama yang benar.",
+        "konsep_materi": "Himbauan pertama kepada setiap pegawai Kementerian Keuangan dalam SE-12/MK.1/2018 adalah **memegang teguh Nilai-Nilai Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat karena memegang teguh nilai kementerian berfungsi sebagai sistem deteksi dini (Early Warning System) dalam membentengi pegawai dari perbuatan menyimpang. Nilai kementerian menjadi kompas moral dasar yang mengarahkan sikap dan integritas aparatur dalam berbagai situasi. Dengan demikian, memegang teguh nilai kementerian adalah butir himbauan pertama.",
         "bedah_pengecoh": {
-          "A": "Merupakan hafalan nama struktural yang bukan substansi nilai etika aparatur.",
-          "C": "Merupakan tugas fungsional bendahara penerimaan yang bukan kewajiban umum pegawai.",
-          "D": "Merupakan pemantauan pasar modal yang berada di luar ranah etika perilaku dasar.",
-          "E": "Merupakan tata tertib kehadiran yang bukan bunyi butir pertama SE-12/2018."
+          "A": "Kurang tepat karena peningkatan kompetensi berkala merupakan pilar peningkatan nilai Profesionalisme.",
+          "B": "Merupakan butir pertama himbauan pegawai dalam SE-12/MK.1/2018 sebagaimana dipaparkan di modul.",
+          "C": "Kurang tepat karena optimalisasi koordinasi lintas direktorat merupakan perwujudan dari nilai Sinergi.",
+          "D": "Kurang tepat karena menjaga standar mutu pelayanan merupakan fokus pelaksanaan dari nilai Pelayanan.",
+          "E": "Kurang tepat karena penerapan efisiensi anggaran merupakan fokus instruksi pada Gerakan Efisiensi."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2847,21 +2884,22 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Dalam SE-12/MK.1/2018, pegawai dihimbau senantiasa berpedoman pada etika dalam empat ranah, yaitu...",
       "pilihan": {
-        "A": "Berbelanja, bertamasya, beristirahat, dan berinvestasi saham",
-        "B": "Bersekolah, berkarier, berolahraga, dan berdagang komersial",
-        "C": "Beribadah, berpartai politik, berniaga, dan berjejaring maya",
+        "A": "Berbangsa, berkelembagaan, berkarier, dan berkepribadian",
+        "B": "Berorganisasi, berkepemimpinan, beretika, dan bertoleransi",
+        "C": "Bernegara, berintegritas, berakuntabilitas, dan bersinergi",
         "D": "Bernegara, berpemerintahan, berorganisasi, dan bermasyarakat",
-        "E": "Berwirausaha, bertransaksi digital, berpidato, dan berdebat"
+        "E": "Berpemerintahan, berdemokrasi, berkorporasi, dan berbudaya"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
-        "konsep_materi": "Pegawai dihimbau: **Berpedoman pada etika dalam bernegara, dalam penyelenggaraan pemerintahan, dalam berorganisasi, dan dalam bermasyarakat**.",
-        "alasan_kunci": "Opsi D merupakan jawaban yang tepat mengenai empat arena pengamalan etika pegawai negeri sipil. Keutuhan moral seorang aparatur tidak hanya diuji di balik meja kantor, melainkan meluas dalam kehidupan sosial warga negara, pelayanan publik, kerja sama tim, dan kepatuhan bermasyarakat. Standar perilaku mencakup empat dimensi tersebut secara gamblang. Oleh sebab itu, opsi D adalah jawaban yang tepat.",
+        "konsep_materi": "Pegawai dihimbau berpedoman pada **etika dalam bernegara, dalam penyelenggaraan pemerintahan, dalam berorganisasi, dan dalam bermasyarakat**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat karena keempat ruang lingkup tersebut mencakup seluruh dimensi kehidupan aparatur sipil negara baik sebagai abdi negara, bagian dari birokrasi, insan korps, maupun warga masyarakat. Penjagaan etika di empat ranah ini memastikan integritas aparatur tetap terpelihara secara komprehensif. Oleh karena itu, bernegara, berpemerintahan, berorganisasi, dan bermasyarakat adalah empat ranahnya.",
         "bedah_pengecoh": {
-          "A": "Merupakan aktivitas konsumtif dan rekreasi pribadi di luar ruang lingkup etika dinas.",
-          "B": "Merupakan ranah pengembangan personal yang bukan empat pilar etika resmi SE-12/2018.",
-          "C": "Merupakan aktivitas yang mencakup kegiatan partai politik yang dilarang bagi ASN.",
-          "E": "Merupakan kegiatan bisnis mandiri yang bukan empat ranah etika aparatur pedoman kerja."
+          "A": "Kurang tepat karena berbangsa dan berkepribadian merupakan pembagian umum konsep etika sosial.",
+          "B": "Kurang tepat karena berkepemimpinan dan bertoleransi merupakan dimensi keterampilan interpersonal.",
+          "C": "Kurang tepat karena berintegritas dan bersinergi merupakan butir nama nilai kementerian, bukan ranah etika.",
+          "D": "Merupakan rincian resmi empat ranah etika aparatur dalam SE-12/MK.1/2018 dalam etika aparatur.",
+          "E": "Kurang tepat karena berdemokrasi dan berkorporasi merupakan terminologi politik dan tata kelola swasta."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2871,27 +2909,28 @@
       "halaman_sumber": 34,
       "kata_kunci_modul": [
         "Menghindari perilaku-perilaku yang mengarah pada",
-        "ujaran kebencian dan radikalisme"
+        "ujaran kebencian dan"
       ],
       "topik_materi": "Larangan Khusus Pegawai dalam SE-12/2018",
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Salah satu larangan penting dalam himbauan pegawai pada SE-12/MK.1/2018 adalah keharusan menghindari...",
       "pilihan": {
         "A": "Perilaku yang mengarah pada ujaran kebencian dan radikalisme",
-        "B": "Pemanfaatan aplikasi transportasi daring menuju gedung kantor",
-        "C": "Pertukaran ide gagasan dengan rekan lintas direktorat jenderal",
-        "D": "Penggunaan media komunikasi surel dalam koordinasi tugas dinas",
-        "E": "Partisipasi dalam forum musyawarah rukun tetangga tempat tinggal"
+        "B": "Sikap eksklusivisme dalam pelaksanaan koordinasi tugas dinas",
+        "C": "Keterlambatan dalam penyampaian laporan pertanggungjawaban kas",
+        "D": "Tindakan mengambil keputusan dinas tanpa telaah komprehensif",
+        "E": "Penggunaan sarana kantor di luar ketentuan standar operasional"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
-        "konsep_materi": "Setiap pegawai Kementerian Keuangan dihimbau untuk: **Menghindari perilaku-perilaku yang mengarah pada ujaran kebencian dan radikalisme**.",
-        "alasan_kunci": "Opsi A merupakan jawaban yang tepat mengenai proteksi ideologi dan kebinekaan aparatur negara. Pegawai pemerintah bertugas sebagai perekat persatuan bangsa sehingga haram menyebarkan kebencian bermotif SARA atau menganut paham radikal yang merongrong Pancasila dan kedaulatan negara. Pedoman kerja mencantumkan larangan ini secara eksplisit. Maka dari itu, opsi A adalah larangan yang dimaksud.",
+        "konsep_materi": "Pegawai dihimbau untuk **menghindari perilaku-perilaku yang mengarah pada ujaran kebencian dan radikalisme**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat karena ujaran kebencian dan paham radikal merusak persatuan bangsa, mencederai netralitas ASN, serta bertentangan secara mutlak dengan ideologi Pancasila dan UUD 1945. Penjagaan sikap aparatur dari paparan radikalisme menjaga marwah kementerian sebagai pilar NKRI. Dengan demikian, penghindaran ujaran kebencian dan radikalisme adalah larangannya.",
         "bedah_pengecoh": {
-          "B": "Merupakan moda transportasi umum yang bebas dipergunakan tanpa larangan kedinasan.",
-          "C": "Merupakan kolaborasi lintas unit yang justru sangat dianjurkan dalam nilai sinergi.",
-          "D": "Merupakan sarana komunikasi dinas yang sah dan lazim dalam birokrasi modern.",
-          "E": "Merupakan peran kemasyarakatan positif yang selaras dengan etika bermasyarakat ASN."
+          "A": "Merupakan butir larangan penting bagi aparatur dalam SE-12/MK.1/2018 sebagaimana tercantum di modul.",
+          "B": "Kurang tepat karena sikap eksklusivisme bertentangan dengan prinsip koordinasi pada nilai Sinergi.",
+          "C": "Kurang tepat karena keterlambatan laporan kas berkaitan dengan ketaatan jadwal perbendaharaan dinas.",
+          "D": "Kurang tepat karena keputusan tanpa telaah komprehensif berkaitan dengan kehati-hatian manajerial.",
+          "E": "Kurang tepat karena penggunaan sarana kantor diatur dalam ketentuan tata tertib perlengkapan aset."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2901,27 +2940,28 @@
       "halaman_sumber": 34,
       "kata_kunci_modul": [
         "2. Himbauan kepada para atasan langsung pegawai untuk",
-        "Membina, memantau, dan melakukan pengawasan kepada bawahannya di lingkungan kerjanya"
+        "Membina, memantau, dan melakukan pengawasan"
       ],
       "topik_materi": "Tanggung Jawab Pembinaan Atasan Langsung",
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Kepada para atasan langsung pegawai, butir pertama himbauan SE-12/MK.1/2018 menginstruksikan untuk...",
       "pilihan": {
-        "A": "Menyerahkan seluruh tugas pemeriksaan kepada pengawas luar",
-        "B": "Mengambil alih seluruh hak cuti tahunan milik staf bawahan",
-        "C": "Membina, memantau, dan mengawasi bawahan di lingkungannya",
-        "D": "Menentukan jam operasional kantor di luar ketentuan baku",
-        "E": "Menutup informasi hasil audit dari pimpinan kantor wilayah"
+        "A": "Mengoordinasikan pembagian beban tugas kerja secara proporsional",
+        "B": "Memberikan teladan nyata dalam penyelesaian target kinerja",
+        "C": "Membina, memantau, dan mengawasi bawahan di lingkungan kerjanya",
+        "D": "Menyusun instrumen evaluasi kompetensi fungsional staf kantor",
+        "E": "Menyelenggarakan forum bimbingan teknis berkala bagi pelaksana"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Himbauan kepada atasan langsung: **Membina, memantau, dan melakukan pengawasan kepada bawahannya di lingkungan kerjanya dalam rangka mencegah terjadinya pelanggaran kode etik, pelanggaran disiplin, dan pelanggaran hukum**.",
-        "alasan_kunci": "Opsi C merupakan jawaban yang tepat mengenai fungsi pengawasan melekat pimpinan tingkat pertama. Atasan langsung merupakan benteng terdepan yang paling mengetahui perilaku dan dinamika kerja stafnya, sehingga berkewajiban aktif membina serta mencegah terjadinya deviasi moral. Atasan langsung mengemban tugas membina, memantau, dan mengawasi sebagai butir pertama atasan. Dengan demikian, opsi C adalah instruksi yang benar.",
+        "konsep_materi": "Himbauan kepada atasan langsung adalah **membina, memantau, dan melakukan pengawasan kepada bawahannya di lingkungan kerjanya dalam rangka mencegah terjadinya pelanggaran**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat karena atasan langsung bertanggung jawab menjaga moralitas dan kedisiplinan staf melalui pengawasan melekat secara berkelanjutan. Pembinaan proaktif mampu mencegah potensi pelanggaran disiplin dan kode etik sebelum menjadi kasus fatal di satker. Oleh karena itu, membina, memantau, dan mengawasi bawahan adalah instruksi utamanya.",
         "bedah_pengecoh": {
-          "A": "Merupakan pelepasan wewenang kepemimpinan yang merusak rantai komando internal.",
-          "B": "Merupakan perampasan hak aparatur yang melanggar ketentuan perundang-undangan cuti.",
-          "D": "Merupakan tindakan sewenang-wenang yang melanggar aturan jam kerja kementerian.",
-          "E": "Merupakan persekongkolan menyembunyikan pelanggaran yang berpotensi pidana."
+          "A": "Kurang tepat karena pembagian beban tugas proporsional merupakan teknik manajerial pembagian kerja tim.",
+          "B": "Kurang tepat karena keteladanan penyelesaian target kinerja merupakan kepemimpinan berbasis hasil kerja.",
+          "C": "Merupakan butir pertama himbauan bagi atasan langsung dalam SE-12/MK.1/2018 sebagaimana secara konseptual.",
+          "D": "Kurang tepat karena penyusunan instrumen evaluasi kompetensi merupakan wujud tugas manajemen SDM kantor.",
+          "E": "Kurang tepat karena forum bimbingan teknis berkala merupakan kegiatan transfer pengetahuan kedinasan."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2937,21 +2977,22 @@
       "level_kognitif": "C4 - Analisis",
       "pertanyaan": "Bila terdapat aduan, temuan, atau laporan pelanggaran bawahan, tindakan yang wajib diambil atasan langsung adalah...",
       "pilihan": {
-        "A": "Mengesampingkan laporan dari pihak masyarakat umum",
-        "B": "Menunggu sampai kasus diberitakan luas di media massa",
-        "C": "Memindahkan pegawai terkait ke unit lain tanpa diperiksa",
-        "D": "Meminta pengadu mencabut laporannya secara kekeluargaan",
+        "A": "Meneruskan berkas aduan langsung ke instansi penegak hukum",
+        "B": "Meminta rekomendasi tindakan administratif kepada badan kepegawaian",
+        "C": "Mengoordinasikan telaah hukum dengan bagian advokasi kementerian",
+        "D": "Menyampaikan laporan pendahuluan kepada pimpinan kantor wilayah",
         "E": "Melakukan pemeriksaan atas dugaan pelanggaran bawahan"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
-        "konsep_materi": "Atasan langsung wajib: **Melakukan pemeriksaan atas dugaan pelanggaran yang dilakukan bawahannya jika terdapat aduan, temuan dan laporan pihak terkait**.",
-        "alasan_kunci": "Opsi E merupakan jawaban yang tepat untuk penegakan disiplin dan kode etik di unit kerja. Setiap indikasi penyimpangan wajib ditindaklanjuti dengan klarifikasi dan pemeriksaan objektif guna menegakkan kebenaran tanpa pandang bulu. Pedoman pengawasan menerangkan secara tegas bahwa atasan langsung wajib memeriksa dugaan pelanggaran bawahannya bila ada laporan atau temuan. Oleh sebab itu, opsi E adalah langkah resmi yang wajib ditempuh.",
+        "konsep_materi": "Atasan langsung dihimbau untuk **melakukan pemeriksaan atas dugaan pelanggaran yang dilakukan bawahannya jika terdapat aduan, temuan dan laporan pihak terkait**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat karena penanganan dugaan pelanggaran memerlukan langkah klarifikasi dan pemeriksaan objektif dari atasan langsung guna menguji kebenaran materiil laporan. Sikap tegas dan terukur menjamin keadilan bagi pegawai bersangkutan sekaligus menegakkan wibawa regulasi disiplin. Dengan demikian, melakukan pemeriksaan atas dugaan pelanggaran adalah kewajibannya.",
         "bedah_pengecoh": {
-          "A": "Merupakan pembiaran laporan yang melanggar asas akuntabilitas penanganan aduan.",
-          "B": "Merupakan sikap pasif yang merusak reputasi instansi akibat pembiaran masalah.",
-          "C": "Merupakan mutasi tanpa dasar yang tidak menyelesaikan substansi pelanggaran etika.",
-          "D": "Merupakan kompromi tidak sehat yang menghambat penegakan integritas aparatur."
+          "A": "Kurang tepat karena aduan disiplin internal wajib diperiksa berjenjang terlebih dahulu sebelum ke aparat luar.",
+          "B": "Kurang tepat karena rekomendasi badan kepegawaian dimintakan setelah selesainya pemeriksaan internal satker.",
+          "C": "Kurang tepat karena koordinasi advokasi hukum dilakukan bila menyangkut sengketa peradilan tata usaha.",
+          "D": "Kurang tepat karena laporan pendahuluan disampaikan setelah adanya pemeriksaan faktual awal di lapangan.",
+          "E": "Merupakan tindakan wajib atasan langsung saat ada aduan atau temuan menurut amanat SE-12/MK.1/2018."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2961,27 +3002,28 @@
       "halaman_sumber": 34,
       "kata_kunci_modul": [
         "Menindaklanjuti hasil pemeriksaan yang dilakukan oleh",
-        "Inspektur Jenderal atau Unit Kepatuhan Internal"
+        "Inspektur Jenderal atau"
       ],
       "topik_materi": "Tindak Lanjut Hasil Pemeriksaan Pengawas",
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Terkait temuan aparat pemeriksa, atasan langsung pegawai wajib secara sigap untuk...",
       "pilihan": {
-        "A": "Mengajukan penolakan terhadap seluruh isi laporan audit",
-        "B": "Menindaklanjuti hasil pemeriksaan Irjen atau pihak UKI",
-        "C": "Menyimpan berkas temuan tanpa tindak lanjut tindakan",
-        "D": "Mendiskusikan sanksi dengan pegawai yang terperiksa",
-        "E": "Meminta pembatalan rekomendasi audit kepada kementerian"
+        "A": "Melakukan verifikasi ulang terhadap seluruh bukti temuan audit",
+        "B": "Menindaklanjuti hasil pemeriksaan Inspektur Jenderal atau UKI",
+        "C": "Menyusun telaah sanggahan teknis bersama tim auditor internal",
+        "D": "Mengoordinasikan perbaikan prosedur operasional baku satker",
+        "E": "Meminta pendampingan hukum kepada biro hukum kementerian"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
-        "konsep_materi": "Himbauan atasan langsung butir ketiga: **Menindaklanjuti hasil pemeriksaan yang dilakukan oleh Inspektur Jenderal atau Unit Kepatuhan Internal**.",
-        "alasan_kunci": "Opsi B merupakan jawaban yang tepat tentang kepatuhan menuntaskan rekomendasi pengawasan. Hasil audit tidak boleh berhenti sebagai tumpukan laporan, melainkan harus segera dieksekusi perbaikannya atau dijatuhkan sanksinya sesuai aturan. Dalam prinsip dasar, atasan langsung wajib menindaklanjuti hasil pemeriksaan Itjen maupun UKI. Maka dari itu, opsi B adalah kewajiban yang digariskan.",
+        "konsep_materi": "Atasan langsung wajib **menindaklanjuti hasil pemeriksaan yang dilakukan oleh Inspektur Jenderal atau Unit Kepatuhan Internal**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat karena rekomendasi hasil pengawasan aparat internal (Itjen/UKI) bersifat mengikat untuk segera dieksekusi demi perbaikan tata kelola birokrasi dan penegakan akuntabilitas. Tindak lanjut yang cepat mencegah berulangnya penyimpangan serupa di masa depan. Oleh sebab itu, menindaklanjuti hasil pemeriksaan adalah kewajiban atasan langsung.",
         "bedah_pengecoh": {
-          "A": "Merupakan pembangkangan defensif yang menghalangi perbaikan tata kelola dinas.",
-          "C": "Merupakan pengendapan berkas yang melanggar prosedur standar operasional audit.",
-          "D": "Merupakan negosiasi hukuman yang mencederai objektivitas penegakan aturan disiplin.",
-          "E": "Merupakan intervensi tidak sah atas independensi aparat pengawasan fungsional."
+          "A": "Kurang tepat karena verifikasi bukti temuan merupakan bagian dari proses audit yang telah diselesaikan auditor.",
+          "B": "Merupakan amanat kewajiban atasan langsung terhadap temuan aparat pemeriksa sebagaimana secara konseptual.",
+          "C": "Kurang tepat karena sanggahan teknis diajukan saat exit meeting audit sebelum laporan resmi diterbitkan.",
+          "D": "Kurang tepat karena perbaikan prosedur operasional merupakan salah satu bentuk aksi tindak lanjut kerja.",
+          "E": "Kurang tepat karena pendampingan biro hukum dilakukan dalam konteks gugatan pihak ketiga peradilan."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }
@@ -2991,27 +3033,28 @@
       "halaman_sumber": 34,
       "kata_kunci_modul": [
         "3. Himbauan kepada setiap pimpinan unit untuk",
-        "Bertanggung jawab terhadap tata kelola, manajemen risiko, dan pengendalian intern"
+        "Bertanggung jawab terhadap tata kelola,"
       ],
       "topik_materi": "Tanggung Jawab Pimpinan Unit dalam Tata Kelola",
       "level_kognitif": "C4 - Analisis",
       "pertanyaan": "Dalam SE-12/MK.1/2018, setiap pimpinan unit memegang tanggung jawab penuh terhadap tiga pilar tata kelola, yaitu...",
       "pilihan": {
-        "A": "Pengadaan mobil, pemeliharaan gedung, dan renovasi ruangan",
-        "B": "Penerimaan pegawai, penentuan seragam, dan pembagian insentif",
-        "C": "Pemberian dana hibah, pinjaman luar negeri, dan kuota impor",
+        "A": "Perencanaan strategis, akuntabilitas kinerja, dan reformasi birokrasi",
+        "B": "Pengorganisasian tim, pengawasan melekat, dan evaluasi berkala",
+        "C": "Integritas jabatan, efisiensi belanja, dan standardisasi pelayanan",
         "D": "Tata kelola, manajemen risiko, dan pengendalian intern unit",
-        "E": "Pemasangan iklan, promosi media massa, dan kegiatan bazar"
+        "E": "Pembinaan aparatur, penataan kelembagaan, dan keselamatan kerja"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
-        "konsep_materi": "Himbauan kepada setiap pimpinan unit: **Bertanggung jawab terhadap tata kelola, manajemen risiko, dan pengendalian intern dalam menjalankan tugas pokok dan fungsinya**.",
-        "alasan_kunci": "Opsi D merupakan jawaban yang tepat untuk tiga pilar akuntabilitas pimpinan unit organisasi. Tata kelola yang baik (*governance*), pemetaan serta mitigasi potensi ancaman (*risk management*), dan sistem kendali melekat (*internal control*) merupakan fondasi utama *three lines of defense* di Kementerian Keuangan. Ketiga pilar tersebut berfungsi sebagai tanggung jawab mutlak pimpinan unit. Oleh sebab itu, opsi D adalah jawaban yang benar.",
+        "konsep_materi": "Pimpinan unit dihimbau untuk **bertanggung jawab terhadap tata kelola, manajemen risiko, dan pengendalian intern** dalam menjalankan tugas pokok dan fungsinya.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat karena integrasi antara tata kelola yang baik, mitigasi risiko yang matang, serta pengawasan intern yang andal menjadi benteng pertahanan organisasi modern Kementerian Keuangan. Ketiga pilar ini menjamin pencapaian target strategis secara aman dan akuntabel. Dengan demikian, tata kelola, manajemen risiko, dan pengendalian intern adalah tanggung jawab pimpinan unit.",
         "bedah_pengecoh": {
-          "A": "Merupakan pengelolaan sarana fisik logistik yang bukan tiga pilar tata kelola.",
-          "B": "Merupakan urusan administrasi kepegawaian rutin di luar prinsip pengendalian intern.",
-          "C": "Merupakan transaksi pembiayaan luar kementerian yang berada di luar konteks ini.",
-          "E": "Merupakan kegiatan publisitas promosi yang bukan pilar akuntabilitas manajerial."
+          "A": "Kurang tepat karena perencanaan strategis dan reformasi merupakan dimensi makro kelembagaan instansi.",
+          "B": "Kurang tepat karena pengorganisasian dan evaluasi merupakan fungsi manajemen operasional kepemimpinan.",
+          "C": "Kurang tepat karena integritas dan efisiensi merupakan prinsip moral dan operasional pelaksanaan tugas.",
+          "D": "Merupakan rincian baku tiga pilar tanggung jawab pimpinan unit dalam SE-12/MK.1/2018 dalam etika kedinasan.",
+          "E": "Kurang tepat karena pembinaan aparatur dan penataan kelembagaan merupakan fungsi tata pamong kepegawaian."
         },
         "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
       }

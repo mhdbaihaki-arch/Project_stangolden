@@ -1254,28 +1254,28 @@
       "nomor": 42,
       "halaman_sumber": 32,
       "kata_kunci_modul": [
-        "Menghadapi pelaksanaan desentralisasi fiskal sesuai dengan dengan UU No. 33",
-        "tahun 2004, tentang Perimbangan Keuangan antara Pemerintah Pusat dan"
+        "standar yang berlaku secara internasional",
+        "Government Finance Statistics"
       ],
       "topik_materi": "Tujuan Keempat: Menghadapi Desentralisasi Fiskal",
       "level_kognitif": "C2 - Pemahaman",
-      "pertanyaan": "Tujuan keempat dari format I-account adalah mempersiapkan tata kelola APBN dalam menghadapi pelaksanaan...",
+      "pertanyaan": "Standar internasional yang menjadi pedoman penyesuaian struktur format I-account APBN adalah...",
       "pilihan": {
-        "A": "Sentralisasi penarikan seluruh pajak daerah menjadi wewenang pusat",
-        "B": "Desentralisasi fiskal sesuai perundangan perimbangan keuangan pusat dan daerah",
-        "C": "Penghapusan otonomi pengelolaan belanja dinas bagi pemerintah daerah",
-        "D": "Pemberian dana pinjaman bebas bunga bagi korporasi multinasional",
-        "E": "Penutupan seluruh kantor perwakilan dinas perbendaharaan di daerah"
+        "A": "International Public Sector Accounting Standards",
+        "B": "Government Finance Statistics pelaporan keuangan",
+        "C": "Generally Accepted Accounting Principles global",
+        "D": "System of National Accounts perbendaharaan",
+        "E": "Financial Action Task Force tata kelola"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
-        "konsep_materi": "Tujuan keempat format I-Account adalah **menghadapi pelaksanaan desentralisasi fiskal sesuai dengan UU No. 33 Tahun 2004 tentang Perimbangan Keuangan antara Pemerintah Pusat dan Daerah**.",
-        "alasan_kunci": "Opsi B tepat karena format I-Account menyediakan pos khusus transfer ke daerah secara transparan yang memisahkan belanja kementerian pusat dan alokasi transfer dana otonomi daerah. Oleh sebab itu, opsi A benar.",
+        "konsep_materi": "Struktur APBN format I-Account disesuaikan dengan standar yang berlaku secara internasional sebagaimana digunakan dalam **Government Finance Statistics (GFS)**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Penerapan format I-Account mulai tahun anggaran 2000 bertujuan menyelaraskan statistik keuangan negara Indonesia dengan standar statistik keuangan pemerintah internasional (Government Finance Statistics). Hal ini mempermudah perbandingan operasi fiskal antarnegara.",
         "bedah_pengecoh": {
-          "A": "Pajak daerah diatur terpisah dan dipungut mandiri oleh pemerintah daerah.",
-          "C": "Otonomi daerah memberikan keleluasaan pengelolaan APBD kepada pemda.",
-          "D": "Keuangan negara tidak memberikan pinjaman cuma-cuma ke swasta multinasional.",
-          "E": "Kantor vertikal perbendaharaan (KPPN) justru diperkuat layanannya di daerah."
+          "A": "IPSAS adalah standar akuntansi sektor publik bukan kerangka GFS.",
+          "C": "GAAP merupakan prinsip akuntansi umum untuk sektor korporasi.",
+          "D": "SNA adalah sistem neraca makro nasional bukan format APBN kas.",
+          "E": "FATF merupakan gugus tugas anti pencucian uang dan terorisme."
         },
         "sumber_rujukan": "Pengelolaan Keuangan Negara"
       }
@@ -1436,28 +1436,28 @@
       "nomor": 48,
       "halaman_sumber": 32,
       "kata_kunci_modul": [
-        "pelaksanaan desentralisasi fiskal sesuai dengan dengan UU No. 33",
-        "tahun 2004,"
+        "format anggaran terpadu (unified budget)",
+        "belanja rutin dan anggaran belanja pembangunan"
       ],
       "topik_materi": "Keterkaitan I-Account dan UU 33/2004",
       "level_kognitif": "C2 - Pemahaman",
-      "pertanyaan": "Kesiapan format I-account dalam mendukung desentralisasi fiskal berkaitan erat dengan implementasi regulasi...",
+      "pertanyaan": "Konsep format anggaran terpadu (unified budget) dalam UU Nomor 17 Tahun 2003 diterapkan melalui...",
       "pilihan": {
-        "A": "Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas",
-        "B": "Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen",
-        "C": "Undang-Undang Nomor 33 Tahun 2004 tentang Perimbangan Keuangan",
-        "D": "Undang-Undang Nomor 5 Tahun 1999 tentang Larangan Praktik Monopoli",
-        "E": "Undang-Undang Nomor 10 Tahun 1998 tentang Perbankan Komersial"
+        "A": "Pemisahan ketat rekening belanja operasional dan non operasional",
+        "B": "Pencatatan pos pembiayaan dalam daftar lampiran terpisah",
+        "C": "Penggabungan anggaran belanja rutin dan belanja pembangunan",
+        "D": "Pengalokasian pengeluaran modal khusus belanja aset modal",
+        "E": "Penyeragaman seluruh satuan biaya umum kementerian lembaga"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Format I-Account mendukung desentralisasi fiskal **sesuai UU No. 33 Tahun 2004 tentang Perimbangan Keuangan antara Pemerintah Pusat dan Daerah**.",
-        "alasan_kunci": "Opsi C tepat karena undang-undang perimbangan keuangan mengatur pembagian dana bagi hasil, DAU, dan DAK yang disajikan secara terinci dalam format I-Account. Oleh sebab itu, opsi A benar.",
+        "konsep_materi": "Format anggaran terpadu (unified budget) mengamanatkan bahwa **tidak ada pemisahan antara anggaran belanja rutin dan anggaran belanja pembangunan, tetapi digabungkan menjadi satu**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Berdasarkan UU Nomor 17 Tahun 2003 tentang Keuangan Negara, sistem penganggaran ganda (dual budgeting) masa lalu dihapuskan dan diganti menjadi unified budget. Seluruh belanja operasional rutin dan belanja modal pembangunan disatukan dalam satu dokumen anggaran terintegrasi.",
         "bedah_pengecoh": {
-          "A": "UU Perseroan Terbatas mengatur badan usaha perseroan privat.",
-          "B": "UU Perlindungan Konsumen mengatur hak-hak konsumen perniagaan.",
-          "D": "UU Larangan Praktik Monopoli mengatur persaingan usaha niaga.",
-          "E": "UU Perbankan mengatur kelembagaan dan operasional bank komersial."
+          "A": "Pemisahan belanja rutin dan pembangunan justru merupakan sistem lama.",
+          "B": "Pos pembiayaan tetap menjadi bagian terpadu dalam struktur anggaran kas.",
+          "D": "Pengeluaran modal tidak dibatasi khusus untuk belanja aset modal semata.",
+          "E": "Standar biaya masukan adalah instrumen teknis penghitungan tarif dinas."
         },
         "sumber_rujukan": "Pengelolaan Keuangan Negara"
       }
@@ -2111,8 +2111,8 @@
       "nomor": 71,
       "halaman_sumber": 37,
       "kata_kunci_modul": [
-        "UU Nomor 1",
-        "tentang Perbendaharaan Negara"
+        "14 Januari 2004",
+        "UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara"
       ],
       "topik_materi": "Dasar Hukum Perbendaharaan Negara",
       "level_kognitif": "C2 - Pemahaman",
@@ -2122,17 +2122,17 @@
         "B": "UU Nomor 17 Tahun 2003 tentang Keuangan Negara",
         "C": "UU Nomor 15 Tahun 2004 tentang Pemeriksaan Keuangan",
         "D": "UU Nomor 25 Tahun 2004 tentang Perencanaan Pembangunan",
-        "E": "UU Nomor 33 Tahun 2004 tentang Perimbangan Keuangan"
+        "E": "UU Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
         "konsep_materi": "Pemerintah bersama DPR pada tanggal 14 Januari 2004 mengesahkan **UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara**.",
-        "alasan_kunci": "Opsi A tepat karena UU 1/2004 merupakan landasan hukum formil tertinggi bagi operasionalisasi perbendaharaan di seluruh instansi pemerintah. Regulasi ini menjadi pilar kedua dalam paket undang-undang reformasi keuangan negara.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Undang-Undang Nomor 1 Tahun 2004 disahkan pada 14 Januari 2004 sebagai pilar kedua dari paket perundang-undangan di bidang keuangan negara. Undang-undang ini mengatur tata kelola kebendaharaan, fungsi bendahara umum, dan pertanggungjawaban kas negara.",
         "bedah_pengecoh": {
-          "B": "UU 17/2003 disahkan pada tahun 2003 dan merupakan payung umum keuangan negara.",
-          "C": "UU 15/2004 mengatur pemeriksaan pengelolaan dan tanggung jawab keuangan negara.",
-          "D": "UU 25/2004 mengatur sistem perencanaan pembangunan nasional.",
-          "E": "UU 33/2004 mengatur perimbangan keuangan antara pusat dan daerah."
+          "B": "UU 17/2003 disahkan pada tanggal 5 April 2003.",
+          "C": "UU 15/2004 disahkan pada tanggal 19 Juli 2004.",
+          "D": "UU 25/2004 disahkan pada tanggal 5 Oktober 2004.",
+          "E": "UU 30/2014 disahkan pada tanggal 17 Oktober 2014."
         },
         "sumber_rujukan": "Pengelolaan Keuangan Negara"
       }

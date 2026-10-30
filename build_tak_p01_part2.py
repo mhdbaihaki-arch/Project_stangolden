@@ -1,0 +1,936 @@
+import json
+
+q31_q60 = [
+    # Q31 - Hlm 11 - Kunci D
+    {
+        "nomor": 31,
+        "halaman_sumber": 11,
+        "kata_kunci_modul": [
+            "Kompetensi Teknis",
+            "Kompetensi Manajerial, dan Kompetensi Sosial Kultural"
+        ],
+        "topik_materi": "Tiga Standar Kompetensi Jabatan Administrasi",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "PNS yang akan diangkat dalam jabatan administrasi wajib memenuhi tiga jenis standar kompetensi jabatan yaitu...",
+        "pilihan": {
+            "A": "Kompetensi Konseptual, Strategis, dan Hubungan Antarlembaga",
+            "B": "Kompetensi Administratif, Vokasional, dan Komunikasi Publik",
+            "C": "Kompetensi Operasional, Analitis, dan Manajemen Risiko Kerja",
+            "D": "Kompetensi Teknis, Manajerial, dan Sosial Kultural Aparatur",
+            "E": "Kompetensi Kepemimpinan, Kelembagaan, dan Transformasi Digital"
+        },
+        "kunci_jawaban": "D",
+        "pembahasan": {
+            "konsep_materi": "Untuk dapat diangkat dalam **jabatan administrasi**, PNS harus memenuhi standar kompetensi yang mencakup **Kompetensi Teknis**, **Kompetensi Manajerial**, dan **Kompetensi Sosial Kultural**.",
+            "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Regulasi kepegawaian menetapkan bahwa pengangkatan PNS ke dalam jabatan administrasi mensyaratkan pemenuhan tiga pilar standar kompetensi, yaitu Kompetensi Teknis untuk keahlian tugas, Kompetensi Manajerial untuk kepemimpinan dan pengelolaan organisasi, serta Kompetensi Sosial Kultural untuk wawasan kebangsaan dalam masyarakat majemuk. Dengan demikian, ketiga kompetensi tersebut menjadi prasyarat mutlak pengangkatan jabatan administrasi.",
+            "bedah_pengecoh": {
+                "A": "Bukan merupakan pembagian standar kompetensi baku pengangkatan aparatur ke dalam jabatan administrasi.",
+                "B": "Merupakan rumpun keahlian umum dalam kepegawaian dan bukan nomenklatur resmi tiga kompetensi jabatan administrasi.",
+                "C": "Merupakan keterampilan manajerial operasional dan bukan klasifikasi resmi standar kompetensi kepegawaian.",
+                "E": "Merupakan fokus pengembangan organisasi era modern dan bukan nomenklatur tri-kompetensi resmi ASN."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q32 - Hlm 11 - Kunci E
+    {
+        "nomor": 32,
+        "halaman_sumber": 11,
+        "kata_kunci_modul": [
+            "Kompetensi Teknis diukur dari tingkat dan",
+            "pelatihan teknis fungsional, dan pengalaman bekerja"
+        ],
+        "topik_materi": "Indikator Pengukuran Kompetensi Teknis",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Pengukuran Kompetensi Teknis aparatur sipil negara didasarkan pada kualifikasi dan spesialisasi pendidikan, pengalaman kerja teknis, serta...",
+        "pilihan": {
+            "A": "Jenjang kepangkatan serta masa kerja dinas aparatur",
+            "B": "Riwayat penugasan kepemimpinan lintas unit organisasi",
+            "C": "Tingkat keikutsertaan dalam pembinaan wawasan kebangsaan",
+            "D": "Pemenuhan sertifikasi manajerial kepemimpinan nasional",
+            "E": "Pelatihan teknis fungsional kedinasan yang telah diikuti"
+        },
+        "kunci_jawaban": "E",
+        "pembahasan": {
+            "konsep_materi": "**Kompetensi Teknis** diukur dari **tingkat dan spesialisasi pendidikan**, **pelatihan teknis fungsional**, dan **pengalaman bekerja secara teknis**.",
+            "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Berdasarkan ketentuan standar kompetensi kepegawaian, Kompetensi Teknis mencerminkan penguasaan spesifik tugas substansi yang diukur melalui tiga indikator utama, yaitu tingkat dan spesialisasi pendidikan, pelatihan teknis fungsional, serta pengalaman bekerja secara teknis. Keikutsertaan dalam pelatihan teknis fungsional melengkapi kualifikasi formal dan pengalaman kerja teknis pegawai.",
+            "bedah_pengecoh": {
+                "A": "Merupakan komponen riwayat kepangkatan umum dan bukan indikator spesifik pengukur Kompetensi Teknis.",
+                "B": "Merupakan indikator yang digunakan dalam mengukur Kompetensi Manajerial aparatur.",
+                "C": "Merupakan aspek yang dinilai dalam lingkup Kompetensi Sosial Kultural aparatur.",
+                "D": "Merupakan bagian dari instrumen pengembangan Kompetensi Manajerial aparatur sipil negara."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q33 - Hlm 11 - Kunci A
+    {
+        "nomor": 33,
+        "halaman_sumber": 11,
+        "kata_kunci_modul": [
+            "Kompetensi Manajerial diukur dari tingkat pendidikan, pelatihan",
+            "struktural atau manajemen, dan pengalaman kepemimpinan"
+        ],
+        "topik_materi": "Indikator Pengukuran Kompetensi Manajerial",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Indikator utama yang digunakan dalam mengukur Kompetensi Manajerial aparatur sipil negara mencakup...",
+        "pilihan": {
+            "A": "Pendidikan, pelatihan struktural atau manajemen, dan kepemimpinan",
+            "B": "Pengalaman interaksi pelayanan pada lingkungan masyarakat yang majemuk",
+            "C": "Tingkat dan spesialisasi pendidikan serta pelatihan teknis fungsional",
+            "D": "Penguasaan keahlian teknis operasional serta sertifikasi keahlian khusus",
+            "E": "Pemenuhan target angka kredit kinerja serta portofolio profesi mandiri"
+        },
+        "kunci_jawaban": "A",
+        "pembahasan": {
+            "konsep_materi": "**Kompetensi Manajerial** diukur dari **tingkat pendidikan**, **pelatihan struktural atau manajemen**, dan **pengalaman kepemimpinan**.",
+            "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Dalam sistem penilaian standar kompetensi ASN, Kompetensi Manajerial diarahkan untuk menilai kemampuan memimpin, mengelola, dan mengarahkan unit kerja. Ketentuan kepegawaian menetapkan bahwa kompetensi ini diukur secara terpadu melalui tingkat pendidikan aparatur, pelatihan struktural atau manajemen yang ditempuh, serta pengalaman kepemimpinan nyata dalam organisasi birokrasi.",
+            "bedah_pengecoh": {
+                "B": "Merupakan indikator utama dalam pengukuran Kompetensi Sosial Kultural aparatur.",
+                "C": "Merupakan indikator yang dipakai dalam pengukuran Kompetensi Teknis pegawai.",
+                "D": "Merupakan persyaratan khusus penguasaan keahlian pada kelompok Jabatan Fungsional.",
+                "E": "Merupakan instrumen pengukuran capaian kinerja mandiri pejabat fungsional."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q34 - Hlm 11 - Kunci B
+    {
+        "nomor": 34,
+        "halaman_sumber": 11,
+        "kata_kunci_modul": [
+            "Kompetensi Sosial",
+            "dalam hal agama, suku, dan budaya sehingga memiliki wawasan kebangsaan"
+        ],
+        "topik_materi": "Indikator Pengukuran Kompetensi Sosial Kultural",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Penilaian Kompetensi Sosial Kultural aparatur sipil negara diukur melalui pengalaman kerja yang berkaitan dengan...",
+        "pilihan": {
+            "A": "Pengelolaan anggaran belanja dan evaluasi akuntabilitas kinerja satker",
+            "B": "Masyarakat majemuk dalam agama, suku, dan budaya berwawasan kebangsaan",
+            "C": "Koordinasi teknis fungsional dan pendampingan implementasi regulasi baru",
+            "D": "Penyusunan perencanaan strategis serta manajemen tata kelola birokrasi",
+            "E": "Pelaksanaan audit investigatif kepatuhan dan manajemen risiko organisasi"
+        },
+        "kunci_jawaban": "B",
+        "pembahasan": {
+            "konsep_materi": "**Kompetensi Sosial Kultural** diukur dari **pengalaman kerja berkaitan dengan masyarakat majemuk** dalam hal **agama, suku, dan budaya** sehingga memiliki **wawasan kebangsaan**.",
+            "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Ketentuan manajemen ASN menegaskan bahwa Kompetensi Sosial Kultural bertujuan memastikan setiap pegawai mampu menjadi perekat dan pemersatu bangsa dalam penyelenggaraan tugas pemerintahan. Pengukurannya dilakukan melalui pengalaman kerja aparatur dalam berinteraksi dengan masyarakat majemuk yang beraneka ragam latar belakang agama, suku, dan budaya.",
+            "bedah_pengecoh": {
+                "A": "Merupakan bidang tugas perbendaharaan dan akuntabilitas keuangan negara.",
+                "C": "Merupakan aspek pelaksanaan koordinasi teknis dan kepatuhan administratif.",
+                "D": "Merupakan ruang lingkup keahlian perencanaan manajerial pimpinan unit kerja.",
+                "E": "Merupakan fungsi pengawasan internal dan mitigasi risiko kelembagaan."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q35 - Hlm 11 - Kunci C
+    {
+        "nomor": 35,
+        "halaman_sumber": 11,
+        "kata_kunci_modul": [
+            "diberhentikan dari jabatan administrasi apabila",
+            "menjalani tugas belajar lebih dari 6 (enam) bulan"
+        ],
+        "topik_materi": "Pemberhentian Jabatan Administrasi karena Tugas Belajar",
+        "level_kognitif": "C3 - Aplikasi",
+        "pertanyaan": "Seorang pejabat administrator ditugaskan menjalani tugas belajar selama 12 bulan. Berdasarkan PP 11/2017 jo PP 17/2020, konsekuensi terhadap jabatannya adalah...",
+        "pilihan": {
+            "A": "Tetap memangku jabatan dengan penunjukan pelaksana tugas harian",
+            "B": "Dialihkan menjadi pejabat fungsional keahlian madya secara otomatis",
+            "C": "Diberhentikan dari jabatan administrasi yang sedang didudukinya",
+            "D": "Diturunkan satu tingkat ke dalam jabatan pengawas selama studi",
+            "E": "Dibebaskan sementara dari tugas dinas tanpa kehilangan jabatannya"
+        },
+        "kunci_jawaban": "C",
+        "pembahasan": {
+            "konsep_materi": "PNS **diberhentikan dari jabatan administrasi** apabila **menjalani tugas belajar lebih dari 6 (enam) bulan**.",
+            "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Berdasarkan ketentuan Pasal dalam PP 11/2017 stdd PP 17/2020, salah satu penyebab pemberhentian PNS dari jabatan administrasi adalah penugasan menjalani tugas belajar yang berdurasi lebih dari 6 bulan. Karena pejabat administrator tersebut menjalani tugas belajar selama 12 bulan, secara hukum ia wajib diberhentikan dari jabatan administrasi yang diembannya.",
+            "bedah_pengecoh": {
+                "A": "Ketentuan regulasi mewajibkan pemberhentian dari jabatan definitif bila tugas belajar melampaui 6 bulan.",
+                "B": "Pengalihan ke jabatan fungsional memerlukan mekanisme penyesuaian/inpassing tersendiri dan tidak terjadi otomatis.",
+                "D": "Penurunan jabatan hanya dapat dijatuhkan sebagai sanksi hukuman disiplin berat dan bukan akibat tugas belajar.",
+                "E": "Pembebasan sementara tanpa pemberhentian jabatan bertentangan dengan ketentuan PP 11/2017 jo PP 17/2020."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q36 - Hlm 11 - Kunci D
+    {
+        "nomor": 36,
+        "halaman_sumber": 11,
+        "kata_kunci_modul": [
+            "PNS dapat",
+            "diberhentikan dari jabatan administrasi apabila"
+        ],
+        "topik_materi": "Penyebab Pemberhentian dari Jabatan Administrasi",
+        "level_kognitif": "C4 - Analisis",
+        "pertanyaan": "Berikut ini merupakan alasan sah pemberhentian PNS dari jabatan administrasi sesuai regulasi, KECUALI...",
+        "pilihan": {
+            "A": "Mengundurkan diri secara resmi dari jabatan administrasi",
+            "B": "Diberhentikan untuk sementara waktu dari status sebagai PNS",
+            "C": "Menjalani cuti resmi di luar tanggungan negara dari instansi",
+            "D": "Menjalani cuti tahunan kedinasan sesuai hak pegawai aparatur",
+            "E": "Ditugaskan secara penuh pada penugasan luar jabatan administrasi"
+        },
+        "kunci_jawaban": "D",
+        "pembahasan": {
+            "konsep_materi": "PNS **diberhentikan dari jabatan administrasi** apabila: **mengundurkan diri**, **diberhentikan sementara sebagai PNS**, **menjalani cuti di luar tanggungan negara**, **tugas belajar lebih dari 6 bulan**, **ditugaskan penuh di luar jabatan administrasi**, atau **tidak memenuhi persyaratan jabatan**.",
+            "alasan_kunci": "Opsi D merupakan jawaban yang tepat sebagai pengecualian. Menjalani cuti tahunan merupakan hak normatif kedinasan berkala bagi aparatur sipil negara yang tidak mengakibatkan pemberhentian dari jabatan administrasi. Sebaliknya, opsi A, B, C, dan E merupakan sebab sah pemberhentian dari jabatan administrasi sebagaimana diatur secara limitatif dalam PP 11/2017 jo PP 17/2020.",
+            "bedah_pengecoh": {
+                "A": "Merupakan alasan sah pemberhentian dari jabatan administrasi huruf a.",
+                "B": "Merupakan alasan sah pemberhentian dari jabatan administrasi huruf b.",
+                "C": "Merupakan alasan sah pemberhentian dari jabatan administrasi huruf c.",
+                "E": "Merupakan alasan sah pemberhentian dari jabatan administrasi huruf e."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q37 - Hlm 11 - Kunci E
+    {
+        "nomor": 37,
+        "halaman_sumber": 11,
+        "kata_kunci_modul": [
+            "Jabatan nonmanajerial adalah sekelompok jabatan yang mengutamakan",
+            "jawab langsung dalam mengelola dan mengawasi kinerja pegawai. Jabatan"
+        ],
+        "topik_materi": "Definisi Jabatan Nonmanajerial",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Kelompok jabatan dalam aparatur yang mengutamakan kompetensi teknis tanpa tanggung jawab memimpin dan mengawasi kinerja pegawai adalah...",
+        "pilihan": {
+            "A": "Kelompok Jabatan Pengawas Wilayah",
+            "B": "Kelompok Jabatan Administrator Daerah",
+            "C": "Kelompok Jabatan Pimpinan Tinggi Madya",
+            "D": "Kelompok Jabatan Pimpinan Tinggi Pratama",
+            "E": "Kelompok Jabatan Nonmanajerial Aparatur"
+        },
+        "kunci_jawaban": "E",
+        "pembahasan": {
+            "konsep_materi": "**Jabatan nonmanajerial** adalah sekelompok jabatan yang **mengutamakan kompetensi yang bersifat teknis sesuai bidangnya** dan **tidak memiliki tanggung jawab langsung dalam mengelola dan mengawasi kinerja pegawai**.",
+            "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Berdasarkan klasifikasi jabatan aparatur sipil negara, jabatan dibagi menjadi Jabatan Manajerial dan Jabatan Nonmanajerial. Jabatan Nonmanajerial berfokus pada keahlian dan keterampilan teknis tanpa fungsi kepemimpinan struktural bawahan, yang terdiri atas Jabatan Fungsional dan Jabatan Pelaksana. Hal ini membedakannya secara tegas dari seluruh jenjang jabatan manajerial.",
+            "bedah_pengecoh": {
+                "A": "Merupakan jenjang jabatan manajerial tingkat dasar yang mengawasi kinerja pejabat pelaksana.",
+                "B": "Merupakan jenjang jabatan manajerial tingkat menengah yang memimpin unit kerja administrator.",
+                "C": "Merupakan jenjang jabatan manajerial tingkat tinggi pada eselon madya.",
+                "D": "Merupakan jenjang jabatan manajerial tingkat tinggi pada eselon pratama."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q38 - Hlm 11 - Kunci A
+    {
+        "nomor": 38,
+        "halaman_sumber": 11,
+        "kata_kunci_modul": [
+            "seluruh kegiatan yang sudah direncanakan dengan baik dan efisien sesuai",
+            "secara berkesinambungan, bagi Jabatan administrator"
+        ],
+        "topik_materi": "Akuntabilitas Jabatan Administrator",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Akuntabilitas jabatan yang wajib dipenuhi oleh seorang pejabat administrator di lingkungan birokrasi pemerintahan adalah...",
+        "pilihan": {
+            "A": "Terlaksananya kegiatan secara efisien dan peningkatan kinerja berkesinambungan",
+            "B": "Pengendalian langsung pelaksanaan seluruh kegiatan pejabat pelaksana di unitnya",
+            "C": "Pelaksanaan kegiatan operasional rutin pelayanan sesuai standar operasional dinas",
+            "D": "Perumusan dan penetapan arah kebijakan strategis makro kepegawaian instansi",
+            "E": "Pengawasan independen penerapan sistem merit aparatur pada kementerian/lembaga"
+        },
+        "kunci_jawaban": "A",
+        "pembahasan": {
+            "konsep_materi": "Akuntabilitas **Jabatan Administrator** menjamin **seluruh kegiatan yang sudah direncanakan dengan baik dan efisien sesuai SOP** dan terselenggaranya **peningkatan kinerja secara berkesinambungan**.",
+            "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Ketentuan akuntabilitas jabatan dalam PP manajemen PNS menetapkan bahwa pejabat administrator bertanggung jawab memastikan perencanaan kegiatan terlaksana secara efisien sesuai SOP sekaligus memacu peningkatan kinerja organisasi secara berkelanjutan. Tanggung jawab ini menempatkan administrator sebagai penggerak utama efisiensi program kerja instansi.",
+            "bedah_pengecoh": {
+                "B": "Merupakan wujud akuntabilitas jabatan yang menjadi tanggung jawab Jabatan Pengawas.",
+                "C": "Merupakan wujud akuntabilitas jabatan yang menjadi beban tugas Jabatan Pelaksana.",
+                "D": "Merupakan kewenangan manajerial tingkat tinggi pada jenjang Jabatan Pimpinan Tinggi.",
+                "E": "Merupakan mandat kelembagaan yang diemban oleh Kementerian PAN-RB."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q39 - Hlm 11 - Kunci B
+    {
+        "nomor": 39,
+        "halaman_sumber": 11,
+        "kata_kunci_modul": [
+            "kegiatan sesuai dengan standar operasional prosedur, bagi Jabatan",
+            "pelaksana."
+        ],
+        "topik_materi": "Akuntabilitas Jabatan Pelaksana",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Akuntabilitas jabatan yang menjadi tanggung jawab utama pegawai pada kelompok Jabatan Pelaksana adalah menjamin terlaksananya...",
+        "pilihan": {
+            "A": "Pengendalian seluruh kegiatan pelaksanaan tugas teknis pejabat pengawas",
+            "B": "Kegiatan tugas kedinasan secara tertib sesuai standar operasional prosedur",
+            "C": "Perencanaan program kerja unit kerja secara efisien dan berkesinambungan",
+            "D": "Evaluasi capaian kinerja strategis organisasi tingkat kementerian/lembaga",
+            "E": "Pembinaan profesi serta fasilitasi pengembangan kompetensi teknis pegawai"
+        },
+        "kunci_jawaban": "B",
+        "pembahasan": {
+            "konsep_materi": "Akuntabilitas **Jabatan Pelaksana** adalah menjamin terlaksananya **kegiatan sesuai dengan standar operasional prosedur**.",
+            "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Berdasarkan regulasi manajemen ASN, akuntabilitas jabatan bagi kelompok Jabatan Pelaksana difokuskan pada eksekusi tugas pelayanan dan pekerjaan administrasi rutin secara tepat dan taat pada SOP yang berlaku. Dengan memastikan setiap tahapan pekerjaan sesuai SOP, mutu output pelayanan satuan kerja dapat terjaga secara konsisten.",
+            "bedah_pengecoh": {
+                "A": "Pengendalian kegiatan pelaksana merupakan akuntabilitas Jabatan Pengawas, bukan pelaksana.",
+                "C": "Perencanaan efisien dan peningkatan kinerja berkesinambungan adalah akuntabilitas Jabatan Administrator.",
+                "D": "Evaluasi kinerja strategis makro merupakan tanggung jawab Jabatan Pimpinan Tinggi.",
+                "E": "Pembinaan profesi kepegawaian merupakan fungsi kementerian dan instansi pembina."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q40 - Hlm 11 - Kunci C
+    {
+        "nomor": 40,
+        "halaman_sumber": 11,
+        "kata_kunci_modul": [
+            "Jabatan Fungsional (JF) adalah sekelompok jabatan yang berisi fungsi",
+            "keahlian dan keterampilan tertentu. Jabatan fungsional dalam ASN terdiri atas"
+        ],
+        "topik_materi": "Definisi Jabatan Fungsional",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Sekelompok jabatan dalam birokrasi yang berisi fungsi dan tugas pelayanan berbasis keahlian serta keterampilan tertentu disebut...",
+        "pilihan": {
+            "A": "Jabatan Manajerial Tingkat Pratama",
+            "B": "Jabatan Administrasi Bidang Pengawasan",
+            "C": "Jabatan Fungsional Aparatur Sipil Negara",
+            "D": "Jabatan Eksekutif Perencanaan Pembangunan",
+            "E": "Jabatan Struktural Pelaksana Operasional"
+        },
+        "kunci_jawaban": "C",
+        "pembahasan": {
+            "konsep_materi": "**Jabatan Fungsional (JF)** adalah sekelompok jabatan yang berisi **fungsi dan tugas berkaitan dengan pelayanan fungsional** yang berdasarkan pada **keahlian dan keterampilan tertentu**.",
+            "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Ketentuan UU ASN dan peraturan pelaksanaannya mendefinisikan Jabatan Fungsional sebagai kelompok jabatan karier profesional aparatur yang bertugas menyelenggarakan pelayanan teknis fungsional berdasarkan disiplin keahlian atau keterampilan tertentu. Jabatan ini mandiri dan terbagi ke dalam kategori keahlian dan kategori keterampilan.",
+            "bedah_pengecoh": {
+                "A": "Merupakan jabatan manajerial struktural eselon dua yang memimpin unit organisasi.",
+                "B": "Merupakan rumpun jabatan administrasi manajerial tingkat dasar (pengawas).",
+                "D": "Merupakan nomenklatur fungsional perencana dan bukan definisi umum rumpun JF.",
+                "E": "Merupakan sebutan jabatan administrasi operasional dan bukan jabatan berbasis keahlian profesi."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+
+    # Q41 - Hlm 12 - Kunci E
+    {
+        "nomor": 41,
+        "halaman_sumber": 12,
+        "kata_kunci_modul": [
+            "jabatan fungsional keahlian terdiri atas Ahli utama, Ahli madya, Ahli muda dan",
+            "Ahli pertama. Sementara jabatan fungsional keterampilan terdiri atas Penyelia"
+        ],
+        "topik_materi": "Jenjang Jabatan Fungsional Keahlian",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Jenjang Jabatan Fungsional Keahlian dari tingkatan tertinggi hingga tingkatan terendah secara berurutan adalah...",
+        "pilihan": {
+            "A": "Penyelia, Mahir, Terampil, dan Pemula",
+            "B": "Utama, Madya, Pratama, dan Administrator",
+            "C": "Pembina Utama, Penata, Pengatur, dan Juru",
+            "D": "Pengawas, Administrator, Pratama, dan Madya",
+            "E": "Ahli Utama, Ahli Madya, Ahli Muda, dan Ahli Pertama"
+        },
+        "kunci_jawaban": "E",
+        "pembahasan": {
+            "konsep_materi": "**Jabatan fungsional keahlian** terdiri atas **Ahli utama**, **Ahli madya**, **Ahli muda**, dan **Ahli pertama**.",
+            "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Regulasi kepegawaian menetapkan secara hierarkis bahwa Jabatan Fungsional Keahlian terdiri atas 4 jenjang tingkatan, dimulai dari yang tertinggi yaitu Ahli Utama, diikuti Ahli Madya, Ahli Muda, dan jenjang awal yaitu Ahli Pertama. Setiap jenjang mencerminkan tingkat kesulitan tugas, kompetensi, dan persyaratan kualifikasi pendidikan minimal.",
+            "bedah_pengecoh": {
+                "A": "Merupakan susunan 4 jenjang tingkatan pada Jabatan Fungsional Keterampilan.",
+                "B": "Merupakan campuran antara jenjang jabatan pimpinan tinggi dan jabatan administrator.",
+                "C": "Merupakan susunan golongan ruang kepangkatan PNS tradisional (IV, III, II, I).",
+                "D": "Merupakan perpaduan jenjang jabatan administrasi dan jabatan manajerial tinggi."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q42 - Hlm 12 - Kunci A
+    {
+        "nomor": 42,
+        "halaman_sumber": 12,
+        "kata_kunci_modul": [
+            "Mahir, Terampil, dan Pemula.",
+            "Berbeda dengan Jabatan Administrasi, Jabatan Fungsional ditetapkan"
+        ],
+        "topik_materi": "Jenjang Jabatan Fungsional Keterampilan",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Jenjang tingkatan resmi pada Jabatan Fungsional Keterampilan terdiri atas...",
+        "pilihan": {
+            "A": "Penyelia, Mahir, Terampil, dan Pemula",
+            "B": "Ahli Utama, Ahli Madya, dan Ahli Muda",
+            "C": "Administrator, Pengawas, dan Pelaksana",
+            "D": "Utama, Madya, Muda, dan Pertama",
+            "E": "Penata Tingkat Satu, Penata, dan Pengatur"
+        },
+        "kunci_jawaban": "A",
+        "pembahasan": {
+            "konsep_materi": "**Jabatan fungsional keterampilan** terdiri atas **Penyelia**, **Mahir**, **Terampil**, dan **Pemula**.",
+            "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Berdasarkan ketentuan PP manajemen PNS, Jabatan Fungsional Keterampilan memiliki 4 tingkatan jenjang jabatan dari yang tertinggi hingga terendah, yaitu jenjang Penyelia, Mahir, Terampil, dan Pemula. Pengelompokan ini disesuaikan dengan tingkat keterampilan teknis dan sertifikasi profesi yang dipersyaratkan.",
+            "bedah_pengecoh": {
+                "B": "Merupakan tiga jenjang teratas dari rumpun Jabatan Fungsional Keahlian.",
+                "C": "Merupakan tiga tingkatan pada rumpun Jabatan Administrasi aparatur.",
+                "D": "Merupakan penamaan singkat jenjang pada Jabatan Fungsional Keahlian.",
+                "E": "Merupakan susunan pangkat reguler dalam golongan ruang III dan II kepegawaian."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q43 - Hlm 12 - Kunci B
+    {
+        "nomor": 43,
+        "halaman_sumber": 12,
+        "kata_kunci_modul": [
+            "kegiatannya dapat diukur dengan satuan nilai atau akumulasi nilai butir-butir",
+            "kegiatan dalam bentuk angka kredit."
+        ],
+        "topik_materi": "Pengukuran Kinerja JF melalui Angka Kredit",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Kriteria penilaian kegiatan pada Jabatan Fungsional diukur dengan satuan nilai atau akumulasi butir kegiatan berupa...",
+        "pilihan": {
+            "A": "Persentase serapan anggaran kegiatan satuan kerja",
+            "B": "Angka kredit butir kegiatan tugas profesi jabatan",
+            "C": "Indeks kepuasan pelayanan pemangku kepentingan unit",
+            "D": "Poin evaluasi kepatuhan tata kelola administrasi",
+            "E": "Nilai kuantitatif capaian perjanjian kinerja tahunan"
+        },
+        "kunci_jawaban": "B",
+        "pembahasan": {
+            "konsep_materi": "Salah satu kriteria Jabatan Fungsional adalah **kegiatannya dapat diukur dengan satuan nilai atau akumulasi nilai butir-butir kegiatan dalam bentuk angka kredit**.",
+            "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Sesuai kriteria pokok pembentukan Jabatan Fungsional, setiap rincian uraian tugas kedinasan memiliki bobot nilai tertentu yang diakumulasikan dalam bentuk angka kredit. Angka kredit ini menjadi instrumen utama penetapan prestasi kerja serta syarat kenaikan pangkat atau kenaikan jenjang jabatan fungsional.",
+            "bedah_pengecoh": {
+                "A": "Merupakan tolok ukur penyerapan anggaran keuangan dan bukan pengukuran butir tugas JF.",
+                "C": "Merupakan indikator kepuasan publik terhadap unit pelayanan birokrasi.",
+                "D": "Merupakan instrumen kepatuhan tata kelola pengawasan internal satker.",
+                "E": "Merupakan capaian sasaran kinerja pegawai (SKP) tahunan secara umum."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q44 - Hlm 12 - Kunci C
+    {
+        "nomor": 44,
+        "halaman_sumber": 12,
+        "kata_kunci_modul": [
+            "Pengangkatan PNS ke dalam Jabatan Fungsional keahlian maupun",
+            "pertama, perpindahan dari Jabatan lain, penyesuaian dan/atau promosi dengan"
+        ],
+        "topik_materi": "Empat Mekanisme Pengangkatan Jabatan Fungsional",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Pengangkatan PNS ke dalam Jabatan Fungsional dapat dilaksanakan melalui empat mekanisme resmi yaitu...",
+        "pilihan": {
+            "A": "Seleksi terbuka, pemindahan instansi, rotasi periodik, dan afirmasi",
+            "B": "Uji kelayakan dinas, penugasan khusus, pelimpahan tugas, dan demosi",
+            "C": "Pengangkatan pertama, perpindahan jabatan, penyesuaian, dan promosi",
+            "D": "Penyetaraan jabatan, penugasan perbantuan, magang dinas, dan seleksi",
+            "E": "Rekrutmen umum, pemeringkatan kinerja, kenaikan pangkat, dan mutasi"
+        },
+        "kunci_jawaban": "C",
+        "pembahasan": {
+            "konsep_materi": "Pengangkatan PNS ke dalam Jabatan Fungsional dilakukan melalui mekanisme **pengangkatan pertama**, **perpindahan dari Jabatan lain**, **penyesuaian**, dan/atau **promosi**.",
+            "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Berdasarkan ketentuan PP 11/2017 stdd PP 17/2020, pengangkatan PNS ke dalam Jabatan Fungsional keahlian maupun keterampilan diatur secara ketat melalui 4 jalur resmi, yaitu pengangkatan pertama (dari formasi CPNS), perpindahan dari jabatan lain (struktural/pelaksana), penyesuaian/inpassing, dan jalur promosi kinerja.",
+            "bedah_pengecoh": {
+                "A": "Merupakan metode pengisian Jabatan Pimpinan Tinggi dan pola mutasi pegawai.",
+                "B": "Merupakan ragam penugasan administratif serta sanksi penurunan jabatan kedinasan.",
+                "D": "Merupakan mekanisme penataan birokrasi dan bukan empat pintu resmi pengangkatan JF.",
+                "E": "Merupakan tahapan manajemen karier umum dan bukan mekanisme pengangkatan JF."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q45 - Hlm 12 - Kunci D
+    {
+        "nomor": 45,
+        "halaman_sumber": 12,
+        "kata_kunci_modul": [
+            "Demikian pula PNS dapat diberhentikan dari Jabatan Fungsional apabila:",
+            "ditugaskan secara penuh di luar JF; atau"
+        ],
+        "topik_materi": "Pemberhentian JF karena Penugasan Penuh di Luar JF",
+        "level_kognitif": "C3 - Aplikasi",
+        "pertanyaan": "Seorang pejabat fungsional ditugaskan secara penuh menduduki jabatan struktural administrator. Kedudukan jabatan fungsionalnya adalah...",
+        "pilihan": {
+            "A": "Merangkap kedua jabatan dengan pembagian beban kerja berimbang",
+            "B": "Berstatus cuti jabatan fungsional selama masa penugasan berlangsung",
+            "C": "Dinonaktifkan sementara hak penggajiannya sebagai pegawai aparatur",
+            "D": "Diberhentikan dari jabatan fungsional yang sebelumnya didudukinya",
+            "E": "Ditangguhkan penilaian angka kreditnya hingga masa jabatan berakhir"
+        },
+        "kunci_jawaban": "D",
+        "pembahasan": {
+            "konsep_materi": "PNS **diberhentikan dari Jabatan Fungsional** apabila **ditugaskan secara penuh di luar JF**.",
+            "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Dalam sistem tata aturan kepegawaian ASN, penugasan secara penuh pada jabatan lain di luar Jabatan Fungsional (misalnya memegang jabatan manajerial administrator struktural) mengakibatkan PNS diberhentikan dari JF yang didudukinya. Hal ini bertujuan mencegah terjadinya rangkap jabatan serta menjaga kepatuhan akuntabilitas pada jabatan definitif yang baru.",
+            "bedah_pengecoh": {
+                "A": "Regulasi melarang keras perangkapan jabatan struktural dan jabatan fungsional.",
+                "B": "Hukum kepegawaian tidak mengenal status cuti jabatan fungsional akibat penugasan struktural.",
+                "C": "Hak penggajian PNS tetap berjalan sesuai ketentuan jabatan definitif yang sedang diemban.",
+                "E": "Bukan sekadar penangguhan angka kredit, melainkan diberhentikan dari jabatan fungsionalnya."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q46 - Hlm 12 - Kunci E
+    {
+        "nomor": 46,
+        "halaman_sumber": 12,
+        "kata_kunci_modul": [
+            "s.d.huruf (e) dapat diangkat kembali sesuai dengan jenjang Jabatan Fungsional",
+            "terakhir apabila tersedia lowongan Jabatan."
+        ],
+        "topik_materi": "Pengangkatan Kembali ke Jabatan Fungsional",
+        "level_kognitif": "C3 - Aplikasi",
+        "pertanyaan": "PNS yang telah selesai menjalani tugas belajar lebih dari 6 bulan dapat diangkat kembali ke jenjang JF terakhir dengan syarat...",
+        "pilihan": {
+            "A": "Memperoleh persetujuan tertulis dari instansi pembina fungsional",
+            "B": "Menyelesaikan masa uji kompetensi penyesuaian selama satu tahun",
+            "C": "Memiliki rekomendasi khusus dari pejabat pembina kepegawaian pusat",
+            "D": "Mengajukan usulan formasi baru ke kementerian koordinator terkait",
+            "E": "Tersedia lowongan kebutuhan formasi jabatan pada jenjang terakhir"
+        },
+        "kunci_jawaban": "E",
+        "pembahasan": {
+            "konsep_materi": "PNS yang diberhentikan dari JF karena tugas belajar lebih dari 6 bulan **dapat diangkat kembali sesuai dengan jenjang Jabatan Fungsional terakhir apabila tersedia lowongan Jabatan**.",
+            "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Ketentuan Pasal PP 11/2017 jo PP 17/2020 menegaskan bahwa PNS yang diberhentikan dari JF karena alasan huruf b sampai dengan e (termasuk tugas belajar lebih dari 6 bulan) berhak diangkat kembali ke jenjang jabatan fungsional terakhir yang didudukinya, dengan syarat mutlak tersedianya formasi atau lowongan jabatan pada instansi tersebut.",
+            "bedah_pengecoh": {
+                "A": "Persetujuan instansi pembina bukan syarat pokok yang ditentukan dalam teks regulasi pengangkatan kembali.",
+                "B": "Tidak dipersyaratkan masa uji kompetensi penyesuaian satu tahun untuk pengangkatan kembali ke jenjang terakhir.",
+                "C": "Pengangkatan kembali diproses oleh PPK instansi berdasar ketersediaan lowongan tanpa butuh rekomendasi khusus pusat.",
+                "D": "Pengangkatan kembali memanfaatkan alokasi formasi internal instansi yang tersedia tanpa membuat usulan ke kemenko."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q47 - Hlm 12 - Kunci A
+    {
+        "nomor": 47,
+        "halaman_sumber": 12,
+        "kata_kunci_modul": [
+            "b. Jabatan Pelaksana",
+            "Bertanggung jawab memberikan pelayanan dan melaksanakan pekerjaan"
+        ],
+        "topik_materi": "Tanggung Jawab Jabatan Pelaksana",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Kelompok Jabatan Pelaksana pada instansi pemerintah memiliki tanggung jawab utama dalam memberikan pelayanan serta...",
+        "pilihan": {
+            "A": "Melaksanakan pekerjaan operasional yang bersifat rutin dan sederhana",
+            "B": "Mengendalikan pelaksanaan seluruh program kerja yang dipimpin administrator",
+            "C": "Menetapkan arah kebijakan teknis instansi secara mandiri dan profesional",
+            "D": "Merumuskan perencanaan strategis penataan kelembagaan birokrasi daerah",
+            "E": "Melakukan koordinasi lintas sektoral dalam pengawasan sistem merit ASN"
+        },
+        "kunci_jawaban": "A",
+        "pembahasan": {
+            "konsep_materi": "**Jabatan Pelaksana** bertanggung jawab **memberikan pelayanan dan melaksanakan pekerjaan yang bersifat rutin dan sederhana**.",
+            "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Berdasarkan klasifikasi jabatan nonmanajerial pada modul kepegawaian, kelompok Jabatan Pelaksana dirancang untuk menopang kelancaran operasional birokrasi sehari-hari dengan fokus tanggung jawab pada pemberian pelayanan kedinasan dan penyelesaian tugas-tugas administratif rutin dan sederhana sesuai arahan pimpinan.",
+            "bedah_pengecoh": {
+                "B": "Pengendalian pelaksanaan program kerja pelaksana merupakan lingkup tanggung jawab Jabatan Pengawas.",
+                "C": "Penetapan kebijakan teknis mandiri berbasis profesi merupakan ranah Jabatan Fungsional keahlian.",
+                "D": "Perumusan perencanaan kelembagaan birokrasi merupakan fungsi Jabatan Pimpinan Tinggi dan Administrator.",
+                "E": "Koordinasi pengawasan penerapan sistem merit merupakan kewenangan Kementerian PAN-RB."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q48 - Hlm 12 - Kunci B
+    {
+        "nomor": 48,
+        "halaman_sumber": 12,
+        "kata_kunci_modul": [
+            "pelaksanaan tugas yang bersifat mandiri dalam menjalankan tugas",
+            "profesinya; dan"
+        ],
+        "topik_materi": "Sifat Mandiri dalam Tugas Jabatan Fungsional",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Salah satu kriteria khusus pelaksanaan tugas pada Jabatan Fungsional yang membedakannya dengan jabatan administrasi adalah...",
+        "pilihan": {
+            "A": "Kewenangan memimpin langsung unit organisasi struktural dinas",
+            "B": "Pelaksanaan tugas yang bersifat mandiri dalam profesi keahlian",
+            "C": "Tanggung jawab mengendalikan kinerja pejabat pelaksana di unit",
+            "D": "Kebebasan menentukan standar operasional prosedur kerja sendiri",
+            "E": "Kewenangan menetapkan struktur formasi kepegawaian unit kantor"
+        },
+        "kunci_jawaban": "B",
+        "pembahasan": {
+            "konsep_materi": "Salah satu kriteria Jabatan Fungsional adalah **pelaksanaan tugas yang bersifat mandiri dalam menjalankan tugas profesinya**.",
+            "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Kriteria pembentukan Jabatan Fungsional menegaskan bahwa pejabat fungsional menjalankan tugas profesi secara mandiri dengan bersandar pada keahlian, kode etik profesi, dan metodologi teknis tertentu, bukan berdasarkan rantai komando instruksi struktural harian seperti pada jabatan administrasi.",
+            "bedah_pengecoh": {
+                "A": "Memimpin unit organisasi merupakan kewenangan pada kelompok Jabatan Manajerial.",
+                "C": "Mengendalikan kinerja pejabat pelaksana merupakan akuntabilitas Jabatan Pengawas.",
+                "D": "SOP tetap ditetapkan secara kelembagaan oleh instansi dan tidak ditentukan sendiri oleh pegawai.",
+                "E": "Penetapan struktur formasi kepegawaian merupakan wewenang PPK dan Menteri PAN-RB."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q49 - Hlm 12 - Kunci C
+    {
+        "nomor": 49,
+        "halaman_sumber": 12,
+        "kata_kunci_modul": [
+            "mensyaratkan keahlian atau keterampilan tertentu yang dibuktikan",
+            "dengan sertifikasi dan/atau penilaian tertentu;"
+        ],
+        "topik_materi": "Bukti Sertifikasi dan Penilaian Jabatan Fungsional",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Penguasaan keahlian atau keterampilan tertentu pada Jabatan Fungsional wajib dibuktikan oleh aparatur melalui...",
+        "pilihan": {
+            "A": "Penilaian kepatuhan disiplin kehadiran dari atasan langsung",
+            "B": "Hasil evaluasi akuntabilitas kinerja instansi pemerintah tahunan",
+            "C": "Sertifikasi kompetensi dan/atau penilaian kompetensi tertentu",
+            "D": "Surat rekomendasi kelayakan tugas dari tim penilai kinerja dinas",
+            "E": "Bukti kelulusan pendidikan dan pelatihan kepemimpinan pengawas"
+        },
+        "kunci_jawaban": "C",
+        "pembahasan": {
+            "konsep_materi": "Kriteria penetapan Jabatan Fungsional mensyaratkan **keahlian atau keterampilan tertentu yang dibuktikan dengan sertifikasi dan/atau penilaian tertentu**.",
+            "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Dalam tata kelola JF, penugasan aparatur ke dalam rumpun jabatan berbasis profesi menuntut legitimasi formal atas kompetensi yang dimiliki. Ketentuan modul kepegawaian secara eksplisit menyebutkan bahwa penguasaan keahlian atau keterampilan wajib dibuktikan melalui sertifikasi kompetensi resmi dan/atau proses penilaian teknis tertentu.",
+            "bedah_pengecoh": {
+                "A": "Disiplin kehadiran merupakan kewajiban umum seluruh PNS dan bukan bukti keahlian fungsional.",
+                "B": "Evaluasi AKIP mengukur kinerja kelembagaan instansi secara makro, bukan sertifikasi profesi individu.",
+                "D": "Surat rekomendasi merupakan bagian proses administratif namun bukan instrumen sertifikasi/penilaian keahlian.",
+                "E": "Diklat kepemimpinan pengawas diperuntukkan bagi pejabat manajerial pengawas, bukan sertifikasi JF."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q50 - Hlm 12 - Kunci D
+    {
+        "nomor": 50,
+        "halaman_sumber": 12,
+        "kata_kunci_modul": [
+            "Demikian pula PNS dapat diberhentikan dari Jabatan Fungsional apabila:",
+            "tidak memenuhi persyaratan Jabatan."
+        ],
+        "topik_materi": "Pemberhentian JF karena Tidak Memenuhi Syarat Jabatan",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Pejabat Pembina Kepegawaian dapat memberhentikan seorang PNS dari Jabatan Fungsional yang didudukinya apabila pegawai...",
+        "pilihan": {
+            "A": "Mengajukan usulan kenaikan jenjang jabatan fungsional baru",
+            "B": "Mengikuti penugasan uji kompetensi kenaikan jenjang profesi",
+            "C": "Mengambil hak cuti melahirkan atau cuti sakit sesuai aturan",
+            "D": "Tidak lagi memenuhi persyaratan yang ditentukan bagi jabatannya",
+            "E": "Memperoleh penugasan sebagai narasumber teknis pada diklat resmi"
+        },
+        "kunci_jawaban": "D",
+        "pembahasan": {
+            "konsep_materi": "PNS **diberhentikan dari Jabatan Fungsional** apabila **tidak memenuhi persyaratan Jabatan**.",
+            "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Berdasarkan PP 11/2017 jo PP 17/2020 poin ke-6, seorang PNS diberhentikan dari Jabatan Fungsional apabila tidak lagi memenuhi persyaratan jabatan yang ditetapkan, misalnya tidak terpenuhinya target angka kredit minimal dalam jangka waktu tertentu, sertifikasi profesi kedaluwarsa tanpa perpanjangan, atau persyaratan kualifikasi lain yang diwajibkan.",
+            "bedah_pengecoh": {
+                "A": "Pengusulan kenaikan jenjang merupakan proses pengembangan karier yang sah dan wajar bagi pejabat fungsional.",
+                "B": "Mengikuti uji kompetensi merupakan tahapan reguler untuk promosi jenjang dan bukan dasar pemberhentian.",
+                "C": "Cuti melahirkan dan cuti sakit merupakan hak cuti sah pegawai yang dilindungi undang-undang.",
+                "E": "Penugasan narasumber diklat adalah aktivitas pengembangan yang lazim dan bernilai angka kredit."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+
+    # Q51 - Hlm 13 - Kunci A
+    {
+        "nomor": 51,
+        "halaman_sumber": 13,
+        "kata_kunci_modul": [
+            "jabatan eselon Ia kepala lembaga pemerintah nonkementerian setara",
+            "dengan jabatan pimpinan tinggi utama;"
+        ],
+        "topik_materi": "Penyetaraan Eselon Ia Kepala LPNK",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Berdasarkan ketentuan penyetaraan jabatan PNS, posisi eselon Ia kepala lembaga pemerintah nonkementerian setara dengan...",
+        "pilihan": {
+            "A": "Jabatan Pimpinan Tinggi Utama",
+            "B": "Jabatan Pimpinan Tinggi Madya",
+            "C": "Jabatan Pimpinan Tinggi Pratama",
+            "D": "Jabatan Administrator Tingkat Satu",
+            "E": "Jabatan Fungsional Ahli Utama"
+        },
+        "kunci_jawaban": "A",
+        "pembahasan": {
+            "konsep_materi": "Pada saat UU Nomor 5 Tahun 2014 mulai berlaku, **jabatan eselon Ia kepala lembaga pemerintah nonkementerian setara dengan jabatan pimpinan tinggi utama**.",
+            "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Dalam penyetaraan nomenklatur jabatan struktural lama ke dalam struktur UU ASN, posisi eselon Ia yang memimpin lembaga pemerintah nonkementerian (LPNK) secara khusus disetarakan ke dalam Jabatan Pimpinan Tinggi (JPT) Utama. Posisi ini memegang kepemimpinan tertinggi pada instansi nonkementerian di bawah Presiden.",
+            "bedah_pengecoh": {
+                "B": "Eselon Ia non-kepala LPNK dan eselon Ib disetarakan dengan JPT Madya, bukan Utama.",
+                "C": "Eselon II disetarakan dengan JPT Pratama.",
+                "D": "Eselon III disetarakan dengan Jabatan Administrator.",
+                "E": "Jabatan Fungsional Ahli Utama merupakan jenjang pada rumpun jabatan fungsional keahlian."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q52 - Hlm 13 - Kunci C
+    {
+        "nomor": 52,
+        "halaman_sumber": 13,
+        "kata_kunci_modul": [
+            "jabatan eselon Ia dan eselon Ib setara dengan jabatan pimpinan tinggi madya;"
+        ],
+        "topik_materi": "Penyetaraan Eselon Ia dan Ib",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Jabatan struktural eselon Ia (selain kepala LPNK) dan eselon Ib dalam birokrasi pemerintah disetarakan ke dalam...",
+        "pilihan": {
+            "A": "Jabatan Pimpinan Tinggi Utama",
+            "B": "Jabatan Pimpinan Tinggi Pratama",
+            "C": "Jabatan Pimpinan Tinggi Madya",
+            "D": "Jabatan Administrator Kementerian",
+            "E": "Jabatan Fungsional Ahli Madya"
+        },
+        "kunci_jawaban": "C",
+        "pembahasan": {
+            "konsep_materi": "Jabatan **eselon Ia dan eselon Ib setara dengan jabatan pimpinan tinggi madya**.",
+            "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Ketentuan penyetaraan jabatan kepegawaian mengatur bahwa posisi eselon Ia (seperti Sekretaris Jenderal atau Direktur Jenderal kementerian) dan eselon Ib (seperti Staf Ahli Menteri) disetarakan ke dalam kelompok Jabatan Pimpinan Tinggi (JPT) Madya. Penyetaraan ini menjamin kesinambungan hierarki kepemimpinan manajerial tingkat tinggi.",
+            "bedah_pengecoh": {
+                "A": "JPT Utama khusus diperuntukkan bagi penyetaraan jabatan eselon Ia kepala LPNK.",
+                "B": "JPT Pratama merupakan penyetaraan bagi jabatan struktural eselon II.",
+                "D": "Jabatan Administrator merupakan hasil penyetaraan bagi jabatan struktural eselon III.",
+                "E": "Jabatan Fungsional Ahli Madya merupakan rumpun nonmanajerial berbasis profesi keahlian."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q53 - Hlm 13 - Kunci E
+    {
+        "nomor": 53,
+        "halaman_sumber": 13,
+        "kata_kunci_modul": [
+            "jabatan eselon II setara dengan jabatan pimpinan tinggi pratama;"
+        ],
+        "topik_materi": "Penyetaraan Eselon II",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Dalam ketentuan penyetaraan jabatan PNS, posisi struktural eselon II (seperti Direktur atau Kepala Kantor Wilayah) setara dengan...",
+        "pilihan": {
+            "A": "Jabatan Administrator Wilayah",
+            "B": "Jabatan Pengawas Teknis Pusat",
+            "C": "Jabatan Pimpinan Tinggi Utama",
+            "D": "Jabatan Pimpinan Tinggi Madya",
+            "E": "Jabatan Pimpinan Tinggi Pratama"
+        },
+        "kunci_jawaban": "E",
+        "pembahasan": {
+            "konsep_materi": "Jabatan **eselon II setara dengan jabatan pimpinan tinggi pratama**.",
+            "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Berdasarkan aturan peralihan dan penyetaraan jabatan PNS, jabatan pimpinan struktural eselon II—yang mencakup posisi Direktur, Kepala Biro, Kepala Pusat, atau Kepala Kantor Wilayah—disetarakan secara sah ke dalam Jabatan Pimpinan Tinggi (JPT) Pratama.",
+            "bedah_pengecoh": {
+                "A": "Jabatan Administrator merupakan penyetaraan untuk pejabat eselon III.",
+                "B": "Jabatan Pengawas merupakan penyetaraan untuk pejabat eselon IV.",
+                "C": "JPT Utama diperuntukkan bagi penyetaraan eselon Ia kepala LPNK.",
+                "D": "JPT Madya merupakan penyetaraan untuk pejabat eselon Ia kementerian dan eselon Ib."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q54 - Hlm 13 - Kunci B
+    {
+        "nomor": 54,
+        "halaman_sumber": 13,
+        "kata_kunci_modul": [
+            "jabatan eselon III setara dengan jabatan administrator;"
+        ],
+        "topik_materi": "Penyetaraan Eselon III",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Penyetaraan posisi jabatan bagi pejabat struktural eselon III (seperti Kepala Bagian atau Kepala Bidang) adalah ke dalam...",
+        "pilihan": {
+            "A": "Jabatan Pimpinan Pratama",
+            "B": "Jabatan Administrator",
+            "C": "Jabatan Pengawas Senior",
+            "D": "Jabatan Pelaksana Utama",
+            "E": "Jabatan Fungsional Madya"
+        },
+        "kunci_jawaban": "B",
+        "pembahasan": {
+            "konsep_materi": "Jabatan **eselon III setara dengan jabatan administrator**.",
+            "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Dalam skema penyetaraan jabatan kepegawaian ASN, pejabat manajerial tingkat menengah yang menduduki eselon III (misalnya Kepala Bagian, Kepala Bidang, atau Kepala Subdirektorat) dikelompokkan dan disetarakan status kedudukannya ke dalam Jabatan Administrator.",
+            "bedah_pengecoh": {
+                "A": "Jabatan Pimpinan Tinggi Pratama merupakan penyetaraan untuk pejabat eselon II.",
+                "C": "Jabatan Pengawas merupakan penyetaraan untuk pejabat eselon IV.",
+                "D": "Jabatan Pelaksana merupakan penyetaraan bagi eselon V dan fungsional umum.",
+                "E": "Jabatan Fungsional Ahli Madya merupakan rumpun nonmanajerial keahlian."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q55 - Hlm 13 - Kunci D
+    {
+        "nomor": 55,
+        "halaman_sumber": 13,
+        "kata_kunci_modul": [
+            "jabatan eselon IV setara dengan jabatan pengawas; dan"
+        ],
+        "topik_materi": "Penyetaraan Eselon IV",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Pejabat struktural eselon IV (seperti Kepala Seksi atau Kepala Subbagian) disetarakan kedudukannya ke dalam...",
+        "pilihan": {
+            "A": "Jabatan Pelaksana Teknis",
+            "B": "Jabatan Administrator",
+            "C": "Jabatan Fungsional Muda",
+            "D": "Jabatan Pengawas",
+            "E": "Jabatan Pimpinan Pratama"
+        },
+        "kunci_jawaban": "D",
+        "pembahasan": {
+            "konsep_materi": "Jabatan **eselon IV setara dengan jabatan pengawas**.",
+            "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Berdasarkan ketentuan penyetaraan jabatan struktural aparatur sipil negara, posisi eselon IV (Kepala Seksi, Kepala Subbagian, atau Kepala Subbidang) yang memimpin unit kerja manajerial lini dasar secara sah disetarakan ke dalam Jabatan Pengawas.",
+            "bedah_pengecoh": {
+                "A": "Jabatan Pelaksana merupakan penyetaraan untuk eselon V dan staf fungsional umum.",
+                "B": "Jabatan Administrator merupakan penyetaraan untuk pejabat eselon III.",
+                "C": "Jabatan Fungsional Ahli Muda merupakan rumpun keahlian nonmanajerial.",
+                "E": "Jabatan Pimpinan Tinggi Pratama merupakan penyetaraan untuk eselon II."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q56 - Hlm 13 - Kunci A
+    {
+        "nomor": 56,
+        "halaman_sumber": 13,
+        "kata_kunci_modul": [
+            "jabatan eselon V dan fungsional umum setara dengan jabatan pelaksana."
+        ],
+        "topik_materi": "Penyetaraan Eselon V dan Fungsional Umum",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Berdasarkan aturan penyetaraan jabatan kepegawaian, jabatan eselon V dan staf fungsional umum setara dengan...",
+        "pilihan": {
+            "A": "Jabatan Pelaksana",
+            "B": "Jabatan Pengawas",
+            "C": "Jabatan Administrator",
+            "D": "Jabatan Fungsional Mahir",
+            "E": "Jabatan Fungsional Pemula"
+        },
+        "kunci_jawaban": "A",
+        "pembahasan": {
+            "konsep_materi": "Jabatan **eselon V dan fungsional umum setara dengan jabatan pelaksana**.",
+            "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Dalam ketentuan penyetaraan jabatan aparatur sesuai UU ASN, jabatan struktural eselon V serta kelompok staf fungsional umum (staf administrasi operasional) seluruhnya disetarakan kedudukan dan fungsinya ke dalam nomenklatur resmi Jabatan Pelaksana.",
+            "bedah_pengecoh": {
+                "B": "Jabatan Pengawas merupakan penyetaraan bagi pejabat struktural eselon IV.",
+                "C": "Jabatan Administrator merupakan penyetaraan bagi pejabat struktural eselon III.",
+                "D": "Jabatan Fungsional Mahir merupakan jenjang pada rumpun JF Keterampilan.",
+                "E": "Jabatan Fungsional Pemula merupakan jenjang dasar pada JF Keterampilan."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q57 - Hlm 13 - Kunci C
+    {
+        "nomor": 57,
+        "halaman_sumber": 13,
+        "kata_kunci_modul": [
+            "Pada saat Peraturan Pemerintah Nomor 17 Tahun 2020 mulai berlaku, dalam hal",
+            "diperlukan penataan birokrasi penyesuaian jabatan ke dalam Jabatan Fungsional"
+        ],
+        "topik_materi": "Dasar Hukum Penyetaraan Jabatan Administrasi ke JF",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Peraturan Pemerintah yang mengatur ketentuan penyetaraan jabatan administrasi ke dalam Jabatan Fungsional demi penataan birokrasi adalah...",
+        "pilihan": {
+            "A": "Peraturan Pemerintah Nomor 11 Tahun 2017",
+            "B": "Peraturan Pemerintah Nomor 30 Tahun 2019",
+            "C": "Peraturan Pemerintah Nomor 17 Tahun 2020",
+            "D": "Peraturan Pemerintah Nomor 94 Tahun 2021",
+            "E": "Peraturan Pemerintah Nomor 20 Tahun 2023"
+        },
+        "kunci_jawaban": "C",
+        "pembahasan": {
+            "konsep_materi": "Pada saat **Peraturan Pemerintah Nomor 17 Tahun 2020** mulai berlaku, dalam hal diperlukan penataan birokrasi penyesuaian jabatan ke dalam Jabatan Fungsional dapat dilakukan **penyetaraan jabatan**.",
+            "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Ketentuan penataan birokrasi melalui penyetaraan jabatan administrasi (pengawas dan administrator) ke dalam Jabatan Fungsional yang setara secara resmi diatur dalam Peraturan Pemerintah Nomor 17 Tahun 2020 yang mengubah PP Nomor 11 Tahun 2017 tentang Manajemen PNS.",
+            "bedah_pengecoh": {
+                "A": "PP 11/2017 merupakan regulasi awal manajemen PNS sebelum penambahan norma khusus penyetaraan pada PP 17/2020.",
+                "B": "PP 30/2019 mengatur tentang Penilaian Kinerja Pegawai Negeri Sipil.",
+                "D": "PP 94/2021 mengatur tentang Disiplin Pegawai Negeri Sipil.",
+                "E": "Nomor 20 Tahun 2023 merupakan Undang-Undang tentang ASN, bukan Peraturan Pemerintah."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q58 - Hlm 13 - Kunci E
+    {
+        "nomor": 58,
+        "halaman_sumber": 13,
+        "kata_kunci_modul": [
+            "Penyetaraan jabatan dimaksud adalah",
+            "Penyesuaian/Inpassing pada jabatan fungsional yang setara. Penyetaraan jabatan"
+        ],
+        "topik_materi": "Mekanisme Penyesuaian/Inpassing Penyetaraan Jabatan",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Pengangkatan Pejabat Administrasi ke dalam Jabatan Fungsional yang setara dalam rangka penataan birokrasi dilaksanakan melalui mekanisme...",
+        "pilihan": {
+            "A": "Seleksi pengadaan formasi umum CPNS",
+            "B": "Penugasan perbantuan di luar instansi",
+            "C": "Promosi terbuka lintas instansi daerah",
+            "D": "Pengangkatan pertama jalur kedinasan",
+            "E": "Penyesuaian atau inpassing jabatan"
+        },
+        "kunci_jawaban": "E",
+        "pembahasan": {
+            "konsep_materi": "Penyetaraan jabatan dimaksud adalah pengangkatan Pejabat Administrasi ke dalam Jabatan Fungsional melalui **Penyesuaian/Inpassing pada jabatan fungsional yang setara**.",
+            "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Berdasarkan PP 17/2020, pengalihan pejabat administrasi (eselon IV dan eselon III) ke dalam jabatan fungsional yang bersesuaian dilakukan melalui mekanisme Penyesuaian atau Inpassing. Mekanisme ini memfasilitasi transisi pejabat struktural ke fungsional tanpa mengurangi hak kepegawaian dan kepangkatan yang telah dimiliki.",
+            "bedah_pengecoh": {
+                "A": "Merupakan mekanisme rekrutmen pegawai baru dari masyarakat umum.",
+                "B": "Merupakan bentuk penugasan sementara pegawai pada instansi lain.",
+                "C": "Merupakan metode seleksi terbuka (open bidding) untuk pengisian JPT.",
+                "D": "Merupakan jalur pengangkatan awal CPNS yang baru lulus pendidikan formasi."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q59 - Hlm 13 - Kunci B
+    {
+        "nomor": 59,
+        "halaman_sumber": 13,
+        "kata_kunci_modul": [
+            "Penyetaraan jabatan",
+            "diatur dengan Peraturan Menteri."
+        ],
+        "topik_materi": "Instrumen Regulasi Penyetaraan Jabatan",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Sesuai ketentuan PP 17/2020, pedoman pelaksanaan teknis penyetaraan jabatan ke dalam Jabatan Fungsional diatur dengan...",
+        "pilihan": {
+            "A": "Keputusan Lembaga Nonstruktural",
+            "B": "Peraturan Menteri yang berwenang",
+            "C": "Surat Keputusan Pimpinan Daerah",
+            "D": "Peraturan Pemerintah Pengganti UU",
+            "E": "Nota Kesepahaman Antarlembaga"
+        },
+        "kunci_jawaban": "B",
+        "pembahasan": {
+            "konsep_materi": "Ketentuan penutup tentang penyetaraan jabatan menegaskan bahwa **Penyetaraan jabatan diatur dengan Peraturan Menteri**.",
+            "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Pasal penutup terkait penyetaraan jabatan dalam PP 17/2020 mendelegasikan pengaturan teknis operasional penyetaraan jabatan kepada Menteri PAN-RB melalui instrumen Peraturan Menteri (PermenPAN-RB), sehingga kementerian dan lembaga memiliki pedoman seragam dalam melakukan inpassing pejabat administrasi ke jabatan fungsional.",
+            "bedah_pengecoh": {
+                "A": "Lembaga nonstruktural tidak memiliki kewenangan atributif menerbitkan pedoman penyetaraan jabatan ASN.",
+                "C": "Pimpinan daerah hanya menjalankan peraturan menteri dan tidak berwenang mengatur norma pokok penyetaraan.",
+                "D": "Perpu merupakan instrumen kegentingan memaksa setingkat undang-undang dan bukan instrumen teknis kepegawaian.",
+                "E": "Nota kesepahaman bukan produk hukum perundang-undangan yang mengikat penataan struktur jabatan."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    },
+    # Q60 - Hlm 13 - Kunci D
+    {
+        "nomor": 60,
+        "halaman_sumber": 13,
+        "kata_kunci_modul": [
+            "diperlukan penataan birokrasi penyesuaian jabatan ke dalam Jabatan Fungsional",
+            "dapat dilakukan penyetaraan jabatan. Penyetaraan jabatan dimaksud adalah"
+        ],
+        "topik_materi": "Tujuan Penyetaraan Jabatan Administrasi ke JF",
+        "level_kognitif": "C2 - Pemahaman",
+        "pertanyaan": "Kebijakan penyetaraan jabatan administrasi ke dalam jabatan fungsional dilaksanakan pemerintah dengan tujuan utama untuk...",
+        "pilihan": {
+            "A": "Mengurangi jumlah unit kerja operasional pelayanan daerah",
+            "B": "Membatasi mobilitas penugasan karier lintas kementerian",
+            "C": "Memperpanjang rentang kendali komando hierarki pimpinan",
+            "D": "Mewujudkan penataan birokrasi yang lebih lincah dan efektif",
+            "E": "Menyederhanakan seluruh sistem pengelolaan keuangan negara"
+        },
+        "kunci_jawaban": "D",
+        "pembahasan": {
+            "konsep_materi": "Penyetaraan jabatan dilakukan dalam hal **diperlukan penataan birokrasi** penyesuaian jabatan ke dalam Jabatan Fungsional.",
+            "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Berdasarkan pertimbangan hukum PP 17/2020, kebijakan penyetaraan jabatan administrasi ke dalam jabatan fungsional merupakan bagian dari agenda transformasi dan penataan birokrasi pemerintah guna memangkas hierarki yang berlapis (*delayering*) sehingga birokrasi bergerak lebih lincah (*agile*), responsif, dan profesional dalam melayani publik.",
+            "bedah_pengecoh": {
+                "A": "Bukan untuk mengurangi unit pelayanan daerah, melainkan mengoptimalkan peran fungsional keahlian.",
+                "B": "Penyetaraan justru memperluas mobilitas penugasan profesional berbasis kompetensi JF.",
+                "C": "Tujuan penyetaraan adalah merampingkan dan memperpendek rentang kendali, bukan memperpanjangnya.",
+                "E": "Pengelolaan keuangan negara diatur dalam rumpun perundang-undangan perbendaharaan dan bukan fokus penyetaraan birokrasi."
+            },
+            "sumber_rujukan": "Tata Aturan Kepegawaian"
+        }
+    }
+]
+
+with open('tak_p01_part2.json', 'w', encoding='utf-8') as f:
+    json.dump(q31_q60, f, ensure_ascii=False, indent=2)
+
+print("Saved Tak Paket 01 Part 2 (Q31-Q60)")

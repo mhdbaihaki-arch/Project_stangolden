@@ -1,0 +1,1200 @@
+NO 1 | HLM 7 | KUNCI A
+KW: ['Rapat Paripurna tanggal 3 Oktober 2023', 'Rancangan Undang-Undang (RUU)']
+Q: Rancangan Undang-Undang Aparatur Sipil Negara disetujui DPR-RI dalam Rapat Paripurna pada tanggal...
+  A: 3 Oktober 2023 [KUNCI]
+  B: 17 Oktober 2023
+  C: 24 Oktober 2023
+  D: 31 Oktober 2023
+  E: 10 November 2023
+Konsep: Rancangan Undang-Undang (RUU) Aparatur Sipil Negara disetujui oleh **DPR-RI** pada **Rapat Paripurna tanggal 3 Oktober 2023** sebelum disahkan menjadi undang-undang.
+Alasan: Opsi A merupakan tanggal yang tepat sesuai catatan kronologi pembentukan undang-undang ASN terbaru. Lembaga legislatif meresmikan persetujuan naskah regulasi aparatur sipil negara pada sidang paripurna awal Oktober. Sebelum disahkan presiden, RUU ASN resmi disetujui DPR-RI dalam Rapat Paripurna tanggal 3 Oktober 2023. Dengan demikian, opsi A adalah ketetapan waktu yang benar.
+Bedah: {"B": "Merupakan tanggal pertengahan bulan pembahasan komisi dan bukan hari rapat paripurna DPR.", "C": "Merupakan tanggal penyiapan naskah final perundangan di tingkat sekretariat negara.", "D": "Merupakan tanggal resmi pengesahan oleh Presiden Joko Widodo menjadi UU Nomor 20 Tahun 2023.", "E": "Merupakan tanggal peringatan nasional hari pahlawan dan bukan jadwal agenda persetujuan DPR."}
+======================================================================
+NO 2 | HLM 7 | KUNCI B
+KW: ['31 Oktober telah disahkan oleh Presiden', 'Undang-Undang Nomor 20 Tahun 2023']
+Q: Presiden Republik Indonesia mengesahkan Undang-Undang Nomor 20 Tahun 2023 tentang Aparatur Sipil Negara pada...
+  A: 3 Oktober 2023
+  B: 31 Oktober 2023 [KUNCI]
+  C: 10 November 2023
+  D: 1 Desember 2023
+  E: 2 Januari 2024
+Konsep: Pada **31 Oktober 2023**, RUU ASN resmi **disahkan oleh Presiden Joko Widodo** menjadi **Undang-Undang Nomor 20 Tahun 2023** Tentang Aparatur Sipil Negara.
+Alasan: Opsi B merupakan jawaban yang tepat mengenai momentum penetapan regulasi kepegawaian nasional. Kepala negara menandatangani pengesahan naskah hukum ASN pada akhir bulan Oktober 2023. Tanggal 31 Oktober 2023 menjadi landasan yuridis berlakunya undang-undang kepegawaian menggantikan regulasi sebelumnya. Oleh karena itu, opsi B adalah pilihan yang tepat.
+Bedah: {"A": "Merupakan tanggal persetujuan naskah oleh DPR-RI dalam rapat paripurna.", "C": "Merupakan penanggalan bulan berikutnya setelah proses pengundangan resmi dilakukan.", "D": "Merupakan tanggal awal pelaksanaan teknis sosialisasi kelembagaan kementerian.", "E": "Merupakan awal tahun anggaran berikutnya dan bukan waktu pengesahan presiden."}
+======================================================================
+NO 3 | HLM 7 | KUNCI C
+KW: ['disetujui oleh DPR-RI', 'Rapat Paripurna tanggal 3 Oktober 2023']
+Q: Sebelum disahkan secara resmi oleh Presiden pada 31 Oktober 2023, naskah RUU ASN terlebih dahulu disetujui oleh...
+  A: Komisi Yudisial Republik Indonesia
+  B: Badan Pemeriksa Keuangan Indonesia
+  C: Dewan Perwakilan Rakyat Republik Indonesia [KUNCI]
+  D: Kementerian Koordinator Politik Hukum
+  E: Mahkamah Konstitusi Republik Indonesia
+Konsep: Rancangan Undang-Undang Aparatur Sipil Negara (ASN) secara resmi **disetujui oleh DPR-RI** pada Rapat Paripurna tanggal 3 Oktober 2023 sebelum disahkan Presiden.
+Alasan: Opsi C merupakan jawaban yang tepat. Pembentukan undang-undang menuntut persetujuan bersama antara legislatif dan pemerintah. DPR-RI menyetujui naskah RUU ASN pada Rapat Paripurna tanggal 3 Oktober 2023 yang kemudian disahkan menjadi UU Nomor 20 Tahun 2023 oleh Presiden pada 31 Oktober 2023.
+Bedah: {"A": "Komisi Yudisial berwenang mengawasi perilaku hakim pengadilan.", "B": "Badan Pemeriksa Keuangan berwenang memeriksa keuangan negara.", "D": "Kementerian Koordinator merupakan unsur pembantu eksekutif presiden.", "E": "Mahkamah Konstitusi berwenang menguji materiil undang-undang."}
+======================================================================
+NO 4 | HLM 7 | KUNCI D
+KW: ['Pasal 77 UU Nomor 20 Tahun 2023', 'pada tanggal diundangkan']
+Q: Berdasarkan Pasal 77 Undang-Undang Nomor 20 Tahun 2023, undang-undang ini mulai berlaku pada...
+  A: Enam bulan sejak persetujuan dewan perwakilan
+  B: Satu tahun setelah tanggal pengesahan presiden
+  C: Awal tahun anggaran baru tanggal 1 Januari 2024
+  D: Tanggal resmi undang-undang diundangkan [KUNCI]
+  E: Saat seluruh aturan pelaksana selesai ditetapkan
+Konsep: Sesuai ketentuan **Pasal 77 UU Nomor 20 Tahun 2023**, undang-undang tentang aparatur sipil negara ini **mulai berlaku pada tanggal diundangkan**.
+Alasan: Opsi D merupakan jawaban yang tepat mengenai saat mulai berlakunya norma hukum ASN. Pembentuk undang-undang menetapkan keberlakuan seketika demi kepastian hukum tanpa masa penundaan bertahun-tahun. Norma Pasal 77 menyatakan secara lugas bahwa UU Nomor 20 Tahun 2023 mulai berlaku pada tanggal diundangkan. Oleh karena itu, opsi D merupakan jawaban yang benar.
+Bedah: {"A": "Merupakan kelaziman masa transisi regulasi tertentu namun bukan ketentuan Pasal 77.", "B": "Merupakan masa toleransi penyesuaian aturan turunan dan bukan saat mulai berlaku undang-undang.", "C": "Merupakan siklus pembukuan keuangan dan bukan asas keberlakuan yuridis pasal penutup.", "E": "Merupakan kondisi operasional lapangan yang tidak menunda keberlakuan pokok undang-undang."}
+======================================================================
+NO 5 | HLM 7 | KUNCI E
+KW: ['ketentuan penutup Undang-Undang Nomor', 'masih tetap berlaku']
+Q: Berdasarkan ketentuan penutup Undang-Undang Nomor 20 Tahun 2023, seluruh peraturan pelaksanaan lama dinyatakan...
+  A: Batal demi hukum sejak regulasi baru disahkan
+  B: Diberhentikan sementara menunggu keputusan menteri
+  C: Berlaku terbatas pada ruang lingkup kantor pusat
+  D: Dibatalkan khusus pada ketentuan sanksi pidana
+  E: Tetap berlaku sepanjang tidak bertentangan aturan baru [KUNCI]
+Konsep: Ketentuan penutup UU Nomor 20 Tahun 2023 menetapkan bahwa **semua peraturan pelaksanaan lama dinyatakan masih tetap berlaku sepanjang tidak bertentangan dan belum diganti**.
+Alasan: Opsi E merupakan jawaban yang tepat. Klausul peralihan dalam ketentuan penutup undang-undang menjamin kepastian hukum operasional di birokrasi. Peraturan pemerintah dan aturan pelaksana turunan sebelumnya tetap sah berlaku selama substansinya tidak bertentangan dengan prinsip regulasi yang baru.
+Bedah: {"A": "Aturan pelaksana tidak otomatis batal demi menghindari kekosongan hukum.", "B": "Tidak ada mekanisme pemberhentian sementara regulasi pelaksanaan.", "C": "Keberlakuan peraturan mengikat secara nasional bukan hanya ruang lingkup kantor pusat.", "D": "Pembatalan dilakukan menyeluruh apabila bertentangan bukan per pasal pidana."}
+======================================================================
+NO 6 | HLM 7 | KUNCI A
+KW: ['tidak bertentangan dan belum diganti']
+Q: Syarat kumulatif agar peraturan pelaksanaan lama tetap dinyatakan sah menurut UU Nomor 20 Tahun 2023 adalah...
+  A: Tidak bertentangan dan belum diganti aturan baru [KUNCI]
+  B: Mendapat persetujuan tertulis dari komisi dewan
+  C: Telah diuji materiil oleh Mahkamah Konstitusi
+  D: Diterbitkan paling lambat dua tahun sebelumnya
+  E: Memiliki alokasi anggaran operasional tersendiri
+Konsep: Peraturan pelaksanaan lama tetap berlaku sah apabila memenuhi dua syarat kumulatif: **tidak bertentangan dengan undang-undang baru** dan **belum diganti berdasarkan ketentuan baru**.
+Alasan: Opsi A merupakan jawaban yang tepat. Rumusan resmi klausul penutup mengatur secara tegas batasan keberlakuan peraturan pelaksanaan sebelumnya. Apabila suatu ketentuan pelaksana bertentangan atau telah diterbitkan aturan penggantinya, maka ketentuan lama tersebut otomatis gugur.
+Bedah: {"B": "Persetujuan dewan legislatif tidak dipersyaratkan untuk aturan pelaksana.", "C": "Uji materiil MK adalah sarana pengujian bukan syarat keberlakuan.", "D": "Tahun penerbitan aturan tidak dibatasi selama substansinya selaras.", "E": "Alokasi anggaran bukan tolok ukur keabsahan yuridis regulasi."}
+======================================================================
+NO 7 | HLM 7 | KUNCI B
+KW: ['disahkan oleh Presiden Joko Widodo']
+Q: Pengesahan Undang-Undang Nomor 20 Tahun 2023 tentang Aparatur Sipil Negara secara konstitusional dilakukan oleh...
+  A: Ketua Dewan Perwakilan Rakyat Republik Indonesia
+  B: Presiden Republik Indonesia Joko Widodo [KUNCI]
+  C: Menteri Pendayagunaan Aparatur Negara dan RB
+  D: Kepala Badan Kepegawaian Negara Indonesia
+  E: Ketua Majelis Permusyawaratan Rakyat Republik
+Konsep: Undang-Undang Nomor 20 Tahun 2023 tentang Aparatur Sipil Negara secara resmi **disahkan oleh Presiden Joko Widodo** pada tanggal 31 Oktober 2023.
+Alasan: Opsi B merupakan jawaban yang tepat. Berdasarkan tata hukum ketatanegaraan, rancangan undang-undang yang telah disetujui bersama oleh DPR dan Presiden disahkan secara resmi oleh Presiden Republik Indonesia untuk diundangkan dalam Lembaran Negara.
+Bedah: {"A": "Ketua DPR memimpin persetujuan bersama dalam Rapat Paripurna.", "C": "Menteri PANRB mewakili pemerintah dalam pembahasan tingkat menteri.", "D": "Kepala BKN bertindak sebagai pelaksana teknis manajemen kepegawaian.", "E": "Ketua MPR berwenang melantik presiden dan mengubah konstitusi."}
+======================================================================
+NO 8 | HLM 7 | KUNCI C
+KW: ['Pasal 77 UU Nomor 20 Tahun 2023', 'mulai berlaku']
+Q: Nomor pasal dalam Undang-Undang Nomor 20 Tahun 2023 yang mengatur bahwa undang-undang mulai berlaku pada tanggal diundangkan adalah...
+  A: Pasal 55
+  B: Pasal 62
+  C: Pasal 77 [KUNCI]
+  D: Pasal 81
+  E: Pasal 94
+Konsep: Ketentuan mengenai saat mulai berlakunya Undang-Undang Nomor 20 Tahun 2023 tercantum pada **Pasal 77**.
+Alasan: Opsi C merupakan nomor pasal penutup yang tepat dalam naskah legal undang-undang ASN 2023. Norma ini menjadi penentu kepastian hukum awal keberlakuan seluruh ketentuan di lingkungan instansi pemerintah. Pasal 77 menegaskan undang-undang ini mulai berlaku pada tanggal diundangkan. Oleh karena itu, opsi C merupakan rujukan pasal yang benar.
+Bedah: {"A": "Merupakan pasal yang mengatur aspek substantif pembinaan profesi dan penghargaan.", "B": "Merupakan pasal yang memuat ketentuan mengenai pemberhentian dan masa tugas.", "D": "Merupakan nomor pasal fiktif karena naskah undang-undang ini berakhir pada Pasal 77.", "E": "Merupakan nomor regulasi peraturan pemerintah disiplin dan bukan pasal undang-undang."}
+======================================================================
+NO 9 | HLM 7 | KUNCI D
+KW: ['Rancangan Undang-Undang (RUU) Aparatur Sipil Negara', 'Rapat Paripurna tanggal 3 Oktober 2023']
+Q: Forum resmi di DPR-RI yang menyetujui pengesahan naskah RUU ASN pada tanggal 3 Oktober 2023 adalah...
+  A: Rapat Dengar Pendapat Komisi Teknis
+  B: Rapat Kerja Terbuka Bersama Menteri
+  C: Sidang Khusus Badan Urusan Legislasi
+  D: Rapat Paripurna Dewan Perwakilan Rakyat [KUNCI]
+  E: Pertemuan Konsultasi Antar-Fraksi Gabungan
+Konsep: Persetujuan akhir rancangan regulasi aparatur sipil negara dilaksanakan melalui **Rapat Paripurna** DPR-RI tanggal **3 Oktober 2023**.
+Alasan: Opsi D merupakan jenis forum permusyawaratan tertinggi DPR-RI yang tepat. Seluruh fraksi menyampaikan keputusan bulat pengesahan naskah regulasi aparatur dalam forum paripurna. Berdasarkan catatan pembentukan hukum, RUU ASN disetujui dalam forum Rapat Paripurna. Dengan demikian, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Merupakan agenda pendalaman materi kerja komisi bersama para mitra kerja eksekutif.", "B": "Merupakan forum pembahasan pasal demi pasal antara pimpinan komisi dan menteri terkait.", "C": "Merupakan mekanisme harmonisasi draf sebelum diajukan ke sidang pengambilan keputusan.", "E": "Merupakan lobi informal perumusan kesepakatan politik sebelum sidang paripurna dibuka."}
+======================================================================
+NO 10 | HLM 7 | KUNCI E
+KW: ['ketentuan penutup Undang-Undang Nomor 20 Tahun 2023', 'peraturan perundang-undangan yang merupakan peraturan pelaksanaan']
+Q: Pemberlakuan sementara aturan pelaksana turunan UU 5/2014 bertujuan utama untuk...
+  A: Menunda kewajiban pelaksanaan sistem merit nasional
+  B: Mencegah pembatalan sepihak tunjangan kinerja daerah
+  C: Mengurangi beban audit kepatuhan inspektorat jenderal
+  D: Memberikan hak imunitas hukum bagi pejabat kepegawaian
+  E: Menjamin kesinambungan hukum tata kelola kepegawaian [KUNCI]
+Konsep: Ketentuan penutup yang mempertahankan peraturan pelaksanaan lama berfungsi untuk **menjaga kepastian dan kesinambungan hukum operasional** administrasi kepegawaian ASN.
+Alasan: Opsi E merupakan tujuan yuridis mendasar dari penerapan ketentuan penutup. Penggantian undang-undang induk tidak boleh menghentikan proses administrasi harian aparatur seperti pengangkatan, mutasi, dan penggajian. Seluruh instansi tetap berpedoman pada peraturan pelaksanaan yang ada sepanjang tidak bertentangan. Oleh karena itu, opsi E adalah tujuan yang tepat.
+Bedah: {"A": "Sistem merit justru diperkuat penerapannya dalam undang-undang kepegawaian terbaru.", "B": "Pemberian tunjangan kinerja diatur melalui mekanisme anggaran daerah dan standar nasional.", "C": "Fungsi pengawasan aparat pengawas internal pemerintah tetap berjalan normal tanpa pengurangan.", "D": "Ketentuan kepegawaian tidak memberikan hak kebal hukum istimewa bagi pejabat mana pun."}
+======================================================================
+NO 11 | HLM 9 | KUNCI B
+KW: ['profesi bagi Pegawai Negeri Sipil', 'bekerja pada instansi pemerintah']
+Q: Aparatur Sipil Negara secara hukum didefinisikan sebagai suatu profesi bagi...
+  A: Seluruh tenaga kontrak outsourcing di kementerian negara
+  B: Pegawai Negeri Sipil dan PPPK di instansi pemerintah [KUNCI]
+  C: Karyawan tetap pada badan usaha milik negara dan swasta
+  D: Pekerja profesional independen pada lembaga peradilan
+  E: Aparat pertahanan dan keamanan penjaga kedaulatan negara
+Konsep: **Aparatur Sipil Negara (ASN)** adalah **profesi bagi Pegawai Negeri Sipil dan pegawai pemerintah dengan perjanjian kerja** yang bekerja pada **instansi pemerintah**.
+Alasan: Opsi B merupakan rumusan pengertian yuridis ASN yang tepat. Korps aparatur negara secara formal terdiri atas dua komponen utama pegawai pemerintah. Regulasi menegaskan ASN adalah profesi bagi Pegawai Negeri Sipil dan PPPK yang bertugas pada instansi pemerintah. Oleh karena itu, opsi B merupakan jawaban yang tepat.
+Bedah: {"A": "Tenaga alih daya outsourcing bukan merupakan bagian dari status profesi aparatur sipil negara.", "C": "Karyawan korporasi BUMN berstatus pekerja badan usaha di bawah regulasi ketenagakerjaan umum.", "D": "Profesi profesional swasta berada di luar ranah kelembagaan aparatur sipil instansi pemerintah.", "E": "Personel TNI dan Polri diatur dalam konstitusi dan undang-undang pertahanan keamanan tersendiri."}
+======================================================================
+NO 12 | HLM 9 | KUNCI C
+KW: ['Pegawai ASN terdiri dari', 'diangkat oleh pejabat pembina kepegawaian']
+Q: Pegawai ASN yang terdiri atas PNS dan PPPK secara resmi diangkat oleh...
+  A: Kepala Badan Riset dan Inovasi Nasional
+  B: Pimpinan tertinggi lembaga swadaya masyarakat
+  C: Pejabat Pembina Kepegawaian di instansi [KUNCI]
+  D: Ketua Komisi Pemberantasan Korupsi Republik
+  E: Sekretaris Daerah Khusus Ibu Kota Nusantara
+Konsep: Pegawai ASN terdiri atas PNS dan PPPK yang **diangkat oleh Pejabat Pembina Kepegawaian (PPK)** dan diserahi tugas jabatan pemerintahan.
+Alasan: Opsi C merupakan otoritas pemegang kewenangan pengangkatan aparatur yang tepat. Pejabat Pembina Kepegawaian memegang wewenang legal menetapkan pengangkatan pegawai di instansinya. Ketentuan pasal menyebutkan PNS dan PPPK diangkat oleh pejabat pembina kepegawaian untuk menduduki tugas negara. Dengan demikian, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Merupakan pimpinan lembaga riset nasional dan bukan pejabat pembina seluruh kementerian.", "B": "Merupakan entitas organisasi nonpemerintah yang tidak memiliki wewenang hukum kepegawaian.", "D": "Merupakan pimpinan komisi penegak hukum yang menangani tindak pidana korupsi khusus.", "E": "Merupakan pejabat pimpinan daerah yang hanya berwenang pada lingkup pemda setempat."}
+======================================================================
+NO 13 | HLM 9 | KUNCI D
+KW: ['Pegawai Negeri Sipil yang selanjutnya disingkat PNS', 'diangkat sebagai Pegawai ASN secara tetap']
+Q: Ciri khas status kepegawaian Pegawai Negeri Sipil (PNS) berdasarkan undang-undang adalah diangkat...
+  A: Berdasarkan kontrak tahunan berorientasi proyek khusus
+  B: Melalui penunjukan langsung pimpinan fraksi partai
+  C: Hanya untuk masa jabatan maksimal lima tahun berturut
+  D: Sebagai Pegawai ASN secara tetap oleh pejabat pembina [KUNCI]
+  E: Secara berkala mengikuti pergantian kabinet menteri
+Konsep: **PNS** adalah warga negara Indonesia yang memenuhi syarat tertentu, **diangkat sebagai Pegawai ASN secara tetap** oleh PPK untuk **menduduki jabatan pemerintahan**.
+Alasan: Opsi D melengkapi karakteristik pokok PNS yang tepat dibanding unsur aparatur lainnya. Sifat kepegawaian tetap memberikan kepastian karier jangka panjang dalam birokrasi pemerintahan. Regulasi menetapkan PNS diangkat secara tetap oleh PPK setelah menuntaskan masa percobaan. Oleh karena itu, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Sistem kontrak berbatas waktu merupakan mekanisme kerja PPPK dan bukan karakter status PNS.", "B": "Pengangkatan aparatur sipil negara wajib steril dari intervensi politik dan titipan golongan.", "C": "Batasan masa jabatan lima tahun berlaku pada evaluasi jabatan struktural pimpinan tinggi.", "E": "Karier aparatur sipil negara bersifat profesional permanen tanpa terikat masa jabatan menteri."}
+======================================================================
+NO 14 | HLM 9 | KUNCI E
+KW: ['PPPK merupakan warga negara Indonesia', 'berdasarkan perjanjian kerja untuk jangka waktu tertentu']
+Q: Pegawai Pemerintah dengan Perjanjian Kerja (PPPK) diangkat oleh pemerintah berdasarkan landasan...
+  A: Ketetapan konsorsium perguruan tinggi negeri
+  B: Piagam kesepakatan serikat buruh nasional
+  C: Nota kesepahaman antarduta besar negara sahabat
+  D: Instruksi lisan kepala dinas perbendaharaan
+  E: Perjanjian kerja untuk jangka waktu tertentu [KUNCI]
+Konsep: **PPPK** diangkat **berdasarkan perjanjian kerja untuk jangka waktu tertentu** dalam rangka melaksanakan tugas dan/atau menduduki jabatan pemerintahan.
+Alasan: Opsi E merupakan dasar ikatan kerja legal PPPK yang tepat. Hubungan dinas pegawai didasarkan pada dokumen kontrak formal dengan durasi waktu kerja yang telah disepakati. Ketentuan aturan merumuskan PPPK diangkat berdasarkan perjanjian kerja untuk jangka waktu tertentu. Dengan demikian, opsi E adalah jawaban yang tepat.
+Bedah: {"A": "Merupakan kerja sama akademik universitas dan bukan instrumen legal pengangkatan aparatur.", "B": "Merupakan instrumen hubungan industrial ketenagakerjaan umum di luar birokrasi negara.", "C": "Merupakan instrumen diplomatik hubungan luar negeri dan bukan hukum kepegawaian domestik.", "D": "Perjanjian kerja aparatur wajib berbentuk naskah hukum tertulis dan bukan instruksi lisan."}
+======================================================================
+NO 15 | HLM 9 | KUNCI A
+KW: ['berkedudukan sebagai unsur aparatur negara', 'melaksanakan kebijakan yang ditetapkan oleh pimpinan']
+Q: Secara kedudukan hukum, Pegawai ASN berkedudukan sebagai unsur aparatur negara yang bertugas...
+  A: Melaksanakan kebijakan yang ditetapkan pimpinan instansi [KUNCI]
+  B: Menyusun undang-undang bersama komisi legislatif pusat
+  C: Membuat putusan hukum yang mengikat badan peradilan
+  D: Menentukan arah ideologi dan platform partai politik
+  E: Mengelola keuangan perusahaan swasta multinasional
+Konsep: Pegawai ASN **berkedudukan sebagai unsur aparatur negara** yang bertugas **melaksanakan kebijakan yang ditetapkan oleh pimpinan Instansi Pemerintah**.
+Alasan: Opsi A merupakan tugas fungsional kedudukan aparatur sipil negara yang tepat. Sebagai motor penggerak eksekutif, pegawai bertanggung jawab mengimplementasikan arah program kerja instansinya. Sesuai ketentuan, aparatur berkedudukan menjalankan kebijakan yang ditetapkan oleh pimpinan instansi pemerintah. Oleh karena itu, opsi A adalah pilihan yang benar.
+Bedah: {"B": "Kewenangan legislasi pembentukan undang-undang berada pada ranah DPR bersama presiden.", "C": "Kekuasaan kehakiman yudikatif dijalankan secara independen oleh Mahkamah Agung dan badan peradilan.", "D": "Aparatur sipil negara dilarang keras terlibat dalam perumusan platform atau politik kepartaian.", "E": "Tata kelola korporasi swasta bukan merupakan ruang lingkup penugasan aparatur sipil negara."}
+======================================================================
+NO 16 | HLM 9 | KUNCI B
+KW: ['bebas dari pengaruh dan intervensi', 'semua golongan dan partai politik']
+Q: Menjelang pemilihan umum, seorang pegawai ASN diminta bergabung menjadi tim sukses partai. Tindakan yang wajib diambil adalah...
+  A: Menerima tawaran secara diam-diam tanpa surat tugas
+  B: Menolak tawaran demi menjaga prinsip netralitas ASN [KUNCI]
+  C: Meminta izin pimpinan untuk menjadi pengurus aktif
+  D: Menggunakan fasilitas kantor untuk kampanye terbatas
+  E: Membagi dokumen kerja dinas kepada simpatisan partai
+Konsep: Pegawai ASN **harus bebas dari pengaruh dan intervensi semua golongan dan partai politik** demi menjamin netralitas pelayanan publik.
+Alasan: Opsi B merupakan keputusan yang selaras dengan kewajiban etika aparatur negara. Pegawai dilarang memihak pada kekuatan politik mana pun agar pelayanan publik tetap adil dan nondiskriminatif. Undang-undang menegaskan ASN wajib netral dari segala intervensi partai politik. Dengan demikian, menolak tawaran adalah langkah yang tepat.
+Bedah: {"A": "Keterlibatan terselubung tetap merupakan pelanggaran berat terhadap netralitas aparatur sipil negara.", "C": "Pimpinan instansi tidak berwenang memberikan izin kepada bawahan untuk aktif di partai politik.", "D": "Penggunaan barang milik negara untuk kegiatan kampanye dilarang keras oleh ketentuan perundang-undangan.", "E": "Penyalahgunaan data dinas kedinasan untuk kepentingan politik melanggar rahasia jabatan negara."}
+======================================================================
+NO 17 | HLM 9 | KUNCI C
+KW: ['Pasal 8 dan 9 UU Nomor 20 Tahun 2023', 'bebas dari pengaruh dan intervensi']
+Q: Ketentuan mengenai kedudukan ASN dan asas bebas dari intervensi partai politik diatur dalam UU 20/2023 pada...
+  A: Pasal 1 dan 2
+  B: Pasal 4 dan 5
+  C: Pasal 8 dan 9 [KUNCI]
+  D: Pasal 12 dan 13
+  E: Pasal 16 dan 17
+Konsep: Kedudukan Pegawai ASN sebagai aparatur negara pelaksana kebijakan dan asas bebas dari intervensi politik diatur dalam **Pasal 8 dan 9 UU Nomor 20 Tahun 2023**.
+Alasan: Opsi C merupakan nomor pasal yang tepat dalam regulasi kepegawaian nasional terbaru. Pasal 8 dan Pasal 9 menjadi fondasi yuridis tegaknya profesionalisme birokrasi yang steril dari kepentingan partisan. Ketentuan hukum menegaskan kedudukan dan netralitas aparatur pada kedua pasal tersebut. Oleh karena itu, opsi C adalah rujukan yang benar.
+Bedah: {"A": "Merupakan pasal yang memuat definisi umum serta asas dasar penyelenggaraan aparatur negara.", "B": "Merupakan pasal yang mengatur nilai dasar serta kode etik dan kode perilaku ASN.", "D": "Merupakan pasal yang mengatur jenis jabatan manajerial dan jenjang karier struktural.", "E": "Merupakan pasal yang mengatur hak dan komponen penghargaan materiel pegawai pemerintah."}
+======================================================================
+NO 18 | HLM 9 | KUNCI D
+KW: ['diserahi tugas dalam suatu jabatan pemerintahan', 'diberikan penghasilan']
+Q: Setiap Pegawai ASN yang diserahi tugas negara berhak memperoleh penghasilan yang bersumber dari...
+  A: Sumbangan sukarela masyarakat pengguna layanan publik
+  B: Bagi hasil keuntungan proyek investasi swasta rekanan
+  C: Iuran wajib bulanan para pegawai senior di kementerian
+  D: Ketentuan resmi berdasarkan peraturan perundang-undangan [KUNCI]
+  E: Dana talangan pribadi pimpinan satuan kerja dinas
+Konsep: Pegawai ASN yang diserahi tugas jabatan pemerintahan **diberikan penghasilan berdasarkan peraturan perundang-undangan** yang sah.
+Alasan: Opsi D merupakan dasar legalitas pemberian kompensasi keuangan bagi aparatur yang tepat. Hak keuangan pegawai bersumber dari kas negara yang dialokasikan dan dicairkan sesuai standar aturan hukum. Ketentuan regulasi menegaskan penghasilan aparatur wajib berlandaskan peraturan perundang-undangan. Dengan demikian, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Penerimaan uang di luar tarif resmi dari masyarakat dikategorikan sebagai pungutan liar ilegal.", "B": "Penerimaan imbalan langsung dari pihak rekanan swasta berpotensi menimbulkan gratifikasi terlarang.", "C": "Kesejahteraan dinas pegawai bukan berasal dari pungutan internal iuran pegawai lainnya.", "E": "Penggajian resmi aparatur negara menggunakan anggaran belanja negara dan bukan dana privat pimpinan."}
+======================================================================
+NO 19 | HLM 9 | KUNCI E
+KW: ['Pegawai ASN terdiri dari Pegawai Negeri Sipil', 'dan Pegawai Pemerintah dengan Perjanjian Kerja']
+Q: Di lingkungan instansi pemerintah Republik Indonesia, Pegawai ASN dikelompokkan secara sah ke dalam...
+  A: Pegawai Tetap Daerah dan Pegawai Harian Lepas Pusat
+  B: Tenaga Honorer Kategori I dan Tenaga Kontrak Magang
+  C: Pegawai Organik Lembaga dan Pekerja Alih Daya Swasta
+  D: Tenaga Bantuan Operasional dan Staf Khusus Kementerian
+  E: Pegawai Negeri Sipil dan Pegawai Pemerintah Perjanjian Kerja [KUNCI]
+Konsep: Sesuai undang-undang, Pegawai ASN hanya terdiri dari dua jenis status resmi: **Pegawai Negeri Sipil (PNS)** dan **Pegawai Pemerintah dengan Perjanjian Kerja (PPPK)**.
+Alasan: Opsi E merupakan klasifikasi yuridis kepegawaian yang tepat dan diakui secara nasional. Transformasi aparatur menghapus status honorer dan menyatukan status kepegawaian ke dalam dua jalur resmi. Undang-undang kepegawaian menegaskan Pegawai ASN terdiri atas PNS dan PPPK. Oleh karena itu, opsi E merupakan klasifikasi yang tepat.
+Bedah: {"A": "Istilah pegawai harian lepas bukan merupakan nomenklatur status pegawai aparatur sipil negara.", "B": "Penggolongan tenaga honorer telah dihapuskan dalam reformasi manajemen aparatur sipil negara.", "C": "Pekerja alih daya pihak ketiga memiliki ikatan kerja dengan vendor swasta dan bukan ASN.", "D": "Staf khusus kementerian memiliki status penugasan politis nonkarier di luar jabatan ASN."}
+======================================================================
+NO 20 | HLM 9 | KUNCI A
+KW: ['warga negara Indonesia yang memenuhi syarat tertentu', 'untuk menduduki jabatan pemerintahan']
+Q: Syarat mutlak status kewarganegaraan untuk dapat diangkat menjadi PNS maupun PPPK adalah...
+  A: Warga Negara Indonesia yang memenuhi persyaratan [KUNCI]
+  B: Warga negara asing pemegang visa izin tinggal tetap
+  C: Mantan warga negara asing yang memiliki keahlian sains
+  D: Penduduk berstatus dwi-kewarganegaraan aktif resmi
+  E: Warga negara asing peserta program beasiswa bilateral
+Konsep: Baik PNS maupun PPPK disyaratkan secara mutlak merupakan **warga negara Indonesia (WNI) yang memenuhi syarat tertentu**.
+Alasan: Opsi A merupakan syarat kedaulatan utama dalam pengisian jabatan birokrasi pemerintahan. Pengabdian pada tugas negara menuntut kesetiaan tunggal kepada Negara Kesatuan Republik Indonesia. Ketentuan hukum menegaskan pelamar wajib berstatus Warga Negara Indonesia yang memenuhi kriteria jabatan. Dengan demikian, opsi A adalah persyaratan yang benar.
+Bedah: {"B": "Warga negara asing tidak diperkenankan menjadi aparatur sipil negara pengelola pemerintahan.", "C": "Keahlian teknologi tenaga asing dapat difasilitasi melalui mekanisme konsultan ahli non-ASN.", "D": "Hukum nasional Republik Indonesia tidak mengakui kewarganegaraan ganda bagi aparatur sipil negara.", "E": "Penerima beasiswa luar negeri berstatus mahasiswa dan bukan calon pegawai aparatur sipil."}
+======================================================================
+NO 21 | HLM 10 | KUNCI C
+KW: ['Jabatan dalam ASN terdiri atas 2 (dua) jabatan', 'Jabatan Manajerial']
+Q: Berdasarkan regulasi terbaru, jabatan di lingkungan aparatur sipil negara terbagi ke dalam...
+  A: Jabatan struktural murni dan jabatan staf pembantu umum
+  B: Jabatan karier terbuka dan jabatan politis perwakilan
+  C: Jabatan Manajerial dan Jabatan Nonmanajerial [KUNCI]
+  D: Jabatan eselon wilayah dan jabatan fungsional daerah
+  E: Jabatan operasional lapangan dan jabatan audit internal
+Konsep: **Jabatan dalam ASN terdiri atas 2 (dua) jabatan**, yaitu **Jabatan Manajerial** dan **Jabatan Nonmanajerial**.
+Alasan: Opsi C merupakan pembagian rumpun jabatan ASN yang tepat sesuai ketentuan regulasi kepegawaian modern. Sistem karier memisahkan peran kepemimpinan manajerial dengan peran teknis pelayanan fungsional. Ketentuan aturan menegaskan jabatan ASN terdiri atas 2 jenis yaitu manajerial dan nonmanajerial. Oleh karena itu, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Nomenklatur jabatan struktural murni dan staf pembantu merupakan istilah lama era pra-reformasi birokrasi.", "B": "Aparatur sipil negara tidak menduduki jabatan politis perwakilan partai politik.", "D": "Pengelompokan jabatan eselon wilayah bukan pembagian rumpun jabatan dalam regulasi ASN baru.", "E": "Jabatan operasional dan audit merupakan spesialisasi tugas dan bukan klasifikasi payung jabatan."}
+======================================================================
+NO 22 | HLM 10 | KUNCI D
+KW: ['Jabatan Manajerial adalah sekelompok jabatan', 'memiliki fungsi memimpin unit organisasi']
+Q: Fungsi utama yang melekat pada kelompok Jabatan Manajerial dalam birokrasi pemerintahan adalah...
+  A: Menjalankan riset sains laboratorium secara mandiri
+  B: Menyusun pembukuan teknis bukti kas kuitansi dinas
+  C: Melakukan penindakan hukum tindak pidana kepolisian
+  D: Memimpin unit organisasi dan mengelola kinerja pegawai [KUNCI]
+  E: Memberikan pertimbangan politik kepada kepala daerah
+Konsep: **Jabatan Manajerial** adalah sekelompok jabatan yang memiliki fungsi **memimpin unit organisasi** serta **mengelola dan mengawasi kinerja pegawai** demi mencapai tujuan organisasi.
+Alasan: Opsi D merangkum esensi tugas pimpinan manajerial birokrasi secara tepat. Pejabat manajerial memegang kendali kepemimpinan atas satuan kerja dan sumber daya manusia di bawahnya. Sesuai rumusan konsep, fungsi manajerial adalah memimpin unit serta mengawasi kinerja staf. Dengan demikian, opsi D adalah pilihan yang benar.
+Bedah: {"A": "Pelaksanaan riset ilmiah mandiri merupakan fungsi jabatan fungsional peneliti nonmanajerial.", "B": "Pencatatan administrasi pembukuan kas merupakan fungsi tugas jabatan fungsional atau pelaksana.", "C": "Penyelidikan tindak pidana kejahatan umum merupakan mandat aparat penegak hukum kepolisian.", "E": "Pemberian nasihat politik partisan dilarang keras bagi pejabat aparatur sipil negara."}
+======================================================================
+NO 23 | HLM 10 | KUNCI E
+KW: ['Jabatan manajerial terdiri atas', 'Jabatan Pimpinan Tinggi', 'Jabatan Administrator']
+Q: Kelompok Jabatan Manajerial dalam tata kelola ASN terdiri atas...
+  A: Jabatan Keahlian, Jabatan Keterampilan, dan Mahir
+  B: Jabatan Ahli Utama, Ahli Madya, dan Ahli Muda
+  C: Jabatan Pembina, Penata Tingkat Satu, dan Pengatur
+  D: Jabatan Pelaksana Tugas, Staf Ahli, dan Konsultan
+  E: Jabatan Pimpinan Tinggi, Administrator, dan Pengawas [KUNCI]
+Konsep: **Jabatan manajerial** terdiri atas tiga jenjang: **Jabatan Pimpinan Tinggi (JPT)**, **Jabatan Administrator**, dan **Jabatan Pengawas**.
+Alasan: Opsi E merupakan tingkatan jabatan manajerial yang tepat sesuai undang-undang. Ketiga posisi tersebut menjalankan fungsi kepemimpinan struktural dari level puncak hingga operasional pengawasan. Ketentuan regulasi membagi jabatan manajerial menjadi JPT, administrator, dan pengawas. Oleh karena itu, opsi E adalah jawaban yang benar.
+Bedah: {"A": "Keahlian dan keterampilan merupakan kategori rumpun jabatan fungsional nonmanajerial.", "B": "Ahli utama, madya, dan muda adalah jenjang keahlian jabatan fungsional teknis.", "C": "Pembina, penata, dan pengatur merupakan nama pangkat golongan ruang PNS.", "D": "Pelaksana tugas dan konsultan bukan nama kelompok jenjang jabatan manajerial resmi."}
+======================================================================
+NO 24 | HLM 10 | KUNCI A
+KW: ['JPT Utama, JPT Madya, dan JPT Pratama', 'Jabatan Pimpinan Tinggi']
+Q: Jabatan Pimpinan Tinggi (JPT) terbagi ke dalam tiga tingkatan jenjang yaitu...
+  A: JPT Utama, JPT Madya, dan JPT Pratama [KUNCI]
+  B: JPT Pusat, JPT Provinsi, dan JPT Kabupaten
+  C: JPT Keahlian, JPT Keterampilan, dan JPT Khusus
+  D: JPT Senior, JPT Menengah, dan JPT Pertama
+  E: JPT Eselon Satu, JPT Eselon Dua, dan JPT Tiga
+Konsep: **Jabatan Pimpinan Tinggi** terdiri atas: **jabatan pimpinan tinggi utama**, **jabatan pimpinan tinggi madya**, dan **jabatan pimpinan tinggi pratama**.
+Alasan: Opsi A merupakan pembagian tingkatan JPT yang tepat secara normatif. Struktur pucuk pimpinan birokrasi tersusun secara hierarkis mulai dari level pratama (eselon II), madya (eselon I), hingga utama. Ketentuan hukum menegaskan jenjang JPT mencakup utama, madya, dan pratama. Dengan demikian, opsi A adalah pilihan yang tepat.
+Bedah: {"B": "Pusat dan daerah merupakan wilayah yurisdiksi kerja instansi dan bukan nama jenjang JPT.", "C": "Keahlian dan keterampilan adalah pembagian jenis jabatan fungsional.", "D": "Senior dan menengah bukan penamaan resmi tingkatan jabatan pimpinan tinggi birokrasi.", "E": "Penamaan eselon satu dan dua merupakan istilah sistem lama yang disetarakan ke JPT."}
+======================================================================
+NO 25 | HLM 10 | KUNCI B
+KW: ['jabatan manajerial tingkat tinggi', 'pengembangan Pegawai ASN']
+Q: Tanggung jawab utama yang dibebankan kepada pejabat dalam Jabatan Pimpinan Tinggi adalah...
+  A: Mencatat arsip surat masuk dan keluar di loket unit
+  B: Memimpin unit organisasi dan memotivasi Pegawai ASN [KUNCI]
+  C: Melakukan pemeriksaan fisik sarana gedung kantor
+  D: Menjaga keamanan gerbang masuk kantor pemerintahan
+  E: Mengantar dokumen dinas ke instansi kementerian lain
+Konsep: Pejabat dalam **Jabatan pimpinan tinggi** bertanggung jawab **memimpin unit organisasi dan memotivasi Pegawai ASN** pada unit organisasi tersebut.
+Alasan: Opsi B merupakan ruang lingkup tanggung jawab strategis pimpinan tinggi yang tepat. Figur JPT dituntut memberikan arah haluan kepemimpinan sekaligus menginspirasi kinerja seluruh staf di bawahnya. Regulasi menegaskan JPT memimpin unit dan memotivasi pegawai organisasi. Oleh karena itu, opsi B adalah jawaban yang benar.
+Bedah: {"A": "Pengelolaan agenda persuratan rutin merupakan tugas fungsional pranata administrasi umum.", "C": "Pemeriksaan teknis gedung merupakan ruang lingkup teknis jabatan pengelola sarana prasarana.", "D": "Pengamanan fisik gerbang kantor menjadi tanggung jawab petugas satuan pengamanan.", "E": "Pengantaran surat dinas merupakan tugas bantuan operasional petugas ekspedisi kantor."}
+======================================================================
+NO 26 | HLM 10 | KUNCI C
+KW: ['Jabatan Administrator', 'pelayanan publik dan administrasi']
+Q: Pejabat dalam Jabatan Administrator bertanggung jawab memimpin pelaksanaan seluruh kegiatan...
+  A: Penyelidikan perkara pelanggaran pidana korupsi
+  B: Diplomasi perdagangan bilateral di forum internasional
+  C: Pelayanan publik, administrasi pemerintahan, dan pembangunan [KUNCI]
+  D: Audit investigasi atas kebocoran rahasia militer
+  E: Penyusunan doktrin pertahanan teritorial matra udara
+Konsep: **Jabatan administrator** bertanggung jawab **memimpin pelaksanaan seluruh kegiatan pelayanan publik serta administrasi pemerintahan dan pembangunan**.
+Alasan: Opsi C merupakan lingkup tanggung jawab manajerial jenjang administrator yang tepat. Administrator (setara eselon III) bertindak sebagai penggerak operasional pelayanan masyarakat dan agenda pembangunan instansi. Aturan menyatakan administrator memimpin kegiatan pelayanan publik, administrasi, dan pembangunan. Dengan demikian, opsi C adalah jawaban yang tepat.
+Bedah: {"A": "Penyelidikan perkara pidana khusus merupakan fungsi aparat kejaksaan dan penegak hukum.", "B": "Negosiasi hubungan dagang luar negeri menjadi wewenang korps diplomatik kementerian terkait.", "D": "Audit investigasi militer merupakan tugas inspektorat jenderal kementerian pertahanan.", "E": "Perumusan doktrin matra tempur berada pada domain komando pertahanan markas besar militer."}
+======================================================================
+NO 27 | HLM 10 | KUNCI D
+KW: ['Jabatan Pengawas', 'Jabatan Manajerial tingkat dasar']
+Q: Tanggung jawab utama yang diemban oleh pejabat dalam Jabatan Pengawas adalah...
+  A: Menetapkan standar baku pengujian laboratorium forensik
+  B: Mengadili sengketa perselisihan hubungan industrial
+  C: Menandatangani nota pinjaman keuangan antar-negara
+  D: Mengendalikan pelaksanaan kegiatan oleh pejabat pelaksana [KUNCI]
+  E: Memimpin sidang kabinet terbatas bersama para menteri
+Konsep: Pejabat dalam **Jabatan pengawas** bertanggung jawab **mengendalikan pelaksanaan kegiatan yang dilakukan oleh pejabat pelaksana**.
+Alasan: Opsi D merupakan fungsi pengawasan lini pertama (*first-line supervisor*) yang tepat. Pengawas (setara eselon IV) bertugas mengontrol langsung mutu dan ketepatan eksekusi kerja staf pelaksana di lapangannya. Regulasi merumuskan bahwa tugas jabatan pengawas adalah mengendalikan kegiatan pejabat pelaksana. Oleh karena itu, opsi D adalah pilihan yang benar.
+Bedah: {"A": "Penetapan standar ilmiah forensik merupakan tugas jabatan fungsional ahli forensik.", "B": "Penyelesaian perselisihan ketenagakerjaan menjadi kewenangan hakim pengadilan industrial.", "C": "Penandatanganan utang luar negeri dilakukan oleh menteri keuangan atas mandat presiden.", "E": "Memimpin rapat kabinet pemerintahan adalah wewenang konstitusional presiden atau wapres."}
+======================================================================
+NO 28 | HLM 10 | KUNCI E
+KW: ['mencapai tujuan organisasi', 'Jabatan Manajerial']
+Q: Seorang Direktur Jenderal memimpin rapat koordinasi penetapan target output tahunan satker. Tindakan ini menjamin...
+  A: Kenaikan pangkat otomatis tanpa penilaian kinerja tahunan
+  B: Pemberian dispensasi jam kerja bagi staf unit pusat
+  C: Penundaan pelaporan keuangan kepada auditor eksternal
+  D: Pengurangan frekuensi audit operasional inspektorat jenderal
+  E: Pencapaian tujuan dan sasaran unit organisasi instansi [KUNCI]
+Konsep: Tanggung jawab Jabatan Pimpinan Tinggi dilaksanakan untuk menjamin **pencapaian tujuan dan sasaran unit organisasi** instansi.
+Alasan: Opsi E merupakan tujuan akhir dari pelaksanaan wewenang pimpinan tinggi yang tepat. Arahan strategis JPT memastikan seluruh program kerja satker terarah tepat sasaran sesuai visi kementerian. Undang-undang menegaskan kepemimpinan JPT dilaksanakan guna menjamin pencapaian tujuan dan sasaran unit organisasi. Dengan demikian, opsi E adalah jawaban yang tepat.
+Bedah: {"A": "Kenaikan pangkat aparatur sipil negara wajib didasarkan pada prestasi kinerja dan kompetensi.", "B": "Ketentuan kehadiran kerja berlaku mengikat bagi seluruh jajaran tanpa hak dispensasi sepihak.", "C": "Kewajiban pelaporan pertanggungjawaban keuangan negara terikat tenggat regulasi perbendaharaan.", "D": "Pengawasan akuntabilitas tata kelola oleh inspektorat jenderal berjalan independen dan periodik."}
+======================================================================
+NO 29 | HLM 10 | KUNCI A
+KW: ['Jabatan Manajerial', 'mengelola, memotivasi, dan mendukung']
+Q: Unsur yang wajib dikelola dan diawasi oleh pejabat manajerial dalam rangka mencapai tujuan organisasi adalah...
+  A: Kinerja dan akuntabilitas pelaksanaan tugas para pegawai [KUNCI]
+  B: Pilihan politik pribadi aparatur pada pemilihan kepala daerah
+  C: Aktivitas transaksi keuangan perbankan privat seluruh staf
+  D: Kehidupan rumah tangga pegawai di luar kedinasan kantor
+  E: Pilihan investasi saham pribadi bawahan di pasar modal
+Konsep: Pejabat manajerial memiliki tanggung jawab dalam **mengelola dan mengawasi kinerja pegawai** dalam rangka mencapai tujuan organisasi.
+Alasan: Opsi A merupakan objek pengawasan manajerial profesional yang tepat di lingkungan kerja. Fokus manajemen diarahkan pada pemenuhan target kerja, kedisiplinan, dan mutu pelayanan kedinasan. Regulasi menyatakan pejabat manajerial mengelola serta mengawasi kinerja pegawai. Oleh karena itu, opsi A merupakan pilihan yang benar.
+Bedah: {"B": "Pilihan politik di bilik suara merupakan hak privat asalkan pegawai menjaga netralitas dinas.", "C": "Rekening privat pegawai dilindungi kerahasiaan perbankan dan bukan ranah pengawasan harian.", "D": "Ranah domestik privat keluarga pegawai di luar lingkup pengawasan manajemen profesional kerja.", "E": "Kepemilikan aset wajar merupakan hak pribadi sejauh mematuhi pelaporan LHKPN/LHKASN."}
+======================================================================
+NO 30 | HLM 10 | KUNCI B
+KW: ['Jabatan manajerial terdiri atas', 'Jabatan Pengawas']
+Q: Jenjang struktural yang menjadi tingkatan terbawah dalam kelompok Jabatan Manajerial adalah...
+  A: Jabatan Pelaksana Tata Usaha
+  B: Jabatan Pengawas Operasional [KUNCI]
+  C: Jabatan Fungsional Terampil
+  D: Jabatan Fungsional Pertama
+  E: Jabatan Pranata Administrasi
+Konsep: Kelompok jabatan manajerial hanya mencakup tiga jenjang: JPT, Administrator, dan jenjang terbawahnya adalah **Jabatan Pengawas**.
+Alasan: Opsi B merupakan analisis posisi manajerial lini pertama yang tepat. Jabatan Pengawas adalah batas akhir kepemimpinan manajerial sebelum memasuki kelompok jabatan pelaksana nonmanajerial. Ketentuan hierarki menegaskan jabatan pengawas berada di bawah administrator. Dengan demikian, opsi B adalah jawaban yang benar.
+Bedah: {"A": "Jabatan Pelaksana bukan bagian dari kelompok jabatan manajerial melainkan nonmanajerial.", "C": "Jabatan fungsional terampil merupakan jenjang keterampilan pada rumpun nonmanajerial.", "D": "Jabatan fungsional ahli pertama berstatus jabatan nonmanajerial berbasis keahlian profesi.", "E": "Pranata administrasi berstatus jabatan pelaksana atau fungsional nonmanajerial."}
+======================================================================
+NO 31 | HLM 11 | KUNCI D
+KW: ['memiliki Kompetensi Teknis', 'Kompetensi Manajerial, dan Kompetensi Sosial Kultural']
+Q: Untuk dapat diangkat dalam jabatan administrasi, PNS wajib memenuhi tiga jenis kompetensi yaitu...
+  A: Kompetensi Finansial, Keberanian Berisiko, dan Komersial
+  B: Kompetensi Diplomasi, Hukum Pidana, dan Intelijen
+  C: Kompetensi Vokasi, Desain Grafis, dan Pemasaran
+  D: Kompetensi Teknis, Manajerial, dan Sosial Kultural [KUNCI]
+  E: Kompetensi Teritorial, Strategi Tempur, dan Militer
+Konsep: Syarat pengangkatan dalam jabatan administrasi mewajibkan pemenuhan: **Kompetensi Teknis**, **Kompetensi Manajerial**, dan **Kompetensi Sosial Kultural**.
+Alasan: Opsi D merupakan triad standar kompetensi aparatur yang tepat menurut regulasi manajemen ASN. Ketiga rumpun kompetensi ini menjamin penguasaan keahlian teknis tugas, kapabilitas kepemimpinan manajerial, serta kearifan berinteraksi majemuk. Ketentuan aturan mensyaratkan kompetensi teknis, manajerial, dan sosial kultural. Dengan demikian, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Kompetensi komersial dan risiko finansial merupakan standar korporasi swasta nonpemerintah.", "B": "Keahlian hukum pidana dan intelijen adalah kompetensi spesifik aparat penegak hukum khusus.", "C": "Desain grafis dan pemasaran produk merupakan subkategori keahlian industri kreatif.", "E": "Strategi tempur teritorial adalah kompetensi prajurit militer angkatan bersenjata."}
+======================================================================
+NO 32 | HLM 11 | KUNCI E
+KW: ['Kompetensi Teknis diukur dari', 'tingkat dan spesialisasi pendidikan']
+Q: Kompetensi Teknis PNS diukur dari tingkat dan spesialisasi pendidikan, pengalaman bekerja teknis, serta...
+  A: Jumlah sertifikat keikutsertaan ormas kedaerahan
+  B: Frekuensi kehadiran pada acara keagamaan nasional
+  C: Hasil perolehan suara pemilihan pimpinan daerah
+  D: Tingkat kepemilikan aset properti dan kendaraan dinas
+  E: Pelatihan teknis fungsional kedinasan yang diikuti [KUNCI]
+Konsep: **Kompetensi Teknis** diukur dari **tingkat dan spesialisasi pendidikan**, **pelatihan teknis fungsional**, dan **pengalaman bekerja secara teknis**.
+Alasan: Opsi E melengkapi indikator ukur kompetensi teknis secara tepat. Pendidikan kejuruan dan jam terbang pelatihan fungsional mencerminkan kesiapan mengeksekusi tugas substansial unit. Peraturan kepegawaian merumuskan kompetensi teknis dinilai dari pendidikan, pelatihan fungsional, dan pengalaman teknis. Oleh karena itu, opsi E merupakan pilihan yang tepat.
+Bedah: {"A": "Keikutsertaan dalam ormas kedaerahan bukan merupakan ukuran kompetensi profesional kerja.", "B": "Ibadah personal dilindungi konstitusi dan bukan indikator teknis keahlian jabatan.", "C": "Hasil pemilihan politik tidak boleh memengaruhi penilaian kompetensi meritokrasi.", "D": "Kepemilikan aset pribadi tidak mencerminkan tingkat kompetensi atau keterampilan teknis."}
+======================================================================
+NO 33 | HLM 11 | KUNCI A
+KW: ['Kompetensi Manajerial diukur dari', 'pelatihan struktural atau manajemen']
+Q: Indikator yang digunakan untuk mengukur Kompetensi Manajerial aparatur sipil negara mencakup...
+  A: Pendidikan, pelatihan struktural, dan kepemimpinan [KUNCI]
+  B: Bakat kesenian tradisional dan kemahiran musik
+  C: Keahlian mekanik reparasi perangkat keras server
+  D: Daftar publikasi artikel jurnal internasional terindeks
+  E: Kapasitas fisik ketahanan lari jarak jauh maraton
+Konsep: **Kompetensi Manajerial** diukur dari **tingkat pendidikan**, **pelatihan struktural atau manajemen**, dan **pengalaman kepemimpinan**.
+Alasan: Opsi A merupakan instrumen penilaian kapasitas kepemimpinan manajerial yang tepat. Penguasaan tata kelola organisasi dinilai dari rekam jejak diklat struktural (seperti PKN/PKA/PKP) dan jam terbang memimpin tim kerja. Aturan menetapkan kompetensi manajerial diukur dari pendidikan, pelatihan manajemen, dan kepemimpinan. Dengan demikian, opsi A adalah jawaban yang benar.
+Bedah: {"B": "Kemahiran seni merupakan minat rekreasi pribadi dan bukan indikator kapabilitas manajerial.", "C": "Keterampilan perangkat keras komputer masuk kategori kompetensi teknis teknologi informasi.", "D": "Publikasi jurnal ilmiah menjadi indikator kompetensi jabatan fungsional dosen atau peneliti.", "E": "Kebugaran fisik prajurit bukan tolok ukur kompetensi kepemimpinan manajerial birokrasi."}
+======================================================================
+NO 34 | HLM 11 | KUNCI B
+KW: ['Kompetensi Sosial Kultural diukur dari', 'pengalaman kerja berkaitan dengan masyarakat majemuk']
+Q: Kompetensi Sosial Kultural dinilai dari pengalaman kerja aparatur yang berkaitan dengan...
+  A: Pengujian kepatuhan transaksi perbankan komersial
+  B: Masyarakat majemuk dalam agama, suku, dan budaya [KUNCI]
+  C: Koleksi benda pusaka peninggalan kerajaan kuno
+  D: Penyusunan kode pemrograman aplikasi berbasis awan
+  E: Negosiasi sengketa batas wilayah maritim terluar
+Konsep: **Kompetensi Sosial Kultural** diukur dari **pengalaman kerja berkaitan dengan masyarakat majemuk dalam hal agama, suku, dan budaya** sehingga memiliki wawasan kebangsaan.
+Alasan: Opsi B merupakan indikator keberhasilan interaksi sosial kultural yang tepat bagi aparatur. ASN sebagai perekat persatuan bangsa wajib piawai melayani warga negara dengan latar belakang yang beragam tanpa prasangka etnis atau sektarian. Regulasi menegaskan kompetensi sosial kultural dinilai dari pengalaman berinteraksi dengan masyarakat majemuk. Oleh karena itu, opsi B adalah pilihan yang benar.
+Bedah: {"A": "Pemeriksaan perbankan merupakan kompetensi teknis pengawas keuangan dan perbendaharaan.", "C": "Konservasi benda bersejarah merupakan ranah teknis keahlian kurator kepurbakalaan.", "D": "Pengembangan perangkat lunak termasuk domain kompetensi teknis pranata komputer.", "E": "Batas maritim merupakan ruang lingkup diplomasi geopolitik kementerian luar negeri."}
+======================================================================
+NO 35 | HLM 11 | KUNCI C
+KW: ['PNS dapat diberhentikan dari jabatan administrasi', 'menjalani tugas belajar lebih dari 6 (enam) bulan']
+Q: Seorang PNS administrator menempuh tugas belajar doktoral selama 24 bulan. Sesuai PP 11/2017 jo PP 17/2020, konsekuensi terhadap jabatannya adalah...
+  A: Tetap memangku jabatan dengan tunjangan penuh
+  B: Dipindahkan secara otomatis menjadi staf ahli menteri
+  C: Diberhentikan dari jabatan administrasi yang diemban [KUNCI]
+  D: Diberikan kenaikan pangkat istimewa dua tingkat
+  E: Diberhentikan statusnya sebagai Pegawai Negeri Sipil
+Konsep: PNS **diberhentikan dari jabatan administrasi** apabila **menjalani tugas belajar lebih dari 6 (enam) bulan**.
+Alasan: Opsi C merupakan sanksi administratif pelepasan jabatan yang tepat demi efektivitas satker. Tugas belajar jangka panjang menuntut fokus akademik penuh sehingga posisi kepemimpinan harus diserahkan kepada pejabat pengganti. Ketentuan PP 11/2017 jo PP 17/2020 menyatakan PNS yang tugas belajar > 6 bulan diberhentikan dari jabatan administrasinya. Dengan demikian, opsi C adalah jawaban yang tepat.
+Bedah: {"A": "Memangku jabatan aktif saat menjalani studi purna waktu melanggar efektivitas manajemen dinas.", "B": "Penugasan staf ahli menteri memiliki mekanisme seleksi tersendiri dan bukan tempat penampungan studi.", "D": "Kenaikan pangkat tugas belajar diatur tersendiri sesuai batas ijazah dan bukan otomatis istimewa.", "E": "Pemberhentian hanya berlaku pada jabatannya, sedangkan status sebagai PNS tetap melekat utuh."}
+======================================================================
+NO 36 | HLM 11 | KUNCI D
+KW: ['diberhentikan dari jabatan administrasi apabila', 'cuti di luar tanggungan negara']
+Q: Berikut ini merupakan sebab seorang PNS diberhentikan dari jabatan administrasi, KECUALI...
+  A: Mengundurkan diri dari jabatan administrasi
+  B: Diberhentikan sementara statusnya sebagai PNS
+  C: Menjalani cuti di luar tanggungan negara
+  D: Menjalani cuti tahunan selama dua belas hari kerja [KUNCI]
+  E: Ditugaskan secara penuh di luar jabatan administrasi
+Konsep: PNS diberhentikan dari jabatan administrasi apabila: mengundurkan diri, diberhentikan sementara, cuti di luar tanggungan negara, tugas belajar > 6 bulan, ditugaskan penuh di luar jabatan, atau tidak memenuhi syarat jabatan. **Cuti tahunan reguler bukan alasan pemberhentian**.
+Alasan: Opsi D merupakan pengecualian yang tepat atas alasan pemberhentian jabatan. Penggunaan hak cuti tahunan adalah hak normatif aparatur yang tidak menggugurkan status jabatan yang sedang disandangnya. Regulasi tidak mencantumkan cuti tahunan sebagai alasan pemberhentian jabatan administrasi. Oleh karena itu, opsi D adalah opsi pengecualian yang benar.
+Bedah: {"A": "Mengundurkan diri sah merupakan sebab sah pemberhentian dari jabatan administrasi.", "B": "Pemberhentian sementara sebagai PNS berakibat langsung pelepasan jabatan yang diemban.", "C": "Menjalani cuti di luar tanggungan negara mewajibkan pemberhentian dari jabatan dinas.", "E": "Penugasan penuh di luar jabatan administrasi menjadi alasan yuridis pelepasan jabatan."}
+======================================================================
+NO 37 | HLM 11 | KUNCI E
+KW: ['Jabatan nonmanajerial adalah sekelompok jabatan', 'mengutamakan kompetensi yang bersifat teknis']
+Q: Kelompok jabatan dalam ASN yang mengutamakan kompetensi teknis dan tidak memiliki tanggung jawab langsung memimpin pegawai disebut...
+  A: Jabatan Administrator Utama Wilayah
+  B: Jabatan Pimpinan Tinggi Madya Pusat
+  C: Jabatan Pengawas Pelayanan Operasional
+  D: Jabatan Pelaksana Tugas Eselon Daerah
+  E: Jabatan Nonmanajerial Aparatur Negara [KUNCI]
+Konsep: **Jabatan nonmanajerial** adalah sekelompok jabatan yang **mengutamakan kompetensi yang bersifat teknis** sesuai bidangnya dan **tidak memiliki tanggung jawab langsung dalam mengelola dan mengawasi kinerja pegawai**.
+Alasan: Opsi E merupakan definisi kelompok jabatan nonmanajerial yang tepat. Kelompok ini fokus pada pelayanan teknis dan profesionalisme keahlian tanpa beban manajerial struktural. Sesuai ketentuan, jabatan yang mengutamakan kompetensi teknis tanpa memimpin bawahan disebut jabatan nonmanajerial. Dengan demikian, opsi E adalah jawaban yang tepat.
+Bedah: {"A": "Jabatan administrator berstatus manajerial dengan tanggung jawab memimpin unit kerja.", "B": "JPT Madya merupakan kelompok manajerial puncak yang memimpin eselon tingkat satu.", "C": "Jabatan pengawas merupakan posisi manajerial yang mengendalikan pejabat pelaksana.", "D": "Pelaksana tugas eselon merupakan istilah status sementara dan bukan kelompok resmi."}
+======================================================================
+NO 38 | HLM 11 | KUNCI A
+KW: ['terselenggaranya peningkatan kinerja secara berkesinambungan', 'bagi Jabatan administrator']
+Q: Bagi Jabatan Administrator, tanggung jawab manajerial dilaksanakan guna menjamin seluruh kegiatan berjalan efisien serta terselenggaranya...
+  A: Peningkatan kinerja pegawai secara berkesinambungan [KUNCI]
+  B: Penghapusan seluruh mekanisme laporan pertanggungjawaban
+  C: Pemberian fasilitas mobil dinas mewah bagi staf baru
+  D: Pengalihan seluruh aset kantor kepada yayasan sosial
+  E: Pengurangan hari kerja operasional kantor pelayanan
+Konsep: Tanggung jawab Jabatan Administrator dilaksanakan untuk menjamin perencanaan efisien sesuai SOP serta **terselenggaranya peningkatan kinerja secara berkesinambungan**.
+Alasan: Opsi A merupakan sasaran keluaran kepemimpinan administrator yang tepat. Peningkatan produktivitas yang berkesinambungan menjadi tolok ukur kesuksesan pengelolaan unit administrasi. Regulasi menegaskan kepemimpinan administrator menjamin perbaikan kinerja secara berkesinambungan. Oleh karena itu, opsi A adalah pilihan yang benar.
+Bedah: {"B": "Penghapusan laporan pertanggungjawaban bertentangan mutlak dengan prinsip akuntabilitas kinerja.", "C": "Fasilitas dinas diatur secara ketat berdasarkan pagu anggaran dan standar barang kementerian.", "D": "Pemindahtanganan barang milik negara wajib melalui mekanisme persetujuan pengelola barang.", "E": "Penetapan jam kerja instansi pemerintah terikat pada peraturan presiden dan regulasi menteri."}
+======================================================================
+NO 39 | HLM 11 | KUNCI B
+KW: ['kegiatan sesuai dengan standar operasional prosedur', 'bagi Jabatan pelaksana']
+Q: Tanggung jawab yang wajib dipenuhi oleh pegawai yang menduduki Jabatan Pelaksana adalah memastikan pelaksanaan...
+  A: Audit investigasi atas pengelolaan utang luar negeri
+  B: Kegiatan kerja sesuai standar operasional prosedur [KUNCI]
+  C: Perumusan kebijakan fiskal makro nasional tahunan
+  D: Pengangkatan pejabat eselon di lingkungan kementerian
+  E: Penetapan tarif cukai hasil tembakau dan alkohol
+Konsep: Pejabat dalam **Jabatan pelaksana** bertanggung jawab menjamin pelaksanaan **kegiatan sesuai dengan standar operasional prosedur (SOP)**.
+Alasan: Opsi B merupakan ruang lingkup akuntabilitas kerja pejabat pelaksana yang tepat. Sebagai garda terdepan eksekusi operasional, pelaksana wajib patuh pada alur kerja SOP yang telah dibakukan. Regulasi menyatakan tanggung jawab pelaksana adalah menjamin kegiatan sesuai dengan SOP. Dengan demikian, opsi B adalah jawaban yang tepat.
+Bedah: {"A": "Audit investigasi utang negara merupakan mandat pemeriksa BPK atau auditor BPKP.", "C": "Perumusan kebijakan makro ekonomi merupakan fungsi strategis badan kebijakan fiskal.", "D": "Pengangkatan pejabat struktural menjadi wewenang presiden atau pejabat pembina kepegawaian.", "E": "Penetapan tarif cukai nasional diputuskan oleh menteri keuangan melalui peraturan menteri."}
+======================================================================
+NO 40 | HLM 11 | KUNCI C
+KW: ['Jabatan Fungsional (JF) adalah sekelompok jabatan', 'berdasarkan pada keahlian dan keterampilan tertentu']
+Q: Sekelompok jabatan dalam birokrasi yang berisi fungsi pelayanan berbasis keahlian dan keterampilan tertentu adalah...
+  A: Jabatan Struktural Wilayah Komando
+  B: Jabatan Politis Perwakilan Rakyat
+  C: Jabatan Fungsional Aparatur Sipil [KUNCI]
+  D: Jabatan Honorer Pembantu Kepegawaian
+  E: Jabatan Ad-Hoc Penasehat Kementerian
+Konsep: **Jabatan Fungsional (JF)** adalah sekelompok jabatan yang berisi fungsi dan tugas berkaitan dengan pelayanan fungsional yang **berdasarkan pada keahlian dan keterampilan tertentu**.
+Alasan: Opsi C merupakan definisi yuridis jabatan fungsional yang tepat. JF mewadahi para profesional spesialis dalam memberikan kontribusi kepakaran langsung kepada organisasi. Sesuai rumusan konsep, jabatan pelayanan berbasis keahlian dan keterampilan tertentu adalah Jabatan Fungsional. Oleh karena itu, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Jabatan komando struktural merupakan terminologi hierarki satuan militer atau kepolisian.", "B": "Jabatan politis perwakilan merupakan posisi pejabat publik hasil pemilihan umum legislatif.", "D": "Jabatan honorer bukan bagian dari nomenklatur jabatan aparatur sipil negara modern.", "E": "Penasehat ad-hoc merupakan staf temporer nonkarier di luar kelompok jabatan fungsional ASN."}
+======================================================================
+NO 41 | HLM 12 | KUNCI E
+KW: ['jabatan fungsional keahlian terdiri atas', 'Ahli utama, Ahli madya, Ahli muda dan Ahli pertama']
+Q: Jenjang Jabatan Fungsional Keahlian dari tingkatan tertinggi ke terendah secara berurutan adalah...
+  A: Penyelia, Mahir, Terampil, dan Pemula
+  B: Utama, Madya, Pratama, dan Administrator
+  C: Pembina Utama, Penata Muda, Pengatur, dan Juru
+  D: Senior, Madya, Yunior, dan Asisten Peneliti
+  E: Ahli Utama, Ahli Madya, Ahli Muda, dan Ahli Pertama [KUNCI]
+Konsep: **Jabatan fungsional keahlian** terdiri atas empat jenjang: **Ahli utama**, **Ahli madya**, **Ahli muda**, dan **Ahli pertama**.
+Alasan: Opsi E merupakan urutan hierarki jenjang JF keahlian yang tepat dari tingkat teratas hingga permulaan. Klasifikasi keahlian mensyaratkan kualifikasi pendidikan minimal sarjana dengan spesialisasi profesi. Regulasi menegaskan jenjang keahlian terdiri atas Ahli utama, madya, muda, dan pertama. Oleh karena itu, opsi E adalah jawaban yang benar.
+Bedah: {"A": "Penyelia, mahir, terampil, dan pemula merupakan hierarki pada jabatan fungsional keterampilan.", "B": "Utama, madya, pratama merupakan pembagian tingkatan jabatan pimpinan tinggi struktural.", "C": "Pembina, penata, pengatur, dan juru adalah nama jenjang golongan kepangkatan PNS.", "D": "Senior dan yunior bukan penamaan standar jenjang jabatan fungsional aparatur sipil negara."}
+======================================================================
+NO 42 | HLM 12 | KUNCI A
+KW: ['jabatan fungsional keterampilan terdiri atas', 'Penyelia, Mahir, Terampil, dan Pemula']
+Q: Jenjang tingkatan pada Jabatan Fungsional Keterampilan secara sah terdiri atas...
+  A: Penyelia, Mahir, Terampil, dan Pemula [KUNCI]
+  B: Ahli Utama, Ahli Madya, dan Ahli Pertama
+  C: Administrator, Pengawas, dan Pelaksana Harian
+  D: Kepala Seksi, Kasubbag, dan Staf Administrasi
+  E: Pengatur Muda, Pengatur, dan Penata Tingkat Satu
+Konsep: **Jabatan fungsional keterampilan** terdiri atas: **Penyelia**, **Mahir**, **Terampil**, dan **Pemula**.
+Alasan: Opsi A merupakan tingkatan resmi pada kelompok jabatan fungsional berbasis vokasi keterampilan. Posisi penyelia merupakan jenjang puncak fungsional keterampilan yang membimbing jenjang di bawahnya. Sesuai ketentuan, jenjang keterampilan mencakup penyelia, mahir, terampil, dan pemula. Dengan demikian, opsi A adalah pilihan yang tepat.
+Bedah: {"B": "Ahli utama, madya, dan pertama merupakan penamaan pada jabatan fungsional keahlian.", "C": "Administrator dan pengawas merupakan kelompok jabatan manajerial pimpinan unit.", "D": "Kepala seksi dan kasubbag adalah sebutan jabatan struktural pengawas dalam tata kerja.", "E": "Pengatur muda dan penata merupakan nama pangkat golongan ruang kepegawaian."}
+======================================================================
+NO 43 | HLM 12 | KUNCI B
+KW: ['kegiatannya dapat diukur dengan satuan nilai', 'angka kredit']
+Q: Kriteria penilaian keluaran kegiatan pada Jabatan Fungsional diukur dengan satuan nilai atau akumulasi nilai butir dalam bentuk...
+  A: Persentase dividen saham perusahaan
+  B: Angka kredit butir kegiatan tugas [KUNCI]
+  C: Indeks kepuasan politik dewan perwakilan
+  D: Nominal bonus komisi transaksi penjualan
+  E: Nilai tukar mata uang asing kedinasan
+Konsep: Salah satu kriteria utama Jabatan Fungsional adalah **kegiatannya dapat diukur dengan satuan nilai atau akumulasi nilai butir-butir kegiatan dalam bentuk angka kredit**.
+Alasan: Opsi B merupakan instrumen akuntabilitas kinerja fungsional yang tepat. Angka kredit merefleksikan pencapaian butir-butir output profesi yang menjadi syarat kenaikan jabatan dan pangkat. Ketentuan regulasi menetapkan capaian fungsional diukur melalui satuan angka kredit. Oleh karena itu, opsi B merupakan jawaban yang benar.
+Bedah: {"A": "Dividen saham merupakan imbal hasil investasi finansial pada entitas bisnis perseroan.", "C": "Kepuasan politik lembaga legislatif bukan tolok ukur teknis kinerja jabatan fungsional.", "D": "Komisi penjualan merupakan skema remunerasi tenaga pemasar komersial sektor swasta.", "E": "Kurs valuta asing merupakan indikator moneter makro perbankan dan bukan kinerja ASN."}
+======================================================================
+NO 44 | HLM 12 | KUNCI C
+KW: ['Pengangkatan PNS ke dalam Jabatan Fungsional', 'pengangkatan pertama, perpindahan dari Jabatan lain, penyesuaian dan/atau promosi']
+Q: Pengangkatan PNS ke dalam Jabatan Fungsional dapat dilaksanakan melalui empat mekanisme resmi yaitu...
+  A: Lelang terbuka, voting staf, warisan jabatan, dan tender
+  B: Penunjukan keluarga, diskresi bupati, undian, dan rotasi
+  C: Pengangkatan pertama, perpindahan jabatan, penyesuaian, dan promosi [KUNCI]
+  D: Rekomendasi ormas, kuota daerah, afirmasi politik, dan mutasi
+  E: Permohonan pribadi, seleksi daring, magang sukarela, dan magang
+Konsep: Pengangkatan ke dalam Jabatan Fungsional dilakukan melalui: **pengangkatan pertama**, **perpindahan dari Jabatan lain**, **penyesuaian (inpassing)**, dan/atau **promosi**.
+Alasan: Opsi C merupakan empat pintu masuk karier fungsional yang diatur dalam regulasi kepegawaian. Mekanisme ini menjamin pengangkatan berbasis kompetensi baik bagi CPNS baru, pegawai alih jabatan, maupun pegawai berprestasi. Ketentuan aturan menegaskan empat jalur tersebut. Dengan demikian, opsi C adalah jawaban yang tepat.
+Bedah: {"A": "Mekanisme voting suara dan tender komersial bertentangan dengan asas sistem merit.", "B": "Penunjukan nepotisme keluarga dan sistem undian dilarang mutlak dalam hukum kepegawaian.", "D": "Rekomendasi ormas dan afirmasi partai politik melanggar asas netralitas aparatur.", "E": "Magang sukarela bukan jalur pengangkatan formal jabatan fungsional aparatur sipil negara."}
+======================================================================
+NO 45 | HLM 12 | KUNCI D
+KW: ['PNS dapat diberhentikan dari Jabatan Fungsional apabila', 'ditugaskan secara penuh di luar JF']
+Q: Seorang pejabat fungsional auditor ditugaskan secara penuh menjadi pejabat administrator struktural. Status jabatan fungsionalnya adalah...
+  A: Merangkap kedua jabatan sekaligus dengan dua tunjangan
+  B: Diberikan cuti besar selama memegang jabatan struktural
+  C: Diberhentikan tetap statusnya sebagai pegawai negeri
+  D: Diberhentikan dari jabatan fungsional yang diduduki [KUNCI]
+  E: Ditunda penerbitan surat keputusan pengangkatannya
+Konsep: PNS **diberhentikan dari Jabatan Fungsional** apabila **ditugaskan secara penuh di luar Jabatan Fungsional** (misalnya diangkat dalam jabatan manajerial).
+Alasan: Opsi D merupakan konsekuensi larangan rangkap jabatan struktural dan fungsional. Penugasan penuh pada jabatan manajerial menuntut pelepasan jabatan fungsional agar tidak terjadi tumpang tindih fungsi dan tunjangan ganda. Regulasi menetapkan PNS diberhentikan dari JF jika ditugaskan penuh di luar JF. Oleh karena itu, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Rangkap jabatan struktural dan fungsional dilarang keras dalam manajemen aparatur sipil negara.", "B": "Cuti besar merupakan hak istirahat pegawai dan bukan mekanisme pengalihan jabatan dinas.", "C": "Pemberhentian hanya terjadi pada jabatan fungsionalnya, sedangkan status PNS tetap aktif.", "E": "Penundaan SK tanpa dasar hukum melanggar tertib administrasi ketetapan kepegawaian."}
+======================================================================
+NO 46 | HLM 12 | KUNCI E
+KW: ['dapat diangkat kembali sesuai dengan jenjang Jabatan Fungsional terakhir', 'apabila tersedia lowongan Jabatan']
+Q: PNS yang telah selesai menjalani tugas belajar lebih dari enam bulan dapat diangkat kembali ke dalam JF asalkan...
+  A: Mendapat persetujuan lisan dari seluruh rekan sejawat
+  B: Membayar uang administrasi pemulihan formasi dinas
+  C: Menempati kantor cabang di luar pulau tempat domisili
+  D: Menyerahkan sertifikat kelulusan kepada serikat pekerja
+  E: Tersedia lowongan formasi pada jenjang jabatan terakhir [KUNCI]
+Konsep: PNS yang diberhentikan dari JF karena tugas belajar atau penugasan luar **dapat diangkat kembali sesuai dengan jenjang terakhir apabila tersedia lowongan Jabatan**.
+Alasan: Opsi E merupakan syarat utama pemulihan jabatan fungsional yang tepat. Pengangkatan kembali wajib mempertimbangkan ketersediaan peta jabatan dan formasi pada instansi pemerintah. Ketentuan pasal menegaskan pengangkatan kembali dapat dilakukan apabila tersedia lowongan jabatan. Dengan demikian, opsi E adalah pilihan yang tepat.
+Bedah: {"A": "Persetujuan rekan kerja bukan syarat legal administratif pengangkatan kembali aparatur.", "B": "Proses kepegawaian negara bebas biaya dan pungutan liar merupakan tindak pidana gratifikasi.", "C": "Penempatan kembali disesuaikan dengan kebutuhan formasi dan bukan keharusan pindah pulau.", "D": "Serikat pekerja tidak memiliki wewenang hukum dalam pengangkatan formasi jabatan ASN."}
+======================================================================
+NO 47 | HLM 12 | KUNCI A
+KW: ['b. Jabatan Pelaksana', 'Bertanggung jawab memberikan pelayanan dan melaksanakan pekerjaan yang bersifat rutin dan sederhana']
+Q: Berdasarkan regulasi kepegawaian, kelompok Jabatan Pelaksana bertanggung jawab dalam memberikan pelayanan serta...
+  A: Melaksanakan pekerjaan yang bersifat rutin dan sederhana [KUNCI]
+  B: Menetapkan formula tarif perpajakan internasional
+  C: Memimpin operasi militer pengamanan perbatasan negara
+  D: Membuat keputusan yudisial atas perkara sengketa pemilu
+  E: Mengoordinasikan perumusan rencana strategis lima menteri
+Konsep: **Jabatan Pelaksana** bertanggung jawab **memberikan pelayanan dan melaksanakan pekerjaan yang bersifat rutin dan sederhana**.
+Alasan: Opsi A mendefinisikan ruang lingkup penugasan jabatan pelaksana secara tepat. Kelompok pelaksana (dahulu fungsional umum) menangani eksekusi tugas teknis harian administratif yang telah terstandardisasi. Sesuai rumusan konsep, tanggung jawabnya adalah melaksanakan pekerjaan rutin dan sederhana. Oleh karena itu, opsi A adalah pilihan yang benar.
+Bedah: {"B": "Penetapan formula pajak merupakan kompetensi analis kebijakan fiskal tingkat tinggi.", "C": "Komando operasi teritorial perbatasan merupakan wewenang perwira tinggi militer.", "D": "Putusan sengketa hasil pemilihan umum merupakan wewenang hakim Mahkamah Konstitusi.", "E": "Koordinasi lintas kementerian dijalankan oleh menteri koordinator atau pejabat pimpinan tinggi."}
+======================================================================
+NO 48 | HLM 12 | KUNCI B
+KW: ['pelaksanaan tugas yang bersifat mandiri', 'dalam menjalankan tugas profesinya']
+Q: Salah satu kriteria khusus yang membedakan pelaksanaan tugas Jabatan Fungsional dengan jabatan struktural adalah...
+  A: Ketiadaan kewajiban mematuhi jam kerja kedinasan kantor
+  B: Pelaksanaan tugas bersifat mandiri sesuai profesinya [KUNCI]
+  C: Bebas dari kewajiban penilaian prestasi kerja tahunan
+  D: Hak imunitas dari sanksi pelanggaran tata tertib dinas
+  E: Wewenang mengabaikan disposisi instruksi pimpinan unit
+Konsep: Kriteria Jabatan Fungsional meliputi **pelaksanaan tugas yang bersifat mandiri dalam menjalankan tugas profesinya** dengan tolok ukur standar keahlian.
+Alasan: Opsi B merupakan prinsip profesionalisme fungsional yang tepat. Pejabat fungsional bekerja secara otonom berdasarkan kode etik profesi dan metodologi keahlian spesifiknya. Regulasi merinci kriteria JF mencakup pelaksanaan tugas yang bersifat mandiri dalam menjalankan profesinya. Dengan demikian, opsi B adalah jawaban yang benar.
+Bedah: {"A": "Pejabat fungsional tetap terikat secara penuh pada ketentuan jam kerja aparatur sipil negara.", "C": "Penilaian kinerja tetap wajib dilakukan setiap periode melalui evaluasi angka kredit/hasil kerja.", "D": "Aparatur sipil negara dalam jabatan apa pun tunduk mutlak pada peraturan disiplin PNS.", "E": "Kemandirian profesi tidak meniadakan hierarki kepatuhan terhadap penugasan sah kedinasan."}
+======================================================================
+NO 49 | HLM 12 | KUNCI C
+KW: ['mensyaratkan keahlian atau keterampilan tertentu', 'dibuktikan dengan sertifikasi']
+Q: Penguasaan keahlian atau keterampilan tertentu pada Jabatan Fungsional wajib dibuktikan melalui...
+  A: Rekomendasi tertulis dari pimpinan partai politik
+  B: Bukti pelunasan pajak bumi dan bangunan tempat tinggal
+  C: Sertifikasi dan/atau penilaian kompetensi tertentu [KUNCI]
+  D: Kuitansi pembelian perlengkapan dinas secara mandiri
+  E: Daftar riwayat perjalanan wisata liburan ke luar negeri
+Konsep: Jabatan Fungsional mensyaratkan keahlian atau keterampilan tertentu yang **dibuktikan dengan sertifikasi dan/atau penilaian tertentu**.
+Alasan: Opsi C merupakan instrumen verifikasi kompetensi profesi yang sah menurut regulasi. Standar keahlian diuji melalui uji kompetensi resmi dan sertifikat profesi dari instansi pembina. Ketentuan aturan menetapkan pembuktian keahlian melalui sertifikasi atau penilaian kompetensi. Oleh karena itu, opsi C adalah jawaban yang tepat.
+Bedah: {"A": "Rekomendasi partai politik dilarang keras dan melanggar prinsip netralitas serta meritokrasi.", "B": "Kepatuhan pajak pribadi merupakan kewajiban warga negara umum dan bukan sertifikasi profesi.", "D": "Pengadaan perlengkapan kantor menjadi tanggung jawab anggaran dinas dan bukan bukti keahlian.", "E": "Riwayat perjalanan pribadi tidak memiliki relevansi dengan kompetensi profesional jabatan."}
+======================================================================
+NO 50 | HLM 12 | KUNCI D
+KW: ['PNS dapat diberhentikan dari Jabatan Fungsional apabila', 'tidak memenuhi persyaratan Jabatan']
+Q: Pemberhentian PNS dari Jabatan Fungsional dapat dijatuhkan oleh pejabat pembina kepegawaian apabila pegawai...
+  A: Mengajukan usulan perbaikan tata kerja di unit kantor
+  B: Mengikuti pelatihan peningkatan kompetensi kepemimpinan
+  C: Menyelesaikan studi sarjana tepat waktu sesuai jadwal
+  D: Tidak lagi memenuhi persyaratan kualifikasi jabatannya [KUNCI]
+  E: Mencapai target kinerja tahunan melebihi ekspektasi unit
+Konsep: Salah satu sebab normatif pemberhentian PNS dari Jabatan Fungsional adalah **tidak memenuhi persyaratan Jabatan** yang telah ditentukan.
+Alasan: Opsi D merupakan alasan diskualifikasi jabatan yang sah dalam hukum kepegawaian. Jika pejabat fungsional kehilangan standar kualifikasi, kesehatan profesi, atau sertifikasi yang diwajibkan, maka jabatan harus dicopot. Regulasi menegaskan pemberhentian berlaku jika tidak memenuhi persyaratan jabatan. Dengan demikian, opsi D adalah pilihan yang benar.
+Bedah: {"A": "Penyampaian gagasan inovatif tata kerja merupakan kontribusi positif yang justru didorong.", "B": "Keikutsertaan dalam pelatihan pengembangan kompetensi merupakan hak normatif setiap aparatur.", "C": "Penyelesaian studi sarjana meningkatkan kualifikasi dan bukan dasar pemberhentian jabatan.", "E": "Capaian kinerja tinggi merupakan prestasi kerja yang diapresiasi dengan penghargaan dinas."}
+======================================================================
+NO 51 | HLM 13 | KUNCI A
+KW: ['jabatan eselon Ia kepala lembaga pemerintah nonkementerian', 'jabatan pimpinan tinggi utama']
+Q: Berdasarkan penyetaraan jabatan PNS, jabatan eselon Ia kepala lembaga pemerintah nonkementerian setara dengan...
+  A: Jabatan Pimpinan Tinggi Utama [KUNCI]
+  B: Jabatan Pimpinan Tinggi Madya
+  C: Jabatan Pimpinan Tinggi Pratama
+  D: Jabatan Administrator Utama
+  E: Jabatan Pengawas Wilayah Pusat
+Konsep: Jabatan eselon Ia kepala lembaga pemerintah nonkementerian disetarakan dengan **jabatan pimpinan tinggi utama**.
+Alasan: Opsi A merupakan hasil konversi penyetaraan hierarki kepemimpinan tertinggi yang tepat. Kepala LPNK menduduki puncak jabatan karier ASN pada institusi nonkementerian. Ketentuan aturan menegaskan eselon Ia kepala LPNK setara dengan jabatan pimpinan tinggi utama. Oleh karena itu, opsi A adalah jawaban yang benar.
+Bedah: {"B": "Eselon Ia biasa dan eselon Ib di kementerian disetarakan dengan JPT Madya.", "C": "Eselon II (direktur/kepala biro) disetarakan dengan JPT Pratama.", "D": "Jabatan administrator merupakan penyetaraan bagi eselon III dan bukan pimpinan lembaga.", "E": "Jabatan pengawas merupakan penyetaraan bagi eselon IV pengawas lini operasional."}
+======================================================================
+NO 52 | HLM 13 | KUNCI C
+KW: ['jabatan eselon Ia dan eselon Ib', 'jabatan pimpinan tinggi madya']
+Q: Jabatan eselon Ia (selain kepala LPNK) dan eselon Ib dalam birokrasi kementerian disetarakan dengan...
+  A: Jabatan Fungsional Ahli Utama
+  B: Jabatan Pimpinan Tinggi Pratama
+  C: Jabatan Pimpinan Tinggi Madya [KUNCI]
+  D: Jabatan Administrator Tingkat Satu
+  E: Jabatan Pengawas Eksekutif Madya
+Konsep: **Jabatan eselon Ia dan eselon Ib setara dengan jabatan pimpinan tinggi madya** (seperti Sekretaris Jenderal, Direktur Jenderal, atau Inspektur Jenderal).
+Alasan: Opsi C merupakan padanan jabatan struktural pimpinan eselon I kementerian yang tepat. Posisi sekjen, dirjen, dan irjen dikonversikan ke dalam kelas jabatan JPT Madya. Aturan hukum merumuskan eselon Ia dan Ib setara dengan jabatan pimpinan tinggi madya. Dengan demikian, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Ahli utama merupakan jenjang tertinggi pada kelompok jabatan fungsional profesi.", "B": "JPT Pratama merupakan konversi penyetaraan bagi jabatan eselon II.", "D": "Administrator merupakan konversi bagi jabatan eselon III kepala bidang/bagian.", "E": "Pengawas eksekutif bukan nomenklatur resmi dalam klasifikasi jabatan kepegawaian ASN."}
+======================================================================
+NO 53 | HLM 13 | KUNCI E
+KW: ['jabatan eselon II setara dengan', 'jabatan pimpinan tinggi pratama']
+Q: Dalam penyetaraan jabatan kepegawaian, jabatan eselon II (Direktur atau Kepala Kantor Wilayah) setara dengan...
+  A: Jabatan Administrator Wilayah Khusus
+  B: Jabatan Pengawas Tingkat Pratama
+  C: Jabatan Pimpinan Tinggi Madya Pusat
+  D: Jabatan Fungsional Mahir Pratama
+  E: Jabatan Pimpinan Tinggi Pratama [KUNCI]
+Konsep: **Jabatan eselon II setara dengan jabatan pimpinan tinggi pratama** (seperti Direktur, Kepala Biro, atau Kepala Pusat).
+Alasan: Opsi E merupakan jenjang konversi struktural eselon dua yang tepat. Pejabat setingkat kepala biro atau kakanwil menduduki level JPT Pratama dalam sistem karier terbuka. Ketentuan regulasi menetapkan eselon II setara dengan JPT Pratama. Oleh karena itu, opsi E adalah pilihan yang tepat.
+Bedah: {"A": "Jabatan administrator diperuntukkan bagi pejabat eselon III dan bukan eselon II.", "B": "Jabatan pengawas merupakan padanan konversi bagi pejabat eselon IV.", "C": "JPT Madya adalah tingkatan pimpinan eselon I di atas eselon II.", "D": "Fungsional mahir merupakan jenjang keterampilan dan bukan jabatan pimpinan struktural."}
+======================================================================
+NO 54 | HLM 13 | KUNCI B
+KW: ['jabatan eselon III setara dengan', 'jabatan administrator']
+Q: Penyetaraan posisi jabatan untuk pejabat struktural eselon III adalah ke dalam...
+  A: Jabatan Pimpinan Tinggi Pratama
+  B: Jabatan Administrator [KUNCI]
+  C: Jabatan Pengawas Pelayanan
+  D: Jabatan Pelaksana Madya
+  E: Jabatan Fungsional Ahli Muda
+Konsep: **Jabatan eselon III setara dengan jabatan administrator** (seperti Kepala Bagian, Kepala Bidang, atau Kepala Balai).
+Alasan: Opsi B merupakan konversi kedudukan hierarki eselon tiga yang tepat. Pejabat administrator bertugas mengoordinasikan pelayanan dan operasional unit eselon III. Regulasi menyebutkan secara lugas bahwa eselon III setara dengan jabatan administrator. Dengan demikian, opsi B adalah jawaban yang benar.
+Bedah: {"A": "JPT Pratama merupakan tingkatan jabatan struktural bagi pejabat eselon II.", "C": "Jabatan pengawas merupakan konversi kedudukan bagi pejabat struktural eselon IV.", "D": "Jabatan pelaksana merupakan posisi nonmanajerial pelaksana kegiatan rutin.", "E": "Fungsional ahli muda adalah jenjang profesi keahlian berbasis angka kredit."}
+======================================================================
+NO 55 | HLM 13 | KUNCI D
+KW: ['jabatan eselon IV setara dengan', 'jabatan pengawas']
+Q: Pejabat struktural eselon IV (Kepala Seksi atau Kepala Subbagian) disetarakan kedudukannya ke dalam...
+  A: Jabatan Pimpinan Pratama
+  B: Jabatan Administrator Utama
+  C: Jabatan Fungsional Terampil
+  D: Jabatan Pengawas [KUNCI]
+  E: Jabatan Pelaksana Harian
+Konsep: **Jabatan eselon IV setara dengan jabatan pengawas** (seperti Kepala Subbagian, Kepala Seksi, atau Kepala Subbidang).
+Alasan: Opsi D merupakan hasil penyetaraan hierarki manajerial eselon empat yang tepat. Pengawas bertindak mengontrol langsung pelaksanaan tugas harian staf pelaksana. Sesuai rumusan regulasi, eselon IV disetarakan dengan jabatan pengawas. Oleh karena itu, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Pimpinan pratama setara dengan eselon II pimpinan kantor wilayah atau direktorat.", "B": "Administrator setara dengan eselon III kepala bidang atau kepala bagian.", "C": "Fungsional terampil merupakan jenjang karier profesi keterampilan nonstruktural.", "E": "Pelaksana harian merupakan penugasan temporer (*Plh*) dan bukan nomenklatur jabatan."}
+======================================================================
+NO 56 | HLM 13 | KUNCI A
+KW: ['jabatan eselon V dan fungsional umum', 'setara dengan jabatan pelaksana']
+Q: Berdasarkan ketentuan penyetaraan jabatan ASN, jabatan eselon V dan fungsional umum setara dengan...
+  A: Jabatan Pelaksana [KUNCI]
+  B: Jabatan Pengawas
+  C: Jabatan Administrator
+  D: Jabatan Fungsional Mahir
+  E: Jabatan Fungsional Pertama
+Konsep: **Jabatan eselon V dan fungsional umum setara dengan jabatan pelaksana** yang bertugas melaksanakan pekerjaan rutin operasional.
+Alasan: Opsi A merupakan hasil penyetaraan bagi kelompok staf pelaksana teknis yang tepat. Penyetaraan menyederhanakan birokrasi dengan melebur posisi eselon V dan fungsional umum menjadi jabatan pelaksana. Ketentuan perundangan menyatakan eselon V dan fungsional umum setara dengan jabatan pelaksana. Dengan demikian, opsi A adalah pilihan yang benar.
+Bedah: {"B": "Jabatan pengawas merupakan padanan penyetaraan bagi posisi eselon IV.", "C": "Jabatan administrator merupakan hasil konversi dari posisi eselon III.", "D": "Fungsional mahir merupakan jenjang keterampilan profesi bersertifikasi khusus.", "E": "Fungsional pertama adalah jenjang keahlian bagi lulusan sarjana berkarier spesialis."}
+======================================================================
+NO 57 | HLM 13 | KUNCI C
+KW: ['Peraturan Pemerintah Nomor 17 Tahun 2020']
+Q: Regulasi pemerintah yang mengatur penyesuaian jabatan administrasi ke dalam Jabatan Fungsional demi penataan birokrasi adalah...
+  A: Peraturan Pemerintah Nomor 10 Tahun 1983
+  B: Peraturan Pemerintah Nomor 30 Tahun 2019
+  C: Peraturan Pemerintah Nomor 17 Tahun 2020 [KUNCI]
+  D: Peraturan Pemerintah Nomor 94 Tahun 2021
+  E: Peraturan Pemerintah Nomor 42 Tahun 2004
+Konsep: Penyesuaian jabatan administrasi ke dalam jabatan fungsional diatur dalam **Peraturan Pemerintah Nomor 17 Tahun 2020** tentang Perubahan atas PP Nomor 11 Tahun 2017 tentang Manajemen PNS.
+Alasan: Opsi C merupakan jawaban yang tepat. PP Nomor 17 Tahun 2020 memuat ketentuan transisi penyetaraan jabatan administrasi ke jabatan fungsional sebagai bagian dari langkah penyederhanaan birokrasi nasional. Aturan ini menjadi payung hukum penataan struktur organisasi di instansi pemerintah.
+Bedah: {"A": "PP Nomor 10 Tahun 1983 mengatur izin perkawinan dan perceraian PNS.", "B": "PP Nomor 30 Tahun 2019 mengatur penilaian kinerja pegawai aparatur.", "D": "PP Nomor 94 Tahun 2021 mengatur tata tertib dan disiplin PNS.", "E": "PP Nomor 42 Tahun 2004 mengatur pembinaan jiwa korps dan kode etik PNS."}
+======================================================================
+NO 58 | HLM 13 | KUNCI E
+KW: ['Penyetaraan jabatan dimaksud adalah pengangkatan Pejabat Administrasi', 'melalui Penyesuaian/Inpassing pada jabatan fungsional yang setara']
+Q: Mekanisme pengangkatan Pejabat Administrasi ke dalam Jabatan Fungsional yang setara dalam penataan birokrasi disebut...
+  A: Pengangkatan pertama formasi umum CPNS
+  B: Demosi hukuman penurunan pangkat dinas
+  C: Promosi terbuka lintas instansi daerah
+  D: Pemberhentian dengan hormat atas pensiun
+  E: Penyesuaian atau Inpassing jabatan fungsional [KUNCI]
+Konsep: Penyetaraan jabatan adalah pengangkatan Pejabat Administrasi ke dalam Jabatan Fungsional melalui **Penyesuaian/Inpassing pada jabatan fungsional yang setara**.
+Alasan: Opsi E merupakan istilah teknis manajemen kepegawaian yang tepat untuk peralihan jabatan administrasi ke fungsional. Inpassing memungkinkan pejabat eselon beralih fungsi menjadi fungsional ahli madya atau muda tanpa kehilangan kelas jabatan. Ketentuan hukum merumuskan pengangkatan penyetaraan ini melalui mekanisme Penyesuaian/Inpassing. Dengan demikian, opsi E adalah pilihan yang tepat.
+Bedah: {"A": "Pengangkatan pertama merupakan jalur masuk bagi pelamar yang baru lolos seleksi CPNS.", "B": "Demosi merupakan bentuk hukuman disiplin berat berupa pemindahan jabatan lebih rendah.", "C": "Promosi terbuka merupakan seleksi pengisian jabatan kosong melalui lelang kompetensi.", "D": "Pemberhentian pensiun merupakan pengakhiran masa dinas aparatur karena batas usia."}
+======================================================================
+NO 59 | HLM 13 | KUNCI B
+KW: ['Penyetaraan jabatan diatur', 'dengan Peraturan Menteri']
+Q: Berdasarkan ketentuan PP 17/2020, pedoman teknis penyetaraan jabatan diatur lebih lanjut dengan...
+  A: Surat Edaran Lurah setempat
+  B: Peraturan Menteri terkait [KUNCI]
+  C: Keputusan Camat wilayah
+  D: Maklumat Kepala Desa binaan
+  E: Nota Dinas Internal Staf
+Konsep: Ketentuan penataan birokrasi menegaskan bahwa **penyetaraan jabatan diatur dengan Peraturan Menteri** (seperti PermenPAN-RB).
+Alasan: Opsi B merupakan bentuk produk hukum yang dimandatkan untuk mengatur rincian tata cara penyetaraan jabatan. Peraturan Menteri menetapkan standar kompetensi, konversi butir angka kredit, dan formasi inpassing bagi seluruh instansi. Regulasi menyebutkan penyetaraan jabatan diatur dengan Peraturan Menteri. Oleh karena itu, opsi B merupakan jawaban yang tepat.
+Bedah: {"A": "Surat edaran lurah merupakan administrasi tingkat kelurahan dan bukan regulasi nasional.", "C": "Keputusan camat berada pada hierarki tata kelola kecamatan dan tidak berwenang atas ASN.", "D": "Maklumat kepala desa mengatur ketertiban desa dan bukan tata aturan jabatan kepegawaian.", "E": "Nota dinas bersifat korespondensi internal satker dan bukan instrumen hukum regulatif."}
+======================================================================
+NO 60 | HLM 13 | KUNCI D
+KW: ['penyesuaian jabatan ke dalam Jabatan Fungsional', 'penataan birokrasi']
+Q: Tujuan pokok dilaksanakannya kebijakan penyetaraan jabatan administrasi ke dalam jabatan fungsional adalah...
+  A: Menambah panjang rantai hierarki persetujuan surat dinas
+  B: Menghapuskan fungsi pelayanan publik pada kantor vertikal
+  C: Mengurangi alokasi belanja pegawai untuk bantuan sosial
+  D: Mewujudkan penataan birokrasi yang lincah dan profesional [KUNCI]
+  E: Menurunkan kelas jabatan dan memotong penghasilan pegawai
+Konsep: Penyetaraan jabatan administrasi ke dalam Jabatan Fungsional dilaksanakan dalam rangka **penataan birokrasi** guna menciptakan birokrasi yang lebih ramping, cepat, dan profesional.
+Alasan: Opsi D merupakan tujuan strategis reformasi birokrasi nasional yang tepat. Pengalihan posisi manajerial eselon ke fungsional memperpendek rantai komando pengambilan keputusan (*delayering*). Sesuai ketentuan, inpassing jabatan fungsional dilakukan demi kepentingan penataan birokrasi yang efektif. Dengan demikian, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Penyetaraan justru memangkas rantai birokrasi hierarkis agar proses kerja semakin singkat.", "B": "Pelayanan publik tetap berjalan dan diperkuat dengan tenaga fungsional yang berkeahlian.", "C": "Kebijakan ini fokus pada struktur organisasi kerja dan bukan pemangkasan bantuan sosial.", "E": "Prinsip penyetaraan jabatan menjaga agar penghasilan pegawai tidak mengalami penurunan."}
+======================================================================
+NO 61 | HLM 15 | KUNCI B
+KW: ['Pegawai ASN berhak memperoleh penghargaan', 'berupa materiel dan/atau nonmateriel']
+Q: Berdasarkan undang-undang, Pegawai ASN berhak memperoleh penghargaan dan pengakuan yang berwujud...
+  A: Saham kepemilikan aset gedung kantor dinas
+  B: Penghargaan berupa materiel dan/atau nonmateriel [KUNCI]
+  C: Imunitas pidana khusus bagi seluruh pejabat
+  D: Hak veto atas kebijakan strategis kementerian
+  E: Pemberian gelar bangsawan kehormatan adat
+Konsep: Pegawai ASN berhak memperoleh penghargaan dan pengakuan berupa **materiel dan/atau nonmateriel** yang terdiri atas 7 komponen pokok.
+Alasan: Opsi B merupakan klasifikasi bentuk apresiasi negara kepada aparatur yang tepat. Hak pegawai kini dirumuskan sebagai paket penghargaan komprehensif baik yang berwujud finansial (materiel) maupun apresiasi moral dan karier (nonmateriel). Aturan undang-undang menyebutkan hak berupa penghargaan materiel dan/atau nonmateriel. Oleh karena itu, opsi B adalah jawaban yang benar.
+Bedah: {"A": "Gedung kantor dinas merupakan barang milik negara yang dilarang dimiliki secara pribadi.", "C": "Aparatur sipil negara berkedudukan sama di depan hukum tanpa ada hak kebal hukum pidana.", "D": "Hak veto tidak dimiliki oleh aparatur dalam struktur hierarki pemerintahan presidensial.", "E": "Gelar adat kehormatan diberikan oleh lembaga adat daerah dan bukan hak kedinasan ASN."}
+======================================================================
+NO 62 | HLM 15 | KUNCI D
+KW: ['berupa materiel dan/atau nonmateriel', 'Penghargaan yang bersifat motivasi']
+Q: Berikut ini merupakan komponen penghargaan dan pengakuan hak Pegawai ASN, KECUALI...
+  A: Penghasilan serta tunjangan dan fasilitas
+  B: Jaminan sosial dan lingkungan kerja
+  C: Pengembangan diri dan bantuan hukum
+  D: Kepemilikan kendaraan operasional dinas secara pribadi [KUNCI]
+  E: Penghargaan yang bersifat motivasi
+Konsep: Tujuh komponen penghargaan ASN mencakup: 1. Penghasilan; 2. Penghargaan yang bersifat motivasi; 3. Tunjangan dan fasilitas; 4. Jaminan sosial; 5. Lingkungan kerja; 6. Pengembangan diri; dan 7. Bantuan hukum. **Kepemilikan pribadi kendaraan dinas bukan merupakan hak ASN**.
+Alasan: Opsi D merupakan pengecualian yang tepat karena fasilitas kendaraan dinas berstatus pinjam pakai milik negara dan tidak dapat dialihkan menjadi hak milik pribadi. Ketujuh hak ASN diatur secara limitatif dan tidak mencakup pemilikan aset negara. Dengan demikian, opsi D adalah jawaban pengecualian yang tepat.
+Bedah: {"A": "Penghasilan serta tunjangan dan fasilitas merupakan butir 1 dan butir 3 hak ASN.", "B": "Jaminan sosial dan lingkungan kerja merupakan butir 4 dan butir 5 hak resmi ASN.", "C": "Pengembangan diri dan bantuan hukum tercantum pada butir 6 dan butir 7 hak ASN.", "E": "Penghargaan yang bersifat motivasi tercantum pada butir 2 penghargaan resmi ASN."}
+======================================================================
+NO 63 | HLM 15 | KUNCI A
+KW: ['berupa materiel dan/atau nonmateriel yang terdiri atas', 'Bantuan hukum']
+Q: Seorang pejabat perbendaharaan digugat di pengadilan perdata terkait pelaksanaan tugas kedinasan resminya. Hak yang wajib diberikan pemerintah adalah...
+  A: Bantuan hukum dalam perkara pelaksanaan tugas [KUNCI]
+  B: Pemberian dana ganti rugi tanpa melalui sidang
+  C: Penutupan paksa lembaga pengadilan yang menyidang
+  D: Pemberhentian seketika dari dinas tanpa pemeriksaan
+  E: Pengalihan gugatan menjadi tanggung jawab keluarga
+Konsep: Salah satu komponen hak ASN adalah memperoleh **bantuan hukum** dalam perkara yang dihadapi di pengadilan terkait pelaksanaan tugas kedinasannya.
+Alasan: Opsi A merupakan bentuk perlindungan hukum kedinasan yang wajib disediakan oleh instansi pemerintah. Pegawai yang bertindak atas nama jabatan negara berhak didampingi oleh biro hukum instansi selama proses persidangan berlangsung. Ketentuan hak ASN butir 7 menegaskan hak memperoleh bantuan hukum. Oleh karena itu, opsi A adalah pilihan yang benar.
+Bedah: {"B": "Pemberian ganti rugi keuangan negara wajib menunggu putusan pengadilan yang berkekuatan hukum tetap.", "C": "Pemerintah dilarang mengintervensi independensi dan kewenangan lembaga peradilan negara.", "D": "Pemberhentian tanpa audit dan pemeriksaan melanggar hak asasi serta prosedur disiplin ASN.", "E": "Perkara kedinasan melekat pada jabatan negara dan bukan beban privat tanggung jawab keluarga."}
+======================================================================
+NO 64 | HLM 15 | KUNCI C
+KW: ['B. Kewajiban Aparatur Sipil Negara (ASN)', 'setia dan taat kepada Pancasila, UUD Tahun 1945, NKRI, dan pemerintah yang sah']
+Q: Kewajiban pertama dan utama bagi setiap insan Aparatur Sipil Negara sebagaimana diatur dalam undang-undang adalah...
+  A: Mendukung program kerja asosiasi pengusaha daerah
+  B: Menghafalkan seluruh nomor registrasi aset kantor
+  C: Setia dan taat kepada Pancasila, UUD 1945, NKRI, dan pemerintah [KUNCI]
+  D: Mengikuti kegiatan studi banding dinas ke luar negeri
+  E: Mencapai target penerimaan kas nonpajak pribadi
+Konsep: Kewajiban pertama ASN adalah **setia dan taat kepada Pancasila, UUD Tahun 1945, NKRI, dan pemerintah yang sah**.
+Alasan: Opsi C merupakan fondasi ikrar pengabdian ideologis tertinggi aparatur sipil negara. Kesetiaan pada dasar negara dan konstitusi menjamin loyalitas mutlak pegawai kepada eksistensi bangsa dan negara Republik Indonesia. Ketentuan kewajiban butir 1 menempatkan kesetiaan kepada Pancasila dan UUD 1945 pada urutan teratas. Dengan demikian, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Kemitraan usaha dijalankan sesuai regulasi dan bukan merupakan kewajiban pokok ideologis ASN.", "B": "Penatausahaan kode aset merupakan rincian tugas teknis pengelola barang milik negara.", "D": "Studi banding luar negeri merupakan sarana pelatihan dinas selektif dan bukan kewajiban dasar.", "E": "Penerimaan kas negara merupakan target fungsional bendahara penerimaan tertentu."}
+======================================================================
+NO 65 | HLM 15 | KUNCI E
+KW: ['Kewajiban ASN adalah', 'menaati ketentuan peraturan perundang-undangan']
+Q: Dalam penyelenggaraan birokrasi pemerintahan, asas legalitas aparatur diwujudkan melalui kewajiban...
+  A: Menerapkan kebijakan diskresi tanpa batasan wewenang
+  B: Mengutamakan tradisi lisan dibanding naskah regulasi
+  C: Menyesuaikan standar layanan demi kepentingan kerabat
+  D: Mengesampingkan regulasi saat menghadapi audit rutin
+  E: Menaati ketentuan peraturan perundang-undangan yang sah [KUNCI]
+Konsep: Kewajiban kedua ASN adalah **menaati ketentuan peraturan perundang-undangan** dalam setiap tindakan kedinasan.
+Alasan: Opsi E merupakan pilar utama negara hukum (*rechtsstaat*) dalam tata kelola birokrasi publik. Setiap tindakan administrasi, perizinan, dan pengelolaan keuangan negara wajib didasarkan pada payung hukum yang berlaku. Aturan kewajiban butir 2 menegaskan kewajiban menaati peraturan perundang-undangan. Oleh karena itu, opsi E merupakan pilihan yang tepat.
+Bedah: {"A": "Diskresi aparatur memiliki batasan ketat sesuai Undang-Undang Administrasi Pemerintahan.", "B": "Tindakan birokrasi modern wajib berpijak pada hukum tertulis resmi negara.", "C": "Pemberian perlakuan khusus kepada kerabat melanggar larangan korupsi, kolusi, dan nepotisme.", "D": "Regulasi kedinasan wajib ditaati secara konsisten termasuk saat proses audit berlangsung."}
+======================================================================
+NO 66 | HLM 15 | KUNCI B
+KW: ['melaksanakan nilai dasar ASN', 'dan kode etik dan kode perilaku ASN']
+Q: Dalam berinteraksi dengan masyarakat pemohon layanan, seorang pegawai ASN wajib senantiasa...
+  A: Meminta uang pelicin agar berkas izin lekas disetujui
+  B: Melaksanakan nilai dasar serta kode etik dan kode perilaku [KUNCI]
+  C: Menutup loket pelayanan sebelum jam kerja dinas berakhir
+  D: Menolak berkas permohonan tanpa memberikan penjelasan
+  E: Menyimpan berkas warga hingga ada titipan pihak berpengaruh
+Konsep: Kewajiban ketiga ASN adalah **melaksanakan nilai dasar ASN dan kode etik dan kode perilaku ASN** dalam kehidupan bermasyarakat dan kedinasan.
+Alasan: Opsi B merupakan cerminan akhlak dan etika integritas pelayanan publik yang tepat. Pegawai wajib bersikap ramah, kompeten, transparan, dan tidak meminta imbalan haram saat melayani warga. Ketentuan kewajiban butir 3 mewajibkan pengamalan nilai dasar dan kode etik ASN. Dengan demikian, opsi B adalah jawaban yang benar.
+Bedah: {"A": "Meminta uang pelicin merupakan tindak pidana korupsi suap dan pungutan liar berat.", "C": "Menutup loket sebelum waktunya melanggar jam kerja standar operasional pelayanan publik.", "D": "Penolakan berkas wajib disertai dasar hukum dan catatan perbaikan tertulis yang jelas.", "E": "Menunda layanan demi titipan melanggar asas kesetaraan perlakuan di depan hukum."}
+======================================================================
+NO 67 | HLM 15 | KUNCI D
+KW: ['Kewajiban ASN adalah', 'menjaga netraliras']
+Q: Kewajiban butir keempat yang ditegaskan dalam Undang-Undang ASN untuk menjamin independensi pelayanan adalah...
+  A: Menjaga kerahasiaan tarif pelayanan publik di loket
+  B: Menghadiri kampanye pemilihan kepala daerah secara rutin
+  C: Menolak instruksi penugasan di daerah pelosok perbatasan
+  D: Menjaga netralitas dari kepentingan politik mana pun [KUNCI]
+  E: Membentuk serikat politik khusus pegawai kementerian
+Konsep: Kewajiban butir keempat ASN adalah **menjaga netralitas** dari pengaruh politik kepartaian maupun golongan.
+Alasan: Opsi D merupakan perwujudan dari asas netralitas yang wajib dipatuhi seluruh pegawai negara. Sikap netral memastikan aparatur tidak terkooptasi oleh kepentingan pergantian rezim politik kekuasaan. Ketentuan butir 4 merumuskan secara tegas kewajiban menjaga netralitas. Oleh karena itu, opsi D adalah pilihan yang tepat.
+Bedah: {"A": "Tarif layanan publik wajib diumumkan secara terbuka dan transparan kepada masyarakat.", "B": "Menghadiri kampanye politik merupakan pelanggaran disiplin netralitas aparatur.", "C": "Menolak penempatan tugas di pelosok melanggar sumpah jabatan kesediaan ditempatkan.", "E": "ASN dilarang membentuk atau menjadi anggota faksi organisasi politik kepartaian."}
+======================================================================
+NO 68 | HLM 15 | KUNCI A
+KW: ['bersedia ditempatkan di seluruh wilayah NKRI', 'dan perwakilan NKRI yang berkedudukan di luar wilayah Indonesia']
+Q: Ruang lingkup kewajiban kesediaan penempatan tugas kedinasan bagi seluruh Pegawai ASN mencakup...
+  A: Seluruh wilayah NKRI dan perwakilan di luar negeri [KUNCI]
+  B: Hanya di wilayah ibu kota provinsi tempat domisili
+  C: Khusus pada kantor pusat kementerian di ibu kota
+  D: Terbatas pada radius lima puluh kilometer dari tempat lahir
+  E: Hanya pada instansi vertikal yang memiliki fasilitas lengkap
+Konsep: Kewajiban kelima ASN adalah **bersedia ditempatkan di seluruh wilayah NKRI dan perwakilan NKRI yang berkedudukan di luar wilayah Indonesia**.
+Alasan: Opsi A merupakan komitmen penugasan universal aparatur sipil negara yang tepat. Sebagai abdi negara, pegawai harus siap menjalankan mandat pembangunan hingga pelosok terluar maupun kantor perwakilan kedutaan besar luar negeri. Ketentuan butir 5 merinci penempatan di seluruh NKRI dan perwakilan luar negeri. Dengan demikian, opsi A adalah jawaban yang benar.
+Bedah: {"B": "Penempatan dinas tidak dibatasi oleh faktor domisili tempat tinggal asal pegawai.", "C": "Kebutuhan organisasi negara tersebar di unit pusat maupun kantor vertikal daerah.", "D": "Pembatasan radius geografis tidak berlaku dalam penugasan resmi aparatur sipil negara.", "E": "Pegawai ASN wajib siap bertugas pada satuan kerja dengan segala kondisi fasilitas yang ada."}
+======================================================================
+NO 69 | HLM 15 | KUNCI C
+KW: ['Pegawai ASN berhak memperoleh penghargaan dan pengakuan', 'Lingkungan kerja', 'Pengembangan diri']
+Q: Sebuah instansi pemerintah menyediakan ruang kerja yang aman, sehat, serta memfasilitasi beasiswa studi bagi stafnya. Instansi ini memenuhi hak...
+  A: Fasilitas rumah dinas mewah dan mobil operasional
+  B: Imunitas dari pengawasan aparat pengawas internal
+  C: Lingkungan kerja dan hak pengembangan diri pegawai [KUNCI]
+  D: Pemberian gratifikasi liburan akhir tahun anggaran
+  E: Dispensasi bebas absensi sidik jari kedinasan
+Konsep: Penyediaan sarana kerja yang kondusif dan fasilitas peningkatan kompetensi merupakan wujud pemenuhan hak **lingkungan kerja** dan **pengembangan diri**.
+Alasan: Opsi C merupakan padanan komponen penghargaan hak pegawai yang tepat sesuai tindakan instansi. Lingkungan kerja yang nyaman menopang kesehatan mental dan fisik, sedangkan beasiswa meningkatkan kapasitas talenta pegawai. Ketentuan butir 5 dan 6 mencakup hak lingkungan kerja dan pengembangan diri. Oleh karena itu, opsi C merupakan jawaban yang tepat.
+Bedah: {"A": "Rumah dinas dan kendaraan dialokasikan terbatas sesuai jabatan dan bukan hak umum staf.", "B": "Pengawasan internal tetap melekat mutlak pada setiap instansi tanpa ada imunitas.", "D": "Pemberian tiket liburan dari rekanan atau kas dinas tanpa dasar hukum melanggar aturan.", "E": "Presensi kehadiran elektronik wajib dipatuhi oleh seluruh aparatur sipil negara."}
+======================================================================
+NO 70 | HLM 15 | KUNCI E
+KW: ['Kewajiban ASN adalah', 'bersedia ditempatkan di seluruh wilayah NKRI']
+Q: Secara keseluruhan, kewajiban pokok Aparatur Sipil Negara yang dirumuskan dalam ketentuan undang-undang terdiri atas...
+  A: Tiga butir kewajiban pokok kedinasan
+  B: Empat butir kewajiban pokok kedinasan
+  C: Enam butir kewajiban pokok kedinasan
+  D: Tujuh butir kewajiban pokok kedinasan
+  E: Lima butir kewajiban pokok kedinasan [KUNCI]
+Konsep: Kewajiban ASN dalam undang-undang dirumuskan ke dalam **5 (lima) butir kewajiban pokok** yang mengikat seluruh aparatur negara.
+Alasan: Opsi E merupakan analisis kuantitatif butir-butir kewajiban ASN yang tepat. Kelima butir tersebut meliputi: setia kepada Pancasila/UUD, menaati peraturan, mengamalkan nilai dasar/etika, menjaga netralitas, dan bersedia ditempatkan di seluruh NKRI/luar negeri. Ketentuan yuridis menyusun kewajiban ini secara lugas dalam 5 butir. Dengan demikian, opsi E adalah jawaban yang benar.
+Bedah: {"A": "Tiga butir merupakan jumlah klasifikasi standar kompetensi dan bukan butir kewajiban.", "B": "Empat butir merupakan jumlah jenjang fungsional keahlian dan bukan butir kewajiban.", "C": "Enam butir merupakan jumlah alasan pemberhentian jabatan administrasi kepegawaian.", "D": "Tujuh butir merupakan jumlah komponen hak penghargaan ASN dan bukan jumlah kewajiban."}
+======================================================================
+NO 71 | HLM 17 | KUNCI C
+KW: ['Presiden merupakan pemegang kekuasaan pemerintahan tertinggi', 'kebijakan, pembinaan profesi, dan Manajemen Aparatur Sipil Negara']
+Q: Pemegang kekuasaan pemerintahan tertinggi dalam kebijakan, pembinaan profesi, dan Manajemen ASN adalah...
+  A: Menteri Pendayagunaan Aparatur Negara dan RB
+  B: Kepala Badan Kepegawaian Negara Republik
+  C: Presiden Republik Indonesia [KUNCI]
+  D: Ketua Dewan Perwakilan Rakyat Republik Indonesia
+  E: Ketua Mahkamah Agung Republik Indonesia
+Konsep: **Presiden merupakan pemegang kekuasaan pemerintahan tertinggi** dalam kebijakan, pembinaan profesi, dan Manajemen Aparatur Sipil Negara (ASN).
+Alasan: Opsi C merupakan pemegang mandat konstitusi tertinggi kekuasaan eksekutif pemerintahan negara. Presiden memegang otoritas puncak atas seluruh sistem manajemen kepegawaian aparatur sipil nasional. Aturan undang-undang menegaskan Presiden adalah pemegang kekuasaan tertinggi manajemen ASN. Oleh karena itu, opsi C merupakan jawaban yang tepat.
+Bedah: {"A": "Menteri PAN-RB menjalankan kewenangan yang didelegasikan oleh Presiden dan bukan pemegang kekuasaan tertinggi.", "B": "Kepala BKN menjalankan fungsi operasional teknis pelayanan administrasi kepegawaian.", "D": "DPR menjalankan fungsi legislasi dan pengawasan anggaran parlemen.", "E": "Ketua Mahkamah Agung memimpin lembaga kekuasaan yudikatif peradilan."}
+======================================================================
+NO 72 | HLM 17 | KUNCI E
+KW: ['Presiden mendelegasikan kepada', 'Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi']
+Q: Untuk menyelenggarakan kekuasaan manajemen ASN, Presiden secara resmi mendelegasikan kewenangan kepada...
+  A: Lembaga Administrasi Negara Republik Indonesia
+  B: Kementerian Koordinator Bidang Perekonomian
+  C: Badan Kepegawaian Negara Republik Indonesia
+  D: Komisi Pemilihan Umum Republik Indonesia
+  E: Kementerian PAN-RB Republik Indonesia [KUNCI]
+Konsep: Presiden mendelegasikan kewenangan perumusan dan penetapan kebijakan strategis ASN kepada **Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (PAN-RB)**.
+Alasan: Opsi E merupakan kementerian teknis yang menerima pendelegasian mandat kebijakan ASN secara sah. Kementerian PAN-RB bertindak sebagai arsitek regulasi, perumus kebijakan makro, dan pengendali reformasi birokrasi aparatur nasional. Ketentuan pasal menegaskan Presiden mendelegasikan kepada Kementerian PAN-RB. Dengan demikian, opsi E adalah pilihan yang tepat.
+Bedah: {"A": "LAN bertugas menyelenggarakan kajian desentralisasi dan diklat kepemimpinan aparatur.", "B": "Kemenko Perekonomian mengoordinasikan bidang makro ekonomi dan investasi fiskal.", "C": "BKN menerima delegasi pengelolaan dan pembinaan teknis operasional kepegawaian.", "D": "KPU merupakan lembaga independen penyelenggara pemilihan umum kepala daerah dan legislatif."}
+======================================================================
+NO 73 | HLM 17 | KUNCI B
+KW: ['perumusan dan penetapan kebijakan strategis', 'koordinasi dan sinkronisasi kebijakan']
+Q: Pendelegasian kewenangan Presiden kepada Kementerian PAN-RB berkaitan erat dengan tiga mandat utama yaitu...
+  A: Penyidikan korupsi, penuntutan pidana, dan eksekusi denda
+  B: Perumusan kebijakan, koordinasi sinkronisasi, dan pengendalian [KUNCI]
+  C: Penerbitan surat utang, lelang obligasi, dan moneter
+  D: Pengadaan alutsista, logistik militer, dan pertahanan
+  E: Penetapan vonis perdata, banding sengketa, dan kasasi
+Konsep: Pendelegasian kewenangan kepada Kementerian PAN-RB meliputi: **perumusan dan penetapan kebijakan strategis**, **koordinasi dan sinkronisasi kebijakan**, serta **pengendalian kebijakan Manajemen ASN** secara nasional.
+Alasan: Opsi B merupakan rincian mandat regulatif Kementerian PAN-RB yang tepat. Ketiga pilar tersebut memastikan kebijakan aparatur tersusun terpadu dari tahap formulasi hingga evaluasi implementasi. Regulasi merinci kewenangan pada perumusan, koordinasi sinkronisasi, dan pengendalian kebijakan. Oleh karena itu, opsi B adalah jawaban yang benar.
+Bedah: {"A": "Penyidikan dan penuntutan perkara merupakan fungsi aparat penegak hukum kejaksaan dan kepolisian.", "C": "Pengelolaan utang dan obligasi surat berharga negara merupakan kewenangan kementerian keuangan.", "D": "Pengadaan peralatan perang militer berada pada ranah kementerian pertahanan dan TNI.", "E": "Penyelenggaraan peradilan hukum perdata merupakan mandat yudisial Mahkamah Agung."}
+======================================================================
+NO 74 | HLM 17 | KUNCI D
+KW: ['pengembangan kapasitas dan pembelajaran ASN', 'sinkronisasi pengendalian tugas dan fungsi']
+Q: Dalam penyelenggaraan Manajemen ASN, Kementerian PAN-RB mengoordinasikan rencana kerja lembaga serta melakukan...
+  A: Pencetakan uang kertas dan uang logam rupiah baru
+  B: Pemberian sanksi pemecatan langsung kepada kepala daerah
+  C: Pemeriksaan forensik atas transaksi pasar bursa modal
+  D: Sinkronisasi pengendalian kapasitas dan pembelajaran ASN [KUNCI]
+  E: Penyitaan rekening simpanan wajib perbankan swasta
+Konsep: Kementerian PAN-RB melakukan **sinkronisasi pengendalian tugas dan fungsi pengembangan kapasitas dan pembelajaran ASN** secara nasional.
+Alasan: Opsi D merupakan lingkup fungsi penguatan SDM aparatur yang tepat di tingkat kementerian koordinator teknis. Peningkatan kompetensi aparatur diselaraskan agar kurikulum pembelajaran kementerian/lembaga relevan dengan kebutuhan transformasi birokrasi. Ketentuan aturan menegaskan sinkronisasi kapasitas dan pembelajaran ASN. Dengan demikian, opsi D adalah pilihan yang tepat.
+Bedah: {"A": "Pencetakan mata uang rupiah merupakan mandat Bank Indonesia dan Perum Peruri.", "B": "Pemberhentian kepala daerah diatur tersendiri dalam undang-undang pemerintahan daerah.", "C": "Pemeriksaan transaksi bursa efek merupakan kewenangan Otoritas Jasa Keuangan.", "E": "Penyitaan simpanan nasabah perbankan memerlukan penetapan aparat penegak hukum pengadilan."}
+======================================================================
+NO 75 | HLM 17 | KUNCI A
+KW: ['Kementerian PAN-RB juga melakukan pengawasan', 'penerapan Sistem Merit pada Kementerian/Lembaga']
+Q: Salah satu tugas pengawasan krusial yang dijalankan oleh Kementerian PAN-RB pada instansi pemerintah adalah...
+  A: Pengawasan penerapan Sistem Merit di K/L [KUNCI]
+  B: Pemeriksaan fisik sarana persenjataan pangkalan
+  C: Penyadapan saluran telekomunikasi pejabat daerah
+  D: Pemeriksaan kepatuhan rambu-rambu lalu lintas dinas
+  E: Audit penerimaan devisa ekspor industri tekstil
+Konsep: Selain pengendalian kebijakan, **Kementerian PAN-RB juga melakukan pengawasan penerapan Sistem Merit pada Kementerian/Lembaga**.
+Alasan: Opsi A merupakan mandat pengawasan kelembagaan kementerian yang tepat pasca-penguatan regulasi aparatur. Sistem merit menjamin promosi dan mutasi berbasis kualifikasi objektif tanpa nepotisme. Regulasi menyatakan Kementerian PAN-RB melakukan pengawasan penerapan Sistem Merit pada kementerian/lembaga. Oleh karena itu, opsi A adalah jawaban yang benar.
+Bedah: {"B": "Pengawasan gudang persenjataan militer merupakan urusan internal markas besar keprajuritan.", "C": "Penyadapan komunikasi privat wajib mengantongi izin pengadilan dalam proses peradilan pidana.", "D": "Ketertiban lalu lintas kendaraan umum merupakan kewenangan dinas perhubungan dan kepolisian.", "E": "Audit devisa perdagangan ekspor impor merupakan domain kepabeanan dan Bank Indonesia."}
+======================================================================
+NO 76 | HLM 17 | KUNCI C
+KW: ['pengendalian kebijakan Manajemen ASN', 'secara nasional']
+Q: Pengendalian kebijakan Manajemen ASN yang dijalankan oleh Kementerian PAN-RB memiliki ruang lingkup...
+  A: Hanya terbatas pada instansi pemerintah pusat
+  B: Khusus untuk unit kantor wilayah pulau terluar
+  C: Secara menyeluruh mencakup skala nasional [KUNCI]
+  D: Hanya bagi pegawai yang berstatus masa percobaan
+  E: Terbatas pada instansi yang mengalami defisit anggaran
+Konsep: Kewenangan pengendalian kebijakan Manajemen ASN oleh Kementerian PAN-RB berlaku **secara nasional** (meliputi instansi pusat dan instansi daerah).
+Alasan: Opsi C merupakan lingkup yurisdiksi tata kelola kepegawaian yang tepat. Kebijakan ASN bersifat terpadu (*single system*) dari Sabang sampai Merauke demi menjaga keutuhan korps aparatur negara. Aturan menyebutkan kewenangan pengendalian kebijakan manajemen ASN berlaku secara nasional. Dengan demikian, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Pengendalian kebijakan tidak terbatas pada pusat melainkan mencakup seluruh pemerintah daerah.", "B": "Kebijakan aparatur berlaku menyeluruh dan tidak dibatasi pada pulau terluar saja.", "D": "Ruang lingkup manajemen ASN berlaku bagi seluruh pegawai tetap maupun calon aparatur.", "E": "Standar kepegawaian berlaku merata tanpa memandang kondisi fiskal anggaran instansi."}
+======================================================================
+NO 77 | HLM 17 | KUNCI E
+KW: ['pengendalian pelaksanaan kebijakan teknis', 'Manajemen ASN']
+Q: Kementerian PAN-RB selain menetapkan kebijakan makro juga bertugas melakukan pengendalian atas...
+  A: Tarif suku bunga pinjaman perbankan swasta
+  B: Penetapan harga eceran tertinggi sembako pangan
+  C: Jadwal penerbangan maskapai komersial swasta
+  D: Pemenang tender lelang jalan tol lintas wilayah
+  E: Pelaksanaan kebijakan teknis Manajemen ASN [KUNCI]
+Konsep: Kementerian PAN-RB bertugas **melakukan pengendalian pelaksanaan kebijakan teknis Manajemen ASN** pada seluruh instansi pemerintah.
+Alasan: Opsi E merupakan fungsi kontrol implementasi regulasi kepegawaian yang tepat. Pengendalian teknis menjamin instansi pemerintah mematuhi ketentuan pengadaan, promosi, penilaian kinerja, dan disiplin pegawai. Regulasi menyebutkan Kementerian PAN-RB mengendalikan pelaksanaan kebijakan teknis Manajemen ASN. Oleh karena itu, opsi E merupakan pilihan yang tepat.
+Bedah: {"A": "Tingkat suku bunga perbankan diatur oleh Bank Indonesia melalui kebijakan moneter.", "B": "Harga kebutuhan pokok masyarakat ditetapkan oleh kementerian perdagangan dan badan pangan.", "C": "Jadwal dan rute penerbangan udara diatur oleh kementerian perhubungan direktorat jenderal perhubungan udara.", "D": "Tender infrastruktur jalan bebas hambatan berada di bawah wewenang kementerian pekerjaan umum."}
+======================================================================
+NO 78 | HLM 17 | KUNCI B
+KW: ['mengoordinasikan rencana kerja lembaga yang berkaitan', 'dengan penyelenggaraan Manajemen ASN']
+Q: BKN dan LAN menyusun rencana kerja tahunan terkait rekrutmen dan pelatihan kepemimpinan. Kementerian yang mengoordinasikan rencana kerja tersebut adalah...
+  A: Kementerian Hukum dan Hak Asasi Manusia
+  B: Kementerian PAN-RB Republik Indonesia [KUNCI]
+  C: Kementerian Sekretariat Negara Republik
+  D: Kementerian Koordinator Bidang Politik dan Keamanan
+  E: Kementerian Keuangan Republik Indonesia
+Konsep: Kementerian PAN-RB mengemban tugas **mengoordinasikan rencana kerja lembaga yang berkaitan dengan penyelenggaraan Manajemen ASN**.
+Alasan: Opsi B merupakan koordinator sektoral kepegawaian aparatur sipil negara yang tepat. Lembaga pengelola ASN seperti BKN dan LAN bersinergi di bawah payung koordinasi Kementerian PAN-RB. Regulasi menegaskan Kementerian PAN-RB mengoordinasikan rencana kerja lembaga penyelenggara manajemen ASN. Dengan demikian, opsi B adalah jawaban yang benar.
+Bedah: {"A": "Kemenkumham membidangi urusan perundang-undangan dan pemasyarakatan narapidana umum.", "C": "Kemensetneg bertugas memberikan dukungan teknis dan administrasi kepada lembaga kepresidenan.", "D": "Kemenko Polkam mengoordinasikan stabilitas politik dan pertahanan keamanan nasional.", "E": "Kementerian Keuangan mengelola kebijakan fiskal dan perbendaharaan keuangan negara."}
+======================================================================
+NO 79 | HLM 17 | KUNCI D
+KW: ['kebijakan, pembinaan profesi, dan Manajemen Aparatur Sipil Negara', 'Presiden merupakan pemegang kekuasaan']
+Q: Kekuasaan pemerintahan tertinggi yang dipegang oleh Presiden dalam ranah kepegawaian aparatur negara mencakup tiga aspek yaitu...
+  A: Pajak daerah, retribusi pasar, dan royalti tambang
+  B: Pendidikan militer, komando tempur, dan intelijen
+  C: Hukum pidana khusus, grasi hukum, dan remisi tahanan
+  D: Kebijakan, pembinaan profesi, dan Manajemen ASN [KUNCI]
+  E: Audit perbankan, peredaran obligasi, dan kurs rupiah
+Konsep: Presiden merupakan pemegang kekuasaan tertinggi dalam tiga domain pokok: **kebijakan**, **pembinaan profesi**, dan **Manajemen Aparatur Sipil Negara (ASN)**.
+Alasan: Opsi D merangkum trilogi mandat kekuasaan eksekutif presiden atas kepegawaian ASN yang tepat. Ketiga ranah ini memberikan wewenang regulatif, etik moral profesi, serta operasional karier pegawai pemerintah. Ketentuan perundang-undangan menyatakan secara tegas ketiga aspek kekuasaan tersebut. Oleh karena itu, opsi D merupakan jawaban yang benar.
+Bedah: {"A": "Pajak daerah dan retribusi merupakan instrumen pendapatan asli daerah pada fiskal lokal.", "B": "Pendidikan militer dan komando tempur merupakan ranah pertahanan prajurit angkatan bersenjata.", "C": "Grasi dan remisi merupakan hak prerogatif presiden dalam pelaksanaan putusan yudisial.", "E": "Kebijakan obligasi dan audit perbankan berada di bawah otoritas fiskal dan moneter keuangan."}
+======================================================================
+NO 80 | HLM 17 | KUNCI A
+KW: ['Pendelegasian tersebut berkaitan dengan kewenangan', 'pengendalian kebijakan Manajemen ASN secara nasional']
+Q: Prinsip utama pendelegasian kekuasaan Presiden kepada Kementerian PAN-RB dalam mengendalikan kebijakan ASN bertujuan mewujudkan...
+  A: Sistem pengelolaan aparatur yang terpadu dan selaras [KUNCI]
+  B: Kemandirian mutlak setiap daerah tanpa kontrol pusat
+  C: Penyerahan tata kelola kepegawaian kepada korporasi
+  D: Peniadaan batas persyaratan kompetensi jabatan staf
+  E: Pembagian jatah kursi birokrasi bagi kelompok tertentu
+Konsep: Pendelegasian kewenangan pengendalian kepada Kementerian PAN-RB bertujuan menjamin **keselarasan, efektivitas, dan keterpaduan sistem manajemen kepegawaian** secara nasional.
+Alasan: Opsi A merupakan tujuan normatif pendelegasian manajemen ASN yang tepat. Tanpa kendali terpusat, standar kualitas dan etika birokrasi antar-kementerian dan daerah akan terfragmentasi. Sesuai asas ketatanegaraan, pendelegasian memastikan kebijakan berjalan selaras dan terintegrasi. Dengan demikian, opsi A adalah pilihan yang tepat.
+Bedah: {"B": "Desentralisasi daerah tetap wajib tunduk pada standar norma dan regulasi aparatur nasional.", "C": "Birokrasi pemerintahan negara dilarang diprivatisasi menjadi kepemilikan korporasi bisnis.", "D": "Standar kompetensi jabatan wajib dipertahankan secara ketat demi mutu pelayanan publik.", "E": "Sistem merit melarang keras praktik pembagian jabatan berdasarkan jatah kelompok primordial."}
+======================================================================
+NO 81 | HLM 19 | KUNCI D
+KW: ['kualifikasi, kompetensi, dan kinerja secara adil dan wajar', '(Sistem Merit)']
+Q: Kebijakan dan manajemen ASN yang didasarkan pada kualifikasi, kompetensi, dan kinerja secara adil dan wajar tanpa diskriminasi disebut...
+  A: Sistem Patronase Politik Terbuka
+  B: Sistem Senioritas Pangkat Mutlak
+  C: Sistem Spoils Pembagian Jabatan
+  D: Sistem Merit Manajemen Aparatur [KUNCI]
+  E: Sistem Kuota Afirmasi Wilayah
+Konsep: **Sistem Merit** adalah kebijakan dan manajemen ASN yang didasarkan pada **kualifikasi, kompetensi, dan kinerja secara adil dan wajar** tanpa membedakan latar belakang politik, ras, warna kulit, agama, asal-usul, jenis kelamin, status pernikahan, umur, atau kondisi kecacatan.
+Alasan: Opsi D merupakan definisi yuridis sistem merit yang tepat dalam hukum kepegawaian Indonesia. Sistem merit memastikan setiap aparatur dinilai secara murni berdasarkan kemampuan kerja nyata dan integritas profesionalnya. Regulasi menegaskan kebijakan berbasis kualifikasi dan kompetensi adil disebut Sistem Merit. Oleh karena itu, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Sistem patronase mengangkat pegawai berdasarkan kedekatan personal atau dukungan politik.", "B": "Sistem senioritas mendasarkan promosi hanya pada usia atau lamanya masa dinas.", "C": "Sistem spoils membagikan jabatan birokrasi sebagai hadiah kepada pendukung pemilu.", "E": "Sistem kuota afirmasi bukan konsep dasar yang mendefinisikan meritokrasi profesional."}
+======================================================================
+NO 82 | HLM 19 | KUNCI A
+KW: ['tanpa membedakan latar belakang politik, ras, warna kulit', 'status pernikahan, umur, atau kondisi kecacatan']
+Q: Dalam penerapan Sistem Merit, manajemen ASN wajib memperlakukan pegawai secara adil tanpa membedakan faktor...
+  A: Latar belakang politik, ras, agama, kelamin, dan kecacatan [KUNCI]
+  B: Tingkat pencapaian target kinerja bulanan di unit dinas
+  C: Skor hasil pengujian kompetensi teknis dan manajerial
+  D: Tingkat kualifikasi ijazah pendidikan formal yang dimiliki
+  E: Riwayat rekam jejak integritas penugasan kedinasan
+Konsep: Sistem Merit menjamin perlakuan adil **tanpa membedakan latar belakang politik, ras, warna kulit, agama, asal-usul, jenis kelamin, status pernikahan, umur, atau kondisi kecacatan**.
+Alasan: Opsi A merinci aspek nondiskriminasi yang dilindungi oleh undang-undang aparatur. Promosi dan pengembangan karier dilarang dihambat oleh identitas primordial, gender, atau disabilitas fisik pegawai. Aturan menyebutkan perlakuan adil tanpa membeda-bedakan latar belakang tersebut. Dengan demikian, opsi A adalah pilihan yang tepat.
+Bedah: {"B": "Capaian target kinerja justru menjadi variabel utama penentu penghargaan dan promosi merit.", "C": "Nilai uji kompetensi merupakan syarat objektif penempatan jabatan meritokrasi.", "D": "Kualifikasi pendidikan merupakan kriteria wajib pemenuhan standar formasi jabatan.", "E": "Rekam jejak integritas menjadi pertimbangan utama kepatutan menduduki jabatan publik."}
+======================================================================
+NO 83 | HLM 19 | KUNCI C
+KW: ['Manajemen ASN ini meliputi', 'Manajemen Pegawai Negeri Sipil (PNS) dan Manajemen Pegawai Pemerintah dengan Perjanjian Kerja']
+Q: Ruang lingkup tata kelola Manajemen ASN secara komprehensif meliputi dua bidang yaitu...
+  A: Manajemen Angkatan Bersenjata dan Manajemen Polisi Sipil
+  B: Manajemen Pejabat Diplomatik dan Manajemen Konsuler Luar
+  C: Manajemen Pegawai Negeri Sipil dan Manajemen PPPK [KUNCI]
+  D: Manajemen Hakim Peradilan dan Manajemen Jaksa Agung
+  E: Manajemen Pekerja BUMN dan Manajemen Karyawan Swasta
+Konsep: **Manajemen ASN ini meliputi Manajemen Pegawai Negeri Sipil (PNS) dan Manajemen Pegawai Pemerintah dengan Perjanjian Kerja (PPPK)**.
+Alasan: Opsi C merupakan dua pilar tata kelola sumber daya manusia aparatur sipil negara yang tepat. Keduanya memiliki tata cara pengadaan, pembinaan, dan pemberhentian yang terstandardisasi dalam regulasi pemerintah. Aturan hukum menegaskan manajemen ASN mencakup manajemen PNS dan manajemen PPPK. Oleh karena itu, opsi C merupakan jawaban yang benar.
+Bedah: {"A": "Manajemen militer dan kepolisian diatur dalam regulasi pertahanan dan kepolisian tersendiri.", "B": "Pejabat diplomatik merupakan bagian fungsional spesifik dalam rumpun aparatur sipil.", "D": "Jabatan hakim merupakan pejabat negara di bawah naungan kekuasaan kehakiman Mahkamah Agung.", "E": "Pekerja korporasi BUMN dan swasta tunduk pada regulasi ketenagakerjaan ketenagakerjaan umum."}
+======================================================================
+NO 84 | HLM 19 | KUNCI E
+KW: ['Presiden dapat mendelegasikan kewenangan pembinaan Manajemen ASN', 'kepada Pejabat yang Berwenang di kementerian']
+Q: Presiden dapat mendelegasikan kewenangan pembinaan Manajemen ASN kepada Pejabat yang Berwenang (PyB) di antaranya yaitu...
+  A: Pimpinan redaksi media pers cetak swasta nasional
+  B: Ketua dewan perwakilan rakyat tingkat kabupaten
+  C: Direktur utama perusahaan penyedia tenaga kerja alih daya
+  D: Pimpinan organisasi masyarakat keagamaan daerah
+  E: Sekretaris jenderal kementerian atau sekretariat lembaga [KUNCI]
+Konsep: Presiden dapat mendelegasikan kewenangan pembinaan Manajemen ASN kepada **Pejabat yang Berwenang (PyB)** di kementerian, **sekretaris jenderal/sekretariat lembaga negara**, sekretariat LNS, dan sekretaris daerah.
+Alasan: Opsi E merupakan figur Pejabat yang Berwenang (PyB) yang tepat di lingkungan birokrasi pemerintahan. Sekjen kementerian memimpin pembinaan administrasi kepegawaian internal sebelum diusulkan kepada menteri selaku PPK. Aturan merinci delegasi kepada sekjen/sekretariat lembaga dan sekda. Dengan demikian, opsi E adalah pilihan yang benar.
+Bedah: {"A": "Pimpinan media pers swasta berada di luar struktur organisasi pemerintahan negara.", "B": "Ketua DPRD memegang mandat pengawasan politik daerah dan bukan pejabat birokrasi PyB.", "C": "Direktur perusahaan alih daya merupakan pihak rekanan swasta nonpemerintah.", "D": "Pimpinan ormas keagamaan bukan bagian dari pemegang wewenang birokrasi kepegawaian ASN."}
+======================================================================
+NO 85 | HLM 19 | KUNCI B
+KW: ['Pejabat yang berwenang sebagaimana dimaksud memberikan rekomendasi usulan', 'kepada Pejabat Pembina Kepegawaian (PPK)']
+Q: Dalam proses pengangkatan pejabat administrasi, peran utama Pejabat yang Berwenang (PyB) adalah...
+  A: Menetapkan surat keputusan pengangkatan tanpa koordinasi
+  B: Memberikan rekomendasi usulan kepada Pejabat Pembina Kepegawaian [KUNCI]
+  C: Melakukan pelantikan pejabat di hadapan dewan perwakilan
+  D: Memotong tunjangan kinerja pejabat yang baru diangkat
+  E: Membatalkan undang-undang yang mengatur syarat jabatan
+Konsep: **Pejabat yang Berwenang (PyB)** memberikan **rekomendasi usulan pengangkatan, pemindahan, dan pemberhentian** kepada **Pejabat Pembina Kepegawaian (PPK)**.
+Alasan: Opsi B menjelaskan pembagian kewenangan administratif kepegawaian secara tepat. PyB meneliti kelayakan teknis dan mengajukan usulan nama kepada PPK yang memiliki wewenang yuridis menetapkan keputusan. Regulasi menyatakan PyB memberikan rekomendasi usulan kepada PPK di instansi masing-masing. Oleh karena itu, opsi B merupakan jawaban yang tepat.
+Bedah: {"A": "Penetapan surat keputusan pengangkatan merupakan wewenang mutlak PPK dan bukan PyB.", "C": "Pelantikan pejabat struktural dipimpin oleh PPK atau pejabat yang ditunjuk resmi.", "D": "Pemotongan hak tunjangan tanpa dasar pelanggaran disiplin hukum merupakan tindakan ilegal.", "E": "Pembatalan undang-undang hanya dapat diputuskan melalui pengujian yudisial Mahkamah Konstitusi."}
+======================================================================
+NO 86 | HLM 19 | KUNCI D
+KW: ['mengusulkan pengangkatan, pemindahan, dan pemberhentian', 'Pejabat Administrasi dan Pejabat Fungsional']
+Q: Pejabat yang Berwenang mengusulkan pengangkatan, pemindahan, dan pemberhentian kepada PPK khusus untuk...
+  A: Menteri koordinator dan wakil menteri kabinet
+  B: Ketua dan wakil ketua komisi yudisial negara
+  C: Gubernur dan wakil gubernur hasil pemilihan
+  D: Pejabat Administrasi dan Pejabat Fungsional [KUNCI]
+  E: Panglima militer dan kepala staf angkatan
+Konsep: Pejabat yang Berwenang mengusulkan pengangkatan, pemindahan, dan pemberhentian **Pejabat Administrasi dan Pejabat Fungsional** kepada Pejabat Pembina Kepegawaian.
+Alasan: Opsi D merinci kelompok jabatan aparatur yang menjadi domain usulan administratif PyB. Jabatan administrasi (administrator, pengawas, pelaksana) dan jabatan fungsional diverifikasi oleh PyB sebelum diterbitkan SK oleh PPK. Aturan perundangan menyebutkan khusus usulan pejabat administrasi dan fungsional. Dengan demikian, opsi D adalah jawaban yang benar.
+Bedah: {"A": "Menteri dan wakil menteri merupakan pembantu presiden yang diangkat langsung oleh presiden.", "B": "Pimpinan komisi yudisial merupakan pejabat negara yang diusulkan melalui seleksi khusus.", "C": "Kepala daerah memperoleh mandat melalui pemilihan umum kepala daerah langsung.", "E": "Panglima TNI diangkat oleh presiden dengan persetujuan Dewan Perwakilan Rakyat."}
+======================================================================
+NO 87 | HLM 19 | KUNCI A
+KW: ['Manajemen PNS pada Instansi Pusat dilaksanakan oleh pemerintah pusat', 'pada Instansi Daerah dilaksanakan oleh pemerintah daerah']
+Q: Penyelenggaraan Manajemen PNS pada tingkat instansi daerah dilaksanakan secara sah oleh...
+  A: Pemerintah daerah bersangkutan [KUNCI]
+  B: Konsulat jenderal negara sahabat
+  C: Yayasan kemanusiaan nirlaba lokal
+  D: Komando resor militer setempat
+  E: Kamar dagang dan industri daerah
+Konsep: **Manajemen PNS pada Instansi Pusat dilaksanakan oleh pemerintah pusat**, sementara **Manajemen PNS pada Instansi Daerah dilaksanakan oleh pemerintah daerah**.
+Alasan: Opsi A merupakan pembagian tata kelola otonomi kepegawaian yang tepat. Pemerintah daerah melalui kepala daerah (Gubernur/Bupati/Walikota) bertindak selaku PPK yang mengelola kepegawaian ASN di yurisdiksi daerahnya. Regulasi menegaskan manajemen pada instansi daerah dilaksanakan oleh pemerintah daerah. Oleh karena itu, opsi A adalah pilihan yang tepat.
+Bedah: {"B": "Konsulat jenderal asing merupakan korps perwakilan negara lain di bidang imigrasi/diplomasi.", "C": "Organisasi nirlaba merupakan lembaga swadaya masyarakat dan bukan pengelola birokrasi ASN.", "D": "Komando militer menjalankan fungsi pertahanan teritorial pertahanan angkatan bersenjata.", "E": "Kamar dagang merupakan asosiasi pelaku usaha perdagangan sektor industri komersial."}
+======================================================================
+NO 88 | HLM 19 | KUNCI C
+KW: ['Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (PAN-RB)', 'menetapkan Kebijakan Perencanaan Kebutuhan Pegawai ASN secara nasional']
+Q: Otoritas yang berwenang menetapkan Kebijakan Perencanaan Kebutuhan Pegawai ASN secara nasional adalah...
+  A: Kepala Kepolisian Negara Republik Indonesia
+  B: Gubernur Bank Indonesia bidang moneter
+  C: Menteri Pendayagunaan Aparatur Negara dan RB [KUNCI]
+  D: Ketua Badan Pemeriksa Keuangan Republik
+  E: Menteri Perencanaan Pembangunan Nasional
+Konsep: Dalam UU Nomor 20 Tahun 2023 disebutkan bahwa **Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (PAN-RB) menetapkan Kebijakan Perencanaan Kebutuhan Pegawai ASN secara nasional**.
+Alasan: Opsi C merupakan menteri teknis pemegang wewenang formasi aparatur negara yang tepat. Menteri PAN-RB menghimpun usulan formasi dari seluruh K/L dan daerah untuk diselaraskan dengan arah prioritas pembangunan nasional. Ketentuan pasal menetapkan Menteri PAN-RB sebagai pemegang kewenangan perencanaan formasi nasional. Dengan demikian, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Kapolri membina personel internal kepolisian dan bukan perencana kebutuhan ASN nasional.", "B": "Gubernur BI mengelola stabilitas nilai tukar rupiah dan sistem pembayaran perbankan.", "D": "BPK menjalankan fungsi pemeriksaan keuangan eksternal pertanggungjawaban kas negara.", "E": "Menteri PPN/Bappenas merancang rencana pembangunan makro di luar penetapan kuota formasi."}
+======================================================================
+NO 89 | HLM 19 | KUNCI E
+KW: ['berdasarkan prioritas nasional', 'rencana pembangunan jangka menengah nasional']
+Q: Perencanaan Kebutuhan Pegawai ASN secara nasional ditetapkan oleh Menteri PAN-RB berlandaskan pada...
+  A: Hasil jajak pendapat popularitas partai politik
+  B: Laporan laba bersih emiten perseroan terbuka
+  C: Permintaan kuota sponsor dari organisasi kemasyarakatan
+  D: Jumlah pengajuan izin cuti melahirkan di daerah
+  E: Prioritas nasional sesuai rencana pembangunan menengah [KUNCI]
+Konsep: Kebijakan Perencanaan Kebutuhan Pegawai ASN ditetapkan **berdasarkan prioritas nasional sesuai dengan rencana pembangunan jangka menengah nasional (RPJMN)** serta kemampuan fiskal.
+Alasan: Opsi E merupakan dasar strategis penetapan alokasi formasi kepegawaian yang tepat. Pengadaan ASN tidak dilakukan secara acak, melainkan diarahkan untuk mendukung target-target prioritas pembangunan nasional (seperti sektor kesehatan, pendidikan, dan digitalisasi). Regulasi menyebutkan penetapan berlandaskan prioritas nasional sesuai RPJMN. Oleh karena itu, opsi E adalah jawaban yang tepat.
+Bedah: {"A": "Survei politik partisan dilarang memengaruhi perencanaan alokasi sumber daya aparatur.", "B": "Kinerja emiten saham bursa tidak menjadi landasan penetapan formasi kepegawaian ASN.", "C": "Penetapan kebutuhan pegawai steril dari tekanan atau lobi kuota organisasi kemasyarakatan.", "D": "Data cuti melahirkan merupakan administrasi rutin dan bukan dasar perencanaan formasi nasional."}
+======================================================================
+NO 90 | HLM 19 | KUNCI B
+KW: ['Kebijakan dan manajemen ASN didasarkan pada', 'kualifikasi, kompetensi, dan kinerja']
+Q: Tiga pilar penilaian objektif yang menjadi dasar pertimbangan dalam setiap pengambilan keputusan karier ASN adalah...
+  A: Kekayaan pribadi, koneksi pejabat, dan popularitas
+  B: Kualifikasi pendidikan, kompetensi kerja, dan kinerja nyata [KUNCI]
+  C: Asal kedaerahan, suku keluarga, dan senioritas umur
+  D: Afiliasi organisasi kemasyarakatan dan pilihan politik
+  E: Besaran sumbangan sosial dan rekomendasi tokoh informal
+Konsep: Kebijakan dan manajemen ASN secara mutlak didasarkan pada tiga pilar inti: **kualifikasi**, **kompetensi**, dan **kinerja** aparatur.
+Alasan: Opsi B merupakan tiga pilar utama sistem merit yang tepat. Kualifikasi menjamin standar latar belakang keilmuan, kompetensi membuktikan kemahiran teknis, dan kinerja memperlihatkan hasil kerja nyata. Ketentuan perundang-undangan menegaskan ketiga pilar tersebut sebagai dasar manajemen ASN. Dengan demikian, opsi B adalah pilihan yang benar.
+Bedah: {"A": "Penilaian berbasis kekayaan dan koneksi merupakan praktik korupsi, kolusi, dan nepotisme.", "C": "Pertimbangan kesukuan dan kedekatan primordial melanggar prinsip keadilan nondiskriminasi.", "D": "Keterikatan ormas dan afiliasi politik dilarang keras memengaruhi keputusan karier ASN.", "E": "Pemberian sumbangan dan rekomendasi informal tidak diakui dalam instrumen seleksi meritokrasi."}
+======================================================================
+NO 91 | HLM 20 | KUNCI E
+KW: ['wajib menyusun kebutuhan jumlah dan jenis jabatan PNS', 'analisis jabatan dan analisis beban kerja']
+Q: Setiap Instansi Pemerintah wajib menyusun kebutuhan jumlah dan jenis jabatan PNS berdasarkan...
+  A: Perkiraan subjektif kepala subbagian kepegawaian
+  B: Jumlah pendaftar magang sukarela tahun sebelumnya
+  C: Permintaan kuota tambahan dari serikat pekerja dinas
+  D: Kapasitas daya tampung ruangan gedung kantor baru
+  E: Analisis jabatan dan analisis beban kerja organisasi [KUNCI]
+Konsep: Instansi Pemerintah wajib menyusun kebutuhan jumlah dan jenis jabatan PNS berdasarkan **analisis jabatan (anjab)** dan **analisis beban kerja (ABK)** serta peta jabatan.
+Alasan: Opsi E merupakan metodologi ilmiah perencanaan formasi ASN yang diwajibkan regulasi. Anjab dan ABK memetakan uraian tugas serta beban volume kerja nyata sehingga kebutuhan pegawai tidak berlebih (*overstaffing*) atau kurang. PP 11/2017 jo PP 17/2020 mewajibkan dasar analisis jabatan dan analisis beban kerja. Oleh karena itu, opsi E merupakan pilihan yang tepat.
+Bedah: {"A": "Perencanaan kebutuhan pegawai dilarang didasarkan pada selera atau taksiran subjektif pejabat.", "B": "Data pelamar magang bukan instrumen analisis beban kerja organisasi pemerintahan.", "C": "Penetapan formasi kepegawaian steril dari lobi atau permintaan kuota serikat pekerja.", "D": "Luas bangunan kantor merupakan fasilitas fisik dan bukan dasar penentuan beban kerja tugas."}
+======================================================================
+NO 92 | HLM 20 | KUNCI B
+KW: ['memperhatikan kondisi geografis daerah', 'jumlah penduduk, dan rasio alokasi anggaran belanja pegawai']
+Q: Selain analisis jabatan dan beban kerja, penyusunan kebutuhan formasi PNS wajib memperhatikan...
+  A: Hasil perolehan suara partai pemenang pemilihan umum
+  B: Kondisi geografis, jumlah penduduk, dan belanja pegawai [KUNCI]
+  C: Jumlah kendaraan dinas operasional yang tersedia
+  D: Tingkat suku bunga kredit perbankan komersial daerah
+  E: Daftar perusahaan swasta rekanan pengadaan barang
+Konsep: Penyusunan peta kebutuhan jabatan PNS wajib memperhatikan: **kondisi geografis daerah**, **jumlah penduduk**, dan **rasio alokasi anggaran belanja pegawai**.
+Alasan: Opsi B merupakan tiga variabel makro daerah yang wajib diperhitungkan dalam formasi ASN. Faktor demografi dan wilayah menentukan beban jangkauan layanan, sedangkan rasio belanja pegawai menjaga kesehatan fiskal APBD/APBN. Ketentuan PP 11/2017 jo PP 17/2020 merinci ketiga variabel tersebut. Dengan demikian, opsi B adalah jawaban yang benar.
+Bedah: {"A": "Perencanaan birokrasi profesional tidak boleh terikat oleh peta politik hasil pemilu.", "C": "Ketersediaan armada kendaraan merupakan aspek sarana penunjang dan bukan faktor demografi.", "D": "Suku bunga pinjaman bank adalah instrumen pasar modal dan moneter di luar formasi ASN.", "E": "Daftar vendor rekanan swasta berkaitan dengan pengadaan barang/jasa dan bukan kebutuhan SDM."}
+======================================================================
+NO 93 | HLM 20 | KUNCI D
+KW: ['mengumumkan secara terbuka kepada masyarakat', 'mempunyai kesempatan yang sama']
+Q: Prinsip kesetaraan kesempatan bagi seluruh WNI dalam pengadaan calon Pegawai ASN diwujudkan melalui kewajiban instansi untuk...
+  A: Merekrut pegawai baru melalui musyawarah tertutup pejabat
+  B: Membatasi pendaftaran hanya bagi kerabat aparatur aktif
+  C: Memprioritaskan lulusan dari satu almamater pimpinan dinas
+  D: Mengumumkan lowongan kebutuhan jabatan secara terbuka [KUNCI]
+  E: Menjual formulir pendaftaran melalui pihak ketiga swasta
+Konsep: Instansi Pemerintah wajib **mengumumkan secara terbuka kepada masyarakat** adanya kebutuhan jabatan agar setiap WNI memiliki **kesempatan yang sama** menjadi ASN.
+Alasan: Opsi D merupakan perwujudan transparansi publik dalam rekrutmen aparatur negara yang tepat. Keterbukaan informasi menjamin setiap warga negara yang memenuhi kualifikasi dapat mendaftar tanpa ada kuota tersembunyi. Undang-Undang Nomor 20 Tahun 2023 mewajibkan pengumuman secara terbuka kepada masyarakat. Oleh karena itu, opsi D merupakan jawaban yang tepat.
+Bedah: {"A": "Perekrutan tertutup melanggar prinsip transparansi dan rentan terhadap korupsi seleksi.", "B": "Membatasi pendaftar pada kerabat dinas merupakan pelanggaran berat nepotisme.", "C": "Afiliasi almamater kampus pimpinan dilarang dijadikan dasar diskriminasi pelamaran.", "E": "Seleksi aparatur negara berprinsip transparan, akuntabel, dan bebas pungutan komersial."}
+======================================================================
+NO 94 | HLM 20 | KUNCI A
+KW: ['pengadaan PNS dilakukan secara nasional', 'Jabatan Administrasi (khusus pada Jabatan Pelaksana)']
+Q: Jabatan administrasi dalam instansi pemerintah yang dapat diisi melalui seleksi pengadaan PNS secara nasional adalah...
+  A: Khusus pada kelompok Jabatan Pelaksana [KUNCI]
+  B: Seluruh posisi Jabatan Administrator eselon tiga
+  C: Posisi pimpinan Jabatan Pengawas kepala subbagian
+  D: Seluruh jenjang Jabatan Pimpinan Tinggi Pratama
+  E: Posisi pimpinan Jabatan Pimpinan Tinggi Utama
+Konsep: Jabatan administrasi yang dapat diisi melalui pengadaan PNS secara nasional adalah **khusus pada Jabatan Pelaksana**.
+Alasan: Opsi A merupakan batasan pengisian jalur seleksi CPNS formasi umum yang tepat. Formasi terbuka bagi pelamar baru umum pada rumpun administrasi hanya dialokasikan untuk tingkat pelaksana, sedangkan administrator dan pengawas diisi melalui mekanisme promosi karier internal. Ketentuan regulasi menegaskan khusus pada Jabatan Pelaksana. Dengan demikian, opsi A adalah pilihan yang benar.
+Bedah: {"B": "Jabatan administrator diisi melalui promosi atau mutasi PNS berpengalaman dan bukan CPNS baru.", "C": "Jabatan pengawas diisi melalui jenjang karier promosi pegawai yang telah memenuhi kualifikasi.", "D": "JPT Pratama diisi melalui seleksi terbuka (*open bidding*) bagi pejabat berpengalaman.", "E": "JPT Utama diangkat melalui penetapan presiden dari kalangan profesional berintegritas."}
+======================================================================
+NO 95 | HLM 20 | KUNCI C
+KW: ['Jabatan Fungsional Keahlian', 'Jabatan Fungsional Ahli Pertama dan Ahli Muda']
+Q: Jenjang Jabatan Fungsional Keahlian yang dapat diisi melalui seleksi pengadaan PNS secara nasional adalah...
+  A: Jabatan Fungsional Ahli Utama dan Ahli Madya
+  B: Jabatan Fungsional Penyelia dan Fungsional Mahir
+  C: Jabatan Fungsional Ahli Pertama dan Ahli Muda [KUNCI]
+  D: Jabatan Fungsional Terampil dan Fungsional Pemula
+  E: Jabatan Administrator Utama dan Penata Keahlian
+Konsep: Jabatan Fungsional Keahlian yang dapat diisi melalui pengadaan PNS secara nasional adalah **Jabatan Fungsional Ahli Pertama dan Ahli Muda**.
+Alasan: Opsi C merupakan jenjang masuk awal formasi fungsional keahlian yang tepat. Jalur CPNS memfasilitasi lulusan sarjana untuk menduduki jenjang Ahli Pertama serta lulusan pascasarjana/spesialis tertentu untuk Ahli Muda. Regulasi menegaskan formasi JF keahlian dibuka untuk Ahli Pertama dan Ahli Muda. Oleh karena itu, opsi C adalah jawaban yang benar.
+Bedah: {"A": "Ahli Utama dan Madya merupakan jenjang senior yang dicapai melalui kenaikan jenjang promosi.", "B": "Penyelia dan mahir merupakan tingkatan pada rumpun jabatan fungsional keterampilan.", "D": "Terampil dan pemula adalah klasifikasi formasi pada jabatan fungsional keterampilan.", "E": "Administrator merupakan jabatan manajerial dan bukan rumpun fungsional keahlian."}
+======================================================================
+NO 96 | HLM 20 | KUNCI E
+KW: ['Jabatan Fungsional Keterampilan', 'Jabatan Fungsional Pemula dan Terampil']
+Q: Jenjang Jabatan Fungsional Keterampilan yang dialokasikan dalam seleksi pengadaan PNS nasional adalah...
+  A: Jabatan Fungsional Penyelia dan Jabatan Mahir
+  B: Jabatan Fungsional Ahli Madya dan Ahli Utama
+  C: Jabatan Fungsional Ahli Muda dan Ahli Pertama
+  D: Jabatan Administrator dan Jabatan Pengawas Lini
+  E: Jabatan Fungsional Pemula dan Jabatan Terampil [KUNCI]
+Konsep: Jabatan Fungsional Keterampilan yang dapat diisi melalui pengadaan PNS secara nasional adalah **Jabatan Fungsional Pemula dan Terampil**.
+Alasan: Opsi E merupakan jenjang awal rekrutmen lulusan diploma dan vokasi kepegawaian yang tepat. Formasi awal terbuka bagi jenjang Pemula (kualifikasi menengah) dan Terampil (kualifikasi diploma). Ketentuan PP 11/2017 jo PP 17/2020 menyatakan formasi keterampilan nasional dialokasikan bagi Pemula dan Terampil. Dengan demikian, opsi E adalah pilihan yang tepat.
+Bedah: {"A": "Penyelia dan mahir adalah jenjang lanjutan yang diraih melalui kenaikan jabatan berkala.", "B": "Ahli madya dan utama merupakan strata kepakaran puncak jabatan fungsional keahlian.", "C": "Ahli muda dan pertama merupakan kategori pada rumpun fungsional keahlian bergelar sarjana.", "D": "Administrator dan pengawas merupakan kelompok jabatan manajerial operasional."}
+======================================================================
+NO 97 | HLM 20 | KUNCI B
+KW: ['Pengadaan PNS sebagaimana dimaksud dilakukan melalui tahapan', 'perencanaan, pengumuman lowongan, pelamaran, seleksi']
+Q: Secara kronologis berurutan, tahapan resmi dalam penyelenggaraan pengadaan PNS terdiri atas...
+  A: Pelamaran, masa percobaan, seleksi berkas, dan pengangkatan
+  B: Perencanaan, pengumuman, pelamaran, seleksi, hasil, percobaan, pengangkatan [KUNCI]
+  C: Pengumuman kelulusan, masa dinas, magang kerja, dan sumpah jabatan
+  D: Pelatihan dasar, seleksi kompetensi, wawancara direktur, dan SK dinas
+  E: Penetapan NIP, orientasi kerja, pelamaran, dan pembekalan materi tugas
+Konsep: Pengadaan PNS dilakukan melalui 7 tahapan resmi: **perencanaan**, **pengumuman lowongan**, **pelamaran**, **seleksi**, **pengumuman hasil seleksi**, **masa percobaan**, dan **pengangkatan menjadi PNS**.
+Alasan: Opsi B merupakan siklus alur rekrutmen aparatur negara yang lengkap dan urut secara kronologis. Alur ini dimulai dari penyiapan formasi nasional hingga pengangkatan definitif setelah menuntaskan masa percobaan satu tahun. Regulasi merinci ketujuh tahapan tersebut secara sistematis. Oleh karena itu, opsi B merupakan jawaban yang benar.
+Bedah: {"A": "Masa percobaan dijalani setelah pelamar dinyatakan lulus seleksi dan bukan sebelum seleksi.", "C": "Kelulusan diumumkan setelah seluruh rangkaian seleksi kompetensi rampung dievaluasi.", "D": "Pelatihan dasar CPNS diselenggarakan di dalam masa percobaan sebelum pengangkatan PNS.", "E": "Penetapan nomor induk pegawai (NIP) diproses setelah peserta lulus seleksi akhir."}
+======================================================================
+NO 98 | HLM 20 | KUNCI D
+KW: ['Penyelenggaraan seleksi sebagaimana dimaksud terdiri dari 3 (tiga) tahap', 'seleksi administrasi, seleksi kompetensi dasar, dan seleksi kompetensi bidang']
+Q: Tiga tahapan ujian seleksi pengadaan PNS yang wajib diselenggarakan secara objektif adalah...
+  A: Uji kebugaran jasmani, tes psikologi mendalam, dan wawancara ormas
+  B: Seleksi berkas keluarga, tes kepribadian dinas, dan portofolio kerja
+  C: Tes bahasa asing, ujian kepemimpinan regu, dan verifikasi keuangan
+  D: Seleksi administrasi, seleksi kompetensi dasar, dan seleksi kompetensi bidang [KUNCI]
+  E: Seleksi kesehatan umum, wawancara pejabat daerah, dan uji bakat seni
+Konsep: Penyelenggaraan seleksi pengadaan PNS terdiri dari 3 (tiga) tahap objektif: **seleksi administrasi**, **seleksi kompetensi dasar (SKD)**, dan **seleksi kompetensi bidang (SKB)**.
+Alasan: Opsi D merupakan tiga tahapan filtrasi baku penerimaan CPNS nasional yang tepat. Ketiga tahap ini menguji keabsahan berkas legal pelamar, kemampuan dasar wawasan kebangsaan/intelegensia, serta penguasaan bidang teknis jabatan. Aturan perundangan merinci seleksi terdiri atas seleksi administrasi, SKD, dan SKB. Dengan demikian, opsi D adalah pilihan yang tepat.
+Bedah: {"A": "Wawancara ormas dilarang keras dan melanggar prinsip netralitas seleksi aparatur sipil.", "B": "Latar belakang berkas keluarga bukan bagian dari penilaian kompetensi objektif calon pegawai.", "C": "Verifikasi keuangan privat tidak menjadi tahapan seleksi pengadaan CPNS formasi umum.", "E": "Uji bakat kesenian bukan bagian dari tiga tahapan utama pengadaan aparatur nasional."}
+======================================================================
+NO 99 | HLM 20 | KUNCI A
+KW: ['Seleksi administrasi dalam tahap ini adalah untuk mencocokkan', 'persyaratan administrasi dengan dokumen pelamaran']
+Q: Fungsi utama dari penyelenggaraan tahap seleksi administrasi dalam pengadaan PNS adalah...
+  A: Mencocokkan persyaratan administrasi dengan dokumen pelamar [KUNCI]
+  B: Mengukur tingkat kecerdasan intelegensia dan logika abstrak
+  C: Menilai penguasaan substansi teknis spesialisasi jabatan
+  D: Menguji kemampuan fisik lari ketahanan di lapangan terbuka
+  E: Menentukan besaran gaji pokok yang akan diterima pegawai
+Konsep: Tujuan **seleksi administrasi** adalah untuk **mencocokkan antara persyaratan administrasi dengan dokumen pelamaran yang disampaikan oleh pelamar**.
+Alasan: Opsi A mendefinisikan esensi seleksi administrasi secara tepat dan lugas. Tim verifikator memeriksa keabsahan ijazah, transkrip, surat lamaran, dan syarat formal agar pelamar memenuhi kriteria minimum formasi. Ketentuan regulasi menegaskan fungsi mencocokkan persyaratan dengan dokumen pelamaran. Oleh karena itu, opsi A merupakan jawaban yang benar.
+Bedah: {"B": "Pengukuran kecerdasan intelegensia umum merupakan fungsi dari seleksi kompetensi dasar (SKD).", "C": "Penilaian penguasaan spesialisasi teknis merupakan fungsi seleksi kompetensi bidang (SKB).", "D": "Uji ketahanan fisik hanya dilakukan pada formasi khusus seperti penjaga tahanan/kesamaptaan.", "E": "Besaran gaji pokok ditentukan oleh skala golongan ruang pangkat sesuai regulasi pemerintah."}
+======================================================================
+NO 100 | HLM 20 | KUNCI C
+KW: ['penilaian secara objektif berdasarkan kompetensi, kualifikasi', 'kebutuhan jabatan untuk diisi dari calon Pegawai ASN']
+Q: Penyelenggaraan seleksi pengadaan PNS wajib dilakukan secara objektif dengan menitikberatkan penilaian pada...
+  A: Besaran kontribusi finansial yang disetorkan pelamar
+  B: Afiliasi politik orang tua dan asal partai pendukung
+  C: Kompetensi, kualifikasi, dan persyaratan jabatan [KUNCI]
+  D: Tingkat kedekatan hubungan keluarga dengan panitia seleksi
+  E: Rekomendasi dari tokoh masyarakat dan pejabat daerah
+Konsep: Penyelenggaraan seleksi pengadaan PNS wajib dilakukan melalui **penilaian secara objektif berdasarkan kompetensi, kualifikasi, dan persyaratan lain yang dibutuhkan oleh jabatan**.
+Alasan: Opsi C merupakan pilar objektivitas meritokrasi pengadaan aparatur sipil negara yang tepat. Seleksi yang transparan menjaring talenta unggul yang benar-benar kompeten tanpa celah kecurangan atau intervensi nepotisme. Aturan undang-undang menetapkan penilaian berbasis kompetensi, kualifikasi, dan persyaratan jabatan. Dengan demikian, opsi C adalah pilihan yang tepat.
+Bedah: {"A": "Penyetoran uang dalam seleksi merupakan tindak pidana suap dan gratifikasi terlarang.", "B": "Afiliasi politik keluarga bertentangan dengan asas netralitas aparatur sipil negara.", "D": "Kedekatan kekerabatan dengan panitia melanggar larangan konflik kepentingan birokrasi.", "E": "Surat rekomendasi informal tidak diakui dan dilarang memengaruhi sistem skor seleksi."}
+======================================================================

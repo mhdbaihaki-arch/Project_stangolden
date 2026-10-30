@@ -1793,28 +1793,28 @@
       "nomor": 60,
       "halaman_sumber": 37,
       "kata_kunci_modul": [
-        "dari Jabatan pada Unit non Eselon",
-        "yang dianggap setingkat"
+        "semi horizontal",
+        "unit non Eselon"
       ],
       "topik_materi": "Mutasi Antar-Unit Non-Eselon Setingkat",
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Perpindahan penugasan PNS Kemenkeu dari satu unit non-eselon ke posisi pada unit non-eselon lainnya yang dianggap setingkat tergolong ke dalam...",
       "pilihan": {
-        "A": "Pola karier semi vertikal akselerasi pimpinan",
-        "B": "Pola karier promosi terbuka tingkat nasional",
-        "C": "Pola karier diagonal lintas rumpun kementerian",
+        "A": "Pola mutasi vertikal promosi penjenjangan karier",
+        "B": "Pola penugasan lintas instansi kementerian lembaga",
+        "C": "Pola pengembangan kompetensi berbasis penugasan khusus",
         "D": "Pola karier semi horizontal di lingkungan Kemenkeu",
-        "E": "Pola mutasi penundaan kenaikan pangkat reguler"
+        "E": "Pola pergeseran diagonal antar kelompok keahlian"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
-        "konsep_materi": "Perpindahan **dari Jabatan pada Unit non Eselon ke posisi Jabatan pada Unit non Eselon lainnya yang dianggap setingkat** merupakan butir variasi dari **pola karier semi horizontal**.",
-        "alasan_kunci": "Opsi D merupakan mobilitas mendatar antar-lembaga non-eselon (misalnya dari manajer di BLU kelapa sawit ke manajer di BLU pendidikan). Karena posisinya setara dan berada di ranah non-eselon, pergerakannya masuk ke dalam skema semi horizontal. Aturan menetapkan kategorinya sebagai semi horizontal. Oleh karena itu, opsi D adalah jawaban yang tepat.",
+        "konsep_materi": "Perpindahan tugas dari jabatan pada unit non-eselon ke posisi jabatan pada unit non-eselon lainnya yang dianggap setingkat dikategorikan sebagai **pola karier semi horizontal** di lingkungan Kemenkeu.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Pola karier internal Kemenkeu mengakomodasi penugasan fleksibel antar-unit pelaksana teknis non-eselon. Pergeseran antar-posisi yang setingkat pada rumpun unit non-eselon tersebut dirumuskan sebagai pola karier semi horizontal.",
         "bedah_pengecoh": {
-          "A": "Merupakan pola semi vertikal yang menuntut adanya kenaikan bobot jenjang.",
-          "B": "Merupakan lelang seleksi JPT terbuka dan bukan rotasi antarnon-eselon.",
-          "C": "Merupakan pola diagonal yang melibatkan loncatan ke level lebih tinggi.",
-          "E": "Merupakan sanksi administratif kepegawaian di luar pola pengembangan karier."
+          "A": "Pola vertikal mensyaratkan perpindahan ke jenjang jabatan lebih tinggi.",
+          "B": "Penugasan lintas instansi merujuk mutasi ke luar Kementerian Keuangan.",
+          "C": "Pengembangan kompetensi berfokus pada pelatihan dan magang kedinasan.",
+          "E": "Pola diagonal melibatkan pergeseran antar-kelompok jabatan berbeda."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -1883,28 +1883,28 @@
       "nomor": 63,
       "halaman_sumber": 38,
       "kata_kunci_modul": [
-        "Kenaikan Pangkat Reguler diberikan kepada PNS yang",
-        "Setiap unsur DP3/PPKP dua tahun terakhir bernilai baik"
+        "Kenaikan Pangkat Reguler diberikan kepada PNS",
+        "dua tahun terakhir bernilai baik"
       ],
       "topik_materi": "Syarat Penilaian Kinerja Kenaikan Reguler",
       "level_kognitif": "C2 - Pemahaman",
-      "pertanyaan": "Persyaratan nilai prestasi kerja (PPKP) yang wajib dipenuhi oleh PNS untuk usulan kenaikan pangkat reguler adalah...",
+      "pertanyaan": "Persyaratan nilai prestasi kerja yang wajib dipenuhi oleh PNS untuk usulan kenaikan pangkat reguler adalah...",
       "pilihan": {
         "A": "Setiap unsur bernilai baik dalam dua tahun terakhir",
-        "B": "Cukup bernilai cukup dalam satu semester dinas",
-        "C": "Bernilai amat baik selama sepuluh tahun berturut-turut",
-        "D": "Bebas dari segala kewajiban penilaian kinerja atasan",
-        "E": "Memiliki surat dispensasi khusus dari bendahara kantor"
+        "B": "Memperoleh predikat sangat baik pada semester berjalan",
+        "C": "Nilai rata-rata prestasi kerja minimal berpredikat cukup",
+        "D": "Memiliki rekomendasi bebas temuan dari inspektorat jenderal",
+        "E": "Telah mempublikasikan karya tulis ilmiah terindeks nasional"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
-        "konsep_materi": "Kenaikan Pangkat Reguler mensyaratkan bahwa **setiap unsur DP3/PPKP dua tahun terakhir bernilai baik** secara konsisten.",
-        "alasan_kunci": "Opsi A merupakan jaminan bahwa kenaikan berkala tetap menuntut kinerja memadai dan perilaku positif. Penilaian baik selama dua tahun membuktikan pegawai tidak melakukan pelanggaran disiplin dan menuntaskan sasaran kerjanya. Aturan menetapkan syaratnya bernilai baik dalam dua tahun terakhir. Dengan demikian, opsi A adalah pilihan yang tepat.",
+        "konsep_materi": "Syarat Kenaikan Pangkat Reguler antara lain menetapkan bahwa **setiap unsur penilaian prestasi kerja bernilai baik dalam 2 (dua) tahun terakhir**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Berdasarkan regulasi kenaikan pangkat reguler PNS, rekam jejak capaian kinerja selama 2 tahun berturut-turut wajib berada pada kategori minimal 'baik' pada setiap unsurnya. Kriteria ini membuktikan konsistensi dedikasi pegawai yang bersangkutan.",
         "bedah_pengecoh": {
-          "B": "Merupakan nilai cukup yang tidak memenuhi ambang minimal kenaikan pangkat.",
-          "C": "Merupakan syarat amat baik sepuluh tahun yang berlebih dan tidak proporsional.",
-          "D": "Merupakan pengabaian sistem penilaian kinerja yang melanggar meritokrasi.",
-          "E": "Merupakan surat dispensasi ilegal yang tidak diakui Badan Kepegawaian Negara."
+          "B": "Predikat sangat baik semester berjalan tidak menghapus syarat dua tahun.",
+          "C": "Nilai berpredikat cukup tidak memenuhi syarat kenaikan pangkat reguler.",
+          "D": "Rekomendasi inspektorat adalah dokumen pengawasan bukan syarat berkas reguler.",
+          "E": "Karya tulis ilmiah adalah syarat kenaikan jenjang jabatan fungsional."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -2063,28 +2063,28 @@
       "nomor": 69,
       "halaman_sumber": 39,
       "kata_kunci_modul": [
-        "bernilai baik",
-        "sedang atau berat"
+        "tidak pernah dijatuhi hukuman disiplin sedang atau berat",
+        "PPKP bernilai baik"
       ],
       "topik_materi": "Syarat Disiplin Kenaikan Pangkat Pengabdian",
       "level_kognitif": "C4 - Analisis",
       "pertanyaan": "Syarat integritas dan kedisiplinan yang mutlak wajib dipenuhi untuk penetapan Kenaikan Pangkat Pengabdian adalah...",
       "pilihan": {
         "A": "Pernah dijatuhi sanksi disiplin berat namun telah dimaafkan",
-        "B": "Memiliki catatan penundaan kenaikan gaji berkala dua kali",
+        "B": "Mendapat teguran tertulis berulang dalam masa dinas kerja",
         "C": "Tidak dijatuhi sanksi disiplin sedang/berat satu tahun terakhir",
         "D": "Memiliki izin tertulis menjadi konsultan pada perusahaan swasta",
         "E": "Mendapat rekomendasi pengampunan dari majelis etik instansi"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Syarat integritas Kenaikan Pangkat Pengabdian adalah PPKP bernilai baik dalam 1 tahun terakhir dan **tidak pernah dijatuhi hukuman disiplin sedang atau berat dalam 1 tahun terakhir**.",
-        "alasan_kunci": "Opsi C merupakan saringan kehormatan agar pangkat pengabdian benar-benar menjadi mahkota bagi pegawai yang setia dan taat aturan hingga akhir hayat kedinasannya. Hukuman disiplin sedang atau berat dalam satu tahun terakhir secara otomatis menggugurkan usulan kenaikan pengabdian. Aturan menyatakan syaratnya tidak pernah dijatuhi hukuman disiplin sedang/berat dalam 1 tahun terakhir. Dengan demikian, opsi C adalah jawaban yang tepat.",
+        "konsep_materi": "Salah satu syarat mutlak penetapan Kenaikan Pangkat Pengabdian adalah **tidak pernah dijatuhi hukuman disiplin sedang atau berat dalam 1 (satu) tahun terakhir** menjelang pensiun.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Kenaikan pangkat pengabdian merupakan penghargaan pamungkas negara bagi aparatur yang memasuki masa purna tugas. Syarat rekam jejak bersih dari hukuman disiplin tingkat sedang maupun berat selama setahun terakhir mutlak dipenuhi.",
         "bedah_pengecoh": {
-          "A": "Merupakan hukuman berat yang membatalkan kelayakan pangkat pengabdian.",
-          "B": "Merupakan sanksi disiplin sedang yang menggugurkan hak kenaikan pengabdian.",
-          "D": "Merupakan benturan kepentingan bisnis yang dilarang bagi aparatur aktif.",
-          "E": "Merupakan rekomendasi pengampunan yang tidak menghapus catatan rekam disiplin."
+          "A": "Riwayat hukuman disiplin berat menggugurkan hak kenaikan pengabdian.",
+          "B": "Teguran berulang mencerminkan catatan disiplin yang kurang terpuji.",
+          "D": "PNS dilarang menjadi konsultan swasta tanpa penugasan kedinasan resmi.",
+          "E": "Rekomendasi majelis etik tidak dapat menganulir syarat yuridis modul."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }

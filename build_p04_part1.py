@@ -1,0 +1,174 @@
+# Overhaul dictionary builder for Paket 04
+# Contains full overhaul data for Paket 04 questions
+import json
+
+updates = {}
+
+# Halaman 35: No 1 - 7
+updates[1] = {
+    "halaman_sumber": 35,
+    "kata_kunci_modul": ["Memberdayakan Unit Kepatuhan Internal", "pengendalian intern"],
+    "topik_materi": "Pemberdayaan Unit Kepatuhan Internal",
+    "level_kognitif": "C2 - Pemahaman",
+    "pertanyaan": "Peran penting pimpinan unit dalam pengawasan intern diwujudkan melalui pemberdayaan UKI untuk...",
+    "pilihan": {
+        "A": "Meningkatkan efektivitas tata kelola, manajemen risiko, dan pengendalian",
+        "B": "Menyusun pembukuan keuangan serta penatausahaan aset secara mandiri",
+        "C": "Menetapkan standar kompetensi teknis bagi seluruh pejabat fungsional",
+        "D": "Mengelola administrasi persuratan dan kearsipan pada sekretariat unit",
+        "E": "Melakukan evaluasi berkala terhadap serapan anggaran belanja kantor"
+    },
+    "kunci_jawaban": "A",
+    "pembahasan": {
+        "konsep_materi": "Pimpinan unit wajib **memberdayakan Unit Kepatuhan Internal** guna **meningkatkan efektivitas tata kelola, manajemen risiko, dan pengendalian intern**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat mengenai sasaran pemberdayaan UKI di lingkungan kementerian. Keberadaan UKI sebagai lini pertahanan kedua bertujuan memastikan sistem pengendalian internal dan manajemen risiko berjalan optimal demi tercapainya tata kelola yang baik. Ketentuan pengawasan intern secara eksplisit mengamanatkan peningkatan tata kelola, manajemen risiko, dan pengendalian intern. Dengan demikian, opsi A adalah rumusan fungsi yang benar.",
+        "bedah_pengecoh": {
+            "B": "Merupakan tugas teknis fungsi perbendaharaan dan pengelola barang milik negara.",
+            "C": "Merupakan wewenang unit pengelola kepegawaian dan pengembangan sumber daya manusia.",
+            "D": "Merupakan fungsi bagian umum atau tata usaha perkantoran pada sekretariat.",
+            "E": "Merupakan tugas bagian perencanaan dan evaluasi anggaran satuan kerja."
+        },
+        "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
+    }
+}
+
+updates[2] = {
+    "halaman_sumber": 35,
+    "kata_kunci_modul": ["Membangun hubungan kemitraan yang konstruktif", "Inspektorat Jenderal"],
+    "topik_materi": "Kemitraan Konstruktif dengan Inspektorat Jenderal",
+    "level_kognitif": "C2 - Pemahaman",
+    "pertanyaan": "Dalam rangka pelaksanaan pengawasan intern, pimpinan unit kerja diinstruksikan untuk membangun...",
+    "pilihan": {
+        "A": "Sistem pelaporan kinerja berbasis aplikasi mandiri tingkat satker",
+        "B": "Hubungan kemitraan yang konstruktif dengan Inspektorat Jenderal",
+        "C": "Forum koordinasi berkala dengan aparat penegak hukum setempat",
+        "D": "Mekanisme pengaduan masyarakat yang terpisah dari sistem kementerian",
+        "E": "Kerangka kerja sama pengawasan dengan lembaga swadaya masyarakat"
+    },
+    "kunci_jawaban": "B",
+    "pembahasan": {
+        "konsep_materi": "Pimpinan unit kerja wajib **membangun hubungan kemitraan yang konstruktif dengan Inspektorat Jenderal** dalam pelaksanaan pengawasan intern.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat mengenai sinergi pengawasan di lingkungan kementerian. Hubungan yang harmonis dan terbuka antara unit kerja dengan aparat pengawasan intern pemerintah memperkuat deteksi dini penyimpangan serta mendorong perbaikan tata kelola. Himbauan kedinasan menetapkan keharusan membangun kemitraan konstruktif dengan Inspektorat Jenderal. Oleh sebab itu, opsi B adalah langkah yang tepat.",
+        "bedah_pengecoh": {
+            "A": "Merupakan inisiatif sistem teknologi informasi lokal yang bukan fokus pengawasan intern.",
+            "C": "Merupakan hubungan koordinasi eksternal penegakan hukum di luar fungsi Itjen.",
+            "D": "Merupakan saluran aduan tersendiri yang bertentangan dengan sentralisasi saluran pengaduan kementerian.",
+            "E": "Merupakan pelibatan pihak luar yang tidak termasuk dalam skema pengawasan intern kedinasan."
+        },
+        "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
+    }
+}
+
+updates[3] = {
+    "halaman_sumber": 35,
+    "kata_kunci_modul": ["Menginternalisasi Nilai-Nilai Kementerian Keuangan", "penegakan kode etik dan disiplin"],
+    "topik_materi": "Internalisasi Nilai dan Penegakan Disiplin",
+    "level_kognitif": "C3 - Aplikasi",
+    "pertanyaan": "Langkah preventif yang wajib dilaksanakan pimpinan unit guna menekan potensi pelanggaran pegawai adalah...",
+    "pilihan": {
+        "A": "Mengadakan rotasi berkala seluruh staf pelaksana antar-seksi kantor",
+        "B": "Menyelenggarakan bimbingan teknis penyusunan lembar sasaran kinerja",
+        "C": "Menginternalisasi nilai kementerian serta penegakan kode etik disiplin",
+        "D": "Menerapkan jam kerja tambahan secara terjadwal pada triwulan akhir",
+        "E": "Memperketat verifikasi administrasi pengajuan lembur dan uang makan"
+    },
+    "kunci_jawaban": "C",
+    "pembahasan": {
+        "konsep_materi": "Pimpinan unit wajib **menginternalisasi Nilai-Nilai Kementerian Keuangan dan ketentuan-ketentuan yang berhubungan dengan penegakan kode etik dan disiplin** kepada seluruh pegawai.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat mengenai strategi pencegahan pelanggaran moral aparatur. Penanaman nilai dan pemahaman kode etik secara berkelanjutan membentuk benteng moral pegawai sehingga terhindar dari perilaku koruptif maupun pelanggaran disiplin. Panduan kedinasan menginstruksikan internalisasi nilai dan ketentuan kode etik disiplin kepada seluruh jajaran. Maka dari itu, opsi C adalah tindakan pencegahan yang benar.",
+        "bedah_pengecoh": {
+            "A": "Merupakan kebijakan manajemen pola mutasi internal untuk penyegaran tugas kedinasan.",
+            "B": "Merupakan pelatihan manajerial untuk peningkatan pemahaman indikator kinerja pegawai.",
+            "D": "Merupakan penyesuaian beban operasional kantor saat batas waktu anggaran mendekat.",
+            "E": "Merupakan fungsi pengendalian administratif keuangan satuan kerja terkait belanja pegawai."
+        },
+        "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
+    }
+}
+
+updates[4] = {
+    "halaman_sumber": 35,
+    "kata_kunci_modul": ["meningkatkan disiplin dan mencegah terjadinya potensi-potensi perbuatan yang", "pelanggaran disiplin dan pelanggaran hukum"],
+    "topik_materi": "Relevansi Peningkatan Disiplin Pegawai",
+    "level_kognitif": "C2 - Pemahaman",
+    "pertanyaan": "Himbauan peningkatan penerapan nilai kementerian menjadi sangat relevan terutama untuk meningkatkan disiplin serta...",
+    "pilihan": {
+        "A": "Menstandarisasi alur disposisi naskah dinas elektronik kementerian",
+        "B": "Mengukur capaian target penerimaan kas negara pada triwulan berjalan",
+        "C": "Memperluas jejaring kemitraan fiskal dengan instansi pemerintah daerah",
+        "D": "Mencegah terjadinya potensi perbuatan pelanggaran disiplin dan hukum",
+        "E": "Mengoptimalkan pemanfaatan fasilitas sarana dan prasarana perkantoran"
+    },
+    "kunci_jawaban": "D",
+    "pembahasan": {
+        "konsep_materi": "Penggiatan penerapan nilai dan etika ditujukan untuk **meningkatkan disiplin dan mencegah terjadinya potensi-potensi perbuatan yang dapat mengarah pada pelanggaran disiplin dan pelanggaran hukum**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat mengenai latar belakang penggiatan disiplin kementerian. Nilai luhur organisasi berfungsi sebagai rambu-rambu pencegahan dini dari segala bentuk perbuatan tercela yang berpotensi merusak reputasi institusi dan melanggar hukum. Dalam arahan kedinasan ditegaskan pentingnya pencegahan potensi pelanggaran disiplin dan hukum. Oleh karena itu, opsi D adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+            "A": "Merupakan tata kelola administrasi surat-menyurat kedinasan berbasis sistem otomasi.",
+            "B": "Merupakan indikator target fiskal kuantitatif pada direktorat teknis penerimaan.",
+            "C": "Merupakan fungsi koordinasi hubungan kelembagaan antar-tingkat pemerintahan.",
+            "E": "Merupakan pemeliharaan aset fisik kantor yang diatur dalam manajemen sarana prasarana."
+        },
+        "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
+    }
+}
+
+updates[5] = {
+    "halaman_sumber": 35,
+    "kata_kunci_modul": ["menjamin terpeliharanya tata tertib dalam kelancaran", "pelaksanaan tugas dan fungsi seluruh pegawai"],
+    "topik_materi": "Tujuan Penerapan Nilai dan Kode Etik",
+    "level_kognitif": "C2 - Pemahaman",
+    "pertanyaan": "Penggiatan penerapan Nilai Kementerian Keuangan ditujukan untuk menjamin terpeliharanya tata tertib dalam...",
+    "pilihan": {
+        "A": "Penyelenggaraan audit operasional perbendaharaan daerah",
+        "B": "Penyusunan standar biaya masukan kementerian lembaga",
+        "C": "Penetapan rencana penarikan dana harian kantor satker",
+        "D": "Pengelolaan data base kepegawaian aparatur sipil negara",
+        "E": "Kelancaran pelaksanaan tugas dan fungsi seluruh pegawai"
+    },
+    "kunci_jawaban": "E",
+    "pembahasan": {
+        "konsep_materi": "Penerapan nilai dan kode etik ditujukan untuk **menjamin terpeliharanya tata tertib dalam kelancaran pelaksanaan tugas dan fungsi seluruh pegawai Kementerian Keuangan tanpa terkecuali**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat tentang muara dari ketertiban perilaku kerja aparatur. Ketertiban internal yang terpelihara secara konsisten menjamin iklim kerja yang kondusif sehingga seluruh tugas dan fungsi kementerian dapat terselenggara secara lancar dan bermutu. Penjelasan resmi modul menyatakan tujuannya adalah kelancaran pelaksanaan tugas dan fungsi seluruh pegawai. Dengan demikian, opsi E adalah rumusan yang benar.",
+        "bedah_pengecoh": {
+            "A": "Merupakan tugas teknis pemeriksaan keuangan pada kantor perwakilan perbendaharaan.",
+            "B": "Merupakan ranah penyusunan regulasi anggaran belanja negara di tingkat kementerian.",
+            "C": "Merupakan perencanaan kas jangka pendek yang disusun oleh pejabat pembuat komitmen.",
+            "D": "Merupakan pengelolaan data kepegawaian pada Biro Sumber Daya Manusia aparatur."
+        },
+        "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
+    }
+}
+
+updates[7] = {
+    "halaman_sumber": 35,
+    "kata_kunci_modul": ["menjaga martabat dan", "kehormatan Pegawai Negeri Sipil di lingkungan Kementerian Keuangan"],
+    "topik_materi": "Tujuan Penerbitan PMK 190/PMK.01/2018",
+    "level_kognitif": "C2 - Pemahaman",
+    "pertanyaan": "Selain mencegah pelanggaran disiplin, tujuan utama penerbitan PMK Nomor 190/PMK.01/2018 adalah...",
+    "pilihan": {
+        "A": "Mengatur tata cara pemberian sanksi administratif kepegawaian",
+        "B": "Menjaga martabat dan kehormatan Pegawai Negeri Sipil kementerian",
+        "C": "Menetapkan standar minimum fasilitas ruang konsultasi aparatur",
+        "D": "Memperluas jejaring kemitraan kerja sama internasional fiskal",
+        "E": "Merumuskan indikator keberhasilan audit kepatuhan perbendaharaan"
+    },
+    "kunci_jawaban": "B",
+    "pembahasan": {
+        "konsep_materi": "PMK Nomor 190/PMK.01/2018 ditujukan untuk mencegah pelanggaran disiplin serta **menjaga martabat dan kehormatan Pegawai Negeri Sipil di lingkungan Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat mengenai tujuan pokok regulasi kode etik kementerian. Kehormatan dan martabat korps PNS merupakan aset integritas yang sangat berharga dalam mempertahankan kepercayaan publik terhadap birokrasi keuangan negara. Regulasi terkait menegaskan tujuan menjaga martabat dan kehormatan Pegawai Negeri Sipil. Oleh karena itu, opsi B adalah jawaban yang benar.",
+        "bedah_pengecoh": {
+            "A": "Merupakan materi regulasi hukum disiplin PNS umum pada Peraturan Pemerintah terkait.",
+            "C": "Merupakan standarisasi sarana prasarana fisik kantor pada unit pendukung.",
+            "D": "Merupakan kerangka kerja sama luar negeri pada bidang diplomasi ekonomi fiskal.",
+            "E": "Merupakan instrumen pengawasan internal pada unit inspektorat bidang perbendaharaan."
+        },
+        "sumber_rujukan": "Nilai-Nilai Kementerian Keuangan"
+    }
+}
+
+# Write builder part 1
+with open('p04_updates_part1.json', 'w', encoding='utf-8') as f:
+    json.dump(updates, f, ensure_ascii=False, indent=2)
+
+print("Saved part 1 (Hlm 35: Q1-Q7)")

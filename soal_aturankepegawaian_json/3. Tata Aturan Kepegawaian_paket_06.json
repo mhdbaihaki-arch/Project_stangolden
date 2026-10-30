@@ -165,8 +165,8 @@
       "nomor": 6,
       "halaman_sumber": 62,
       "kata_kunci_modul": [
-        "Cuti bersalin yang digunakan oleh CPNS wanita",
-        "mengurangi hak cuti persalinan setelah"
+        "mengurangi hak cuti persalinan",
+        "CPNS wanita untuk persalinan anaknya yang pertama"
       ],
       "topik_materi": "Ketentuan Cuti Bersalin bagi CPNS Wanita",
       "level_kognitif": "C2 - Pemahaman",
@@ -175,18 +175,18 @@
         "A": "Menghapuskan hak cuti tahunan selama tiga tahun",
         "B": "Membatalkan pengangkatan resmi menjadi PNS penuh",
         "C": "Mengurangi hak cuti persalinan setelah menjadi PNS",
-        "D": "Menunda kenaikan pangkat pertama selama dua tahun",
+        "D": "Menangguhkan penerbitan kartu identitas pegawai resmi",
         "E": "Menghentikan seluruh tunjangan melekat CPNS"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Cuti bersalin yang digunakan oleh CPNS wanita untuk anak pertama **mengurangi hak cuti persalinan setelah yang bersangkutan menjadi PNS**.",
-        "alasan_kunci": "Opsi C tepat karena penggunaan hak cuti saat masa CPNS diperhitungkan langsung ke dalam kuota persalinan setelah diangkat PNS. Ketentuan ini mencegah penggandaan hak cuti bersalin untuk anak yang sama. Oleh sebab itu, opsi A benar.",
+        "konsep_materi": "Cuti bersalin yang digunakan oleh CPNS wanita untuk persalinan anak pertama **mengurangi hak cuti bersalin setelah yang bersangkutan diangkat menjadi PNS**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Berdasarkan regulasi teknis cuti ASN, CPNS wanita berhak atas cuti bersalin untuk anak pertama, namun pemanfaatan hak tersebut diperhitungkan secara kumulatif sehingga mengurangi jatah cuti bersalin yang berhak diambil setelah resmi diangkat sebagai PNS.",
         "bedah_pengecoh": {
-          "A": "Penggunaan cuti bersalin tidak menghapuskan hak cuti tahunan selama 3 tahun ke depan.",
-          "B": "Cuti bersalin merupakan hak yang sah dan tidak membatalkan kelulusan atau pengangkatan CPNS.",
-          "D": "Tidak ada sanksi penundaan kenaikan pangkat akibat penggunaan hak cuti melahirkan.",
-          "E": "Tunjangan yang sah tetap dibayarkan sesuai ketentuan perundang-undangan."
+          "A": "Cuti bersalin tidak berdampak pada gugurnya hak cuti tahunan tiga tahun.",
+          "B": "Pengambilan cuti bersalin tidak membatalkan proses pengangkatan PNS.",
+          "D": "Penerbitan kartu identitas aparatur tetap diproses sesuai mekanisme resmi.",
+          "E": "Tunjangan yang melekat pada status CPNS tetap dibayarkan sesuai haknya."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }
@@ -1365,8 +1365,7 @@
       "nomor": 46,
       "halaman_sumber": 66,
       "kata_kunci_modul": [
-        "Keputusan Presiden Republik Indonesia Nomor 56 Tahun 1974",
-        "Kesejahteraan Pegawai Negeri Sipil"
+        "Keputusan Presiden Republik Indonesia Nomor 56 Tahun 1974"
       ],
       "topik_materi": "Dasar Hukum Iuran Kesejahteraan PNS",
       "level_kognitif": "C2 - Pemahaman",
@@ -1375,18 +1374,18 @@
         "A": "Peraturan Pemerintah Nomor 11 Tahun 2017",
         "B": "Instruksi Presiden Nomor 10 Tahun 1980",
         "C": "Keputusan Presiden Nomor 56 Tahun 1974",
-        "D": "Undang-Undang Nomor 5 Tahun 2014",
+        "D": "Undang-Undang Nomor 17 Tahun 2003",
         "E": "Peraturan Menteri Keuangan Nomor 216 Tahun 2018"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
-        "konsep_materi": "Dasar hukum iuran kesejahteraan PNS adalah **Keputusan Presiden Republik Indonesia Nomor 56 Tahun 1974** tentang Pembagian, Penggunaan, Cara Pemotongan, Penyetoran, dan Besarnya Iuran-iuran.",
-        "alasan_kunci": "Opsi C tepat karena Keppres 56/1974 merupakan payung hukum otentik pengaturan pungutan iuran kesejahteraan aparatur negara. Oleh sebab itu, opsi A benar.",
+        "konsep_materi": "Dasar hukum iuran kesejahteraan PNS adalah **Keputusan Presiden Republik Indonesia Nomor 56 Tahun 1974** tentang Pembagian, Penggunaan, Cara Pemotongan dan Penyetoran Iuran-Iuran.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Keppres Nomor 56 Tahun 1974 menjadi payung hukum historis yang sah dan masih berlaku dalam tata kelola pemotongan iuran wajib pegawai untuk program kesejahteraan, jaminan kesehatan, dan dana pensiun di birokrasi Indonesia.",
         "bedah_pengecoh": {
-          "A": "PP 11/2017 mengatur Manajemen Pegawai Negeri Sipil secara umum.",
-          "B": "Inpres 10/1980 bukan regulasi pemotongan iuran kesejahteraan pegawai.",
-          "D": "UU 5/2014 adalah undang-undang aparatur sipil negara secara makro.",
-          "E": "PMK 216/2018 mengatur manajemen pengembangan SDM di Kementerian Keuangan."
+          "A": "PP 11/2017 mengatur manajemen pembinaan dan karier pegawai negeri.",
+          "B": "Inpres 10/1980 bukan instrumen yang mengatur pemotongan iuran PNS.",
+          "D": "UU 17/2003 mengatur asas umum pengelolaan dan pertanggungjawaban keuangan.",
+          "E": "PMK 216/2018 mengatur mekanisme akuntansi dan pelaporan piutang satker."
         },
         "sumber_rujukan": "Tata Aturan Kepegawaian"
       }

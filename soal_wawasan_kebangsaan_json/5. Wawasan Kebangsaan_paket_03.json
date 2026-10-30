@@ -1,0 +1,3015 @@
+{
+  "paket_nomor": 3,
+  "dokumen_sumber": "5. Wawasan Kebangsaan.pdf",
+  "rentang_halaman": "Halaman 26 s/d Halaman 35",
+  "jumlah_soal": 100,
+  "distribusi_kunci": {
+    "B": 20,
+    "E": 20,
+    "A": 20,
+    "C": 20,
+    "D": 20
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "Pada tanggal 9 Agustus 1945",
+        "Genderal Besar Terauchi di Dalath"
+      ],
+      "topik_materi": "Pemanggilan Tokoh Bangsa ke Dalath",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Panglima militer Jepang yang memanggil tiga tokoh bangsa ke Dalath pada 9 Agustus 1945 adalah...",
+      "pilihan": {
+        "A": "Laksamana Tadashi Maeda di pangkalan Batavia",
+        "B": "Jenderal Besar Terauchi di markas Dalath",
+        "C": "Letnan Jenderal Kumakichi Harada di Jawa",
+        "D": "Mayor Jenderal Seisaburo Okasaki di Bandung",
+        "E": "Marsekal Hitoshi Imamura di markas Asia Tenggara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pada **9 Agustus 1945**, tiga tokoh bangsa dipanggil oleh **Jenderal Besar Terauchi** ke **Dalath**, Vietnam.",
+        "alasan_kunci": "Opsi B tepat karena Jenderal Besar Terauchi merupakan panglima tentara Jepang wilayah selatan yang memanggil delegasi Indonesia ke Dalath. Pemanggilan tersebut bertujuan menyampaikan persetujuan kemerdekaan yang diserahkan pelaksanaannya kepada PPKI. Fakta sejarah ini menjadi tonggak krusial menjelang proklamasi kemerdekaan.",
+        "bedah_pengecoh": {
+          "A": "Laksamana Maeda adalah perwira penghubung Angkatan Laut di Jakarta, bukan pemanggil di Dalath.",
+          "C": "Kumakichi Harada adalah panglima tentara ke-16 di Jawa pada periode sebelumnya.",
+          "D": "Seisaburo Okasaki bertugas sebagai kepala staf militer di Jakarta, bukan panglima Dalath.",
+          "E": "Hitoshi Imamura adalah panglima bala tentara masa awal pendudukan militer Jepang di Jawa."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "Mantan Ketua BPUPKI",
+        "dipanggil oleh Genderal Besar Terauchi"
+      ],
+      "topik_materi": "Tokoh Bangsa yang Dipanggil ke Dalath",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain Soekarno dan Mohammad Hatta, tokoh yang turut dipanggil ke Dalath adalah...",
+      "pilihan": {
+        "A": "Mr. Achmad Soebardjo selaku menteri luar negeri",
+        "B": "K.H. Wachid Hasyim selaku wakil golongan keagamaan",
+        "C": "Mr. Mohammad Yamin selaku perumus teks konstitusi",
+        "D": "Prof. Dr. Soepomo selaku ketua perancang undang-undang",
+        "E": "Dr. K.R.T. Radjiman Wedyodiningrat mantan pimpinan BPUPKI"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tiga tokoh bangsa yang dipanggil ke Dalath adalah **Ir. Soekarno**, **Drs. Moh. Hatta**, dan **Dr. K.R.T. Radjiman Wedyodiningrat**.",
+        "alasan_kunci": "Opsi E tepat karena Dr. Radjiman Wedyodiningrat selaku mantan Ketua BPUPKI mendampingi pimpinan PPKI memenuhi panggilan ke Dalath. Kehadiran beliau melambangkan kesinambungan proses perumusan dasar negara dari BPUPKI ke PPKI. Hal ini memperkuat legitimasi persiapan kemerdekaan Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Achmad Soebardjo berada di Jakarta menjembatani komunikasi golongan muda dan tua.",
+          "B": "K.H. Wachid Hasyim memimpin koordinasi konsensus tokoh keagamaan di tanah air.",
+          "C": "Mohammad Yamin bertugas di Jakarta menyusun rancangan dokumen kenegaraan.",
+          "D": "Prof. Soepomo memfokuskan kajian pada perumusan pasal-pasal undang-undang di Jawa."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "Jepang menyerah tanpa",
+        "syarat kepada Sekutu"
+      ],
+      "topik_materi": "Penyerahan Jepang Tanpa Syarat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan catatan kronologi sejarah kemerdekaan, Jepang menyerah tanpa syarat kepada Sekutu pada...",
+      "pilihan": {
+        "A": "Tanggal 15 Agustus 1945 mengakhiri perang Pasifik",
+        "B": "Tanggal 9 Agustus 1945 pasca pengeboman Nagasaki",
+        "C": "Tanggal 16 Agustus 1945 bersamaan peristiwa Rengasdengklok",
+        "D": "Tanggal 17 Agustus 1945 sebelum proklamasi berkumandang",
+        "E": "Tanggal 18 Agustus 1945 saat sidang perdana PPKI"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pada **15 Agustus 1945**, pihak **Jepang resmi menyerah tanpa syarat kepada Sekutu**.",
+        "alasan_kunci": "Opsi A tepat karena menyerahnya Jepang tanpa syarat kepada Sekutu terjadi pada 15 Agustus 1945 setelah dijatuhkannya bom atom. Peristiwa ini menciptakan kekosongan kekuasaan di kepulauan Indonesia. Situasi tersebut segera dimanfaatkan pemuda dan pendiri bangsa untuk mempercepat kemerdekaan.",
+        "bedah_pengecoh": {
+          "B": "Tanggal 9 Agustus 1945 adalah hari pemanggilan Soekarno-Hatta ke Dalath oleh Terauchi.",
+          "C": "Tanggal 16 Agustus 1945 adalah hari penegasan larangan sidang PPKI dan pengamanan pemuda.",
+          "D": "Tanggal 17 Agustus 1945 adalah waktu pembacaan teks Proklamasi Kemerdekaan Indonesia.",
+          "E": "Tanggal 18 Agustus 1945 merupakan momentum pelaksanaan sidang pertama lembaga PPKI."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "ditegaskan bahwa PPKI dilarang untuk",
+        "mempersiapkan kemerdekaan Indonesia"
+      ],
+      "topik_materi": "Larangan Militer Jepang pada 16 Agustus 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penegasan pihak penguasa militer Jepang kepada pimpinan PPKI pada 16 Agustus 1945 adalah...",
+      "pilihan": {
+        "A": "Kewajiban membentuk pemerintahan transisi bentukan sekutu",
+        "B": "Perintah penyerahan dokumen perumusan undang-undang dasar",
+        "C": "Larangan bagi PPKI untuk mempersiapkan kemerdekaan Indonesia",
+        "D": "Pemberian izin proklamasi dengan kawalan tentara bala tentara",
+        "E": "Kewajiban membubarkan seluruh organisasi badan pergerakan rakyat"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pada **16 Agustus 1945**, penguasa militer Jepang memanggil pimpinan PPKI dan menegaskan **larangan mempersiapkan kemerdekaan Indonesia**.",
+        "alasan_kunci": "Opsi C tepat karena pihak Jepang membatalkan janji sebelumnya dan melarang segala aktivitas persiapan kemerdekaan setelah menyerah kepada Sekutu. Fakta ini membuktikan bahwa proklamasi kemerdekaan lahir murni dari perjuangan rakyat Indonesia sendiri. Sikap tegas pendiri bangsa mendasari tindakan proklamasi tanpa campur tangan asing.",
+        "bedah_pengecoh": {
+          "A": "Pemerintahan transisi Sekutu bukan perintah resmi yang disampaikan perwira Jepang saat itu.",
+          "B": "Penyitaan dokumen kenegaraan tidak menjadi topik instruksi pertemuan pimpinan militer.",
+          "D": "Jepang melarang kegiatan kemerdekaan dan tidak memberikan fasilitas pengawalan militer.",
+          "E": "Pembubaran organisasi telah terjadi sebelumnya pada fase awal pendudukan militer Dai Nippon."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "mewakili rakyat",
+        "Indonesia Bagian Timur"
+      ],
+      "topik_materi": "Keberatan Utusan Indonesia Bagian Timur",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Utusan yang menghadap Mohammad Hatta pasca proklamasi menyampaikan aspirasi keberatan dari...",
+      "pilihan": {
+        "A": "Kelompok serikat buruh pelabuhan niaga Tanjung Priok",
+        "B": "Perkumpulan saudagar pribumi perantauan Kalimantan Barat",
+        "C": "Delegasi kesultanan berdaulat di pesisir Sumatra Timur",
+        "D": "Masyarakat kepulauan wilayah Indonesia Bagian Timur",
+        "E": "Perwakilan prajurit pembela tanah air keresidenan Jawa"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Utusan yang menghadap Drs. Moh. Hatta adalah pihak yang mewakili rakyat **Indonesia Bagian Timur**.",
+        "alasan_kunci": "Opsi D tepat karena perwakilan masyarakat wilayah timur menyampaikan aspirasi demi keutuhan wilayah republik yang baru merdeka. Aspirasi ini menghendaki kesetaraan kedudukan seluruh warga negara dalam dasar falsafah konstitusi. Mohammad Hatta merespons aspirasi ini dengan penuh kearifan dan mengedepankan persatuan.",
+        "bedah_pengecoh": {
+          "A": "Serikat buruh pelabuhan berfokus pada pengambilalihan aset fasilitas transportasi perkapalan.",
+          "B": "Saudagar perantauan Kalimantan tidak mengajukan usulan tertulis terkait rumusan sila pertama.",
+          "C": "Kesultanan Sumatra Timur saat itu mendukung penuh maklumat resmi kedaulatan republik.",
+          "E": "Prajurit PETA di Jawa bertugas mengamankan jalannya proklamasi di kediaman Pegangsaan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "tujuh kata",
+        "kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya"
+      ],
+      "topik_materi": "Rumusan Tujuh Kata Sila Pertama",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Substansi frasa tujuh kata yang menjadi pokok keberatan wakil wilayah timur berbunyi...",
+      "pilihan": {
+        "A": "Negara berdasar atas hukum dan kedaulatan peradilan rakyat",
+        "B": "Kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya",
+        "C": "Kedaulatan berada di tangan rakyat melalui majelis perwakilan",
+        "D": "Persatuan segenap suku bangsa di seluruh kepulauan nusantara",
+        "E": "Keadilan sosial kemakmuran merata bagi seluruh rakyat jelata"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Frasa tujuh kata dalam naskah Piagam Jakarta berbunyi **kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya**.",
+        "alasan_kunci": "Opsi B tepat karena kalimat tersebut tercantum dalam rancangan pembukaan hasil kesepakatan Panitia Sembilan. Frasa ini dinilai dapat memicu diskriminasi oleh masyarakat di luar mayoritas bila dijadikan dasar falsafah bersama. Penghapusan tujuh kata ini menjadi keputusan historis bagi keselamatan persatuan nasional.",
+        "bedah_pengecoh": {
+          "A": "Negara berdasar atas hukum merupakan isi rumusan penjelasan pasal undang-undang dasar.",
+          "C": "Kedaulatan di tangan rakyat merupakan materi pokok pengaturan sistem pemerintahan negara.",
+          "D": "Persatuan segenap suku bangsa adalah penjabaran prinsip sila kebangsaan Indonesia.",
+          "E": "Keadilan kemakmuran merata merupakan muatan normatif pokok pikiran keadilan sosial."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "belum disahkan",
+        "belum terpilih presiden dan wakil"
+      ],
+      "topik_materi": "Alasan Penyelenggaraan Sidang PPKI 18 Agustus 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sidang PPKI segera digelar pada 18 Agustus 1945 terutama disebabkan oleh kondisi...",
+      "pilihan": {
+        "A": "UUD belum disahkan serta belum terpilihnya presiden dan wakil",
+        "B": "Adanya desakan pimpinan armada laut sekutu di pelabuhan",
+        "C": "Tuntutan pembagian kursi kementerian antarpartai politik",
+        "D": "Ancaman pertempuran terbuka dengan bala tentara pendudukan",
+        "E": "Kebutuhan mencetak mata uang resmi pemerintah republik pertama"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Sidang PPKI 18 Agustus 1945 diadakan karena **UUD belum disahkan dan presiden serta wakil presiden belum terpilih**.",
+        "alasan_kunci": "Opsi A tepat karena proklamasi kemerdekaan harus segera dilengkapi perangkat hukum dasar dan pemimpin eksekutif sah. Tanpa konstitusi dan kepala negara, struktur kedaulatan republik belum lengkap secara hukum tata negara. PPKI bergerak cepat menyelenggarakan sidang pengesahan pada 18 Agustus 1945.",
+        "bedah_pengecoh": {
+          "B": "Armada tentara Sekutu baru mendarat di kepulauan Indonesia beberapa pekan setelah proklamasi.",
+          "C": "Sistem kepartaian belum terbentuk saat sidang perdana lembaga persiapan kemerdekaan digelar.",
+          "D": "Fokus sidang adalah penguatan legitimasi hukum negara, bukan kesepakatan gencatan senjata.",
+          "E": "Penerbitan mata uang Oeang Republik Indonesia baru diputuskan pada masa revolusi berikutnya."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "membicarakan usul penghapusan",
+        "Ki Bagus Hadikusumo, Mr Kasman Singadimedjo"
+      ],
+      "topik_materi": "Tokoh Pembahasan Usul Penghapusan Tujuh Kata",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu tokoh Islam yang diajak berdiskusi oleh Mohammad Hatta sebelum sidang PPKI adalah...",
+      "pilihan": {
+        "A": "H.O.S. Tjokroaminoto dari pergerakan Sarekat Islam",
+        "B": "Dr. Soetomo pendiri perkumpulan pemuda pergerakan",
+        "C": "H. Samanhudi perintis serikat perniagaan nusantara",
+        "D": "Ki Bagus Hadikusumo tokoh terkemuka Muhammadiyah",
+        "E": "K.H. Ahmad Dahlan perintis lembaga pendidikan Islam"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Tokoh yang diajak Hatta berunding sebelum sidang PPKI mencakup **Ki Bagus Hadikusumo**, **K.H. Wachid Hasyim**, **Mr. Kasman Singodimedjo**, dan **Mr. Teuku M. Hasan**.",
+        "alasan_kunci": "Opsi D tepat karena Ki Bagus Hadikusumo merupakan representasi utama tokoh Islam Muhammadiyah dalam panitia persiapan. Kesediaan beliau menerima penghapusan frasa tujuh kata mencerminkan kenegarawanan luhur demi persatuan bangsa. Dialog berjalan singkat dengan semangat menjaga keutuhan tanah air.",
+        "bedah_pengecoh": {
+          "A": "H.O.S. Tjokroaminoto telah wafat jauh sebelum era pendudukan Jepang dan sidang kemerdekaan.",
+          "B": "Dr. Soetomo memimpin perkumpulan Budi Utomo dan wafat pada dekade sembilan belas tiga puluhan.",
+          "C": "H. Samanhudi adalah tokoh pergerakan pedagang batik era kebangkitan nasional awal.",
+          "E": "K.H. Ahmad Dahlan adalah pendiri persyarikatan yang telah wafat puluhan tahun sebelumnya."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "Mr. Teuku",
+        "M. Hasan"
+      ],
+      "topik_materi": "Perwakilan Tokoh Daerah dalam Rapat Pendahuluan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tokoh asal Sumatra yang dilibatkan Hatta dalam musyawarah pendahuluan 18 Agustus 1945 adalah...",
+      "pilihan": {
+        "A": "Sutan Sjahrir perintis pemuda sosialis demokratis",
+        "B": "Amir Sjarifuddin tokoh pergerakan pemuda perlawanan",
+        "C": "Mr. Teuku Mohammad Hasan perwakilan tanah Sumatra",
+        "D": "Tan Malaka konseptor republik kebangsaan pertama",
+        "E": "Mohammad Natsir aktivis intelektual pergerakan pemuda"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Tokoh asal Sumatra yang diajak Hatta adalah **Mr. Teuku Mohammad Hasan**.",
+        "alasan_kunci": "Opsi C tepat karena Teuku Mohammad Hasan merupakan wakil anggota PPKI dari wilayah Sumatra yang memiliki integritas tinggi. Keterlibatan beliau memastikan representasi aspirasi wilayah barat dalam menyepakati rumusan dasar negara. Musyawarah menghasilkan konsensus bulat demi keutuhan nusantara.",
+        "bedah_pengecoh": {
+          "A": "Sutan Sjahrir bergerak di jalur pergerakan pemuda bawah tanah di luar keanggotaan PPKI.",
+          "B": "Amir Sjarifuddin tidak ikut serta dalam rapat pendahuluan empat tokoh menjelang sidang PPKI.",
+          "D": "Tan Malaka berada di luar lingkar persidangan resmi badan persiapan kemerdekaan negara.",
+          "E": "Mohammad Natsir aktif dalam pergerakan pemikiran Islam generasi selanjutnya pascarevolusi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "berkat semangat para",
+        "pendiri negara dan seluruh rakyat"
+      ],
+      "topik_materi": "Karakter Kelahiran Proklamasi Indonesia",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Penolakan pendiri bangsa terhadap larangan Jepang menunjukkan bahwa proklamasi merupakan...",
+      "pilihan": {
+        "A": "Kompensasi formal pemberian status persemakmuran sekutu",
+        "B": "Mandat penyerahan kekuasaan administrasi perwakilan kolonial",
+        "C": "Pelaksanaan kesepakatan perundingan damai antarpanglima perang",
+        "D": "Hadiah kemerdekaan yang dirancang oleh perwira jepang tokyo",
+        "E": "Hasil perjuangan mandiri seluruh rakyat dan pendiri bangsa"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kemerdekaan Indonesia lahir **berkat semangat para pendiri negara dan seluruh rakyat Indonesia**, bukan hadiah pemberian penjajah.",
+        "alasan_kunci": "Opsi E tepat karena proklamasi diproklamirkan meskipun Jepang secara resmi mencabut janjinya dan melarang persiapan kemerdekaan. Keputusan berani para pendiri bangsa mencerminkan kedaulatan sejati bangsa Indonesia. Fakta historis ini mempertegas kemandirian lahirnya Negara Kesatuan Republik Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Indonesia menolak segala bentuk status boneka atau persemakmuran di bawah pengaruh asing.",
+          "B": "Tidak pernah ada mandat penyerahan wewenang birokrasi dari penguasa kolonial kepada PPKI.",
+          "C": "Proklamasi bukan produk meja perundingan gencatan senjata antara pihak negara berperang.",
+          "D": "Jepang melarang kemerdekaan setelah menyerah sehingga kemerdekaan bukan hadiah kekaisaran."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "setuju dan mufakat untuk menghapus tujuh kata",
+        "menjadi ”Ketuhanan Yang"
+      ],
+      "topik_materi": "Rumusan Akhir Sila Pertama Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah tujuh kata dihapus melalui mufakat para tokoh, rumusan Sila Pertama Pancasila menjadi...",
+      "pilihan": {
+        "A": "Ketuhanan yang berkebudayaan serta berbudi pekerti luhur",
+        "B": "Peri Ketuhanan yang menjunjung tinggi toleransi antarumat",
+        "C": "Ketuhanan Yang Maha Esa sebagai asas falsafah bersama",
+        "D": "Keimanan kepada Tuhan pencipta seluruh alam semesta",
+        "E": "Ketuhanan Yang Maha Kuasa atas berkat kemerdekaan bangsa"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Setelah penghapusan tujuh kata, Sila Pertama Pancasila disepakati berbunyi **Ketuhanan Yang Maha Esa**.",
+        "alasan_kunci": "Opsi C tepat karena rumusan Ketuhanan Yang Maha Esa mampu merangkul seluruh penganut agama dan kepercayaan di nusantara. Rumusan ini mengukuhkan sifat inklusif dasar negara Indonesia yang majemuk tanpa sekat diskriminasi. Sila pertama ini menjadi fondasi moral religius bagi keempat sila berikutnya.",
+        "bedah_pengecoh": {
+          "A": "Ketuhanan yang berkebudayaan adalah usulan pribadi Soekarno dalam pidato tanggal 1 Juni.",
+          "B": "Peri Ketuhanan merupakan salah satu usulan lisan Mr. Mohammad Yamin pada tanggal 29 Mei.",
+          "D": "Frasa keimanan pencipta semesta bukan rumusan resmi teks dasar negara Republik Indonesia.",
+          "E": "Ketuhanan Yang Maha Kuasa adalah variasi kalimat pembukaan undang-undang pada alinea ketiga."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "Dalam sidang PPKI pada tanggal 18 Agustus 1945 ditetapkan",
+        "Mengesahkan UUD 1945"
+      ],
+      "topik_materi": "Ketetapan Pertama Sidang PPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketetapan pertama yang diputuskan dalam sidang PPKI tanggal 18 Agustus 1945 adalah...",
+      "pilihan": {
+        "A": "Mengesahkan UUD 1945 yang memuat dasar negara Pancasila",
+        "B": "Membentuk Komite Nasional Indonesia Pusat pembantu presiden",
+        "C": "Membagi wilayah kedaulatan republik menjadi delapan provinsi",
+        "D": "Menetapkan susunan kementerian koordinator kabinet pertama",
+        "E": "Membentuk Badan Keamanan Rakyat penegak ketertiban umum"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Ketetapan sidang PPKI 18 Agustus 1945 yang pertama adalah **mengesahkan UUD 1945 yang memuat dasar negara Pancasila**.",
+        "alasan_kunci": "Opsi A tepat karena pengesahan UUD 1945 memberikan landasan hukum tertinggi bagi penyelenggaraan negara Indonesia merdeka. Di dalam alinea keempat Pembukaan UUD 1945 tercantum rumusan sah Pancasila sebagai dasar falsafah negara. Dokumen ini menjadi konstitusi tertulis pertama bangsa Indonesia.",
+        "bedah_pengecoh": {
+          "B": "Pembentukan KNIP ditetapkan pada agenda sidang lanjutan PPKI tanggal 22 Agustus 1945.",
+          "C": "Pembagian wilayah delapan provinsi diputuskan pada sidang PPKI kedua tanggal 19 Agustus 1945.",
+          "D": "Penetapan pos kementerian kabinet dibahas pada rapat panitia kecil tanggal 19 Agustus 1945.",
+          "E": "Pembentukan BKR disahkan pada sidang ketiga PPKI pada tanggal 22 Agustus 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "Memilih Presiden dan Wakil Presiden pertama",
+        "Ir. Soekarno dan Drs. Moh. Hatta"
+      ],
+      "topik_materi": "Ketetapan Kedua Sidang PPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketetapan kedua yang diputuskan secara aklamasi dalam sidang PPKI 18 Agustus 1945 adalah...",
+      "pilihan": {
+        "A": "Menunjuk penasihat agung urusan hubungan diplomasi luar negeri",
+        "B": "Mengesahkan tata tertib persidangan dewan perwakilan rakyat",
+        "C": "Mengangkat panglima tertinggi angkatan bersenjata republik",
+        "D": "Memilih Presiden dan Wakil Presiden pertama Republik Indonesia",
+        "E": "Membentuk badan pemeriksa keuangan pengawas belanja negara"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Ketetapan kedua sidang PPKI adalah **memilih Ir. Soekarno sebagai Presiden dan Drs. Moh. Hatta sebagai Wakil Presiden NKRI pertama**.",
+        "alasan_kunci": "Opsi D tepat karena pemilihan dwitunggal Soekarno-Hatta atas usul Otto Iskandardinata melengkapi pucuk pimpinan eksekutif negara. Pemilihan dilakukan secara aklamasi dengan persetujuan bulat seluruh anggota sidang. Mandat ini memberikan kepemimpinan resmi bagi jalannya roda pemerintahan republik.",
+        "bedah_pengecoh": {
+          "A": "Pengangkatan penasihat luar negeri tidak menjadi keputusan formatur dalam sidang pembukaan.",
+          "B": "Tata tertib parlemen belum disusun karena lembaga perwakilan legislatif belum terbentuk.",
+          "C": "Jabatan panglima militer baru dibentuk pascapenataan Tentara Keamanan Rakyat di Yogyakarta.",
+          "E": "Lembaga pemeriksa keuangan baru diatur kelembagaannya beberapa tahun setelah revolusi fisik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "tuan Nishijama, pembantu Admiral",
+        "seorang opsir Kaigun"
+      ],
+      "topik_materi": "Kedatangan Utusan Opsir Kaigun",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perwira yang memfasilitasi komunikasi utusan Kaigun saat menghubungi Mohammad Hatta adalah...",
+      "pilihan": {
+        "A": "Mayor Kudo kepala urusan logistik garnisun militer",
+        "B": "Tuan Nishijima pembantu Laksamana Tadashi Maeda",
+        "C": "Kapten Yanagawa komandan instruktur pelatihan pemuda",
+        "D": "Kolonel Nomura perwira pengawas departemen perhubungan",
+        "E": "Letnan Sato komandan pengawalan markas pejabat tinggi"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Mohammad Hatta menerima telepon dari **tuan Nishijima**, pembantu Laksamana Tadashi Maeda, yang mendampingi **opsir Kaigun** sebagai juru bahasa.",
+        "alasan_kunci": "Opsi B tepat karena Nishijima bertindak sebagai penghubung dan juru bahasa bagi opsir Kaigun untuk menyampaikan aspirasi penting kawasan timur. Jalur komunikasi ini memungkinkan pesan genting tersebut sampai langsung kepada pimpinan bangsa. Hatta menerima mereka dengan terbuka demi mendengarkan aspirasi tersebut.",
+        "bedah_pengecoh": {
+          "A": "Mayor Kudo bertugas pada bagian logistik senjata dan tidak terkait diplomasi konstitusi.",
+          "C": "Kapten Yanagawa memimpin pelatihan korps perwira PETA di wilayah Bogor Jawa Barat.",
+          "D": "Kolonel Nomura memegang komando perhubungan darat dan bukan staf kantor Laksamana Maeda.",
+          "E": "Letnan Sato mengurus keprotokolan markas besar angkatan darat di daerah Gambir."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "wakil-wakil Protestan dan Katolik",
+        "berkeberatan sangat terhadap bagian kalimat"
+      ],
+      "topik_materi": "Pihak yang Mengajukan Keberatan atas Sila Pertama",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keberatan atas kalimat sila pertama Piagam Jakarta yang disampaikan utusan Kaigun berasal dari...",
+      "pilihan": {
+        "A": "Pimpinan organisasi saudagar asing di pelabuhan Batavia",
+        "B": "Kelompok perwira instruktur militer markas pertahanan laut",
+        "C": "Konsulat jenderal perwakilan dagang negara-negara sekutu",
+        "D": "Pejabat pamong praja birokrasi peninggalan hindia belanda",
+        "E": "Wakil-wakil pemeluk Protestan dan Katolik di wilayah timur"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Keberatan disampaikan oleh opsir Kaigun mewakili **pemimpin-pemimpin Protestan dan Katolik** di wilayah pendudukan Angkatan Laut Jepang.",
+        "alasan_kunci": "Opsi E tepat karena komunitas Protestan dan Katolik di kawasan timur merasa pencantuman klausul khusus dapat menciptakan pembedaan warga negara. Mereka menginginkan dasar negara bersifat netral dan menaungi seluruh pemeluk keyakinan secara setara. Sikap ini mendorong lahirnya mufakat kebangsaan yang inklusif.",
+        "bedah_pengecoh": {
+          "A": "Saudagar asing tidak memiliki kepentingan politik atas perumusan teks konstitusi negara.",
+          "B": "Perwira instruktur Kaigun hanya bertindak sebagai kurir penyampai pesan, bukan pembuat aspirasi.",
+          "C": "Konsulat Sekutu belum beroperasi secara diplomatik di Jakarta pada tanggal 17 Agustus 1945.",
+          "D": "Pamong praja berfokus pada kelangsungan pelayanan birokrasi pemerintahan sehari-hari."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "mengadakan diskriminasi",
+        "terhadap golongan minoritas"
+      ],
+      "topik_materi": "Alasan Pokok Keberatan Golongan Minoritas",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kekhawatiran utama tokoh minoritas terhadap pencantuman tujuh kata dalam dasar negara adalah...",
+      "pilihan": {
+        "A": "Terjadinya bentuk diskriminasi hukum terhadap golongan minoritas",
+        "B": "Timbulnya kewajiban pajak keagamaan bagi saudagar pribumi",
+        "C": "Hilangnya hak kepemilikan tanah adat di kepulauan daerah timur",
+        "D": "Kewajiban penggunaan bahasa daerah tertentu dalam birokrasi",
+        "E": "Penghapusan status kebebasan berniaga antarwilayah kepulauan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pencantuman klausul yang hanya mengikat satu golongan dinilai dapat **mengadakan diskriminasi terhadap golongan minoritas**.",
+        "alasan_kunci": "Opsi A tepat karena dasar negara harus menjadi pijakan bersama bagi segenap warga bangsa tanpa diskriminasi. Ketentuan dasar yang mengikat satu kelompok keagamaan di dalam UUD dikhawatirkan memposisikan pemeluk lain sebagai warga negara kelas dua. Oleh karena itu, prinsip nondiskriminasi dijunjung tinggi demi keutuhan republik.",
+        "bedah_pengecoh": {
+          "B": "Pajak keagamaan tidak pernah dibahas dalam draf naskah pembukaan undang-undang dasar.",
+          "C": "Pengaturan hak ulayat tanah adat merupakan domain materi perundang-undangan agraria.",
+          "D": "Bahasa Indonesia telah disepakati secara aklamasi sebagai bahasa persatuan sejak Sumpah Pemuda.",
+          "E": "Kebebasan perdagangan antarpulau dijamin dalam prinsip wawasan kesatuan ekonomi nusantara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "lebih suka berdiri di luar republik",
+        "Indonesia"
+      ],
+      "topik_materi": "Dampak Bila Diskriminasi Ditetapkan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsekuensi paling kritis yang diutarakan utusan wilayah timur jika klausul tersebut dipertahankan adalah...",
+      "pilihan": {
+        "A": "Penghentian pasokan hasil rempah-rempah ke pusat pelabuhan",
+        "B": "Permintaan pembentukan pangkalan militer bersenjata serikat",
+        "C": "Pilihan untuk memilih berdiri di luar Republik Indonesia",
+        "D": "Penyelenggaraan pemungutan suara perbatasan kawasan pulau",
+        "E": "Penyerahan tata kelola niaga perikanan kepada armada sekutu"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Tokoh-tokoh wilayah timur menyatakan **lebih suka berdiri di luar Republik Indonesia** jika klausul diskriminatif tetap dipaksakan.",
+        "alasan_kunci": "Opsi C tepat karena ancaman perpecahan ini sangat membahayakan eksistensi keutuhan negara proklamasi yang baru seumur jagung. Bila wilayah timur memisahkan diri, cita-cita persatuan seluruh wilayah bekas Hindia Belanda akan kandas. Ancaman ini menyadarkan Hatta untuk segera mengambil langkah penyelamatan integrasi nasional.",
+        "bedah_pengecoh": {
+          "A": "Pemboikotan komoditas rempah bukan bentuk ancaman disintegrasi kedaulatan politik yang diajukan.",
+          "B": "Pangkalan militer serikat adalah urusan pertahanan yang sama sekali dihindari para pendiri bangsa.",
+          "D": "Referendum perbatasan tidak menjadi opsi yang diusulkan oleh perwakilan masyarakat timur.",
+          "E": "Konsesi niaga perikanan laut tidak ada hubungannya dengan dasar moral konstitusi negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "Aku mengatakan bahwa itu bukan suatu diskriminasi",
+        "sebab penetapan itu hanya mengenai rakyat yang beragama Islam"
+      ],
+      "topik_materi": "Penjelasan Awal Mohammad Hatta",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Argumen awal Mohammad Hatta kepada opsir utusan sebelum memahami sensitivitas masalah tersebut adalah...",
+      "pilihan": {
+        "A": "Teks tersebut bersifat sementara hingga pemilihan umum legislatif",
+        "B": "Rumusan tersebut telah mendapatkan persetujuan komandan militer sekutu",
+        "C": "Klausul tersebut dapat disesuaikan pada tingkat aturan peraturan daerah",
+        "D": "Seluruh ketentuan hukum dasar wajib dipatuhi oleh seluruh warga",
+        "E": "Penetapan itu bukan diskriminasi karena hanya mengikat umat Islam"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Hatta awalnya menjelaskan bahwa ketentuan itu **bukan diskriminasi sebab penetapan itu hanya mengenai rakyat yang beragama Islam**.",
+        "alasan_kunci": "Opsi E tepat karena dalam pandangan awal Panitia Sembilan, klausul syariat Islam dimaksudkan sebagai pedoman moral bagi pemeluknya sendiri. Namun, setelah menyadari persepsi dan dampak psikologis bagi keutuhan bangsa, Hatta segera berinisiatif menghapuskannya. Sikap Hatta menunjukkan kebesaran jiwa seorang negarawan sejati.",
+        "bedah_pengecoh": {
+          "A": "Penjelasan mengenai UUD sementara baru disampaikan saat Soekarno berpidato di sidang PPKI.",
+          "B": "Persetujuan komandan Sekutu tidak pernah menjadi rujukan legitimasi konstitusi Indonesia.",
+          "C": "Hatta tidak menawarkan solusi desentralisasi syariat pada perbincangan malam tanggal 17 Agustus.",
+          "D": "Hatta bersikap dialogis dan tidak memaksakan kepatuhan buta kepada pihak yang keberatan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "Dengan mengkedepankan",
+        "persatuan dan kesatuan"
+      ],
+      "topik_materi": "Nilai Luhur Penghapusan Tujuh Kata",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Nilai luhur utama yang diteladankan para tokoh bangsa dalam mufakat penghapusan tujuh kata adalah...",
+      "pilihan": {
+        "A": "Kepatuhan mutlak birokrasi terhadap instruksi penguasa militer",
+        "B": "Keikhlasan mengedepankan persatuan bangsa di atas kepentingan golongan",
+        "C": "Keinginan mempercepat pembagian portofolio kementerian negara",
+        "D": "Sikap kompromistis demi menarik pinjaman bantuan moneter luar negeri",
+        "E": "Upaya mempertahankan pengaruh dominasi partai politik di parlemen"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Keputusan penghapusan tujuh kata diambil **dengan mengedepankan persatuan dan kesatuan bangsa**.",
+        "alasan_kunci": "Opsi B tepat karena para tokoh Islam rela mencoret klausul penting demi menyelamatkan eksistensi dan integrasi Negara Kesatuan Republik Indonesia. Keteladanan ini membuktikan komitmen kebangsaan para pendiri negara yang menomorsatukan kepentingan bersama di atas golongan. Jiwa kenegarawanan ini menjadi pilar kokoh kerukunan bangsa hingga kini.",
+        "bedah_pengecoh": {
+          "A": "Keputusan diambil secara merdeka oleh para pemimpin bangsa, bebas dari arahan militer Jepang.",
+          "C": "Sidang PPKI berfokus pada fondasi hukum negara dan bukan perebutan jabatan kabinet birokrasi.",
+          "D": "Pertimbangan murni untuk menyelamatkan integrasi wilayah nasional, bukan bantuan keuangan.",
+          "E": "Sistem politik multipartai belum hadir saat rapat konsensus 18 Agustus berlangsung."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "Kisah pencoretan tujuh kata dalam Piagam Jakarta",
+        "M. Hatta menuturkan dalam memoirnya"
+      ],
+      "topik_materi": "Sumber Sejarah Penghapusan Tujuh Kata",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sumber sejarah primer yang mendokumentasikan dialog malam kedatangan utusan Kaigun secara rinci adalah...",
+      "pilihan": {
+        "A": "Buku harian dinas komandan batalyon pertahanan kota batavia",
+        "B": "Naskah steno persidangan kementerian penerangan luar negeri",
+        "C": "Laporan resmi markas komando armada pasifik tentara sekutu",
+        "D": "Buku memoir catatan pribadi Mohammad Hatta tahun 1979",
+        "E": "Arsip korespondensi kawat telegram gubernur jenderal belanda"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kisah pencoretan tujuh kata tersebut secara rinci dituturkan Mohammad Hatta dalam **memoirnya (Hatta, Mohammad, 1979)**.",
+        "alasan_kunci": "Opsi D tepat karena catatan memoir Bung Hatta menjadi rujukan sejarah autentik mengenai peristiwa krusial malam 17 Agustus 1945. Beliau mencatat percakapan telepon Nishijima, pertemuannya dengan opsir Kaigun, hingga rapat pendahuluan empat tokoh. Dokumen ini membuka fakta historis di balik kelahiran rumusan Pancasila sah.",
+        "bedah_pengecoh": {
+          "A": "Buku harian komandan kota mencatat patroli keamanan dan bukan perundingan politik konstitusi.",
+          "B": "Kementerian Penerangan baru didirikan setelah kabinet presidensial pertama terbentuk resmi.",
+          "C": "Armada Sekutu tidak memiliki akses intelijen terhadap pembicaraan privat di kediaman Hatta.",
+          "E": "Pemerintah Hindia Belanda sedang dalam masa pengasingan di luar wilayah kepulauan Indonesia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "Mr. Maramis yang ikut",
+        "serta dalam Panitia Sembilan, tidak mempunyai keberatan apa-apa"
+      ],
+      "topik_materi": "Sikap Mr. Maramis dalam Panitia Sembilan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sikap Mr. A.A. Maramis selaku tokoh Kristen saat menandatangani Piagam Jakarta pada 22 Juni 1945 adalah...",
+      "pilihan": {
+        "A": "Tidak mempunyai keberatan apa-apa dan ikut menandatanganinya",
+        "B": "Menyampaikan nota keberatan tertulis kepada ketua sidang",
+        "C": "Meminta penundaan pengesahan hingga seluruh anggota hadir",
+        "D": "Mengusulkan pemungutan suara tertutup antaranggota panitia",
+        "E": "Menyerahkan mandat persetujuan kepada wakil ketua panitia"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Saat perumusan Piagam Jakarta, **Mr. Maramis tidak mempunyai keberatan apa-apa dan ikut menandatanganinya pada 22 Juni 1945**.",
+        "alasan_kunci": "Opsi A tepat karena Mr. A.A. Maramis menandatangani rancangan Pembukaan UUD tanpa keberatan. Beliau menganggap klausul tersebut adalah kesepakatan wajar yang ditujukan bagi umat Islam yang mayoritas. Fakta ini dicatat Hatta untuk menjelaskan dinamika pemikiran saat itu.",
+        "bedah_pengecoh": {
+          "B": "Mr. Maramis tidak mengajukan nota keberatan diplomatik pada saat penandatanganan Piagam Jakarta.",
+          "C": "Penundaan pengesahan tidak pernah dimintakan oleh delegasi perumus naskah mukadimah.",
+          "D": "Seluruh keputusan Panitia Sembilan dicapai secara musyawarah mufakat, tanpa pemungutan suara.",
+          "E": "Mr. Maramis menandatangani sendiri naskah tersebut tanpa menyerahkan kuasa mandat perwakilan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "bagian kalimat itu hanya untuk rakyat Islam yang",
+        "90% jumlahnya dan tidak mengikat"
+      ],
+      "topik_materi": "Pertimbangan Awal Mr. Maramis",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pertimbangan yang mendasari persetujuan awal Mr. Maramis terhadap frasa tujuh kata adalah...",
+      "pilihan": {
+        "A": "Adanya instruksi resmi dari pimpinan militer pendudukan jepang",
+        "B": "Harapan memperoleh bantuan persenjataan dari laskar pejuang",
+        "C": "Keinginan mempercepat pembubaran badan penyelidik usaha merdeka",
+        "D": "Anggapan bahwa klausul tersebut untuk umat Islam mayoritas 90%",
+        "E": "Keputusan menyerahkan perumusan kepada pimpinan rapat panitia"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Mr. Maramis awalnya mengira bagian kalimat tersebut **hanya untuk rakyat Islam yang 90% jumlahnya dan tidak mengikat pemeluk agama lain**.",
+        "alasan_kunci": "Opsi D tepat karena Maramis berasumsi klausul tersebut murni mengatur tata ibadah internal pemeluk agama mayoritas. Beliau tidak mengira bahwa klausul tersebut akan dirasakan sebagai diskriminasi oleh masyarakat di daerah pendudukan Kaigun. Pemahaman ini melatarbelakangi sikap awal beliau pada 22 Juni 1945.",
+        "bedah_pengecoh": {
+          "A": "Militer pendudukan Jepang tidak memberikan instruksi khusus terkait klausul syariat Islam.",
+          "B": "Kesepakatan tidak dipengaruhi motif transaksional persenjataan laskar perjuangan rakyat.",
+          "C": "Panitia Sembilan bekerja menyusun mukadimah dan bukan membubarkan lembaga persidangan.",
+          "E": "Seluruh anggota Panitia Sembilan terlibat aktif dalam musyawarah tanpa melepaskan tanggung jawab."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "Pembukaan Undang-Undang Dasar adalah pokok dari pokok",
+        "sebab itu harus teruntuk bagi seluruh bangsa"
+      ],
+      "topik_materi": "Kedudukan Pembukaan UUD sebagai Pokok dari Pokok",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan pandangan Mohammad Hatta, Pembukaan UUD merupakan pokok dari pokok sehingga harus...",
+      "pilihan": {
+        "A": "Mengutamakan perlindungan kelompok mayoritas pemegang hak suara",
+        "B": "Teruntuk bagi seluruh bangsa Indonesia dengan tiada kecualinya",
+        "C": "Memuat pasal-pasal operasional tata kelola belanja kementerian",
+        "D": "Disusun secara ringkas mengikuti pedoman konstitusi negara barat",
+        "E": "Dapat diperbarui setiap tahun sesuai pergantian susunan kabinet"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pembukaan UUD adalah **pokok dari pokok**, sebab itu **harus teruntuk bagi seluruh bangsa Indonesia dengan tiada kecualinya**.",
+        "alasan_kunci": "Opsi B tepat karena sebagai kaidah pokok negara fundamental, Pembukaan UUD menaungi segenap tumpah darah Indonesia tanpa terkecuali. Landasan negara tidak boleh memuat rumusan eksklusif yang memisahkan satu golongan dari golongan lainnya. Prinsip kesetaraan mutlak ini menjadi jiwa persatuan Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Pembukaan UUD tidak boleh berpihak secara eksklusif hanya kepada kelompok mayoritas pemilih.",
+          "C": "Tata kelola anggaran kementerian diatur dalam peraturan teknis undang-undang keuangan.",
+          "D": "Pembukaan UUD dirumuskan berakar pada kepribadian bangsa dan bukan tiruan barat.",
+          "E": "Pembukaan UUD berkedudukan permanen dan tidak dapat diubah sewaktu-waktu oleh kabinet."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "dirasakan oleh",
+        "golongan-golongan minoritas sebagai diskriminasi"
+      ],
+      "topik_materi": "Persepsi Golongan Minoritas terhadap Dasar Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Jika suatu dasar negara hanya mengikat sebagian rakyat, hal tersebut dirasakan minoritas sebagai...",
+      "pilihan": {
+        "A": "Penghargaan atas keistimewaan otonomi daerah perbatasan",
+        "B": "Peluang membentuk sistem pemerintahan federal mandiri",
+        "C": "Keringanan dari kewajiban mematuhi tata tertib peradilan",
+        "D": "Jaminan perlindungan khusus dari lembaga perwakilan rakyat",
+        "E": "Bentuk perlakuan diskriminasi dalam kehidupan bernegara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Jika sebagian dasar negara hanya mengikat kelompok tertentu, hal tersebut **dirasakan oleh golongan-golongan minoritas sebagai diskriminasi**.",
+        "alasan_kunci": "Opsi E tepat karena dasar falsafah sebuah republik harus berlaku merata dan melindungi seluruh warganya tanpa segregasi hukum. Adanya klausul khusus dalam mukadimah UUD memunculkan perasaan diperlakukan berbeda bagi golongan di luar kelompok tersebut. Inilah yang mendasari pentingnya perubahan rumusan menjadi universal.",
+        "bedah_pengecoh": {
+          "A": "Otonomi daerah diatur dalam pasal tata kelola wilayah dan bukan pembedaan asas falsafah.",
+          "B": "Gagasan negara federal bukan cita-cita kesatuan yang diperjuangkan dalam mukadimah konstitusi.",
+          "C": "Kewajiban kepatuhan hukum berlaku setara bagi setiap warga tanpa kecuali di seluruh wilayah.",
+          "D": "Perlindungan rakyat diberikan kepada segenap bangsa secara utuh tanpa klasifikasi kasta."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "sebelum Sidang Panitia Persiapan bermula",
+        "mengadakan suatu rapat pendahuluan"
+      ],
+      "topik_materi": "Pelaksanaan Rapat Pendahuluan 18 Agustus 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Musyawarah terbatas empat tokoh Islam bersama Hatta pada pagi 18 Agustus 1945 dilaksanakan...",
+      "pilihan": {
+        "A": "Di tengah-tengah perdebatan sengit persidangan pleno umum",
+        "B": "Setelah pidato pengesahan presiden dan wakil presiden selesai",
+        "C": "Sebelum Sidang Panitia Persiapan Kemerdekaan Indonesia bermula",
+        "D": "Pada malam penutupan rangkaian seluruh sidang komite nasional",
+        "E": "Bersamaan dengan upacara pelantikan menteri-menteri koordinator"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Rapat pendahuluan diadakan **pada pagi 18 Agustus 1945 sebelum Sidang Panitia Persiapan (PPKI) bermula**.",
+        "alasan_kunci": "Opsi C tepat karena Hatta bergerak cepat menyelesaikan persoalan sensitif ini sebelum sidang pleno PPKI dibuka resmi. Dengan demikian, persidangan utama dapat berjalan lancar tanpa terhambat perdebatan tajam mengenai sila pertama. Langkah diplomasi awal ini menyelamatkan jalannya pengesahan konstitusi.",
+        "bedah_pengecoh": {
+          "A": "Perdebatan tidak dibiarkan mencuat dalam sidang pleno terbuka demi menjaga kekhidmatan.",
+          "B": "Musyawarah dilakukan sebelum agenda pengesahan dan pemilihan pucuk pimpinan eksekutif.",
+          "D": "Penutupan sidang PPKI membahas rancangan pembagian wilayah dan pembentukan kementerian.",
+          "E": "Pelantikan menteri kabinet pertama baru berlangsung beberapa hari setelah sidang konstitusi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "Supaya kita jangan pecah sebagai bangsa",
+        "kami mufakat untuk menghilangkan bagian kalimat"
+      ],
+      "topik_materi": "Tujuan Utama Penghapusan Bagian Kalimat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan utama mufakat para pemimpin bangsa menghapus bagian kalimat sila pertama adalah...",
+      "pilihan": {
+        "A": "Menyesuaikan naskah dengan piagam perjanjian perdamaian dunia",
+        "B": "Menyeragamkan seluruh hukum adat ke dalam hukum perdata",
+        "C": "Memenuhi syarat administratif pengakuan dari markas sekutu",
+        "D": "Supaya segenap komponen tidak terpecah belah sebagai bangsa",
+        "E": "Membatasi pengaruh kelompok keagamaan dalam pemilihan umum"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Mufakat tersebut diambil **supaya kita jangan pecah sebagai bangsa**.",
+        "alasan_kunci": "Opsi D tepat karena keutuhan dan integrasi bangsa yang baru merdeka merupakan prioritas tertinggi di atas segalanya. Perpecahan antarwilayah akan mematikan republik yang baru diproklamasikan. Para tokoh bersepakat mengganti klausul tersebut dengan kalimat yang merangkul segenap elemen bangsa.",
+        "bedah_pengecoh": {
+          "A": "Piagam perdamaian internasional bukan pertimbangan yang mendasari mufakat rapat kecil.",
+          "B": "Hukum adat tetap diakui eksistensinya dan tidak dihapuskan oleh rumusan dasar negara.",
+          "C": "Pengakuan Sekutu diperjuangkan lewat diplomasi resmi luar negeri pada masa-masa berikutnya.",
+          "E": "Sila Ketuhanan Yang Maha Esa justru memuliakan nilai keagamaan dalam etika bernegara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "diatasi dalam sidang kecil yang lamanya",
+        "kurang dari 15 menit"
+      ],
+      "topik_materi": "Durasi Sidang Kecil Pendahuluan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan catatan Mohammad Hatta, sidang kecil penyelesaian masalah krusial tersebut berlangsung...",
+      "pilihan": {
+        "A": "Dalam waktu yang sangat singkat yaitu kurang dari 15 menit",
+        "B": "Selama lebih dari dua hari dua malam tanpa istirahat",
+        "C": "Sepanjang malam hingga fajar proklamasi kemerdekaan tiba",
+        "D": "Selama satu jam penuh dengan adu argumentasi naskah hukum",
+        "E": "Dalam beberapa tahapan pertemuan maraton antarutusan daerah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Masalah serius yang membahayakan keutuhan negara tersebut diselesaikan dalam **sidang kecil yang lamanya kurang dari 15 menit**.",
+        "alasan_kunci": "Opsi A tepat karena waktu pertemuan yang kurang dari 15 menit menunjukkan tingginya kedewasaan politik dan ketulusan para pemimpin bangsa. Tidak ada perdebatan bertele-tele yang membuang energi. Keikhlasan mengorbankan kepentingan kelompok melahirkan konsensus cepat demi keselamatan negara.",
+        "bedah_pengecoh": {
+          "B": "Sidang berhari-hari terjadi pada masa perumusan BPUPKI bulan Mei hingga Juli 1945.",
+          "C": "Perumusan malam hingga fajar adalah proses penyusunan teks Proklamasi di rumah Maeda.",
+          "D": "Rapat pendahuluan berlangsung sangat cepat tanpa adu argumentasi berkepanjangan.",
+          "E": "Pertemuan berlangsung satu kali secara ringkas sebelum sidang pleno PPKI dibuka resmi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "pemimpin-pemimpin tersebut di waktu itu benar-benar",
+        "mementingkan nasib dan persatuan bangsa"
+      ],
+      "topik_materi": "Makna Keberhasilan Sidang Cepat",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Penyelesaian masalah keutuhan negara dalam waktu kurang dari 15 menit membuktikan bahwa para pemimpin...",
+      "pilihan": {
+        "A": "Bersikap acuh tak acuh terhadap aspirasi konstituen pendukungnya",
+        "B": "Benar-benar mementingkan keselamatan nasib dan persatuan bangsa",
+        "C": "Terburu-buru karena khawatir terhadap serangan militer sekutu",
+        "D": "Menyerahkan urusan kenegaraan kepada keputusan sekelompok elite",
+        "E": "Memiliki keterbatasan pemahaman terhadap substansi ilmu hukum"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Keberhasilan tersebut adalah bukti bahwa **pemimpin-pemimpin di waktu itu benar-benar mementingkan nasib dan persatuan bangsa**.",
+        "alasan_kunci": "Opsi B tepat karena Hatta menegaskan bahwa kecepatan tercapainya konsensus mencerminkan kemurnian niat dan jiwa pengorbanan para pendiri republik. Mereka rela menanggalkan ego golongan demi nasib bersama ratusan juta rakyat Indonesia. Sikap ini adalah keteladanan tertinggi integritas kebangsaan.",
+        "bedah_pengecoh": {
+          "A": "Para pemimpin sangat bertanggung jawab dan memahami betul denyut aspirasi masyarakat luas.",
+          "C": "Keputusan diambil atas dasar kesadaran luhur kenegarawanan, bukan kepanikan semata.",
+          "D": "Keputusan diambil melalui perwakilan sah tokoh-tokoh utama yang disegani umat dan rakyat.",
+          "E": "Tokoh yang hadir seperti Kasman dan Hasan adalah ahli hukum terkemuka berpendidikan tinggi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "Wahid Hasyim, Mr. Kasman Singodimedjo",
+        "Mr. Teuku Mohammad Hasan"
+      ],
+      "topik_materi": "Komposisi Tokoh Rapat Konsensus",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Empat tokoh bangsa yang bermusyawarah bersama Hatta pada pagi 18 Agustus 1945 adalah...",
+      "pilihan": {
+        "A": "Soekarno, Achmad Soebardjo, Mohammad Yamin, dan Maramis",
+        "B": "Samanhudi, H.O.S. Tjokroaminoto, Soetomo, dan Mas Mansyur",
+        "C": "Radjiman, Soepomo, Abikoesno Tjokrosoejoso, dan Agus Salim",
+        "D": "Sjahrir, Amir Sjarifuddin, Tan Malaka, dan Chaerul Saleh",
+        "E": "Ki Bagus Hadikusumo, Wahid Hasyim, Kasman, dan Teuku Hasan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Empat tokoh yang diajak Hatta adalah **Ki Bagus Hadikusumo**, **Wahid Hasyim**, **Mr. Kasman Singodimedjo**, dan **Mr. Teuku Mohammad Hasan**.",
+        "alasan_kunci": "Opsi E tepat karena keempat tokoh ini merupakan pilar representasi umat Islam terkemuka dan wakil wilayah kepulauan luar Jawa. Mufakat di antara mereka menjamin diterimanya perubahan rumusan sila pertama secara bulat oleh seluruh komponen bangsa. Hal ini menjadi kunci sukses sidang PPKI.",
+        "bedah_pengecoh": {
+          "A": "Kelompok tokoh ini merupakan formatur umum perumusan naskah proklamasi dan undang-undang.",
+          "B": "Tjokroaminoto dan Samanhudi adalah tokoh pergerakan dekade awal abad kedua puluh.",
+          "C": "Radjiman dan Soepomo bertugas memimpin persidangan dan materi pasal-pasal konstitusi.",
+          "D": "Sjahrir dan pemuda revolusioner memusatkan aksi pada mobilisasi massa di lapangan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "menusuk hati kaum Kristen itu dan",
+        "menggantikannya dengan Ketuhanan Yang Maha Esa"
+      ],
+      "topik_materi": "Penggantian Rumusan Sila Pertama",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Frasa pengganti yang disepakati untuk menghadirkan rasa persaudaraan segenap pemeluk agama adalah...",
+      "pilihan": {
+        "A": "Keadilan yang beradab dan berkebudayaan nusantara",
+        "B": "Persatuan segenap pemeluk agama dan kepercayaan",
+        "C": "Ketuhanan Yang Maha Esa sebagai titik temu bersama",
+        "D": "Keimanan kepada Tuhan pembimbing perjuangan bangsa",
+        "E": "Toleransi antarumat beragama berlandaskan kerukunan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Bagian kalimat yang dipersoalkan digantikan dengan rumusan **Ketuhanan Yang Maha Esa**.",
+        "alasan_kunci": "Opsi C tepat karena rumusan Ketuhanan Yang Maha Esa bermakna monoteisme yang diakui oleh seluruh penganut agama di nusantara. Rumusan ini menjadi 'common denominator' atau titik temu yang mengikat batin segenap warga bangsa. Dengan demikian, persatuan Indonesia tetap kokoh terpelihara.",
+        "bedah_pengecoh": {
+          "A": "Keadilan yang beradab merupakan variasi rumusan dari prinsip sila kedua kemanusiaan.",
+          "B": "Persatuan segenap pemeluk bukan rumusan sila pertama yang disahkan dalam konstitusi.",
+          "D": "Keimanan pembimbing perjuangan merupakan frasa yang terdapat pada naskah proklamasi.",
+          "E": "Toleransi beragama adalah implementasi sikap dan bukan bunyi sila dasar falsafah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Rumusan Pancasila sebagai dasar negara yang tercantum dalam Alinea Keempat",
+        "Pembukaan UUD 1945"
+      ],
+      "topik_materi": "Tempat Tercantumnya Rumusan Sah Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rumusan sah Pancasila yang menjadi pedoman penyelenggaraan kehidupan kenegaraan tercantum dalam...",
+      "pilihan": {
+        "A": "Batang tubuh Pasal 1 ayat (1) Undang-Undang Dasar 1945",
+        "B": "Aturan peralihan ketentuan penutup konstitusi negara",
+        "C": "Naskah piagam deklarasi proklamasi kemerdekaan Indonesia",
+        "D": "Alinea keempat teks Pembukaan Undang-Undang Dasar 1945",
+        "E": "Ketetapan perundingan meja bundar penyerahan kedaulatan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Rumusan sah Pancasila sebagai dasar negara tercantum dalam **alinea keempat Pembukaan UUD 1945**.",
+        "alasan_kunci": "Opsi D tepat karena secara yuridis formal, rumusan sila-sila Pancasila ditempatkan dalam alinea keempat Pembukaan UUD 1945 yang disahkan PPKI. Alinea ini memuat tujuan negara, ketentuan UUD, bentuk republik, dan dasar falsafah lima sila. Kedudukannya adalah tertib hukum tertinggi negara.",
+        "bedah_pengecoh": {
+          "A": "Pasal 1 ayat (1) UUD 1945 mengatur bentuk negara kesatuan yang berbentuk republik.",
+          "B": "Aturan Peralihan mengatur keberlakuan badan dan peraturan lama sebelum dibentuk yang baru.",
+          "C": "Teks Proklamasi 17 Agustus 1945 memuat pernyataan kemerdekaan dan pemindahan kekuasaan.",
+          "E": "KMB adalah perundingan penyerahan kedaulatan tahun 1949 di Den Haag Belanda."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "adalah berasal dari Piagam Jakarta setelah dihapuskan",
+        "“tujuh kata” dalam sila pertama"
+      ],
+      "topik_materi": "Asal-Usul Pancasila Alinea Keempat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asal-usul rumusan dasar negara pada alinea keempat Pembukaan UUD 1945 bersumber dari...",
+      "pilihan": {
+        "A": "Dekrit Presiden 5 Juli yang diberlakukan di seluruh negeri",
+        "B": "Piagam Jakarta setelah penghapusan tujuh kata pada sila pertama",
+        "C": "Naskah usulan lisan rancangan undang-undang Mr. Muh. Yamin",
+        "D": "Pidato pembelaan pemimpin pergerakan di pengadilan kolonial",
+        "E": "Manifesto politik perhimpunan pelajar nusantara di negeri belanda"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pancasila dalam alinea keempat Pembukaan UUD 1945 **berasal dari Piagam Jakarta setelah dihapuskan tujuh kata dalam sila pertama**.",
+        "alasan_kunci": "Opsi B tepat karena rumusan sila kedua hingga kelima sama persis dengan yang disepakati Panitia Sembilan dalam Piagam Jakarta 22 Juni 1945. Satu-satunya modifikasi substansial adalah pada sila pertama untuk menjamin inklusivitas seluruh rakyat. Dengan demikian, Piagam Jakarta merupakan rahim historis dasar negara.",
+        "bedah_pengecoh": {
+          "A": "Dekrit Presiden 5 Juli 1959 menetapkan berlakunya kembali UUD 1945 pada era demokrasi terpimpin.",
+          "C": "Usulan Yamin pada 29 Mei merupakan masukan awal dalam fase persidangan BPUPKI.",
+          "D": "Pidato 'Indonesia Menggugat' adalah pleidoi pembelaan Bung Karno di hadapan hakim Bandung.",
+          "E": "Manifesto politik 1925 merupakan rintisan gagasan kesatuan dari Perhimpunan Indonesia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Mempunyai kedudukan yuridis konstitusional",
+        "merupakan bagian dari konstitusi (UUD)"
+      ],
+      "topik_materi": "Alasan Pertama Keabsahan Rumusan Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Alasan yuridis konstitusional yang mewajibkan pengamalan rumusan Pancasila alinea keempat adalah...",
+      "pilihan": {
+        "A": "Diterbitkan dalam lembaran berita militer tentara pendudukan",
+        "B": "Disusun berdasarkan tata kelola yurisprudensi mahkamah agung",
+        "C": "Mendapatkan verifikasi teknis dari perhimpunan advokat perdata",
+        "D": "Memuat sanksi pidana kurungan bagi pelanggar etika birokrasi",
+        "E": "Tercantum dan merupakan bagian tak terpisahkan dari konstitusi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Rumusan alinea keempat memiliki **kedudukan yuridis konstitusional yaitu tercantum atau merupakan bagian dari konstitusi (UUD)**.",
+        "alasan_kunci": "Opsi E tepat karena Pembukaan UUD 1945 memiliki kekuatan hukum mengikat tertinggi dalam hierarki peraturan perundang-undangan di Indonesia. Karena tercantum dalam naskah konstitusi, setiap warga negara dan penyelenggara negara terikat secara hukum untuk mengamalkannya. Hal ini menjamin kepatuhan konstitusional.",
+        "bedah_pengecoh": {
+          "A": "Pemberitaan militer bukan sumber legitimasi tata hukum ketatanegaraan Indonesia merdeka.",
+          "B": "Yurisprudensi peradilan merupakan sumber hukum pelengkap dan bukan pembentuk konstitusi dasar.",
+          "C": "Verifikasi asosiasi advokat tidak menjadi syarat keabsahan dokumen konstitusi negara.",
+          "D": "Sanksi pidana diatur dalam Kitab Undang-Undang Hukum Pidana dan undang-undang khusus."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Disahkan oleh lembaga atau badan yang mewakili seluruh bangsa",
+        "Indonesia (PPKI)"
+      ],
+      "topik_materi": "Alasan Kedua Keabsahan Rumusan Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Alasan legitimasi sosiopolitis rumusan Pancasila Pembukaan UUD 1945 wajib diamalkan adalah...",
+      "pilihan": {
+        "A": "Disahkan oleh lembaga PPKI yang mewakili seluruh bangsa Indonesia",
+        "B": "Ditetapkan melalui pemungutan suara perwakilan kamar dagang asing",
+        "C": "Merupakan hasil konsensus delegasi koalisi partai politik parlemen",
+        "D": "Memperoleh persetujuan dari perwakilan komando jenderal sekutu",
+        "E": "Diumumkan oleh korps pegawai negeri sipil keresidenan kota"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pancasila sah karena **disahkan oleh lembaga atau badan yang mewakili seluruh bangsa Indonesia (PPKI)**.",
+        "alasan_kunci": "Opsi A tepat karena PPKI bertindak sebagai representasi seluruh rakyat dan wilayah kepulauan Indonesia saat proklamasi dikumandangkan. Pengesahan oleh PPKI mencerminkan kesepakatan agung (modus vivendi) seluruh elemen bangsa dari Sabang sampai Merauke. Hal ini memberikan legitimasi moral dan politik mutlak.",
+        "bedah_pengecoh": {
+          "B": "Kamar dagang asing tidak memiliki hak legitimasi dalam pembentukan hukum dasar bangsa.",
+          "C": "Partai politik modern belum dibentuk pada hari pertama sidang pengesahan konstitusi.",
+          "D": "Pihak militer Sekutu tidak pernah memberikan persetujuan politik terhadap kemerdekaan.",
+          "E": "Korps kepegawaian bertugas menjalankan birokrasi dan bukan pengesah dasar negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "pandangan",
+        "hidup, maupun jiwa bangsa"
+      ],
+      "topik_materi": "Perjalanan Panjang Penetapan Falsafah Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sebelum sah ditetapkan sebagai dasar negara, nilai-nilai Pancasila telah lama hidup sebagai...",
+      "pilihan": {
+        "A": "Doktrin tertulis yang diratifikasi oleh organisasi persemakmuran",
+        "B": "Kaidah hukum adat yang dibukukan oleh sarjana hukum eropa",
+        "C": "Kepribadian, pandangan hidup, serta jiwa kepribadian bangsa",
+        "D": "Instruksi dinas tata tertib pegawai pamong praja nusantara",
+        "E": "Sistem perniagaan barter di bandar-bandar pelabuhan maritim"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pancasila dari awalnya sudah merupakan **kepribadian, pandangan hidup, maupun jiwa bangsa**, sebelum akhirnya ditetapkan sebagai dasar negara.",
+        "alasan_kunci": "Opsi C tepat karena nilai gotong royong, musyawarah, religiositas, dan kemanusiaan telah mendarah daging dalam kebudayaan masyarakat nusantara sejak berabad-abad lampau. Para pendiri bangsa menggali nilai-nilai tersebut menjadi dasar falsafah formal negara. Pancasila bukanlah ideologi impor melainkan jati diri bangsa.",
+        "bedah_pengecoh": {
+          "A": "Organisasi persemakmuran bentukan barat tidak memiliki kaitan dengan kepribadian nusantara.",
+          "B": "Kodifikasi hukum adat oleh sarjana Belanda bersifat parsial dan bukan pembentuk Pancasila.",
+          "D": "Pancasila bersumber dari kearifan hidup rakyat, bukan aturan birokrasi pamong praja kolonial.",
+          "E": "Sistem niaga barter adalah aktivitas perekonomian masa lalu, bukan sumber nilai kepribadian bangsa."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Persatuan Indonesia",
+        "Keadilan sosial bagi Seluruh Rakyat Indonesia"
+      ],
+      "topik_materi": "Kesamaan Rumusan Sila Kedua hingga Kelima",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perbandingan rumusan Piagam Jakarta dengan Pembukaan UUD 1945 menunjukkan bahwa...",
+      "pilihan": {
+        "A": "Terjadi perubahan menyeluruh pada susunan kelima sila dasar negara",
+        "B": "Sila kedua hingga sila kelima memiliki rumusan yang tetap sama",
+        "C": "Sila kelima dipindahkan menjadi sila kedua dalam pembukaan konstitusi",
+        "D": "Sila ketiga diubah rumusannya mengikuti susunan trisila soekarno",
+        "E": "Sila keempat disederhanakan tanpa memuat permusyawaratan perwakilan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Rumusan sila kedua, ketiga, keempat, dan kelima antara Piagam Jakarta dan Pembukaan UUD 1945 **memiliki rumusan yang tetap persis sama**.",
+        "alasan_kunci": "Opsi B tepat karena dari kelima sila, perubahan naskah hanya terjadi pada sila pertama melalui pencoretan tujuh kata. Sila Kemanusiaan yang adil dan beradab, Persatuan Indonesia, Kerakyatan, dan Keadilan sosial tetap dipertahankan redaksinya secara utuh. Ini membuktikan konsensus kebangsaan tetap terjaga.",
+        "bedah_pengecoh": {
+          "A": "Hanya sila pertama yang mengalami perbaikan rumusan, bukan keseluruhan kelima sila.",
+          "C": "Urutan sila kelima tetap pada posisi kelima dan tidak pernah dipindahkan ke sila kedua.",
+          "D": "Sila ketiga tetap berbunyi Persatuan Indonesia, bukan konsep sosio nasionalisme Trisila.",
+          "E": "Sila keempat tetap mencantumkan klausul permusyawaratan/perwakilan secara lengkap."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "rumusan sah dari Pancasila yang wajib kita",
+        "laksanakan dan diamalkan"
+      ],
+      "topik_materi": "Kewajiban Pengamalan Rumusan Sah",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Kewajiban warga negara terhadap rumusan sah Pancasila dalam kehidupan berbangsa adalah...",
+      "pilihan": {
+        "A": "Mempelajari sejarahnya tanpa keharusan menerapkan dalam pekerjaan",
+        "B": "Menjadikannya bahan diskusi akademis di lingkungan perguruan tinggi",
+        "C": "Mengganti rumusan pasal sesuai dengan kecenderungan tren global",
+        "D": "Membatasi penerapannya pada saat penyelenggaraan upacara bendera",
+        "E": "Melaksanakan dan mengamalkannya dalam tata kehidupan bernegara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Rumusan sah Pancasila wajib **kita laksanakan dan diamalkan dalam tata kehidupan bermasyarakat, berbangsa, dan bernegara**.",
+        "alasan_kunci": "Opsi E tepat karena Pancasila bukan sekadar teks historis atau pajangan formalitas, melainkan pedoman hidup operasional bagi seluruh warga negara. Nilai-nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan wajib diwujudkan dalam tindakan nyata. Hal ini menjamin kelangsungan hidup bernegara yang harmonis.",
+        "bedah_pengecoh": {
+          "A": "Pancasila menuntut pengamalan nyata dalam kehidupan sehari-hari dan bukan sekadar pengetahuan.",
+          "B": "Pancasila harus dibumikan dalam perbuatan masyarakat, bukan sebatas wacana perdebatan kampus.",
+          "C": "Dasar negara bersifat final dan tidak boleh diubah mengikuti arus pergolakan tren global.",
+          "D": "Penerapan Pancasila mencakup seluruh aspek kehidupan, tidak terbatas pada upacara formal."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "ditetapkan sebagai dasar negara atau",
+        "dasar falsafah negara"
+      ],
+      "topik_materi": "Kedudukan Pancasila sebagai Dasar Falsafah Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penetapan Pancasila dalam alinea keempat Pembukaan UUD 1945 mengukuhkan kedudukannya sebagai...",
+      "pilihan": {
+        "A": "Hukum acara pidana khusus peradilan tata usaha militer",
+        "B": "Piagam kesepakatan gencatan senjata dengan perwakilan sekutu",
+        "C": "Peraturan teknis tata kerja kepegawaian kementerian negara",
+        "D": "Dasar negara serta dasar falsafah hidup bagi Negara Indonesia",
+        "E": "Petunjuk pelaksanaan anggaran belanja daerah tingkat provinsi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pancasila ditetapkan sebagai **dasar negara atau dasar falsafah negara** sebagaimana tercantum dalam Pembukaan UUD 1945.",
+        "alasan_kunci": "Opsi D tepat karena dasar falsafah negara (philosofische grondslag) berfungsi sebagai norma fundamental pembimbing seluruh peraturan hukum dan arah kebijakan nasional. Seluruh produk perundang-undangan harus bersumber dan tidak boleh bertentangan dengan Pancasila. Inilah kedudukan tertinggi Pancasila dalam tatanan ketatanegaraan.",
+        "bedah_pengecoh": {
+          "A": "Hukum acara pidana militer diatur dalam perundang-undangan khusus tentang peradilan militer.",
+          "B": "Pancasila adalah konstitusi moral bangsa merdeka, bukan piagam perundingan perang.",
+          "C": "Aturan teknis kepegawaian diatur melalui peraturan pemerintah dan peraturan menteri.",
+          "E": "Petunjuk teknis anggaran daerah diatur dalam peraturan menteri dalam negeri dan perda."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/",
+        "Perwakilan"
+      ],
+      "topik_materi": "Bunyi Utuh Sila Keempat Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rumusan sah Sila Keempat yang tercantum dalam alinea keempat Pembukaan UUD 1945 berbunyi...",
+      "pilihan": {
+        "A": "Kedaulatan rakyat yang dipimpin oleh kebijaksanaan dewan parlemen",
+        "B": "Demokrasi kerakyatan berdasarkan pemufakatan majelis permusyawaratan",
+        "C": "Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan",
+        "D": "Kerakyatan yang menjunjung tinggi suara mayoritas warga nusantara",
+        "E": "Kedaulatan di tangan rakyat berlandaskan permusyawaratan gotong royong"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sila keempat berbunyi **Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan**.",
+        "alasan_kunci": "Opsi C tepat karena teks resmi sila keempat menekankan kepemimpinan akal budi luhur (hikmat kebijaksanaan) dalam mekanisme musyawarah perwakilan. Asas ini membedakan demokrasi Indonesia dari sistem demokrasi liberal yang mengandalkan dominasi angka semata. Nilai ini menjamin keputusan diambil demi kebaikan bersama.",
+        "bedah_pengecoh": {
+          "A": "Kedaulatan dewan parlemen merujuk sistem perwakilan parlementer barat, bukan teks sila keempat.",
+          "B": "Pemufakatan majelis merupakan istilah umum kelembagaan dan bukan teks resmi sila keempat.",
+          "D": "Pancasila menolak tirani mayoritas maupun tirani minoritas dalam pengambilan keputusan.",
+          "E": "Kedaulatan di tangan rakyat adalah bunyi rumusan Pasal 1 ayat (2) UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "berarti disepakati oleh",
+        "seluruh bangsa Indonesia"
+      ],
+      "topik_materi": "Makna Pengesahan oleh PPKI",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pengesahan rumusan Pancasila oleh PPKI pada 18 Agustus 1945 mengandung arti sosiologis bahwa...",
+      "pilihan": {
+        "A": "Dasar negara telah disepakati dan diterima oleh seluruh bangsa Indonesia",
+        "B": "Keputusan berlaku terbatas bagi masyarakat pulau Jawa dan Madura",
+        "C": "Pemberlakuan konstitusi menunggu penandatanganan traktat diplomatik",
+        "D": "Dasar negara bersifat percobaan sebelum diselenggarakannya pemilu pertama",
+        "E": "Pemerintah pusat dapat membatalkan rumusan sila sewaktu-waktu"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pengesahan oleh PPKI berarti dasar negara telah **disepakati oleh seluruh bangsa Indonesia**.",
+        "alasan_kunci": "Opsi A tepat karena PPKI mencerminkan keterwakilan sosiologis seluruh suku, agama, dan wilayah kepulauan Indonesia. Kesepakatan yang dicapai dalam sidang PPKI mengikat seluruh rakyat secara lahir dan batin sebagai suatu perjanjian luhur kebangsaan. Konsensus ini menjadi modal persatuan yang kokoh.",
+        "bedah_pengecoh": {
+          "B": "Anggota PPKI mewakili kepulauan Sumatra, Jawa, Sulawesi, Maluku, Kalimantan, dan Nusa Tenggara.",
+          "C": "Konstitusi berlaku serta merta sejak tanggal pengesahan tanpa menunggu traktat luar negeri.",
+          "D": "Pancasila disahkan sebagai dasar permanen negara berdaulat, bukan konstitusi percobaan.",
+          "E": "Pemerintah tidak memiliki wewenang sepihak membatalkan teks Pembukaan UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Pengamalan Pancasila sebagai dasar negara adalah sebagai dasar",
+        "penyelenggaraan negara untuk mewujudkan cita-cita bangsa"
+      ],
+      "topik_materi": "Hakikat Pengamalan Pancasila sebagai Dasar Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hakikat pengamalan Pancasila sebagai dasar negara bermuara pada tujuan pokok yaitu...",
+      "pilihan": {
+        "A": "Membangun dominasi militer kepulauan di panggung perpolitikan global",
+        "B": "Mewajibkan pendirian kantor perwakilan diplomatik di setiap benua",
+        "C": "Menata persaingan bebas korporasi swasta dalam penguasaan sumber daya",
+        "D": "Memusatkan pengelolaan pendapatan daerah ke dalam kas perbendaharaan",
+        "E": "Menyelenggarakan negara demi mewujudkan masyarakat adil dan makmur"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pengamalan Pancasila sebagai dasar negara adalah sebagai **dasar penyelenggaraan negara untuk mewujudkan cita-cita bangsa sesuai tujuan nasional yaitu mewujudkan masyarakat adil makmur**.",
+        "alasan_kunci": "Opsi E tepat karena fungsi utama dasar negara adalah memandu jalannya pemerintahan agar selalu berorientasi pada kemakmuran dan keadilan bagi seluruh rakyat. Seluruh instrumen kenegaraan digerakkan demi mencapai cita-cita kemerdekaan tersebut. Hal ini sejalan dengan amanat Pembukaan UUD 1945.",
+        "bedah_pengecoh": {
+          "A": "Indonesia menganut prinsip politik bebas aktif untuk perdamaian, bukan hegemoni militer.",
+          "B": "Pembukaan pos diplomatik adalah teknis hubungan luar negeri dan bukan cita-cita hakiki dasar negara.",
+          "C": "Pancasila menentang persaingan bebas liberal yang meminggirkan keadilan masyarakat kecil.",
+          "D": "Pancasila menganut desentralisasi yang adil dan seimbang dalam hubungan keuangan daerah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Pembukaan UUD 1945",
+        "terkandung dalam pasal-pasal UUD 1945"
+      ],
+      "topik_materi": "Dua Dimensi Pengamalan Dasar Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Secara konstitusional, ruang lingkup pengamalan Pancasila sebagai dasar negara mencakup...",
+      "pilihan": {
+        "A": "Perubahan pasal undang-undang dasar mengikuti perjanjian kredit luar negeri",
+        "B": "Pembatasan hak berorganisasi bagi masyarakat di wilayah pedalaman",
+        "C": "Pengamalan pokok pikiran Pembukaan dan prinsip-prinsip pasal UUD 1945",
+        "D": "Penerapan doktrin hukum pidana kolonial dalam seluruh sengketa perdata",
+        "E": "Penyerahan kewenangan moneter kepada lembaga perbankan multinasional"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pengamalan Pancasila sebagai dasar negara meliputi **pengamalan pokok-pokok pikiran Pembukaan UUD 1945 dan pelaksanaan prinsip-prinsip pasal UUD 1945**.",
+        "alasan_kunci": "Opsi C tepat karena Pembukaan memuat norma fundamental negara sedangkan pasal-pasal memuat norma hukum operasional yang mengikat lembaga negara dan warga. Keduanya merupakan kesatuan utuh yang saling menopang dalam ketatanegaraan Indonesia. Mengamalkan dasar negara berarti mematuhi kedua aspek tersebut.",
+        "bedah_pengecoh": {
+          "A": "Amandemen konstitusi berakar pada kedaulatan rakyat dan bukan desakan kreditor asing.",
+          "B": "Hak berserikat dan berkumpul dijamin secara konstitusional bagi segenap warga negara.",
+          "D": "Hukum nasional diarahkan menuju dekolonisasi dan pembaruan hukum berlandaskan Pancasila.",
+          "E": "Kedaulatan moneter berada di tangan bank sentral independen milik Republik Indonesia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "dasar untuk mengatur penyelenggaraan negara",
+        "termasuk penyelenggaraan pemerintahan"
+      ],
+      "topik_materi": "Fungsi Pancasila Mengatur Pemerintahan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Makna operasional mengamalkan Pancasila sebagai dasar negara bagi birokrasi pemerintahan adalah...",
+      "pilihan": {
+        "A": "Menjadikan Pancasila sebagai dasar mengatur penyelenggaraan pemerintahan",
+        "B": "Menjadikan pertimbangan laba komersial sebagai ukuran utama pelayanan publik",
+        "C": "Memberikan hak istimewa perizinan kepada korporasi pemodal terbesar",
+        "D": "Mengharuskan setiap aparatur menjadi anggota salah satu partai politik",
+        "E": "Mendelegasikan fungsi pertahanan keamanan kepada perusahaan swasta"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Mengamalkan Pancasila sebagai dasar negara berarti **mengamalkan Pancasila sebagai dasar untuk mengatur penyelenggaraan negara, termasuk penyelenggaraan pemerintahan**.",
+        "alasan_kunci": "Opsi A tepat karena birokrasi pemerintahan berkewajiban merujuk pada nilai-nilai Pancasila dalam merumuskan kebijakan, menyusun anggaran, dan melayani masyarakat. Tata kelola pemerintahan tidak boleh dijalankan atas dasar kekuasaan sewenang-wenang. Pancasila menjadi kompas etika dan hukum tata negara.",
+        "bedah_pengecoh": {
+          "B": "Pelayanan publik berorientasi pada kemanfaatan umum dan keadilan, bukan mengejar laba bisnis.",
+          "C": "Pemberian fasilitas istimewa bertentangan dengan prinsip keadilan dan kesetaraan hukum.",
+          "D": "Aparatur sipil negara diwajibkan menjaga netralitas dari afiliasi kepentingan partai politik.",
+          "E": "Pertahanan keamanan adalah wewenang mutlak negara yang tidak boleh diserahkan ke swasta."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "penuangan jiwa Proklamasi Kemerdekaan",
+        "mengandung empat pokok pikiran"
+      ],
+      "topik_materi": "Penuangan Jiwa Proklamasi dalam Pembukaan UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penuangan jiwa Proklamasi Kemerdekaan 17 Agustus 1945 ke dalam Pembukaan UUD 1945 terwujud dalam...",
+      "pilihan": {
+        "A": "Tiga pilar doktrin pembagian kekuasaan trias politika murni",
+        "B": "Dua belas butir rencana pembangunan jangka panjang nasional",
+        "C": "Sepuluh pedoman pelaksanaan pemilihan umum berkala serentak",
+        "D": "Empat pokok pikiran yang menjiwai seluruh batang tubuh konstitusi",
+        "E": "Lima program percepatan pemulihan ekonomi pasca kemerdekaan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Penuangan jiwa Proklamasi Kemerdekaan ke dalam Pembukaan UUD 1945 **mengandung empat pokok pikiran**.",
+        "alasan_kunci": "Opsi D tepat karena Pembukaan UUD 1945 memuat empat pokok pikiran yang merupakan pancaran langsung dari sila-sila Pancasila. Keempat pokok pikiran ini menjadi asas kerohanian negara yang kemudian dijabarkan ke dalam pasal-pasal UUD 1945. Inilah konstruksi filosofis konstitusi Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Indonesia menganut pembagian kekuasaan (distribution of power) dan bukan pemisahan murni.",
+          "B": "Rencana pembangunan nasional merupakan produk kebijakan perencanaan dan perundang-undangan.",
+          "C": "Ketentuan teknis pemilu diatur dalam undang-undang tersendiri dan bukan materi pokok pikiran.",
+          "E": "Program pemulihan ekonomi adalah kebijakan situasional kabinet pemerintahan awal revolusi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "kewajiban setiap warga negara untuk menghayati",
+        "secara utuh nilai-nilai yang terkandung"
+      ],
+      "topik_materi": "Kewajiban Warga Negara terhadap Nilai Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban fundamental setiap warga negara dalam rangka menjaga kelestarian dasar negara adalah...",
+      "pilihan": {
+        "A": "Menghafalkan urutan pasal-pasal pidana tanpa mempraktikkan etikanya",
+        "B": "Menghayati secara utuh serta mengamalkan nilai Pancasila secara konsisten",
+        "C": "Menyusun traktat kerja sama keamanan bilateral dengan negara tetangga",
+        "D": "Mendirikan partai politik berbasis kedaerahan di setiap provinsi",
+        "E": "Mengawasi jalannya peradilan militer di lingkungan komando daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Menjadi kewajiban setiap warga negara untuk **menghayati secara utuh nilai-nilai Pancasila agar dapat mengamalkannya secara konsisten dan bertanggung jawab**.",
+        "alasan_kunci": "Opsi B tepat karena pemahaman yang parsial atau terputus-putus dapat memicu salah tafsir terhadap Pancasila. Kelima sila saling menjiwai dan merupakan kesatuan bulat yang tidak dapat dipisahkan. Penghayatan utuh melahirkan pengamalan konsisten dalam kehidupan bermasyarakat dan bernegara.",
+        "bedah_pengecoh": {
+          "A": "Hafalan tanpa pengamalan etika tidak memberikan dampak positif bagi keadaban bangsa.",
+          "C": "Perjanjian pertahanan bilateral merupakan kewenangan pemerintah pusat dan menteri luar negeri.",
+          "D": "Partai politik di Indonesia wajib berasaskan kesatuan nasional dan bukan paham kedaerahan.",
+          "E": "Pengawasan peradilan militer dijalankan oleh instansi penegak hukum militer yang sah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Negara persatuan (sila ketiga)",
+        "melindungi segenap bangsa Indonesia dan seluruh tumpah darah"
+      ],
+      "topik_materi": "Substansi Pokok Pikiran Pertama",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Substansi Pokok Pikiran Pertama dalam Pembukaan UUD 1945 menegaskan prinsip...",
+      "pilihan": {
+        "A": "Negara serikat yang memberikan hak kedaulatan mutlak kepada negara bagian",
+        "B": "Negara monarki konstitusional di bawah pimpinan seorang perdana menteri",
+        "C": "Negara persatuan yang melindungi segenap bangsa dan tumpah darah",
+        "D": "Negara korporatis yang mengutamakan kepentingan perserikatan dagang",
+        "E": "Negara persemakmuran yang terikat pada pakta pertahanan militer dunia"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pokok Pikiran Pertama menegaskan **Negara persatuan (sila ketiga) yang melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia**.",
+        "alasan_kunci": "Opsi C tepat karena pokok pikiran pertama mewajibkan negara menjamin keselamatan seluruh rakyat dan menjaga keutuhan seluruh wilayah nusantara. Negara berdiri tegak menaungi segenap kemajemukan bangsa tanpa membedakan latar belakang suku atau wilayah. Inilah manifestasi sila persatuan Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Bentuk negara serikat bertentangan dengan prinsip negara kesatuan yang dicita-citakan.",
+          "B": "Sistem monarki konstitusional tidak sesuai dengan bentuk republik kedaulatan rakyat.",
+          "D": "Negara korporatis menempatkan sindikat bisnis di atas kepentingan umum rakyat banyak.",
+          "E": "Indonesia menolak terikat pakta pertahanan militer demi menjaga politik luar negeri bebas aktif."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "negara mengatasi segala paham",
+        "golongan, mengatasi segala paham perorangan"
+      ],
+      "topik_materi": "Prinsip Mengatasi Paham Golongan dan Perseorangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam penyelenggaraan negara berdasarkan Pokok Pikiran Persatuan, kedudukan negara adalah...",
+      "pilihan": {
+        "A": "Alat pemaksa kekuasaan bagi partai politik pemenang pemilihan umum",
+        "B": "Wadah federasi antarsuku yang memiliki hak veto kebijakan pusat",
+        "C": "Pelindung khusus bagi golongan pemilik modal investasi perbankan",
+        "D": "Pemberi kebebasan tanpa batas bagi propaganda persaingan individu",
+        "E": "Mengatasi segala paham golongan dan mengatasi segala paham perorangan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dalam pokok pikiran persatuan, **negara mengatasi segala paham golongan dan mengatasi segala paham perorangan**.",
+        "alasan_kunci": "Opsi E tepat karena negara tidak boleh dikuasai atau berpihak secara eksklusif kepada kelompok tertentu, baik golongan mayoritas, bangsawan, maupun pemilik modal. Negara berdiri di atas semua kelompok demi mewujudkan keadilan bersama. Hal ini mencerminkan paham integralistik kebangsaan.",
+        "bedah_pengecoh": {
+          "A": "Negara bukan instrumen kekuasaan sepihak pemenang pemilu untuk menekan kelompok lain.",
+          "B": "Sistem veto suku bertentangan dengan musyawarah mufakat demi persatuan nasional.",
+          "C": "Perlindungan negara diberikan secara berkeadilan tanpa perlakuan istimewa kepada konglomerat.",
+          "D": "Kebebasan individu dibatasi oleh norma hukum, kesusilaan, dan hak-hak orang lain."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "mengutamakan kepentingan negara dan rakyat di atas",
+        "kepentingan golongan dan kepentingan perorangan"
+      ],
+      "topik_materi": "Skala Prioritas Kepentingan Nasional",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Sikap aparatur pemerintah yang mencerminkan Pokok Pikiran Persatuan dalam pelayanan adalah...",
+      "pilihan": {
+        "A": "Mengutamakan kepentingan bangsa dan rakyat di atas kepentingan pribadi",
+        "B": "Mendahulukan penyelesaian berkas rekan separtai sebelum memproses masyarakat",
+        "C": "Mengalihkan fasilitas kedinasan untuk mendukung kegiatan bisnis keluarga",
+        "D": "Membatasi pelayanan bagi warga dari daerah yang berbeda latar belakang budaya",
+        "E": "Menyimpan data publik sebagai konsumsi terbatas kelompok pertemanan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Negara dan rakyat Indonesia **mengutamakan kepentingan negara dan rakyat di atas kepentingan golongan dan kepentingan perorangan**.",
+        "alasan_kunci": "Opsi A tepat karena aparatur sipil negara terikat kewajiban etika untuk mendahulukan kemaslahatan umum dibandingkan keuntungan pribadi atau kelompoknya. Loyalitas aparatur ditujukan sepenuhnya kepada bangsa dan negara. Penerapan sikap ini mencegah terjadinya korupsi, kolusi, dan nepotisme.",
+        "bedah_pengecoh": {
+          "B": "Mendahulukan rekan separtai merupakan praktik nepotisme yang melanggar netralitas aparatur.",
+          "C": "Pemanfaatan aset dinas untuk bisnis pribadi merupakan bentuk penyalahgunaan fasilitas negara.",
+          "D": "Diskriminasi pelayanan berdasarkan asal daerah bertentangan dengan kode etik aparatur.",
+          "E": "Penyembunyian informasi publik melanggar asas transparansi tata kelola pemerintahan yang baik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "menghendaki persatuan, meliputi segenap",
+        "bangsa Indonesia seluruhnya"
+      ],
+      "topik_materi": "Cakupan Persatuan Pembukaan UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengertian persatuan dalam Pembukaan UUD 1945 bersifat inklusif karena menghendaki persatuan...",
+      "pilihan": {
+        "A": "Terbatas di antara perkumpulan saudagar terkemuka kota pelabuhan",
+        "B": "Berdasarkan kesamaan garis keturunan biologis klan tertentu",
+        "C": "Terbatas pada wilayah pulau yang padat jumlah penduduk warganya",
+        "D": "Yang meliputi segenap komponen bangsa Indonesia secara menyeluruh",
+        "E": "Di antara kelompok elite birokrasi pemerintahan pusat ibu kota"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Negara menurut pengertian dalam Pembukaan UUD 1945 **menghendaki persatuan, meliputi segenap bangsa Indonesia seluruhnya**.",
+        "alasan_kunci": "Opsi D tepat karena persatuan Indonesia merangkul seluruh suku bangsa, golongan sosial, dan pulau di nusantara tanpa pemisahan wilayah inti dan pinggiran. Segenap warga dipandang setara dalam hak dan kewajiban sebagai tumpah darah Indonesia. Inilah esensi persatuan yang utuh dan menyeluruh.",
+        "bedah_pengecoh": {
+          "A": "Persatuan bangsa bukan aliansi kartel bisnis antarsaudagar di kawasan perdagangan.",
+          "B": "Konsep bangsa Indonesia bersifat politis-sosiologis kebangsaan, bukan ikatan klan rasial.",
+          "C": "Persatuan mencakup seluruh pulau dari Sabang sampai Merauke, termasuk pulau terluar.",
+          "E": "Persatuan adalah milik segenap rakyat jelata dan bukan monopoli kalangan elite penguasa."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "Pernyataan ini terkandung dalam",
+        "alinea keempat Pembukaan UUD 1945"
+      ],
+      "topik_materi": "Letak Klausul Melindungi Segenap Bangsa",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Klausul negara melindungi segenap bangsa dan seluruh tumpah darah secara eksplisit tercantum dalam...",
+      "pilihan": {
+        "A": "Alinea pertama naskah Pembukaan Undang-Undang Dasar 1945",
+        "B": "Alinea keempat naskah Pembukaan Undang-Undang Dasar 1945",
+        "C": "Alinea kedua teks pernyataan kemerdekaan bangsa Indonesia",
+        "D": "Penjelasan umum mengenai sistem pemerintahan presidensial",
+        "E": "Pasal aturan peralihan penyerahan inventaris aset negara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pernyataan melindungi segenap bangsa Indonesia dan seluruh tumpah darah terkandung dalam **alinea keempat Pembukaan UUD 1945**.",
+        "alasan_kunci": "Opsi B tepat karena alinea keempat memuat tujuan nasional pertama yaitu melindungi segenap bangsa dan tumpah darah. Tujuan ini menjadi mandat perlindungan keamanan dan kedaulatan negara. Kalimat ini mendahului penyebutan tujuan kesejahteraan dan pencerdasan bangsa.",
+        "bedah_pengecoh": {
+          "A": "Alinea pertama menegaskan hak kemerdekaan segala bangsa dan penolakan atas penjajahan.",
+          "C": "Alinea kedua menegaskan keberhasilan pergerakan mengantar rakyat ke pintu gerbang merdeka.",
+          "D": "Penjelasan umum menjelaskan sistem ketatanegaraan tanpa memuat teks resmi tujuan nasional.",
+          "E": "Aturan peralihan mengatur kontinuitas hukum lama sebelum dibentuk peraturan baru."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Negara bertujuan mewujudkan keadilan sosial bagi seluruh rakyat",
+        "sila kelima"
+      ],
+      "topik_materi": "Substansi Pokok Pikiran Kedua",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Substansi Pokok Pikiran Kedua dalam Pembukaan UUD 1945 memuat tujuan mewujudkan...",
+      "pilihan": {
+        "A": "Keadilan sosial bagi seluruh rakyat Indonesia (sila kelima)",
+        "B": "Persekutuan pertahanan bersama dengan negara adidaya dunia",
+        "C": "Pemusatan seluruh hak kepemilikan tanah ke dalam kas negara",
+        "D": "Kebebasan pasar monopoli bagi perserikatan niaga perkapalan",
+        "E": "Penghapusan seluruh subsidi sosial bagi masyarakat miskin"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pokok Pikiran Kedua menegaskan **Negara bertujuan mewujudkan keadilan sosial bagi seluruh rakyat dalam rangka mewujudkan Indonesia yang merdeka, bersatu, berdaulat, adil, dan makmur (sila kelima)**.",
+        "alasan_kunci": "Opsi A tepat karena keadilan sosial merupakan muara akhir dari seluruh perjuangan mendirikan negara merdeka. Negara tidak boleh membiarkan ketimpangan ekstrem antara kaya dan miskin terus berlanjut. Pokok pikiran ini menuntut negara memajukan kesejahteraan umum bagi segenap rakyat.",
+        "bedah_pengecoh": {
+          "B": "Aliansi militer asing bertentangan dengan prinsip non-blok politik luar negeri Indonesia.",
+          "C": "Hak milik perorangan tetap diakui dengan fungsi sosial, tidak dihapuskan sewenang-wenang.",
+          "D": "Monopoli pasar ditentang karena merusak sendi perekonomian dan mematikan usaha rakyat.",
+          "E": "Negara berkewajiban menyelenggarakan jaminan dan bantuan sosial bagi warga miskin."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "kewajiban memajukan kesejahteraan umum",
+        "mencerdaskan kehidupan bangsa"
+      ],
+      "topik_materi": "Tiga Kewajiban Negara dalam Pokok Pikiran Keadilan Sosial",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban negara yang tercantum dalam pokok pikiran keadilan sosial meliputi...",
+      "pilihan": {
+        "A": "Menetapkan tarif pajak tertinggi kepada sektor industri kecil",
+        "B": "Mewajibkan ekspor seluruh bahan mentah tanpa pengolahan hilirisasi",
+        "C": "Membatasi kuota penerimaan peserta didik dari keluarga prasejahtera",
+        "D": "Menghentikan pembangunan sarana kesehatan di daerah kepulauan",
+        "E": "Memajukan kesejahteraan umum dan mencerdaskan kehidupan bangsa"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dalam pokok pikiran keadilan sosial, negara berkewajiban **memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan mewujudkan keadilan sosial bagi seluruh rakyat Indonesia**.",
+        "alasan_kunci": "Opsi E tepat karena memajukan kesejahteraan dan mencerdaskan kehidupan bangsa adalah pilar utama pemenuhan hak-hak dasar warga negara. Tanpa pendidikan bermutu dan kesejahteraan layak, keadilan sosial tidak akan pernah terwujud. Inilah tugas luhur negara yang dimandatkan konstitusi.",
+        "bedah_pengecoh": {
+          "A": "Pajak disusun secara progresif dan adil untuk melindungi industri kecil dan menengah.",
+          "B": "Perekonomian nasional mendorong kemandirian dan hilirisasi demi nilai tambah bangsa.",
+          "C": "Negara wajib menjamin akses pendidikan seluas-luasnya bagi seluruh anak bangsa.",
+          "D": "Fasilitas kesehatan wajib dibangun merata hingga ke pelosok wilayah perbatasan terluar."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Negara berkedaulatan rakyat berdasarkan atas kerakyatan dalam",
+        "permusyawaratan/ perwakilan (sila keempat)"
+      ],
+      "topik_materi": "Substansi Pokok Pikiran Ketiga",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Substansi Pokok Pikiran Ketiga dalam Pembukaan UUD 1945 adalah...",
+      "pilihan": {
+        "A": "Kekuasaan pemerintahan tertinggi dipimpin komando tentara",
+        "B": "Sistem perwakilan yang diisi eksklusif oleh kelompok ningrat feodal",
+        "C": "Negara berkedaulatan rakyat berdasar permusyawaratan perwakilan",
+        "D": "Kewenangan mutlak kepala negara menetapkan undang-undang sendiri",
+        "E": "Penghapusan lembaga perwakilan rakyat demi efisiensi birokrasi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pokok Pikiran Ketiga menegaskan **Negara berkedaulatan rakyat berdasarkan atas kerakyatan dalam permusyawaratan/perwakilan (sila keempat)**.",
+        "alasan_kunci": "Opsi C tepat karena pokok pikiran ini meletakkan fondasi demokrasi Indonesia di mana kedaulatan berada di tangan rakyat. Rakyat menyalurkan aspirasinya melalui lembaga perwakilan secara musyawarah mufakat. Asas ini mencegah lahirnya pemerintahan otoriter atau kediktatoran.",
+        "bedah_pengecoh": {
+          "A": "Komando militer tunduk pada supremasi sipil dan bukan pemegang kedaulatan tertinggi.",
+          "B": "Sistem feodalisme ningrat telah dihapuskan seiring tegaknya kedaulatan republik merdeka.",
+          "D": "Presiden membentuk undang-undang bersama lembaga legislatif melalui persetujuan bersama.",
+          "E": "Lembaga parlemen merupakan pilar pokok demokrasi perwakilan yang wajib dipertahankan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "sistem pemerintahan demokrasi yang kita sebut",
+        "Demokrasi Pancasila"
+      ],
+      "topik_materi": "Nama Sistem Demokrasi Indonesia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sistem pemerintahan demokrasi khas Indonesia yang berakar pada kedaulatan rakyat disebut...",
+      "pilihan": {
+        "A": "Demokrasi Liberal parlementer berbasis kebebasan individu",
+        "B": "Demokrasi Pancasila yang dipandu hikmat kebijaksanaan",
+        "C": "Demokrasi Proletariat berbasis kediktatoran satu golongan",
+        "D": "Demokrasi Monarki berbasis hak istimewa keturunan darah",
+        "E": "Demokrasi Korporatokrasi berbasis kekuasaan asosiasi modal"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Sistem pemerintahan demokrasi di Indonesia disebut **Demokrasi Pancasila**.",
+        "alasan_kunci": "Opsi B tepat karena Demokrasi Pancasila memadukan kedaulatan rakyat dengan nilai ketuhanan, kemanusiaan, persatuan, dan keadilan sosial. Keputusan diambil melalui musyawarah mufakat yang berlandaskan akal budi luhur. Sistem ini membedakan Indonesia dari model demokrasi barat maupun timur.",
+        "bedah_pengecoh": {
+          "A": "Demokrasi liberal menonjolkan individualisme dan tirani angka hasil pemungutan suara.",
+          "C": "Demokrasi proletariat meniadakan hak politik kelompok lain atas nama revolusi kelas.",
+          "D": "Sistem monarki kekeluargaan bertentangan dengan asas republik yang berkedaulatan rakyat.",
+          "E": "Korporatokrasi adalah dominasi korporasi bisnis yang merusak keadilan sosial masyarakat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Negara berdasarkan Ketuhanan Yang Maha Esa menurut dasar kemanusiaan",
+        "yang adil dan beradab"
+      ],
+      "topik_materi": "Substansi Pokok Pikiran Keempat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Substansi Pokok Pikiran Keempat dalam Pembukaan UUD 1945 mengintegrasikan nilai...",
+      "pilihan": {
+        "A": "Materialisme dialektis serta doktrin sekularisme birokrasi",
+        "B": "Sentralisme kekuasaan mutlak dengan pembatasan hak beribadah",
+        "C": "Kedaulatan pasar bebas dengan proteksi perdagangan luar negeri",
+        "D": "Ketuhanan Yang Maha Esa dan kemanusiaan yang adil dan beradab",
+        "E": "Pragmatisme anggaran belanja dengan peniadaan norma moral"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pokok Pikiran Keempat menegaskan **Negara berdasarkan Ketuhanan Yang Maha Esa menurut dasar kemanusiaan yang adil dan beradab (sila pertama dan kedua)**.",
+        "alasan_kunci": "Opsi D tepat karena pokok pikiran ini menuntut pemerintah dan penyelenggara negara memiliki budi pekerti kemanusiaan yang luhur serta memegang teguh cita-cita moral rakyat yang mulia. Dimensi moral religius dipadukan dengan penghormatan harkat martabat manusia. Hal ini membentuk karakter keadaban birokrasi.",
+        "bedah_pengecoh": {
+          "A": "Materialisme dialektis bertentangan dengan pengakuan keimanan terhadap Tuhan Yang Maha Esa.",
+          "B": "Pembatasan hak beribadah melanggar jaminan konstitusional kebebasan memeluk keyakinan.",
+          "C": "Doktrin pasar bebas adalah mazhab ekonomi kapitalis dan bukan pokok pikiran moral UUD.",
+          "E": "Penyelenggaraan negara wajib berlandaskan etika luhur dan tidak boleh terjebak pragmatisme."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "bukan negara theokrasi, tetapi juga bukan",
+        "negara sekuler"
+      ],
+      "topik_materi": "Karakteristik Hubungan Agama dan Negara di Indonesia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karakteristik hubungan agama dan negara Republik Indonesia menurut pokok pikiran keempat adalah...",
+      "pilihan": {
+        "A": "Negara theokrasi mutlak di bawah kepemimpinan otoritas ulama",
+        "B": "Negara monarki keagamaan dengan kewajiban satu agama tunggal",
+        "C": "Negara sekuler yang melarang seluruh simbol agama di ranah publik",
+        "D": "Negara ateis yang meniadakan keberadaan institusi rumah ibadah",
+        "E": "Bukan negara theokrasi dan juga bukan negara sekuler"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Negara Indonesia **bukan negara theokrasi, tetapi juga bukan negara sekuler**.",
+        "alasan_kunci": "Opsi E tepat karena Indonesia tidak mendasarkan hukum pada satu agama tertentu (theokrasi), tetapi juga tidak memisahkan urusan keagamaan dari etika kehidupan bernegara (sekuler). Negara menjunjung tinggi semua agama dan kepercayaan serta memfasilitasi kerukunan hidup beragama. Keselarasan ini menjadi ciri khas kebangsaan Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Negara theokrasi mendasarkan kepemimpinan pada hukum agama tertentu secara eksklusif.",
+          "B": "Pancasila melindungi kemajemukan pemeluk agama resmi yang diakui tanpa monopoli tunggal.",
+          "C": "Negara sekuler memisahkan mutlak agama dari kehidupan kenegaraan dan kebijakan publik.",
+          "D": "Pancasila menegaskan Ketuhanan Yang Maha Esa dan secara mutlak menolak paham ateisme."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "keselarasan kehidupan bernegara dan beragama",
+        "menjunjung tinggi semua agama"
+      ],
+      "topik_materi": "Makna Keselarasan Bernegara dan Beragama",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Wujud pengamalan prinsip keselarasan bernegara dan beragama oleh aparatur pemerintah adalah...",
+      "pilihan": {
+        "A": "Menutup perizinan pembangunan sarana ibadah umat beragama lain",
+        "B": "Menjunjung tinggi toleransi serta kebebasan beribadah segenap pemeluk",
+        "C": "Mewajibkan warga pindah keyakinan mengikuti pejabat pimpinan satker",
+        "D": "Menghilangkan hari libur keagamaan dari kalender resmi nasional",
+        "E": "Menyusun regulasi daerah yang mendiskriminasi kelompok keyakinan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Negara menjunjung tinggi semua agama dan kepercayaan dengan mewujudkan **keselarasan kehidupan bernegara dan beragama**.",
+        "alasan_kunci": "Opsi B tepat karena aparatur negara berkewajiban memberikan perlindungan dan jaminan kemerdekaan bagi tiap-tiap penduduk untuk memeluk agamanya dan beribadat menurut agamanya itu. Sikap toleran dan nondiskriminatif memperkokoh persaudaraan kebangsaan. Hal ini mencerminkan pengamalan sila pertama dan kedua.",
+        "bedah_pengecoh": {
+          "A": "Menghambat pembangunan rumah ibadah melanggar hak konstitusional kebebasan beragama.",
+          "C": "Pemaksaan keyakinan bertentangan dengan prinsip hak asasi manusia dalam konstitusi.",
+          "D": "Pengakuan hari libur keagamaan adalah wujud nyata apresiasi negara terhadap kemajemukan.",
+          "E": "Regulasi diskriminatif bertentangan dengan prinsip negara kesatuan yang menjamin kesetaraan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Negara Indonesia yang merdeka dan anti penjajahan",
+        "hak segala bangsa"
+      ],
+      "topik_materi": "Penegasan Alinea Pertama Pembukaan UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip hubungan internasional yang ditegaskan dalam alinea pertama Pembukaan UUD 1945 adalah...",
+      "pilihan": {
+        "A": "Persetujuan terhadap dominasi ekonomi negara pemenang perang",
+        "B": "Kewajiban mengikuti seluruh instruksi aliansi pakta militer barat",
+        "C": "Penolakan terhadap penjajahan karena bertentangan perikemanusiaan",
+        "D": "Pemberian kebebasan penguasaan teritorial pulau oleh tentara asing",
+        "E": "Pengakuan terhadap eksistensi kolonialisme di kawasan benua afrika"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Alinea pertama menegaskan bahwa kemerdekaan adalah hak segala bangsa, oleh sebab itu **penjajahan di atas dunia harus dihapuskan karena tidak sesuai dengan perikemanusiaan dan perikeadilan**.",
+        "alasan_kunci": "Opsi C tepat karena alinea pertama meletakkan dasar politik luar negeri Indonesia yang anti-kolonialisme dan anti-imperialisme dalam segala bentuknya. Indonesia secara konsisten membela kemerdekaan bangsa-bangsa tertindas di forum internasional. Prinsip universal ini mengikat komitmen diplomasi Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Indonesia menentang neo-kolonialisme dan hegemoni ekonomi yang menindas kedaulatan bangsa.",
+          "B": "Indonesia berpegang teguh pada prinsip kedaulatan independen tanpa tunduk pada pakta asing.",
+          "D": "Kedaulatan wilayah tanah air tidak boleh diserahkan sejengkal pun kepada militer asing.",
+          "E": "Konstitusi menghendaki penghapusan seluruh penjajahan di atas muka bumi tanpa pengecualian."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "mengantarkan rakyat Indonesia ke pintu gerbang",
+        "merdeka, bersatu, berdaulat, adil, dan makmur"
+      ],
+      "topik_materi": "Penegasan Alinea Kedua Pembukaan UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Lima predikat cita-cita negara merdeka yang ditegaskan dalam alinea kedua Pembukaan UUD 1945 adalah...",
+      "pilihan": {
+        "A": "Merdeka, bersatu, berdaulat, adil, dan makmur bagi rakyat",
+        "B": "Kaya, berkuasa, mandiri, disegani, dan berpangkat tinggi",
+        "C": "Serikat, otonom, liberal, industri, dan berorientasi ekspor",
+        "D": "Konvensional, feodal, sentralistik, seragam, dan tertutup",
+        "E": "Kekaisaran, ekspansif, dominan, proteksionis, dan militeristik"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Alinea kedua menegaskan bahwa perjuangan kemerdekaan mengantarkan rakyat ke pintu gerbang negara Indonesia yang **merdeka, bersatu, berdaulat, adil, dan makmur**.",
+        "alasan_kunci": "Opsi A tepat karena kelima predikat tersebut melambangkan cita-cita utuh bangsa: merdeka dari penindasan, bersatu wilayah dan jiwanya, berdaulat menentukan nasib sendiri, adil dalam tatanan hukum sosial, dan makmur taraf kesejahteraannya. Rangkaian kata ini adalah visi luhur Indonesia merdeka.",
+        "bedah_pengecoh": {
+          "B": "Keinginan berkuasa dan status gengsi bukan cita-cita normatif perjuangan kemerdekaan.",
+          "C": "Bentuk serikat dan doktrin liberal bertentangan dengan prinsip negara kesatuan Indonesia.",
+          "D": "Sistem feodal dan sentralistik kaku ditolak demi mewujudkan kedaulatan rakyat merata.",
+          "E": "Watak kekaisaran ekspansif bertentangan dengan amanat perdamaian abadi dalam konstitusi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "keselarasan",
+        "kehidupan bernegara dan beragama"
+      ],
+      "topik_materi": "Landasan Keselarasan Pokok Pikiran Keempat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pokok Pikiran Keempat Pembukaan UUD 1945 secara substansial merupakan perwujudan langsung dari...",
+      "pilihan": {
+        "A": "Sila kelima Keadilan Sosial bagi Seluruh Rakyat Indonesia",
+        "B": "Sila keempat Kerakyatan dalam permusyawaratan perwakilan",
+        "C": "Sila ketiga Persatuan Indonesia dalam bingkai keragaman",
+        "D": "Sila pertama Ketuhanan YME dan sila kedua Kemanusiaan adil beradab",
+        "E": "Trisila Sosio Nasionalisme dan Sosio Demokrasi kerakyatan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pokok Pikiran Keempat merupakan **perwujudan dari sila pertama (Ketuhanan Yang Maha Esa) dan sila kedua (Kemanusiaan yang Adil dan Beradab)**.",
+        "alasan_kunci": "Opsi D tepat karena pokok pikiran keempat secara eksplisit menghubungkan keimanan kepada Tuhan Yang Maha Esa dengan kewajiban memelihara budi pekerti kemanusiaan yang adil dan beradab. Penyelenggara negara diwajibkan memegang teguh cita-cita moral yang luhur. Inilah paduan harmonis antara dimensi vertikal religius dan horizontal kemanusiaan.",
+        "bedah_pengecoh": {
+          "A": "Sila kelima merupakan landasan substansial dari Pokok Pikiran Kedua (Keadilan Sosial).",
+          "B": "Sila keempat merupakan landasan substansial dari Pokok Pikiran Ketiga (Kedaulatan Rakyat).",
+          "C": "Sila ketiga merupakan landasan substansial dari Pokok Pikiran Pertama (Persatuan).",
+          "E": "Konsep Trisila bukan pembagian pokok pikiran resmi yang disahkan dalam Pembukaan UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "makhluk individu sekaligus makhluk sosial dalam satu kesatuan",
+        "disebut “monodualistis”"
+      ],
+      "topik_materi": "Hakikat Manusia Monodualistis",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsep kodrat manusia Indonesia sebagai makhluk individu sekaligus sosial disebut...",
+      "pilihan": {
+        "A": "Materialistis mekanistik dalam mengejar produksi ekonomi",
+        "B": "Monodualistis dalam keseimbangan pribadi dan kemasyarakatan",
+        "C": "Egoistik individualistis yang menomorsatukan hak asasi pribadi",
+        "D": "Kolektivistis totaliter yang menghapuskan identitas pribadi",
+        "E": "Pragmatistis utilitarian yang mengukur manfaat kesenangan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Hakikat manusia Indonesia adalah sebagai makhluk individu sekaligus makhluk sosial dalam satu kesatuan yang disebut **monodualistis**.",
+        "alasan_kunci": "Opsi B tepat karena falsafah Pancasila memandang manusia tidak dapat dipisahkan antara eksistensi dirinya sebagai pribadi dan perannya sebagai anggota masyarakat. Kepentingan pribadi dan kepentingan bersama harus berjalan selaras dan seimbang tanpa saling meniadakan. Konsep ini menjadi fondasi relasi warga dan negara.",
+        "bedah_pengecoh": {
+          "A": "Materialistis mekanistik memandang manusia sekadar alat produksi kerja ekonomi pabrik.",
+          "C": "Individualistik ekstrem hanya mengutamakan hak diri sendiri dengan mengabaikan orang lain.",
+          "D": "Totalitarianisme mereduksi kebebasan individu secara mutlak demi kepentingan kekuasaan negara.",
+          "E": "Pragmatisme utilitarian mendasarkan moralitas semata-mata pada utilitas atau kenikmatan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Pasal 1 ayat (1) UUD 1945, negara kita ialah",
+        "negara kesatuan yang berbentuk republik"
+      ],
+      "topik_materi": "Bentuk Negara dan Pemerintahan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan bunyi Pasal 1 ayat (1) UUD 1945, bentuk negara dan pemerintahan Indonesia adalah...",
+      "pilihan": {
+        "A": "Negara monarki parlementer dengan perdana menteri berkuasa",
+        "B": "Negara federasi serikat dengan pembagian otonomi berdaulat",
+        "C": "Negara kesatuan dengan bentuk pemerintahan republik",
+        "D": "Negara uni personal di bawah pimpinan seorang gubernur jenderal",
+        "E": "Negara konfederasi provinsi dengan ikatan perjanjian perjanjian"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sesuai Pasal 1 ayat (1) UUD 1945, **negara kita ialah negara kesatuan yang berbentuk republik**.",
+        "alasan_kunci": "Opsi C tepat karena konstitusi menegaskan bahwa kedaulatan wilayah Indonesia tidak terbagi-bagi ke dalam negara-negara bagian yang berdaulat sendiri. Bentuk republik mengamanatkan kepemimpinan negara dipilih melalui mekanisme perwakilan rakyat, bukan diwariskan secara turun-temurun. Inilah pilihan final bentuk negara.",
+        "bedah_pengecoh": {
+          "A": "Monarki parlementer bertentangan dengan prinsip kedaulatan rakyat dan bentuk republik.",
+          "B": "Negara serikat pernah diberlakukan masa RIS 1949 dan segera ditinggalkan kembali ke NKRI.",
+          "D": "Uni personal adalah gabungan kerajaan di bawah satu mahkota raja, tidak dianut Indonesia.",
+          "E": "Konfederasi adalah perserikatan antarnegara merdeka berdaulat, bukan bentuk integrasi NKRI."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "bentuk negara kesatuan (Eenheidstaat)",
+        "sesuai dengan sejarah perjuangan"
+      ],
+      "topik_materi": "Alasan Pemilihan Bentuk Negara Kesatuan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Alasan utama bentuk negara kesatuan (Eenheidstaat) dinilai paling tepat bagi Indonesia adalah...",
+      "pilihan": {
+        "A": "Kemudahan dalam pengajuan pinjaman modal pembangunan perbankan",
+        "B": "Kewajiban mengikuti tata kelola administrasi monarki eropa",
+        "C": "Keinginan memusatkan perizinan industri di kementerian ibu kota",
+        "D": "Sesuai dengan sejarah perjuangan dan Wawasan Nusantara bangsa",
+        "E": "Instruksi dari komisi perundingan gencatan senjata perserikatan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Bentuk negara kesatuan **(Eenheidstaat)** adalah yang paling tepat karena **sesuai dengan sejarah perjuangan dan perkembangan bangsa yang memiliki Wawasan Nusantara**.",
+        "alasan_kunci": "Opsi D tepat karena pengalaman pahit penjajahan yang menggunakan politik pecah belah menyadarkan bangsa akan pentingnya persatuan bulat. Wawasan Nusantara memandang seluruh kepulauan sebagai satu kesatuan utuh lahir dan batin. Negara kesatuan menjamin persatuan wilayah dan rakyat secara lestari.",
+        "bedah_pengecoh": {
+          "A": "Bentuk negara tidak ditetapkan demi pertimbangan administratif pencairan pinjaman utang.",
+          "B": "Indonesia menolak meniru tatanan monarki feodal bekas negara penjajah bangsa eropa.",
+          "C": "Negara kesatuan tidak berarti sentralisasi perizinan yang mematikan inisiatif daerah.",
+          "E": "Pilihan negara kesatuan adalah kehendak murni rakyat, bukan arahan komisi luar negeri."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Ipoleksosbud Hankamnas",
+        "satu kesatuan politik, satu kesatuan ekonomi"
+      ],
+      "topik_materi": "Akronim Kesatuan Wawasan Nusantara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Aspek kesatuan Wawasan Nusantara yang mencakup ketahanan nasional disingkat dengan...",
+      "pilihan": {
+        "A": "Ipoleksosbud Hankamnas sebagai keterpaduan segenap gatra",
+        "B": "Sishankamrata sebagai doktrin pertahanan rakyat semesta",
+        "C": "Trigatra alamiah dalam tata letak geografis kepulauan",
+        "D": "Astaperintis sebagai pedoman perencanaan jangka menengah",
+        "E": "Nawacita pembangunan infrastruktur kawasan perbatasan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Wawasan Nusantara memandang kepulauan sebagai satu kesatuan **Ipoleksosbud Hankamnas (Ideologi, Politik, Ekonomi, Sosial Budaya, Pertahanan Keamanan Nasional)**.",
+        "alasan_kunci": "Opsi A tepat karena akronim tersebut merangkum seluruh gatra kehidupan nasional yang terpadu dalam satu wadah ketahanan nasional. Ancaman terhadap satu gatra akan berdampak pada gatra lainnya. Keterpaduan ini memperkokoh integritas Negara Kesatuan Republik Indonesia.",
+        "bedah_pengecoh": {
+          "B": "Sishankamrata adalah sistem pertahanan dan keamanan semesta dalam pasal 30 UUD 1945.",
+          "C": "Trigatra mencakup aspek geografi, sumber kekayaan alam, dan kependudukan saja.",
+          "D": "Astaperintis bukan istilah resmi dalam konsep Wawasan Nusantara.",
+          "E": "Nawacita adalah istilah program prioritas kerja pemerintah pada masa kepresidenan tertentu."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Negara Pancasila menjunjung tinggi hak asasi",
+        "terdapat kewajiban asasi"
+      ],
+      "topik_materi": "Keseimbangan Hak dan Kewajiban Asasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perbedaan mendasar pandangan HAM dalam masyarakat Pancasila dibanding individualisme adalah...",
+      "pilihan": {
+        "A": "Pemberian kebebasan mutlak kepada perorangan tanpa batas norma",
+        "B": "Pengabaian hak kaum minoritas demi dominasi kelompok mayoritas",
+        "C": "Peniadaan seluruh perlindungan hak milik kekayaan perorangan",
+        "D": "Penyerahan tata peradilan sepenuhnya kepada ketua rukun tetangga",
+        "E": "Pelaksanaan hak asasi secara seimbang dengan kewajiban asasi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dalam masyarakat Pancasila, **hak asasi dilaksanakan secara seimbang dengan kewajiban asasi** karena manusia adalah makhluk monodualistis.",
+        "alasan_kunci": "Opsi E tepat karena individualisme liberal menuntut hak pribadi secara berlebihan hingga dapat merugikan ketertiban umum. Sebaliknya, Pancasila menempatkan pemenuhan hak asasi berdampingan dengan kewajiban menghormati hak orang lain dan kepentingan masyarakat. Keseimbangan ini melahirkan keharmonisan sosial.",
+        "bedah_pengecoh": {
+          "A": "Kebebasan tanpa batas adalah ciri individualisme anarkis yang bertentangan dengan etika.",
+          "B": "Pancasila melindungi segenap warga bangsa tanpa membedakan status mayoritas atau minoritas.",
+          "C": "Hak milik perorangan tetap diakui dan dilindungi dengan memperhatikan fungsi kemanfaatan sosial.",
+          "D": "Peradilan ditegakkan oleh kekuasaan kehakiman independen, bukan lembaga ketetanggaan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "tuntutan pelaksanaan hak-hak asasi manusia ada kecenderungan",
+        "berlebih-lebihan sehingga mungkin merugikan masyarakat"
+      ],
+      "topik_materi": "Kelemahan Pandangan HAM Individualistis",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kelemahan paham individualisme dalam pelaksanaan hak asasi manusia adalah...",
+      "pilihan": {
+        "A": "Ketiadaan kebebasan berserikat dan mengemukakan pendapat di umum",
+        "B": "Kewajiban warga negara mengikuti seluruh arahan penguasa dinas",
+        "C": "Tuntutan hak berlebih-lebihan hingga merugikan masyarakat keseluruhan",
+        "D": "Penghapusan kebebasan berniaga dan berusaha di sektor swasta",
+        "E": "Timbulnya monopoli perdagangan oleh badan usaha milik negara"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dalam masyarakat individualistis, pelaksanaan HAM cenderung **berlebih-lebihan sehingga mungkin merugikan masyarakat sebagai keseluruhan**.",
+        "alasan_kunci": "Opsi C tepat karena individualisme menempatkan ego perorangan di atas kepentingan bersama, yang dapat merusak tatanan ketertiban umum. Ketika setiap orang menuntut hak mutlaknya tanpa mempedulikan orang lain, terjadi benturan kepentingan yang merugikan. Pancasila mengoreksi kelemahan ini melalui asas kekeluargaan.",
+        "bedah_pengecoh": {
+          "A": "Masyarakat individualistis justru sangat menjunjung tinggi kebebasan berpendapat di muka umum.",
+          "B": "Kepatuhan mutlak pada dinas birokrasi adalah ciri totalitarianisme, bukan individualisme.",
+          "D": "Kebebasan berusaha swasta merupakan pilar utama perekonomian masyarakat individualis.",
+          "E": "Monopoli negara merupakan ciri sistem etatisme sosialis dan bukan sistem individualistik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Pembukaan UUD 1945",
+        "28 A s/d 28 J"
+      ],
+      "topik_materi": "Rujukan Konstitusional Hak Asasi Manusia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pasal-pasal dalam UUD 1945 yang secara khusus memuat ketentuan komprehensif hak asasi manusia adalah...",
+      "pilihan": {
+        "A": "Pasal 2 ayat (1) dan Pasal 3 ayat (2) mengenai permusyawaratan",
+        "B": "Pasal 13 ayat (1) dan Pasal 14 ayat (1) mengenai grasi amnesti",
+        "C": "Pasal 4 ayat (1) dan Pasal 5 ayat (1) mengenai kekuasaan presiden",
+        "D": "Pasal 27, 28, serta rumpun Pasal 28A sampai dengan 28J",
+        "E": "Pasal 16 dan Pasal 17 mengenai kementerian kementerian negara"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Perwujudan HAM berdasarkan Pancasila dapat dilihat dalam Pembukaan UUD 1945 dan **Pasal-pasal 27, 28, 28A s/d 28J, 29, 30, 31, 33, dan 34 UUD 1945**.",
+        "alasan_kunci": "Opsi D tepat karena rumpun Pasal 28A hingga 28J merupakan bab tersendiri tentang Hak Asasi Manusia hasil amandemen konstitusi. Di dalamnya diatur hak hidup, hak berkeluarga, hak kepastian hukum, hak kebebasan beragama, hingga kewajiban menghormati hak orang lain. Inilah rujukan hukum positif HAM Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Pasal 2 dan 3 mengatur keanggotaan dan kewenangan Majelis Permusyawaratan Rakyat.",
+          "B": "Pasal 13 dan 14 mengatur penunjukan duta konsul serta pemberian grasi dan rehabilitasi.",
+          "C": "Pasal 4 dan 5 mengatur kekuasaan pemerintahan dan pembuatan undang-undang oleh presiden.",
+          "E": "Pasal 16 dan 17 mengatur dewan pertimbangan presiden dan kementerian negara kabinet."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "makhluk individu",
+        "makhluk sosial"
+      ],
+      "topik_materi": "Implementasi Keseimbangan Makhluk Sosial",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Penerapan etika kedinasan aparatur sipil negara yang mencerminkan kodrat makhluk sosial adalah...",
+      "pilihan": {
+        "A": "Enggan bekerja sama dengan unit kerja lain demi menjaga keunggulan tim",
+        "B": "Membangun kolaborasi sinergis dan saling mendukung dalam tugas kantor",
+        "C": "Menyelesaikan urusan pribadi pada saat jam pelayanan masyarakat dibuka",
+        "D": "Mengunci rapat data kedinasan dari akses koordinasi rekan sekantor",
+        "E": "Menyalahkan pihak lain atas kegagalan pencapaian target kinerja bersama"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Sebagai makhluk sosial, manusia **hidup bermasyarakat dan saling membutuhkan kerja sama demi mencapai tujuan bersama**.",
+        "alasan_kunci": "Opsi B tepat karena kodrat makhluk sosial menuntut setiap aparatur mengedepankan sinergi, kepedulian, dan gotong royong dalam pelaksanaan tugas pelayanan. Bekerja bersama rekan kerja mencerminkan tanggung jawab sosial dalam organisasi. Hal ini menjamin kelancaran fungsi birokrasi pemerintahan.",
+        "bedah_pengecoh": {
+          "A": "Menolak kerja sama antartim adalah wujud ego sektoral yang merusak kinerja organisasi.",
+          "C": "Mengutamakan urusan pribadi saat jam pelayanan melanggar disiplin dan sumpah jabatan.",
+          "D": "Menutup akses koordinasi menghambat efisiensi tata kelola pemerintahan yang terpadu.",
+          "E": "Melempar kesalahan kepada pihak lain bertentangan dengan integritas dan akuntabilitas kerja."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "Negara Pancasila menjunjung",
+        "tinggi hak asasi"
+      ],
+      "topik_materi": "Komitmen Negara Pancasila terhadap HAM",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Komitmen Negara Pancasila dalam menjunjung tinggi hak asasi manusia ditegakkan dengan berlandaskan...",
+      "pilihan": {
+        "A": "Prinsip pemisahan mutlak urusan keagamaan dari hukum positif",
+        "B": "Pemberian kebebasan bersenjata bagi setiap warga sipil masyarakat",
+        "C": "Kepentingan dominasi permodalan investasi korporasi multinasional",
+        "D": "Instruksi otoriter pengadilan arbitrase perdagangan internasional",
+        "E": "Nilai-nilai ketuhanan, kemanusiaan yang beradab, dan keadilan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Negara Pancasila **menjunjung tinggi hak asasi manusia berlandaskan nilai ketuhanan, kemanusiaan adil beradab, dan keadilan sosial**.",
+        "alasan_kunci": "Opsi E tepat karena HAM dalam konteks Indonesia tidak bersifat sekuler atau bebas nilai, melainkan dibimbing oleh norma etika religius dan kemanusiaan luhur. Penghormatan terhadap hak orang lain dipandang sebagai amanah moral kepada Tuhan dan sesama warga bangsa. Inilah keistimewaan konsep HAM Pancasila.",
+        "bedah_pengecoh": {
+          "A": "Pemisahan mutlak agama dari hukum merupakan ciri negara sekuler murni, bukan Indonesia.",
+          "B": "Kebebasan kepemilikan senjata api bertentangan dengan ketertiban umum dan keamanan nasional.",
+          "C": "Penegakan HAM bertujuan memuliakan martabat manusia, bukan melayani korporasi modal.",
+          "D": "Arbitrase niaga mengurus sengketa dagang dan bukan dasar falsafah perlindungan HAM."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 32,
+      "kata_kunci_modul": [
+        "mengenal",
+        "bentuk negara serikat dan negara kesatuan"
+      ],
+      "topik_materi": "Dua Bentuk Negara dalam Teori Ketatanegaraan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dua bentuk negara yang dikenal dalam kajian ilmu hukum tata negara adalah...",
+      "pilihan": {
+        "A": "Bentuk negara serikat (federal) dan bentuk negara kesatuan",
+        "B": "Negara feodal bangsawan dan negara protektorat kolonial",
+        "C": "Negara dominion persemakmuran dan negara mandat internasional",
+        "D": "Negara garnisun militer dan negara kepulauan perhimpunan",
+        "E": "Negara kota mandiri dan negara perserikatan pedagang maritim"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Mengenai bentuk negara, antara lain kita mengenal **bentuk negara serikat dan negara kesatuan**.",
+        "alasan_kunci": "Opsi A tepat karena dalam teori bentuk susunan negara modern, dikotomi utama terletak antara negara federal (serikat) dan negara kesatuan (unitaris). Pendiri bangsa mempertimbangkan kedua alternatif ini dan secara sadar memilih bentuk negara kesatuan bagi Republik Indonesia. Pilihan ini menjamin integrasi nasional.",
+        "bedah_pengecoh": {
+          "B": "Negara feodal dan protektorat adalah bentuk wilayah subordinat masa lampau prakemerdekaan.",
+          "C": "Dominion dan mandat merupakan status wilayah persemakmuran bentukan liga bangsa-bangsa.",
+          "D": "Negara garnisun adalah tipologi rezim militeristik dan bukan klasifikasi bentuk negara.",
+          "E": "Negara kota (polis) adalah bentuk negara kuno peradaban Yunani dan bukan negara bangsa modern."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "Dalam Pasal 26 UUD 1945 dinyatakan",
+        "bangsa Indonesia asli"
+      ],
+      "topik_materi": "Ketentuan Warga Negara Pasal 26 UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 26 UUD 1945, pihak yang menjadi warga negara Indonesia adalah...",
+      "pilihan": {
+        "A": "Setiap wisatawan asing yang menetap sementara di kota pelabuhan",
+        "B": "Personel militer pasukan perdamaian yang ditugaskan di perbatasan",
+        "C": "Pejabat perwakilan korporasi dagang yang menyewa tanah perkebunan",
+        "D": "Orang bangsa Indonesia asli dan bangsa lain yang disahkan undang-undang",
+        "E": "Seluruh penduduk kawasan kepulauan asia tenggara yang berniaga"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dalam Pasal 26 UUD 1945 dinyatakan bahwa yang menjadi warga negara ialah **orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara**.",
+        "alasan_kunci": "Opsi D tepat karena rumusan konstitusi memberikan definisi legal yang inklusif bagi status kewarganegaraan Indonesia. Orang bangsa lain yang telah berasimilasi dan memenuhi persyaratan undang-undang diakui setara sebagai warga negara. Hal ini menjamin kepastian status hukum setiap penduduk.",
+        "bedah_pengecoh": {
+          "A": "Wisatawan asing berkunjung dengan visa izin tinggal terbatas dan bukan warga negara.",
+          "B": "Pasukan perdamaian asing bertugas berdasarkan mandat internasional tanpa hak kewarganegaraan.",
+          "C": "Pejabat korporasi pemegang paspor asing tetap berstatus warga negara asing berizin kerja.",
+          "E": "Warga negara asing di Asia Tenggara terikat pada status kedaulatan negaranya masing-masing."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "Pasal 27 ayat (1)",
+        "segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan"
+      ],
+      "topik_materi": "Persamaan Kedudukan dalam Hukum dan Pemerintahan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip kesetaraan kedudukan warga negara dalam Pasal 27 ayat (1) UUD 1945 menegaskan...",
+      "pilihan": {
+        "A": "Bersamaan kedudukan dalam hukum dan pemerintahan tanpa kecualinya",
+        "B": "Hak istimewa bebas dari penuntutan pidana bagi keluarga bangsawan",
+        "C": "Kewajiban kepatuhan hukum ditujukan bagi masyarakat golongan bawah",
+        "D": "Keringanan sanksi peradilan bagi pejabat pemegang kekuasaan anggaran",
+        "E": "Pemberian imunitas hukum mutlak kepada pengurus perserikatan niaga"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pasal 27 ayat (1) UUD 1945 menyatakan **segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya**.",
+        "alasan_kunci": "Opsi A tepat karena prinsip persamaan di hadapan hukum (equality before the law) adalah pilar mutlak negara hukum yang demokratis. Tidak ada seorang pun warga negara yang kebal hukum, baik presiden, menteri, maupun rakyat biasa. Kesetaraan ini menjamin keadilan peradilan bagi seluruh rakyat.",
+        "bedah_pengecoh": {
+          "B": "Hak istimewa feodal bertentangan dengan prinsip negara hukum dan kedaulatan rakyat.",
+          "C": "Hukum mengikat seluruh strata sosial tanpa pembedaan kelas atas maupun kelas bawah.",
+          "D": "Pejabat anggaran yang melanggar hukum justru dikenakan sanksi pemberatan pidana.",
+          "E": "Pengurus perserikatan bisnis tunduk pada regulasi perundang-undangan hukum yang sama."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "Kepulauan Nusantara sebagai satu kesatuan politik meliputi",
+        "kesatuan wilayah, kesatuan bangsa"
+      ],
+      "topik_materi": "Empat Pilar Kesatuan Politik Nusantara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Empat pilar yang membentuk Kepulauan Nusantara sebagai satu kesatuan politik adalah...",
+      "pilihan": {
+        "A": "Kesatuan armada kapal, kesatuan mata uang, kesatuan pos, dan kesatuan bea",
+        "B": "Kesatuan tarif pajak, kesatuan dividen saham, kesatuan pasar, dan modal",
+        "C": "Kesatuan dialek daerah, kesatuan adat istiadat, kesatuan marga, dan klan",
+        "D": "Kesatuan partai politik, kesatuan kabinet dinas, kesatuan serikat, dan pers",
+        "E": "Kesatuan wilayah, kesatuan bangsa, kesatuan filsafat ideologi, dan hukum"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kepulauan Nusantara sebagai satu kesatuan politik meliputi: **satu kesatuan wilayah, kesatuan bangsa, kesatuan filsafat dan ideologi (Pancasila), dan kesatuan hukum**.",
+        "alasan_kunci": "Opsi E tepat karena kesatuan politik menuntut integrasi utuh pada empat bidang mendasar: teritorial wilayah tanah air, identitas kebangsaan, pandangan hidup Pancasila, dan tertib hukum nasional. Keterpaduan empat pilar ini mencegah ancaman disintegrasi bangsa. Inilah fondasi kedaulatan NKRI.",
+        "bedah_pengecoh": {
+          "A": "Armada kapal dan pos tarif merupakan instrumen teknis logistik dan perhubungan laut.",
+          "B": "Tarif dan modal perbankan adalah instrumen gatra kesatuan ekonomi nasional.",
+          "C": "Pancasila menghormati kemajemukan adat dan bahasa daerah dalam bingkai Bhinneka Tunggal Ika.",
+          "D": "Sistem politik Indonesia menganut multipartai dan kebebasan pers yang bertanggung jawab."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "Perekonomian disusun sebagai usaha bersama",
+        "berdasarkan atas asas kekeluargaan"
+      ],
+      "topik_materi": "Pasal 33 Ayat (1) Asas Kekeluargaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 33 ayat (1) UUD 1945, sistem perekonomian nasional disusun sebagai...",
+      "pilihan": {
+        "A": "Persaingan bebas antarpemilik modal untuk menguasai pasar komoditas",
+        "B": "Monopoli usaha oleh keluarga pimpinan satuan kerja kementerian",
+        "C": "Usaha bersama berlandaskan asas kekeluargaan demi kemakmuran bersama",
+        "D": "Penyerahan tata kelola niaga sepenuhnya kepada mekanisme pasar dunia",
+        "E": "Sistem ekonomi komando sentralistik yang melarang koperasi mandiri"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pasal 33 ayat (1) UUD 1945 menegaskan **Perekonomian disusun sebagai usaha bersama berdasarkan atas asas kekeluargaan**.",
+        "alasan_kunci": "Opsi C tepat karena demokrasi ekonomi Indonesia mengedepankan asas kekeluargaan dan gotong royong, di mana badan usaha yang paling cocok adalah koperasi. Perekonomian tidak boleh dibangun atas dasar pertarungan bebas yang mematikan kaum lemah. Kesejahteraan bersama menjadi tujuan utama sistem ekonomi.",
+        "bedah_pengecoh": {
+          "A": "Persaingan bebas liberal memicu eksploitasi manusia dan dilarang oleh konstitusi ekonomi.",
+          "B": "Asas kekeluargaan bermakna persaudaraan kebangsaan, bukan praktik nepotisme dinasti keluarga.",
+          "D": "Mekanisme pasar bebas murni tanpa campur tangan negara bertentangan dengan keadilan sosial.",
+          "E": "Ekonomi komando kaku meniadakan inisiatif rakyat dan bertentangan dengan demokrasi ekonomi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "Cabang-cabang produksi yang penting bagi negara",
+        "menguasai hajat hidup orang banyak dikuasai oleh negara"
+      ],
+      "topik_materi": "Pasal 33 Ayat (2) Penguasaan Cabang Produksi Vital",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan mengenai cabang produksi yang menguasai hajat hidup orang banyak diatur dalam...",
+      "pilihan": {
+        "A": "Pasal 27 ayat (2) mengenai hak atas pekerjaan dan penghidupan layak",
+        "B": "Pasal 33 ayat (2) bahwa cabang produksi vital dikuasai oleh negara",
+        "C": "Pasal 34 ayat (1) mengenai pemeliharaan fakir miskin oleh negara",
+        "D": "Pasal 23 ayat (1) mengenai anggaran pendapatan dan belanja negara",
+        "E": "Pasal 31 ayat (1) mengenai hak setiap warga memperoleh pendidikan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pasal 33 ayat (2) UUD 1945 berbunyi **Cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak dikuasai oleh negara**.",
+        "alasan_kunci": "Opsi B tepat karena sektor vital seperti air bersih, listrik, dan energi menyangkut kebutuhan mendasar jutaan rakyat. Jika sektor ini diserahkan kepada penguasaan perorangan atau swasta murni, rakyat dapat diperas melalui penentuan harga semena-mena. Oleh karena itu, negara wajib mengendalikannya demi kemaslahatan umum.",
+        "bedah_pengecoh": {
+          "A": "Pasal 27 ayat (2) mengatur hak warga negara atas pekerjaan dan penghidupan yang layak.",
+          "C": "Pasal 34 ayat (1) mengatur kewajiban negara memelihara fakir miskin dan anak terlantar.",
+          "D": "Pasal 23 ayat (1) mengatur penetapan APBN secara terbuka dan bertanggung jawab.",
+          "E": "Pasal 31 ayat (1) mengatur hak warga negara untuk mendapatkan pengajaran pendidikan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "Bumi dan air dan kekayaan alam yang terkandung",
+        "dipergunakan untuk sebesar-besar kemakmuran rakyat"
+      ],
+      "topik_materi": "Pasal 33 Ayat (3) Penguasaan Kekayaan Alam",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan utama penguasaan bumi, air, dan kekayaan alam oleh negara pada Pasal 33 ayat (3) adalah...",
+      "pilihan": {
+        "A": "Dipergunakan untuk sebesar-besar kemakmuran dan kesejahteraan rakyat",
+        "B": "Memperkaya para pejabat pengelola badan usaha milik negara secara pribadi",
+        "C": "Dijadikan agunan jaminan pembayaran cicilan utang luar negeri",
+        "D": "Diserahkan konsesinya secara monopoli kepada korporasi transnasional",
+        "E": "Ditutup akses pemanfaatannya dari seluruh aktivitas kegiatan industri"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan **dipergunakan untuk sebesar-besar kemakmuran rakyat**.",
+        "alasan_kunci": "Opsi A tepat karena hak penguasaan oleh negara bermakna mandat pengelolaan publik, bukan kepemilikan privat penguasa. Seluruh manfaat ekonomi dari sumber daya alam tambang, hutan, dan laut harus dikembalikan kepada rakyat melalui pembangunan dan pelayanan publik. Kemakmuran rakyat adalah tujuan mutlaknya.",
+        "bedah_pengecoh": {
+          "B": "Kekayaan alam bukan komoditas untuk memperkaya pejabat atau kroni kekuasaan.",
+          "C": "Kedaulatan atas kekayaan alam tidak boleh digadaikan sebagai jaminan utang luar negeri.",
+          "D": "Konsesi monopoli asing bertentangan dengan kemandirian ekonomi nasional bangsa.",
+          "E": "Pemanfaatan kekayaan alam dilakukan secara terencana dengan prinsip kelestarian lingkungan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "prinsip kebersamaan, efisiensi, berkeadilan, berkelanjutan",
+        "berwawasan lingkungan, kemandirian"
+      ],
+      "topik_materi": "Prinsip Demokrasi Ekonomi Pasal 33 Ayat (4)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip-prinsip penyelenggaraan perekonomian nasional berdasarkan Pasal 33 ayat (4) mencakup...",
+      "pilihan": {
+        "A": "Persaingan bebas, monopoli modal, privatisasi total, dan eksploitasi",
+        "B": "Deregulasian perbankan tanpa pengawasan, rente, dan inflasi bebas",
+        "C": "Sentralisme anggaran, subsidi nol, proteksionisme dogmatis, dan isolasi",
+        "D": "Kebersamaan, efisiensi berkeadilan, berkelanjutan, dan kemandirian",
+        "E": "Oligarki kepemilikan aset, kartel harga, dan ketergantungan impor"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Perekonomian nasional diselenggarakan atas dasar demokrasi ekonomi dengan prinsip **kebersamaan, efisiensi berkeadilan, berkelanjutan, berwawasan lingkungan, kemandirian, serta menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional**.",
+        "alasan_kunci": "Opsi D tepat karena Pasal 33 ayat (4) hasil amandemen memberikan pedoman komprehensif bagi pembangunan ekonomi modern yang tetap setia pada nilai Pancasila. Efisiensi harus dipadukan dengan keadilan dan kelestarian alam demi generasi mendatang. Prinsip kemandirian menjaga ketahanan bangsa di era global.",
+        "bedah_pengecoh": {
+          "A": "Eksploitasi dan monopoli modal merusak sendi keadilan sosial yang diamanatkan konstitusi.",
+          "B": "Deregulasi tanpa pengawasan memicu krisis keuangan dan spekulasi yang merugikan publik.",
+          "C": "Isolasi perdagangan dan sentralisme kaku menghambat dinamika kemajuan ekonomi daerah.",
+          "E": "Oligarki dan kartel adalah musuh utama dari sistem demokrasi ekonomi Pancasila."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "kekayaan wilayah Nusantara adalah modal dan",
+        "milik bersama bangsa"
+      ],
+      "topik_materi": "Makna Kesatuan Ekonomi Nusantara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Makna hakiki Kepulauan Nusantara sebagai satu kesatuan ekonomi bagi seluruh rakyat adalah...",
+      "pilihan": {
+        "A": "Pendapatan tambang daerah dinikmati eksklusif warga kelahiran setempat",
+        "B": "Pemberian hak monopoli pelayaran niaga antarpulau kepada serikat tertentu",
+        "C": "Kewajiban setiap provinsi menerbitkan mata uang dan tarif pabean sendiri",
+        "D": "Pemusatan seluruh kantor operasional perusahaan di kawasan pulau Jawa",
+        "E": "Kekayaan wilayah nusantara adalah modal dan milik bersama seluruh bangsa"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kepulauan Nusantara sebagai kesatuan ekonomi berarti **bahwa kekayaan wilayah Nusantara adalah modal dan milik bersama bangsa, dan tingkat perkembangan ekonomi harus serasi dan seimbang di seluruh Indonesia**.",
+        "alasan_kunci": "Opsi E tepat karena seluruh potensi sumber daya alam di berbagai pulau merupakan kekayaan nasional yang diperuntukkan bagi kesejahteraan bersama. Tidak boleh ada ketimpangan mencolok di mana satu daerah kaya raya sementara daerah lain terbelakang. Pemerataan pembangunan adalah wujud keadilan sosial.",
+        "bedah_pengecoh": {
+          "A": "Paham kedaerahan sempit bertentangan dengan prinsip kekayaan nusantara milik bersama bangsa.",
+          "B": "Monopoli pelayaran bertentangan dengan konektivitas logistik kelancaran niaga antarpulau.",
+          "C": "Mata uang tunggal rupiah berlaku di seluruh wilayah kedaulatan Negara Kesatuan Republik Indonesia.",
+          "D": "Pembangunan ekonomi didorong merata di luar pulau Jawa demi memutus kesenjangan kawasan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "tingkat perkembangan ekonomi harus serasi dan",
+        "seimbang di seluruh Indonesia"
+      ],
+      "topik_materi": "Pemerataan dan Keseimbangan Antarwilayah",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Kebijakan fiskal kementerian keuangan yang mencerminkan kesatuan ekonomi serasi dan seimbang adalah...",
+      "pilihan": {
+        "A": "Memusatkan seluruh belanja modal infrastruktur eksklusif pada kota metropolitan",
+        "B": "Mengalokasikan dana transfer daerah secara adil untuk kawasan terluar",
+        "C": "Menghapus alokasi dana desa bagi masyarakat yang bermukim di perbatasan",
+        "D": "Mengenakan tarif pajak daerah yang memberatkan peredaran sembako pangan",
+        "E": "Menahan penyaluran bantuan operasional sekolah bagi kepulauan terpencil"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kesatuan ekonomi menuntut bahwa **tingkat perkembangan ekonomi harus serasi dan seimbang di seluruh Indonesia**.",
+        "alasan_kunci": "Opsi B tepat karena Transfer ke Daerah dan Dana Desa (TKDD) merupakan instrumen fiskal strategis untuk mengatasi ketimpangan antardaerah. Pengalokasian dana secara berkeadilan memungkinkan wilayah tertinggal dan terluar membangun infrastruktur dan pelayanan dasar yang setara. Hal ini memperkokoh persatuan ekonomi bangsa.",
+        "bedah_pengecoh": {
+          "A": "Memusatkan belanja pada kota besar memperlebar jurang disparitas kesenjangan antardaerah.",
+          "C": "Dana desa wajib disalurkan secara merata untuk menggerakkan perekonomian desa terluar.",
+          "D": "Pajak sembako yang tinggi membebani daya beli masyarakat berpenghasilan rendah.",
+          "E": "BOS wajib disalurkan tepat waktu ke daerah terpencil demi pemerataan kualitas pendidikan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 33,
+      "kata_kunci_modul": [
+        "Pemerintah negara Indonesia berkewajiban mewujudkan kesejahteraan",
+        "umum, yaitu mewujudkan suatu keadilan sosial"
+      ],
+      "topik_materi": "Kewajiban Pemerintah Mewujudkan Keadilan Sosial",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Amanat konstitusional Pasal 33 UUD 1945 mewajibkan pemerintah mewujudkan kesejahteraan umum berupa...",
+      "pilihan": {
+        "A": "Perlindungan kepemilikan modal konglomerasi bisnis perbankan",
+        "B": "Kewajiban pengenaan tarif bea masuk tinggi atas barang teknologi",
+        "C": "Keadilan sosial bagi seluruh rakyat dalam tatanan perekonomian",
+        "D": "Pemberian dana talangan tanpa batas kepada korporasi yang merugi",
+        "E": "Pengalihan fungsi kawasan cagar alam menjadi perkebunan kelapa"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pemerintah negara Indonesia berkewajiban mewujudkan kesejahteraan umum, yaitu **mewujudkan suatu keadilan sosial bagi seluruh rakyat Indonesia di bidang ekonomi**.",
+        "alasan_kunci": "Opsi C tepat karena perekonomian disusun bukan untuk memakmurkan segelintir orang melainkan untuk kemakmuran seluruh rakyat secara adil. Kebijakan moneter, fiskal, dan perdagangan harus bermuara pada penciptaan lapangan kerja dan pengentasan kemiskinan. Keadilan sosial adalah roh utama Pasal 33 UUD 1945.",
+        "bedah_pengecoh": {
+          "A": "Perlindungan eksklusif konglomerasi bertentangan dengan keadilan ekonomi Pancasila.",
+          "B": "Tarif bea masuk barang teknologi diatur proporsional demi mendorong alih teknologi nasional.",
+          "D": "Dana talangan sembarangan melanggar prinsip kehati-hatian tata kelola keuangan negara.",
+          "E": "Pengrusakan kawasan cagar alam melanggar prinsip ekonomi berkelanjutan berwawasan lingkungan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 81,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "Dalam Pasal 32 UUD 1945 disebutkan bahwa",
+        "memajukan kebudayaan nasional"
+      ],
+      "topik_materi": "Ketentuan Kebudayaan Nasional Pasal 32 UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan amanat Pasal 32 UUD 1945, kewajiban negara di bidang kebudayaan adalah...",
+      "pilihan": {
+        "A": "Menyeragamkan seluruh dialek bahasa daerah menjadi satu bahasa baku",
+        "B": "Mewajibkan adopsi kebudayaan asing tanpa penyaringan nilai etika",
+        "C": "Menghapus seluruh upacara adat istiadat yang berusia ratusan tahun",
+        "D": "Membatasi pementasan kesenian tradisional saat peringatan hari kemerdekaan",
+        "E": "Memajukan kebudayaan nasional serta memelihara bahasa daerah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pasal 32 UUD 1945 menegaskan bahwa **negara/pemerintah memajukan kebudayaan nasional, menghormati, dan memelihara bahasa daerah sebagai kekayaan budaya nasional**.",
+        "alasan_kunci": "Opsi E tepat karena kebudayaan daerah merupakan puncak-puncak kebudayaan nasional yang wajib dilindungi dan dikembangkan kelestariannya. Bahasa daerah diakui sebagai warisan luhur yang memperkaya khazanah peradaban bangsa. Negara hadir menjamin kebebasan masyarakat dalam memelihara dan mengembangkan nilai budayanya.",
+        "bedah_pengecoh": {
+          "A": "Bahasa daerah dipelihara kelestariannya, bukan diseragamkan secara paksa.",
+          "B": "Kebudayaan asing disaring secara selektif agar selaras dengan kepribadian Pancasila.",
+          "C": "Upacara adat yang luhur dilindungi sebagai warisan kekayaan budaya nusantara.",
+          "D": "Kesenian daerah didorong untuk terus berkembang aktif di tengah masyarakat setiap saat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 82,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "tidak bertentangan dengan nilai-nilai Pancasila",
+        "meningkatkan harkat dan martabat manusia"
+      ],
+      "topik_materi": "Syarat Penerimaan Kebudayaan Asing",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Syarat konstitusional penerimaan unsur kebudayaan asing ke dalam kebudayaan nasional adalah...",
+      "pilihan": {
+        "A": "Mendapat persetujuan dari dewan komisaris korporasi penanaman modal",
+        "B": "Tidak bertentangan Pancasila serta mengangkat harkat martabat manusia",
+        "C": "Berasal dari negara industri maju yang memiliki teknologi militer",
+        "D": "Mampu menggantikan seluruh fungsi kearifan lokal masyarakat adat",
+        "E": "Diterapkan secara menyeluruh tanpa melalui proses penyesuaian nilai"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Penerimaan unsur kebudayaan asing dibenarkan dengan ketentuan **tidak bertentangan dengan nilai-nilai Pancasila dan dapat meningkatkan harkat dan martabat manusia Indonesia**.",
+        "alasan_kunci": "Opsi B tepat karena Indonesia bersikap terbuka terhadap pengaruh global yang positif bagi kemajuan ilmu dan peradaban. Namun, setiap unsur asing wajib disaring agar tidak merusak moralitas dan jati diri kebangsaan. Pengaruh tersebut harus memperkaya, bukan mengikis peradaban nusantara.",
+        "bedah_pengecoh": {
+          "A": "Penyaringan kebudayaan adalah wilayah ketahanan peradaban, bukan urusan komisaris modal.",
+          "C": "Asal negara maju bukan jaminan kesesuaian nilai budaya asing dengan moral bangsa.",
+          "D": "Kebudayaan asing tidak boleh memusnahkan eksistensi kearifan lokal yang hidup.",
+          "E": "Penyerapan budaya tanpa filter adaptasi melahirkan krisis identitas dan degradasi moral."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 83,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "menjunjung tinggi semboyan “Bhinneka Tunggal",
+        "Ika”"
+      ],
+      "topik_materi": "Semboyan Bhinneka Tunggal Ika",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip utama semboyan Bhinneka Tunggal Ika dalam memandang keberagaman suku dan adat adalah...",
+      "pilihan": {
+        "A": "Mempertentangkan perbedaan demi memicu kompetisi dominasi antarsuku",
+        "B": "Menghapuskan adat minoritas agar tercipta keseragaman tradisi tunggal",
+        "C": "Saling melengkapi dalam keanekaragaman sebagai khazanah kebudayaan bangsa",
+        "D": "Memisahkan pemukiman penduduk berdasarkan kesamaan suku asal daerah",
+        "E": "Melarang pernikahan antarsuku demi menjaga kemurnian garis keturunan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Bhinneka Tunggal Ika menuntut bahwa **keanekaragaman tidak boleh dipertentangkan, melainkan saling melengkapi dan merupakan khazanah kebudayaan bangsa**.",
+        "alasan_kunci": "Opsi C tepat karena semboyan Bhinneka Tunggal Ika mengajarkan persatuan dalam perbedaan. Kemajemukan suku, bahasa, dan adat istiadat bukanlah kelemahan atau sumber konflik, melainkan kekayaan peradaban yang memperkuat bangunan kebangsaan. Harmoni ini dijaga melalui sikap saling menghormati.",
+        "bedah_pengecoh": {
+          "A": "Mempertentangkan perbedaan memicu perpecahan yang bertentangan dengan semboyan negara.",
+          "B": "Peleburan paksa adat minoritas melanggar prinsip pengakuan keragaman budaya nusantara.",
+          "D": "Segregasi pemukiman berbau politik apartheid dan merusak integrasi sosiologis bangsa.",
+          "E": "Asimilasi perkawinan antarsuku justru mempererat tali persaudaraan kebangsaan Indonesia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 84,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "Dalam pasal 27 ayat (3) UUD 1945 menegaskan",
+        "berhak dan wajib ikut serta dalam upaya pembelaan negara"
+      ],
+      "topik_materi": "Pasal 27 Ayat (3) Pembelaan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan konstitusional mengenai hak dan kewajiban bela negara ditegaskan dalam...",
+      "pilihan": {
+        "A": "Pasal 26 ayat (2) mengenai syarat naturalisasi warga negara asing",
+        "B": "Pasal 29 ayat (2) mengenai jaminan kemerdekaan beribadah penduduk",
+        "C": "Pasal 28E ayat (1) mengenai kebebasan memeluk agama dan beribadah",
+        "D": "Pasal 27 ayat (3) bahwa setiap warga berhak dan wajib membela negara",
+        "E": "Pasal 31 ayat (2) mengenai kewajiban mengikuti pendidikan dasar"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pasal 27 ayat (3) UUD 1945 menegaskan bahwa **setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara**.",
+        "alasan_kunci": "Opsi D tepat karena membela kedaulatan negara bukan sekadar kewajiban hukum, melainkan juga hak kehormatan bagi setiap warga negara. Bela negara dapat diwujudkan melalui pengabdian profesi, karya nyata, hingga kesiapsiagaan menghadapi ancaman kedaulatan. Amanat pasal ini berlaku mengikat segenap warga.",
+        "bedah_pengecoh": {
+          "A": "Pasal 26 ayat (2) mengatur penduduk yang terdiri dari WNI dan orang asing yang bertempat tinggal.",
+          "B": "Pasal 29 ayat (2) mengatur jaminan negara terhadap kemerdekaan beribadah tiap penduduk.",
+          "C": "Pasal 28E ayat (1) mengatur kebebasan memeluk agama dan memilih pendidikan pengajaran.",
+          "E": "Pasal 31 ayat (2) mengatur kewajiban warga negara mengikuti pendidikan dasar pemerintah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 85,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "pasal 30 ayat (1) UUD 1945 dinyatakan, bahwa tiap-tiap warga",
+        "usaha pertahanan dan keamanan negara"
+      ],
+      "topik_materi": "Pasal 30 Ayat (1) Usaha Pertahanan Keamanan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 30 ayat (1) UUD 1945, keikutsertaan dalam usaha pertahanan dan keamanan negara adalah...",
+      "pilihan": {
+        "A": "Hak dan kewajiban yang melekat pada tiap-tiap warga negara Indonesia",
+        "B": "Kewajiban khusus yang dibebankan kepada anggota korps militer",
+        "C": "Tugas sukarela yang diserahkan pelaksanaannya kepada relawan pemuda",
+        "D": "Kewenangan eksklusif para pejabat pimpinan satuan kerja kepolisian",
+        "E": "Kegiatan berbayar yang diselenggarakan oleh badan usaha keamanan swasta"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pasal 30 ayat (1) UUD 1945 menyatakan **tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara**.",
+        "alasan_kunci": "Opsi A tepat karena pertahanan negara menganut doktrin semesta di mana keamanan tanah air merupakan tanggung jawab bersama seluruh rakyat. Rakyat bukan penonton pasif, melainkan benteng ketahanan nasional yang kokoh. Hak dan kewajiban ini mengikat seluruh warga negara tanpa kecuali.",
+        "bedah_pengecoh": {
+          "B": "Militer adalah kekuatan utama, namun kewajiban pertahanan melekat pada segenap warga.",
+          "C": "Pertahanan dan keamanan adalah kewajiban konstitusional, bukan sekadar sukarela situasional.",
+          "D": "Kepolisian memelihara kamtibmas, tetapi usaha keamanan melibatkan seluruh komponen bangsa.",
+          "E": "Keamanan negara adalah fungsi kedaulatan publik, bukan jasa komersial berbayar swasta."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 86,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "sistem pertahanan dan keamanan rakyat semesta",
+        "TNI dan Polri sebagai kekuatan utama"
+      ],
+      "topik_materi": "Pasal 30 Ayat (2) Sishankamrata",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Komposisi kekuatan dalam Sishankamrata berdasarkan Pasal 30 ayat (2) UUD 1945 menempatkan...",
+      "pilihan": {
+        "A": "Rakyat sebagai kekuatan utama dan militer asing sebagai kekuatan pembantu",
+        "B": "TNI dan Polri sebagai kekuatan utama dan rakyat sebagai kekuatan pendukung",
+        "C": "Perusahaan keamanan swasta sebagai kekuatan utama dalam penindakan hukum",
+        "D": "Organisasi kemasyarakatan daerah sebagai pemegang komando pertahanan pulau",
+        "E": "Aparatur sipil birokrasi kementerian sebagai kesatuan tempur terdepan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Usaha hankamneg dilaksanakan melalui sistem pertahanan dan keamanan rakyat semesta **(Sishankamrata) oleh TNI dan Polri sebagai kekuatan utama dan rakyat sebagai kekuatan pendukung**.",
+        "alasan_kunci": "Opsi B tepat karena TNI memegang fungsi pertahanan negara dan Polri memegang fungsi keamanan ketertiban masyarakat sebagai garda terdepan profesional. Seluruh rakyat dan sumber daya nasional disiapkan sebagai kekuatan pendukung yang siap dimobilisasi demi kedaulatan NKRI. Inilah doktrin Sishankamrata.",
+        "bedah_pengecoh": {
+          "A": "Militer asing tidak memiliki tempat dalam sistem pertahanan kedaulatan mandiri Indonesia.",
+          "C": "Penggunaan senjata dan komando pertahanan berada di bawah institusi sah negara.",
+          "D": "Komando pertahanan berada di bawah Panglima TNI atas arahan Presiden Republik Indonesia.",
+          "E": "Aparatur birokrasi bertugas pada fungsi pelayanan sipil dan dukungan logistik pertahanan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 87,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "melindungi segenap bangsa Indonesia dan",
+        "seluruh tumpah darah Indonesia"
+      ],
+      "topik_materi": "Tujuan Pertahanan Negara dalam Pembukaan UUD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan pertahanan negara dalam alinea keempat Pembukaan UUD 1945 dirumuskan dengan kalimat...",
+      "pilihan": {
+        "A": "Mengadakan ekspansi penaklukan pulau-pulau baru di kawasan samudra",
+        "B": "Mewajibkan dinas militer aktif kepada seluruh pelajar sekolah menengah",
+        "C": "Menyita seluruh aset kepemilikan modal asing tanpa ganti kerugian",
+        "D": "Membentuk persekutuan militer penyerang bersama negara kawasan eropa",
+        "E": "Melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dalam alinea keempat Pembukaan UUD 1945 dinyatakan tujuan negara yaitu **melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia**.",
+        "alasan_kunci": "Opsi E tepat karena tugas pertahanan negara pada hakikatnya bersifat defensif aktif, yaitu menjaga kedaulatan tanah air dan keselamatan rakyat dari setiap ancaman. Indonesia tidak pernah berniat menyerang atau menjajah bangsa lain. Perlindungan segenap tumpah darah adalah mandat konstitusi.",
+        "bedah_pengecoh": {
+          "A": "Indonesia menghormati integritas wilayah negara tetangga dan menentang segala agresi militer.",
+          "B": "Wajib militer bagi pelajar bukan amanat langsung teks Pembukaan Undang-Undang Dasar.",
+          "C": "Nasionalisasi aset dilakukan sesuai hukum perundang-undangan dan perjanjian internasional.",
+          "D": "Indonesia setia pada prinsip politik bebas aktif dan tidak ikut serta pakta militer agresor."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 88,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "tidak boleh mempertentangkan perbedaan sifat, bentuk, dan",
+        "wujud kebudayaan"
+      ],
+      "topik_materi": "Larangan dalam Pengelolaan Keragaman Budaya",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Sikap yang dilarang dalam pengelolaan keragaman sosial budaya bangsa adalah...",
+      "pilihan": {
+        "A": "Mempelajari tarian tradisional daerah lain dalam festival kebudayaan",
+        "B": "Mempromosikan produk kerajinan tangan lokal ke pameran internasional",
+        "C": "Mempertentangkan perbedaan sifat, bentuk, dan wujud kebudayaan",
+        "D": "Mengadakan pertukaran pelajar antardaerah kepulauan nusantara",
+        "E": "Mendokumentasikan kosa kata bahasa daerah yang terancam punah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dalam hubungan kebudayaan, kita **tidak boleh mempertentangkan perbedaan sifat, bentuk, dan wujud kebudayaan** yang beraneka ragam.",
+        "alasan_kunci": "Opsi C tepat karena mempertentangkan tradisi antardaerah dapat menyulut gesekan sosial dan disintegrasi bangsa. Perbedaan harus disikapi secara dewasa sebagai ragam keindahan mozaik budaya nusantara. Sikap toleran dan saling mengapresiasi menjadi kunci kerukunan sosial.",
+        "bedah_pengecoh": {
+          "A": "Mempelajari tari tradisional daerah lain merupakan wujud apresiasi budaya yang sangat positif.",
+          "B": "Promosi kerajinan daerah mengangkat perekonomian dan martabat peradaban bangsa di dunia.",
+          "D": "Pertukaran pelajar mempererat tali persaudaraan kebangsaan di kalangan generasi penerus.",
+          "E": "Dokumentasi bahasa daerah adalah upaya pelestarian warisan budaya yang diamanatkan konstitusi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 89,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "menghormati, dan memelihara bahasa daerah",
+        "kekayaan budaya nasional"
+      ],
+      "topik_materi": "Kedudukan Bahasa Daerah dalam Konstitusi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kedudukan bahasa daerah dalam sistem sosial budaya Indonesia sebagaimana diatur konstitusi adalah...",
+      "pilihan": {
+        "A": "Penghambat kelancaran komunikasi perdagangan modern di kota besar",
+        "B": "Dialek kuno yang penggunaannya dibatasi pada lingkungan pedalaman",
+        "C": "Bahasa pengantar wajib dalam persidangan lembaga peradilan umum",
+        "D": "Kekayaan budaya nasional yang dihormati dan dipelihara kelestariannya",
+        "E": "Unsur kebudayaan yang wajib dihapus demi penyeragaman bahasa resmi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Bahasa daerah berkedudukan sebagai **kekayaan budaya nasional yang dihormati dan dipelihara oleh negara**.",
+        "alasan_kunci": "Opsi D tepat karena ratusan bahasa daerah di nusantara memuat kearifan lokal, etika moral, dan sejarah peradaban suku bangsa Indonesia. Keberadaannya berdampingan harmonis dengan Bahasa Indonesia sebagai bahasa persatuan. Pelestariannya dijamin secara tegas dalam Pasal 32 ayat (2) UUD 1945.",
+        "bedah_pengecoh": {
+          "A": "Bahasa daerah tidak menghambat perniagaan, melainkan memperkaya interaksi sosiologis.",
+          "B": "Bahasa daerah hidup di perkotaan maupun pedesaan dan tidak dibatasi penggunaannya.",
+          "C": "Persidangan peradilan resmi menggunakan Bahasa Indonesia sebagai bahasa hukum negara.",
+          "E": "Penghapusan bahasa daerah bertentangan secara frontal dengan amanat konstitusi UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 90,
+      "halaman_sumber": 34,
+      "kata_kunci_modul": [
+        "Wawasan Nusantara",
+        "Corak ragam budaya menggambarkan kekayaan budaya bangsa"
+      ],
+      "topik_materi": "Wawasan Nusantara Bidang Sosial Budaya",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Makna hakiki kepulauan Nusantara sebagai satu kesatuan sosial dan budaya adalah bahwa...",
+      "pilihan": {
+        "A": "Ragam budaya adalah kekayaan bersama yang harus dikembangkan seimbang",
+        "B": "Setiap warga wajib meninggalkan adat leluhur demi budaya metropolitan",
+        "C": "Kebudayaan suku mayoritas berhak menjadi tolak ukur standar budaya tunggal",
+        "D": "Pemerintah pusat berhak melarang tradisi kesenian yang bersifat religius",
+        "E": "Kegiatan festival kebudayaan daerah harus dipusatkan di ibu kota negara"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Corak ragam budaya menggambarkan **kekayaan budaya bangsa yang harus dikembangkan untuk dapat dinikmati bersama** dalam wadah Wawasan Nusantara.",
+        "alasan_kunci": "Opsi A tepat karena kesatuan sosial budaya menegaskan bahwa peradaban bangsa pada hakikatnya adalah satu, sedangkan corak ragamnya mencerminkan kekayaan budaya yang dinikmati seluruh rakyat. Kebudayaan daerah menjadi sumber inspirasi pembangunan nasional. Nilai ini memperkokoh ketahanan budaya bangsa.",
+        "bedah_pengecoh": {
+          "B": "Masyarakat tidak boleh dipaksa meninggalkan identitas adat leluhur yang berkepribadian luhur.",
+          "C": "Tidak ada dominasi satu suku atas suku lain dalam tatanan kebudayaan Bhinneka Tunggal Ika.",
+          "D": "Tradisi bernilai luhur dan religius dilindungi sepenuhnya oleh negara sebagai khazanah.",
+          "E": "Festival budaya didorong berkembang aktif di setiap daerah untuk menghidupkan pariwisata lokal."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 91,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "ancaman terhadap satu pulau atau satu daerah pada hakikatnya",
+        "ancaman terhadap seluruh bangsa dan negara"
+      ],
+      "topik_materi": "Hakikat Kesatuan Pertahanan Keamanan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip dasar kesatuan pertahanan dan keamanan nasional menegaskan bahwa ancaman terhadap satu pulau...",
+      "pilihan": {
+        "A": "Merupakan tanggung jawab mandiri aparat pemerintah daerah setempat",
+        "B": "Dapat diselesaikan dengan menyerahkan pengelolaan pulau ke pihak asing",
+        "C": "Pada hakikatnya merupakan ancaman terhadap seluruh bangsa dan negara",
+        "D": "Tidak berdampak bagi kestabilan keamanan wilayah ibu kota negara",
+        "E": "Perlu ditangani apabila menimbulkan kerugian pendapatan kas daerah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kesatuan pertahanan keamanan berarti bahwa **ancaman terhadap satu pulau atau satu daerah pada hakikatnya merupakan ancaman terhadap seluruh bangsa dan negara**.",
+        "alasan_kunci": "Opsi C tepat karena kedaulatan wilayah Indonesia adalah satu kesatuan utuh yang tidak dapat dibagi-bagi. Gangguan keamanan di perbatasan terluar dirasakan sebagai ancaman nyata bagi kedaulatan segenap rakyat Indonesia. Prinsip solidaritas pertahanan ini menyatukan segenap komponen bangsa.",
+        "bedah_pengecoh": {
+          "A": "Pertahanan kedaulatan adalah urusan absolut pemerintah pusat, bukan daerah semata.",
+          "B": "Sejengkal wilayah tanah air haram diserahkan kepada penguasaan militer asing.",
+          "D": "Kestabilan nasional saling terkait erat antarseluruh gugusan pulau di nusantara.",
+          "E": "Ancaman pertahanan diukur dari kedaulatan wilayah, bukan semata hitungan kas fiskal."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 92,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Indonesia ialah negara yang berdasar atas hukum (Rechtsstaat)",
+        "tidak berdasarkan kekuasaan belaka (Machtsstaat)"
+      ],
+      "topik_materi": "Indonesia adalah Negara Hukum (Rechtsstaat)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penegasan Pasal 1 ayat (3) UUD 1945 bahwa Indonesia adalah negara hukum (Rechtsstaat) berarti negara...",
+      "pilihan": {
+        "A": "Menjadikan titah penguasa sebagai satu-satunya rujukan kebenaran mutlak",
+        "B": "Menjalankan pemerintahan tanpa pengawasan dari lembaga peradilan hukum",
+        "C": "Memberikan kekebalan hukum penuh kepada para pejabat eksekutif negara",
+        "D": "Berdasar atas hukum dan tidak berdasarkan atas kekuasaan belaka",
+        "E": "Mengesampingkan peraturan perundang-undangan demi efisiensi birokrasi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Negara Indonesia adalah **negara hukum (rechtsstaat) tidak berdasarkan kekuasaan belaka (machtsstaat)** sebagaimana ditegaskan dalam Pasal 1 ayat (3) UUD 1945.",
+        "alasan_kunci": "Opsi D tepat karena dalam negara hukum (rechtsstaat), hukum berkedudukan sebagai panglima tertinggi (supremasi hukum) yang membatasi tindakan penguasa. Setiap keputusan birokrasi wajib memiliki dasar legitimasi hukum yang sah untuk mencegah kesewenang-wenangan. Prinsip ini menjamin kepastian hukum dan keadilan rakyat.",
+        "bedah_pengecoh": {
+          "A": "Kekuasaan yang bersandar pada titah penguasa adalah ciri negara kekuasaan (machtsstaat).",
+          "B": "Peradilan yang independen merupakan syarat mutlak dalam tegaknya negara hukum.",
+          "C": "Tidak ada seorang pun yang kebal hukum dalam tatanan negara hukum demokratis.",
+          "E": "Efisiensi birokrasi wajib tetap taat asas dan berlandaskan pada koridor hukum sah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 93,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Dalam pasal 1 ayat (3) UUD 1945 ditegaskan",
+        "bahwa Indonesia ialah negara hukum"
+      ],
+      "topik_materi": "Pasal Penegasan Negara Hukum",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pasal dalam batang tubuh UUD 1945 yang secara tegas menyatakan bahwa Indonesia adalah negara hukum adalah...",
+      "pilihan": {
+        "A": "Pasal 1 ayat (3) bahwa Negara Indonesia adalah negara hukum",
+        "B": "Pasal 1 ayat (1) mengenai bentuk negara kesatuan republik",
+        "C": "Pasal 2 ayat (1) mengenai majelis permusyawaratan rakyat",
+        "D": "Pasal 3 ayat (1) mengenai wewenang mengubah undang-undang",
+        "E": "Pasal 4 ayat (2) mengenai kewenangan wakil presiden membantu"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dalam **Pasal 1 ayat (3) UUD 1945** ditegaskan bahwa **Negara Indonesia adalah negara hukum**.",
+        "alasan_kunci": "Opsi A tepat karena rumusan ini secara resmi diadopsi ke dalam batang tubuh konstitusi pada amandemen ketiga UUD 1945. Penegasan ini memperkuat asas legalitas, pemenuhan hak asasi, peradilan bebas, dan kesetaraan warga di hadapan hukum. Kedudukannya menjadi fondasi sistem ketatanegaraan.",
+        "bedah_pengecoh": {
+          "B": "Pasal 1 ayat (1) mengatur bahwa negara Indonesia adalah negara kesatuan berbentuk republik.",
+          "C": "Pasal 2 ayat (1) mengatur susunan keanggotaan Majelis Permusyawaratan Rakyat.",
+          "D": "Pasal 3 ayat (1) mengatur kewenangan MPR untuk mengubah dan menetapkan UUD.",
+          "E": "Pasal 4 ayat (2) mengatur bahwa presiden dibantu oleh satu orang wakil presiden."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 94,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Sistem Konstitusional",
+        "presiden memegang kekuasaan pemerintahan berdasarkan UUD"
+      ],
+      "topik_materi": "Prinsip Sistem Konstitusional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan prinsip Sistem Konstitusional dalam Pasal 4 ayat (1) UUD 1945, Presiden menjalankan kekuasaan...",
+      "pilihan": {
+        "A": "Mutlak tanpa batas selama masa periode jabatan belum berakhir",
+        "B": "Dengan wewenang membubarkan lembaga dewan perwakilan rakyat",
+        "C": "Mengikuti arahan instruksi tertulis dari pimpinan koalisi partai",
+        "D": "Atas dasar pertimbangan subjektif para penasihat keluarga istana",
+        "E": "Pemerintahan berdasarkan Undang-Undang Dasar sebagai konstitusi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dalam sistem konstitusional, **presiden memegang kekuasaan pemerintahan berdasarkan UUD (konstitusi)** sebagaimana diatur dalam Pasal 4 ayat (1) UUD 1945.",
+        "alasan_kunci": "Opsi E tepat karena sistem konstitusional mengikat presiden untuk selalu tunduk pada batasan-batasan hukum dasar negara. Kekuasaan presiden tidak bersifat tak terbatas (absolut). Setiap tindakan eksekutif wajib dapat dipertanggungjawabkan secara hukum dan konstitusi.",
+        "bedah_pengecoh": {
+          "A": "Kekuasaan mutlak tanpa batas adalah ciri sistem monarki absolut, bukan presidensial UUD 1945.",
+          "B": "Pasal 7C UUD 1945 secara tegas menyatakan presiden tidak dapat membubarkan dewan parlemen.",
+          "C": "Presiden bertindak demi kepentingan segenap rakyat dan bukan boneka koalisi kepartaian.",
+          "D": "Keputusan kenegaraan diambil melalui mekanisme resmi kabinet berdasarkan ketentuan hukum."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 95,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Kedaulatan berada di tangan rakyat dan dilaksanakan menurut",
+        "Undang-Undang Dasar"
+      ],
+      "topik_materi": "Pasal 1 Ayat (2) Kedaulatan Rakyat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan mengenai pemegang kekuasaan tertinggi dalam Pasal 1 ayat (2) UUD 1945 menegaskan...",
+      "pilihan": {
+        "A": "Kedaulatan berada di tangan majelis permusyawaratan rakyat sepenuhnya",
+        "B": "Kedaulatan berada di tangan rakyat dan dilaksanakan menurut UUD",
+        "C": "Kedaulatan berada di tangan presiden sebagai panglima tertinggi angkatan",
+        "D": "Kedaulatan berada di tangan para hakim agung mahkamah kehakiman",
+        "E": "Kedaulatan berada di tangan perwakilan pimpinan lembaga perbankan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pasal 1 ayat (2) UUD 1945 menegaskan bahwa **Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar**.",
+        "alasan_kunci": "Opsi B tepat karena rumusan ini menegaskan supremasi rakyat yang dijalankan melalui aturan main konstitusi (konstitusionalisme). Kedaulatan tidak lagi terpusat secara mutlak pada satu lembaga perwakilan melainkan dibagi dan diatur pembagian wewenangnya oleh UUD 1945. Inilah esensi demokrasi modern Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Rumusan 'kedaulatan dilakukan sepenuhnya oleh MPR' adalah teks lama sebelum masa amandemen.",
+          "C": "Presiden adalah pelaksana mandat kekuasaan pemerintahan dan bukan pemilik kedaulatan rakyat.",
+          "D": "Hakim agung memegang kekuasaan kehakiman merdeka, bukan pemegang kedaulatan tertinggi.",
+          "E": "Lembaga keuangan tunduk pada regulasi perundang-undangan dan bukan pemegang kedaulatan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 96,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Kekuasaan negara yang tertinggi berada di",
+        "tangan rakyat"
+      ],
+      "topik_materi": "Prinsip Kedaulatan Rakyat Alinea Keempat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pernyataan bahwa negara Indonesia berbentuk republik yang berkedaulatan rakyat termaktub dalam...",
+      "pilihan": {
+        "A": "Alinea pertama naskah deklarasi piagam kemerdekaan",
+        "B": "Alinea ketiga surat ketetapan komite nasional pusat",
+        "C": "Alinea kedua teks pengantar penyerahan mandat menteri",
+        "D": "Alinea keempat naskah Pembukaan Undang-Undang Dasar 1945",
+        "E": "Batang tubuh aturan peralihan inventarisasi kepemilikan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Hal ini jelas dinyatakan dalam alinea keempat Pembukaan UUD 1945 yang menyatakan bahwa **negara Indonesia adalah negara yang berbentuk republik yang berkedaulatan rakyat**.",
+        "alasan_kunci": "Opsi D tepat karena alinea keempat memuat rumusan komprehensif mengenai susunan negara Republik Indonesia yang berkedaulatan rakyat dengan berdasar kepada lima sila Pancasila. Asas ini menegaskan bahwa legitimasi kekuasaan bersumber dari rakyat dan ditujukan demi kemaslahatan rakyat. Ini adalah jiwa demokrasi republik.",
+        "bedah_pengecoh": {
+          "A": "Alinea pertama menegaskan prinsip kemerdekaan hak segala bangsa dan penolakan penjajahan.",
+          "B": "Ketetapan komite nasional memuat mandat legislasi darurat pada masa awal kemerdekaan.",
+          "C": "Pengantar mandat menteri bukan dokumen konstitusional pembentuk bentuk susunan negara.",
+          "E": "Aturan peralihan mengatur kontinuitas kelembagaan dan bukan perumusan kedaulatan rakyat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 97,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Presiden memegang kekuasaan pemerintahan dan bertanggung jawab",
+        "kepada rakyat"
+      ],
+      "topik_materi": "Akuntabilitas Kepresidenan kepada Rakyat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsekuensi ketatanegaraan dari pemilihan Presiden secara langsung adalah...",
+      "pilihan": {
+        "A": "Presiden berhak membubarkan lembaga dewan perwakilan rakyat daerah",
+        "B": "Presiden tidak dapat dituntut pertanggungjawaban oleh lembaga manapun",
+        "C": "Presiden memegang kekuasaan dan bertanggung jawab kepada rakyat",
+        "D": "Presiden dibebaskan dari kewajiban mematuhi undang-undang dasar",
+        "E": "Presiden berwenang menunjuk pengganti jabatan secara dinasti keluarga"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Mengacu pada ketentuan konstitusi, **Presiden memegang kekuasaan pemerintahan dan bertanggung jawab kepada rakyat**.",
+        "alasan_kunci": "Opsi C tepat karena presiden memperoleh mandat mandat politik langsung dari rakyat melalui pemilihan umum yang demokratis. Dengan demikian, pelaksanaan amanah pemerintahan harus senantiasa diorientasikan bagi pemenuhan aspirasi dan kesejahteraan rakyat. Akuntabilitas publik menjadi asas pokok kekuasaan kepresidenan.",
+        "bedah_pengecoh": {
+          "A": "Presiden tidak memiliki kewenangan membubarkan dewan perwakilan rakyat tingkat daerah.",
+          "B": "Presiden dapat dimakzulkan (impeachment) apabila terbukti melanggar hukum konstitusi.",
+          "D": "Presiden bersumpah di hadapan rakyat untuk memegang teguh dan taat pada UUD 1945.",
+          "E": "Jabatan presiden diisi melalui kontestasi pemilihan umum terbuka, bukan warisan dinasti."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 98,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "pasal 6A ayat (1) ditegaskan bahwa presiden",
+        "dipilih secara langsung oleh rakyat"
+      ],
+      "topik_materi": "Pasal 6A Ayat (1) Pemilihan Presiden Langsung",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Mekanisme keterpilihan presiden secara langsung oleh rakyat secara konstitusional diatur dalam...",
+      "pilihan": {
+        "A": "Pasal 6A ayat (1) bahwa Presiden dan Wapres dipilih langsung rakyat",
+        "B": "Pasal 4 ayat (2) mengenai kewajiban tugas pokok pembantu presiden",
+        "C": "Pasal 7 mengenai batas masa periode lima tahun kepemimpinan",
+        "D": "Pasal 8 mengenai pengunduran diri dan kekosongan kepresidenan",
+        "E": "Pasal 9 mengenai sumpah dan janji presiden di depan persidangan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dalam **Pasal 6A ayat (1) ditegaskan bahwa Presiden dan Wakil Presiden dipilih dalam satu pasangan secara langsung oleh rakyat**.",
+        "alasan_kunci": "Opsi A tepat karena ketentuan ini menandai pergeseran sistem pemilihan dari perwakilan MPR menjadi demokrasi langsung oleh rakyat. Mandat langsung ini memperkuat derajat legitimasi kekuasaan eksekutif dalam sistem presidensial. Hal ini selaras dengan prinsip kedaulatan di tangan rakyat.",
+        "bedah_pengecoh": {
+          "B": "Pasal 4 ayat (2) mengatur bahwa presiden dibantu oleh seorang wakil presiden.",
+          "C": "Pasal 7 mengatur masa jabatan presiden selama 5 tahun dan dapat dipilih kembali 1 kali.",
+          "D": "Pasal 8 mengatur mekanisme kepemimpinan jika presiden mangkat atau diberhentikan.",
+          "E": "Pasal 9 mengatur lafal sumpah janji jabatan presiden sebelum memangku kewenangan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 99,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "Pancasila yang terkandung di dalam Pembukaan UUD 1945 tidaklah mungkin",
+        "dapat kita terapkan di dalam kehidupan ketatanegaraan sehari-hari"
+      ],
+      "topik_materi": "Hubungan Pembukaan dan Batang Tubuh UUD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pancasila dalam Pembukaan UUD 1945 dapat diterapkan dalam kehidupan ketatanegaraan nyata apabila...",
+      "pilihan": {
+        "A": "Dihapuskan seluruh peraturan pelaksanaan teknis tingkat kementerian",
+        "B": "Dibatasi penggunaannya pada kegiatan seremonial kenegaraan tahunan",
+        "C": "Diserahkan penafsirannya kepada para pemilik saham korporasi industri",
+        "D": "Diubah rumusannya mengikuti perubahan tren perpolitikan internasional",
+        "E": "Dirumuskan ke dalam ketentuan konkret yang tercantum dalam pasal UUD"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pancasila dalam Pembukaan UUD 1945 tidak mungkin dapat diterapkan sehari-hari **bila tidak dirumuskan di dalam ketentuan-ketentuan yang konkret yang tercantum di dalam pasal-pasal UUD 1945**.",
+        "alasan_kunci": "Opsi E tepat karena norma-norma filosofis Pancasila memerlukan wadah operasional berupa norma hukum positif dalam pasal-pasal UUD 1945 agar memiliki daya ikat dan sanksi. Tanpa penjabaran ke dalam pasal-pasal konstitusi dan undang-undang, nilai dasar Pancasila akan sulit ditegakkan dalam tindakan birokrasi nyata. Keduanya saling melengkapi secara utuh.",
+        "bedah_pengecoh": {
+          "A": "Peraturan teknis justru dibutuhkan untuk menjabarkan undang-undang ke ranah pelayanan.",
+          "B": "Pancasila menuntut pengamalan dalam setiap kebijakan, bukan sebatas seremonial semata.",
+          "C": "Penafsiran konstitusi adalah ranah lembaga kekuasaan kehakiman dan bukan korporasi modal.",
+          "D": "Nilai dasar Pancasila bersifat tetap dan tidak boleh digoyahkan oleh tren musiman."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 100,
+      "halaman_sumber": 35,
+      "kata_kunci_modul": [
+        "tiap-tiap warga negara mempunyai hak dan kewajiban yang sama",
+        "upaya pembelaan dan pertahanan keamanan negara"
+      ],
+      "topik_materi": "Kesamaan Hak dan Kewajiban Bela Negara",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Wujud pengamalan kesamaan hak dan kewajiban warga negara dalam pertahanan keamanan adalah...",
+      "pilihan": {
+        "A": "Membayar upah kepada pengawal pribadi demi mengamankan lingkungan satker",
+        "B": "Menjaga stabilitas ketertiban umum dan siap sedia membela kedaulatan negara",
+        "C": "Menuntut perlindungan fasilitas istimewa dari ancaman bencana kebakaran",
+        "D": "Enggan terlibat dalam kegiatan pos ronda ketertiban lingkungan",
+        "E": "Meninggalkan panggilan tugas kedinasan pada situasi darurat bencana alam"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tiap-tiap warga negara mempunyai **hak dan kewajiban yang sama dalam rangka upaya pembelaan dan pertahanan keamanan negara dan bangsa**.",
+        "alasan_kunci": "Opsi B tepat karena setiap warga negara, termasuk aparatur pemerintah, memikul tanggung jawab moral dan hukum untuk menjaga keamanan lingkungan dan siap membela kehormatan tanah air. Kesadaran bela negara diwujudkan melalui disiplin, kepatuhan hukum, dan integritas pengabdian. Kesamaan hak dan kewajiban ini mengikat seluruh warga negara.",
+        "bedah_pengecoh": {
+          "A": "Pengamanan pribadi bersifat komersial dan bukan wujud hak kewajiban bela negara bangsa.",
+          "C": "Perlindungan kedaruratan bencana diberikan setara kepada segenap warga tanpa diskriminasi.",
+          "D": "Pos ketertiban lingkungan merupakan wujud partisipasi riil sistem keamanan rakyat semesta.",
+          "E": "Aparatur negara wajib berada di garda terdepan penanganan darurat keselamatan masyarakat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    }
+  ]
+}

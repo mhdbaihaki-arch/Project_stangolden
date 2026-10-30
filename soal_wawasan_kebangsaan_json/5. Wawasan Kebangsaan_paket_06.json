@@ -1,0 +1,2916 @@
+{
+  "paket_nomor": 6,
+  "dokumen_sumber": "5. Modul Wawasan Kebangsaan-UPKP.pdf",
+  "rentang_halaman": "Halaman 56 s/d Halaman 65",
+  "jumlah_soal": 100,
+  "distribusi_kunci": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20,
+    "E": 20
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "dimungkinkan dalam pasal 43 dan pasal 49 Konstitusi RlS"
+      ],
+      "topik_materi": "Dasar Yuridis Pembubaran Negara Bagian RIS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyatuan kembali negara-negara bagian federal ke dalam pangkuan Republik Indonesia secara yuridis didasarkan pada ketentuan bahwa...",
+      "pilihan": {
+        "A": "Pembubaran dan penggabungan negara-negara bagian itu dimungkinkan dalam pasal 43 dan pasal 49 Konstitusi RIS",
+        "B": "Peleburan wilayah serikat diputuskan sekehendak perwakilan militer sekutu",
+        "C": "Konstitusi federal melarang pembubaran entitas wilayah otonom tanpa izin ratu belanda",
+        "D": "Negara bagian diwajibkan mempertahankan batas teritorialnya secara permanen",
+        "E": "Pemerintah federal memegang hak monopoli mutlak membekukan dewan perwakilan daerah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Pembubaran dan penggabungan negara-negara bagian itu dimungkinkan dalam pasal 43 dan pasal 49 Konstitusi RIS**, yang menjadi jalan konstitusional kembalinya bentuk negara kesatuan.",
+        "alasan_kunci": "Opsi A tepat karena Konstitusi RIS sendiri memuat klausul hukum yang memperbolehkan suatu negara bagian untuk bergabung dengan negara bagian lain atau membubarkan diri demi aspirasi rakyatnya, sehingga proses unifikasi berjalan sah secara hukum ketatanegaraan.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena peleburan wilayah didasarkan pada kehendak rakyat dan pasal konstitusi, bukan komando sekutu.",
+          "C": "Kurang tepat karena Konstitusi RIS justru membuka ruang pembubaran dan penggabungan wilayah.",
+          "D": "Kurang tepat karena negara bagian memiliki hak konstitusional untuk menggabungkan wilayahnya.",
+          "E": "Kurang tepat karena pembubaran negara bagian berakar dari keputusan rakyat dan parlemen negara bagian terkait."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "negara bagian Indonesia Timur dan Sumatera Timur"
+      ],
+      "topik_materi": "Negara Bagian Terakhir Menjelang Pembubaran RIS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada bulan April 1950, dua entitas federal yang tercatat sebagai wilayah bagian terakhir sebelum tercapainya kesepakatan negara kesatuan adalah...",
+      "pilihan": {
+        "A": "Negara Pasundan bersama dengan Daerah Istimewa Kalimantan Barat",
+        "B": "Negara bagian Indonesia Timur dan Sumatera Timur",
+        "C": "Negara Madura berdampingan dengan wilayah Negara Jawa Timur",
+        "D": "Negara Sumatera Selatan bersama entitas Daerah Bangka Belitung",
+        "E": "Daerah Banjar bersekutu dengan federasi Dayak Besar di Kalimantan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pada bulan April 1950 sebagian besar wilayah telah bergabung ke RI Yogyakarta, menyisakan **negara bagian Indonesia Timur dan Sumatera Timur** yang belum bergabung.",
+        "alasan_kunci": "Opsi B tepat karena Negara Indonesia Timur (NIT) dan Negara Sumatera Timur (NST) merupakan dua negara bagian bentukan Belanda yang bertahan paling akhir sebelum akhirnya pimpinannya bersepakat untuk melebur ke dalam NKRI.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Negara Pasundan telah lebih awal membubarkan diri pada awal tahun 1950.",
+          "C": "Kurang tepat karena Negara Madura dan Jawa Timur telah bergabung ke RI mendahului NIT dan NST.",
+          "D": "Kurang tepat karena Sumatera Selatan dan Bangka Belitung telah melebur ke RI sebelum April 1950.",
+          "E": "Kurang tepat karena satuan kenegaraan di Kalimantan telah menyatakan bergabung ke RI pada permulaan 1950."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "sesingkat-singkatnya bersama-sama mendirikan negara"
+      ],
+      "topik_materi": "Kesepakatan Pendirian Kembali Negara Kesatuan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Inti kesepakatan politik antara pimpinan Republik Indonesia di Yogyakarta dengan pimpinan negara federal RIS pada Mei 1950 adalah tekad untuk...",
+      "pilihan": {
+        "A": "Mempertahankan bentuk uni persemakmuran di bawah pengawasan kerajaan asing",
+        "B": "Membagi wilayah kepulauan nusantara menjadi empat federasi ekonomi mandiri",
+        "C": "Dalam waktu sesingkat-singkatnya bersama-sama mendirikan negara kesatuan",
+        "D": "Menyelenggarakan pemungutan suara berulang di setiap distrik persekutuan dagang",
+        "E": "Membentuk kabinet koalisi permanen yang dipimpin oleh komisioner tinggi sekutu"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Tercapai kesepakatan antara negara RI (Jogjakarta) dan negara RIS (mewakili NIT dan NST) untuk **dalam waktu sesingkat-singkatnya bersama-sama mendirikan negara kesatuan**.",
+        "alasan_kunci": "Opsi C tepat karena kedua pihak menyadari bahwa format federal memecah persatuan bangsa, sehingga disepakati komitmen bersama untuk membubarkan RIS dan memproklamasikan kembali NKRI.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Uni Indonesia-Belanda justru hendak diakhiri demi kedaulatan merdeka penuh.",
+          "B": "Kurang tepat karena kesepakatan ditujukan untuk membentuk negara kesatuan tunggal, bukan empat federasi.",
+          "D": "Kurang tepat karena integrasi dicapai melalui konsensus musyawarah perwakilan parlemen yang sah.",
+          "E": "Kurang tepat karena pemerintahan baru dipimpin mandiri oleh para pemimpin bangsa Indonesia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "piagam persetujuan tanggal 19 Mei 1950"
+      ],
+      "topik_materi": "Piagam Persetujuan 19 Mei 1950",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dokumen yuridis formal yang memuat kesepakatan resmi pembentukan kembali Negara Kesatuan Republik Indonesia antara RIS dan RI adalah...",
+      "pilihan": {
+        "A": "Nota kesepahaman gencatan senjata di atas kapal perang renville",
+        "B": "Perjanjian persekutuan ekonomi bilateral konferensi meja bundar den haag",
+        "C": "Dekrit darurat militer yang disahkan di markas komando pertempuran",
+        "D": "Piagam persetujuan tanggal 19 Mei 1950 antara pemerintah RIS dan negara RI",
+        "E": "Maklumat bersama pimpinan fraksi parlemen serikat di jakarta"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Persetujuan untuk mendirikan negara kesatuan secara resmi dimuat dalam suatu **piagam persetujuan tanggal 19 Mei 1950** antara pemerintah RIS dan pemerintah RI Yogyakarta.",
+        "alasan_kunci": "Opsi D tepat karena Piagam Persetujuan 19 Mei 1950 (dikenal sebagai Piagam Hatta-Sukawati) merupakan tonggak sejarah yuridis yang menjadi landasan penyusunan rancangan konstitusi baru (UUDS 1950) guna memulihkan bentuk NKRI.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Perjanjian Renville ditandatangani pada Januari 1948 pada era revolusi fisik.",
+          "B": "Kurang tepat karena KMB di Den Haag menghasilkan pembentukan RIS, bukan pembubarannya.",
+          "C": "Kurang tepat karena Piagam 19 Mei 1950 adalah dokumen politik-hukum sipil, bukan dekrit militer.",
+          "E": "Kurang tepat karena naskah kesepakatan ditandatangani oleh pimpinan eksekutif tertinggi kedua entitas."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "tanggal 17 Agustus 1950 di seluruh Negara Kesatuan Republik"
+      ],
+      "topik_materi": "Proklamasi Berdirinya Kembali NKRI 17 Agustus 1950",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Peristiwa bersejarah kembalinya bentuk negara kesatuan di Indonesia ditandai pada momentum bahwa...",
+      "pilihan": {
+        "A": "Pada 27 Desember 1949 seluruh kedaulatan diserahkan kepada persemakmuran",
+        "B": "Pada 10 November 1945 komisi internasional mengesahkan batas wilayah kepulauan",
+        "C": "Pada 5 Juli 1959 sistem kabinet parlementer dipulihkan kembali oleh parlemen",
+        "D": "Pada 18 Agustus 1945 sistem pemerintahan serikat resmi diberlakukan pertama kali",
+        "E": "Pada tanggal 17 Agustus 1950 Negara Indonesia yang berbentuk negara federal RIS menjadi negara kesatuan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Pada tanggal 17 Agustus 1950 Negara Indonesia yang berbentuk negara federal RIS menjadi negara kesatuan** bertepatan dengan peringatan lima tahun Proklamasi Kemerdekaan.",
+        "alasan_kunci": "Opsi E tepat karena Presiden Soekarno mengumumkan secara resmi pemulihan Negara Kesatuan Republik Indonesia pada 17 Agustus 1950, mengakhiri eksistensi RIS yang berumur kurang lebih 8 bulan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena 27 Desember 1949 adalah awal berdirinya bentuk federal RIS.",
+          "B": "Kurang tepat karena 10 November 1945 adalah peristiwa Pertempuran Surabaya (Hari Pahlawan).",
+          "C": "Kurang tepat karena Dekrit 5 Juli 1959 mengakhiri sistem parlementer UUDS 1950 dan kembali ke UUD 1945.",
+          "D": "Kurang tepat karena 18 Agustus 1945 adalah penetapan UUD 1945 negara kesatuan, bukan serikat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "Konstitusi RIS menjadi Undang-Undang Dasar Sementara"
+      ],
+      "topik_materi": "Penyusunan RUU Perubahan Konstitusi RIS Menjadi UUDS 1950",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Langkah teknis perundang-undangan yang ditempuh bersama pasca-penandatanganan Piagam 19 Mei 1950 adalah...",
+      "pilihan": {
+        "A": "Membuat rancangan perubahan Konstitusi RIS menjadi Undang-Undang Dasar Sementara (UUDS) 1950",
+        "B": "Menerbitkan mata uang bersama antara kerajaan belanda dengan bank indonesia",
+        "C": "Menetapkan naskah piagam jakarta menjadi hukum dasar tertinggi persemakmuran",
+        "D": "Mengadili para perwira militer yang terlibat dalam agresi senjata di daerah",
+        "E": "Menyusun batas demarkasi pertahanan baru di bawah koordinasi staf sekutu"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Setelah persetujuan dimuat dalam piagam 19 Mei 1950, proses selanjutnya adalah **membuat rancangan perubahan Konstitusi RIS menjadi Undang-Undang Dasar Sementara (UUDS) 1950 Republik Indonesia oleh pihak RIS dan negara RI**.",
+        "alasan_kunci": "Opsi A tepat karena secara yuridis peralihan dari negara federal ke negara kesatuan dilakukan melalui mekanisme amendemen terhadap Konstitusi RIS yang diubah menjadi teks UUDS 1950.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena unifikasi moneter dilakukan mandiri oleh Bank Indonesia pasca-nasionalisasi De Javasche Bank.",
+          "C": "Kurang tepat karena Piagam Jakarta adalah dokumen perumusan dasar negara tahun 1945.",
+          "D": "Kurang tepat karena fokus utama panitia bersama adalah penyusunan konstitusi unifikasi negara kesatuan.",
+          "E": "Kurang tepat karena garis demarkasi Van Mook dihapus seiring runtuhnya negara bagian bentukan kolonial."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "Di depan rapat gabungan senat dan DPR RIS"
+      ],
+      "topik_materi": "Persetujuan Rapat Gabungan Senat dan DPR RIS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Persetujuan formal terhadap naskah rancangan UUDS 1950 pada tanggal 15 Agustus 1950 dideklarasikan secara resmi...",
+      "pilihan": {
+        "A": "Di hadapan perwakilan dewan pertimbangan agung dan pimpinan kejaksaan",
+        "B": "Di depan rapat gabungan senat dan DPR RIS oleh Presiden RIS",
+        "C": "Dalam konferensi pers tertutup di kantor perwakilan komisi perdamaian",
+        "D": "Pada rapat kerja komisi militer pertahanan tingkat wilayah kepulauan",
+        "E": "Melalui siaran radio luar negeri yang dipancarkan dari benua eropa"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Di depan rapat gabungan senat dan DPR RIS**, pada tanggal 15 Agustus Presiden menyatakan bahwa rancangan perubahan telah disetujui oleh pihak RIS dan negara RI (Jogjakarta).",
+        "alasan_kunci": "Opsi B tepat karena rapat gabungan Senat (mewakili negara-negara bagian) dan DPR RIS (mewakili rakyat) merupakan forum perwakilan parlemen tertinggi di tingkat federal yang berwenang menyetujui perubahan konstitusi.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPA bukan lembaga parlemen pada masa berlakunya Konstitusi RIS.",
+          "C": "Kurang tepat karena deklarasi dilakukan di sidang resmi parlemen nasional, bukan konferensi pers tertutup.",
+          "D": "Kurang tepat karena perubahan konstitusi merupakan kewenangan lembaga legislatif sipil.",
+          "E": "Kurang tepat karena pengumuman resmi dibacakan langsung di ibu kota negara Jakarta."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "dan negara RI (Jogjakarta) ditandatangani bersama Perdana"
+      ],
+      "topik_materi": "Pengesahan Naskah Resmi UUDS 1950",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Naskah Undang-Undang Dasar Sementara 1950 yang telah disetujui bersama oleh kedua belah pihak secara administratif disahkan melalui prosedur...",
+      "pilihan": {
+        "A": "Diratifikasi oleh perwakilan ratu belanda di hadapan komisi arbitrase",
+        "B": "Diberikan stempel persetujuan oleh komandan jenderal pasukan sekutu",
+        "C": "Ditandatangani bersama Perdana Menteri dan Menteri Kehakiman RIS",
+        "D": "Disahkan secara mandiri oleh pimpinan badan pekerja komite nasional",
+        "E": "Ditetapkan melalui surat edaran menteri penerangan tingkat daerah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Naskah UUDS yang telah disetujui oleh pihak RIS dan negara RI (Jogjakarta) **ditandatangani bersama Perdana Menteri dan Menteri Kehakiman RIS** untuk kemudian diundangkan secara sah.",
+        "alasan_kunci": "Opsi C tepat karena penandatanganan oleh Perdana Menteri (Mohammad Hatta) dan Menteri Kehakiman RIS menyempurnakan keabsahan yuridis naskah UUDS 1950 menjadi hukum positif yang mengikat seluruh tumpah darah Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena UUDS 1950 adalah produk hukum kedaulatan Indonesia tanpa ratifikasi pihak asing.",
+          "B": "Kurang tepat karena pasukan sekutu telah ditarik dari Indonesia sebelum tahun 1950.",
+          "D": "Kurang tepat karena pengesahan dilakukan oleh pejabat eksekutif tertinggi pemerintahan RIS dan RI.",
+          "E": "Kurang tepat karena konstitusi dasar tidak diundangkan melalui surat edaran menteri penerangan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "Republik Indonesia (Jogjakarta) dan negara RlS yang"
+      ],
+      "topik_materi": "Status Entitas Sebelum Integrasi April 1950",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kondisi geopolitik di tanah air menjelang terwujudnya kesepakatan Mei 1950 memperlihatkan fakta bahwa sebagian besar daerah...",
+      "pilihan": {
+        "A": "Telah menuntut pembentukan pemerintahan monarki di bawah kekuasaan kesultanan",
+        "B": "Menyusun mata uang daerah guna memisahkan diri dari kas perbendaharaan",
+        "C": "Menentang pembubaran pos-pos pangkalan militer pertahanan kerajaan asing",
+        "D": "Telah bergabung ke RI Yogyakarta dan menyisakan sedikit bagian yang belum bergabung",
+        "E": "Mewajibkan penggunaan bahasa asing dalam administrasi persidangan dewan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pada bulan April 1950 mayoritas wilayah telah melebur, sehingga menyisakan beberapa bagian dari negara bagian Indonesia Timur dan Sumatera Timur yang **belum bergabung dengan negara bagian Republik Indonesia (Jogjakarta)**.",
+        "alasan_kunci": "Opsi D tepat karena gelombang tuntutan rakyat (*people power*) di berbagai negara bagian menuntut kembali ke pangkuan RI Yogyakarta, membuktikan bahwa rakyat Indonesia menentang politik adu domba federal buatan penjajah.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena aspirasi rakyat menghendaki bentuk republik kesatuan, bukan monarki kesultanan.",
+          "B": "Kurang tepat karena daerah-daerah mendukung unifikasi kas dan mata uang rupiah nasional.",
+          "C": "Kurang tepat karena rakyat justru menuntut penarikan seluruh kekuatan militer kolonial KNIL.",
+          "E": "Kurang tepat karena bahasa Indonesia telah dijunjung tinggi sebagai bahasa persatuan resmi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 56,
+      "kata_kunci_modul": [
+        "Terbentuknya Undang-Undang Dasar Sementara (UUDS)"
+      ],
+      "topik_materi": "Hakikat Terbentuknya UUDS 1950",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemberian nama 'Undang-Undang Dasar Sementara' pada konstitusi yang disahkan tahun 1950 dilandasi oleh pertimbangan bahwa...",
+      "pilihan": {
+        "A": "Konstitusi tersebut berlaku sementara sepanjang masa darurat perang terbuka",
+        "B": "Aturan hukum tersebut sewaktu-waktu dapat dibatalkan oleh komisi perserikatan bangsa",
+        "C": "Naskah undang-undang dasar disusun tersendiri tanpa melibatkan tokoh-tokoh pergerakan",
+        "D": "Pemerintah pusat merencanakan pembentukan kembali negara bagian pada masa depan",
+        "E": "Terbentuknya Undang-Undang Dasar Sementara (UUDS) dimaksudkan menunggu konstitusi definitif dari Konstituante"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Terbentuknya Undang-Undang Dasar Sementara (UUDS)** 1950 dirancang sebagai hukum dasar transisional sebelum terbentuknya undang-undang dasar tetap yang akan disusun oleh badan Konstituante hasil pemilu.",
+        "alasan_kunci": "Opsi E tepat karena kata 'Sementara' menunjukkan bahwa UUDS 1950 bukan produk konstitusi final. Tugas menyusun konstitusi permanen diserahkan kepada lembaga Konstituante yang dipilih langsung oleh rakyat melalui Pemilu 1955.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena UUDS 1950 diberlakukan dalam situasi damai pasca-pengakuan kedaulatan.",
+          "B": "Kurang tepat karena kedaulatan penetapan konstitusi berada mutlak di tangan bangsa Indonesia.",
+          "C": "Kurang tepat karena UUDS disusun bersama oleh wakil-wakil sah dari RIS dan RI Yogyakarta.",
+          "D": "Kurang tepat karena komitmen bangsa telah final menuju negara kesatuan tanpa kembali ke bentuk serikat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "oleh Perdana Menteri."
+      ],
+      "topik_materi": "Struktur Eksekutif Menurut UUDS 1950",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ciri pokok sistem pemerintahan parlementer yang dianut dalam UUDS 1950 ditegaskan melalui aturan bahwa...",
+      "pilihan": {
+        "A": "Presiden bertindak sebagai kepala eksekutif yang memegang kekuasaan mutlak",
+        "B": "Kekuasaan pemerintah di tangan kabinet yang dipimpin oleh Perdana Menteri",
+        "C": "Seluruh keputusan kementerian wajib disetujui terlebih dahulu oleh dewan militer",
+        "D": "Jabatan perdana menteri dihapuskan dan dirangkap oleh ketua mahkamah agung",
+        "E": "Para menteri bertanggung jawab secara mandiri kepada asosiasi pengusaha daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dalam UUDS 1950, Presiden berkedudukan sebagai kepala negara konstitusional, sedangkan **kekuasaan pemerintah di tangan kabinet yang dipimpin oleh Perdana Menteri**.",
+        "alasan_kunci": "Opsi B tepat karena sistem parlementer memisahkan fungsi kepala negara (Presiden) dari fungsi kepala pemerintahan (Perdana Menteri). Kabinet dipimpin Perdana Menteri yang memegang mandat operasional pemerintahan sehari-hari.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Presiden dalam UUDS 1950 tidak memegang kekuasaan pemerintahan eksekutif langsung.",
+          "C": "Kurang tepat karena dewan militer tidak memegang wewenang persetujuan regulasi kabinet sipil.",
+          "D": "Kurang tepat karena jabatan perdana menteri eksis dan terpisah dari cabang kekuasaan kehakiman.",
+          "E": "Kurang tepat karena menteri bertanggung jawab kepada parlemen (DPR), bukan asosiasi pengusaha."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "DPR/ Parlemen."
+      ],
+      "topik_materi": "Akuntabilitas Kabinet Kepada Parlemen UUDS 1950",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pertanggungjawaban politik eksekutif dalam sistem ketatanegaraan UUDS 1950 diatur dengan ketentuan bahwa...",
+      "pilihan": {
+        "A": "Kabinet bertanggung jawab penuh kepada pimpinan majelis permusyawaratan adat",
+        "B": "Pemerintah menyampaikan pertanggungjawaban tahunan kepada lembaga kejaksaan",
+        "C": "Para menteri yang dipimpin oleh Perdana Menteri bertanggung jawab kepada DPR/ Parlemen",
+        "D": "Perdana menteri memegang hak mutlak membekukan keanggotaan komisi peradilan",
+        "E": "Menteri keuangan memegang hak veto terhadap setiap keputusan ketua parlemen"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sesuai karakteristik sistem parlementer pada UUDS 1950: **Para menteri yang dipimpin oleh Perdana Menteri bertanggung jawab kepada DPR/ Parlemen**.",
+        "alasan_kunci": "Opsi C tepat karena parlemen memegang supremasi politik. Jika parlemen menjatuhkan mosi tidak percaya (*vote of no confidence*), Perdana Menteri beserta kabinetnya wajib mengembalikan mandat kepada Presiden.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena majelis adat bukan lembaga perwakilan politik tingkat nasional.",
+          "B": "Kurang tepat karena kejaksaan menjalankan fungsi penuntutan hukum, bukan pengawasan politik kabinet.",
+          "D": "Kurang tepat karena perdana menteri tidak berwenang membekukan komisi peradilan.",
+          "E": "Kurang tepat karena menteri keuangan tidak memiliki hak veto terhadap parlemen."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "UUDS menganut Demokrasi Liberal yang mengutamakan kebebasan individu"
+      ],
+      "topik_materi": "Ideologi Demokrasi Liberal Pada Era UUDS 1950",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Orientasi nilai politik dan sistem demokrasi yang diterapkan pada era berlakunya UUDS 1950 adalah...",
+      "pilihan": {
+        "A": "Demokrasi sentralistik yang melarang pendirian organisasi kemasyarakatan",
+        "B": "Paham totaliter yang membatasi hak pilih warga negara berdasarkan golongan kelas",
+        "C": "Sistem feodalistik yang menempatkan aristokrasi sebagai pemegang mandat kekuasaan",
+        "D": "UUDS menganut Demokrasi Liberal yang mengutamakan kebebasan individu",
+        "E": "Demokrasi komunal yang menentang sistem perwakilan parlemen secara menyeluruh"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**UUDS menganut Demokrasi Liberal yang mengutamakan kebebasan individu**, yang melahirkan kebebasan berpendapat dan sistem multipartai yang sangat cair.",
+        "alasan_kunci": "Opsi D tepat karena konstitusi UUDS 1950 sangat dipengaruhi oleh piagam HAM internasional (UDHR) yang menjunjung tinggi hak-hak sipil-politik dan kebebasan perorangan dalam berpolitik.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena era 1950-an justru ditandai menjamurnya berbagai partai politik dan ormas bebas.",
+          "B": "Kurang tepat karena pemilu 1955 diselenggarakan secara demokratis tanpa pembatasan kasta golongan.",
+          "C": "Kurang tepat karena sistem feodal bertentangan dengan prinsip kesetaraan warga dalam demokrasi liberal.",
+          "E": "Kurang tepat karena sistem perwakilan parlemen justru menjadi pusat aktivitas kenegaraan saat itu."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "terjadi pergantian kabinet sebanyak 7 (tujuh) kali karena dijatuhkan DPR"
+      ],
+      "topik_materi": "Instabilitas Politik Kabinet Parlementer 1950-1959",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bukti empiris bahwa sistem kabinet parlementer era UUDS 1950 tidak menjamin stabilitas pemerintahan adalah fakta bahwa...",
+      "pilihan": {
+        "A": "Presiden membekukan seluruh partai politik oposisi di dewan perwakilan",
+        "B": "Menteri keuangan memotong anggaran daerah secara serentak tanpa koordinasi",
+        "C": "Pemilihan umum legislatif gagal diselenggarakan di seluruh wilayah kepulauan",
+        "D": "Mahkamah agung menunda melantik pejabat tinggi eselon kementerian negara",
+        "E": "Telah terjadi pergantian kabinet sebanyak 7 (tujuh) kali karena dijatuhkan DPR"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dalam kurun waktu 17 Agustus 1950 hingga 5 Juli 1959, **telah terjadi pergantian kabinet sebanyak 7 (tujuh) kali karena dijatuhkan DPR**, yang menunjukkan sistem parlementer tidak menjamin kestabilan pemerintah.",
+        "alasan_kunci": "Opsi E tepat karena rata-rata usia kabinet rata-rata bertahan sekitar satu tahun (seperti Kabinet Natsir, Sukiman, Wilopo, Ali I, Burhanuddin Harahap, Ali II, dan Djuanda). Dinamika jatuh-bangun kabinet ini mengganggu kelangsungan program pembangunan nasional.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pembubaran parpol baru terjadi pada masa Demokrasi Terpimpin pasca-1959.",
+          "B": "Kurang tepat karena problem utama adalah pertarungan politik fraksi-fraksi di parlemen dewan.",
+          "C": "Kurang tepat karena Pemilu 1955 terselenggara dengan sangat sukses, demokratis, dan aman.",
+          "D": "Kurang tepat karena peradilan tidak mencampuri urusan suksesi birokrasi kabinet politik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "tanggal 5 Juli 1959, saat Dekrit Presiden dikeluarkan. UUDS menganut sistem Kabinet"
+      ],
+      "topik_materi": "Dekrit Presiden 5 Juli 1959 Kurun Waktu Kedua",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemberlakuan kembali UUD 1945 sebagai hukum dasar negara Republik Indonesia pada kurun waktu kedua bertumpu pada dasar hukum...",
+      "pilihan": {
+        "A": "Dasar hukum berlakunya UUD 1945 dalam kurun waktu kedua adalah Dekrit Presiden tanggal 5 Juli 1959",
+        "B": "Resolusi majelis umum dewan keamanan perserikatan bangsa-bangsa di new york",
+        "C": "Ketetapan pleno istimewa komite nasional indonesia pusat di yogyakarta",
+        "D": "Surat keputusan kementerian kehakiman mengenai ratifikasi piagam perjanjian",
+        "E": "Hasil kesepakatan mufakat tertutup pimpinan partai pemenang pemilihan umum"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Dasar hukum berlakunya UUD 1945 dalam kurun waktu kedua adalah Dekrit Presiden tanggal 5 Juli 1959 yang memberlakukan kembali UUD 1945** sebagai konstitusi negara Republik Indonesia.",
+        "alasan_kunci": "Opsi A tepat karena Dekrit 5 Juli 1959 yang dikeluarkan Presiden Soekarno membubarkan Konstituante, menetapkan berlakunya kembali UUD 1945 dan tidak berlakunya lagi UUDS 1950, serta pembentukan MPRS dan DPAS.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena penetapan konstitusi nasional merupakan tindakan kedaulatan internal bangsa Indonesia.",
+          "C": "Kurang tepat karena KNIP sudah tidak ada setelah pembentukan DPR hasil Pemilu 1955.",
+          "D": "Kurang tepat karena kembalinya konstitusi ditetapkan melalui Dekrit Presiden, bukan SK menteri.",
+          "E": "Kurang tepat karena kegagalan fraksi-fraksi di Konstituante yang memicu lahirnya Dekrit Presiden."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "Bersihkan Kabinet dari unsur-unsur G-30-S/PKI; dan"
+      ],
+      "topik_materi": "Tiga Tuntutan Rakyat (TRITURA)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tuntutan bersejarah yang disampaikan oleh rakyat dipelopori pemuda dan mahasiswa pada awal tahun 1966 yang dikenal sebagai TRITURA memuat isi...",
+      "pilihan": {
+        "A": "Pemberian amnesti narapidana, pembentukan federasi, dan kenaikan tarif cukai",
+        "B": "Bubarkan PKI, bersihkan kabinet dari unsur G-30-S/PKI, dan turunkan harga/perbaikan ekonomi",
+        "C": "Nasionalisasi perbankan, unifikasi kepolisian militer, dan penutupan jalur laut",
+        "D": "Pemilihan presiden secara langsung, penghapusan DPD, dan revisi undang-undang agraria",
+        "E": "Pembekuan dewan perwakilan daerah, privatisasi BUMN, dan pinjaman perbankan asing"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tri Tuntutan Rakyat (TRITURA) yang dipelopori pemuda/mahasiswa berisi tiga tuntutan pokok: **(1) Bubarkan PKI, (2) Bersihkan Kabinet dari unsur-unsur G-30-S/PKI, dan (3) Turunkan harga-harga/perbaikan ekonomi**.",
+        "alasan_kunci": "Opsi B tepat karena TRITURA lahir dari keprihatinan mendalam atas kekacauan politik dan krisis inflasi ekonomi parah pasca-pemberontakan G-30-S/PKI tahun 1965, menuntut penuntasan hukum terhadap dalang makar serta perbaikan taraf hidup rakyat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena TRITURA menuntut pembubaran partai makar dan penurunan harga, bukan amnesti.",
+          "C": "Kurang tepat karena penutupan jalur laut dan unifikasi bukan substansi tuntutan mahasiswa 1966.",
+          "D": "Kurang tepat karena isu pilpres langsung dan DPD merupakan agenda gerakan reformasi 1998.",
+          "E": "Kurang tepat karena privatisasi BUMN bukan merupakan bagian dari tuntutan TRITURA."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "Terjadi pemberontakan G-30-S/PKI"
+      ],
+      "topik_materi": "Peristiwa G-30-S/PKI Tahun 1965",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Peristiwa tragis yang mengguncang stabilitas politik dan kedaulatan negara pada kurun waktu pertama pasca-Dekrit 1959 adalah...",
+      "pilihan": {
+        "A": "Pemberontakan perhimpunan serikat buruh pelabuhan di tanjung perak",
+        "B": "Serangan agresi militer armada perang kerajaan belanda di ibu kota",
+        "C": "Terjadi pemberontakan G-30-S/PKI yang mengancam keutuhan ideologi negara",
+        "D": "Pertikaian bersenjata perbatasan teritorial kepulauan dengan negara tetangga",
+        "E": "Krisis likuiditas moneter perbankan swasta berskala multinasional"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pada periode 5 Juli 1959 hingga sebelum 11 Maret 1966: **Terjadi pemberontakan G-30-S/PKI**. Sewaktu terjadi pemberontakan kondisi negara memprihatinkan khususnya di bidang ekonomi, politik, dan hukum, namun pemberontakan berhasil digagalkan.",
+        "alasan_kunci": "Opsi C tepat karena pemberontakan G-30-S/PKI tahun 1965 berusaha merongrong dasar negara Pancasila melalui penculikan dan pembunuhan para perwira tinggi militer AD, yang kemudian berhasil ditumpas oleh kekuatan patriotik bangsa.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pemogokan buruh bukan ancaman ideologis utama pada kurun tersebut.",
+          "B": "Kurang tepat karena agresi militer Belanda terjadi pada masa 1945–1949, bukan tahun 1965.",
+          "D": "Kurang tepat karena konfrontasi perbatasan bukan peristiwa pemberontakan internal di ibu kota.",
+          "E": "Kurang tepat karena krisis ekonomi era tersebut berupa hiperinflasi domestik, bukan kebangkrutan bank asing."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "Pada tanggal 11 Maret 1966 Presiden mengeluarkan Supersemar kepada"
+      ],
+      "topik_materi": "Penerbitan Surat Perintah Sebelas Maret (Supersemar)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Langkah strategis yang diambil Presiden Soekarno guna memulihkan keamanan dan stabilitas nasional pada 11 Maret 1966 adalah...",
+      "pilihan": {
+        "A": "Menyerahkan mandat kedaulatan kepada majelis permusyawaratan darurat",
+        "B": "Menginstruksikan pembentukan persemakmuran pertahanan bersama negara sahabat",
+        "C": "Membubarkan seluruh kesatuan korps kepolisian dan kejaksaan agung",
+        "D": "Presiden mengeluarkan Supersemar kepada Letjen Soeharto untuk mengambil tindakan pengamanan",
+        "E": "Mengumumkan pengunduran diri secara mendadak di hadapan pimpinan dewan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pada tanggal 11 Maret 1966 **Presiden mengeluarkan Supersemar kepada Letjen Soeharto untuk mengambil langkah-langkah dan tindakan untuk mengamankan negara**.",
+        "alasan_kunci": "Opsi D tepat karena Surat Perintah Sebelas Maret memberi wewenang penuh kepada Menteri/Panglima Angkatan Darat Letjen Soeharto untuk memulihkan ketertiban, ketenangan, serta menjamin keselamatan pribadi dan kewibawaan Presiden.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena kedaulatan tetap dipegang oleh Presiden Soekarno pada saat penerbitan Supersemar.",
+          "B": "Kurang tepat karena Supersemar adalah instrumen pengamanan komando domestik internal.",
+          "C": "Kurang tepat karena kepolisian dan kejaksaan tetap beroperasi mengawal hukum dan keamanan.",
+          "E": "Kurang tepat karena Presiden Soekarno tidak mengundurkan diri pada 11 Maret 1966."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "mengamankan negara. Lahirnya Supersemar dianggap sebagai lahirnya Orde"
+      ],
+      "topik_materi": "Supersemar Sebagai Tonggak Lahirnya Orde Baru",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam periodisasi sejarah politik ketatanegaraan Indonesia, penerbitan Supersemar memiliki makna simbolis penting yaitu...",
+      "pilihan": {
+        "A": "Menandai berakhirnya bentuk negara kesatuan republik indonesia",
+        "B": "Menandai berhentinya operasional seluruh badan usaha milik negara",
+        "C": "Menjadi titik awal berlakunya sistem peradilan militer darurat tertutup",
+        "D": "Mengawali pembentukan kabinet parlementer liberal di lingkungan dewan",
+        "E": "Lahirnya Supersemar dianggap sebagai lahirnya Orde Baru di Indonesia"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Lahirnya Supersemar dianggap sebagai lahirnya Orde Baru**, yang menandai babak transisi kepemimpinan nasional dari masa Orde Lama menuju tatanan pemerintahan Orde Baru.",
+        "alasan_kunci": "Opsi E tepat karena Supersemar menjadi dasar tindakan pembubaran PKI dan pembersihan aparatur negara, yang menjadi fondasi berdirinya rezim Orde Baru yang berkomitmen melaksanakan Pancasila dan UUD 1945 secara murni dan konsekuen.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena bentuk NKRI tetap berdiri kokoh dan senantiasa berlanjut.",
+          "B": "Kurang tepat karena BUMN tetap menjalankan fungsi produksi dan penyediaan kebutuhan masyarakat.",
+          "C": "Kurang tepat karena Supersemar ditujukan untuk pemulihan ketertiban umum dan keamanan nasional.",
+          "D": "Kurang tepat karena sistem parlementer telah diakhiri sejak Dekrit 1959 dan tidak dipulihkan kembali."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 57,
+      "kata_kunci_modul": [
+        "Juli 1959 hingga sekarang dapat dibagi dalam empat periode, yaitu:"
+      ],
+      "topik_materi": "Periodisasi Kurun Waktu Kedua UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan lintasan sejarah konstitusi, kurun waktu kedua berlakunya UUD 1945 secara garis besar diklasifikasikan ke dalam...",
+      "pilihan": {
+        "A": "Kurun waktu kedua berlakunya UUD 1945 dapat dibagi dalam empat periode ketatanegaraan",
+        "B": "Dua tahapan transisi darurat militer dan persemakmuran bersama sekutu",
+        "C": "Tiga dasawarsa berlakunya sistem monarki perwakilan daerah otonom",
+        "D": "Lima fase pembagian kedaulatan wilayah ke negara-negara serikat",
+        "E": "Enam kurun perombakan total naskah pembukaan undang-undang dasar"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Kurun waktu kedua berlakunya UUD 1945 dari tanggal 5 Juli 1959 hingga sekarang dapat dibagi dalam empat periode**, yaitu Orde Lama (1959–1966), Orde Baru (1966–1998), Reformasi (1998–1999), dan Pasca-Amandemen (1999–sekarang).",
+        "alasan_kunci": "Opsi A tepat karena pembagian empat periode ini mencerminkan dinamika penerapan UUD 1945 dari masa Demokrasi Terpimpin, masa Orde Baru, masa awal Reformasi, hingga modernisasi konstitusi lewat empat tahap amandemen.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena Indonesia bukan merupakan negara persemakmuran sekutu.",
+          "C": "Kurang tepat karena Indonesia adalah negara kesatuan berbentuk republik, bukan monarki.",
+          "D": "Kurang tepat karena bentuk federal berlaku pada era RIS 1949–1950, bukan kurun kedua.",
+          "E": "Kurang tepat karena naskah Pembukaan UUD 1945 senantiasa dijaga keasliannya dan bersifat permanen."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "mandat MPRS dari Presiden pada saat itu yaitu Ir. Soekarno, selanjutnya"
+      ],
+      "topik_materi": "Sidang Istimewa MPRS Tahun 1967",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketetapan penting yang dihasilkan dalam Sidang Istimewa MPRS tahun 1967 melalui TAP MPRS No. XXXIII/MPRS/1967 adalah...",
+      "pilihan": {
+        "A": "Mengesahkan pembentukan kabinet koalisi bersama pimpinan partai politik",
+        "B": "Membatalkan pertanggungjawaban panitia perancang undang-undang darurat pemilu",
+        "C": "Menarik kembali mandat MPRS dari Presiden Ir. Soekarno dan mengangkat pejabat Presiden",
+        "D": "Membubarkan secara permanen seluruh jajaran kepolisian dan kejaksaan agung",
+        "E": "Menetapkan pemilihan umum demokratis pertama dalam kurun waktu sepuluh hari"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pada tahun 1967 diadakan Sidang Istimewa MPRS yang **menarik kembali mandat MPRS dari Presiden pada saat itu yaitu Ir. Soekarno, selanjutnya mengangkat Jenderal Soeharto sebagai pejabat Presiden (TAP MPRS No. XXXIII/MPRS/1967)**.",
+        "alasan_kunci": "Opsi C tepat karena penolakan terhadap pidato Nawaksara dan pelengkap Nawaksara mendorong MPRS mencabut kekuasaan eksekutif dari Presiden Soekarno dan menyerahkan mandat pejabat presiden kepada Jenderal Soeharto.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Sidang Istimewa 1967 berfokus pada suksesi kepemimpinan kepala negara, bukan kabinet partai.",
+          "B": "Kurang tepat karena MPRS mengadili pertanggungjawaban presiden, bukan panitia pemilu.",
+          "D": "Kurang tepat karena MPRS tidak membubarkan aparat penegak hukum.",
+          "E": "Kurang tepat karena pemilu baru diselenggarakan kemudian pada tahun 1971."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Soeharto sebagai Presiden tetap sampai terpilihnya Presiden hasil pemilu"
+      ],
+      "topik_materi": "Sidang Umum MPRS Tahun 1968",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perubahan status kepemimpinan nasional pada Sidang Umum MPRS tahun 1968 ditetapkan melalui keputusan untuk...",
+      "pilihan": {
+        "A": "Menetapkan masa jabatan kepala negara berlaku seumur hidup tanpa evaluasi",
+        "B": "Mendelegasikan fungsi anggaran belanja negara kepada pimpinan perbankan asing",
+        "C": "Membubarkan lembaga perwakilan rakyat dan membentuk dewan pertahanan darurat",
+        "D": "Mengangkat Jenderal Soeharto sebagai Presiden tetap sampai terpilihnya Presiden hasil pemilu",
+        "E": "Menyerahkan mandat peradilan perdata kepada komite arbitrase internasional"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pada tahun 1968 diadakan Sidang Umum MPRS yang **mengangkat Jenderal Soeharto sebagai Presiden tetap sampai terpilihnya Presiden hasil pemilu (TAP MPRS No. XLIV/MPRS/1968)**.",
+        "alasan_kunci": "Opsi D tepat karena TAP MPRS No. XLIV/MPRS/1968 mengukuhkan status Jenderal Soeharto dari pejabat presiden menjadi Presiden Republik Indonesia definitif hingga pemilu umum berikutnya terlaksana.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pengangkatan presiden seumur hidup adalah produk MPRS 1963 era Orde Lama yang dicabut.",
+          "B": "Kurang tepat karena penetapan APBN tetap berada di bawah wewenang pemerintah dan DPR-GR.",
+          "C": "Kurang tepat karena MPRS tidak membubarkan DPR melainkan mengukuhkan kelembagaan negara.",
+          "E": "Kurang tepat karena kedaulatan peradilan tetap berada pada badan peradilan nasional Mahkamah Agung."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Pemilu pertama dalam masa Orde Baru diadakan pada tahun 1971"
+      ],
+      "topik_materi": "Pemilihan Umum Pertama Era Orde Baru",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan pesta demokrasi pemilihan umum legislatif pertama pada masa pemerintahan Orde Baru diselenggarakan pada...",
+      "pilihan": {
+        "A": "Tahun 1966 bersamaan dengan terbitnya surat perintah sebelas maret",
+        "B": "Tahun 1955 pada masa transisi berlakunya undang-undang dasar sementara",
+        "C": "Tahun 1973 bertepatan dengan penetapan garis-garis besar haluan negara",
+        "D": "Tahun 1968 menjelang sidang umum majelis permusyawaratan darurat",
+        "E": "Pemilu pertama dalam masa Orde Baru diadakan pada tahun 1971"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Pemilu pertama dalam masa Orde Baru diadakan pada tahun 1971**, selanjutnya pada tahun 1973 diadakan sidang umum MPR yang menetapkan GBHN dan memilih Presiden dan Wakil Presiden.",
+        "alasan_kunci": "Opsi E tepat karena setelah Pemilu 1955, Indonesia baru menyelenggarakan pemilihan umum kembali pada tanggal 5 Juli 1971 yang diikuti oleh 10 kontestan (9 parpol dan Sekber Golkar).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena tahun 1966 adalah momentum transisi politik terbitnya Supersemar.",
+          "B": "Kurang tepat karena Pemilu 1955 adalah pemilu pertama Indonesia pada masa Demokrasi Liberal.",
+          "C": "Kurang tepat karena tahun 1973 adalah Sidang Umum MPR hasil Pemilu 1971.",
+          "D": "Kurang tepat karena tahun 1968 adalah Sidang Umum MPRS pengangkatan presiden definitif."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Hak Budget DPR tidak berjalan, dan pada tahun 1960 Presiden"
+      ],
+      "topik_materi": "Pembubaran DPR Hasil Pemilu Oleh Presiden Tahun 1960",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu penyimpangan ketatanegaraan terhadap UUD 1945 yang terjadi pada masa Orde Lama tahun 1960 adalah...",
+      "pilihan": {
+        "A": "Hak Budget DPR tidak berjalan, dan pada tahun 1960 Presiden membubarkan DPR",
+        "B": "DPR membekukan operasional kementerian keuangan karena defisit anggaran belanja",
+        "C": "Mahkamah agung membatalkan naskah undang-undang dasar melalui putusan peradilan",
+        "D": "Pemerintah daerah membentuk badan arbitrase perbatasan teritorial kepulauan",
+        "E": "Menteri penerangan memecat pimpinan fraksi partai peserta pemilihan umum"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Penyimpangan kurun waktu 1945–1966 antara lain: **Hak Budget DPR tidak berjalan, dan pada tahun 1960 Presiden membubarkan DPR, karena DPR tidak menyetujui RAPBN yang diajukan pemerintah**.",
+        "alasan_kunci": "Opsi A tepat karena Presiden Soekarno mengeluarkan Penetapan Presiden No. 3 Tahun 1960 yang membubarkan DPR hasil Pemilu 1955 dan menggantikannya dengan DPR-Gotong Royong (DPR-GR), yang bertentangan dengan prinsip UUD 1945.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena DPR tidak berwenang membekukan kementerian eksekutif.",
+          "C": "Kurang tepat karena MA tidak berwenang membatalkan teks UUD 1945.",
+          "D": "Kurang tepat karena pemda tidak memiliki wewenang urusan perbatasan internasional.",
+          "E": "Kurang tepat karena menteri tidak berwenang memecat pimpinan fraksi parlemen."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "MPRS mengangkat Presiden seumur hidup"
+      ],
+      "topik_materi": "Pengangkatan Presiden Seumur Hidup",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyimpangan terhadap ketentuan Pasal 7 UUD 1945 naskah asli pada masa Demokrasi Terpimpin ditandai oleh tindakan MPRS yang...",
+      "pilihan": {
+        "A": "Menetapkan masa jabatan kepala negara terbatas pada rentang waktu tiga tahun",
+        "B": "MPRS mengangkat Presiden seumur hidup melalui produk ketetapan majelis",
+        "C": "Mewajibkan presiden mengundurkan diri setiap kali rancangan regulasi tertunda",
+        "D": "Menghapuskan fungsi kepresidenan dan menggantikannya dengan dewan presidium",
+        "E": "Mendelegasikan pengangkatan kepala eksekutif kepada komite perwakilan daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pada masa Orde Lama terjadi penyimpangan ketatanegaraan di mana **MPRS mengangkat Presiden seumur hidup** melalui Ketetapan MPRS No. III/MPRS/1963.",
+        "alasan_kunci": "Opsi B tepat karena Pasal 7 UUD 1945 secara tegas mengatur masa jabatan presiden adalah lima tahun dan sesudahnya dapat dipilih kembali. Pengangkatan seumur hidup mencederai prinsip republik dan demokrasi berkala.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena masa jabatan yang ditetapkan MPRS 1963 adalah seumur hidup, bukan tiga tahun.",
+          "C": "Kurang tepat karena pengangkatan seumur hidup justru menghapuskan mekanisme pergantian berkala.",
+          "D": "Kurang tepat karena jabatan presiden tetap dipertahankan bahkan diperluas kewenangannya.",
+          "E": "Kurang tepat karena pengangkatan dilakukan langsung oleh MPRS bentukan Dekrit."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Ketua lembaga-lembaga tinggi negara dijadikan menteri-menteri negara"
+      ],
+      "topik_materi": "Subordinasi Pimpinan Lembaga Tinggi Menjadi Menteri",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Praktik pelemahan prinsip pemisahan kekuasaan (*trias politica*) pada masa Demokrasi Terpimpin terlihat dari kebijakan bahwa...",
+      "pilihan": {
+        "A": "Ketua dewan perwakilan rakyat memegang komando seluruh angkatan bersenjata",
+        "B": "Pimpinan badan pemeriksa keuangan berhak memveto seluruh regulasi presiden",
+        "C": "Ketua lembaga-lembaga tinggi negara dijadikan menteri-menteri negara pembantu Presiden",
+        "D": "Hakim agung memimpin rapat koordinasi operasional kementerian perekonomian",
+        "E": "Para menteri kabinet diwajibkan merangkap jabatan sebagai kepala daerah otonom"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Penyimpangan kurun waktu Orde Lama nomor 4 adalah **Ketua lembaga-lembaga tinggi negara dijadikan menteri-menteri negara**, yang menempatkan pimpinan MPRS, DPR-GR, dan MA berstatus menteri pembantu presiden.",
+        "alasan_kunci": "Opsi C tepat karena kedudukan ketua lembaga legislatif dan yudikatif yang dijadikan menteri bawahan presiden merusak independensi cabang kekuasaan lain dan menciptakan pemusatan kekuasaan mutlak di tangan Presiden.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena komando tertinggi angkatan perang dipegang oleh Presiden, bukan ketua DPR.",
+          "B": "Kurang tepat karena BPK saat itu justru mengalami pelemahan fungsi pengawasan.",
+          "D": "Kurang tepat karena ketua MA dijadikan menteri yang tunduk pada presiden, bukan memimpin kementerian ekonomi.",
+          "E": "Kurang tepat karena menteri tidak merangkap sebagai kepala daerah tingkat provinsi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "kekuasaan lembaga tinggi presiden sangat berperan"
+      ],
+      "topik_materi": "Sentralisasi Kekuasaan Eksekutif Orde Baru",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karakteristik penyelenggaraan ketatanegaraan pada masa Orde Baru (1966–1998) ditandai oleh fenomena hubungan kelembagaan di mana...",
+      "pilihan": {
+        "A": "Parlemen memegang dominasi penuh dalam menentukan arah seluruh kebijakan publik",
+        "B": "Pemerintah daerah memegang kedaulatan mutlak pengelolaan sumber keuangan negara",
+        "C": "Badan peradilan memiliki wewenang membatalkan ketetapan majelis permusyawaratan",
+        "D": "Kekuasaan lembaga tinggi presiden sangat berperan dominan dibanding lembaga lainnya",
+        "E": "Dewan pertimbangan agung menjalankan fungsi penuntutan perkara kejahatan ekonomi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dalam pelaksanaan UUD 1945 kurun waktu 1966–1998: Di satu pihak, **kekuasaan lembaga tinggi presiden sangat berperan**, di lain pihak lembaga-lembaga negara lainnya belum berfungsi secara optimal (*executive heavy*).",
+        "alasan_kunci": "Opsi D tepat karena meskipun lembaga negara telah dibentuk lengkap, kekuasaan eksekutif presiden sangat dominan mengendalikan proses politik dan hukum, sementara DPR dan lembaga pengawas cenderung bersikap menyetujui (*rubber stamp*).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPR pada era Orde Baru berada di bawah pengaruh kuat dominasi eksekutif presiden.",
+          "B": "Kurang tepat karena tata kelola keuangan negara era Orde Baru bersifat sangat sentralistik.",
+          "C": "Kurang tepat karena MA saat itu belum memiliki wewenang menguji undang-undang atau TAP MPR.",
+          "E": "Kurang tepat karena DPA berstatus dewan penasihat dan tidak menjalankan fungsi penuntutan hukum."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Lembaga-lembaga negara belum dibentuk berdasarkan Undang-undang"
+      ],
+      "topik_materi": "Kendala Kelembagaan Pasca-Dekrit 1959",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada masa awal kurun waktu kedua (1959–1966), pembentukan alat kelengkapan negara menghadapi kendala konstitusional berupa fakta bahwa...",
+      "pilihan": {
+        "A": "Seluruh anggota parlemen absen menghadiri persidangan di ibu kota negara",
+        "B": "Presiden dilarang mengangkat menteri sebelum persetujuan dari dewan adat",
+        "C": "Pemerintah menyerahkan pembentukan lembaga kepada perwakilan monarki asing",
+        "D": "Kementerian kehakiman membekukan operasional hierarki peradilan tata usaha",
+        "E": "Lembaga-lembaga negara belum dibentuk berdasarkan Undang-undang formal"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Penyimpangan kurun waktu 1945 sampai sebelum 11 Maret 1966 nomor 1 adalah **Lembaga-lembaga negara belum dibentuk berdasarkan Undang-undang, sebagaimana tercantum dalam UUD 1945**, melainkan dibentuk lewat Penetapan Presiden.",
+        "alasan_kunci": "Opsi E tepat karena MPRS, DPR-GR, dan DPA dibentuk melalui Penetapan Presiden (Penpres) tersendiri tanpa persetujuan parlemen, bukan melalui undang-undang organik yang disetujui bersama oleh dewan perwakilan rakyat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena anggota parlemen DPR-GR ditunjuk langsung oleh Presiden dan tetap bersidang.",
+          "B": "Kurang tepat karena menteri diangkat langsung oleh Presiden sebagai hak prerogatif eksekutif.",
+          "C": "Kurang tepat karena pembentukan kelembagaan dilakukan oleh otoritas internal Presiden Soekarno.",
+          "D": "Kurang tepat karena peradilan tata usaha negara baru dibentuk pada era akhir Orde Baru (UU 5/1986)."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "Kurun waktu 11 Maret 1966 hingga 21 Mei 1998 yang dikenal dengan masa Orde"
+      ],
+      "topik_materi": "Rentang Waktu Masa Pemerintahan Orde Baru",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rentang waktu berlangsungnya era kepemimpinan nasional yang dikenal dengan masa Orde Baru berjalan pada kurun...",
+      "pilihan": {
+        "A": "Kurun waktu 11 Maret 1966 hingga 21 Mei 1998 yang dikenal dengan masa Orde Baru",
+        "B": "Terhitung sejak 17 Agustus 1950 hingga dekrit presiden 5 Juli 1959",
+        "C": "Mulai sidang umum majelis tahun 1971 hingga pemilihan umum pertama reformasi",
+        "D": "Sejak pengesahan konstitusi ris hingga tercapainya piagam persetujuan unifikasi",
+        "E": "Terhitung sejak 21 Mei 1998 hingga rangkaian amandemen undang-undang dasar"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Kurun waktu 11 Maret 1966 hingga 21 Mei 1998 yang dikenal dengan masa Orde Baru** berlangsung selama kurang lebih 32 tahun di bawah kepemimpinan Presiden Soeharto.",
+        "alasan_kunci": "Opsi A tepat karena masa Orde Baru dimulai sejak terbitnya Supersemar pada 11 Maret 1966 dan berakhir secara resmi saat Presiden Soeharto mengundurkan diri pada 21 Mei 1998 di hadapan Ketua Mahkamah Agung.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena rentang 1950–1959 adalah era berlakunya UUDS 1950 (Demokrasi Parlementer).",
+          "C": "Kurang tepat karena Orde Baru telah dimulai sejak 1966 sebelum Pemilu 1971.",
+          "D": "Kurang tepat karena era RIS berlangsung pada 1949–1950.",
+          "E": "Kurang tepat karena periode pasca-21 Mei 1998 merupakan era Pasca-Orde Baru / Reformasi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 58,
+      "kata_kunci_modul": [
+        "menetapkan GBHN dan memilih Presiden dan Wakil Presiden"
+      ],
+      "topik_materi": "Peran MPR Memilih Presiden Pada Masa Orde Baru",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Mekanisme suksesi kepemimpinan eksekutif nasional yang berlaku pada era Orde Baru berdasarkan UUD 1945 sebelum amandemen adalah...",
+      "pilihan": {
+        "A": "Pasangan calon presiden dipilih langsung oleh seluruh rakyat melalui pemilu serentak",
+        "B": "MPR bersidang untuk menetapkan GBHN dan memilih Presiden dan Wakil Presiden",
+        "C": "Presiden ditunjuk secara bergiliran oleh para pimpinan dewan perwakilan rakyat daerah",
+        "D": "Kepala pemerintahan diangkat oleh mahkamah agung berdasarkan hasil uji kompetensi",
+        "E": "Suksesi kepemimpinan diserahkan kepada kesepakatan tertutup dewan perbankan nasional"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pada tahun 1973 dan sidang umum lima tahunan berikutnya diadakan sidang umum MPR yang bertugas **menetapkan GBHN dan memilih Presiden dan Wakil Presiden**.",
+        "alasan_kunci": "Opsi B tepat karena sebelum amandemen UUD 1945, MPR berkedudukan sebagai lembaga tertinggi negara pemegang kedaulatan rakyat yang memilih dan mengangkat Presiden sebagai mandataris MPR.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pemilihan presiden langsung oleh rakyat baru dimulai pada Pemilu 2004 pasca-amandemen.",
+          "C": "Kurang tepat karena DPRD tidak memilih presiden melainkan anggota MPR di tingkat pusat.",
+          "D": "Kurang tepat karena Mahkamah Agung memegang cabang kekuasaan kehakiman dan tidak memilih presiden.",
+          "E": "Kurang tepat karena suksesi kepresidenan merupakan mekanisme ketatanegaraan konstitusi formal."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Dikeluarkannya TAP MPR No.I/MPR/1983, dalam pasal 104 dinyatakan"
+      ],
+      "topik_materi": "Ketetapan Sakralisasi UUD 1945 Era Orde Baru",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sikap politik pemerintahan Orde Baru yang berupaya mensakralkan konstitusi dan menutup pintu perubahan dituangkan dalam...",
+      "pilihan": {
+        "A": "Ketetapan MPRS mengenai penunjukan presiden seumur hidup tanpa pergantian",
+        "B": "Maklumat kementerian kehakiman mengenai pembekuan fungsi amandemen dewan",
+        "C": "Undang-undang darurat penertiban organisasi partai politik tingkat nasional",
+        "D": "Pasal 104 TAP MPR No. I/MPR/1983 yang berketetapan mempertahankan dan tidak mengubah UUD 1945",
+        "E": "Keputusan presiden tentang pelarangan diskusi akademis di lingkungan kampus"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Dikeluarkannya TAP MPR No. I/MPR/1983, dalam pasal 104 dinyatakan bahwa MPR berketetapan untuk mempertahankan dan tidak akan melakukan perubahan terhadap UUD 1945**.",
+        "alasan_kunci": "Opsi D tepat karena pasal 104 TAP MPR No. I/MPR/1983 mencerminkan kebijakan 'sakralisasi' konstitusi di era Orde Baru yang berusaha mengunci UUD 1945 dari upaya penyempurnaan atau perubahan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penetapan presiden seumur hidup adalah produk MPRS 1963 pada era Orde Lama.",
+          "B": "Kurang tepat karena kementerian kehakiman tidak berwenang menerbitkan maklumat pembekuan konstitusi.",
+          "C": "Kurang tepat karena sakralisasi konstitusi dituangkan dalam produk hukum Ketetapan MPR formal.",
+          "E": "Kurang tepat karena sakralisasi UUD tertuang dalam aturan yuridis TAP MPR, bukan Keppres pelarangan diskusi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "No. VII/MPR/I998 tanggal 13 Nopember 1998 karena tidak sejalan dengan"
+      ],
+      "topik_materi": "Pencabutan Ketetapan Larangan Perubahan UUD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Alasan konstitusional dicabutnya Pasal 104 TAP MPR No. I/MPR/1983 oleh TAP MPR No. VII/MPR/1998 pada era reformasi adalah...",
+      "pilihan": {
+        "A": "Ketiadaan anggaran kas negara untuk menyelenggarakan sidang tahunan majelis",
+        "B": "Ketidaksepakatan pimpinan kementerian terhadap besaran tarif pajak nasional",
+        "C": "Instruksi dari dewan moneter internasional yang mewajibkan amandemen aturan",
+        "D": "Adanya permohonan tertulis dari majelis perwakilan kerajaan negara tetangga",
+        "E": "Ketentuan tersebut dicabut karena tidak sejalan dengan Pasal 37 UUD 1945"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Ketentuan pasal 104 TAP MPR No. I/MPR/1983 **telah dicabut dengan TAP MPR No. VII/MPR/1998 tanggal 13 Nopember 1998 karena tidak sejalan dengan pasal 37 UUD 1945** yang mengatur tata cara perubahan UUD.",
+        "alasan_kunci": "Opsi E tepat karena Pasal 37 UUD 1945 justru memberikan hak dan mengatur prosedur formal bagi MPR untuk mengubah undang-undang dasar. Menutup pintu perubahan secara mutlak bertentangan dengan desain asli UUD 1945.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pencabutan didasarkan pada pertimbangan hukum konstitusional, bukan keterbatasan anggaran.",
+          "B": "Kurang tepat karena regulasi perpajakan tidak berkaitan dengan pasal perubahan konstitusi.",
+          "C": "Kurang tepat karena pencabutan TAP MPR merupakan agenda kedaulatan internal gerakan reformasi.",
+          "D": "Kurang tepat karena urusan konstitusi merupakan kedaulatan mutlak Republik Indonesia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "TAP MPR No. IV/MPR/1983 tentang referendum"
+      ],
+      "topik_materi": "Ketetapan MPR Tentang Referendum",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Instrumen hukum Orde Baru yang mewajibkan persetujuan rakyat terlebih dahulu sebelum MPR dapat mengubah pasal UUD 1945 adalah...",
+      "pilihan": {
+        "A": "TAP MPR No. IV/MPR/1983 tentang referendum yang mempersyaratkan jajak pendapat",
+        "B": "Undang-undang pembatasan partai politik dan penyederhanaan organisasi",
+        "C": "Surat keputusan kementerian penerangan mengenai sensor materi publikasi",
+        "D": "Piagam kesepakatan dewan pertahanan wilayah mengenai status bahaya darurat",
+        "E": "Ketetapan majelis permusyawaratan darurat tentang susunan perwakilan adat"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Dikeluarkannya TAP MPR No. IV/MPR/1983 tentang referendum**, di mana dinyatakan bahwa MPR berkehendak mempertahankan UUD 1945, dan apabila MPR hendak mengubah UUD 1945 harus melalui referendum.",
+        "alasan_kunci": "Opsi A tepat karena Ketetapan Referendum (yang dijabarkan dalam UU No. 5/1985) menetapkan syarat kuorum yang hampir mustahil dicapai (90% pemilih terdaftar harus hadir dan 90% harus setuju), sehingga secara efektif membekukan amandemen konstitusi.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena UU penyederhanaan partai mengatur fusi parpol (PPP, PDI, Golkar), bukan referendum.",
+          "C": "Kurang tepat karena SK menteri penerangan mengurusi SIUPP pers, bukan aturan referendum UUD.",
+          "D": "Kurang tepat karena kesepakatan dewan pertahanan bukan instrumen konstitusional perubahan pasal.",
+          "E": "Kurang tepat karena aturan referendum ditetapkan oleh MPR resmi melalui TAP MPR No. IV/1983."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "MPR No. IV/MPR/1983 telah dicabut dengan TAP MPR No. VIII/MPR/1998"
+      ],
+      "topik_materi": "Pencabutan Ketetapan Referendum Era Reformasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam Sidang Istimewa MPR tahun 1998, ketentuan mengenai referendum untuk perubahan UUD 1945 secara resmi diakhiri melalui...",
+      "pilihan": {
+        "A": "Penerbitan dekrit darurat pembubaran dewan perwakilan rakyat tingkat pusat",
+        "B": "Pencabutan dengan TAP MPR No. VIII/MPR/1998 karena tidak sejalan dengan Pasal 37 UUD",
+        "C": "Surat edaran mahkamah agung mengenai penangguhan sengketa pemilihan umum",
+        "D": "Perjanjian persekutuan dagang bilateral kawasan bersama negara sahabat",
+        "E": "Keputusan menteri dalam negeri mengenai tata cara pemungutan suara daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "TAP MPR No. IV/MPR/1983 tentang referendum **telah dicabut dengan TAP MPR No. VIII/MPR/1998 tanggal 13 Nopember 1998 karena tidak sejalan dengan pasal 37 UUD 1945** yang mengatur tentang perubahan UUD 1945.",
+        "alasan_kunci": "Opsi B tepat karena pencabutan TAP Referendum membuka jalan lebar bagi terselenggaranya rangkaian Amandemen UUD 1945 (1999–2002) sesuai mekanisme konstitusional murni yang digariskan Pasal 37 UUD 1945.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Sidang Istimewa 1998 tidak membubarkan DPR melainkan menetapkan TAP reformasi.",
+          "C": "Kurang tepat karena MA tidak berwenang mencabut produk hukum Ketetapan MPR.",
+          "D": "Kurang tepat karena perjanjian dagang kawasan tidak berkaitan dengan hukum tata negara referendum.",
+          "E": "Kurang tepat karena pencabutan dilakukan oleh forum tertinggi MPR, bukan keputusan menteri."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Pemerintahan Orde Baru berakhir."
+      ],
+      "topik_materi": "Berakhirnya Masa Pemerintahan Orde Baru",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Momentum bersejarah yang menandai berakhirnya masa pemerintahan Orde Baru di Indonesia terjadi pada...",
+      "pilihan": {
+        "A": "Tanggal 11 Maret 1966 saat surat perintah pengamanan negara diterbitkan",
+        "B": "Tanggal 19 Oktober 1999 saat pengesahan naskah amandemen pertama konstitusi",
+        "C": "Pada tanggal 21 Mei 1998 saat kepemimpinan Orde Baru resmi berakhir",
+        "D": "Tanggal 17 Agustus 1950 saat pembubaran negara serikat hasil konferensi",
+        "E": "Tanggal 5 Juli 1959 saat pembacaan dekrit pemberlakuan kembali konstitusi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Pada tanggal 21 Mei 1998, Pemerintahan Orde Baru berakhir** dengan pengunduran diri Presiden Soeharto setelah gelombang demonstrasi mahasiswa dan krisis moneter.",
+        "alasan_kunci": "Opsi C tepat karena pada 21 Mei 1998 Presiden Soeharto menyatakan berhenti dari jabatannya di Istana Merdeka dan Wakil Presiden B.J. Habibie disumpah menjadi Presiden ketiga Republik Indonesia, mengawali era Reformasi.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena 11 Maret 1966 adalah awal lahirnya era Orde Baru.",
+          "B": "Kurang tepat karena 19 Oktober 1999 adalah tanggal penetapan Amandemen Pertama UUD 1945.",
+          "D": "Kurang tepat karena 17 Agustus 1950 adalah tanggal berdirinya kembali NKRI pasca-RIS.",
+          "E": "Kurang tepat karena 5 Juli 1959 adalah tanggal Dekrit Presiden kembali ke UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Pasca Orde Baru;"
+      ],
+      "topik_materi": "Masa Pasca-Orde Baru (Transisi Reformasi)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rentang kurun waktu antara 21 Mei 1998 hingga 22 Oktober 1999 dalam lintasan ketatanegaraan Indonesia diklasifikasikan sebagai...",
+      "pilihan": {
+        "A": "Periode berlakunya undang-undang dasar sementara republik indonesia serikat",
+        "B": "Masa persemakmuran bersama perwakilan komisi perdamaian internasional",
+        "C": "Kurun waktu berlakunya sistem demokrasi terpimpin di bawah kendali presiden",
+        "D": "Masa Pasca Orde Baru yang menjadi jembatan awal era reformasi konstitusi",
+        "E": "Fase unifikasi pembentukan karesidenan wilayah kepulauan secara serentak"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Kurun waktu 21 Mei 1998 hingga 22 Oktober 1999 yang dikenal dengan masa Pasca Orde Baru** merupakan periode transisi pemerintahan Presiden B.J. Habibie yang meletakkan fondasi kebebasan pers, UU Politik baru, dan pelaksanaan Pemilu demokratis 1999.",
+        "alasan_kunci": "Opsi D tepat karena dalam kurun waktu 17 bulan ini terjadi transformasi hukum fundamental, pembebasan tahanan politik, pencabutan restriksi Orde Baru, serta penyelenggaraan Pemilu demokratis 7 Juni 1999.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Konstitusi RIS berlaku pada tahun 1949–1950, bukan 1998–1999.",
+          "B": "Kurang tepat karena Indonesia berdaulat penuh dan bukan negara persemakmuran.",
+          "C": "Kurang tepat karena Demokrasi Terpimpin berlangsung pada kurun 1959–1966.",
+          "E": "Kurang tepat karena sistem karesidenan tidak diberlakukan pada era pasca-Orde Baru."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "Mengadakan perubahan pertama UUD 1945 yang ditetapkan tanggal 19"
+      ],
+      "topik_materi": "Penetapan Perubahan Pertama UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Peristiwa bersejarah dimulainya amandemen konstitusi pasca-reformasi ditandai dengan...",
+      "pilihan": {
+        "A": "Penetapan piagam persetujuan pembubaran negara serikat pada sidang paripurna",
+        "B": "Pembentukan dewan perancang konstitusi darurat tingkat keresidenan wilayah",
+        "C": "Penerbitan dekrit pembatalan seluruh produk perundang-undangan era kemerdekaan",
+        "D": "Pengesahan traktat bilateral batas wilayah perairan dengan komisi sekutu",
+        "E": "Perubahan pertama UUD 1945 yang ditetapkan tanggal 19 Oktober 1999 oleh MPR"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Sidang Umum MPR hasil pemilu 1999 **mengadakan perubahan pertama UUD 1945 yang ditetapkan tanggal 19 Oktober 1999**, yang menjadi titik tolak reformasi konstitusi nasional.",
+        "alasan_kunci": "Opsi E tepat karena Perubahan Pertama UUD 1945 disahkan pada Sidang Umum MPR 1999 (meliputi 9 pasal: Pasal 5, 7, 9, 13, 14, 15, 17, 20, dan 21) yang berfokus membatasi kekuasaan eksekutif dan mengembalikan fungsi legislasi ke parlemen.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pembubaran negara serikat terjadi pada Agustus 1950.",
+          "B": "Kurang tepat karena amandemen dilakukan oleh MPR hasil Pemilu 1999, bukan dewan karesidenan.",
+          "C": "Kurang tepat karena reformasi tidak membatalkan seluruh UU melainkan mengamandemen pasal konstitusi.",
+          "D": "Kurang tepat karena traktat perairan bukan agenda sidang amandemen UUD MPR 1999."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "dibatasinya masa jabatan Presiden paling banyak 2 masa jabatan"
+      ],
+      "topik_materi": "Pembatasan Masa Jabatan Eksekutif Amandemen Pertama",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu substansi mendasar dalam Perubahan Pertama UUD 1945 terhadap Pasal 7 adalah aturan bahwa...",
+      "pilihan": {
+        "A": "Masa jabatan Presiden dibatasi secara tegas paling banyak dua masa jabatan",
+        "B": "Presiden dapat memegang kekuasaan seumur hidup asalkan didukung mayoritas fraksi",
+        "C": "Masa bakti eksekutif dapat diperpanjang tanpa batas saat terjadi gejolak sosial",
+        "D": "Presiden wajib meletakkan jabatan setiap tiga tahun guna pemilihan kabinet",
+        "E": "Pemilihan presiden ditiadakan dan diganti sistem kepemimpinan presidium bergilir"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dalam amandemen pertama, perubahan yang sangat penting adalah **dibatasinya masa jabatan Presiden paling banyak 2 masa jabatan** (maksimal 10 tahun).",
+        "alasan_kunci": "Opsi A tepat karena sebelum amandemen Pasal 7 menimbulkan multitafsir ('dapat dipilih kembali' tanpa batas). Amandemen Pertama menambahkan frasa 'selama satu kali masa jabatan berikutnya', sehingga mencegah langgengnya kekuasaan otoriter berkepanjangan.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena masa jabatan seumur hidup telah dilarang mutlak oleh konstitusi.",
+          "C": "Kurang tepat karena perpanjangan tanpa batas bertentangan dengan prinsip kepastian konstitusional Pasal 7.",
+          "D": "Kurang tepat karena masa jabatan reguler adalah 5 tahun per periode, bukan 3 tahun.",
+          "E": "Kurang tepat karena sistem presidensial tunggal tetap dipertahankan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "dinyatakan bahwa pemegang kekuasaan pembentuk UU adalah DPR,"
+      ],
+      "topik_materi": "Pergeseran Kekuasaan Legislasi ke DPR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pergeseran kekuasaan membentuk undang-undang dalam Perubahan Pertama UUD 1945 pada Pasal 20 ayat (1) menegaskan bahwa...",
+      "pilihan": {
+        "A": "Kekuasaan legislasi sepenuhnya diserahkan kepada dewan pertimbangan kepresidenan",
+        "B": "Pemegang kekuasaan pembentuk UU adalah DPR, bukan lagi Presiden",
+        "C": "Mahkamah agung memegang hak monopoli menyusun naskah rancangan peraturan",
+        "D": "Pemerintah daerah berhak mengesahkan undang-undang nasional secara mandiri",
+        "E": "Kementerian koordinator memiliki hak veto membatalkan persetujuan dewan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dalam amandemen pertama dinyatakan bahwa **pemegang kekuasaan pembentuk UU adalah DPR, bukan lagi Presiden**, memulihkan hakikat parlemen sebagai cabang legislatif.",
+        "alasan_kunci": "Opsi B tepat karena naskah asli Pasal 5 ayat (1) menempatkan Presiden sebagai pemegang kekuasaan membentuk UU dengan persetujuan DPR (*executive heavy*). Amandemen Pertama memindahkannya ke Pasal 20 ayat (1) sehingga DPR menjadi pemegang kekuasaan legislasi utama.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena dewan pertimbangan berkedudukan memberi pertimbangan, bukan membentuk UU.",
+          "C": "Kurang tepat karena Mahkamah Agung mengadili perkara peradilan, bukan membentuk undang-undang.",
+          "D": "Kurang tepat karena pembentukan undang-undang merupakan ranah DPR dan Presiden di tingkat pusat.",
+          "E": "Kurang tepat karena menteri tidak memiliki hak veto terhadap undang-undang."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 59,
+      "kata_kunci_modul": [
+        "yang ditetapkan pada tanggal 18 Agustus 2000, dan dalam amandemen ini"
+      ],
+      "topik_materi": "Penetapan Perubahan Kedua UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penegasan mengenai tiga fungsi pokok DPR (legislasi, anggaran, dan pengawasan) serta hak-hak dewan dirumuskan dalam...",
+      "pilihan": {
+        "A": "Ketetapan majelis permusyawaratan darurat tentang susunan kabinet transisi",
+        "B": "Maklumat bersama menteri koordinator mengenai penataan birokrasi daerah",
+        "C": "Perubahan kedua UUD 1945 yang ditetapkan pada tanggal 18 Agustus 2000",
+        "D": "Piagam kesepakatan dewan pertahanan nasional tentang keadaan bahaya perang",
+        "E": "Surat edaran mahkamah konstitusi mengenai tata cara penyelesaian sengketa"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dalam Sidang Tahunan tahun 2000 diadakan **perubahan kedua UUD 1945 yang ditetapkan pada tanggal 18 Agustus 2000**, yang menegaskan fungsi DPR (legislasi, anggaran, pengawasan) dan hak dewan (interpelasi, angket, menyatakan pendapat).",
+        "alasan_kunci": "Opsi C tepat karena Perubahan Kedua UUD 1945 menyempurnakan kelembagaan DPR (Pasal 20A), Pemerintah Daerah (Pasal 18, 18A, 18B), Wilayah Negara (Pasal 25A), Warga Negara (Pasal 26–27), Hak Asasi Manusia (Pasal 28A–28J), serta Pertahanan Keamanan (Pasal 30).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penegasan fungsi DPR tertuang dalam naskah amandemen UUD, bukan ketetapan darurat.",
+          "B": "Kurang tepat karena maklumat menteri tidak berkedudukan sebagai hukum dasar konstitusi.",
+          "D": "Kurang tepat karena piagam dewan pertahanan bukan instrumen perubahan undang-undang dasar.",
+          "E": "Kurang tepat karena Mahkamah Konstitusi belum terbentuk pada tahun 2000 (baru dibentuk tahun 2003)."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "MPR tidak lagi memegang dan melaksanakan kedaulatan rakyat"
+      ],
+      "topik_materi": "Pergeseran Kedudukan MPR Pasca-Perubahan Ketiga",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perubahan mendasar terkait doktrin kedaulatan rakyat dalam Perubahan Ketiga UUD 1945 tahun 2001 adalah...",
+      "pilihan": {
+        "A": "MPR diposisikan sebagai pemegang monopoli kekuasaan eksekutif dan peradilan",
+        "B": "Kekuasaan tertinggi negara dialihkan kepada pimpinan angkatan bersenjata",
+        "C": "Kedaulatan negara diserahkan kepada dewan pimpinan partai politik mayoritas",
+        "D": "Lembaga kepresidenan dibubarkan dan digantikan oleh kabinet presidium",
+        "E": "MPR tidak lagi memegang dan melaksanakan kedaulatan rakyat secara penuh"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dalam amandemen ketiga UUD 1945 ditegaskan bahwa **MPR tidak lagi memegang dan melaksanakan kedaulatan rakyat. Dengan demikian MPR bukan lagi sebagai lembaga tertinggi negara**, melainkan lembaga negara yang sejajar dengan lembaga negara lainnya.",
+        "alasan_kunci": "Opsi E tepat karena kedaulatan rakyat pasca-amandemen Pasal 1 ayat (2) berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar, memutus konsep 'supremasi MPR' menjadi 'supremasi konstitusi'.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena MPR tidak memonopoli kekuasaan eksekutif atau yudikatif.",
+          "B": "Kurang tepat karena kekuasaan negara dipegang oleh lembaga sipil konstitusional.",
+          "C": "Kurang tepat karena kedaulatan berada di tangan rakyat, bukan di tangan partai politik.",
+          "D": "Kurang tepat karena lembaga kepresidenan tetap kokoh sebagai pemegang kekuasaan pemerintahan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "MPR tidak lagi menetapkan GBHN"
+      ],
+      "topik_materi": "Penghapusan Kewenangan Menetapkan GBHN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu implikasi yuridis dari berakhirnya status MPR sebagai lembaga tertinggi negara dalam Perubahan Ketiga adalah...",
+      "pilihan": {
+        "A": "MPR tidak lagi menetapkan GBHN sebagai pedoman mandataris kepala negara",
+        "B": "Presiden wajib meminta izin kepada dewan perwakilan sebelum merombak kabinet",
+        "C": "Anggaran belanja kementerian ditetapkan secara mandiri oleh dewan moneter",
+        "D": "Pemerintah daerah berhak menyusun garis haluan pembangunan luar negeri",
+        "E": "Penyelenggaraan pemilihan umum diserahkan kepada panitia ad-hoc daerah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Perubahan mendasar dalam Perubahan Ketiga tahun 2001 antara lain menetapkan bahwa **MPR tidak lagi menetapkan GBHN** karena Presiden dipilih langsung oleh rakyat dan mempertanggungjawabkan visi misinya kepada rakyat.",
+        "alasan_kunci": "Opsi A tepat karena arah pembangunan nasional kini dituangkan melalui undang-undang sistem perencanaan pembangunan nasional (SPPN/RPJPN) yang disusun bersama antara Presiden dan DPR, bukan lagi berupa GBHN produk MPR.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena perombakan kabinet merupakan hak prerogatif presiden.",
+          "C": "Kurang tepat karena anggaran belanja ditetapkan dalam APBN oleh DPR bersama Presiden.",
+          "D": "Kurang tepat karena urusan luar negeri merupakan urusan absolut pemerintah pusat.",
+          "E": "Kurang tepat karena pemilu diselenggarakan oleh KPU yang bersifat nasional dan mandiri."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "melantik Presiden dan Wakil Presiden hasil pemilihan umum secara"
+      ],
+      "topik_materi": "Fungsi MPR Melantik Presiden Terpilih",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Peran konstitusional MPR terkait pasangan kepala eksekutif hasil pemilu langsung menurut Perubahan Ketiga UUD 1945 adalah...",
+      "pilihan": {
+        "A": "Menentukan pasangan calon pemenang melalui pemungutan suara berjenjang dewan",
+        "B": "Bertugas melantik Presiden dan Wakil Presiden hasil pemilihan umum secara langsung oleh rakyat",
+        "C": "Menguji kelayakan berkas administratif pencalonan di tingkat mahkamah peradilan",
+        "D": "Menetapkan susunan menteri koordinator pembantu pasangan terpilih secara mandiri",
+        "E": "Membatalkan mandat pasangan terpilih apabila tidak disetujui pimpinan fraksi"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dalam amandemen ketiga ditetapkan bahwa MPR tidak lagi memilih Presiden dan Wapres, tetapi bertugas **melantik Presiden dan Wakil Presiden hasil pemilihan umum secara langsung oleh rakyat**.",
+        "alasan_kunci": "Opsi B tepat karena mandat keterpilihan pasangan Presiden/Wapres bersumber langsung dari kedaulatan rakyat lewat bilik suara, sedangkan MPR menjalankan fungsi konstitusional pengesahan formal pelantikan dan pengambilan sumpah jabatan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena MPR tidak lagi menentukan pemenang pilpres lewat pemungutan suara tertutup dewan.",
+          "C": "Kurang tepat karena pengujian berkas syarat pasangan calon merupakan wewenang KPU.",
+          "D": "Kurang tepat karena susunan menteri merupakan hak prerogatif presiden terpilih.",
+          "E": "Kurang tepat karena MPR tidak berwenang membatalkan mandat pemilu secara sewenang-wenang."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Presiden dan Wakil Presiden dipilih langsung oleh rakyat"
+      ],
+      "topik_materi": "Asas Pemilihan Presiden Langsung Pasal 6A",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perubahan mendasar pada Pasal 6A ayat (1) UUD 1945 yang disahkan dalam Perubahan Ketiga mengatur prinsip bahwa...",
+      "pilihan": {
+        "A": "Kepala negara diangkat oleh dewan pertimbangan agung berdasarkan musyawarah",
+        "B": "Perdana menteri memegang mandat tertinggi eksekutif atas persetujuan senat",
+        "C": "Presiden dan Wakil Presiden dipilih langsung oleh rakyat dalam satu pasangan",
+        "D": "Pasangan pimpinan nasional dipilih bergantian oleh gabungan fraksi partai",
+        "E": "Kepala pemerintahan ditetapkan oleh komisi pemilihan umum secara mandiri"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Poin perubahan mendasar nomor 4 dalam Perubahan Ketiga tahun 2001 adalah bahwa **Presiden dan Wakil Presiden dipilih langsung oleh rakyat** dalam satu pasangan melalui pemilihan umum.",
+        "alasan_kunci": "Opsi C tepat karena pemilihan presiden secara langsung memperkuat legitimasi mandat kepemimpinan nasional dan memperkokoh stabilitas sistem presidensial dari ancaman manuver politik parlemen.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPA telah dihapuskan dan presiden dipilih oleh rakyat.",
+          "B": "Kurang tepat karena Indonesia tidak mengenal jabatan perdana menteri.",
+          "D": "Kurang tepat karena pasangan calon diusung oleh partai namun dipilih langsung oleh rakyat.",
+          "E": "Kurang tepat karena KPU adalah penyelenggara pemilu, bukan pemilih yang menetapkan pemenang."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "atas usul DPR berdasarkan keputusan Mahkamah Konstitusi;"
+      ],
+      "topik_materi": "Prosedur Ketat Pemakzulan Pasca-Amandemen Ketiga",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Dalam hal terjadi usul pemberhentian Presiden dalam masa jabatannya, batasan konstitusional bagi kewenangan MPR adalah...",
+      "pilihan": {
+        "A": "MPR berwenang memberhentikan Presiden secara langsung atas kehendak pimpinan komisi",
+        "B": "MPR wajib membubarkan kabinet kementerian terlebih dahulu sebelum sidang",
+        "C": "MPR dapat mengeksekusi pemakzulan tanpa memerlukan pemeriksaan peradilan",
+        "D": "MPR memberhentikan Presiden atas usul DPR berdasarkan keputusan Mahkamah Konstitusi",
+        "E": "MPR menyerahkan putusan akhir pemakzulan kepada dewan pertimbangan daerah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dalam amandemen ketiga diatur bahwa **MPR berwenang memberhentikan Presiden dan atau Wakil Presiden atas usul DPR berdasarkan keputusan Mahkamah Konstitusi**.",
+        "alasan_kunci": "Opsi D tepat karena konstitusi memadukan jalur *impeachment* hukum dan politik. Tuduhan pelanggaran hukum berat wajib dibuktikan dan diputus oleh Mahkamah Konstitusi terlebih dahulu sebelum MPR dapat memproses pemberhentian.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena MPR tidak dapat memberhentikan presiden secara sewenang-wenang tanpa putusan MK.",
+          "B": "Kurang tepat karena MPR tidak berwenang membubarkan kabinet kementerian.",
+          "C": "Kurang tepat karena pemeriksaan peradilan di MK merupakan syarat konstitusional mutlak.",
+          "E": "Kurang tepat karena putusan akhir pemakzulan diambil di forum Sidang Paripurna MPR."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Dengan tegas dinyatakan bahwa Presiden tidak dapat membekukan"
+      ],
+      "topik_materi": "Larangan Pembubaran DPR Pasal 7C",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perubahan Ketiga UUD 1945 memasukkan ketentuan Pasal 7C yang menjamin independensi cabang legislatif, yaitu...",
+      "pilihan": {
+        "A": "DPR berwenang membekukan operasional seluruh kantor kementerian eksekutif",
+        "B": "Presiden dapat membubarkan DPR apabila rancangan anggaran ditolak dua kali",
+        "C": "Ketua DPR memegang hak prerogatif pembentukan angkatan perang pertahanan",
+        "D": "Anggota dewan dibebaskan dari kewajiban mematuhi putusan peradilan umum",
+        "E": "Dengan tegas dinyatakan bahwa Presiden tidak dapat membekukan dan membubarkan DPR"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Poin penting amandemen ketiga nomor 7 menyatakan: **Dengan tegas dinyatakan bahwa Presiden tidak dapat membekukan dan membubarkan DPR**.",
+        "alasan_kunci": "Opsi E tepat karena pencantuman Pasal 7C memberikan kepastian hukum bahwa Presiden dilarang mengulangi peristiwa sejarah kelam tahun 1960 di mana Presiden membubarkan DPR hasil pemilu.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPR tidak berwenang membekukan kementerian eksekutif.",
+          "B": "Kurang tepat karena jika RAPBN ditolak, pemerintah menjalankan APBN tahun lalu, bukan membubarkan DPR.",
+          "C": "Kurang tepat karena komando tertinggi pertahanan berada di tangan Presiden (Pasal 10).",
+          "D": "Kurang tepat karena anggota dewan tetap wajib tunduk pada hukum pidana yang berlaku."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Adanya lembaga baru yaitu: DPD, Mahkamah Konstitusi, Komisi"
+      ],
+      "topik_materi": "Kelahiran Lembaga Baru Dalam Amandemen Ketiga",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Lembaga-lembaga negara baru yang resmi dilahirkan melalui naskah Perubahan Ketiga UUD 1945 tahun 2001 adalah...",
+      "pilihan": {
+        "A": "Dewan Perwakilan Daerah, Mahkamah Konstitusi, dan Komisi Yudisial",
+        "B": "Komisi Yudisial, Dewan Perwakilan Daerah, dan Badan Pemeriksa Keuangan",
+        "C": "Dewan Pertimbangan Agung, Lembaga Ketahanan Nasional, dan Badan Sensor Film",
+        "D": "Otoritas Jasa Keuangan, Lembaga Penjamin Simpanan, dan Komisi Kejaksaan",
+        "E": "Badan Meteorologi Klimatologi, Ombudsman Republik Indonesia, dan KASN"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Salah satu pembaruan struktur ketatanegaraan pada Perubahan Ketiga adalah **adanya lembaga baru yaitu: DPD, Mahkamah Konstitusi, Komisi Yudisial**.",
+        "alasan_kunci": "Opsi A tepat karena ketiga lembaga ini dibentuk untuk menyempurnakan demokrasi: DPD mewakili aspirasi teritorial daerah, MK mengawal kemurnian konstitusi, dan KY menegakkan integritas etika hakim kehakiman.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena BIN, KPK, dan BPS dibentuk melalui instrumen undang-undang, bukan tercantum dalam UUD.",
+          "C": "Kurang tepat karena DPA merupakan lembaga lama yang justru dihapuskan pasca-reformasi.",
+          "D": "Kurang tepat karena OJK dan LPS merupakan otoritas keuangan yang dibentuk berdasarkan undang-undang.",
+          "E": "Kurang tepat karena Ombudsman dan instansi pendukung lainnya bukan organ konstitusi UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Adanya Bab baru tentang Pemilu; dan"
+      ],
+      "topik_materi": "Penyempurnaan Bab Pemilu dan Keuangan Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembaruan materi muatan konstitusi yang diperkenalkan dalam Perubahan Ketiga UUD 1945 mencakup...",
+      "pilihan": {
+        "A": "Pemberian hak veto eksekutif dan pembentukan komando militer wilayah",
+        "B": "Adanya Bab baru tentang Pemilu serta penyempurnaan pengaturan Pasal 23",
+        "C": "Penghapusan otonomi daerah dan penyeragaman status desa seluruh nusantara",
+        "D": "Pemisahan kas daerah dari neraca pertanggungjawaban perbendaharaan negara",
+        "E": "Penetapan sistem mata uang ganda untuk perdagangan ekspor kepulauan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dalam amandemen ketiga ditambahkan **Bab baru tentang Pemilu (Bab VIIB Pasal 22E) dan penyempurnaan pasal 23** tentang keuangan negara, BPK, dan perpajakan.",
+        "alasan_kunci": "Opsi B tepat karena Bab VIIB meletakkan asas pemilu (luber jurdil), peserta pemilu, dan penyelenggara KPU, sementara penyempurnaan Pasal 23 mengatur asas keterbukaan dan akuntabilitas pengelolaan anggaran negara.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena konstitusi tidak memberikan hak veto kepada presiden.",
+          "C": "Kurang tepat karena otonomi daerah justru diperkuat dalam Pasal 18 UUD 1945.",
+          "D": "Kurang tepat karena kas daerah tetap terikat dalam kerangka kesatuan keuangan negara.",
+          "E": "Kurang tepat karena mata uang Indonesia bersifat tunggal yaitu Rupiah (Pasal 23B)."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Susunan MPR tardiri dari anggota DPR dan DPD"
+      ],
+      "topik_materi": "Susunan Bikameral MPR Pasca-Perubahan Keempat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perubahan mendasar dalam Perubahan Keempat UUD 1945 tahun 2002 terhadap struktur keanggotaan MPR adalah...",
+      "pilihan": {
+        "A": "Keanggotaan majelis terdiri atas delegasi utusan golongan dan ormas buruh",
+        "B": "Seluruh perwira tinggi militer aktif otomatis menduduki kursi perwakilan",
+        "C": "Susunan MPR terdiri dari anggota DPR dan anggota DPD hasil pemilihan umum",
+        "D": "Para rektor perguruan tinggi negeri ditunjuk menjadi anggota kehormatan",
+        "E": "Anggota majelis ditetapkan secara proporsional oleh pimpinan kementerian"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dalam Perubahan Keempat tahun 2002 ditetapkan bahwa **Susunan MPR terdiri dari anggota DPR dan DPD** yang kesemuanya dipilih melalui pemilihan umum.",
+        "alasan_kunci": "Opsi C tepat karena perubahan ini menghapuskan unsur Utusan Golongan dan Utusan Daerah yang sebelumnya diangkat secara politis, sehingga seluruh anggota MPR 100% memperoleh mandat demokrasi dari rakyat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena utusan golongan tanpa pemilu telah resmi ditiadakan dari MPR.",
+          "B": "Kurang tepat karena TNI bersikap netral dan tidak mendapatkan alokasi kursi otomatis di parlemen.",
+          "D": "Kurang tepat karena rektor universitas tidak memiliki kuota kursi formal di MPR.",
+          "E": "Kurang tepat karena anggota MPR dipilih melalui pemilu legislatif, bukan penunjukan kementerian."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 60,
+      "kata_kunci_modul": [
+        "Tidak ada lagi lembaga tinggi negara yang namanya DPA, tapi Presiden"
+      ],
+      "topik_materi": "Penghapusan DPA dan Pembentukan Dewan Pertimbangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penataan kelembagaan penasihat kepresidenan dalam Perubahan Keempat UUD 1945 diwujudkan melalui ketentuan bahwa...",
+      "pilihan": {
+        "A": "DPA diberikan wewenang yudisial membatalkan keputusan rapat kerja kabinet",
+        "B": "Presiden dilarang menerima saran dan pertimbangan dari pihak luar birokrasi",
+        "C": "Dewan penasihat kepresidenan dipimpin secara bergantian oleh ketua parlemen",
+        "D": "Tidak ada lagi lembaga DPA, tetapi Presiden berwenang membentuk Dewan Pertimbangan",
+        "E": "Lembaga penasihat negara dibubarkan permanen tanpa wadah pengganti apapun"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Materi Perubahan Keempat menetapkan: **Tidak ada lagi lembaga tinggi negara yang namanya DPA, tapi Presiden diberi wewenang untuk membentuk Dewan Pertimbangan yang memberi nasihat/pertimbangan kepada Presiden yang diatur dengan UU**.",
+        "alasan_kunci": "Opsi D tepat karena Pasal 16 UUD 1945 diamandemen untuk menghapus DPA yang dinilai tidak efisien, dan menggantikannya dengan dewan pertimbangan yang berkedudukan di bawah eksekutif Presiden (Wantimpres).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPA telah dihapus dari struktur kelembagaan negara.",
+          "B": "Kurang tepat karena Presiden justru diberi wewenang membentuk dewan pertimbangan.",
+          "C": "Kurang tepat karena Dewan Pertimbangan berkedudukan membantu presiden, bukan dipimpin ketua DPR.",
+          "E": "Kurang tepat karena wadah pertimbangan tetap ada di bawah presiden (diatur dengan UU)."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "sepakat untuk tidak mengubah Pembukaan UUD 1945"
+      ],
+      "topik_materi": "Kesepakatan Dasar Tidak Mengubah Pembukaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kesepakatan dasar pertama fraksi-fraksi di MPR pada Sidang Tahunan 1999 terkait arah amandemen adalah...",
+      "pilihan": {
+        "A": "Sepakat untuk tidak mengubah Pembukaan UUD 1945 dalam kondisi apa pun",
+        "B": "Sepakat untuk menyusun kembali naskah teks proklamasi kemerdekaan",
+        "C": "Sepakat untuk mengubah dasar falsafah pancasila menjadi ideologi federal",
+        "D": "Sepakat untuk menghapuskan cita-cita kemerdekaan pada alinea kedua",
+        "E": "Sepakat untuk merombak tujuan perlindungan bangsa pada alinea keempat"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kesepakatan dasar arah perubahan UUD 1945 nomor satu adalah **sepakat untuk tidak mengubah Pembukaan UUD 1945**.",
+        "alasan_kunci": "Opsi A tepat karena Pembukaan UUD 1945 memuat dasar filosofis berdirinya negara (*staatsfundamentalnorm*), Pancasila, dan tujuan nasional. Mengubah Pembukaan sama artinya dengan membubarkan negara proklamasi 17 Agustus 1945.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena teks proklamasi adalah dokumen historis abadi yang tidak diubah.",
+          "C": "Kurang tepat karena Pancasila sebagai dasar negara dijaga kemurniannya tanpa diubah.",
+          "D": "Kurang tepat karena seluruh alinea Pembukaan UUD 1945 disepakati untuk tidak disentuh.",
+          "E": "Kurang tepat karena tujuan nasional pada alinea keempat tetap menjadi panduan konstitusi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "sepakat untuk mempertahankan bentuk Negara Kesatuan Republik Indonesia"
+      ],
+      "topik_materi": "Kesepakatan Mempertahankan Bentuk NKRI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Komitmen kebangsaan seluruh fraksi MPR dalam proses amandemen UUD 1945 ditegaskan melalui konsensus untuk...",
+      "pilihan": {
+        "A": "Mengubah bentuk negara menjadi konfederasi serikat kepulauan otonom",
+        "B": "Sepakat untuk mempertahankan bentuk Negara Kesatuan Republik Indonesia",
+        "C": "Membagi kedaulatan nasional kepada persemakmuran negara-negara bagian",
+        "D": "Memberikan hak penentuan nasib sendiri kepada setiap keresidenan wilayah",
+        "E": "Menyerahkan pengelolaan wilayah terluar kepada komisi pengawasan asing"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kesepakatan dasar nomor dua menegaskan: **sepakat untuk mempertahankan bentuk Negara Kesatuan Republik Indonesia**.",
+        "alasan_kunci": "Opsi B tepat karena bentuk negara kesatuan merupakan kesepakatan final pendiri bangsa yang dinilai paling tepat untuk menjaga integrasi ribuan pulau dan kemajemukan suku bangsa Indonesia, yang kemudian dikunci dalam Pasal 37 ayat (5) UUD 1945.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena bentuk konfederasi atau federasi ditolak dalam kesepakatan dasar.",
+          "C": "Kurang tepat karena kedaulatan negara kesatuan bersifat tunggal dan bulat.",
+          "D": "Kurang tepat karena hak pemisahan diri bertentangan dengan keutuhan NKRI.",
+          "E": "Kurang tepat karena wilayah terluar dijaga kedaulatannya secara utuh oleh negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "sepakat untuk mempertahankan sistem presidensiil"
+      ],
+      "topik_materi": "Kesepakatan Mempertahankan Sistem Presidensial",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Terkait sistem pemerintahan negara, arah perubahan UUD 1945 yang disepakati oleh fraksi-fraksi di MPR adalah...",
+      "pilihan": {
+        "A": "Beralih menuju sistem kabinet parlementer yang dipimpin perdana menteri",
+        "B": "Menerapkan sistem monarki konstitusional dengan kepala negara turun-temurun",
+        "C": "Sepakat untuk mempertahankan sistem presidensiil dalam tata kelola pemerintahan",
+        "D": "Membentuk kabinet campuran yang bertanggung jawab bersama kepada komite adat",
+        "E": "Mewajibkan presiden membubarkan parlemen saat terjadi ketidaksepahaman"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kesepakatan dasar nomor tiga adalah **sepakat untuk mempertahankan sistem presidensiil** sekaligus memurnikan pelaksanaannya.",
+        "alasan_kunci": "Opsi C tepat karena sistem presidensial menjamin masa jabatan eksekutif yang pasti (*fixed term*) selama 5 tahun, mencegah instabilitas jatuh-bangun kabinet seperti pada era parlementer, serta memperjelas mekanisme saling mengawasi dan mengimbangi (*checks and balances*).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena sistem parlementer dihindari demi menjamin stabilitas pemerintahan.",
+          "B": "Kurang tepat karena Indonesia adalah republik demokratis, bukan monarki.",
+          "D": "Kurang tepat karena menteri adalah pembantu presiden yang bertanggung jawab kepada presiden.",
+          "E": "Kurang tepat karena presiden dilarang membubarkan parlemen dalam sistem presidensial UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "sepakat untuk memindahkan hal-hal normatif yang ada dalam Penjelasan UUD"
+      ],
+      "topik_materi": "Pemindahan Materi Normatif Penjelasan ke Batang Tubuh",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyempurnaan sistematika hukum dalam amandemen UUD 1945 diwujudkan melalui kesepakatan untuk...",
+      "pilihan": {
+        "A": "Menjadikan penjelasan umum sebagai dokumen hukum tertinggi di atas pasal",
+        "B": "Mengalihkan aturan hak asasi manusia ke dalam naskah penjelasan tambahan",
+        "C": "Menghapuskan seluruh asas negara hukum yang tercantum dalam teks konstitusi",
+        "D": "Sepakat untuk memindahkan hal-hal normatif dalam Penjelasan UUD ke dalam pasal-pasal",
+        "E": "Menyusun kitab hukum penjelasan tersendiri di luar naskah resmi undang-undang"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kesepakatan dasar nomor empat adalah **sepakat untuk memindahkan hal-hal normatif yang ada dalam Penjelasan UUD 1945 ke dalam pasal-pasal UUD 1945**.",
+        "alasan_kunci": "Opsi D tepat karena naskah asli Penjelasan UUD 1945 disusun oleh Prof. Soepomo tanpa pengesahan formal BPUPKI/PPKI. Dengan memindahkan norma penting (seperti prinsip negara hukum dan sistem konstitusional) ke batang tubuh pasal, kedudukan hukumnya menjadi berkekuatan mengikat penuh.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Penjelasan UUD 1945 justru dihapuskan dan materi normatifnya dimasukkan ke pasal.",
+          "B": "Kurang tepat karena aturan HAM dimasukkan ke batang tubuh Bab XA Pasal 28A–28J.",
+          "C": "Kurang tepat karena asas negara hukum justru dimasukkan ke Pasal 1 ayat (3) batang tubuh.",
+          "E": "Kurang tepat karena naskah resmi UUD 1945 pasca-amandemen resmi terdiri atas Pembukaan dan Pasal-pasal."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "sepakat untuk menempuh cara adendum dalam melakukan amandemen"
+      ],
+      "topik_materi": "Teknik Perubahan Konstitusi Melalui Cara Adendum",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Metode penyusunan naskah perubahan yang disepakati oleh fraksi-fraksi di MPR dalam amandemen UUD 1945 adalah...",
+      "pilihan": {
+        "A": "Mengganti total seluruh naskah konstitusi dan membuang naskah asli proklamasi",
+        "B": "Menyerahkan kodifikasi perubahan pasal kepada dewan perancang internasional",
+        "C": "Menyusun piagam konstitusi darurat tanpa melampirkan teks undang-undang dasar asli",
+        "D": "Menerbitkan lembaran hukum baru yang meniadakan kesinambungan historis bangsa",
+        "E": "Sepakat untuk menempuh cara adendum dalam melakukan amandemen terhadap UUD 1945"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kesepakatan dasar nomor lima menetapkan: **sepakat untuk menempuh cara adendum dalam melakukan amandemen terhadap UUD 1945**.",
+        "alasan_kunci": "Opsi E tepat karena cara adendum mempertahankan naskah asli UUD 1945 tetap utuh, dan naskah perubahan (Perubahan I, II, III, dan IV) dilekatkan sebagai lampiran penyempurnaan, sehingga jejak sejarah autentik naskah proklamasi 1945 tetap terpelihara.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena metode adendum tidak mengganti total melainkan menempelkan naskah perubahan.",
+          "B": "Kurang tepat karena amandemen dilakukan secara mandiri oleh MPR bangsa Indonesia.",
+          "C": "Kurang tepat karena naskah asli tetap dipertahankan dan disertakan berdampingan.",
+          "D": "Kurang tepat karena adendum justru menjamin kontinuitas kesinambungan historis konstitusi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "Lima kesepakatan tersebut dilampirkan dalam Ketetapan MPR No. IX/MPR/1999"
+      ],
+      "topik_materi": "Payung Hukum Lima Kesepakatan Dasar Amandemen",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Lima kesepakatan dasar arah perubahan UUD 1945 secara yuridis dituangkan dan dilampirkan dalam...",
+      "pilihan": {
+        "A": "Ketetapan MPR No. IX/MPR/1999 tentang Penugasan Badan Pekerja Majelis Permusyawaratan Rakyat",
+        "B": "Surat keputusan kementerian kehakiman mengenai pembentukan tim perumus undang-undang",
+        "C": "Instruksi presiden mengenai pengamanan aset perbendaharaan negara pasca-pemilu",
+        "D": "Nota kesepahaman antarfraksi partai politik pemilik kursi mayoritas di parlemen",
+        "E": "Ketetapan majelis darurat militer mengenai pemulihan ketertiban umum nasional"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Lima kesepakatan dasar tersebut secara resmi dilampirkan dalam **Ketetapan MPR No. IX/MPR/1999 tentang Penugasan Badan Pekerja Majelis Permusyawaratan Rakyat Republik Indonesia untuk Melanjutkan Perubahan UUD 1945**.",
+        "alasan_kunci": "Opsi A tepat karena TAP MPR No. IX/1999 menjadi mandat konstitusional dan pedoman kerja mengikat bagi Panitia Ad Hoc I Badan Pekerja MPR (PAH I BP MPR) dalam merumuskan pasal-pasal amandemen secara bertahap.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena amandemen konstitusi adalah wewenang MPR, bukan kementerian kehakiman.",
+          "C": "Kurang tepat karena kesepakatan dasar merupakan produk ketetapan legislatif majelis, bukan inpres.",
+          "D": "Kurang tepat karena kesepakatan telah disahkan menjadi produk hukum Ketetapan MPR formal.",
+          "E": "Kurang tepat karena amandemen berjalan dalam iklim demokrasi sipil reformasi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "perubahan UUD 1945 berdasarkan Ketetapan MPR No. I/MPR/2002 tentang"
+      ],
+      "topik_materi": "Pembentukan Komisi Konstitusi Tahun 2002",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Lembaga pengkaji independen yang dibentuk untuk melakukan pengkajian komprehensif terhadap perubahan UUD 1945 didasarkan pada...",
+      "pilihan": {
+        "A": "Surat edaran mahkamah agung mengenai peninjauan kembali perkara tata usaha",
+        "B": "Ketetapan MPR No. I/MPR/2002 tentang Pembentukan Komisi Konstitusi",
+        "C": "Keputusan dewan pertahanan nasional tentang kesiapsiagaan teritorial wilayah",
+        "D": "Undang-undang pembentukan lembaga peradilan perselisihan hasil pemilihan umum",
+        "E": "Peraturan pemerintah pengganti undang-undang tentang restrukturisasi birokrasi"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pada Sidang Tahunan 2002 disepakati pembentukan Komisi Konstitusi berdasarkan **Ketetapan MPR No. I/MPR/2002 tentang Pembentukan Komisi Konstitusi** yang bertugas melakukan pengkajian secara komprehensif tentang perubahan UUD 1945.",
+        "alasan_kunci": "Opsi B tepat karena Komisi Konstitusi (beranggotakan para pakar hukum, akademisi, dan tokoh masyarakat) dibentuk untuk menyelaraskan dan menguji secara ilmiah keseluruhan hasil amandemen UUD 1945 dari Perubahan I hingga Perubahan IV.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena MA tidak berwenang membentuk Komisi Konstitusi pengkaji UUD.",
+          "C": "Kurang tepat karena dewan pertahanan mengurusi pertahanan militer, bukan pengkajian konstitusi.",
+          "D": "Kurang tepat karena pembentukan peradilan sengketa pemilu adalah kompetensi Mahkamah Konstitusi.",
+          "E": "Kurang tepat karena Komisi Konstitusi dibentuk lewat TAP MPR, bukan lewat Perpu eksekutif."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "Tahunan MPR Tahun 1999 yang arahnya adalah membatasi kekuasaan Presiden dan"
+      ],
+      "topik_materi": "Fokus Substansi Perubahan Pertama UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan dan arah pokok Perubahan Pertama UUD 1945 yang disahkan pada tanggal 19 Oktober 1999 difokuskan untuk...",
+      "pilihan": {
+        "A": "Membubarkan susunan kementerian dan menggantikannya dengan dewan gubernur",
+        "B": "Menetapkan mata uang tunggal kawasan perdagangan bebas lintas benua",
+        "C": "Membatasi kekuasaan Presiden dan memperkuat kedudukan DPR sebagai lembaga legislatif",
+        "D": "Mendelegasikan fungsi pertahanan kepulauan kepada pimpinan kepolisian daerah",
+        "E": "Mewajibkan penyelenggaraan referendum sebelum penetapan anggaran belanja"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Perubahan Pertama UUD 1945 tahun 1999 yang **arahnya adalah membatasi kekuasaan Presiden dan memperkuat kedudukan Dewan Perwakilan Rakyat (DPR) sebagai lembaga legislatif**.",
+        "alasan_kunci": "Opsi C tepat karena pengalaman otoritarianisme Orde Baru bersumber dari kekuasaan eksekutif yang terlalu dominan (*executive heavy*), sehingga agenda awal amandemen adalah membatasi masa jabatan presiden dan menggeser wewenang legislasi utama ke DPR.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena kementerian tetap dipertahankan di bawah Presiden (Pasal 17).",
+          "B": "Kurang tepat karena pengaturan mata uang dibahas pada Perubahan Keempat, bukan Perubahan Pertama.",
+          "D": "Kurang tepat karena pertahanan tetap berada di bawah TNI (Pasal 30).",
+          "E": "Kurang tepat karena amandemen justru menghapus rezim referendum."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "masalah wilayah negara dan pembagian pemerintahan daerah, menyempurnakan"
+      ],
+      "topik_materi": "Materi Pokok Perubahan Kedua UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Materi muatan utama yang disahkan dalam Perubahan Kedua UUD 1945 pada tanggal 18 Agustus 2000 mencakup...",
+      "pilihan": {
+        "A": "Pemberian hak veto eksekutif dalam pembatalan produk perundang-undangan",
+        "B": "Penghapusan bahasa daerah dari kurikulum pendidikan satuan kerja formal",
+        "C": "Penetapan susunan pimpinan mahkamah agung oleh perwakilan serikat buruh",
+        "D": "Masalah wilayah negara dan pembagian pemerintahan daerah serta penegasan HAM",
+        "E": "Pemisahan kas daerah dari pembukuan pertanggungjawaban anggaran nasional"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Perubahan Kedua UUD 1945 tahun 2000 **meliputi masalah wilayah negara dan pembagian pemerintahan daerah, menyempurnakan fungsi DPR, serta ketentuan-ketentuan terperinci tentang HAM**.",
+        "alasan_kunci": "Opsi D tepat karena Perubahan Kedua mereformasi Pasal 18, 18A, 18B (otonomi daerah), Pasal 25A (NKRI negara kepulauan nusantara), Pasal 20A (fungsi & hak DPR), dan menambahkan 10 pasal HAM (Pasal 28A s/d 28J).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena presiden tidak diberi hak veto undang-undang.",
+          "B": "Kurang tepat karena bahasa daerah justru dihormati dan dipelihara oleh negara (Pasal 32).",
+          "C": "Kurang tepat karena serikat buruh tidak memilih pimpinan Mahkamah Agung.",
+          "E": "Kurang tepat karena tata kelola keuangan tetap terintegrasi dalam kerangka NKRI."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 61,
+      "kata_kunci_modul": [
+        "agenda Sidang Tahunan MPR dari tahun 1999 hingga perubahan keempat pada"
+      ],
+      "topik_materi": "Karakteristik Tahapan Amandemen UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karakteristik pelaksanaan proses amandemen konstitusi di Indonesia pada era reformasi ditandai oleh metode bahwa...",
+      "pilihan": {
+        "A": "Perubahan pasal disahkan secara serentak dalam satu kali persidangan kilat",
+        "B": "Perubahan naskah dilakukan melalui musyawarah tertutup antar pimpinan fraksi dewan",
+        "C": "Amandemen diserahkan kepada komite eksekutif kementerian tanpa melibatkan publik",
+        "D": "Pasal-pasal konstitusi diganti secara bergantian berdasarkan dekrit presiden",
+        "E": "Perubahan UUD 1945 dilakukan secara bertahap pada Sidang Tahunan MPR dari 1999 hingga 2002"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Perubahan UUD 1945 kemudian dilakukan secara bertahap dan menjadi salah satu agenda Sidang Tahunan MPR dari tahun 1999 hingga perubahan keempat pada Sidang Tahunan MPR tahun 2002**.",
+        "alasan_kunci": "Opsi E tepat karena proses amandemen empat tahap (1999, 2000, 2001, 2002) memungkinkan pembahasan yang mendalam, matang, partisipatif, serta meminimalkan potensi kegoncangan politik hukum yang drastis (*constitutional continuity*).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena amandemen tidak dilakukan serentak secara kilat melainkan 4 tahap berturut-turut.",
+          "B": "Kurang tepat karena perdebatan pasal berlangsung di komisi dan sidang paripurna MPR yang terbuka.",
+          "C": "Kurang tepat karena amandemen melibatkan dengar pendapat publik dan perdebatan terbuka di MPR.",
+          "D": "Kurang tepat karena amandemen adalah wewenang MPR, bukan produk dekrit eksekutif presiden."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Perubahan Ketiga yang ditetapkan pada Sidang Tahunan MPR Tahun 2001"
+      ],
+      "topik_materi": "Materi Pokok Perubahan Ketiga UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ruang lingkup materi pokok yang disahkan dalam Perubahan Ketiga UUD 1945 pada tanggal 9 November 2001 mencakup...",
+      "pilihan": {
+        "A": "Penetapan sistem uni monarki persekutuan dagang kepulauan",
+        "B": "Asas landasan bernegara, kelembagaan negara, dan ketentuan Pemilihan Umum",
+        "C": "Pembubaran peradilan umum dan pembentukan mahkamah militer tertutup",
+        "D": "Pemberian hak veto eksekutif kepada menteri koordinator perekonomian",
+        "E": "Pemisahan kas penerimaan pajak daerah dari neraca perbendaharaan negara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Perubahan Ketiga yang ditetapkan pada Sidang Tahunan MPR Tahun 2001 meliputi ketentuan tentang asas-asas landasan bernegara, kelembagaan negara dan hubungan antar lembaga negara, dan ketentuan-ketentuan tentang Pemilihan Umum yang ditetapkan pada tanggal 9 November 2001**.",
+        "alasan_kunci": "Opsi B tepat karena Perubahan Ketiga merupakan amandemen paling substantif yang meletakkan fondasi demokrasi modern: pemilihan presiden langsung, pembentukan MK, KY, DPD, serta bab pemilu.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Indonesia adalah negara kesatuan republik, bukan uni monarki.",
+          "C": "Kurang tepat karena peradilan umum tetap dipertahankan di bawah naungan Mahkamah Agung.",
+          "D": "Kurang tepat karena konstitusi tidak mengenal hak veto bagi pejabat menteri eksekutif.",
+          "E": "Kurang tepat karena neraca keuangan negara tetap terpadu dalam kerangka kesatuan fiskal."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "dan hubungan antar lembaga negara, penghapusan Dewan Pertimbangan Agung"
+      ],
+      "topik_materi": "Materi Pokok Perubahan Keempat UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu agenda reformasi struktur kelembagaan negara yang resmi ditetapkan dalam Perubahan Keempat UUD 1945 adalah...",
+      "pilihan": {
+        "A": "Pemberian wewenang yudisial kepada dewan perwakilan rakyat daerah",
+        "B": "Pembentukan kementerian penerangan khusus sensor publikasi media cetak",
+        "C": "Penghapusan Dewan Pertimbangan Agung (DPA) dari struktur lembaga tinggi",
+        "D": "Pengalihan fungsi kasasi peradilan kepada majelis permusyawaratan dewan",
+        "E": "Penetapan status keanggotaan dewan perwakilan rakyat seumur hidup"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Materi perubahan pada Perubahan Keempat meliputi ketentuan tentang kelembagaan negara dan hubungan antar lembaga negara, **penghapusan Dewan Pertimbangan Agung (DPA)**, pendidikan, kebudayaan, perekonomian, dan kesejahteraan sosial.",
+        "alasan_kunci": "Opsi C tepat karena Perubahan Keempat menyempurnakan perampingan struktur negara dengan menghapus DPA dan memberikan wewenang kepada Presiden untuk membentuk dewan pertimbangan internal (Wantimpres).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPRD memegang fungsi legislatif daerah, bukan wewenang peradilan yudisial.",
+          "B": "Kurang tepat karena era reformasi menjamin kebebasan pers serta menghapus praktik sensor otoriter.",
+          "D": "Kurang tepat karena fungsi kasasi mutlak berada pada Mahkamah Agung, bukan MPR.",
+          "E": "Kurang tepat karena masa jabatan anggota DPR dibatasi periodik 5 tahun melalui pemilu."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "ditetapkan pada tanggal 10 Agustus 2002"
+      ],
+      "topik_materi": "Tanggal Penetapan Perubahan Keempat UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rangkaian empat tahapan amandemen konstitusi Republik Indonesia secara resmi dituntaskan dan disahkan pada...",
+      "pilihan": {
+        "A": "Tanggal 19 Oktober 1999 pada penutupan sidang umum pertama reformasi",
+        "B": "Tanggal 9 November 2001 saat pembentukan mahkamah konstitusi disetujui",
+        "C": "Tanggal 18 Agustus 2000 bertepatan dengan pengesahan bab hak asasi",
+        "D": "Ditetapkan pada tanggal 10 Agustus 2002 pada Sidang Tahunan MPR",
+        "E": "Tanggal 17 Agustus 1950 saat pembubaran negara serikat hasil perundingan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Perubahan Keempat UUD 1945 **ditetapkan pada tanggal 10 Agustus 2002** dalam Sidang Tahunan MPR RI, menandai selesainya pembaruan komprehensif konstitusi Indonesia.",
+        "alasan_kunci": "Opsi D tepat karena tanggal 10 Agustus 2002 menjadi tonggak penyelesaian agenda reformasi konstitusi yang dimulai sejak 1999, menghasilkan naskah UUD 1945 yang modern dan demokratis.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena 19 Oktober 1999 adalah tanggal penetapan Perubahan Pertama.",
+          "B": "Kurang tepat karena 9 November 2001 adalah tanggal penetapan Perubahan Ketiga.",
+          "C": "Kurang tepat karena 18 Agustus 2000 adalah tanggal penetapan Perubahan Kedua.",
+          "E": "Kurang tepat karena 17 Agustus 1950 adalah peringatan kembalinya NKRI pasca-RIS."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "naskah asli UUD 1945 berisi 71 butir ketentuan, maka setelah empat kali mengalami"
+      ],
+      "topik_materi": "Perbandingan Kuantitatif Butir Ketentuan Konstitusi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perbandingan jumlah materi muatan antara naskah asli dengan naskah pasca-empat kali amandemen UUD 1945 tercermin pada data bahwa...",
+      "pilihan": {
+        "A": "Naskah asli berisi 100 butir ketentuan dan menyusut menjadi 50 butir aturan",
+        "B": "Materi muatan awal sebanyak 80 butir diringkas menjadi 60 butir klausul",
+        "C": "Naskah asli memuat 37 pasal dan dipadatkan menjadi 20 pasal regulasi",
+        "D": "Jumlah ketentuan konstitusi bertambah dari 45 butir menjadi tepat 300 butir",
+        "E": "Naskah asli berisi 71 butir ketentuan, dan setelah empat kali perubahan mencakup 199 butir"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Jika naskah asli UUD 1945 berisi 71 butir ketentuan, maka setelah empat kali mengalami perubahan, materi muatan UUD 1945 mencakup 199 butir ketentuan**, meningkat hampir tiga kali lipat.",
+        "alasan_kunci": "Opsi E tepat karena penambahan ayat dan pasal baru (terutama mengenai rincian HAM, DPD, MK, KY, BPK, dan Pemilu) membuat UUD 1945 jauh lebih terperinci dan memberikan kepastian hukum yang kuat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena materi muatan konstitusi bertambah banyak, bukan menyusut.",
+          "B": "Kurang tepat karena data statistik modul menyebutkan perbandingan 71 menjadi 199 butir.",
+          "C": "Kurang tepat karena jumlah pasal bertambah melalui penomoran huruf (seperti 28A–28J).",
+          "D": "Kurang tepat karena angka kuantitatif resmi modul adalah 71 menjadi 199 butir ketentuan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Aturan Peralihan Pasal I, II, dan III; Aturan Tambahan Pasal I dan II"
+      ],
+      "topik_materi": "Penyempurnaan Aturan Peralihan dan Aturan Tambahan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penetapan Perubahan Keempat UUD 1945 pada bagian penutup menyempurnakan instrumen transisi hukum yang terdiri atas...",
+      "pilihan": {
+        "A": "Aturan Peralihan Pasal I, II, dan III serta Aturan Tambahan Pasal I dan II",
+        "B": "Empat pasal aturan peralihan dan lima pasal klausul darurat perang",
+        "C": "Satu pasal ketentuan penutup dan tiga pasal deklarasi pembentukan serikat",
+        "D": "Dua pasal tata cara referendum dan satu pasal pembatasan amandemen dewan",
+        "E": "Lima pasal ketentuan transisi peradilan dan dua pasal pembekuan kabinet"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Perubahan Keempat UUD 1945 menata kembali ketentuan transisi menjadi: **Aturan Peralihan Pasal I, II, dan III; serta Aturan Tambahan Pasal I dan II UUD 1945**.",
+        "alasan_kunci": "Opsi A tepat karena Aturan Peralihan mengatur keberlakuan peraturan perundang-undangan lama, pembentukan Mahkamah Konstitusi selambat-lambatnya 17 Agustus 2003, dan wewenang transisi MA; sementara Aturan Tambahan menugaskan MPR meninjau ketetapan MPRS/MPR serta menegaskan struktur naskah UUD 1945.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena Aturan Peralihan pasca-amandemen terdiri dari 3 pasal, bukan 4 pasal.",
+          "C": "Kurang tepat karena format formal terdiri dari 3 pasal Peralihan dan 2 pasal Tambahan.",
+          "D": "Kurang tepat karena aturan referendum telah dicabut dan ditiadakan.",
+          "E": "Kurang tepat karena susunan baku konstitusi memuat 3 pasal Peralihan dan 2 pasal Tambahan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "perekonomian dan kesejahteraan sosial, dan aturan peralihan serta aturan tambahan"
+      ],
+      "topik_materi": "Penyempurnaan Pasal Ekonomi dan Kesejahteraan Sosial",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam Perubahan Keempat UUD 1945, penyempurnaan terhadap Bab XIV ditujukan untuk mempertegas...",
+      "pilihan": {
+        "A": "Pemberian izin monopoli perdagangan kepada konglomerasi perbankan swasta",
+        "B": "Ketentuan tentang perekonomian nasional dan jaminan kesejahteraan sosial rakyat",
+        "C": "Penarikan seluruh dana simpanan masyarakat untuk dialihkan ke kas pertahanan",
+        "D": "Penghapusan jaminan pemeliharaan fakir miskin dan anak terlantar oleh negara",
+        "E": "Penetapan upah buruh minimum secara langsung tanpa koordinasi dewan pengupahan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Materi perubahan pada Perubahan Keempat mencakup **ketentuan tentang perekonomian dan kesejahteraan sosial** (Bab XIV Pasal 33 ayat 4 dan 5 serta Pasal 34 ayat 1, 2, 3, dan 4).",
+        "alasan_kunci": "Opsi B tepat karena amandemen menambahkan prinsip efisiensi berkeadilan, keberlanjutan, berwawasan lingkungan, dan kemandirian dalam Pasal 33, serta mewajibkan negara mengembangkan sistem jaminan sosial dan memelihara fakir miskin dalam Pasal 34.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Pasal 33 melarang monopoli swasta yang menguasai hajat hidup orang banyak.",
+          "C": "Kurang tepat karena negara menjamin perlindungan hak milik dan simpanan warga.",
+          "D": "Kurang tepat karena negara justru diwajibkan memelihara fakir miskin (Pasal 34 ayat 1).",
+          "E": "Kurang tepat karena regulasi ketenagakerjaan diatur secara adil dalam undang-undang ketenagakerjaan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "pendidikan",
+        "kebudayaan,"
+      ],
+      "topik_materi": "Reformasi Pendidikan Nasional Pada Amandemen Keempat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembaruan substansi dalam Bab XIII UUD 1945 melalui Perubahan Keempat memuat jaminan fundamental mengenai...",
+      "pilihan": {
+        "A": "Pembatasan akses pendidikan tinggi khusus bagi keluarga pejabat birokrasi",
+        "B": "Penghapusan mata pelajaran sejarah perjuangan kemerdekaan dari kurikulum",
+        "C": "Ketentuan tentang pendidikan dan kebudayaan termasuk alokasi anggaran minimal 20%",
+        "D": "Pelarangan pelestarian kesenian tari adat tradisional di lingkungan sekolah",
+        "E": "Penetapan bahasa asing sebagai bahasa pengantar wajib pada sekolah dasar"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Perubahan Keempat UUD 1945 menyempurnakan **ketentuan tentang pendidikan dan kebudayaan** (Pasal 31 dan Pasal 32), termasuk mewajibkan alokasi anggaran pendidikan sekurang-kurangnya 20% dari APBN dan APBD.",
+        "alasan_kunci": "Opsi C tepat karena Pasal 31 ayat (4) menjamin komitmen pendanaan negara untuk mencerdaskan kehidupan bangsa, sementara Pasal 32 menjamin kemajuan kebudayaan nasional dan penghormatan bahasa daerah.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena setiap warga negara berhak mendapatkan pendidikan tanpa diskriminasi (Pasal 31 ayat 1).",
+          "B": "Kurang tepat karena pendidikan nasional menumbuhkan nilai patriotisme dan kepribadian bangsa.",
+          "D": "Kurang tepat karena negara memajukan kebudayaan nasional di tengah peradaban dunia.",
+          "E": "Kurang tepat karena Bahasa Indonesia adalah bahasa resmi negara yang diutamakan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Perubahan-perubahan tersebut meliputi hampir keseluruhan materi UUD 1945"
+      ],
+      "topik_materi": "Keluasan Lingkup Amandemen UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keluasan jangkauan materi amandemen yang diselesaikan oleh MPR pada tahun 2002 dicirikan oleh realitas bahwa...",
+      "pilihan": {
+        "A": "Amandemen sekadar mengubah susunan satu pasal administratif pemilihan dewan",
+        "B": "Perubahan sekadar berfokus pada nama kementerian di bidang perekonomian negara",
+        "C": "MPR menunda seluruh usulan perubahan pasal yang disodorkan kalangan kampus",
+        "D": "Perubahan-perubahan tersebut meliputi hampir keseluruhan materi UUD 1945",
+        "E": "Naskah undang-undang dasar sama sekali tidak mengalami penambahan klausul"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Perubahan-perubahan tersebut meliputi hampir keseluruhan materi UUD 1945**, mengubah struktur ketatanegaraan dari sistem sentralistik mandataris MPR menuju sistem demokrasi pemisahan kekuasaan yang seimbang (*checks and balances*).",
+        "alasan_kunci": "Opsi D tepat karena amandemen menyentuh hampir seluruh bab (kelembagaan, HAM, pemilu, pemda, ekonomi, peradilan, dan aturan peralihan), tanpa mengubah Pembukaan dan bentuk NKRI.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena amandemen mencakup 199 butir ketentuan, bukan sekadar satu pasal.",
+          "B": "Kurang tepat karena ruang lingkup amandemen bersifat menyeluruh di seluruh cabang kekuasaan.",
+          "C": "Kurang tepat karena MPR menyerap aspirasi luas masyarakat dan perguruan tinggi.",
+          "E": "Kurang tepat karena materi ketentuan bertambah dari 71 menjadi 199 butir."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "yang ditetapkan pada tanggal 9 November 2001. Perubahan tersebut mengubah dan"
+      ],
+      "topik_materi": "Penetapan Regulasi Pemilu Dalam Amandemen Ketiga",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Payung hukum konstitusional penyelenggaraan pesta demokrasi secara periodik lima tahunan disahkan melalui...",
+      "pilihan": {
+        "A": "Instruksi darurat panglima militer mengenai pengamanan kotak suara wilayah",
+        "B": "Surat edaran mahkamah agung tentang penanganan sengketa perselisihan dewan",
+        "C": "Maklumat kementerian penerangan mengenai jadwal siaran kampanye pemilu",
+        "D": "Piagam kesepakatan tertutup antar pimpinan partai politik pemilik suara",
+        "E": "Ketentuan-ketentuan tentang Pemilihan Umum yang ditetapkan pada tanggal 9 November 2001"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Perubahan Ketiga menetapkan **ketentuan-ketentuan tentang Pemilihan Umum yang ditetapkan pada tanggal 9 November 2001** yang dituangkan dalam Bab VIIB Pasal 22E UUD 1945.",
+        "alasan_kunci": "Opsi E tepat karena Pasal 22E UUD 1945 memberikan jaminan bahwa pemilu wajib dilaksanakan secara LUBER dan JURDIL setiap lima tahun sekali serta diselenggarakan oleh komisi pemilihan umum yang bersifat nasional, tetap, dan mandiri.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pemilu diselenggarakan oleh lembaga sipil KPU, bukan instruksi militer.",
+          "B": "Kurang tepat karena sengketa perselisihan pemilu diadili oleh Mahkamah Konstitusi.",
+          "C": "Kurang tepat karena landasan pemilu adalah pasal konstitusi UUD, bukan maklumat penerangan.",
+          "D": "Kurang tepat karena asas pemilu bertumpu pada hukum dasar tertulis yang terbuka bagi publik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 62,
+      "kata_kunci_modul": [
+        "Pembukaan UUD 1945 tidak akan diubah"
+      ],
+      "topik_materi": "Konsistensi Menjaga Kemurnian Pembukaan UUD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Meskipun amandemen mengubah 199 butir ketentuan batang tubuh, komitmen MPR yang tetap terjaga secara konsisten adalah bahwa...",
+      "pilihan": {
+        "A": "Pembukaan UUD 1945 tidak akan diubah dan tetap dipertahankan keutuhannya",
+        "B": "Struktur kabinet presidensial dapat diganti menjadi kabinet parlementer",
+        "C": "Batas wilayah kedaulatan kepulauan diserahkan kepada persekutuan asing",
+        "D": "Hak pilih pemilu warga negara dapat dibatasi berdasarkan latar belakang suku",
+        "E": "Kewenangan peradilan kasasi dialihkan kepada komisi etik asosiasi advokat"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Sesuai dengan kesepakatan MPR yang menjadi lampiran Ketetapan MPR No. IX/MPR/1999, ditegaskan bahwa **Pembukaan UUD 1945 tidak akan diubah**.",
+        "alasan_kunci": "Opsi A tepat karena Pembukaan UUD 1945 memuat dasar filsafat berdirinya NKRI dan Pancasila. Kesepakatan untuk tidak menyentuh Pembukaan menjamin bahwa identitas jati diri bangsa dan tujuan luhur proklamasi tetap abadi.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena kesepakatan dasar justru mempertahankan sistem presidensial.",
+          "C": "Kurang tepat karena kedaulatan wilayah NKRI dipertahankan secara utuh.",
+          "D": "Kurang tepat karena asas pemilu menjamin perlakuan setara bagi seluruh warga tanpa rasisme.",
+          "E": "Kurang tepat karena kasasi tetap menjadi wewenang konstitusional Mahkamah Agung."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "Perubahan UUD 1945 mengukuhkan keberadaan Indonesia sebagai Negara Kesatuan"
+      ],
+      "topik_materi": "Pengukuhan Eksistensi Bentuk Negara Kesatuan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengaruh mendasar dari rangkaian amandemen UUD 1945 terhadap bentuk kenegaraan Indonesia adalah...",
+      "pilihan": {
+        "A": "Membuka peluang formal pembentukan negara bagian serikat di daerah kepulauan",
+        "B": "Menghapuskan batas otonomi teritorial demi sentralisasi kekuasaan kementerian",
+        "C": "Perubahan UUD 1945 mengukuhkan keberadaan Indonesia sebagai Negara Kesatuan",
+        "D": "Mendelegasikan fungsi pertahanan kepada milisi daerah otonom masing-masing",
+        "E": "Mengalihkan kedaulatan teritorial kepulauan kepada persekutuan monarki"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Perubahan UUD 1945 mengukuhkan keberadaan Indonesia sebagai Negara Kesatuan dan menghilangkan keraguan terhadap pecahnya negara kesatuan Republik Indonesia**.",
+        "alasan_kunci": "Opsi C tepat karena amandemen memberikan kepastian hukum bahwa reformasi dan otonomi daerah bukan langkah menuju disintegrasi atau federalisme, melainkan upaya memperkuat integrasi nasional dalam bingkai NKRI.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pasal-pasal amandemen secara tegas menepis bentuk negara bagian/serikat.",
+          "B": "Kurang tepat karena amandemen justru menjamin pelaksanaan otonomi daerah seluas-luasnya (Pasal 18).",
+          "D": "Kurang tepat karena pertahanan negara diselenggarakan tunggal melalui TNI.",
+          "E": "Kurang tepat karena kedaulatan berada di tangan rakyat dalam bentuk republik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "Republik Indonesia dan tidak sedikitpun mengubah Negara Kesatuan Republik"
+      ],
+      "topik_materi": "Keteguhan Mempertahankan Bentuk NKRI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keteguhan para pembentuk konstitusi era reformasi dalam menjaga konsensus nasional dibuktikan oleh fakta bahwa pasal-pasal UUD 1945...",
+      "pilihan": {
+        "A": "Memberikan hak bagi daerah penghasil migas untuk membentuk mata uang regional",
+        "B": "Menghapuskan ikatan persatuan bangsa demi kebebasan mutlak kelompok minoritas",
+        "C": "Mengizinkan pembentukan angkatan bersenjata mandiri di setiap provinsi terluar",
+        "D": "Tidak sedikitpun mengubah Negara Kesatuan Republik Indonesia menjadi bentuk negara lain",
+        "E": "Menyerahkan urusan diplomasi internasional kepada pejabat eksekutif daerah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pasal-pasal dalam UUD 1945 telah memperkokoh prinsip Negara Kesatuan Republik Indonesia dan **tidak sedikitpun mengubah Negara Kesatuan Republik Indonesia menjadi bentuk negara yang lain**.",
+        "alasan_kunci": "Opsi D tepat karena komitmen menjaga bentuk negara kesatuan telah dikunci secara abadi (*entrenched*) dalam Pasal 37 ayat (5) UUD 1945 yang menyatakan bentuk NKRI tidak dapat dilakukan perubahan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena mata uang adalah urusan mutlak pemerintah pusat (Pasal 23B).",
+          "B": "Kurang tepat karena prinsip persatuan bangsa dijunjung tinggi dalam Pancasila dan UUD 1945.",
+          "C": "Kurang tepat karena TNI adalah kekuatan pertahanan tunggal negara (Pasal 30).",
+          "E": "Kurang tepat karena urusan hubungan luar negeri merupakan wewenang Presiden dan pemerintah pusat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "memperkokoh Negara Kesatuan Republik Indonesia dan meningkatkan proses"
+      ],
+      "topik_materi": "Otonomi Daerah Sebagai Pilar Pengokoh NKRI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hubungan substansial antara desentralisasi dengan kedaulatan negara dalam naskah perubahan UUD 1945 dirumuskan dengan tujuan untuk...",
+      "pilihan": {
+        "A": "Mempermudah pemisahan wilayah terpencil dari kesatuan hukum nasional",
+        "B": "Menghapuskan tata kelola perizinan usaha mikro di tingkat pemerintahan desa",
+        "C": "Mengurangi alokasi anggaran pembangunan di luar wilayah ibu kota negara",
+        "D": "Membatasi mobilitas perpindahan penduduk antardaerah di seluruh kepulauan",
+        "E": "Mendorong pelaksanaan otonomi daerah untuk lebih memperkokoh Negara Kesatuan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Pasal-pasal dalam UUD 1945 mendorong pelaksanaan otonomi daerah untuk lebih memperkokoh Negara Kesatuan Republik Indonesia** dan meningkatkan proses pembangunan di daerah dalam rangka mewujudkan kesejahteraan masyarakat di daerah.",
+        "alasan_kunci": "Opsi E tepat karena otonomi daerah yang adil dan demokratis menghilangkan ketidakpuasan antardaerah, mempercepat pemerataan pembangunan, dan menumbuhkan rasa kepemilikan bersama terhadap NKRI.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena otonomi daerah bertujuan memperkokoh persatuan, bukan pemisahan wilayah.",
+          "B": "Kurang tepat karena otonomi daerah mendukung kemudahan perizinan ekonomi lokal.",
+          "C": "Kurang tepat karena otonomi daerah justru memperluas penyaluran transfer anggaran ke daerah.",
+          "D": "Kurang tepat karena setiap warga negara bebas berpindah dan bertempat tinggal di wilayah NKRI."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "Negara Indonesia ialah negara kesatuan yang berbentuk Republik"
+      ],
+      "topik_materi": "Prinsip Bentuk Negara Pasal 1 Ayat 1",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pasal 1 ayat (1) UUD 1945 naskah asli yang tetap dipertahankan utuh dalam amandemen memuat rumusan prinsip bahwa...",
+      "pilihan": {
+        "A": "Negara Indonesia ialah negara kesatuan yang berbentuk Republik",
+        "B": "Kekuasaan tertinggi negara berada pada majelis perwakilan utusan daerah",
+        "C": "Pemerintahan dipimpin oleh kabinet parlementer di bawah kendali parlemen",
+        "D": "Indonesia merupakan persemakmuran yang terdiri atas kesultanan otonom",
+        "E": "Birokrasi pemerintahan dijalankan berdasarkan hukum kebiasaan adat wilayah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pasal 1 ayat (1) UUD 1945 yang merupakan naskah asli mengandung prinsip bahwa **'Negara Indonesia ialah negara kesatuan yang berbentuk Republik'**.",
+        "alasan_kunci": "Opsi A tepat karena pasal ini merupakan klausul fundamental yang menetapkan dua identitas utama negara: bentuk negara adalah Kesatuan (*unitary state*) dan bentuk pemerintahan adalah Republik (*res publica*).",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena kekuasaan tertinggi berada di tangan rakyat menurut konstitusi (Pasal 1 ayat 2).",
+          "C": "Kurang tepat karena sistem pemerintahan Indonesia adalah presidensial, bukan parlementer.",
+          "D": "Kurang tepat karena Indonesia adalah republik kesatuan, bukan persemakmuran kesultanan.",
+          "E": "Kurang tepat karena birokrasi berlandaskan pada negara hukum modern (Pasal 1 ayat 3)."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "tekad bangsa Indonesia yang menjadi sumpah anak bangsa pada 1928 yang dikenal"
+      ],
+      "topik_materi": "Akar Historis NKRI Pada Sumpah Pemuda 1928",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perumusan Pasal 1 ayat (1) oleh para pendiri bangsa pada hakikatnya merupakan kelanjutan dari...",
+      "pilihan": {
+        "A": "Perjanjian persekutuan dagang antarpulau era kolonial abad ketujuh belas",
+        "B": "Tekad bangsa yang menjadi sumpah anak bangsa pada 1928 yang dikenal Sumpah Pemuda",
+        "C": "Nota perundingan gencatan senjata di hadapan utusan perdamaian internasional",
+        "D": "Keputusan rapat koordinasi pimpinan serikat buruh transportasi kereta api",
+        "E": "Maklumat komando pertahanan wilayah kepulauan bentukan militer asing"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pasal 1 ayat (1) UUD 1945 yang dirumuskan oleh PPKI merupakan **tekad bangsa Indonesia yang menjadi sumpah anak bangsa pada 1928 yang dikenal dengan Sumpah Pemuda**, yaitu satu nusa, satu bangsa, satu bahasa persatuan, satu tanah air yaitu Indonesia.",
+        "alasan_kunci": "Opsi B tepat karena Sumpah Pemuda 28 Oktober 1928 meletakkan kesadaran geopolitik bangsa Indonesia, yang kemudian diformalkan ke dalam hukum tata negara positif oleh PPKI pada 18 Agustus 1945.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Sumpah Pemuda menentang kolonialisme dagang VOC/Belanda.",
+          "C": "Kurang tepat karena integrasi NKRI lahir dari tekad persatuan pemuda, bukan perundingan asing.",
+          "D": "Kurang tepat karena Sumpah Pemuda mencakup seluruh pemuda nusantara dari berbagai organisasi kedaerahan.",
+          "E": "Kurang tepat karena semangat persatuan murni bersumber dari pergerakan nasional Indonesia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "(The Founding Fathers) yang menginginkan Indonesia sebagai negara bangsa yang"
+      ],
+      "topik_materi": "Pedoman Dasar MPR Era Amandemen",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sikap keteladanan yang dijadikan pedoman dasar oleh MPR periode 1999–2004 dalam mengawal arah amandemen konstitusi adalah...",
+      "pilihan": {
+        "A": "Keinginan mengadopsi secara mutlak sistem tata negara persemakmuran barat",
+        "B": "Upaya memperluas kewenangan eksekutif tanpa adanya mekanisme pengawasan parlemen",
+        "C": "Penghargaan terhadap cita-cita luhur pendiri bangsa yang menginginkan negara bangsa yang satu",
+        "D": "Kecenderungan membatasi kebebasan berserikat dan berkumpul bagi masyarakat sipil",
+        "E": "Tuntutan pembagian dana perimbangan secara sewenang di luar kerangka perundangan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Penghargaan terhadap cita-cita luhur para pendiri bangsa (The Founding Fathers) yang menginginkan Indonesia sebagai negara bangsa yang satu merupakan bagian dari pedoman dasar bagi MPR 1999-2004 dalam melakukan perubahan UUD 1945**.",
+        "alasan_kunci": "Opsi C tepat karena MPR era reformasi tetap setia pada jiwa proklamasi dan visi kebangsaan para pendiri bangsa dalam mewujudkan negara merdeka, bersatu, berdaulat, adil, dan makmur.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena amandemen berakar dari kepribadian bangsa dan kebutuhan demokrasi nasional.",
+          "B": "Kurang tepat karena amandemen justru membatasi kekuasaan eksekutif dan memperkuat checks and balances.",
+          "D": "Kurang tepat karena jaminan kebebasan berserikat justru dipertegas dalam Pasal 28E ayat (3).",
+          "E": "Kurang tepat karena dana perimbangan diatur secara transparan melalui undang-undang."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "Negara Kesatuan Republik Indonesia sebagai bentuk final negara bagi bangsa"
+      ],
+      "topik_materi": "Bentuk Final Negara Bagi Bangsa Indonesia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsensus dasar nasional mengenai kedudukan Negara Kesatuan Republik Indonesia pasca-perubahan UUD 1945 menegaskan status bahwa NKRI adalah...",
+      "pilihan": {
+        "A": "Bentuk transisi sementara menuju pembentukan konfederasi monarki kepulauan",
+        "B": "Entitas kedaulatan yang bergantung pada persetujuan komisi internasional",
+        "C": "Format persekutuan wilayah yang dapat diubah melalui referendum daerah",
+        "D": "Bentuk final negara bagi bangsa Indonesia yang tidak dapat ditawar lagi",
+        "E": "Susunan pemerintahan yang dapat dibubarkan sewaktu-waktu oleh dekrit menteri"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Wujud NKRI semakin kokoh setelah amandemen, yang dimulai dari kesepakatan MPR untuk **tetap mempertahankan Negara Kesatuan Republik Indonesia sebagai bentuk final negara bagi bangsa Indonesia**.",
+        "alasan_kunci": "Opsi D tepat karena status NKRI sebagai bentuk final (*final form of the state*) merupakan kesepakatan abadi yang mengikat seluruh generasi dan menjadi harga mati bagi kelangsungan hidup bangsa.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena NKRI adalah bentuk permanen dan final, bukan transisi.",
+          "B": "Kurang tepat karena kedaulatan NKRI mandiri dan merdeka dari campur tangan pihak asing.",
+          "C": "Kurang tepat karena bentuk NKRI tidak dapat diubah oleh mekanisme apa pun (Pasal 37 ayat 5).",
+          "E": "Kurang tepat karena dekrit menteri tidak berwenang membubarkan bentuk negara kesatuan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "persatuan sebuah bangsa yang majemuk."
+      ],
+      "topik_materi": "Rasionalitas Pemilihan Bentuk Negara Kesatuan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pertimbangan sosiologis utama yang melandasi pemilihan bentuk negara kesatuan bagi bangsa Indonesia adalah keyakinan bahwa bentuk ini...",
+      "pilihan": {
+        "A": "Memudahkan pemusatan seluruh sumber daya tambang di tangan elit ibu kota",
+        "B": "Memberikan kekuasaan mutlak kepada pimpinan angkatan perang bersenjata",
+        "C": "Dapat meniadakan perbedaan latar belakang etnisitas secara paksa",
+        "D": "Menghilangkan hak masyarakat daerah untuk menyampaikan aspirasi politik",
+        "E": "Paling tepat untuk mewadahi ide persatuan sebuah bangsa yang majemuk"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kesepakatan mempertahankan bentuk negara kesatuan didasari pertimbangan bahwa negara kesatuan adalah bentuk yang ditetapkan sejak awal berdirinya negara dan **dipandang paling tepat untuk mewadahi ide persatuan sebuah bangsa yang majemuk**.",
+        "alasan_kunci": "Opsi E tepat karena kemajemukan suku, agama, ras, dan adat istiadat memerlukan wadah pemersatu yang kokoh (Bhinneka Tunggal Ika) guna mencegah disintegrasi dan rivalitas antardaerah seperti yang terjadi pada masa negara federal RIS.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pemusatan sumber daya tambang bertentangan dengan prinsip keadilan sosial.",
+          "B": "Kurang tepat karena negara kesatuan berlandaskan pada supremasi hukum dan demokrasi perwakilan.",
+          "C": "Kurang tepat karena negara kesatuan menghargai dan melindungi kemajemukan etnis, bukan meniadakannya.",
+          "D": "Kurang tepat karena aspirasi daerah disalurkan secara konstitusional lewat DPD, DPR, dan DPRD."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "daerah. Oleh karena itu, diperlukan adanya pengaturan dalam peraturan perundangundangan yang komprehensif untuk pelaksanaan otonomi daerah sehingga dapat"
+      ],
+      "topik_materi": "Regulasi Pelaksanaan Otonomi Daerah Komprehensif",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Agar pelaksanaan otonomi daerah selaras dengan hakikat tujuan pembangunan nasional dan tidak menyimpang dari NKRI, UUD 1945 mengamanatkan bahwa...",
+      "pilihan": {
+        "A": "Diperlukan pengaturan dalam peraturan perundang-undangan komprehensif bagi otonomi daerah",
+        "B": "Pemerintah pusat wajib membekukan seluruh kewenangan pembentukan perda",
+        "C": "Seluruh pejabat daerah wajib diangkat dari kalangan aparatur pusat di kementerian",
+        "D": "Pemerintah daerah dilarang menyusun anggaran pendapatan belanja secara mandiri",
+        "E": "Tata kelola keuangan daerah diserahkan kepada perwakilan perbankan komersial"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dalam pelaksanaan desentralisasi: **diperlukan adanya pengaturan dalam peraturan perundang-undangan yang komprehensif untuk pelaksanaan otonomi daerah sehingga dapat dilaksanakan sesuai dengan hakikat tujuan pembangunan nasional**.",
+        "alasan_kunci": "Opsi A tepat karena payung hukum komprehensif (seperti UU Pemerintahan Daerah dan UU Hubungan Keuangan Pusat-Daerah) menjamin otonomi berjalan tertib, transparan, akuntabel, dan sinergis dengan program strategis nasional.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena pemda berhak menetapkan perda untuk melaksanakan otonomi (Pasal 18 ayat 6).",
+          "C": "Kurang tepat karena pemda membina ASN daerah sesuai manajemen kepegawaian nasional.",
+          "D": "Kurang tepat karena pemda bersama DPRD berwenang menetapkan APBD.",
+          "E": "Kurang tepat karena keuangan daerah dikelola melalui Kas Umum Daerah yang diaudit BPK."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 63,
+      "kata_kunci_modul": [
+        "persatuan sebuah bangsa yang majemuk."
+      ],
+      "topik_materi": "Alasan Mempertahankan Bentuk Negara Kesatuan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Alasan utama kesepakatan MPR mempertahankan Negara Kesatuan Republik Indonesia sebagai bentuk final negara adalah karena dinilai paling tepat untuk...",
+      "pilihan": {
+        "A": "Memusatkan seluruh pengelolaan penerimaan pajak daerah",
+        "B": "Mewadahi ide persatuan sebuah bangsa yang majemuk",
+        "C": "Menyeragamkan struktur lembaga adat di seluruh kepulauan",
+        "D": "Menghapuskan garis batas administratif antarprovinsi",
+        "E": "Membatasi mobilitas penduduk antarpulau di nusantara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kesepakatan mempertahankan bentuk **Negara Kesatuan Republik Indonesia sebagai bentuk final** didasari pertimbangan bahwa negara kesatuan dipandang paling tepat untuk **mewadahi ide persatuan sebuah bangsa yang majemuk**.",
+        "alasan_kunci": "Opsi B tepat karena bentuk negara kesatuan merupakan wadah yang paling kokoh dan representatif dalam mengintegrasikan keanekaragaman suku, agama, dan budaya di seluruh wilayah nusantara. Pilihan bentuk ini telah dikukuhkan sejak awal kemerdekaan guna mencegah potensi perpecahan bangsa. Kesepakatan konstitusional ini menjadi pilar utama keutuhan geopolitik nasional.",
+        "bedah_pengecoh": {
+          "A": "Pengelolaan pajak daerah diatur dalam kerangka desentralisasi fiskal dan perimbangan keuangan.",
+          "C": "Menyeragamkan lembaga adat bertentangan dengan prinsip penghormatan kesatuan masyarakat hukum adat.",
+          "D": "Menghapuskan batas administratif tidak sesuai dengan pembagian wilayah pemerintahan daerah provinsi dan kabupaten/kota.",
+          "E": "Membatasi mobilitas penduduk bertentangan dengan hak asasi warga negara untuk berpindah tempat tinggal."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 81,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "langsung menyebutkan tentang Negara Kesatuan Republik Indonesia dalam lima"
+      ],
+      "topik_materi": "Pasal UUD 1945 yang Menyebutkan NKRI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berapa jumlah pasal dalam konstitusi UUD 1945 yang secara langsung menyebutkan istilah Negara Kesatuan Republik Indonesia?",
+      "pilihan": {
+        "A": "Tiga pasal konstitusi",
+        "B": "Empat pasal konstitusi",
+        "C": "Enam pasal konstitusi",
+        "D": "Lima pasal konstitusi",
+        "E": "Tujuh pasal konstitusi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "UUD 1945 memuat rumusan yang secara langsung menyebutkan frasa **Negara Kesatuan Republik Indonesia dalam lima pasal**.",
+        "alasan_kunci": "Opsi D tepat karena UUD 1945 secara eksplisit memuat penyebutan NKRI dalam lima pasal utama, yakni Pasal 1 ayat (1), Pasal 18 ayat (1), Pasal 18B ayat (2), Pasal 25A, dan Pasal 37 ayat (5). Ketentuan konstitusional ini menegaskan komitmen pendiri bangsa untuk menjaga keutuhan susunan negara kepulauan Indonesia. Penegasan bentuk kesatuan tercermin kuat dalam batang tubuh konstitusi negara.",
+        "bedah_pengecoh": {
+          "A": "Tiga pasal konstitusi kurang tepat karena pasal penyebutan NKRI berjumlah lima pasal.",
+          "B": "Empat pasal konstitusi kurang tepat karena belum mencakup keseluruhan pasal penyebutan NKRI.",
+          "C": "Enam pasal konstitusi kurang tepat karena melampaui jumlah pasal penyebutan NKRI.",
+          "E": "Tujuh pasal konstitusi kurang tepat karena melebihi ketentuan resmi dalam UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 82,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "pasal 37 ayat (5) UUD 1945 serta rumusan pasal- pasal yang mengukuhkan Negara"
+      ],
+      "topik_materi": "Ketentuan Pasal 37 Ayat (5) UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Klausul konstitusional mengenai bentuk Negara Kesatuan Republik Indonesia yang tidak dapat dilakukan perubahan diatur dalam...",
+      "pilihan": {
+        "A": "Pasal 1 ayat (1) UUD 1945",
+        "B": "Pasal 18 ayat (1) UUD 1945",
+        "C": "Pasal 25A UUD 1945",
+        "D": "Pasal 36A UUD 1945",
+        "E": "Pasal 37 ayat (5) UUD 1945"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Pasal 37 ayat (5) UUD 1945** menetapkan bahwa khusus mengenai **bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan**.",
+        "alasan_kunci": "Opsi E tepat karena Pasal 37 ayat (5) UUD 1945 secara tegas mengunci bentuk NKRI sebagai kesepakatan final yang kebal terhadap amandemen konstitusi. Norma pembatasan ini menjamin keberlangsungan kedaulatan wilayah dan persatuan bangsa dari ancaman disintegrasi. Ketentuan ini menjadi landasan yuridis fundamental bagi eksistensi negara kesatuan.",
+        "bedah_pengecoh": {
+          "A": "Pasal 1 ayat (1) mengatur bahwa Negara Indonesia ialah Negara Kesatuan yang berbentuk Republik.",
+          "B": "Pasal 18 ayat (1) mengatur pembagian wilayah daerah provinsi, kabupaten, dan kota.",
+          "C": "Pasal 25A mengatur wilayah negara kesatuan sebagai negara kepulauan yang berciri Nusantara.",
+          "D": "Pasal 36A mengatur lambang negara Garuda Pancasila dengan semboyan Bhinneka Tunggal Ika."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 83,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "Prinsip kesatuan dalam Negara Kesatuan Republik Indonesia dipertegas dalam alinea"
+      ],
+      "topik_materi": "Prinsip Kesatuan dalam Pembukaan UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip kesatuan dalam wadah Negara Kesatuan Republik Indonesia secara substantif dipertegas dalam Pembukaan UUD 1945 pada alinea...",
+      "pilihan": {
+        "A": "Alinea keempat",
+        "B": "Alinea kedua",
+        "C": "Alinea ketiga",
+        "D": "Alinea pertama",
+        "E": "Alinea penutup"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Prinsip kesatuan** dalam NKRI dipertegas dalam **alinea keempat Pembukaan UUD 1945** terkait pembentukan pemerintahan pelindung segenap tumpah darah.",
+        "alasan_kunci": "Opsi A tepat karena alinea keempat Pembukaan UUD 1945 memuat tujuan nasional untuk membentuk pemerintahan negara yang melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia. Penegasan ini meneguhkan amanat keutuhan wilayah dan persatuan warga negara di bawah naungan konstitusi. Rumusan tersebut menjadi fondasi utama integrasi nasional.",
+        "bedah_pengecoh": {
+          "B": "Alinea kedua memuat cita-cita pergerakan kemerdekaan menuju negara merdeka, bersatu, berdaulat, adil, dan makmur.",
+          "C": "Alinea ketiga memuat motivasi spiritual atas berkat rahmat Allah Yang Maha Kuasa dan dorongan luhur kebangsaan.",
+          "D": "Alinea pertama memuat prinsip kemerdekaan sebagai hak segala bangsa serta penghapusan penjajahan.",
+          "E": "Alinea penutup kurang tepat karena struktur formal Pembukaan UUD 1945 berakhir pada alinea keempat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 84,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "negara Indonesia yang melindungi segenap bangsa Indonesia dan seluruh tumpah"
+      ],
+      "topik_materi": "Tujuan Pembentukan Pemerintahan Negara Kesatuan",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Penyelenggaraan aparatur pemerintah yang menjamin keamanan wilayah perbatasan pulau terluar merupakan bentuk perwujudan dari mandat konstitusional untuk...",
+      "pilihan": {
+        "A": "Memajukan kesejahteraan umum warga kepulauan",
+        "B": "Melindungi segenap bangsa dan seluruh tumpah darah",
+        "C": "Mencerdaskan kehidupan seluruh generasi penerus",
+        "D": "Melaksanakan ketertiban dunia berdasarkan perdamaian",
+        "E": "Mewujudkan keadilan sosial bagi seluruh masyarakat"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tujuan pembentukan pemerintahan negara Indonesia dalam alinea keempat Pembukaan UUD 1945 adalah **melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia**.",
+        "alasan_kunci": "Opsi B tepat karena pengamanan wilayah perbatasan pulau terluar secara langsung menjalankan amanat perlindungan segenap bangsa dan seluruh tumpah darah Indonesia. Tindakan ini mencerminkan komitmen pertahanan kesatuan teritorial negara kesatuan. Aparatur negara berkewajiban mengawal kedaulatan yurisdiksi nasional.",
+        "bedah_pengecoh": {
+          "A": "Memajukan kesejahteraan umum berfokus pada penyediaan fasilitas perekonomian dan kemakmuran taraf hidup.",
+          "C": "Mencerdaskan kehidupan bangsa berkaitan dengan sektor pendidikan nasional dan pembinaan intelektual warga.",
+          "D": "Melaksanakan ketertiban dunia berorientasi pada partisipasi aktif dalam hubungan internasional dan diplomasi.",
+          "E": "Mewujudkan keadilan sosial merupakan muara pelaksanaan sila kelima Pancasila dalam keseimbangan hak warga."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 85,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "1908 yang merupakan tonggak awal sejarah perjuangan bangsa yang bersifat"
+      ],
+      "topik_materi": "Tonggak Awal Sejarah Perjuangan Nasional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Organisasi pergerakan yang menjadi tonggak awal sejarah perjuangan bangsa bersifat nasional pada tanggal 20 Mei 1908 adalah...",
+      "pilihan": {
+        "A": "Sarekat Dagang Islam",
+        "B": "Indische Partij",
+        "C": "Budi Utomo",
+        "D": "Perhimpunan Indonesia",
+        "E": "Partai Nasional Indonesia"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Lahirnya pergerakan **Budi Utomo pada tanggal 20 Mei 1908** merupakan **tonggak awal sejarah perjuangan bangsa yang bersifat nasional**.",
+        "alasan_kunci": "Opsi C tepat karena kelahiran organisasi Budi Utomo pada 20 Mei 1908 menandai pergeseran perjuangan kedaerahan menuju pergerakan modern berwawasan nasional. Peristiwa bersejarah ini meletakkan fondasi kebangkitan kesadaran persatuan di kalangan kaum terpelajar nusantara. Tanggal berdirinya organisasi ini diperingati sebagai Hari Kebangkitan Nasional.",
+        "bedah_pengecoh": {
+          "A": "Sarekat Dagang Islam didirikan pada tahun 1905 di Surakarta oleh Samanhudi sebagai perhimpunan ekonomi pedagang pribumi.",
+          "B": "Indische Partij didirikan pada tahun 1912 di Bandung oleh Tiga Serangkai dengan haluan politik radikal.",
+          "D": "Perhimpunan Indonesia merupakan organisasi mahasiswa pergerakan di Belanda yang mempopulerkan identitas Indonesia pada 1925.",
+          "E": "Partai Nasional Indonesia didirikan pada tahun 1927 di Bandung oleh Ir. Soekarno untuk memperjuangkan kemerdekaan penuh."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 86,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "bidang politik, ekonomi/ perdagangan, pendidikan, kesenian, pers, dan kewanitaan."
+      ],
+      "topik_materi": "Dimensi Gerakan Kebangsaan Pasca Budi Utomo",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Gerakan kebangsaan yang tumbuh menyusul pergerakan Budi Utomo berkembang di berbagai bidang kehidupan nasional, KECUALI...",
+      "pilihan": {
+        "A": "Bidang politik dan ekonomi perdagangan",
+        "B": "Bidang pendidikan dan kesenian budaya",
+        "C": "Bidang pers cetak dan pergerakan kewanitaan",
+        "D": "Bidang militerisme dan ekspansionisme wilayah",
+        "E": "Bidang kewanitaan dan penerbitan pers"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Gerakan kebangsaan pasca Budi Utomo meliputi bidang **politik, ekonomi/perdagangan, pendidikan, kesenian, pers, dan kewanitaan**.",
+        "alasan_kunci": "Opsi D tepat sebagai pengecualian karena pergerakan nasional Indonesia berwatak emansipatoris dan anti-kolonial, bukan bertujuan militerisme maupun ekspansionisme wilayah lain. Gerakan awal rakyat berfokus pada penguatan kapasitas intelektual, solidaritas ekonomi, dan penyadaran sosial politik. Dokumen historis mencatat perjuangan bertumpu pada ranah kultural dan kelembagaan sipil.",
+        "bedah_pengecoh": {
+          "A": "Bidang politik dan ekonomi perdagangan merupakan pilar pergerakan yang dirintis kelompok Sarekat Islam dan partai kebangsaan.",
+          "B": "Bidang pendidikan dan kesenian budaya merupakan sarana pencerdasan anak negeri melalui lembaga Taman Siswa dan sanggar budaya.",
+          "C": "Bidang pers cetak dan kewanitaan merupakan media penyebaran gagasan persatuan serta emansipasi perempuan seperti Putri Mardika.",
+          "E": "Bidang kewanitaan dan pers mencerminkan keterlibatan tokoh jurnalis serta aktivis wanita dalam membangun wawasan kebangsaan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 87,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "Tekad perjuangan itu lebih tegas lagi dengan Sumpah Pemuda 28 Oktober 1928"
+      ],
+      "topik_materi": "Peristiwa Sumpah Pemuda 1928",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Peristiwa bersejarah pada 28 Oktober 1928 yang mempertegas tekad perjuangan persatuan kebangsaan Indonesia adalah...",
+      "pilihan": {
+        "A": "Kongres Perhimpunan Pelajar",
+        "B": "Deklarasi Piagam Jakarta",
+        "C": "Proklamasi Kemerdekaan",
+        "D": "Rapat Raksasa Ikada",
+        "E": "Sumpah Pemuda"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Sumpah Pemuda pada 28 Oktober 1928** mempertegas tekad perjuangan dengan ikrar persatuan tanah air, bangsa, dan bahasa.",
+        "alasan_kunci": "Opsi E tepat karena ikrar Sumpah Pemuda tanggal 28 Oktober 1928 merupakan ikrar kebangsaan yang melebur sekat kedaerahan para pemuda Indonesia. Peristiwa ini menyatukan berbagai elemen kesukuan ke dalam komitmen tunggal berbangsa dan berbahasa Indonesia. Tonggak ini mengkristalkan kesadaran geopolitik nusantara menuju kemerdekaan bersama.",
+        "bedah_pengecoh": {
+          "A": "Kongres Perhimpunan Pelajar merupakan forum pertemuan kepemudaan yang mendahului lahirnya ikrar persatuan resmi.",
+          "B": "Deklarasi Piagam Jakarta dirumuskan oleh Panitia Sembilan pada 22 Juni 1945 sebagai rancangan pembukaan konstitusi.",
+          "C": "Proklamasi Kemerdekaan dikumandangkan pada 17 Agustus 1945 sebagai puncak pernyataan kemerdekaan bangsa Indonesia.",
+          "D": "Rapat Raksasa Ikada diselenggarakan pada 19 September 1945 di Jakarta untuk menunjukkan dukungan rakyat terhadap proklamasi kemerdekaan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 88,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "Satu Bangsa, dan menjunjung tinggi bahasa persatuan"
+      ],
+      "topik_materi": "Rumusan Ikrar Sumpah Pemuda",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Unsur ketiga dalam ikrar persatuan Sumpah Pemuda 1928 yang mengikat komunikasi kebangsaan berbunyi...",
+      "pilihan": {
+        "A": "Menjunjung tinggi bahasa persatuan Bahasa Indonesia",
+        "B": "Menetapkan satu bendera nasional Merah Putih",
+        "C": "Mengakui satu ideologi negara Pancasila",
+        "D": "Mempertahankan satu bentuk negara kesatuan",
+        "E": "Menjaga satu kebudayaan luhur nusantara"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Ikrar Sumpah Pemuda 1928 menegaskan komitmen **Satu Nusa, Satu Bangsa, dan menjunjung tinggi bahasa persatuan Bahasa Indonesia**.",
+        "alasan_kunci": "Opsi A tepat karena naskah ikrar Sumpah Pemuda 1928 butir ketiga berbunyi menjunjung tinggi bahasa persatuan, bahasa Indonesia. Kedudukan bahasa persatuan berfungsi sebagai sarana integrasi komunikasi lintas etnis di seluruh kepulauan nusantara. Ketetapan ini memposisikan bahasa Indonesia sebagai identitas kebangsaan yang inklusif.",
+        "bedah_pengecoh": {
+          "B": "Menetapkan satu bendera Merah Putih merupakan materi kesepakatan simbol kenegaraan yang dikukuhkan pada sidang PPKI 1945.",
+          "C": "Mengakui satu ideologi negara Pancasila dirumuskan pada masa persiapan kemerdekaan tahun 1945.",
+          "D": "Mempertahankan bentuk kesatuan merupakan komitmen ketatanegaraan yang ditetapkan dalam UUD 1945.",
+          "E": "Menjaga kebudayaan luhur merupakan muatan pasal pemajuan kebudayaan nasional dalam Pasal 32 UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 89,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "tonggak sejarah, bersatu padu memproklamasikan kemerdekaan pada tanggal 17"
+      ],
+      "topik_materi": "Proklamasi Kemerdekaan 17 Agustus 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Puncak pencapaian sudut pandang kebangsaan Indonesia dalam wujud persatuan memproklamasikan kemerdekaan terjadi pada...",
+      "pilihan": {
+        "A": "Tanggal 20 Mei 1908",
+        "B": "Tanggal 17 Agustus 1945",
+        "C": "Tanggal 1 Juni 1945",
+        "D": "Tanggal 28 Oktober 1928",
+        "E": "Tanggal 18 Agustus 1945"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Sudut pandang kebangsaan mencapai **tonggak sejarah kemerdekaan pada tanggal 17 Agustus 1945** saat proklamasi dikumandangkan.",
+        "alasan_kunci": "Opsi B tepat karena pembacaan naskah Proklamasi Kemerdekaan pada 17 Agustus 1945 menandai puncak kulminasi perjuangan bangsa Indonesia. Peristiwa agung ini merealisasikan tekad persatuan kebangsaan menjadi entitas negara yang merdeka dan berdaulat. Momen bersejarah tersebut mengakhiri masa kolonialisme di nusantara.",
+        "bedah_pengecoh": {
+          "A": "Tanggal 20 Mei 1908 merupakan hari lahirnya organisasi Budi Utomo sebagai awal pergerakan nasional.",
+          "C": "Tanggal 1 Juni 1945 merupakan momentum pidato Sukarno mengenai prinsip dasar Pancasila di sidang BPUPK.",
+          "D": "Tanggal 28 Oktober 1928 merupakan ikrar bersejarah Sumpah Pemuda dalam menyatukan tekad pemuda.",
+          "E": "Tanggal 18 Agustus 1945 merupakan momentum penetapan UUD 1945 dan pemilihan Presiden serta Wakil Presiden."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 90,
+      "halaman_sumber": 64,
+      "kata_kunci_modul": [
+        "tekad yang bersumber dari nilai-nilai budaya bangsa serta disemangati oleh cita-cita"
+      ],
+      "topik_materi": "Sumber Nilai Konsepsi Kebangsaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Gagasan, sikap, dan tekad konsepsi kebangsaan Indonesia bersumber dari perpaduan luhur antara...",
+      "pilihan": {
+        "A": "Hukum adat suku bangsa dan perjanjian internasional",
+        "B": "Sistem hukum kolonial dan doktrin militer barat",
+        "C": "Nilai budaya bangsa dan cita-cita moral rakyat",
+        "D": "Kepentingan ekonomi daerah dan persaingan dagang",
+        "E": "Peraturan birokrasi kerajaan dan petunjuk diplomatik"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Konsepsi kebangsaan bersumber dari **nilai-nilai budaya bangsa serta disemangati oleh cita-cita moral rakyat yang luhur**.",
+        "alasan_kunci": "Opsi C tepat karena falsafah kebangsaan Indonesia digali langsung dari khazanah nilai budaya leluhur serta aspirasi moral rakyat. Perpaduan ini membentuk daya lentur batiniah bangsa dalam menghadapi aneka tantangan zaman. Sumber nilai kultural tersebut menjadi jiwa pemersatu identitas keindonesiaan.",
+        "bedah_pengecoh": {
+          "A": "Hukum adat dan perjanjian internasional merupakan instrumen legal yuridis, bukan sumber spiritual konsepsi kebangsaan.",
+          "B": "Sistem kolonial dan doktrin militer asing bertentangan dengan semangat kemerdekaan dan kepribadian bangsa.",
+          "D": "Kepentingan ekonomi dan persaingan dagang bersifat pragmatis sektoral dan bukan cita-cita luhur bangsa.",
+          "E": "Peraturan birokrasi kerajaan mencerminkan tata kelola feodal yang telah bertransformasi menjadi negara kesatuan modern."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 91,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "hasil mewawas, tinjauan, pandangan"
+      ],
+      "topik_materi": "Etimologi Istilah Wawasan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Kamus Besar Bahasa Indonesia, secara etimologis istilah 'wawasan' mengandung pengertian...",
+      "pilihan": {
+        "A": "Aturan tertulis dalam pergaulan masyarakat",
+        "B": "Ketetapan hukum bagi penyelenggara negara",
+        "C": "Kemampuan diplomasi dalam hubungan luar negeri",
+        "D": "Kekuatan militer untuk menjaga batas wilayah",
+        "E": "Hasil mewawas, tinjauan, atau cara pandang"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Secara etimologis istilah **wawasan** berarti: (1) **hasil mewawas, tinjauan, pandangan** dan (2) **konsepsi cara pandang**.",
+        "alasan_kunci": "Opsi E tepat karena etimologi kata wawasan merujuk pada aktivitas memandang, meninjau, serta merumuskan cara pandang terhadap realitas. Pengertian ini menjadi dasar pembentukan kerangka berpikir strategis bagi warga negara dalam melihat lingkungan kehidupannya. Konsep wawasan menekankan ketajaman sudut pandang kognitif.",
+        "bedah_pengecoh": {
+          "A": "Aturan tertulis merujuk pada norma hukum positif atau tata tertib sosial.",
+          "B": "Ketetapan hukum bagi penyelenggara negara berkaitan dengan regulasi administrasi pemerintahan.",
+          "C": "Kemampuan diplomasi merujuk pada kompetensi negosiasi antar-bangsa.",
+          "D": "Kekuatan militer merujuk pada instrumen pertahanan negara fisik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 92,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "mencapai tujuan nasional yang mencakup perwujudan kepulauan nusantara sebagai"
+      ],
+      "topik_materi": "Hubungan Wawasan Kebangsaan dan Wawasan Nusantara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Wawasan Kebangsaan sangat identik dengan Wawasan Nusantara yang memandang kepulauan nusantara sebagai kesatuan...",
+      "pilihan": {
+        "A": "Politik, sosial budaya, ekonomi, dan hankam",
+        "B": "Politik, birokrasi, moneter, dan agraria daerah",
+        "C": "Pendidikan, perniagaan, transportasi, dan maritim",
+        "D": "Kewilayahan, kehutanan, pertambangan, dan industri",
+        "E": "Peradilan, kepolisian, kepabeanan, dan perpajakan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Wawasan Nusantara mewujudkan kepulauan nusantara sebagai **kesatuan politik, sosial budaya, ekonomi, dan pertahanan keamanan (hankam)**.",
+        "alasan_kunci": "Opsi A tepat karena konsepsi Wawasan Nusantara memandang seluruh ruang geografis Indonesia terintegrasi secara utuh dalam aspek politik, sosial budaya, ekonomi, dan hankam. Pandangan holistik ini meniadakan pemisahan antar-pulau dan menyatukan tekad kebangsaan menuju tujuan nasional. Kesatuan multidimensi ini menjadi ciri khas geopolitik Indonesia.",
+        "bedah_pengecoh": {
+          "B": "Birokrasi, moneter, dan agraria merupakan instrumen sektoral dalam manajemen teknis pemerintahan.",
+          "C": "Pendidikan, perniagaan, dan maritim merupakan subsistem fungsional yang berada di bawah kesatuan nasional.",
+          "D": "Kewilayahan, kehutanan, dan industri merupakan pengelompokan pemanfaatan sumber daya alam fisik.",
+          "E": "Peradilan, kepolisian, dan perpajakan merupakan aparat penegak hukum dan fiskal negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 93,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "Indonesia (2002) berarti kelompok masyarakat yang bersamaan asal keturunan, adat,"
+      ],
+      "topik_materi": "Definisi Bangsa Menurut KBBI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kelompok masyarakat yang bersamaan asal keturunan, adat, bahasa, dan sejarahnya serta berpemerintahan sendiri disebut...",
+      "pilihan": {
+        "A": "Masyarakat madani",
+        "B": "Bangsa",
+        "C": "Kelompok etnis",
+        "D": "Paguyuban warga",
+        "E": "Golongan sosial"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Menurut KBBI, **bangsa** adalah **kelompok masyarakat yang bersamaan asal keturunan, adat, bahasa, dan sejarahnya, serta berpemerintahan sendiri**.",
+        "alasan_kunci": "Opsi B tepat karena definisi leksikal kata bangsa merujuk pada persekutuan hidup manusia yang disatukan oleh ikatan sejarah, tradisi, bahasa, dan kedaulatan politik bersama. Unsur pemerintahan mandiri menegaskan status bangsa sebagai subjek dalam tatanan ketatanegaraan. Istilah ini menjadi dasar pembentukan konsep kebangsaan.",
+        "bedah_pengecoh": {
+          "A": "Masyarakat madani merujuk pada masyarakat beradab yang menjunjung hukum, partisipasi, dan kebebasan sipil.",
+          "C": "Kelompok etnis menitikberatkan pada kesamaan geneologis dan tradisi lokal tanpa syarat berpemerintahan sendiri.",
+          "D": "Paguyuban warga merujuk pada perhimpunan sosial berbasis ikatan batiniah kekeluargaan yang bersifat lokal.",
+          "E": "Golongan sosial merujuk pada stratifikasi kelompok masyarakat berdasarkan status ekonomi atau profesi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 94,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "mengandung arti (1) ciri-ciri yang menandai golongan bangsa, (2) perihal bangsa;"
+      ],
+      "topik_materi": "Makna Kata Kebangsaan Menurut KBBI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan tinjauan leksikal, salah satu makna dari kata 'kebangsaan' adalah...",
+      "pilihan": {
+        "A": "Kepemilikan hak atas tanah adat di suatu daerah",
+        "B": "Status kepangkatan pegawai di lingkungan pemerintahan",
+        "C": "Ciri-ciri yang menandai suatu golongan bangsa",
+        "D": "Kewenangan mutlak penguasa atas rakyat jelata",
+        "E": "Tata cara pelaksanaan pemungutan suara nasional"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kata **kebangsaan** mengandung arti: (1) **ciri-ciri yang menandai golongan bangsa**, (2) perihal bangsa, dan (3) kesadaran diri sebagai warga negara.",
+        "alasan_kunci": "Opsi C tepat karena ciri penanda suatu golongan bangsa merupakan makna definitif pertama kata kebangsaan dalam kamus bahasa. Ciri-ciri pembeda ini mencerminkan karakteristik kepribadian serta identitas kolektif yang membedakannya dari persekutuan bangsa lain. Pemahaman ini mempertegas identitas keindonesiaan.",
+        "bedah_pengecoh": {
+          "A": "Kepemilikan hak atas tanah adat berkaitan dengan hukum agraria adat (hak ulayat).",
+          "B": "Status kepangkatan merupakan domain hierarki kepegawaian dalam manajemen aparatur sipil negara.",
+          "D": "Kewenangan mutlak penguasa mencerminkan sistem monarki absolut yang ditolak oleh demokrasi Pancasila.",
+          "E": "Tata cara pemungutan suara merupakan ranah teknis hukum kepemiluan umum."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 95,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "konsepsi cara pandang yang dilandasi akan kesadaran diri sebagai warga dari suatu"
+      ],
+      "topik_materi": "Definisi Umum Wawasan Kebangsaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsepsi cara pandang yang dilandasi oleh kesadaran diri warga negara terhadap diri dan lingkungannya dalam bernegara disebut...",
+      "pilihan": {
+        "A": "Wawasan Nusantara",
+        "B": "Wawasan Kedaerahan",
+        "C": "Ketahanan Nasional",
+        "D": "Wawasan Kebangsaan",
+        "E": "Kewaspadaan Nasional"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Wawasan kebangsaan** diartikan sebagai **konsepsi cara pandang yang dilandasi kesadaran diri sebagai warga dari suatu negara akan diri dan lingkungannya**.",
+        "alasan_kunci": "Opsi D tepat karena rumusan tersebut merupakan definisi konseptual umum dari wawasan kebangsaan dalam kehidupan berbangsa dan bernegara. Kesadaran diri warga negara mengarahkan cara bersikap dan berperilaku demi kebaikan bersama bangsa. Definisi ini menjadi pijakan dasar pembinaan jiwa nasionalisme aparatur.",
+        "bedah_pengecoh": {
+          "A": "Wawasan Nusantara lebih menekankan geopolitik kepulauan Indonesia sebagai satu kesatuan utuh kepulauan nusantara.",
+          "B": "Wawasan kedaerahan merupakan cara pandang partikularistik yang memprioritaskan kepentingan kelompok lokal.",
+          "C": "Ketahanan Nasional menitikberatkan pada kondisi dinamis keuletan dan ketangguhan bangsa menghadapi ancaman.",
+          "E": "Kewaspadaan Nasional berkaitan dengan kesiapsiagaan menghadapi potensi gangguan keamanan dan stabilitas."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 96,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "Prof. Muladi, mantan Gubernur Lemhannas RI, meyampaikan bahwa wawasan"
+      ],
+      "topik_materi": "Definisi Wawasan Kebangsaan Menurut Prof. Muladi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tokoh akademisi mantan Gubernur Lemhannas RI yang merumuskan definisi wawasan kebangsaan berorientasi persatuan wilayah adalah...",
+      "pilihan": {
+        "A": "Prof. B.J. Habibie",
+        "B": "Prof. Jimly Asshiddiqie",
+        "C": "Prof. Miriam Budiardjo",
+        "D": "Prof. Mochtar Kusumaatmadja",
+        "E": "Prof. Muladi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Menurut **Prof. Muladi (mantan Gubernur Lemhannas RI)**, wawasan kebangsaan adalah cara pandang bangsa mengutamakan kesatuan dan persatuan wilayah.",
+        "alasan_kunci": "Opsi E tepat karena Prof. Muladi memberikan sumbangan pemikiran teoretis yang otoritatif mengenai wawasan kebangsaan saat memimpin Lemhannas. Beliau merumuskan konsep integrasi nasional yang memadukan dimensi kultural dan struktural kehidupan bernegara. Pemikiran ini menjadi rujukan baku dalam kurikulum kebangsaan.",
+        "bedah_pengecoh": {
+          "A": "Prof. B.J. Habibie dikenal luas atas kepeloporan transformasi industri dirgantara dan teknologi nasional.",
+          "B": "Prof. Jimly Asshiddiqie merupakan ketua Mahkamah Konstitusi pertama dan pakar hukum tata negara.",
+          "C": "Prof. Miriam Budiardjo adalah pakar ilmu politik terkemuka dengan karya dasar-dasar ilmu politik.",
+          "D": "Prof. Mochtar Kusumaatmadja adalah perumus konsep negara kepulauan dalam hukum laut internasional (Deklarasi Djuanda)."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 97,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "atau integrasi nasional bersifat kultural dan tidak hanya bernuansa struktural"
+      ],
+      "topik_materi": "Sifat Integrasi Nasional Menurut Prof. Muladi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menurut Prof. Muladi, integrasi nasional bangsa Indonesia dalam penyelenggaraan negara pada hakikatnya bersifat...",
+      "pilihan": {
+        "A": "Kultural dan bukan sekadar bernuansa struktural",
+        "B": "Kultural dan tidak bernuansa struktural",
+        "C": "Birokratis formal dan seremonial protokoler",
+        "D": "Struktural hierarkis tanpa dimensi kultural",
+        "E": "Yuridis normatif semata dalam perundangan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kesatuan atau **integrasi nasional bersifat kultural dan bukan sekadar bernuansa struktural**, melingkupi kesatuan ideologi hingga hankam.",
+        "alasan_kunci": "Opsi A tepat karena integrasi nasional tidak sekadar menyatukan lembaga formal pemerintahan (struktural), tetapi harus berakar pada ikatan hati, budaya, dan kesadaran batiniah masyarakat (kultural). Keterpaduan dua dimensi ini menjamin keutuhan negara dari ancaman kerapuhan institusional. Pendekatan kultural mengokohkan bangunan struktur kenegaraan.",
+        "bedah_pengecoh": {
+          "B": "Kultural dan tidak bernuansa struktural keliru karena Prof. Muladi tetap mengakui pentingnya keteraturan struktur kelembagaan.",
+          "C": "Birokratis formal dan seremonial bersifat mekanis permukaan dan tidak menjamin kelanggengan persatuan sejati.",
+          "D": "Struktural hierarkis tanpa dimensi kultural merupakan pendekatan otoriter yang menafikan kemajemukan budaya rakyat.",
+          "E": "Yuridis normatif semata terlalu sempit karena integrasi membutuhkan penerimaan nilai-nilai hidup di masyarakat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 98,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "kesatuan ekonomi, dan kesatuan pertahanan dan keamanan."
+      ],
+      "topik_materi": "Cakupan Integrasi Nasional Menurut Prof. Muladi",
+      "level_kognitif": "C4 - Analisis",
+      "pertanyaan": "Nuansa kesatuan nasional yang dirumuskan oleh Prof. Muladi mencakup lima aspek strategis kehidupan bernegara, KECUALI...",
+      "pilihan": {
+        "A": "Kesatuan ideologi",
+        "B": "Kesatuan kartel pasar komoditas",
+        "C": "Kesatuan sosial budaya",
+        "D": "Kesatuan ekonomi dan hankam",
+        "E": "Kesatuan politik"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Integrasi nasional menurut Prof. Muladi mencakup satu **kesatuan ideologi, politik, sosial budaya, ekonomi, dan pertahanan keamanan**.",
+        "alasan_kunci": "Opsi B tepat sebagai pengecualian karena pembentukan kartel pasar merupakan praktik monopoli yang merusak keadilan ekonomi nasional dan bertentangan dengan asas demokrasi ekonomi. Lima aspek kesatuan yang dirumuskan mencakup bidang ideologi, politik, sosial budaya, ekonomi, dan hankam. Wawasan kebangsaan mengarahkan potensi ekonomi demi kesejahteraan bersama.",
+        "bedah_pengecoh": {
+          "A": "Kesatuan ideologi merupakan konsensus bersama atas falsafah Pancasila sebagai pandangan hidup bangsa.",
+          "C": "Kesatuan sosial budaya merupakan perwujudan semboyan Bhinneka Tunggal Ika dalam keragaman adat tradisi.",
+          "D": "Kesatuan ekonomi dan hankam merupakan keterpaduan kemakmuran pasar nusantara dan sistem pertahanan semesta.",
+          "E": "Kesatuan politik merupakan konsensus kedaulatan dalam bingkai Negara Kesatuan Republik Indonesia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 99,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "dalam mencapai cita-cita dan menjamin kepentingan nasional. Wawasan kebangsaan"
+      ],
+      "topik_materi": "Fungsi Wawasan Kebangsaan bagi Bangsa",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Wawasan kebangsaan berfungsi menentukan cara bangsa mendayagunakan seluruh potensi dan kondisi geografi guna...",
+      "pilihan": {
+        "A": "Mendominasi kekuatan politik di kawasan regional",
+        "B": "Menghapus otonomi daerah demi sentralisasi penuh",
+        "C": "Mencapai cita-cita dan menjamin kepentingan nasional",
+        "D": "Menandingi kekuatan ekonomi negara adidaya",
+        "E": "Membatasi arus perdagangan barang dan jasa luar"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Wawasan kebangsaan menentukan cara bangsa **mendayagunakan kondisi geografis, sejarah, sosio-budaya, ekonomi, politik, dan hankam dalam mencapai cita-cita dan menjamin kepentingan nasional**.",
+        "alasan_kunci": "Opsi C tepat karena fungsi utama wawasan kebangsaan adalah memandu pendayagunaan segenap modalitas bangsa untuk merealisasikan cita-cita kemerdekaan serta menjaga kepentingan nasional. Konsepsi ini memberikan arah dan pedoman strategis bagi perumusan kebijakan pembangunan nasional. Hal ini menegaskan orientasi kemaslahatan seluruh rakyat.",
+        "bedah_pengecoh": {
+          "A": "Mendominasi politik regional bertentangan dengan politik luar negeri bebas aktif yang mengutamakan perdamaian.",
+          "B": "Menghapus otonomi daerah bertentangan dengan asas desentralisasi yang dijamin oleh Pasal 18 UUD 1945.",
+          "D": "Menandingi negara adidaya merupakan persaingan hegemonik yang bukan tujuan berdirinya republik Indonesia.",
+          "E": "Membatasi arus perdagangan bertentangan dengan prinsip kerja sama ekonomi global yang saling menguntungkan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 100,
+      "halaman_sumber": 65,
+      "kata_kunci_modul": [
+        "berbagai potensi bangsa."
+      ],
+      "topik_materi": "Komitmen dan Tuntutan Wawasan Kebangsaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Wawasan kebangsaan menghendaki adanya pengetahuan yang memadai bagi setiap warga negara mengenai...",
+      "pilihan": {
+        "A": "Pola alokasi proyek konstruksi fisik di kementerian",
+        "B": "Kelemahan lawan politik dalam persaingan kekuasaan",
+        "C": "Strategi pembentukan opini massa melalui media sosial",
+        "D": "Tantangan masa kini dan mendatang serta potensi bangsa",
+        "E": "Rincian tata tertib protokoler perjamuan dinas resmi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Wawasan kebangsaan **menghendaki pengetahuan yang memadai tentang tantangan masa kini dan masa mendatang serta berbagai potensi bangsa**.",
+        "alasan_kunci": "Opsi D tepat karena wawasan kebangsaan menuntut warga negara dan aparatur memahami lanskap ancaman dan peluang masa depan secara komprehensif. Pengenalan potensi bangsa yang disertai pemahaman atas tantangan zaman menumbuhkan daya antisipasi strategis yang tangguh. Pengetahuan memadai ini menjamin keberlanjutan eksistensi bangsa.",
+        "bedah_pengecoh": {
+          "A": "Pola alokasi proyek merupakan aspek teknis operasional pengadaan barang dan jasa instansi.",
+          "B": "Kelemahan lawan politik mencerminkan intrik kekuasaan sempit yang tidak selaras dengan wawasan kebangsaan.",
+          "C": "Strategi pembentukan opini massa berkaitan dengan teknik hubungan masyarakat atau propaganda komunikasi.",
+          "E": "Rincian tata tertib protokoler berkaitan dengan tata laksana keprotokolan kenegaraan formal."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    }
+  ]
+}

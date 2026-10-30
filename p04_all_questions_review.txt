@@ -1,0 +1,1000 @@
+=== Q1 (Hlm 35) Key: A ===
+Topik: Pemberdayaan Unit Kepatuhan Internal (UKI)
+KW: ['Memberdayakan Unit Kepatuhan Internal untuk', 'meningkatkan efektivitas tata kelola, manajemen risiko, dan pengendalian intern']
+Q: Dalam rangka memperkuat tata kelola instansi, pimpinan unit dihimbau memberdayakan UKI untuk...
+  (*) [A] Meningkatkan efektivitas tata kelola dan manajemen risiko
+      [B] Menyusun pembukuan keuangan pribadi seluruh staf kantor
+      [C] Menghadiri acara seremonial di luar lingkungan kedinasan
+      [D] Mengurangi alokasi anggaran perjalanan dinas pengawasan
+      [E] Mengambil alih fungsi penuntutan pidana di pengadilan
+
+=== Q2 (Hlm 35) Key: B ===
+Topik: Kemitraan Konstruktif dengan Inspektorat Jenderal
+KW: ['Membangun hubungan kemitraan yang konstruktif', 'dengan Inspektorat Jenderal dalam pelaksanaan pengawasan intern']
+Q: Sikap yang wajib dibangun oleh pimpinan unit kerja terhadap Inspektorat Jenderal dalam pengawasan intern adalah...
+      [A] Membatasi akses data dan informasi pengawasan kantor
+  (*) [B] Membangun hubungan kemitraan yang konstruktif dan sinergis
+      [C] Menunda rekomendasi perbaikan hasil audit pengawasan
+      [D] Meminta perlindungan hukum khusus bagi aparatur terperiksa
+      [E] Menyimpan catatan hasil pemeriksaan secara rahasia pribadi
+
+=== Q3 (Hlm 35) Key: C ===
+Topik: Internalisasi Kode Etik dan Disiplin
+KW: ['Menginternalisasi Nilai-Nilai Kementerian Keuangan dan ketentuan-ketentuan yang berhubungan dengan', 'penegakan kode etik dan disiplin kepada seluruh pegawai di lingkungan kerjanya']
+Q: Kewajiban pimpinan unit kerja terkait penegakan aturan perilaku kepada seluruh jajaran stafnya adalah...
+      [A] Memberikan keringanan sanksi bagi staf yang berprestasi
+      [B] Menyerahkan urusan kedisiplinan kepada bagian keamanan luar
+  (*) [C] Menginternalisasi nilai serta penegakan kode etik dan disiplin
+      [D] Menunda peneguran langsung demi menjaga keakraban pribadi
+      [E] Menghapus ketentuan jam kehadiran kerja saat akhir tahun
+
+=== Q4 (Hlm 35) Key: D ===
+Topik: Tujuan Relevansi Himbauan Surat Edaran
+KW: ['meningkatkan disiplin dan mencegah terjadinya potensi-potensi perbuatan yang dapat mengarah pada', 'pelanggaran disiplin dan pelanggaran hukum']
+Q: Himbauan penerapan nilai dalam Surat Edaran menjadi sangat relevan terutama ditujukan untuk...
+      [A] Mempercepat proses mutasi pegawai ke kota-kota besar
+      [B] Menaikkan alokasi anggaran belanja modal satuan kerja
+      [C] Menghapus kewajiban pelaporan harta kekayaan aparatur
+  (*) [D] Meningkatkan disiplin dan mencegah potensi pelanggaran hukum
+      [E] Mengurangi interaksi kerja dengan kementerian lembaga lain
+
+=== Q5 (Hlm 35) Key: E ===
+Topik: Sasaran Terpeliharanya Tata Tertib
+KW: ['menjamin terpeliharanya tata tertib dalam kelancaran pelaksanaan tugas dan fungsi', 'seluruh pegawai Kementerian Keuangan tanpa terkecuali']
+Q: Penggiatan penerapan Nilai Kementerian Keuangan ditujukan untuk menjamin terpeliharanya tata tertib bagi...
+      [A] Aparatur sipil negara yang bertugas di kantor pusat saja
+      [B] Pejabat eselon yang mengelola anggaran bernilai miliaran
+      [C] Pegawai negeri sipil yang sedang diusulkan kenaikan pangkat
+      [D] Tenaga honorer dan pegawai paruh waktu di daerah
+  (*) [E] Seluruh pegawai Kementerian Keuangan tanpa terkecuali
+
+=== Q6 (Hlm 35) Key: A ===
+Topik: Latar Belakang Penerbitan PMK 190/2018
+KW: ['dilatarbelakangi oleh adanya perubahan teknologi, nilai etika, budaya', 'dan perilaku yang terjadi di masyarakat']
+Q: Terbitnya PMK Nomor 190/PMK.01/2018 tentang Kode Etik dilatarbelakangi secara sosiologis oleh adanya...
+  (*) [A] Perubahan teknologi, nilai etika, budaya, dan perilaku publik
+      [B] Penurunan penerimaan negara dari sektor bea kepabeanan
+      [C] Pergantian seluruh perangkat lunak aplikasi kantor dinas
+      [D] Desakan dari organisasi perburuhan luar kementerian
+      [E] Pengurangan alokasi anggaran operasional pengawasan
+
+=== Q7 (Hlm 35) Key: B ===
+Topik: Tujuan Utama Penerbitan PMK 190/2018
+KW: ['ditujukan untuk mencegah pelanggaran disiplin pegawai Kementerian Keuangan, serta', 'menjaga martabat dan kehormatan Pegawai Negeri Sipil di lingkungan Kementerian Keuangan']
+Q: Selain mencegah pelanggaran disiplin, tujuan utama penerbitan PMK Nomor 190/PMK.01/2018 adalah...
+      [A] Menjamin kenaikan pangkat otomatis seluruh pegawai berkala
+  (*) [B] Menjaga martabat dan kehormatan PNS Kementerian Keuangan
+      [C] Membatasi kebebasan berpendapat dalam musyawarah kedinasan
+      [D] Menambah beban jam kerja lembur pegawai di kantor vertikal
+      [E] Menyederhanakan struktur organisasi eselon satu kementerian
+
+=== Q8 (Hlm 36) Key: C ===
+Topik: Definisi Nilai Integritas dalam PMK 190/2018
+KW: ['Integritas, berarti seluruh pegawai harus', 'berpikir, berkata, berperilaku, dan bertindak dengan baik dan benar serta selalu memegang teguh Kode Etik dan prinsip-prinsip moral']
+Q: Makna nilai Integritas yang ditegaskan kembali dalam PMK Nomor 190/PMK.01/2018 adalah...
+      [A] Kepatuhan mutlak pada perintah atasan tanpa pertimbangan
+      [B] Pencapaian target penerimaan kas negara dengan segala cara
+  (*) [C] Berpikir, berkata, berperilaku, dan bertindak baik serta benar
+      [D] Penyelesaian tugas kedinasan kantor sebelum batas jadwal
+      [E] Pemberian bantuan finansial kepada rekan kerja seprofesi
+
+=== Q9 (Hlm 36) Key: D ===
+Topik: Definisi Nilai Profesionalisme dalam PMK 190/2018
+KW: ['Profesionalisme, berarti seluruh pegawai harus', 'bekerja dengan tuntas dan akurat berdasarkan kompetensi terbaik dan penuh tanggung jawab']
+Q: Nilai Profesionalisme dalam PMK Nomor 190/PMK.01/2018 diartikan sebagai keharusan pegawai untuk...
+      [A] Menghafal seluruh nama pejabat eselon di kantor pusat dinas
+      [B] Membatasi waktu penyelesaian tugas rutin harian kantor
+      [C] Menerima penugasan dinas ke luar kota secara terus menerus
+  (*) [D] Bekerja tuntas dan akurat berdasar kompetensi terbaik
+      [E] Memiliki gelar akademik tertinggi dari perguruan tinggi ternama
+
+=== Q10 (Hlm 36) Key: E ===
+Topik: Definisi Nilai Sinergi dalam PMK 190/2018
+KW: ['Sinergi, berarti seluruh pegawai harus berkomitmen untuk', 'membangun dan memastikan hubungan kerja sama internal yang produktif serta kemitraan yang harmonis']
+Q: Definisi nilai Sinergi dalam PMK Nomor 190/PMK.01/2018 menekankan komitmen seluruh pegawai untuk...
+      [A] Menyeragamkan pandangan pribadi seluruh anggota organisasi
+      [B] Mengutamakan kepentingan unit kerja sendiri di atas yang lain
+      [C] Melimpahkan pekerjaan sulit kepada unit eselon satu lainnya
+      [D] Menyalurkan komunikasi kedinasan via nota dinas tertulis
+  (*) [E] Membangun kerja sama internal produktif dan kemitraan harmonis
+
+=== Q11 (Hlm 36) Key: A ===
+Topik: Kewajiban Menjaga Citra Kementerian
+KW: ['Menjaga citra, harkat, dan martabat Kementerian Keuangan', 'baik formal maupun informal di dalam maupun di luar negeri']
+Q: Kewajiban kode perilaku nilai integritas terkait reputasi lembaga mengamanatkan pegawai untuk...
+  (*) [A] Menjaga citra, harkat, dan martabat di forum dalam dan luar negeri
+      [B] Mempromosikan pencapaian pribadi pegawai di media massa lokal
+      [C] Menyamarkan identitas instansi tempat bekerja kepada publik
+      [D] Membela rekan kerja seunit yang terbukti berbuat kekeliruan
+      [E] Meminta penundaan tugas kedinasan ke luar wilayah kota dinas
+
+=== Q12 (Hlm 36) Key: B ===
+Topik: Kewajiban Netralitas Politik Pegawai
+KW: ['Bersikap netral dalam Pemilihan Calon Presiden dan Wakil Presiden', 'Kepala Daerah dan Wakil Kepala Daerah, serta Anggota Legislatif Pusat dan Daerah']
+Q: Dalam perhelatan pesta demokrasi pemilihan umum, kode etik nilai integritas mewajibkan aparatur untuk...
+      [A] Menjadi tim sukses kampanye calon kepala daerah setempat
+  (*) [B] Bersikap netral dalam pemilihan presiden, pilkada, dan pemilu legislatif
+      [C] Memfasilitasi kegiatan partai politik tertentu di aula kantor
+      [D] Mengunggah simbol dukungan calon legislatif di akun media sosial
+      [E] Mengarahkan pilihan politik warga binaan saat proses pelayanan
+
+=== Q13 (Hlm 36) Key: C ===
+Topik: Etika Pemanfaatan Media Sosial
+KW: ['Menggunakan media sosial', 'dengan bijak']
+Q: Terkait aktivitas di ranah digital internet, kode etik nilai integritas menginstruksikan pegawai untuk...
+      [A] Menyebarluaskan dokumen rancangan anggaran sebelum rilis
+      [B] Membatasi kepemilikan akun pada seluruh jaringan media maya
+  (*) [C] Menggunakan media sosial dengan bijak dan bertanggung jawab
+      [D] Mendebat opini warganet terkait kebijakan tarif cukai dinas
+      [E] Mengunggah foto fasilitas ruang kerja rahasia kantor dinas
+
+=== Q14 (Hlm 36) Key: D ===
+Topik: Ketentuan Perjalanan Pribadi ke Luar Negeri
+KW: ['Mengajukan permohonan izin setiap akan melakukan', 'perjalanan ke luar negeri untuk kepentingan pribadi']
+Q: Bagi pegawai yang berencana melakukan perjalanan ke luar negeri untuk kepentingan pribadi, ketentuan yang wajib ditaati adalah...
+      [A] Menitipkan tugas kantor kepada tenaga keamanan gedung
+      [B] Cukup memberitahukan kepada rekan sejawat lewat pesan singkat
+      [C] Melakukan perjalanan langsung tanpa perlu izin pimpinan unit
+  (*) [D] Mengajukan permohonan izin resmi setiap akan bepergian
+      [E] Menggunakan paspor dinas dinas diplomatik kementerian
+
+=== Q15 (Hlm 36) Key: E ===
+Topik: Larangan Pertemuan Berpotensi Konflik Kepentingan
+KW: ['Tidak menemui pihak yang berpotensi menimbulkan konflik kepentingan', 'kecuali karena penugasan']
+Q: Larangan integritas mengenai pertemuan dengan pihak yang berpotensi menimbulkan konflik kepentingan dikecualikan apabila...
+      [A] Pertemuan tersebut diadakan di restoran mewah luar kota
+      [B] Pihak yang ditemui berjanji memberikan bingkisan bantuan
+      [C] Pertemuan dilakukan atas dasar hubungan keluarga dekat
+      [D] Pegawai membutuhkan pinjaman dana keuangan mendesak
+  (*) [E] Pertemuan dilaksanakan resmi karena adanya surat penugasan
+
+=== Q16 (Hlm 37) Key: A ===
+Topik: Larangan Perundungan dan Pelecehan
+KW: ['Tidak bertindak sewenang-wenang, melakukan perundungan (bullying) dan/ atau pelecehan', 'terhadap pegawai atau pihak lain baik di dalam maupun di luar lingkungan kerja']
+Q: Larangan etika integritas terkait perlindungan martabat rekan kerja melarang perbuatan...
+  (*) [A] Bertindak sewenang-wenang, perundungan, dan pelecehan
+      [B] Memberikan penilaian kinerja objektif pada akhir tahun
+      [C] Menyampaikan koreksi teknis penulisan dokumen dinas
+      [D] Mengadakan rapat koordinasi percepatan proyek satker
+      [E] Mengingatkan batas waktu penyelesaian disposisi surat
+
+=== Q17 (Hlm 37) Key: B ===
+Topik: Larangan Memasuki Tempat Tidak Pantas
+KW: ['Tidak memasuki tempat yang dipandang tidak pantas secara etika dan moral', 'seperti tempat prostitusi dan perjudian, kecuali karena penugasan']
+Q: Pegawai dilarang memasuki tempat yang dinilai tidak pantas secara etika seperti prostitusi dan perjudian, KECUALI...
+      [A] Memperoleh undangan pesta ulang tahun dari kerabat swasta
+  (*) [B] Sedang melaksanakan tugas resmi kedinasan yang sah
+      [C] Ditemani oleh rekan seprofesi dalam rombongan dinas
+      [D] Memanfaatkan waktu libur cuti bersama akhir pekan
+      [E] Menyertai kunjungan pejabat pemerintah luar instansi
+
+=== Q18 (Hlm 37) Key: C ===
+Topik: Larangan Menunjukkan Gaya Hidup Hedonisme
+KW: ['Tidak menunjukkan gaya hidup hedonisme sebagai bentuk empati', 'kepada masyarakat terutama kepada sesama pegawai']
+Q: Larangan menunjukkan gaya hidup hedonisme bagi seluruh pegawai Kementerian Keuangan berakar dari prinsip...
+      [A] Penyeragaman jumlah saldo tabungan pribadi seluruh staf
+      [B] Kewajiban membeli barang dari koperasi kantor semata
+  (*) [C] Empati kepada masyarakat dan terhadap sesama pegawai
+      [D] Pembatasan hak kepemilikan kendaraan bermotor keluarga
+      [E] Penghitungan pajak penghasilan dengan tarif progresif
+
+=== Q19 (Hlm 37) Key: D ===
+Topik: Butir Pertama Kode Perilaku Profesionalisme
+KW: ['2. Kode Etik dan Kode Perilaku Nilai Profesionalisme meliputi', 'Mengutamakan kepentingan bangsa dan organisasi di atas kepentingan pribadi']
+Q: Butir pertama dalam Kode Etik dan Kode Perilaku Nilai Profesionalisme mewajibkan pegawai untuk...
+      [A] Menyelesaikan kursus bahasa asing dalam waktu singkat
+      [B] Memiliki ruang kerja khusus terpisah dari rekan lainnya
+      [C] Menyimpan seluruh tanda bukti belanja kegiatan kantor
+  (*) [D] Mengutamakan kepentingan bangsa dan organisasi di atas pribadi
+      [E] Menghadiri seminar internasional yang diadakan di luar kota
+
+=== Q20 (Hlm 37) Key: E ===
+Topik: Kepatuhan SOP dan Kewenangan Jabatan
+KW: ['Bekerja sesuai standar operasional prosedur', 'dan kewenangan jabatan']
+Q: Dalam pelaksanaan tugas sehari-hari, profesionalitas aparatur diwujudkan melalui keharusan bekerja sesuai...
+      [A] Kebiasaan tidak tertulis yang disepakati para pegawai senior
+      [B] Instruksi lisan rekan kerja yang memiliki golongan lebih tinggi
+      [C] Hasil jajak pendapat terbuka di grup percakapan pegawai
+      [D] Seleranya masing-masing demi efisiensi pengerjaan tugas
+  (*) [E] Standar operasional prosedur dan batas kewenangan jabatan
+
+=== Q21 (Hlm 37) Key: A ===
+Topik: Sikap Berani Mengakui Kesalahan
+KW: ['Berani mengakui kesalahan dan', 'bertanggung jawab atas pelaksanaan tugasnya']
+Q: Saat terjadi kekeliruan dalam pengetikan surat ketetapan dinas, sikap profesional yang harus ditunjukkan pegawai adalah...
+  (*) [A] Berani mengakui kesalahan dan bertanggung jawab memperbaikinya
+      [B] Menyalahkan staf magang yang membantu proses pencetakan berkas
+      [C] Meneruskan dokumen tersebut selama belum ada komplain dinas
+      [D] Menghapus riwayat pembuatan dokumen dari sistem komputer kantor
+      [E] Meminta rekan sejawat mengaku sebagai pembuat berkas keliru
+
+=== Q22 (Hlm 37) Key: B ===
+Topik: Kerapian Ruang Kerja dan Etika Merokok
+KW: ['Menjaga kebersihan, keamanan, dan kenyamanan ruang kerja, termasuk', 'tidak merokok di luar area merokok yang telah disediakan']
+Q: Terkait kenyamanan lingkungan kerja, ketentuan kode etik profesionalisme melarang pegawai untuk...
+      [A] Menempatkan tempat sampah tertutup di sudut ruangan kantor
+  (*) [B] Merokok di luar area merokok yang telah ditentukan kantor
+      [C] Membawa tanaman hias berukuran kecil ke meja kerja masing-masing
+      [D] Membersihkan layar komputer kerja sebelum memulai operasional
+      [E] Menggunakan lampu penerangan meja saat membaca berkas naskah
+
+=== Q23 (Hlm 37) Key: C ===
+Topik: Ketentuan Penggunaan Tindik (Piercing)
+KW: ['Tidak memakai tindik (piercing), kecuali', 'penggunaan di daun telinga khusus untuk pegawai perempuan atau karena alasan keagamaan']
+Q: Penggunaan tindik (piercing) bagi pegawai dilarang dalam kode etik profesionalisme, KECUALI...
+      [A] Penggunaan tindik pada alis mata untuk seluruh pegawai dinas
+      [B] Penggunaan tindik pada bibir bawah saat menghadiri rapat
+  (*) [C] Di daun telinga khusus pegawai perempuan atau alasan agama
+      [D] Penggunaan perhiasan tindik di hidung bagi seluruh aparatur
+      [E] Penggunaan anting ganda bertingkat pada daun telinga pria
+
+=== Q24 (Hlm 38) Key: D ===
+Topik: Larangan Bertato pada Tubuh Terbuka
+KW: ['Tidak bertato', 'di bagian tubuh yang terbuka']
+Q: Standar kerapian berpenampilan pada nilai profesionalisme melarang pegawai untuk...
+      [A] Mengenakan seragam dinas batik khas daerah pada hari jumat
+      [B] Memakai sepatu pantofel berwarna hitam di ruang kerja kantor
+      [C] Menyematkan lencana korps pegawai di dada sebelah kiri
+  (*) [D] Memiliki tato pada bagian tubuh yang terbuka terlihat
+      [E] Merapikan rambut sesuai ketentuan potongan dinas aparatur
+
+=== Q25 (Hlm 38) Key: E ===
+Topik: Penghormatan atas Keragaman dalam Nilai Sinergi
+KW: ['Menghormati dan menghargai perbedaan latar belakang, ras, warna kulit, agama', 'asal-usul, jenis kelamin, status pernikahan, umur, atau kondisi kecacatan']
+Q: Kode etik nilai Sinergi mewajibkan seluruh pegawai untuk menghormati dan menghargai perbedaan...
+      [A] Gaya berbusana mewah antar-keluarga pejabat eselon dinas
+      [B] Jumlah saldo tabungan pribadi antar-rekan di satu ruangan
+      [C] Pilihan merek kendaraan roda empat yang terparkir di kantor
+      [D] Besaran alokasi pagu anggaran belanja barang antar-satker
+  (*) [E] Ras, warna kulit, agama, jenis kelamin, dan disabilitas
+
+=== Q26 (Hlm 38) Key: A ===
+Topik: Toleransi Waktu Ibadah dalam Bertugas
+KW: ['Memberikan kesempatan untuk menunaikan ibadah', 'ketika rapat kerja atau tugas kedinasan sedang berlangsung']
+Q: Bentuk toleransi religius dalam kode etik nilai Sinergi saat rapat kerja sedang berlangsung adalah...
+  (*) [A] Memberikan kesempatan menunaikan ibadah tepat waktu
+      [B] Menunda waktu ibadah hingga seluruh agenda rapat selesai
+      [C] Melarang pegawai meninggalkan ruangan rapat dinas kantor
+      [D] Menggabungkan seluruh waktu ibadah di akhir jam dinas
+      [E] Membatalkan seluruh hasil kesepakatan rapat kerja unit
+
+=== Q27 (Hlm 38) Key: B ===
+Topik: Larangan Penyebaran Informasi Hoaks dan Permusuhan
+KW: ['Tidak menyebarkan informasi yang tidak dapat dibuktikan kebenarannya', 'menimbulkan rasa kebencian dan/ atau permusuhan']
+Q: Terkait arus peredaran informasi, kode etik sinergi melarang keras pegawai untuk menyebarkan...
+      [A] Peraturan menteri keuangan terbaru yang telah diundangkan
+  (*) [B] Informasi tak terbukti yang picu kebencian dan permusuhan
+      [C] Pengumuman jadwal seleksi pelatihan kompetensi pegawai
+      [D] Pedoman teknis penyusunan laporan keuangan kementerian
+      [E] Daftar pemenang lomba karya tulis ilmiah antar-kantor
+
+=== Q28 (Hlm 38) Key: C ===
+Topik: Orientasi Kesejahteraan Masyarakat dalam Nilai Pelayanan
+KW: ['4. Kode Etik dan Kode Perilaku Nilai Pelayanan meliputi', 'Berorientasi pada peningkatan kesejahteraan masyarakat dalam melaksanakan tugas']
+Q: Dalam kode etik nilai Pelayanan, pelaksanaan tugas kedinasan seluruh pegawai wajib berorientasi pada...
+      [A] Kecepatan menghabiskan sisa pagu belanja modal kantor
+      [B] Kemudahan bagi kerabat dekat untuk memperoleh izin usaha
+  (*) [C] Peningkatan kesejahteraan masyarakat luas dalam bertugas
+      [D] Pemberian penghargaan sertifikat bagi unit kerja sendiri
+      [E] Pengurangan frekuensi layanan tatap muka secara drastis
+
+=== Q29 (Hlm 38) Key: D ===
+Topik: Etika Menerima Tamu Non-Pekerjaan
+KW: ['Menerima pihak lain yang tidak terkait dengan pekerjaan di luar jam kerja atau pada jam kerja', 'dengan seizin atasan dan/atau sepanjang tidak mengganggu pekerjaan atau layanan']
+Q: Penerimaan tamu non-pekerjaan pada jam kerja diperbolehkan dalam kode etik pelayanan dengan syarat mutlak...
+      [A] Tamu tersebut merupakan pejabat dari kementerian lain
+      [B] Pertemuan dilakukan di ruang rapat utama kepala kantor
+      [C] Tamu membawa bingkisan makanan untuk seluruh anggota tim
+  (*) [D] Seizin atasan dan tidak mengganggu pekerjaan atau layanan
+      [E] Pegawai mencatat pertemuan dalam buku kas keuangan dinas
+
+=== Q30 (Hlm 38) Key: E ===
+Topik: Keterbukaan dalam Kode Etik Kesempurnaan
+KW: ['5. Kode Etik dan Kode Perilaku Nilai Kesempurnaan meliputi', 'Terbuka terhadap usulan perbaikan', 'Terbuka terhadap informasi atau pengetahuan baru']
+Q: Karakter keterbukaan yang wajib ditunjukkan pegawai dalam kode etik nilai Kesempurnaan meliputi keterbukaan atas...
+      [A] Bocoran naskah soal ujian seleksi promosi jabatan
+      [B] Kritik tanpa dasar yang bertujuan menjatuhkan rekan
+      [C] Permintaan penghapusan denda sanksi administratif pajak
+      [D] Pembukaan rahasia data keuangan negara kepada media
+  (*) [E] Usulan perbaikan serta informasi dan pengetahuan baru
+
+=== Q31 (Hlm 39) Key: A ===
+Topik: Larangan Menghalangi Kreativitas Organisasi
+KW: ['Tidak menghalangi kreativitas/gagasan/pendapat yang bernilai tambah', 'bagi kemajuan organisasi']
+Q: Kode etik nilai kesempurnaan melarang aparatur pimpinan maupun rekan kerja untuk...
+  (*) [A] Menghalangi kreativitas bernilai tambah bagi kemajuan instansi
+      [B] Melakukan evaluasi berkala atas mutu penyelesaian tugas dinas
+      [C] Memberikan masukan kritis dalam perbaikan sistem aplikasi kantor
+      [D] Menghadiri lokakarya pembahasan terobosan proses bisnis baru
+      [E] Mendorong rekan kerja menguasai peranti lunak teknologi baru
+
+=== Q32 (Hlm 39) Key: B ===
+Topik: Dua Fondasi Utama Penguatan Budaya 2022
+KW: ['Penguatan budaya di Kementerian Keuangan didasarkan pada', 'core values ASN BerAKHLAK dan Nilai-Nilai Kementerian Keuangan']
+Q: Penguatan budaya Kementerian Keuangan dalam KMK Nomor 429/KMK.01/2022 didasarkan pada perpaduan...
+      [A] Peraturan daerah dan adat istiadat suku setempat
+  (*) [B] Core Values ASN BerAKHLAK dan Nilai-Nilai Kemenkeu
+      [C] Instruksi kerja pimpinan perbankan swasta nasional
+      [D] Pedoman audit eksternal badan pemeriksa keuangan
+      [E] Ketentuan tata tertib kepegawaian negara sahabat
+
+=== Q33 (Hlm 39) Key: C ===
+Topik: Wujud Budaya Kementerian Keuangan Satu
+KW: ['terwujud dalam budaya Kementerian Keuangan Satu', '(Kemenkeu Satu) dan sejalan dengan Core Values ASN BerAKHLAK']
+Q: Pola pikir, sikap, dan kebiasaan pegawai dalam KMK Nomor 429/KMK.01/2022 diarahkan agar terwujud dalam budaya...
+      [A] Kompetisi Antar-Eselon yang Ketat
+      [B] Birokrasi Tradisional Berjenjang
+  (*) [C] Kementerian Keuangan Satu (Kemenkeu Satu)
+      [D] Kemandirian Unit Fiskal Terpisah
+      [E] Kepatuhan Seremonial Berkelanjutan
+
+=== Q34 (Hlm 39) Key: D ===
+Topik: Karakteristik Ekosistem Kerja yang Diharapkan
+KW: ['mendorong terciptanya ekosistem dan lingkungan kerja yang', 'kolaboratif, produktif, dan inovatif dengan tetap menjunjung tinggi etika dan integritas']
+Q: KMK Nomor 429/KMK.01/2022 ditujukan mendorong terciptanya ekosistem dan lingkungan kerja yang...
+      [A] Santai tanpa target capaian keluaran yang jelas
+      [B] Tertutup dari setiap akses pengawasan masyarakat
+      [C] Bergantung penuh pada arahan pimpinan di pusat
+  (*) [D] Kolaboratif, produktif, inovatif, beretika, dan berintegritas
+      [E] Tertutup dan membatasi pemanfaatan sarana teknologi
+
+=== Q35 (Hlm 39) Key: E ===
+Topik: Dua Instrumen Penguatan Budaya Kemenkeu
+KW: ['Penguatan Budaya Kemenkeu dilakukan dengan pembudayaan', 'Sikap Dasar dan Perilaku Efektif']
+Q: Penguatan Budaya Kementerian Keuangan dalam pelaksanaannya dilakukan melalui pembudayaan...
+      [A] Instruksi tertulis bertingkat dan sanksi pemotongan gaji
+      [B] Ujian kompetensi tertulis dan pembuatan karya ilmiah
+      [C] Pemasangan spanduk seremonial dan pembacaan ikrar apel
+      [D] Kegiatan olahraga mingguan dan senam kesegaran jasmani
+  (*) [E] Sikap Dasar dan Perilaku Efektif pada setiap nilai
+
+=== Q36 (Hlm 39) Key: A ===
+Topik: Pengertian dan Karakteristik Sikap Dasar
+KW: ['Sikap Dasar pegawai Kementerian Keuangan yang dimaksud dalam peraturan ini adalah', 'sekumpulan pikiran, perasaan, dan/atau kecenderungan seseorang untuk menyukai atau tidak menyukai sesuatu', 'secara tidak langsung terlihat namun harus dimiliki']
+Q: Yang dimaksud dengan Sikap Dasar pegawai dalam regulasi penguatan budaya adalah sekumpulan pikiran dan perasaan yang...
+  (*) [A] Secara tidak langsung terlihat namun harus dimiliki pegawai
+      [B] Dapat dicatat secara angka dalam daftar penilaian kehadiran
+      [C] Diwajibkan khusus bagi pejabat pengelola anggaran satker
+      [D] Dituliskan secara rinci dalam naskah sumpah janji aparatur
+      [E] Menghilang secara otomatis saat pegawai menyelesaikan masa tugas
+
+=== Q37 (Hlm 39) Key: B ===
+Topik: Pengertian dan Karakteristik Perilaku Efektif
+KW: ['Perilaku Efektif pegawai Kementerian Keuangan yang dimaksud adalah', 'sekumpulan perilaku atau gaya kerja yang berasal dari Sikap Dasar, dan bersifat secara langsung terlihat']
+Q: Karakteristik utama dari Perilaku Efektif pegawai Kementerian Keuangan dalam tata kelola aparatur adalah...
+      [A] Disimpan sebagai keyakinan batin yang dirahasiakan
+  (*) [B] Berasal dari sikap dasar dan bersifat langsung terlihat
+      [C] Membutuhkan alokasi anggaran khusus untuk memunculkannya
+      [D] Dipraktikkan sewaktu ada kegiatan inspeksi mendadak kantor
+      [E] Berlaku khusus pada saat perhelatan upacara bendera dinas
+
+=== Q38 (Hlm 40) Key: C ===
+Topik: Tiga Strategi Pembudayaan Budaya Kemenkeu
+KW: ['dilakukan dengan strategi', 'Internalisasi', 'Institusionalisasi', 'Eksternalisasi']
+Q: Pelaksanaan pembudayaan Sikap Dasar dan Perilaku Efektif dilakukan melalui tiga strategi utama, yaitu...
+      [A] Rasionalisasi, Efisiensi, dan Sentralisasi tugas dinas
+      [B] Sosialisasi, Sertifikasi, dan Terminasi kepegawaian
+  (*) [C] Internalisasi, Institusionalisasi, dan Eksternalisasi
+      [D] Formulasi, Implementasi, dan Evaluasi kinerja anggaran
+      [E] Perencanaan, Penganggaran, dan Pertanggungjawaban kas
+
+=== Q39 (Hlm 40) Key: D ===
+Topik: Definisi Strategi Internalisasi Budaya
+KW: ['Internalisasi, merupakan kegiatan atau upaya yang bertujuan', 'membentuk keyakinan/mindset diri agar terwujud dalam sikap/perilaku yang positif dalam organisasi']
+Q: Strategi pembudayaan yang bertujuan membentuk keyakinan atau mindset diri agar terwujud perilaku positif disebut...
+      [A] Institusionalisasi
+      [B] Eksternalisasi
+      [C] Restrukturisasi
+  (*) [D] Internalisasi
+      [E] Standardisasi
+
+=== Q40 (Hlm 40) Key: E ===
+Topik: Definisi Strategi Institusionalisasi Budaya
+KW: ['Institusionalisasi, merupakan kegiatan atau upaya yang bertujuan', 'menjadikan sekumpulan nilai, sikap, dan perilaku tertentu sebagai bagian yang melekat dan melembaga dalam organisasi']
+Q: Upaya menjadikan sekumpulan nilai melekat dan melembaga melalui penguatan regulasi serta reward and punishment disebut...
+      [A] Internalisasi
+      [B] Eksternalisasi
+      [C] Sentralisasi
+      [D] Rasionalisasi
+  (*) [E] Institusionalisasi
+
+=== Q41 (Hlm 40) Key: A ===
+Topik: Definisi Strategi Eksternalisasi Budaya
+KW: ['Eksternalisasi, merupakan kegiatan atau upaya yang bertujuan', 'mendorong dan memastikan pemahaman Budaya Kemenkeu oleh pihak di luar Kementerian Keuangan']
+Q: Strategi eksternalisasi budaya kementerian kepada para pemangku kepentingan di luar instansi diwujudkan melalui...
+  (*) [A] Keteladanan perilaku pegawai sebagai role models melayani
+      [B] Pemberian hibah dana bantuan sosial kepada masyarakat luas
+      [C] Pemasangan iklan niaga komersial di stasiun televisi swasta
+      [D] Pembatasan kunjungan tamu dinas ke kantor pelayanan daerah
+      [E] Penarikan biaya tarif layanan tambahan bagi pemohon eksternal
+
+=== Q42 (Hlm 40) Key: B ===
+Topik: Tanggung Jawab Pimpinan Unit Eselon I
+KW: ['Setiap pimpinan Unit Jabatan Pimpinan Tinggi Madya/Unit Organisasi Non Eselon di bawah Menteri Keuangan', 'penyampaian laporan pelaksanaannya kepada Biro SDM Sekretariat Jenderal']
+Q: Pimpinan Unit Jabatan Pimpinan Tinggi Madya wajib menyampaikan laporan pelaksanaan penguatan budaya kepada...
+      [A] Komisi Pemilihan Umum Republik Indonesia
+  (*) [B] Biro SDM Sekretariat Jenderal Kementerian Keuangan
+      [C] Badan Kepegawaian Negara Kantor Regional
+      [D] Lembaga Administrasi Negara Republik Indonesia
+      [E] Kementerian Koordinator Bidang Perekonomian
+
+=== Q43 (Hlm 40) Key: C ===
+Topik: Peran Biro SDM dalam Pengukuran Kematangan Budaya
+KW: ['Biro SDM Sekretariat Jenderal Kementerian Keuangan melakukan koordinasi pelaksanaan internalisasi', 'pemantauan, evaluasi, dan pengukuran tingkat kematangan Budaya Kemenkeu']
+Q: Unit yang bertugas melaksanakan koordinasi, evaluasi, dan pengukuran tingkat kematangan Budaya Kemenkeu adalah...
+      [A] Pusat Pengelolaan Barang Milik Negara
+      [B] Direktorat Surat Berharga Syariah Negara
+  (*) [C] Biro SDM Sekretariat Jenderal Kemenkeu
+      [D] Badan Pengawas Perdagangan Komoditas Berjangka
+      [E] Lembaga Pengelola Dana Pendidikan Nasional
+
+=== Q44 (Hlm 40) Key: D ===
+Topik: Muara Pelaporan Tingkat Kematangan Budaya
+KW: ['pengukuran tingkat kematangan Budaya Kemenkeu, serta', 'penyampaian laporan pelaksanaannya kepada Menteri Keuangan']
+Q: Hasil evaluasi dan pengukuran tingkat kematangan Budaya Kemenkeu pada tahap akhir dilaporkan kepada...
+      [A] Ketua Badan Pemeriksa Keuangan
+      [B] Gubernur Bank Sentral Indonesia
+      [C] Ketua Majelis Permusyawaratan Rakyat
+  (*) [D] Menteri Keuangan Republik Indonesia
+      [E] Kepala Kepolisian Negara Republik Indonesia
+
+=== Q45 (Hlm 41) Key: E ===
+Topik: Penyelarasan Akuntabel dan Loyal dengan Integritas
+KW: ['Akuntabel dan Loyal (Core Values ASN) selaras dengan', 'Integritas (nilai-nilai Kemenkeu)']
+Q: Dalam KMK Nomor 429/KMK.01/2022, Core Values ASN Akuntabel dan Loyal diselaraskan dengan nilai Kemenkeu...
+      [A] Sinergi
+      [B] Pelayanan
+      [C] Profesionalisme
+      [D] Kesempurnaan
+  (*) [E] Integritas
+
+=== Q46 (Hlm 41) Key: A ===
+Topik: Rumusan Sikap Dasar Nilai Integritas
+KW: ['Sikap Dasar: senantiasa amanah, jujur, disiplin, konsisten', 'dapat dipercaya, militan dalam bekerja']
+Q: Rumusan Sikap Dasar pada nilai Integritas yang selaras dengan Akuntabel dan Loyal adalah senantiasa...
+  (*) [A] Amanah, jujur, disiplin, konsisten, terpercaya, dan militan
+      [B] Santai, fleksibel, kompromistis, serta menyukai ketenangan
+      [C] Menunggu instruksi tertulis pimpinan dalam setiap tindakan
+      [D] Mengutamakan keuntungan finansial pribadi di atas tugas
+      [E] Pasrah menerima segala kekurangan sarana kerja yang ada
+
+=== Q47 (Hlm 41) Key: B ===
+Topik: Perilaku Efektif Ketaatan Tanpa Pengawasan
+KW: ['Menunjukkan perilaku disiplin diri, memegang teguh tanggungjawab', 'dan taat aturan meski tanpa pengawasan dengan penuh kesadaran']
+Q: Salah satu butir Perilaku Efektif nilai Integritas terkait kepatuhan aturan mengamanatkan pegawai untuk...
+      [A] Bekerja tertib sewaktu berada di hadapan pimpinan kantor
+  (*) [B] Taat aturan meski tanpa pengawasan dengan penuh kesadaran
+      [C] Menyederhanakan prosedur baku saat melayani kawan seunit
+      [D] Menyerahkan dokumen verifikasi anggaran tanpa ditelaah teliti
+      [E] Meminta kelonggaran batas waktu penyelesaian laporan tahunan
+
+=== Q48 (Hlm 41) Key: C ===
+Topik: Penyelarasan Core Values Kompeten
+KW: ['Kompeten (Core Values ASN) selaras dengan', 'Profesionalisme (nilai-nilai Kemenkeu)']
+Q: Nilai dasar ASN 'Kompeten' dalam sistem penguatan budaya Kementerian Keuangan diselaraskan dengan nilai...
+      [A] Sinergi
+      [B] Pelayanan
+  (*) [C] Profesionalisme
+      [D] Integritas
+      [E] Kesempurnaan
+
+=== Q49 (Hlm 41) Key: D ===
+Topik: Rumusan Sikap Dasar Nilai Profesionalisme
+KW: ['Sikap Dasar: senantiasa antusias belajar, berbagi ilmu, bertanggung jawab', 'berinisiatif, cepat dan akurat dalam bekerja serta dapat diandalkan']
+Q: Sikap Dasar pada nilai Profesionalisme yang selaras dengan nilai Kompeten menuntut pegawai senantiasa...
+      [A] Menunda pembaruan aplikasi sistem informasi perbendaharaan
+      [B] Mengerjakan tugas seadanya asal selesai sebelum jam kantor
+      [C] Menyimpan pengetahuan baru sebagai rahasia keunggulan diri
+  (*) [D] Antusias belajar, berbagi ilmu, cepat akurat, dan terandalkan
+      [E] Menyerahkan pembuatan konsep surat dinas kepada staf magang
+
+=== Q50 (Hlm 41) Key: E ===
+Topik: Prakarsa Pencapaian Sasaran Berbasis Risiko
+KW: ['Menunjukkan prakarsa dalam merencanakan dan mencapai rencana', 'serta sasaran kerja dengan memperhitungkan risiko berdasarkan data dan fakta']
+Q: Perilaku Efektif profesionalisme mengarahkan pegawai untuk menunjukkan prakarsa pencapaian sasaran kerja dengan...
+      [A] Mengesampingkan potensi risiko demi mengejar batas waktu
+      [B] Mengandalkan firasat pribadi tanpa memerlukan bukti angka
+      [C] Meniru sepenuhnya strategi kerja instansi swasta komersial
+      [D] Membatasi koordinasi risiko dengan unit kepatuhan internal
+  (*) [E] Memperhitungkan risiko berdasarkan dukungan data dan fakta
+
+=== Q51 (Hlm 41) Key: A ===
+Topik: Pengembangan Komunikasi Efektif Profesional
+KW: ['Mengembangkan cara berkomunikasi efektif', 'baik verbal maupun nonverbal serta kompetensi diri lainnya']
+Q: Dalam meningkatkan kompetensi profesional, butir kelima Perilaku Efektif mewajibkan aparatur mengembangkan...
+  (*) [A] Cara berkomunikasi efektif baik secara verbal dan nonverbal
+      [B] Kemampuan berdebat secara terbuka di berbagai media sosial
+      [C] Keahlian menyusun alibi pembelaan diri atas keterlambatan tugas
+      [D] Gaya komunikasi yang menonjolkan superioritas jenjang pangkat
+      [E] Penggunaan istilah bahasa asing yang sulit dipahami masyarakat
+
+=== Q52 (Hlm 42) Key: B ===
+Topik: Penyelarasan Harmonis dan Kolaboratif dengan Sinergi
+KW: ['Harmonis dan Kolaboratif (Core Values ASN) selaras dengan', 'Sinergi (nilai-nilai Kemenkeu)']
+Q: Core Values ASN 'Harmonis dan Kolaboratif' dalam sistem penguatan budaya diselaraskan dengan nilai Kemenkeu...
+      [A] Pelayanan
+  (*) [B] Sinergi
+      [C] Integritas
+      [D] Kesempurnaan
+      [E] Profesionalisme
+
+=== Q53 (Hlm 42) Key: C ===
+Topik: Rumusan Sikap Dasar Nilai Sinergi
+KW: ['Sikap Dasar: senantiasa solid, proaktif', 'berkolaborasi, dan humanis']
+Q: Rumusan Sikap Dasar pada nilai Sinergi yang selaras dengan Harmonis dan Kolaboratif adalah senantiasa...
+      [A] Menunggu instruksi tertulis atasan dalam koordinasi tugas
+      [B] Mengerjakan beban tugas mandiri tanpa bantuan pihak lain
+  (*) [C] Solid, proaktif, berkolaborasi, dan humanis dalam bertugas
+      [D] Mengutamakan kepentingan unit kerja sendiri di atas yang lain
+      [E] Menyeragamkan seluruh latar belakang suku anggota tim dinas
+
+=== Q54 (Hlm 42) Key: D ===
+Topik: Pengelolaan Perbedaan dalam Perilaku Efektif Sinergi
+KW: ['Mampu mengelola perbedaan sebagai', 'peluang untuk memberikan solusi dan hasil terbaik']
+Q: Dalam menghadapi keanekaragaman gagasan dan latar belakang, Perilaku Efektif sinergi menuntut pegawai untuk...
+      [A] Membatasi pertukaran pendapat dengan rekan kerja yang berbeda
+      [B] Memaksakan pandangan pribadi agar disepakati seluruh tim rapat
+      [C] Menyerahkan penentuan keputusan kepada anggota tim yang senior
+  (*) [D] Mengelola perbedaan sebagai peluang solusi dan hasil terbaik
+      [E] Membatalkan rencana kerja sama bila terjadi silang pendapat tim
+
+=== Q55 (Hlm 42) Key: E ===
+Topik: Penyelarasan Nilai Pelayanan
+KW: ['Berorientasi Pelayanan (Core Values ASN) selaras dengan', 'Pelayanan (nilai-nilai Kemenkeu)']
+Q: Core Values ASN 'Berorientasi Pelayanan' dalam pembudayaan Kemenkeu Satu diselaraskan dengan nilai Kemenkeu...
+      [A] Integritas
+      [B] Sinergi
+      [C] Profesionalisme
+      [D] Kesempurnaan
+  (*) [E] Pelayanan
+
+=== Q56 (Hlm 42) Key: A ===
+Topik: Rumusan Sikap Dasar Nilai Pelayanan
+KW: ['Sikap Dasar: senantiasa komunikatif, respektif', 'responsif, cekatan, dan solutif untuk memberikan layanan terbaik']
+Q: Sikap Dasar pada nilai Pelayanan yang selaras dengan Berorientasi Pelayanan mewajibkan pegawai senantiasa...
+  (*) [A] Komunikatif, respektif, responsif, cekatan, dan solutif prima
+      [B] Menunggu instruksi tertulis pimpinan sebelum menjawab keluhan
+      [C] Membatasi waktu pelayanan pemohon maksimal sepuluh menit saja
+      [D] Meminta tanda bukti terima kasih materiil setelah melayani
+      [E] Melayani secara selektif pemohon yang memiliki kedudukan tinggi
+
+=== Q57 (Hlm 42) Key: B ===
+Topik: Penyelarasan Core Values Adaptif
+KW: ['Adaptif (Core Values ASN) selaras dengan', 'Kesempurnaan (nilai-nilai Kemenkeu)']
+Q: Core Values ASN 'Adaptif' dalam KMK Nomor 429/KMK.01/2022 diselaraskan secara konsep dengan nilai Kemenkeu...
+      [A] Integritas
+  (*) [B] Kesempurnaan
+      [C] Sinergi
+      [D] Profesionalisme
+      [E] Pelayanan
+
+=== Q58 (Hlm 42) Key: C ===
+Topik: Rumusan Sikap Dasar Nilai Kesempurnaan
+KW: ['Sikap Dasar: senantiasa efektif memanfaatkan perubahan', 'inovatif, transparan, dan korektif, menuju kesempurnaan']
+Q: Sikap Dasar pada nilai Kesempurnaan menuntut pegawai di lingkungan kementerian senantiasa...
+      [A] Mempertahankan prosedur kerja lama yang telah berjalan puluhan tahun
+      [B] Membatasi pemanfaatan aplikasi kecerdasan buatan di pekerjaan
+  (*) [C] Efektif memanfaatkan perubahan, inovatif, transparan, dan korektif
+      [D] Menunggu instruksi tertulis menteri sebelum melakukan evaluasi
+      [E] Merasa berpuas diri terhadap capaian prestasi kinerja saat ini
+
+=== Q59 (Hlm 43) Key: D ===
+Topik: Partisipasi Aktif Mencari Peluang Perbaikan
+KW: ['Mendorong partisipasi aktif untuk mencari peluang perbaikan', 'dalam rangka perbaikan sistem secara lebih komprehensif']
+Q: Dalam rangka perbaikan sistem yang komprehensif, Perilaku Efektif kesempurnaan mengamanatkan pegawai untuk...
+      [A] Menunggu instruksi konsultan luar sebelum melakukan perubahan
+      [B] Menyimpan kelemahan sistem agar tidak diketahui unit lain
+      [C] Membatasi keterlibatan staf bawahan dalam pembahasan perbaikan
+  (*) [D] Mendorong partisipasi aktif mencari peluang perbaikan sistem
+      [E] Membatalkan seluruh prosedur kerja lama yang terbukti andal
+
+=== Q60 (Hlm 43) Key: E ===
+Topik: Implementasi Cara Baru dan Inovatif
+KW: ['mengembangkan dan mengimplementasikan cara-cara baru/inovatif', 'dalam rangka perbaikan sistem secara lebih komprehensif']
+Q: Perilaku Efektif kesempurnaan menuntut pegawai tidak sekadar berwacana, melainkan mampu...
+      [A] Menunda penyesuaian regulasi baru dari kementerian teknis
+      [B] Membuat laporan fiktif penyerapan anggaran inovasi kantor
+      [C] Menghabiskan anggaran riset tanpa menghasilkan dokumen output
+      [D] Menyerahkan pembuatan aplikasi kantor ke pihak swasta tanpa uji
+  (*) [E] Mengembangkan dan mengimplementasikan cara-cara inovatif
+
+=== Q61 (Hlm 43) Key: A ===
+Topik: Pemanfaatan Data bagi Perbaikan Berkelanjutan
+KW: ['Membaca, menganalisis, dan memanfaatkan data dan informasi', 'guna perbaikan pekerjaan secara terus menerus']
+Q: Dalam melakukan evaluasi perbaikan berkelanjutan, langkah objektif yang wajib ditempuh aparatur adalah...
+  (*) [A] Membaca, menganalisis, dan memanfaatkan data informasi
+      [B] Mengandalkan perkiraan subjektif tanpa memeriksa dokumen
+      [C] Meminta bantuan peramal nasib untuk memprediksi anggaran
+      [D] Meniru data laporan keuangan kantor lain di daerah berbeda
+      [E] Menghapus data anomali yang menunjukkan adanya kendala
+
+=== Q62 (Hlm 43) Key: B ===
+Topik: Visi Maju dalam Penyusunan Rencana Kerja
+KW: ['Memiliki visi yang maju agar mampu menyusun rencana', 'yang relevan dan matang, serta memeriksa hasil pekerjaan yang dilakukan']
+Q: Perilaku Efektif pada nilai kesempurnaan menuntut pegawai memiliki visi yang maju agar mampu...
+      [A] Memperoleh fasilitas kendaraan dinas operasional terbaru
+  (*) [B] Menyusun rencana yang relevan dan matang serta evaluatif
+      [C] Membatasi penugasan dinas di wilayah daerah-daerah terpencil
+      [D] Mendapatkan promosi kenaikan pangkat tanpa proses seleksi
+      [E] Menyederhanakan pertanggungjawaban kuitansi belanja dinas
+
+=== Q63 (Hlm 43) Key: C ===
+Topik: Pemeriksaan Hasil Pekerjaan Sendiri
+KW: ['Memiliki visi yang maju agar mampu menyusun rencana yang relevan dan matang, serta', 'memeriksa hasil pekerjaan yang dilakukan']
+Q: Selain menyusun rencana kerja matang, kebiasaan profesional yang wajib dipraktikkan pegawai adalah...
+      [A] Melimpahkan seluruh pekerjaan verifikasi kepada atasan unit
+      [B] Menerima kekeliruan kecil dalam penyusunan lembar laporan
+  (*) [C] Memeriksa secara teliti hasil pekerjaan yang telah dilakukan
+      [D] Mengirimkan draf dokumen ke pihak luar sebelum diperiksa pimpinan
+      [E] Menyimpan berkas tanpa melakukan rekapitulasi data akhir
+
+=== Q64 (Hlm 43) Key: D ===
+Topik: Tujuan Akhir Analisis Data Informasi
+KW: ['Membaca, menganalisis, dan memanfaatkan data dan informasi', 'guna perbaikan pekerjaan secara terus menerus']
+Q: Tujuan akhir dari kebiasaan membaca dan menganalisis data informasi di lingkungan kerja adalah...
+      [A] Menemukan celah hukum demi kepentingan kelompok tertentu
+      [B] Menghambat pelaksanaan proyek strategis instansi lain
+      [C] Memperpanjang proses birokrasi pencairan anggaran kantor
+  (*) [D] Perbaikan pekerjaan secara terus-menerus dan berkelanjutan
+      [E] Mengurangi alokasi bantuan sosial bagi warga masyarakat
+
+=== Q65 (Hlm 43) Key: E ===
+Topik: Karakter Rencana Kerja yang Bermutu
+KW: ['menyusun rencana', 'yang relevan dan matang']
+Q: Karakteristik rencana kerja yang bermutu dalam perencanaan dan pelaksanaan kerja harus bersifat...
+      [A] Tetap dan tidak boleh disesuaikan dengan situasi darurat
+      [B] Teoretis tanpa mempertimbangkan ketersediaan sumber daya
+      [C] Seragam di seluruh kantor dinas tanpa melihat potensi lokal
+      [D] Tertutup dan khusus diketahui oleh perencana tunggal kantor
+  (*) [E] Relevan dengan kebutuhan organisasi serta disusun matang
+
+=== Q66 (Hlm 44) Key: A ===
+Topik: Dasar Hukum Penguatan Budaya Kementerian Keuangan
+KW: ['SE-15/MK.1/2022', 'Panduan Pelaksanaan Penguatan Budaya']
+Q: Regulasi yang mengatur pedoman pelaksanaan penguatan budaya di lingkungan Kementerian Keuangan diterbitkan melalui...
+  (*) [A] Surat Edaran Nomor SE-15/MK.1/2022
+      [B] Keputusan Menteri Keuangan Nomor KMK-577/2019
+      [C] Peraturan Menteri Keuangan Nomor PMK-190/2018
+      [D] Instruksi Menteri Keuangan Nomor IMK-235/2020
+      [E] Surat Edaran Sekretaris Jenderal Nomor SE-08/2021
+
+=== Q67 (Hlm 44) Key: B ===
+Topik: Sasaran Panduan Penguatan Budaya Organisasi
+KW: ['panduan pimpinan unit dan unit pengelola kepegawaian', 'Sikap Dasar dan Perilaku Efektif']
+Q: Menurut SE-15/MK.1/2022, panduan pelaksanaan penguatan budaya kerja ditujukan secara khusus kepada...
+      [A] Seluruh staf pelaksana dan calon pegawai baru
+  (*) [B] Pimpinan unit dan unit pengelola kepegawaian
+      [C] Para widyaiswara dan pengelola diklat keuangan
+      [D] Auditor kepatuhan internal dan pengawas bidang
+      [E] Duta transformasi dan perwakilan serikat kerja
+
+=== Q68 (Hlm 44) Key: C ===
+Topik: Tujuan Pembudayaan Sikap Dasar dan Perilaku Efektif
+KW: ['perwujudan Core Values ASN BerAKHLAK', 'memperkuat budaya di lingkungan Kementerian Keuangan']
+Q: Penumbuhan Sikap Dasar dan Perilaku Efektif pegawai Kemenkeu bertujuan strategis sebagai...
+      [A] Pemenuhan syarat administratif penyusunan sasaran kinerja pegawai
+      [B] Penyelarasan standar operasional prosedur teknis perbendaharaan negara
+  (*) [C] Perwujudan Core Values ASN BerAKHLAK dan nilai Kementerian Keuangan
+      [D] Penggantian seluruh tata kelola pengawasan disiplin aparatur sipil
+      [E] Pembentukan unit kepatuhan internal terpadu di setiap kantor daerah
+
+=== Q69 (Hlm 44) Key: D ===
+Topik: Tingkat Kematangan Mahasiswa PKN STAN dan CPNS
+KW: ['Mahasiswa PKN STAN', 'aware the values']
+Q: Target tingkat kematangan minimal bagi mahasiswa PKN STAN dan CPNS atau pelaksana kurang dari satu tahun adalah...
+      [A] Mengajak pihak eksternal mempraktikkan nilai budaya
+      [B] Menjadi teladan utama penggerak etika birokrasi
+      [C] Menerapkan seluruh sikap dasar secara komprehensif
+  (*) [D] Sadar pentingnya sikap dasar atau aware the values
+      [E] Mengembangkan sistem evaluasi integritas organisasi
+
+=== Q70 (Hlm 44) Key: E ===
+Topik: Strategi Internalisasi Budaya Mahasiswa dan CPNS
+KW: ['kurikulum PKN STAN', 'pelatihan dasar CPNS/ pegawai baru']
+Q: Bentuk strategi internalisasi budaya bagi kelompok mahasiswa PKN STAN dan pegawai baru Kemenkeu dilaksanakan melalui...
+      [A] Penerapan sistem evaluasi berkala kinerja pimpinan unit
+      [B] Pembuatan klausul pakta integritas bersama mitra kerja
+      [C] Pelaksanaan sertifikasi profesi pengawas anggaran negara
+      [D] Pengangkatan langsung menjadi pejabat pengelola kepatuhan
+  (*) [E] Penguatan budaya dalam kurikulum serta pelatihan dasar
+
+=== Q71 (Hlm 44) Key: A ===
+Topik: Program Habituasi Budaya
+KW: ['Program Habituasi Budaya', 'Mahasiswa PKN STAN']
+Q: Program pembiasaan nilai yang menjadi salah satu strategi internalisasi budaya bagi CPNS dan mahasiswa PKN STAN adalah...
+  (*) [A] Program Habituasi Budaya
+      [B] Program Magang Struktural
+      [C] Program Audit Kepegawaian
+      [D] Program Konseling Jabatan
+      [E] Program Rotasi Kedinasan
+
+=== Q72 (Hlm 44) Key: B ===
+Topik: Strategi Eksternalisasi Mahasiswa dan CPNS
+KW: ['tugas desain grafis atau video', 'sosialisasi kepada pihakpihak eksternal']
+Q: Strategi eksternalisasi budaya yang dirancang bagi mahasiswa PKN STAN dan pegawai baru dilaksanakan dalam bentuk...
+      [A] Pembentukan pos pengaduan layanan terpadu instansi
+  (*) [B] Tugas desain grafis atau video sosialisasi eksternal
+      [C] Penyelenggaraan forum dengar pendapat bersama publik
+      [D] Publikasi laporan berkala kepatuhan etika aparatur
+      [E] Penandatanganan nota kesepahaman pengawasan bersama
+
+=== Q73 (Hlm 45) Key: C ===
+Topik: Tingkat Kematangan Pelaksana Masa Kerja 1 Tahun
+KW: ['Pelaksana masa kerja 1 tahun atau lebih', 'understand the values']
+Q: Target tingkat kematangan minimal bagi pegawai pelaksana dengan masa kerja satu tahun atau lebih adalah...
+      [A] Memimpin pembentukan regulasi kode perilaku instansi
+      [B] Mengembangkan seluruh instrumen audit kepatuhan kerja
+  (*) [C] Paham pentingnya dan penerapan sebagian sikap dasar
+      [D] Menjadi penasihat utama perumusan tata kelola nilai
+      [E] Mengorganisasi kerja sama lintas kementerian lembaga
+
+=== Q74 (Hlm 45) Key: D ===
+Topik: Peran Duta Transformasi dalam Internalisasi
+KW: ['Internalisasi oleh Duta Transformasi', 'Pelaksana masa kerja 1 tahun atau lebih']
+Q: Penggerak internalisasi budaya bagi pelaksana yang bertindak sebagai agen perubahan di unit kerja adalah...
+      [A] Petugas pengelola aset kantor
+      [B] Pejabat pemeriksa kas bendahara
+      [C] Pengawas urusan rumah tangga
+  (*) [D] Duta Transformasi unit kerja
+      [E] Petugas keamanan gedung dinas
+
+=== Q75 (Hlm 45) Key: E ===
+Topik: Institusionalisasi Peran Pengawasan Internal
+KW: ['Penguatan peran Inspektorat Jenderal', 'Unit Kepatuhan Internal (UKI)']
+Q: Unit kerja yang diperkuat perannya dalam strategi institusionalisasi budaya kerja kementerian adalah...
+      [A] Biro Organisasi dan Tata Laksana Sekretariat Jenderal
+      [B] Pusat Pendidikan dan Pelatihan Keuangan Terpadu
+      [C] Badan Standardisasi dan Kebijakan Fiskal Negara
+      [D] Komite Pengawas Perpajakan dan Bea Cukai Publik
+  (*) [E] Inspektorat Jenderal dan Unit Kepatuhan Internal
+
+=== Q76 (Hlm 45) Key: A ===
+Topik: Pakta Integritas dalam Institusionalisasi
+KW: ['Membuat Pakta Integritas', 'Institusionalisasi']
+Q: Dokumen formal perwujudan komitmen moral pegawai yang dibuat dalam strategi institusionalisasi adalah...
+  (*) [A] Pakta Integritas aparatur sipil
+      [B] Berita Acara Rekonsiliasi Kas
+      [C] Surat Pernyataan Tanggung Jawab
+      [D] Lembar Konfirmasi Kinerja Pegawai
+      [E] Catatan Hasil Pengawasan Rutin
+
+=== Q77 (Hlm 45) Key: B ===
+Topik: Tingkat Kematangan Pejabat Pengawas dan Administrator
+KW: ['Pejabat Pengawas/ Administrator', 'implementing the values']
+Q: Target tingkat kematangan minimal bagi Pejabat Pengawas dan Administrator di Kementerian Keuangan adalah...
+      [A] Sadar akan arti penting etika atau aware the values
+  (*) [B] Penerapan seluruh sikap dasar atau implementing values
+      [C] Menggagas regulasi baru kepatuhan aparatur negara
+      [D] Membentuk panitia pemilihan duta transformasi unit
+      [E] Mengawasi pelaksanaan belanja kementerian dan lembaga
+
+=== Q78 (Hlm 45) Key: C ===
+Topik: Peran Keteladanan Pejabat Pengawas dan Administrator
+KW: ['menjadi role model bagi unit terkecilnya', 'Pejabat Pengawas/ Administrator']
+Q: Salah satu strategi eksternalisasi bagi Pejabat Pengawas dan Administrator di lingkungan kerjanya adalah...
+      [A] Menyusun rancangan undang-undang keuangan negara
+      [B] Melakukan pemeriksaan fisik kas perbendaharaan daerah
+  (*) [C] Menjadi role model budaya bagi unit kerja terkecilnya
+      [D] Menerbitkan sertifikat kepatuhan laporan tahunan dinas
+      [E] Memfasilitasi pendaftaran beasiswa studi lanjut pegawai
+
+=== Q79 (Hlm 45) Key: D ===
+Topik: Strategi Eksternalisasi Memberi Manfaat bagi Publik
+KW: ['memberi manfaat bagi masyarakat', 'instansi lain']
+Q: Bentuk eksternalisasi budaya yang dapat diwujudkan oleh pegawai pelaksana di lingkungan masyarakat adalah...
+      [A] Merumuskan pedoman teknis pengelolaan anggaran dinas
+      [B] Menyusun instrumen penilaian risiko pengadaan barang
+      [C] Mengesahkan perjanjian kerja sama antarkantor cabang
+  (*) [D] Menerapkan budaya kerja yang bermanfaat bagi masyarakat
+      [E] Menilai kelayakan permohonan izin operasional kantor
+
+=== Q80 (Hlm 46) Key: E ===
+Topik: Institusionalisasi Budaya dalam Diklat Kepemimpinan
+KW: ['diklat kepemimpinan atau soft skill pegawai', 'Institusionalisasi']
+Q: Materi budaya kementerian diinstitusikan bagi Pejabat Pengawas dan Administrator melalui...
+      [A] Ujian kompetensi kenaikan jenjang pangkat berkala
+      [B] Forum konsultasi publik rancangan undang-undang
+      [C] Program pertukaran pegawai antarlembaga swasta
+      [D] Penyusunan laporan pertanggungjawaban hibah luar
+  (*) [E] Materi diklat kepemimpinan atau soft skill pegawai
+
+=== Q81 (Hlm 46) Key: A ===
+Topik: Tingkat Kematangan Pejabat Pimpinan Tinggi
+KW: ['Pejabat Pimpinan Tinggi', 'owning the values']
+Q: Target tingkat kematangan minimal bagi Pejabat Pimpinan Tinggi di Kementerian Keuangan adalah...
+  (*) [A] Memiliki dan mengembangkan nilai atau owning values
+      [B] Menghadiri seminar internasional tata kelola dinas
+      [C] Mengamati pelaksanaan sistem informasi kepegawaian
+      [D] Menerapkan sebagian tata tertib kedinasan kantor
+      [E] Sadar akan arti penting budaya atau aware values
+
+=== Q82 (Hlm 46) Key: B ===
+Topik: Keteladanan Eksternal Pejabat Pimpinan Tinggi
+KW: ['Menjadi role model bagi unitnya dan instansi lain', 'Pejabat Pimpinan Tinggi']
+Q: Salah satu strategi eksternalisasi bagi Pejabat Pimpinan Tinggi dalam budaya kementerian adalah...
+      [A] Menjadi bendahara pengeluaran proyek strategis dinas
+  (*) [B] Menjadi role model bagi unitnya dan instansi lain
+      [C] Melakukan inventarisasi fisik barang milik negara
+      [D] Menyusun laporan presensi kehadiran staf harian
+      [E] Melakukan audit kepatuhan internal kantor vertikal
+
+=== Q83 (Hlm 46) Key: C ===
+Topik: Pengambilan Keputusan Berlandaskan Budaya Kerja
+KW: ['perwujudan dari budaya Kemenkeu', 'di unitnya']
+Q: Wujud eksternalisasi Pejabat Pimpinan Tinggi melalui pembuatan kebijakan di unit kerjanya adalah...
+      [A] Menetapkan tarif penerimaan negara bukan pajak
+      [B] Menerbitkan surat peringatan disiplin pegawai kantor
+  (*) [C] Membuat keputusan sebagai wujud budaya kementerian
+      [D] Mengesahkan jadwal piket pelayanan publik terpadu
+      [E] Menghitung ulang alokasi pagu anggaran tahunan
+
+=== Q84 (Hlm 46) Key: D ===
+Topik: Pimpinan sebagai Narasumber Penguatan Budaya
+KW: ['Menjadi narasumber yang memasukkan budaya', 'baik ke dalam maupun ke luar']
+Q: Peran pimpinan tinggi dalam memperluas sosialisasi budaya kementerian tercermin melalui...
+      [A] Penandatanganan bukti kas transfer kas daerah
+      [B] Verifikasi berkas tagihan rekanan penyedia jasa
+      [C] Penetapan daftar inventaris kendaraan kantor dinas
+  (*) [D] Menjadi narasumber materi budaya ke dalam dan luar
+      [E] Pemeriksaan kelengkapan sarana prasarana gedung
+
+=== Q85 (Hlm 46) Key: E ===
+Topik: Penyisipan Nilai dalam Klausul Kerja Sama Eksternal
+KW: ['klausul kerja sama dengan pihak eksternal', 'core values ASN dan nilai-nilai Kementerian Keuangan']
+Q: Strategi eksternalisasi Pejabat Pimpinan Tinggi yang mengikat mitra kerja dilakukan dengan...
+      [A] Mewajibkan mitra membuka rekening bank milik negara
+      [B] Mengadakan kompetisi karya tulis ilmiah bagi publik
+      [C] Menugaskan mitra mengaudit kepatuhan kode etik staf
+      [D] Membentuk panitia bersama pengelolaan sarana dinas
+  (*) [E] Memasukkan klausul nilai budaya dalam naskah kerja sama
+
+=== Q86 (Hlm 46) Key: A ===
+Topik: Training of Trainers bagi Duta Transformasi
+KW: ['Training of Trainers', 'Duta Transformasi']
+Q: Program pelatihan yang disiapkan untuk membekali agen perubahan budaya di kementerian adalah...
+  (*) [A] Training of Trainers bagi Duta Transformasi
+      [B] Kursus Singkat Akuntansi Keuangan Pemerintah
+      [C] Pelatihan Teknis Tata Naskah Dinas Kedinasan
+      [D] Lokakarya Penanganan Perkara Administrasi
+      [E] Bimbingan Teknis Pengadaan Barang dan Jasa
+
+=== Q87 (Hlm 47) Key: B ===
+Topik: Definisi Nilai dalam Bab Penutup
+KW: ['sebuah keyakinan tentang apa yang dianggap baik atau buruk', 'memengaruhi perilaku orang']
+Q: Secara konseptual, nilai dirumuskan sebagai keyakinan mengenai hal yang dipandang baik atau buruk yang...
+      [A] Membatasi perkembangan kebebasan berpendapat publik
+  (*) [B] Memengaruhi perilaku individu dalam melakukan tindakan
+      [C] Mengatur tata cara teknis penyusunan peraturan dinas
+      [D] Menentukan besaran penghasilan aparatur sipil negara
+      [E] Mewajibkan pegawai mengikuti seluruh agenda pimpinan
+
+=== Q88 (Hlm 47) Key: C ===
+Topik: Pengertian Nilai-Nilai Organisasi
+KW: ['berpikir, bertindak, dan berperilaku', 'tujuan organisasi']
+Q: Nilai-nilai organisasi merupakan keyakinan yang dianut seluruh pemangku kepentingan untuk...
+      [A] Memperoleh penghargaan kinerja dari instansi pembina
+      [B] Menjaga stabilitas penerimaan anggaran tahun berjalan
+  (*) [C] Berpikir, bertindak, dan berperilaku menuju tujuan organisasi
+      [D] Membentuk jejaring persahabatan di luar lingkungan kerja
+      [E] Menyusun daftar inventaris aset tetap secara mandiri
+
+=== Q89 (Hlm 47) Key: D ===
+Topik: Kohesi sebagai Prasyarat Peningkatan Kinerja
+KW: ['kohesi antar individu', 'meningkatkan kinerjanya']
+Q: Faktor yang menjadi prasyarat bagi organisasi dalam meningkatkan kinerjanya melalui budaya organisasi adalah...
+      [A] Alokasi anggaran operasional yang bertambah
+      [B] Ketersediaan sarana teknologi mutakhir kantor
+      [C] Penambahan jumlah kantor layanan perwakilan
+  (*) [D] Kohesi antarindividu dan kesatuan organisasi
+      [E] Pengurangan frekuensi rapat koordinasi kerja
+
+=== Q90 (Hlm 47) Key: E ===
+Topik: Tonggak Nilai Dasar ASN BerAKHLAK
+KW: ['tonggak baru bagi seluruh ASN', 'membangun budaya ASN']
+Q: Penetapan Nilai-nilai Dasar ASN BerAKHLAK diposisikan sebagai tonggak baru bagi aparatur agar...
+      [A] Memiliki jenjang karier struktural yang seragam
+      [B] Mengikuti pola seleksi pengadaan pegawai tunggal
+      [C] Mendapatkan fasilitas tunjangan jabatan setara
+      [D] Mempermudah mutasi antarinstansi pemerintah daerah
+  (*) [E] Memiliki langkah yang sama membangun budaya ASN
+
+=== Q91 (Hlm 47) Key: A ===
+Topik: Keselarasan Nilai ASN dan Nilai Kementerian Keuangan
+KW: ['mengelola pribadi yang selaras', 'tujuan dari pelaksanaan tugasnya']
+Q: Konsep dasar yang mempertemukan Nilai Dasar ASN dengan Nilai Kementerian Keuangan adalah agar pegawai mampu...
+  (*) [A] Mengelola pribadi selaras tujuan pelaksanaan tugas
+      [B] Menghadiri penugasan dinas tanpa batasan waktu
+      [C] Membatasi komunikasi formal dengan instansi daerah
+      [D] Mengutamakan kepentingan unit kerja di atas segalanya
+      [E] Menyelesaikan pekerjaan rutin secara mandiri saja
+
+=== Q92 (Hlm 47) Key: B ===
+Topik: Ringkasan Materi Nilai Integritas
+KW: ['berpikir, berkata, berperilaku, dan bertindak dengan baik dan benar', 'Kode Etik dan prinsip-prinsip moral']
+Q: Makna nilai Integritas menuntut komitmen etis bagi seluruh pegawai untuk...
+      [A] Menyimpan data keuangan secara tertutup dari pihak lain
+  (*) [B] Berpikir, berkata, berbuat benar dan memegang kode etik
+      [C] Menyesuaikan seluruh keputusan dengan instruksi lisan pimpinan
+      [D] Menyelesaikan pekerjaan kedinasan dengan orientasi bisnis
+      [E] Mengamankan berkas perbendaharaan dari pemeriksaan berkala
+
+=== Q93 (Hlm 47) Key: C ===
+Topik: Ringkasan Materi Nilai Sinergi
+KW: ['hubungan kerja sama internal yang produktif', 'kemitraan yang harmonis dengan para pemangku kepentingan']
+Q: Makna nilai Sinergi dalam prinsip kerja sama Kementerian Keuangan menekankan komitmen untuk...
+      [A] Memusatkan seluruh keputusan pada satu pimpinan unit
+      [B] Menjaga kerahasiaan proses kerja dari rekan sebidang
+  (*) [C] Membangun kerja sama internal dan kemitraan harmonis
+      [D] Mengambil alih seluruh fungsi kerja unit bawahan kantor
+      [E] Memisahkan target kerja antarbidang dalam organisasi
+
+=== Q94 (Hlm 48) Key: D ===
+Topik: Intisari Materi Nilai Pelayanan
+KW: ['memenuhi kepuasan para pemangku kepentingan', 'sepenuh hati, transparan, cepat, akurat, dan aman']
+Q: Makna nilai Pelayanan di lingkungan kementerian diwujudkan dengan memberikan layanan yang...
+      [A] Menyesuaikan besaran alokasi anggaran belanja kantor
+      [B] Mengutamakan pihak yang membawa rekomendasi pimpinan
+      [C] Dilaksanakan terbatas pada jam operasional tertentu
+  (*) [D] Memenuhi kepuasan pemangku kepentingan sepenuh hati
+      [E] Diberikan secara khusus kepada perwakilan pemda mitra
+
+=== Q95 (Hlm 48) Key: E ===
+Topik: Karakteristik Pelaksanaan Nilai Pelayanan
+KW: ['sepenuh hati, transparan, cepat, akurat, dan aman', 'memberikan pelayanan']
+Q: Pelaksanaan nilai Pelayanan di lingkungan Kementerian Keuangan wajib diselenggarakan secara...
+      [A] Periodik, terpusat, fleksibel, tertutup, dan bersyarat
+      [B] Bertahap, kondisional, terstruktur, formal, dan santai
+      [C] Khusus, terpisah, berjangka, terbatas, dan sistematis
+      [D] Eksklusif, terukur, mandiri, konseptual, dan normatif
+  (*) [E] Sepenuh hati, transparan, cepat, akurat, dan aman
+
+=== Q96 (Hlm 48) Key: A ===
+Topik: Intisari Materi Nilai Kesempurnaan
+KW: ['upaya perbaikan di segala bidang', 'menjadi dan memberikan yang terbaik']
+Q: Makna nilai Kesempurnaan menuntut komitmen aparatur kementerian untuk senantiasa...
+  (*) [A] Melakukan upaya perbaikan menjadi dan memberi terbaik
+      [B] Mempertahankan metode kerja lama yang dirasa nyaman
+      [C] Mengganti seluruh sarana operasional dinas tiap tahun
+      [D] Menyerahkan urusan pembaruan sistem kepada pihak luar
+      [E] Membatasi inisiatif baru demi menjaga ketenangan kerja
+
+=== Q97 (Hlm 48) Key: B ===
+Topik: Tujuan Perbaikan di Segala Bidang
+KW: ['upaya perbaikan di segala bidang', 'memberikan yang terbaik']
+Q: Tujuan utama dari dilakukannya upaya perbaikan di segala bidang pada nilai Kesempurnaan adalah untuk...
+      [A] Mengurangi alokasi tenaga kerja pelaksana kantor dinas
+  (*) [B] Menjadi dan memberikan yang terbaik bagi organisasi
+      [C] Mengamankan perolehan tunjangan kinerja setiap pegawai
+      [D] Memperoleh sertifikat akreditasi berbayar internasional
+      [E] Membatasi penugasan mutasi dinas pegawai ke luar wilayah
+
+=== Q98 (Hlm 48) Key: C ===
+Topik: Orientasi Kepuasan Pemangku Kepentingan
+KW: ['memenuhi kepuasan para pemangku kepentingan', 'memberikan pelayanan']
+Q: Orientasi utama dari pelaksanaan nilai Pelayanan oleh aparatur Kementerian Keuangan adalah...
+      [A] Memaksimalkan penyerapan pagu belanja dinas operasional
+      [B] Menyelesaikan laporan pertanggungjawaban teknis kantor
+  (*) [C] Memenuhi kepuasan pemangku kepentingan secara transparan
+      [D] Memenangkan penghargaan inovasi pelayanan publik dinas
+      [E] Membatasi akses permohonan informasi bagi publik umum
+
+=== Q99 (Hlm 48) Key: D ===
+Topik: Prinsip Keterbukaan dan Ketepatan Layanan
+KW: ['transparan, cepat, akurat, dan aman', 'memberikan pelayanan']
+Q: Sikap keterbukaan proses dan kejelasan informasi dalam nilai Pelayanan dicerminkan oleh prinsip...
+      [A] Akuntabel dan formal
+      [B] Cepat dan selektif
+      [C] Aman dan kondisional
+  (*) [D] Transparan dan akurat
+      [E] Rapi dan berkelanjutan
+
+=== Q100 (Hlm 48) Key: E ===
+Topik: Esensi Pengamalan Nilai Kementerian Keuangan
+KW: ['Nilai-Nilai Kementerian Keuangan', 'upaya perbaikan di segala bidang']
+Q: Pengamalan lima nilai utama Kementerian Keuangan bermuara pada lima nilai utama Kementerian Keuangan bermuara pada komitmen untuk senantiasa...
+      [A] Mempertahankan birokrasi konvensional secara monoton
+      [B] Mengutamakan administrasi dokumen daripada mutu publik
+      [C] Membatasi kerja sama dengan instansi pengawas negara
+      [D] Menyeragamkan seluruh proses teknis perbendaharaan
+  (*) [E] Memberikan pelayanan prima dan perbaikan berkelanjutan
+

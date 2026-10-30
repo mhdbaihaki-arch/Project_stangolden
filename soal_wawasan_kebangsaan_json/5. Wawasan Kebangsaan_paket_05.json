@@ -1,0 +1,2919 @@
+{
+  "paket_nomor": 5,
+  "dokumen_sumber": "5. Modul Wawasan Kebangsaan-UPKP.pdf",
+  "rentang_halaman": "Halaman 46 s/d Halaman 55",
+  "jumlah_soal": 100,
+  "distribusi_kunci": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20,
+    "E": 20
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "dalam waktu tiga puluh hari"
+      ],
+      "topik_materi": "Pemilihan Presiden dan Wapres Pengganti oleh MPR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Apabila Presiden dan Wakil Presiden mangkat atau berhenti secara bersamaan dalam masa jabatannya, MPR wajib menyelenggarakan sidang suksesi dalam batas waktu...",
+      "pilihan": {
+        "A": "Selambat-lambatnya dalam waktu tiga puluh hari dari dua paket calon peraih suara terbanyak",
+        "B": "Paling lambat empat belas hari kerja sejak naskah pengunduran diri disahkan dewan",
+        "C": "Maksimal enam puluh hari kalender sejak pembentukan panitia kerja darurat nasional",
+        "D": "Dalam tenggat sembilan puluh hari setelah berkas pencalonan diverifikasi mahkamah",
+        "E": "Tepat seratus dua puluh hari kerja terhitung sejak rapat pleno paripurna pertama"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "MPR bertugas memilih Presiden dan Wakil Presiden apabila keduanya berhenti secara bersamaan dari dua paket calon yang diajukan partai politik peraih suara terbanyak pertama dan kedua pada pemilu sebelumnya, **selambat-lambatnya dalam waktu tiga puluh hari**.",
+        "alasan_kunci": "Opsi A tepat karena konstitusi membatasi durasi suksesi darurat maksimal tiga puluh hari agar pemerintahan definitif segera terbentuk kembali. Calon yang dapat dipilih berasal dari paket pasangan peraih suara terbanyak pertama dan kedua pada pemilu terakhir.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena batas waktu konstitusional adalah tiga puluh hari, bukan empat belas hari kerja.",
+          "C": "Kurang tepat karena enam puluh hari merupakan batas waktu pengisian kekosongan posisi wakil presiden saja.",
+          "D": "Kurang tepat karena sembilan puluh hari merupakan batas waktu pemeriksaan sengketa pemakzulan di MK.",
+          "E": "Kurang tepat karena durasi 120 hari tidak dikenal dalam prosedur suksesi darurat kepresidenan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "Selaku kepala pemerintahan (fungsi eksekutif dan fungsi legislatif) dan kepala negara"
+      ],
+      "topik_materi": "Kedudukan Ganda Lembaga Kepresidenan Indonesia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam sistem ketatanegaraan Indonesia pasca-amandemen UUD 1945, kedudukan Presiden Republik Indonesia dirumuskan sebagai...",
+      "pilihan": {
+        "A": "Pelaksana kekuasaan yudikatif tertinggi peradilan kasasi perkara tata usaha",
+        "B": "Selaku kepala pemerintahan (fungsi eksekutif dan fungsi legislatif) dan kepala negara",
+        "C": "Pemimpin tunggal lembaga legislatif yang berwenang membubarkan parlemen",
+        "D": "Mandataris mutlak majelis yang bertanggung jawab penuh kepada pimpinan fraksi",
+        "E": "Ketua dewan pertimbangan yang menjalankan fungsi peradilan sengketa pemilu"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Presiden sebagai pengemban amanat rakyat memiliki kedudukan **selaku kepala pemerintahan (fungsi eksekutif dan fungsi legislatif) dan kepala negara**.",
+        "alasan_kunci": "Opsi B tepat karena dalam sistem presidensial Indonesia, jabatan kepala negara (*head of state*) dan kepala pemerintahan (*head of government*) terintegrasi dalam diri Presiden. Di samping memegang kekuasaan eksekutif, Presiden juga memegang fungsi legislatif bersama DPR dalam membentuk undang-undang.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena kekuasaan peradilan kasasi tertinggi dipegang oleh Mahkamah Agung.",
+          "C": "Kurang tepat karena Presiden dilarang membekukan atau membubarkan Dewan Perwakilan Rakyat.",
+          "D": "Kurang tepat karena Presiden bukan mandataris MPR pasca-amandemen melainkan dipilih langsung oleh rakyat.",
+          "E": "Kurang tepat karena peradilan perselisihan hasil pemilu merupakan wewenang Mahkamah Konstitusi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "Dipilih secara langsung oleh rakyat dalam suatu pemilihan umum"
+      ],
+      "topik_materi": "Legitimasi Presiden Berdasarkan Pemilihan Umum Langsung",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sumber legitimasi kekuasaan Presiden dan Wakil Presiden Republik Indonesia ditegaskan melalui asas bahwa pasangan kepresidenan...",
+      "pilihan": {
+        "A": "Ditetapkan secara bergantian oleh koalisi partai politik pemenang pemilu",
+        "B": "Diangkat oleh sidang gabungan seluruh perwakilan kepala daerah provinsi",
+        "C": "Dipilih secara langsung oleh rakyat dalam suatu pemilihan umum",
+        "D": "Ditetapkan melalui pemungutan suara berjenjang utusan golongan masyarakat",
+        "E": "Diputuskan oleh musyawarah pimpinan majelis permusyawaratan dewan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pasca-amandemen UUD 1945, Presiden dan Wakil Presiden **dipilih secara langsung oleh rakyat dalam suatu pemilihan umum** sehingga memiliki legitimasi mandat rakyat yang sangat kuat.",
+        "alasan_kunci": "Opsi C tepat karena pemilihan umum secara langsung oleh rakyat memutus mata rantai subordinasi Presiden terhadap parlemen. Rakyat pemilih berdaulat penuh menentukan pemimpin nasional melalui pesta demokrasi lima tahunan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena presiden tidak ditetapkan bergantian oleh partai melainkan dipilih langsung oleh rakyat.",
+          "B": "Kurang tepat karena kepala daerah tidak memiliki kewenangan memilih pasangan presiden definitif.",
+          "D": "Kurang tepat karena utusan golongan telah ditiadakan dari sistem pemilihan ketatanegaraan Indonesia.",
+          "E": "Kurang tepat karena MPR tidak lagi memilih presiden dalam kondisi normal pasca-pemilu langsung."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "dapat dipilih kembali dalam jabatan yang sama untuk satu kali"
+      ],
+      "topik_materi": "Batasan Masa Jabatan Eksekutif Berdasarkan UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pembatasan masa pengabdian kepala pemerintahan dalam konstitusi Indonesia diatur secara definitif bahwa Presiden...",
+      "pilihan": {
+        "A": "Dapat memegang kekuasaan seumur hidup manakala didukung oleh konsensus dewan",
+        "B": "Wajib meletakkan jabatan setelah tiga tahun pengabdian guna rotasi kabinet",
+        "C": "Dapat dipilih berulang kali tanpa batasan periode asalkan disetujui mahkamah",
+        "D": "Memegang jabatan lima tahun dan dapat dipilih kembali dalam jabatan yang sama untuk satu kali",
+        "E": "Diberikan kewenangan memperpanjang mandat secara mandiri saat situasi krisis"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Presiden memegang jabatan selama lima tahun dan sesudahnya **dapat dipilih kembali dalam jabatan yang sama untuk satu kali** masa jabatan (maksimal sepuluh tahun).",
+        "alasan_kunci": "Opsi D tepat karena ketentuan ini dirumuskan pasca-reformasi untuk mencegah otoritarianisme dan personifikasi kekuasaan mutlak. Masa bakti maksimal dibatasi dua periode berturut-turut maupun berselang.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena masa jabatan seumur hidup bertentangan dengan prinsip demokrasi konstitusional.",
+          "B": "Kurang tepat karena masa jabatan reguler yang sah adalah lima tahun, bukan tiga tahun.",
+          "C": "Kurang tepat karena pemilihan tanpa batas periode telah dihapus oleh amandemen UUD 1945.",
+          "E": "Kurang tepat karena presiden tidak berhak memperpanjang masa jabatannya secara sekehendak sendiri."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "Dapat diberhentikan dari jabatannya oleh MPR atas usul DPR"
+      ],
+      "topik_materi": "Mekanisme Pemberhentian Presiden Berdasarkan Putusan MK",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Dalam hal Presiden terbukti melakukan pelanggaran hukum berat, prosedur konstitusional pemberhentiannya adalah...",
+      "pilihan": {
+        "A": "DPR memberhentikan Presiden secara langsung melalui rapat pleno internal komisi",
+        "B": "Badan Pemeriksa Keuangan mencopot jabatan kepala negara atas dasar temuan audit",
+        "C": "Mahkamah Agung mengeksekusi pemberhentian seketika tanpa melibatkan sidang majelis",
+        "D": "Kabinet kementerian mengambil alih kendali kekuasaan melalui mosi tidak percaya",
+        "E": "Dapat diberhentikan dari jabatannya oleh MPR atas usul DPR berdasarkan putusan Mahkamah Konstitusi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Presiden **dapat diberhentikan dari jabatannya oleh MPR atas usul DPR berdasarkan putusan Mahkamah Konstitusi**.",
+        "alasan_kunci": "Opsi E tepat karena proses *impeachment* memadukan mekanisme pengawasan politik dewan (DPR), verifikasi peradilan hukum yang adil (*due process of law* di MK), dan penetapan putusan politik tertinggi di forum MPR.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPR tidak berwenang memberhentikan presiden secara langsung.",
+          "B": "Kurang tepat karena BPK bertugas memeriksa keuangan negara dan tidak berwenang mencopot pejabat politik.",
+          "C": "Kurang tepat karena MA tidak mengadili pemakzulan presiden melainkan MK yang memutus pendapat DPR.",
+          "D": "Kurang tepat karena kabinet menteri merupakan pembantu presiden dan tidak mengenal mekanisme mosi tidak percaya."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "Tidak dapat membekukan atau membubarkan DPR"
+      ],
+      "topik_materi": "Prinsip Kesetaraan Hubungan Presiden dan Parlemen",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu jaminan ketatanegaraan yang memperkuat kedudukan lembaga legislatif di hadapan eksekutif adalah aturan bahwa Presiden...",
+      "pilihan": {
+        "A": "Tidak dapat membekukan atau membubarkan DPR dalam situasi ketatanegaraan apa pun",
+        "B": "Berhak menunda persidangan dewan apabila rancangan undang-undang ditangguhkan",
+        "C": "Dapat membubarkan parlemen dengan persetujuan dewan pertimbangan agung",
+        "D": "Memiliki wewenang mencopot pimpinan fraksi partai yang berbeda haluan kebijakan",
+        "E": "Dapat menetapkan anggota legislatif pengganti antarwaktu secara otoritatif"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Sesuai Pasal 7C UUD 1945, Presiden **tidak dapat membekukan atau membubarkan DPR**, yang menjamin independensi cabang kekuasaan legislatif.",
+        "alasan_kunci": "Opsi A tepat karena ketentuan ini menjamin prinsip *checks and balances*. Presiden tidak dapat membubarkan DPR seperti dalam sistem parlementer atau maklumat masa lalu (Dekrit 1959), sehingga parlemen bebas menjalankan fungsi pengawasan tanpa ancaman pembubaran eksekutif.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena Presiden tidak berwenang menunda jadwal masa sidang dewan.",
+          "C": "Kurang tepat karena DPA telah dibubarkan dan presiden dilarang membubarkan dewan dalam bentuk apa pun.",
+          "D": "Kurang tepat karena pergantian pimpinan fraksi merupakan ranah internal otonom partai politik.",
+          "E": "Kurang tepat karena PAW anggota dewan tunduk pada undang-undang pemilu dan mekanisme internal partai."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "diganti Wakil Presiden sampai habis masa jabatannya"
+      ],
+      "topik_materi": "Suksesi Jabatan Presiden Apabila Berhalangan Tetap",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Apabila Presiden Republik Indonesia mangkat, berhenti, atau diberhentikan dalam masa jabatannya, ketentuan konstitusional menetapkan bahwa Presiden...",
+      "pilihan": {
+        "A": "Digantikan oleh pimpinan majelis permusyawaratan secara ad interim",
+        "B": "Diganti Wakil Presiden sampai habis masa jabatannya secara definitif",
+        "C": "Digantikan oleh koalisi tiga menteri koordinator hingga pemilu ulang",
+        "D": "Diganti oleh ketua mahkamah agung selaku pejabat pelaksana harian",
+        "E": "Digantikan oleh perwakilan partai politik pemenang kursi terbanyak"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pasal 8 ayat (1) UUD 1945 menentukan jika Presiden mangkat, berhenti, diberhentikan, atau tidak dapat melakukan kewajibannya, maka **diganti Wakil Presiden sampai habis masa jabatannya**.",
+        "alasan_kunci": "Opsi B tepat karena Wakil Presiden merupakan pasangan dwitunggal yang terpilih bersamaan dalam pemilu. Saat kursi kepresidenan lowong karena halangan tetap, Wakil Presiden otomatis dilantik menjadi Presiden definitif guna menuntaskan sisa periode berjalan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pimpinan majelis tidak berkedudukan menggantikan presiden dalam kondisi ini.",
+          "C": "Kurang tepat karena menteri koordinator bukan pelaksana tugas suksesi tunggal jika wapres masih ada.",
+          "D": "Kurang tepat karena ketua MA memegang kekuasaan kehakiman dan dilarang memangku jabatan eksekutif.",
+          "E": "Kurang tepat karena pergantian presiden terikat pada garis suksesi konstitusi, bukan penunjukan partai."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama"
+      ],
+      "topik_materi": "Pelaksana Tugas Kepresidenan Bersama (Triumvirat)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Apabila Presiden dan Wakil Presiden mangkat atau berhalangan tetap secara bersamaan dalam masa jabatannya, pelaksana tugas kepresidenan diemban oleh...",
+      "pilihan": {
+        "A": "Panglima TNI, Kepala Kepolisian Negara, dan Kepala Badan Intelijen Negara",
+        "B": "Menteri Koordinator Bidang Polhukam, Menteri Keuangan, dan Jaksa Agung",
+        "C": "Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama",
+        "D": "Ketua MPR, Ketua DPR, serta Ketua Dewan Perwakilan Daerah secara kolegial",
+        "E": "Ketua Mahkamah Agung, Ketua Mahkamah Konstitusi, dan Ketua Komisi Yudisial"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Jika Presiden dan Wapres mangkat bersamaan, maka Pelaksana Tugas Kepresidenan adalah **Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama** (*triumvirat*).",
+        "alasan_kunci": "Opsi C tepat karena ketiga kementerian ini merepresentasikan pilar dasar stabilitas kedaulatan negara (diplomasi luar negeri, administrasi pemerintahan dalam negeri, dan pertahanan teritorial) yang bertugas mengawal transisi hingga MPR memilih presiden definitif.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena aparat keamanan dan intelijen bertindak sebagai pelaksana teknis pertahanan keamanan di bawah komando pemerintah.",
+          "B": "Kurang tepat karena komposisi triumvirat konstitusional secara baku menetapkan Menlu, Mendagri, dan Menhan.",
+          "D": "Kurang tepat karena pimpinan lembaga legislatif bertugas memimpin sidang pemilihan presiden definitif di MPR.",
+          "E": "Kurang tepat karena pimpinan lembaga yudikatif menjaga independensi kekuasaan kehakiman dan tidak menjalankan eksekutif."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "Mengajukan usul perubahan pasal-pasal Undang-Undang Dasar oleh sekurangkurangnya 1/3"
+      ],
+      "topik_materi": "Hak Anggota MPR Mengajukan Perubahan UUD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu hak konstitusional yang dimiliki oleh anggota Majelis Permusyawaratan Rakyat dalam menjalankan tugasnya adalah...",
+      "pilihan": {
+        "A": "Menerbitkan dekrit darurat pembubaran lembaga-lembaga tinggi negara",
+        "B": "Membatalkan putusan peradilan tingkat banding perkara kejahatan perpajakan",
+        "C": "Menetapkan besaran tarif retribusi daerah tanpa koordinasi pemerintah daerah",
+        "D": "Mengajukan usul perubahan pasal-pasal Undang-Undang Dasar oleh sekurang-kurangnya 1/3 dari jumlah anggota MPR",
+        "E": "Menyetujui pengangkatan pimpinan perusahaan milik negara secara administratif"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Hak anggota MPR meliputi: **mengajukan usul perubahan pasal-pasal Undang-Undang Dasar oleh sekurang-kurangnya 1/3 dari jumlah anggota MPR**, memilih dan dipilih, membela diri, imunitas, protokoler, serta keuangan dan administratif.",
+        "alasan_kunci": "Opsi D tepat karena hak inisiatif amandemen merupakan wewenang substantif anggota MPR yang dijamin oleh UUD 1945 asalkan memenuhi kuorum usulan formal sekurang-kurangnya sepertiga anggota secara tertulis.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena anggota MPR tidak berwenang menerbitkan dekrit pembubaran lembaga negara.",
+          "B": "Kurang tepat karena pembatalan putusan peradilan merupakan wewenang hierarki badan yudikatif (kasasi di MA).",
+          "C": "Kurang tepat karena penetapan retribusi daerah merupakan wewenang DPRD bersama kepala daerah.",
+          "E": "Kurang tepat karena pengangkatan direksi BUMN merupakan ranah kementerian BUMN dan rapat pemegang saham."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 46,
+      "kata_kunci_modul": [
+        "Keuangan dan administratif"
+      ],
+      "topik_materi": "Hak Proteksi dan Kelengkapan Anggota MPR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain hak mengajukan usul perubahan UUD dan hak membela diri, anggota MPR dilengkapi dengan hak...",
+      "pilihan": {
+        "A": "Veto mutlak terhadap regulasi menteri, eksekutif daerah, dan kejaksaan",
+        "B": "Penyidikan langsung terhadap pelanggaran perizinan lingkungan hidup daerah",
+        "C": "Pemberian grasi massal bagi narapidana tindak pidana kepabeanan negara",
+        "D": "Penggeledahan mandiri terhadap sarana kantor pemerintahan tingkat wilayah",
+        "E": "Imunitas, protokoler, serta hak keuangan dan administratif kedinasan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Hak-hak anggota MPR menurut UUD 1945 mencakup hak memilih dan dipilih, membela diri, **imunitas, protokoler, dan keuangan dan administratif**.",
+        "alasan_kunci": "Opsi E tepat karena hak imunitas melindungi anggota dewan dari tuntutan hukum atas pernyataan yang disampaikan dalam sidang kedewanan, hak protokoler menjamin tata kehormatan kedudukan negara, dan hak keuangan/administratif menunjang operasional pengabdian kedewanan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena anggota MPR tidak memiliki hak veto terhadap peraturan menteri atau eksekutif daerah.",
+          "B": "Kurang tepat karena penyidikan lingkungan hidup merupakan wewenang PPNS lingkungan hidup dan kepolisian.",
+          "C": "Kurang tepat karena pemberian grasi merupakan wewenang presiden atas pertimbangan Mahkamah Agung.",
+          "D": "Kurang tepat karena penggeledahan merupakan wewenang aparat penegak hukum pro justitia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Menjalankan kekuasaan pemerintahan negara menurut Undang-undang Dasar"
+      ],
+      "topik_materi": "Tugas Presiden Menjalankan Pemerintahan Menurut UUD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tugas dan wewenang pokok Presiden Republik Indonesia selaku Kepala Pemerintahan dalam bidang eksekutif adalah...",
+      "pilihan": {
+        "A": "Menyelenggarakan penuntutan perkara kejahatan korporasi di peradilan tinggi",
+        "B": "Menjalankan kekuasaan pemerintahan negara menurut Undang-undang Dasar",
+        "C": "Meninjau kembali putusan sengketa hasil pemilihan kepala daerah provinsi",
+        "D": "Mengadili pelanggaran kode etik para hakim agung di lingkungan peradilan",
+        "E": "Mengesahkan kepengurusan partai politik oposisi secara mutlak otoritatif"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tugas dan wewenang Presiden selaku Kepala Pemerintahan nomor satu adalah **menjalankan kekuasaan pemerintahan negara menurut Undang-undang Dasar**.",
+        "alasan_kunci": "Opsi B tepat karena Pasal 4 ayat (1) UUD 1945 memberikan mandat kekuasaan eksekutif kepada Presiden untuk memimpin birokrasi dan administrasi negara dengan bersandar teguh pada koridor konstitusi.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penuntutan pidana dijalankan oleh lembaga Kejaksaan Republik Indonesia.",
+          "C": "Kurang tepat karena pengujian sengketa hasil pemilihan umum merupakan wewenang Mahkamah Konstitusi.",
+          "D": "Kurang tepat karena pengawasan etik hakim agung merupakan ranah wewenang Komisi Yudisial.",
+          "E": "Kurang tepat karena pengesahan badan hukum parpol tunduk pada aturan administrasi kementerian hukum, bukan keputusan personal presiden."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Menetapkan Peraturan Pemerintah untuk menjalankan undang-undang sebagaimana mestinya"
+      ],
+      "topik_materi": "Kewenangan Menetapkan Peraturan Pemerintah (PP)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 5 ayat (2) UUD 1945, wewenang regulasi Presiden dalam rangka implementasi undang-undang adalah...",
+      "pilihan": {
+        "A": "Menerbitkan fatwa hukum yang mengikat jalannya persidangan perkara perdata",
+        "B": "Mengubah substansi pasal undang-undang secara langsung lewat surat edaran",
+        "C": "Menetapkan Peraturan Pemerintah untuk menjalankan undang-undang sebagaimana mestinya",
+        "D": "Menetapkan traktat bilateral tanpa memerlukan koordinasi perwakilan kementerian",
+        "E": "Menginstruksikan pembatalan vonis hakim pengadilan umum demi stabilitas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sesuai Pasal 5 ayat (2) UUD 1945, Presiden bertugas **menetapkan Peraturan Pemerintah untuk menjalankan undang-undang sebagaimana mestinya**.",
+        "alasan_kunci": "Opsi C tepat karena Peraturan Pemerintah (PP) merupakan instrumen pelaksana yang menjabarkan norma undang-undang agar dapat diterapkan secara teknis operasional oleh kementerian dan lembaga.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penerbitan fatwa peradilan merupakan kompetensi internal lembaga peradilan.",
+          "B": "Kurang tepat karena surat edaran tidak berkedudukan sederajat dengan UU dan dilarang mengubah isi pasal UU.",
+          "D": "Kurang tepat karena traktat bilateral wajib melalui mekanisme perundingan dan ratifikasi diplomatik.",
+          "E": "Kurang tepat karena eksekutif dilarang mengintervensi atau membatalkan vonis peradilan yang merdeka."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Mengajukan dan membahas rancangan undang-undang bersama DPR"
+      ],
+      "topik_materi": "Kewenangan Legislatif Presiden Bersama DPR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keterlibatan Presiden Republik Indonesia dalam pelaksanaan fungsi legislasi diatur dalam konstitusi melalui hak untuk...",
+      "pilihan": {
+        "A": "Menunda pengundangan naskah undang-undang yang telah disetujui bersama dewan",
+        "B": "Mengesahkan undang-undang tanpa melibatkan pembahasan dengan komisi dewan",
+        "C": "Membatalkan langsung undang-undang yang diterbitkan pada masa pemerintahan lalu",
+        "D": "Mengajukan dan membahas rancangan undang-undang bersama DPR guna persetujuan",
+        "E": "Menetapkan sanksi pidana dalam keputusan presiden tanpa dasar undang-undang"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Fungsi legislatif Presiden selaku Kepala Pemerintahan tercermin dalam hak untuk **mengajukan dan membahas rancangan undang-undang bersama DPR** guna mendapatkan persetujuan bersama.",
+        "alasan_kunci": "Opsi D tepat karena proses pembentukan undang-undang di Indonesia melibatkan kerja sama setara antara Presiden dan DPR. Presiden berhak mengusulkan RUU inisiatif pemerintah serta wajib membahasnya bersama DPR.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena UU yang telah disetujui bersama otomatis sah berlaku setelah 30 hari meskipun tidak ditandatangani.",
+          "B": "Kurang tepat karena pembentukan UU wajib dibahas bersama DPR untuk memperoleh persetujuan bersama.",
+          "C": "Kurang tepat karena pembatalan UU merupakan wewenang pengujian yudisial di Mahkamah Konstitusi.",
+          "E": "Kurang tepat karena penetapan sanksi pidana merupakan materi muatan undang-undang atau perda, bukan Keppres."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Menetapkan Peraturan Pemerintah Pengganti Undang-undang (Perpu)"
+      ],
+      "topik_materi": "Kewenangan Menetapkan Perpu dalam Kegentingan Memaksa",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Dalam hal ihwal kegentingan yang memaksa dan menuntut payung hukum segera, instrumen regulasi darurat yang berhak diterbitkan Presiden adalah...",
+      "pilihan": {
+        "A": "Surat keputusan kementerian koordinator bidang perekonomian negara",
+        "B": "Nota kesepahaman antarfraksi partai politik pemilik kursi mayoritas",
+        "C": "Instruksi gubernur militer untuk membekukan aktivitas lembaga daerah",
+        "D": "Naskah perjanjian perbatasan wilayah dengan negara sahabat tetangga",
+        "E": "Menetapkan Peraturan Pemerintah Pengganti Undang-undang (Perpu) secara mandiri"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Sesuai Pasal 22 UUD 1945, dalam hal ihwal kegentingan yang memaksa, Presiden berhak **menetapkan Peraturan Pemerintah Pengganti Undang-undang (Perpu)** yang kemudian harus mendapat persetujuan DPR pada masa sidang berikutnya.",
+        "alasan_kunci": "Opsi E tepat karena Perpu memberikan kewenangan darurat kepada Presiden untuk segera mengatasi situasi darurat tanpa harus menunggu proses legislasi biasa di DPR yang memakan waktu panjang.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena keputusan menteri koordinator tidak berderajat setingkat undang-undang.",
+          "B": "Kurang tepat karena nota kesepahaman antarfraksi partai bukan merupakan produk peraturan perundangan negara.",
+          "C": "Kurang tepat karena gubernur militer tidak berwenang menerbitkan produk hukum berderajat undang-undang.",
+          "D": "Kurang tepat karena perjanjian perbatasan memerlukan persetujuan DPR dan ratifikasi undang-undang."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Mengajukan dan membahas usul RAPBN bersama DPR"
+      ],
+      "topik_materi": "Wewenang Presiden Dalam Penganggaran Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewenangan fiskal Presiden Republik Indonesia selaku Kepala Pemerintahan dalam pengelolaan anggaran negara diwujudkan melalui tugas untuk...",
+      "pilihan": {
+        "A": "Mengajukan dan membahas usul RAPBN bersama DPR dengan pertimbangan DPD",
+        "B": "Mengesahkan penarikan pinjaman luar negeri tanpa keterlibatan dewan perwakilan",
+        "C": "Menentukan alokasi pagu dana kementerian secara tertutup tanpa audit publik",
+        "D": "Mengalihkan surplus kas perbendaharaan negara ke rekening pribadi pimpinan",
+        "E": "Menunda audit pertanggungjawaban belanja yang diajukan oleh auditor BPK"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Tugas Presiden selaku Kepala Pemerintahan nomor 5 adalah **mengajukan dan membahas usul RAPBN bersama DPR** dengan memperhatikan pertimbangan DPD.",
+        "alasan_kunci": "Opsi A tepat karena penyusunan anggaran negara (APBN) merupakan tanggung jawab eksekutif yang diajukan oleh Presiden setiap tahun (melalui Pidato Pengantar Nota Keuangan) untuk dibahas dan disetujui bersama DPR.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena pembuatan perjanjian utang negara wajib tunduk pada ketentuan undang-undang dan pengawasan DPR.",
+          "C": "Kurang tepat karena alokasi anggaran dibahas terbuka dan transparan di komisi dan badan anggaran dewan.",
+          "D": "Kurang tepat karena kas perbendaharaan negara dikelola melalui Kas Umum Negara yang terpisah dari urusan pribadi.",
+          "E": "Kurang tepat karena pemerintah wajib membuka akses pertanggungjawaban belanja kepada auditor BPK."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Memegang kekuasaan tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara"
+      ],
+      "topik_materi": "Wewenang Panglima Tertinggi Angkatan Bersenjata",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 10 UUD 1945, wewenang Presiden Republik Indonesia dalam kapasitasnya sebagai Kepala Negara adalah...",
+      "pilihan": {
+        "A": "Memimpin peradilan mahkamah militer agung dalam pengadilan desersi pasukan",
+        "B": "Memegang kekuasaan tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara",
+        "C": "Menetapkan pangkat perwira menengah di daerah tanpa melalui seleksi dinas",
+        "D": "Menginstruksikan mobilisasi militer untuk kepentingan kampanye pemilihan umum",
+        "E": "Menyita sarana transportasi sipil tanpa kompensasi pada waktu kondisi damai"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Presiden sebagai kepala negara bertugas **memegang kekuasaan tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara**.",
+        "alasan_kunci": "Opsi B tepat karena Presiden merupakan Panglima Tertinggi (*Supreme Commander*) Tentara Nasional Indonesia yang memegang supremasi sipil atas kekuatan militer dalam kerangka pertahanan negara.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena peradilan militer dipimpin oleh hakim militer di bawah yurisdiksi teknis Mahkamah Agung.",
+          "C": "Kurang tepat karena kepangkatan perwira menengah diatur menurut mekanisme meritokrasi dan regulasi internal TNI.",
+          "D": "Kurang tepat karena TNI bersikap netral dalam politik praktis dan pemilu.",
+          "E": "Kurang tepat karena penyitaan tanpa kompensasi bertentangan dengan jaminan hak kebendaan warga negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Dengan persetujuan DPR, menyatakan perang, membuat perdamaian dan perjanjian internasional"
+      ],
+      "topik_materi": "Pernyataan Perang dan Hubungan Internasional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewenangan Presiden dalam Pasal 11 UUD 1945 terkait pernyataan perang dan perjanjian internasional wajib dilaksanakan melalui syarat...",
+      "pilihan": {
+        "A": "Meminta pertimbangan tertulis dari dewan pimpinan mahkamah konstitusi",
+        "B": "Melakukan konsultasi tertutup dengan komite pertahanan negara tetangga",
+        "C": "Dengan persetujuan DPR, menyatakan perang, membuat perdamaian dan perjanjian internasional",
+        "D": "Menunggu persetujuan aklamasi dari seluruh pimpinan satuan kerja dinas",
+        "E": "Mendapatkan rekomendasi mandiri dari dewan pertimbangan daerah provinsi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Presiden selaku Kepala Negara berwenang: **dengan persetujuan DPR, menyatakan perang, membuat perdamaian dan perjanjian internasional dengan negara lain**.",
+        "alasan_kunci": "Opsi C tepat karena keputusan menyatakan perang dan perjanjian yang berdampak luas bagi kehidupan rakyat menyangkut beban keuangan negara serta kedaulatan, sehingga mutlak membutuhkan persetujuan wakil rakyat di DPR.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena persetujuan konstitusional berasal dari DPR, bukan dari Mahkamah Konstitusi.",
+          "B": "Kurang tepat karena konsultasi dengan dewan parlemen nasional adalah keharusan, bukan dengan komite asing.",
+          "D": "Kurang tepat karena persetujuan pimpinan satuan kerja dinas bukan syarat ketatanegaraan hubungan luar negeri.",
+          "E": "Kurang tepat karena DPD memberikan pertimbangan di bidang legislasi otonomi daerah, bukan persetujuan perang."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat, mengangkat duta dan konsul"
+      ],
+      "topik_materi": "Pengangkatan Duta dan Konsul Berdasarkan Pasal 13",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam mengangkat duta dan konsul untuk perwakilan diplomatik di negara sahabat, Presiden wajib menempuh prosedur...",
+      "pilihan": {
+        "A": "Menyerahkan proses seleksi sepenuhnya kepada organisasi profesi advokat",
+        "B": "Meminta pengujian kepatutan administratif kepada badan pemeriksa keuangan",
+        "C": "Mendapatkan rekomendasi mutlak dari komisi yudisial bidang pengawasan hakim",
+        "D": "Dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat, mengangkat duta dan konsul",
+        "E": "Mengangkat calon secara mandiri tanpa memerlukan pertimbangan lembaga dewan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pasal 13 UUD 1945 mengatur bahwa dalam mengangkat duta dan konsul, Presiden bertindak **dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat**, serta menerima penempatan duta negara lain dengan memperhatikan pertimbangan DPR.",
+        "alasan_kunci": "Opsi D tepat karena perwakilan diplomatik mencerminkan wibawa dan kepentingan strategis bangsa di luar negeri, sehingga proses penempatannya melibatkan pertimbangan komisi terkait di DPR demi menjamin integritas dan kompetensi calon.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penunjukan diplomat negara merupakan kewenangan eksekutif di bidang luar negeri.",
+          "B": "Kurang tepat karena BPK bertugas memeriksa keuangan dan tidak menguji kompetensi diplomat.",
+          "C": "Kurang tepat karena Komisi Yudisial bertugas di ranah kekuasaan kehakiman, bukan diplomatik.",
+          "E": "Kurang tepat karena konstitusi mewajibkan Presiden memperhatikan pertimbangan DPR dalam mengangkat duta."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Dengan memperhatikan pertimbangan Mahkamah Agung, memberi grasi, dan rehabilitasi"
+      ],
+      "topik_materi": "Hak Prerogatif Hukum Grasi dan Rehabilitasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 14 ayat (1) UUD 1945, wewenang Presiden dalam memberikan pengampunan hukum berupa grasi dan rehabilitasi dilaksanakan...",
+      "pilihan": {
+        "A": "Secara mandiri tanpa memerlukan pertimbangan lembaga peradilan manapun",
+        "B": "Melalui referendum umum masyarakat pemilih di wilayah terjadinya pidana",
+        "C": "Atas instruksi tertulis dari komite etik asosiasi advokat seluruh wilayah",
+        "D": "Setelah mendapatkan persetujuan tertulis dari seluruh anggota parlemen",
+        "E": "Dengan memperhatikan pertimbangan Mahkamah Agung, memberi grasi, dan rehabilitasi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Presiden selaku Kepala Negara berwenang: **dengan memperhatikan pertimbangan Mahkamah Agung, memberi grasi, dan rehabilitasi**.",
+        "alasan_kunci": "Opsi E tepat karena grasi (pengampunan hukuman) dan rehabilitasi (pemulihan nama baik) berkaitan erat dengan putusan peradilan berkekuatan hukum tetap, sehingga pertimbangan yuridis Mahkamah Agung mutlak diperhatikan oleh Presiden sebelum mengambil keputusan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena konstitusi secara eksplisit mensyaratkan pertimbangan dari Mahkamah Agung.",
+          "B": "Kurang tepat karena mekanisme referendum grasi tidak dikenal dalam sistem ketatanegaraan Indonesia.",
+          "C": "Kurang tepat karena asosiasi advokat tidak memiliki kewenangan konstitusional dalam pemberian grasi.",
+          "D": "Kurang tepat karena persetujuan/pertimbangan DPR dipersyaratkan untuk pemberian amnesti dan abolisi, bukan grasi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 47,
+      "kata_kunci_modul": [
+        "Dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat, memberi amnesti dan abolisi"
+      ],
+      "topik_materi": "Pemberian Amnesti dan Abolisi Berdasarkan Pasal 14 Ayat 2",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan Pasal 14 ayat (2) UUD 1945 menegaskan bahwa pemberian pengampunan massal berupa amnesti dan abolisi oleh Presiden dilakukan...",
+      "pilihan": {
+        "A": "Dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat, memberi amnesti dan abolisi",
+        "B": "Melalui penetapan keputusan pengadilan tinggi tata usaha negara",
+        "C": "Atas pertimbangan mutlak ketua komisi pemilihan umum pusat",
+        "D": "Berdasarkan permohonan tertulis dari majelis hakim mahkamah agung",
+        "E": "Secara mandiri tanpa melibatkan pandangan dari dewan perwakilan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Presiden berwenang: **dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat, memberi amnesti dan abolisi**.",
+        "alasan_kunci": "Opsi A tepat karena amnesti (penghapusan akibat hukum tindak pidana) dan abolisi (peniadaan penuntutan pidana) biasanya berkaitan dengan tindak pidana berdimensi politik (seperti rekonsiliasi pasca-konflik). Oleh karena itu, pertimbangan Dewan Perwakilan Rakyat sebagai representasi politik rakyat sangat esensial.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena amnesti dan abolisi bukan produk putusan peradilan PTUN.",
+          "C": "Kurang tepat karena KPU bertugas menyelenggarakan pemilu, bukan mengurusi amnesti pidana.",
+          "D": "Kurang tepat karena MA memberikan pertimbangan untuk grasi dan rehabilitasi, sedangkan amnesti/abolisi ke DPR.",
+          "E": "Kurang tepat karena pemberian amnesti/abolisi dilarang dilakukan tanpa memperhatikan pertimbangan DPR."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "DPR tidak dapat dibekukan atau dibubarkan oleh Presiden"
+      ],
+      "topik_materi": "Jaminan Konstitusional Kedudukan DPR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan UUD 1945, jaminan kemandirian lembaga Dewan Perwakilan Rakyat ditegaskan melalui asas bahwa...",
+      "pilihan": {
+        "A": "Pimpinan DPR berhak membubarkan kabinet kementerian secara administratif",
+        "B": "Anggota dewan memegang kekuasaan peradilan banding perkara perdata daerah",
+        "C": "DPR tidak dapat dibekukan atau dibubarkan oleh Presiden dalam kondisi apa pun",
+        "D": "Seluruh keputusan komisi legislatif bersifat mutlak tanpa pengujian konstitusi",
+        "E": "DPR berwenang menetapkan peraturan perundang-undangan tanpa tandatangan Presiden"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Salah satu kedudukan pokok DPR dalam konstitusi adalah **DPR tidak dapat dibekukan atau dibubarkan oleh Presiden**, yang menegaskan kedudukan parlemen yang kokoh dan independen.",
+        "alasan_kunci": "Opsi C tepat karena konstitusi melarang Presiden membekukan parlemen demi menjaga kemurnian sistem pemerintahan presidensial dan mencegah kesewenang-wenangan eksekutif seperti peristiwa pembubaran DPR pada era demokrasi terpimpin.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPR tidak berwenang membubarkan jajaran kabinet menteri.",
+          "B": "Kurang tepat karena kekuasaan peradilan banding merupakan wewenang pengadilan tinggi di bawah Mahkamah Agung.",
+          "D": "Kurang tepat karena produk legislasi dewan tetap dapat diuji konstitusionalitasnya di Mahkamah Konstitusi.",
+          "E": "Kurang tepat karena pembentukan undang-undang mensyaratkan pembahasan bersama antara DPR dan Presiden."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "Fungsi DPR:",
+        "Legislasi;"
+      ],
+      "topik_materi": "Tiga Fungsi Utama Dewan Perwakilan Rakyat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tiga fungsi konstitusional yang diemban oleh Dewan Perwakilan Rakyat menurut Pasal 20A ayat (1) UUD 1945 adalah...",
+      "pilihan": {
+        "A": "Fungsi peradilan, penuntutan pidana, dan administrasi kepegawaian nasional",
+        "B": "Fungsi penyelidikan etik, audit perbankan, dan pengangkatan perwira militer",
+        "C": "Fungsi eksekutif, koordinasi moneter, serta diplomasi pertahanan kawasan",
+        "D": "Fungsi legislasi, fungsi anggaran, dan fungsi pengawasan terhadap pemerintah",
+        "E": "Fungsi konstitutif, penegakan disiplin birokrasi, dan bantuan hukum daerah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dewan Perwakilan Rakyat (DPR) memiliki tiga fungsi pokok yaitu fungsi **legislasi, anggaran, dan pengawasan**.",
+        "alasan_kunci": "Opsi D tepat karena fungsi legislasi berfokus pada pembentukan undang-undang, fungsi anggaran berfokus pada penetapan APBN, dan fungsi pengawasan berfokus pada kontrol atas jalannya undang-undang serta kebijakan pemerintah.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena peradilan dan penuntutan merupakan wewenang MA dan Kejaksaan.",
+          "B": "Kurang tepat karena audit perbankan dijalankan OJK dan BI, bukan DPR.",
+          "C": "Kurang tepat karena fungsi eksekutif dan moneter dijalankan oleh Presiden dan Bank Indonesia.",
+          "E": "Kurang tepat karena fungsi konstitutif merupakan kewenangan MPR."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "Bersidang sedikitnya sekali dalam setahun"
+      ],
+      "topik_materi": "Periodesasi Sidang Wajib Dewan Perwakilan Rakyat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban persidangan reguler bagi Dewan Perwakilan Rakyat diatur dalam konstitusi secara tegas yaitu...",
+      "pilihan": {
+        "A": "Bersidang satu kali setiap triwulan di kantor perwakilan tingkat daerah",
+        "B": "Berkumpul secara berkala enam bulan sekali atas undangan menteri keuangan",
+        "C": "Mengadakan rapat kerja setiap permulaan semester anggaran belanja negara",
+        "D": "Menyelenggarakan sidang pleno lima tahun sekali bersama pasangan kepresidenan",
+        "E": "Bersidang sedikitnya sekali dalam setahun untuk melaksanakan fungsi dewan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tugas dan wewenang DPR nomor satu adalah **bersidang sedikitnya sekali dalam setahun** di ibu kota negara.",
+        "alasan_kunci": "Opsi E tepat karena Pasal 19 ayat (3) UUD 1945 menggariskan bahwa DPR bersidang sedikitnya sekali dalam setahun guna memastikan kontinuitas fungsi pengawasan, legislasi, dan anggaran.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena aturan konstitusi menetapkan frekuensi sidang sedikitnya sekali setahun di ibu kota.",
+          "B": "Kurang tepat karena sidang dewan dijalankan mandiri berdasarkan jadwal masa sidang parlemen.",
+          "C": "Kurang tepat karena rapat kerja semesteran diatur dalam tata tertib operasional fraksi/komisi.",
+          "D": "Kurang tepat karena sidang lima tahun sekali adalah ketentuan persidangan MPR, bukan DPR."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "Membentuk undang-undang yang dibahas dengan Presiden untuk mendapat persetujuan bersama"
+      ],
+      "topik_materi": "Wewenang Legislasi DPR dan Persetujuan Bersama",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan wewenang legislasi oleh Dewan Perwakilan Rakyat diwujudkan melalui mekanisme konstitusional yaitu...",
+      "pilihan": {
+        "A": "Membentuk undang-undang yang dibahas dengan Presiden untuk mendapat persetujuan bersama",
+        "B": "Menetapkan peraturan pemerintah secara mandiri saat situasi keamanan kondusif",
+        "C": "Mengesahkan surat edaran kementerian menjadi undang-undang organik negara",
+        "D": "Mengubah tata urutan perundang-undangan melalui keputusan pimpinan komisi",
+        "E": "Membatalkan undang-undang yang sedang diuji materiil di mahkamah konstitusi"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "DPR memegang kekuasaan membentuk undang-undang, yaitu **membentuk undang-undang yang dibahas dengan Presiden untuk mendapat persetujuan bersama**.",
+        "alasan_kunci": "Opsi A tepat karena Pasal 20 ayat (1) dan (2) UUD 1945 menegaskan kekuasaan pembentukan undang-undang berada pada DPR dan setiap rancangan undang-undang wajib dibahas bersama Presiden untuk mendapat persetujuan bersama.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena penetapan Peraturan Pemerintah merupakan wewenang Presiden.",
+          "C": "Kurang tepat karena surat edaran menteri bukan materi rancangan undang-undang.",
+          "D": "Kurang tepat karena hierarki perundang-undangan diatur dalam undang-undang pembentukan peraturan.",
+          "E": "Kurang tepat karena pembatalan undang-undang yang bertentangan dengan UUD adalah kewenangan MK."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "memberikan persetujuan peraturan pemerintah"
+      ],
+      "topik_materi": "Persetujuan Terhadap Perpu Oleh Dewan Perwakilan Rakyat",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Ketika Presiden menetapkan Peraturan Pemerintah Pengganti Undang-Undang (Perpu), wewenang yang wajib dijalankan DPR pada masa sidang berikutnya adalah...",
+      "pilihan": {
+        "A": "Menyerahkan naskah Perpu tersebut kepada kejaksaan agung untuk penuntutan",
+        "B": "Membahas dan memberikan persetujuan atau penolakan atas peraturan pemerintah pengganti undang-undang",
+        "C": "Menyusun permohonan pembatalan Perpu kepada majelis hakim pengadilan tinggi",
+        "D": "Menginstruksikan aparatur daerah guna memboikot pelaksanaan isi naskah perpu",
+        "E": "Menetapkan sanksi administratif langsung terhadap menteri penerbit naskah perpu"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tugas DPR mencakup **membahas dan memberikan persetujuan peraturan pemerintah pengganti undang-undang (Perpu)** pada masa persidangan berikutnya.",
+        "alasan_kunci": "Opsi B tepat karena Perpu merupakan produk darurat eksekutif yang memerlukan kontrol legislatif. Jika DPR memberikan persetujuan, Perpu ditetapkan menjadi Undang-Undang; jika tidak disetujui, Perpu wajib dicabut.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena kejaksaan tidak berwenang menguji keabsahan regulasi perpu.",
+          "C": "Kurang tepat karena pengadilan tinggi menangani sengketa peradilan umum, bukan legislasi darurat.",
+          "D": "Kurang tepat karena perpu yang berlaku sah mengikat seluruh aparatur sebelum dicabut resmi.",
+          "E": "Kurang tepat karena penerbitan perpu merupakan hak konstitusional presiden dan bukan pelanggaran menteri."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "Memperhatikan pertimbangan DPD atas RUU APBN"
+      ],
+      "topik_materi": "Pertimbangan DPD Dalam Pembahasan RUU APBN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam pembahasan RUU APBN serta RUU yang berkaitan dengan pajak, pendidikan, dan agama, DPR secara konstitusional bertugas...",
+      "pilihan": {
+        "A": "Mendelegasikan wewenang persetujuan akhir sepenuhnya kepada komite eksekutif",
+        "B": "Menyusun rancangan belanja daerah tanpa berkoordinasi dengan pemerintah pusat",
+        "C": "Memperhatikan pertimbangan DPD atas RUU APBN dan RUU bidang tertentu tersebut",
+        "D": "Menetapkan besaran tarif cukai komoditas impor secara rahasia tanpa persetujuan",
+        "E": "Mengalihkan alokasi belanja pendidikan menjadi pos bantuan modal perusahaan swasta"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "DPR bertugas **memperhatikan pertimbangan DPD atas RUU APBN** dan RUU yang berkaitan dengan pajak, pendidikan, dan agama sebelum disahkan.",
+        "alasan_kunci": "Opsi C tepat karena DPD mewakili aspirasi kepentingan wilayah daerah kepulauan. Pertimbangan DPD memberikan masukan substantif mengenai kebutuhan riil keuangan dan pembangunan daerah dalam postur anggaran nasional.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena kewenangan persetujuan akhir APBN tetap berada di tangan DPR bersama Presiden.",
+          "B": "Kurang tepat karena penyusunan belanja daerah (APBD) merupakan wewenang DPRD dan Pemda.",
+          "D": "Kurang tepat karena kebijakan fiskal dan tarif cukai dibahas secara terbuka dalam kerangka UU APBN.",
+          "E": "Kurang tepat karena anggaran pendidikan dijamin minimal 20% oleh konstitusi dan dilarang dialihkan serampangan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "Menetapkan APBN bersama Presiden dengan memperhatikan pertimbangan DPD"
+      ],
+      "topik_materi": "Penetapan Anggaran Pendapatan dan Belanja Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Proses penetapan Anggaran Pendapatan dan Belanja Negara (APBN) menurut UUD 1945 dilaksanakan melalui kewenangan DPR untuk...",
+      "pilihan": {
+        "A": "Menerbitkan surat utang negara secara mandiri guna menutup defisit kas",
+        "B": "Menghentikan seluruh pencairan gaji pegawai negeri sipil di satuan kerja",
+        "C": "Mengesahkan laporan keuangan kementerian tanpa melalui telaah hasil BPK",
+        "D": "Menetapkan APBN bersama Presiden dengan memperhatikan pertimbangan DPD",
+        "E": "Menetapkan target penerimaan pajak daerah tanpa persetujuan kepala dinas"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Tugas DPR dalam fungsi anggaran adalah **menetapkan APBN bersama Presiden dengan memperhatikan pertimbangan DPD**.",
+        "alasan_kunci": "Opsi D tepat karena APBN merupakan wujud pengelolaan keuangan negara yang ditetapkan setiap tahun dengan undang-undang. DPR memegang hak anggaran untuk menyetujui atau menolak rancangan anggaran yang diajukan pemerintah.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penerbitan surat berharga negara merupakan kewenangan eksekutif kementerian keuangan.",
+          "B": "Kurang tepat karena belanja pegawai dijamin dalam alokasi pos belanja rutin APBN yang sah.",
+          "C": "Kurang tepat karena audit laporan pertanggungjawaban APBN wajib diperiksa oleh BPK.",
+          "E": "Kurang tepat karena pajak daerah diatur dalam perda dan kewenangan pemda setempat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "Melaksanakan pengawasan terhadap pelaksanaan UU, APBN, serta kebijakan pemerintah"
+      ],
+      "topik_materi": "Fungsi Pengawasan Dewan Perwakilan Rakyat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ruang lingkup pelaksanaan fungsi pengawasan oleh Dewan Perwakilan Rakyat mencakup kegiatan untuk...",
+      "pilihan": {
+        "A": "Mengintervensi jalannya pemeriksaan perkara pidana di tingkat penyidikan",
+        "B": "Mengawasi tata peribadatan keagamaan masyarakat dalam kehidupan sehari-hari",
+        "C": "Memeriksa secara langsung pembukuan kas bendahara umum di daerah terpencil",
+        "D": "Menjatuhkan sanksi kurungan pidana kepada pimpinan lembaga swadaya masyarakat",
+        "E": "Melaksanakan pengawasan terhadap pelaksanaan UU, APBN, serta kebijakan pemerintah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tugas pengawasan DPR adalah **melaksanakan pengawasan terhadap pelaksanaan UU, APBN, serta kebijakan pemerintah**.",
+        "alasan_kunci": "Opsi E tepat karena fungsi pengawasan dewan ditujukan untuk memastikan eksekutif menjalankan undang-undang dan mengelola anggaran sesuai target yang telah ditetapkan dalam APBN secara transparan dan akuntabel.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena parlemen dilarang mengintervensi proses hukum pro justitia kepolisian dan kejaksaan.",
+          "B": "Kurang tepat karena kemerdekaan beribadah dijamin konstitusi dan bukan objek pengawasan politik DPR.",
+          "C": "Kurang tepat karena pemeriksaan pembukuan kas keuangan negara secara fisik merupakan tugas auditor BPK.",
+          "D": "Kurang tepat karena penjatuhan sanksi pidana merupakan kewenangan mutlak majelis hakim pengadilan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "Memilih anggota Badan Pemeriksa Keuangan dengan memperhatikan pertimbangan DPD"
+      ],
+      "topik_materi": "Pemilihan Anggota Badan Pemeriksa Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sesuai Pasal 23F UUD 1945, wewenang DPR dalam suksesi keanggotaan Badan Pemeriksa Keuangan adalah...",
+      "pilihan": {
+        "A": "Memilih anggota Badan Pemeriksa Keuangan dengan memperhatikan pertimbangan DPD",
+        "B": "Mengangkat langsung kerabat pimpinan komisi menjadi dewan pemeriksa pusat",
+        "C": "Mendelegasikan pemilihan auditor utama keuangan kepada asosiasi akuntan",
+        "D": "Meminta rekomendasi mutlak dari dewan pertimbangan kepresidenan negara",
+        "E": "Menetapkan susunan pimpinan BPK tanpa melalui tahapan uji kepatutan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Tugas DPR dalam rekrutmen pimpinan lembaga negara adalah **memilih anggota Badan Pemeriksa Keuangan dengan memperhatikan pertimbangan DPD** untuk kemudian diresmikan oleh Presiden.",
+        "alasan_kunci": "Opsi A tepat karena keanggotaan BPK dipilih oleh DPR dengan masukan tertulis dari DPD guna memastikan integritas, kapasitas profesionalisme, dan independensi lembaga pemeriksa keuangan negara.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena pemilihan anggota BPK wajib melalui proses seleksi kepatutan yang objektif dan meritokratis.",
+          "C": "Kurang tepat karena mandat pemilihan anggota BPK dipegang oleh DPR, bukan asosiasi profesi.",
+          "D": "Kurang tepat karena DPD yang memberikan pertimbangan, bukan dewan pertimbangan kepresidenan.",
+          "E": "Kurang tepat karena calon anggota BPK wajib menjalani uji kepatutan dan kelayakan di komisi DPR."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 48,
+      "kata_kunci_modul": [
+        "Memberikan persetujuan kepada Presiden atas pengangkatan dan pemberhentian anggota Komisi Yudisial"
+      ],
+      "topik_materi": "Persetujuan Keanggotaan Komisi Yudisial",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Wewenang DPR dalam mendukung pembentukan lembaga Komisi Yudisial menurut UUD 1945 adalah...",
+      "pilihan": {
+        "A": "Memimpin sidang pemeriksaan etik hakim yang diadukan oleh masyarakat umum",
+        "B": "Memberikan persetujuan kepada Presiden atas pengangkatan dan pemberhentian anggota Komisi Yudisial",
+        "C": "Menunjuk secara mandiri calon anggota komisi tanpa proses panitia seleksi",
+        "D": "Mengesahkan tata cara persidangan peradilan kasasi di lingkungan mahkamah",
+        "E": "Membatalkan berkas rekomendasi sanksi yang diajukan komisi ke mahkamah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tugas DPR nomor 11 adalah **memberikan persetujuan kepada Presiden atas pengangkatan dan pemberhentian anggota Komisi Yudisial**.",
+        "alasan_kunci": "Opsi B tepat karena anggota Komisi Yudisial diangkat dan diberhentikan oleh Presiden dengan persetujuan DPR. Keterlibatan DPR menjamin representasi publik dalam memilih figur penjaga etika peradilan kehakiman.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena sidang pemeriksaan etik hakim dipimpin langsung oleh majelis kehormatan KY/MA.",
+          "C": "Kurang tepat karena seleksi awal dilakukan oleh panitia seleksi pemerintah sebelum diajukan ke DPR.",
+          "D": "Kurang tepat karena tata cara persidangan kasasi diatur dalam undang-undang MA dan hukum acara.",
+          "E": "Kurang tepat karena rekomendasi sanksi KY disampaikan kepada MA, bukan kepada DPR."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "Memberikan persetujuan calon hakim agung yang diusulkan Komisi Yudisial"
+      ],
+      "topik_materi": "Persetujuan Pengangkatan Hakim Agung Oleh DPR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keterlibatan DPR dalam proses seleksi kepemimpinan puncak kekuasaan kehakiman diwujudkan melalui wewenang untuk...",
+      "pilihan": {
+        "A": "Menyelenggarakan ujian kelulusan teknis yudisial bagi para calon hakim agung",
+        "B": "Menjatuhkan vonis peradilan pidana khusus terhadap mantan menteri negara",
+        "C": "Menetapkan komposisi susunan majelis hakim kasasi perkara niaga nasional",
+        "D": "Memberikan persetujuan calon hakim agung yang diusulkan Komisi Yudisial",
+        "E": "Mengangkat calon hakim tingkat banding di seluruh wilayah peradilan militer"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "DPR bertugas **memberikan persetujuan calon hakim agung yang diusulkan Komisi Yudisial untuk ditetapkan sebagai hakim agung oleh Presiden**.",
+        "alasan_kunci": "Opsi D tepat karena proses rekrutmen Hakim Agung melibatkan tiga cabang kekuasaan: KY menyaring calon, DPR memberikan persetujuan, dan Presiden menetapkannya secara administratif.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena seleksi teknis dan uji kelayakan substantif dijalankan oleh Komisi Yudisial.",
+          "B": "Kurang tepat karena penjatuhan vonis pidana murni merupakan wewenang majelis hakim pengadilan.",
+          "C": "Kurang tepat karena pembagian komposisi majelis hakim kasasi merupakan kewenangan Ketua Mahkamah Agung.",
+          "E": "Kurang tepat karena pengangkatan hakim tingkat banding merupakan kewenangan internal MA."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "Memilih tiga orang calon anggota hakim konstitusi"
+      ],
+      "topik_materi": "Pengusulan Hakim Konstitusi Oleh DPR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam rangka pembentukan keanggotaan Mahkamah Konstitusi, wewenang konstitusional yang dijalankan DPR adalah...",
+      "pilihan": {
+        "A": "Menunjuk seluruh sembilan orang hakim konstitusi dari kalangan pimpinan partai",
+        "B": "Memberhentikan secara mendadak hakim konstitusi yang berbeda pendapat hukum",
+        "C": "Menguji kelayakan putusan peradilan konstitusi mengenai pengujian undang-undang",
+        "D": "Membatalkan hasil putusan sengketa pemilihan umum yang ditetapkan oleh mahkamah",
+        "E": "Memilih tiga orang calon anggota hakim konstitusi dan mengajukannya kepada Presiden"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Mahkamah Konstitusi mempunyai 9 orang hakim konstitusi, di mana DPR berwenang **memilih tiga orang calon anggota hakim konstitusi dan mengajukannya kepada Presiden untuk ditetapkan**.",
+        "alasan_kunci": "Opsi E tepat karena komposisi 9 hakim MK mencerminkan representasi trias politika yang seimbang: 3 orang diajukan oleh DPR, 3 orang diajukan oleh Presiden, dan 3 orang diajukan oleh Mahkamah Agung.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPR hanya mengajukan tiga orang calon, bukan sembilan orang.",
+          "B": "Kurang tepat karena pemberhentian hakim konstitusi diatur ketat oleh undang-undang melalui majelis kehormatan MK.",
+          "C": "Kurang tepat karena putusan MK bersifat final dan mengikat serta tidak dapat diuji ulang oleh DPR.",
+          "D": "Kurang tepat karena putusan sengketa hasil pemilu di MK tidak dapat dibatalkan oleh parlemen."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "DPR mempunyai hak:",
+        "Interpelasi;"
+      ],
+      "topik_materi": "Hak-Hak Kelembagaan Dewan Perwakilan Rakyat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 20A ayat (2) UUD 1945, hak-hak yang dimiliki oleh lembaga DPR dalam rangka pelaksanaan fungsi pengawasan adalah...",
+      "pilihan": {
+        "A": "Hak interpelasi, hak angket, dan hak menyatakan pendapat kepada pemerintah",
+        "B": "Hak veto, hak amnesti massal, dan hak penuntutan kejahatan politik luar negeri",
+        "C": "Hak banding, hak kasasi yudisial, serta hak peninjauan kembali perkara pajak",
+        "D": "Hak prerogatif, hak grasi kepala negara, serta hak pengangkatan menteri",
+        "E": "Hak eksekusi aset daerah, hak audit mandiri, dan hak pembekuan korporasi"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dalam menjalankan fungsinya, lembaga DPR mempunyai hak: **interpelasi, angket, dan menyatakan pendapat**.",
+        "alasan_kunci": "Opsi A tepat karena hak interpelasi adalah hak meminta keterangan kepada pemerintah, hak angket adalah hak menyelidiki kebijakan strategis pemerintah yang diduga melanggar undang-undang, dan hak menyatakan pendapat adalah hak menyampaikan sikap resmi lembaga dewan.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena hak veto dan amnesti bukan merupakan hak kelembagaan DPR melainkan ranah eksekutif.",
+          "C": "Kurang tepat karena banding dan kasasi merupakan jalur hukum peradilan di badan yudikatif.",
+          "D": "Kurang tepat karena hak prerogatif grasi dan pengangkatan kabinet merupakan hak presiden.",
+          "E": "Kurang tepat karena eksekusi aset dan audit keuangan bukan instrumen hak kelembagaan DPR."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "Anggota DPR mempunyai hak:",
+        "Imunitas."
+      ],
+      "topik_materi": "Hak-Hak Individu Anggota Dewan Perwakilan Rakyat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setiap anggota Dewan Perwakilan Rakyat secara perorangan dibekali oleh konstitusi dengan hak...",
+      "pilihan": {
+        "A": "Menetapkan vonis perkara kejahatan, membubarkan parpol, dan hak menyita aset",
+        "B": "Mengajukan usul RUU, mengajukan pertanyaan, menyampaikan pendapat, dan imunitas",
+        "C": "Membekukan organisasi kemasyarakatan, hak menyadap telepon, dan hak protokoler",
+        "D": "Mereshuffle kabinet menteri, hak grasi, serta hak pembentukan daerah otonom",
+        "E": "Membatalkan perjanjian internasional, hak ekstradisi, dan hak suaka politik"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Anggota DPR mempunyai hak individu yang dijamin UUD 1945, yaitu: **mengajukan usul RUU, mengajukan pertanyaan, menyampaikan usul dan pendapat, dan imunitas**.",
+        "alasan_kunci": "Opsi B tepat karena hak-hak ini menjamin setiap wakil rakyat dapat menyalurkan aspirasi daerah pemilihannya secara vokal dan kritis tanpa khawatir dikriminalisasi berkat adanya perlindungan hak imunitas.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena vonis pidana dan pembubaran parpol merupakan ranah kekuasaan peradilan.",
+          "C": "Kurang tepat karena pembekuan ormas dan penyadapan merupakan ranah penegak hukum dan pengadilan.",
+          "D": "Kurang tepat karena perombakan kabinet merupakan hak prerogatif presiden.",
+          "E": "Kurang tepat karena ekstradisi dan suaka politik merupakan kewenangan hubungan luar negeri pemerintah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "lembaga perwakilan daerah yang berkedudukan sebagai lembaga negara"
+      ],
+      "topik_materi": "Kedudukan Dewan Perwakilan Daerah (DPD)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam struktur ketatanegaraan Indonesia pasca-amandemen UUD 1945, Dewan Perwakilan Daerah (DPD) diposisikan sebagai...",
+      "pilihan": {
+        "A": "Badan otonom eksekutif yang membawahi seluruh kepala dinas di provinsi",
+        "B": "Komisi pembantu kepresidenan dalam penetapan anggaran belanja militer",
+        "C": "Lembaga perwakilan daerah yang berkedudukan sebagai lembaga negara",
+        "D": "Lembaga peradilan adat tertinggi bagi penyelesaian sengketa tanah ulayat",
+        "E": "Majelis perwakilan partai politik tingkat wilayah luar pulau Jawa"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kedudukan DPD dalam UUD 1945 ditegaskan bahwa **DPD merupakan lembaga perwakilan daerah yang berkedudukan sebagai lembaga negara**.",
+        "alasan_kunci": "Opsi C tepat karena DPD dibentuk untuk memperkuat representasi teritorial daerah dalam pengambilan kebijakan di tingkat nasional, berstatus sejajar sebagai lembaga tinggi negara bersama lembaga lainnya.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPD adalah lembaga perwakilan legislatif, bukan bagian dinas eksekutif daerah.",
+          "B": "Kurang tepat karena DPD bukan komisi pembantu kepresidenan bidang militer.",
+          "D": "Kurang tepat karena DPD tidak berwenang mengadili perkara peradilan adat ulayat.",
+          "E": "Kurang tepat karena anggota DPD mewakili daerah provinsi secara independen non-partisan, bukan mewakili partai politik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "dipilih dari setiap provinsi melalui pemilihan umum"
+      ],
+      "topik_materi": "Sistem Pemilihan Anggota Dewan Perwakilan Daerah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Anggota Dewan Perwakilan Daerah (DPD) memperoleh mandat keterwakilan melalui tata cara...",
+      "pilihan": {
+        "A": "Penunjukan langsung oleh gubernur dan dewan perwakilan rakyat daerah",
+        "B": "Musyawarah utusan adat kesultanan dan tokoh masyarakat di daerah masing-masing",
+        "C": "Seleksi berkas administrasi yang diselenggarakan oleh kementerian dalam negeri",
+        "D": "Dipilih dari setiap provinsi melalui pemilihan umum secara perseorangan",
+        "E": "Penugasan dari pimpinan fraksi partai politik peserta pemilu legislatif"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Sesuai Pasal 22C UUD 1945, anggota DPD **dipilih dari setiap provinsi melalui pemilihan umum** dari jalur perseorangan non-partisan.",
+        "alasan_kunci": "Opsi D tepat karena legitimasi anggota DPD bertumpu langsung pada suara pemilih di tiap provinsi, berbeda dengan anggota DPR yang diajukan oleh partai politik.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena gubernur dan DPRD tidak berwenang menunjuk anggota DPD.",
+          "B": "Kurang tepat karena penetapan melalui musyawarah adat utusan golongan tidak lagi berlaku dalam UUD 1945 pasca-amandemen.",
+          "C": "Kurang tepat karena anggota DPD adalah pejabat politik hasil pemilu, bukan pegawai seleksi Kemendagri.",
+          "E": "Kurang tepat karena calon anggota DPD bukan merupakan utusan atau perwakilan fraksi partai."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "Jumlah anggota DPD di setiap provinsi sama"
+      ],
+      "topik_materi": "Prinsip Kesetaraan Keterwakilan Anggota DPD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip kesetaraan perwakilan wilayah dalam pembentukan Dewan Perwakilan Daerah ditegaskan melalui aturan bahwa...",
+      "pilihan": {
+        "A": "Provinsi dengan populasi penduduk terpadat memperoleh alokasi kursi terbanyak",
+        "B": "Ibu kota negara memiliki hak monopoli menentukan separuh dari total kursi dewan",
+        "C": "Provinsi kepulauan diberikan hak kuota perwakilan dua kali lipat dibanding daratan",
+        "D": "Jumlah kursi dewan ditentukan berdasarkan besarnya kontribusi pajak daerah ke APBN",
+        "E": "Jumlah anggota DPD di setiap provinsi sama dan terdistribusi adil di seluruh wilayah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Ketentuan konstitusi menegaskan bahwa **jumlah anggota DPD di setiap provinsi sama**, masing-masing berjumlah 4 orang anggota per provinsi.",
+        "alasan_kunci": "Opsi E tepat karena representasi DPD menganut prinsip kesetaraan teritorial (*equal representation of regions*). Setiap provinsi, baik yang berpenduduk padat maupun jarang, memiliki bobot suara keterwakilan yang persis sama di forum DPD.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena proporsionalitas jumlah penduduk diterapkan pada pemilihan DPR, bukan DPD.",
+          "B": "Kurang tepat karena ibu kota negara tidak memiliki hak istimewa memonopoli kursi keterwakilan dewan.",
+          "C": "Kurang tepat karena seluruh provinsi memperoleh kuota kursi yang setara tanpa diskriminasi geografis.",
+          "D": "Kurang tepat karena kontribusi pajak daerah bukan dasar penentuan alokasi kursi perwakilan politik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "tidak boleh lebih dari 1/3 dari jumlah anggota DPR"
+      ],
+      "topik_materi": "Ambang Batas Maksimal Jumlah Anggota DPD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 22C ayat (2) UUD 1945, batasan kuota seluruh anggota DPD secara nasional diatur agar...",
+      "pilihan": {
+        "A": "Jumlah seluruh anggota DPD tidak boleh lebih dari 1/3 dari jumlah anggota DPR",
+        "B": "Tepat menyamai separuh dari total pejabat struktural eselon satu kementerian",
+        "C": "Mencapai sekurang-kurangnya dua pertiga dari jumlah anggota parlemen nasional",
+        "D": "Dibatasi paling banyak seratus orang perwakilan dari pulau-pulau besar",
+        "E": "Ditetapkan secara bebas oleh dewan perwakilan rakyat daerah di setiap provinsi"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "UUD 1945 mengatur bahwa jumlah anggota DPD dari setiap provinsi sama dan **jumlah seluruh anggota DPD tidak boleh lebih dari 1/3 dari jumlah anggota DPR**.",
+        "alasan_kunci": "Opsi A tepat karena pembatasan rasio sepertiga ini dimaksudkan agar dalam forum persidangan gabungan MPR, komposisi perwakilan rakyat berbasis partai (DPR) dan perwakilan daerah (DPD) tetap berada dalam proporsi yang berimbang dan stabil.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena jumlah anggota DPD tidak dikaitkan dengan jumlah pejabat struktural eselon.",
+          "C": "Kurang tepat karena ambang batas konstitusional adalah tidak lebih dari sepertiga (1/3), bukan 2/3.",
+          "D": "Kurang tepat karena kuota dihitung per provinsi (4 orang per provinsi), bukan dibatasi 100 orang pulau besar.",
+          "E": "Kurang tepat karena jumlah kuota diatur secara nasional dalam konstitusi dan undang-undang pemilu."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "Seluruh anggota DPD adalah anggota MPR"
+      ],
+      "topik_materi": "Integrasi Anggota DPD Dalam Keanggotaan MPR",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keterikatan kelembagaan antara Dewan Perwakilan Daerah dengan Majelis Permusyawaratan Rakyat ditegaskan melalui asas bahwa...",
+      "pilihan": {
+        "A": "Pimpinan DPD secara bergantian memegang jabatan sebagai perdana menteri",
+        "B": "Seluruh anggota DPD adalah anggota MPR bersama-sama dengan anggota DPR",
+        "C": "Anggota DPD baru dapat menghadiri sidang paripurna apabila diundang presiden",
+        "D": "Anggota DPD memiliki status peninjau tanpa hak suara dalam sidang UUD",
+        "E": "Keanggotaan DPD gugur otomatis manakala terpilih menjadi pimpinan komisi majelis"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Kedudukan DPD dalam struktur perwakilan menegaskan bahwa **seluruh anggota DPD adalah anggota MPR**.",
+        "alasan_kunci": "Opsi B tepat karena MPR pasca-amandemen terdiri atas anggota DPR dan anggota DPD. Dengan demikian, setiap anggota DPD secara otomatis menyandang status dan hak penuh sebagai anggota MPR dalam menjalankan fungsi konstitutif.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Indonesia tidak mengenal jabatan perdana menteri dalam sistem presidensial.",
+          "C": "Kurang tepat karena anggota DPD adalah anggota sah MPR yang berhak hadir penuh tanpa undangan presiden.",
+          "D": "Kurang tepat karena anggota DPD memiliki hak bicara dan hak suara yang setara di sidang majelis.",
+          "E": "Kurang tepat karena terpilih menjadi pimpinan majelis justru merupakan amanah penugasan kedewanan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 49,
+      "kata_kunci_modul": [
+        "syarat-syarat dan tata caranya diatur dalam undang-undang"
+      ],
+      "topik_materi": "Mekanisme Pemberhentian Anggota DPD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan mengenai pemberhentian anggota Dewan Perwakilan Daerah dari masa jabatannya menurut UUD 1945 berlaku aturan bahwa...",
+      "pilihan": {
+        "A": "Pemberhentian diputuskan sekehendak pimpinan organisasi kemasyarakatan daerah",
+        "B": "Gubernur berwenang memecat anggota DPD yang berbeda pandangan pembangunan daerah",
+        "C": "Anggota DPD dapat diberhentikan dari jabatannya yang syarat-syarat dan tata caranya diatur dalam undang-undang",
+        "D": "Pemberhentian wajib disetujui melalui pemungutan suara tertutup oleh kementerian",
+        "E": "Anggota dewan tidak dapat diberhentikan dalam kondisi apa pun hingga akhir hayat"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pasal 22D ayat (4) UUD 1945 menetapkan anggota DPD dapat diberhentikan dari jabatannya, yang **syarat-syarat dan tata caranya diatur dalam undang-undang**.",
+        "alasan_kunci": "Opsi C tepat karena konstitusi mendelegasikan pengaturan teknis pemberhentian anggota dewan (seperti karena tindak pidana, pelanggaran kode etik berat, atau berhalangan tetap) kepada undang-undang lembaga perwakilan (UU MD3).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena ormas daerah tidak memiliki kewenangan yuridis memberhentikan pejabat negara.",
+          "B": "Kurang tepat karena gubernur memegang kekuasaan eksekutif dan tidak berwenang memberhentikan wakil legislatif.",
+          "D": "Kurang tepat karena pemberhentian pejabat politik legislatif bukan ranah pemungutan suara kementerian.",
+          "E": "Kurang tepat karena anggota dewan dapat diberhentikan sesuai mekanisme hukum perundang-undangan yang sah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Dapat mengajukan kepada DPR RUU yang berkaitan dengan otonomi daerah"
+      ],
+      "topik_materi": "Hak Inisiatif Legislasi DPD Bidang Daerah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewenangan legislatif yang dimiliki oleh Dewan Perwakilan Daerah menurut Pasal 22D ayat (1) UUD 1945 mencakup hak untuk...",
+      "pilihan": {
+        "A": "Mengesahkan undang-undang perpajakan tanpa melibatkan persetujuan dari DPR",
+        "B": "Menerbitkan obligasi daerah otonom tanpa melalui pengawasan kementerian keuangan",
+        "C": "Menetapkan struktur tarif bea masuk komoditas perdagangan lintas kepulauan",
+        "D": "Membatalkan peraturan daerah secara mandiri tanpa persetujuan menteri dalam negeri",
+        "E": "Dapat mengajukan kepada DPR RUU yang berkaitan dengan otonomi daerah dan perimbangan keuangan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tugas dan wewenang DPD antara lain **dapat mengajukan kepada DPR RUU yang berkaitan dengan otonomi daerah**, hubungan pusat dan daerah, pembentukan, pemekaran, dan penggabungan daerah, pengelolaan SDA, serta perimbangan keuangan pusat dan daerah.",
+        "alasan_kunci": "Opsi E tepat karena DPD memiliki hak inisiatif legislasi khusus untuk materi muatan yang berkaitan langsung dengan kepentingan dan pembangunan daerah otonom di seluruh wilayah Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pengesahan undang-undang merupakan wewenang DPR bersama Presiden.",
+          "B": "Kurang tepat karena penerbitan obligasi daerah wajib memenuhi kriteria ketat regulasi Kemenkeu.",
+          "C": "Kurang tepat karena penetapan bea masuk merupakan kewenangan pemerintah pusat bidang fiskal.",
+          "D": "Kurang tepat karena pembatalan perda tunduk pada mekanisme pengujian yudisial di Mahkamah Agung."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Membahas RUU pada huruf b tersebut bersama-sama DPR"
+      ],
+      "topik_materi": "Keterlibatan DPD Dalam Pembahasan RUU Tertentu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Terkait rancangan undang-undang bidang kedaerahan, keterlibatan DPD dalam proses pembentukan regulasi diatur melalui wewenang untuk...",
+      "pilihan": {
+        "A": "Membahas RUU pada bidang kedaerahan tersebut bersama-sama DPR sebelum dibahas bersama pemerintah",
+        "B": "Memegang hak veto mutlak terhadap keputusan akhir sidang paripurna DPR",
+        "C": "Menetapkan sanksi pidana kurungan bagi kepala daerah yang tidak hadir rapat",
+        "D": "Mengubah susunan fraksi politik dewan perwakilan secara mandiri di parlemen",
+        "E": "Mewajibkan presiden mengundangkan rancangan undang-undang dalam tempo 24 jam"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "DPD bertugas **membahas RUU pada bidang kedaerahan tersebut bersama-sama DPR** atas undangan DPR sesuai tata tertib dewan sebelum dibahas bersama pemerintah.",
+        "alasan_kunci": "Opsi A tepat karena DPD dilibatkan dalam pembahasan tingkat awal (tripartit) bersama DPR untuk menyelaraskan substansi RUU terkait kedaerahan sebelum pemerintah dan DPR melakukan pembahasan persetujuan bersama.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena DPD tidak memiliki hak veto terhadap keputusan persetujuan RUU di DPR.",
+          "C": "Kurang tepat karena DPD tidak memiliki wewenang yuridis menjatuhkan sanksi kurungan pidana.",
+          "D": "Kurang tepat karena DPD tidak memiliki kaitan struktural dengan susunan fraksi partai di DPR.",
+          "E": "Kurang tepat karena pengundangan undang-undang memiliki tenggat waktu konstitusional 30 hari."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Melakukan pengawasan sebagai pertimbangan DPR atas pelaksanaan: Undang-undang mengenai otonomi daerah"
+      ],
+      "topik_materi": "Fungsi Pengawasan DPD Terhadap Pelaksanaan UU",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan fungsi pengawasan oleh Dewan Perwakilan Daerah menurut UUD 1945 diwujudkan melalui kewenangan untuk...",
+      "pilihan": {
+        "A": "Menyelenggarakan penyidikan tindak pidana penyalahgunaan keuangan desa",
+        "B": "Melakukan pengawasan sebagai pertimbangan DPR atas pelaksanaan undang-undang mengenai otonomi daerah",
+        "C": "Menyita berkas laporan pertanggungjawaban dinas perpajakan tingkat kota",
+        "D": "Menonaktifkan bupati atau walikota yang terlambat menyampaikan laporan APBD",
+        "E": "Membekukan operasional badan usaha milik daerah yang mengalami kerugian kas"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "DPD bertugas **melakukan pengawasan sebagai pertimbangan DPR atas pelaksanaan undang-undang mengenai otonomi daerah**, perimbangan keuangan, SDA, pajak, pendidikan, dan agama.",
+        "alasan_kunci": "Opsi B tepat karena hasil pengawasan DPD terhadap implementasi otonomi daerah diserahkan kepada DPR sebagai bahan pertimbangan bagi DPR untuk menindaklanjuti kebijakan pengawasan nasional.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penyidikan pidana keuangan merupakan wewenang aparat kepolisian dan kejaksaan.",
+          "C": "Kurang tepat karena penyitaan dokumen merupakan tindakan hukum pro justitia aparat penyidik.",
+          "D": "Kurang tepat karena pemberhentian kepala daerah diatur lewat mekanisme DPRD dan Kemendagri.",
+          "E": "Kurang tepat karena pengelolaan BUMD berada di bawah ranah pemerintah daerah dan RUPS."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Memberikan pertimbangan kepada DPR dalam pemilihan anggota Badan Pemeriksa Keuangan"
+      ],
+      "topik_materi": "Peran DPD Dalam Pemilihan Anggota BPK",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Wewenang konstitusional DPD dalam proses pembentukan keanggotaan Badan Pemeriksa Keuangan (BPK) adalah...",
+      "pilihan": {
+        "A": "Menetapkan susunan auditor pelaksana audit forensik di seluruh provinsi",
+        "B": "Mengesahkan anggaran operasional badan pemeriksa secara mandiri dan final",
+        "C": "Memberikan pertimbangan kepada DPR dalam pemilihan anggota Badan Pemeriksa Keuangan",
+        "D": "Menjatuhkan putusan etik profesi akuntan terhadap pimpinan lembaga pemeriksa",
+        "E": "Memimpin sidang pleno penyerahan laporan hasil pemeriksaan anggaran tahunan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Tugas DPD salah satunya adalah **memberikan pertimbangan kepada DPR dalam pemilihan anggota Badan Pemeriksa Keuangan**.",
+        "alasan_kunci": "Opsi C tepat karena BPK bertugas memeriksa keuangan pusat dan daerah. Pertimbangan tertulis dari DPD membantu DPR menyaring kandidat anggota BPK yang memiliki komitmen integritas terhadap pengawasan perbendaharaan negara di daerah.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penugasan tim audit internal BPK merupakan kewenangan operasional pimpinan BPK.",
+          "B": "Kurang tepat karena anggaran operasional BPK ditetapkan dalam APBN bersama DPR dan Presiden.",
+          "D": "Kurang tepat karena pengawasan etik auditor BPK dijalankan oleh Majelis Kehormatan Kode Etik BPK.",
+          "E": "Kurang tepat karena sidang penyerahan LHP dipimpin oleh pimpinan dewan perwakilan terkait."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "penyelenggara peradilan yang merdeka untuk menegakkan hukum dan keadilan"
+      ],
+      "topik_materi": "Prinsip Kemerdekaan Kekuasaan Kehakiman Pada MA",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kedudukan Mahkamah Agung berdasarkan Pasal 24 ayat (1) UUD 1945 diposisikan sebagai...",
+      "pilihan": {
+        "A": "Badan pendukung eksekutif dalam penertiban administrasi perpajakan daerah",
+        "B": "Lembaga penasihat hukum resmi bagi jajaran kementerian koordinator pemerintahan",
+        "C": "Komisi penyelidik independen perkara kejahatan lintas batas kedaulatan negara",
+        "D": "Pemegang kekuasaan kehakiman dan penyelenggara peradilan yang merdeka untuk menegakkan hukum dan keadilan",
+        "E": "Pengawas kedisiplinan operasional bagi aparatur sipil negara di kementerian"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Mahkamah Agung (MA) berkedudukan sebagai pemegang kekuasaan kehakiman dan **penyelenggara peradilan yang merdeka untuk menegakkan hukum dan keadilan**.",
+        "alasan_kunci": "Opsi D tepat karena independensi badan peradilan (*judicial independence*) merupakan syarat mutlak negara hukum guna menjamin tegaknya keadilan tanpa adanya campur tangan eksekutif maupun kekuatan politik mana pun.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penertiban administrasi pajak merupakan kewenangan dirjen pajak kementerian keuangan.",
+          "B": "Kurang tepat karena penasihat hukum pemerintah disediakan oleh Jaksa Agung Muda Perdata dan TUN.",
+          "C": "Kurang tepat karena penyelidikan kejahatan transnasional merupakan ranah kepolisian dan interpol.",
+          "E": "Kurang tepat karena disiplin pegawai ASN berada di bawah kewenangan BKN dan pejabat pembina kepegawaian."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "pengadilan tertinggi bagi semua peradilan terlepas dari pengaruh Pemerintah"
+      ],
+      "topik_materi": "Kedudukan MA Sebagai Pengadilan Tertinggi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Fungsi Mahkamah Agung sebagai puncak hierarki peradilan di Indonesia ditegaskan melalui status yuridis bahwa MA merupakan...",
+      "pilihan": {
+        "A": "Mitra koordinasi penuntutan umum di bawah instruksi menteri koordinator",
+        "B": "Lembaga banding pertama bagi perkara tindak pidana pelanggaran pemilu kepala daerah",
+        "C": "Instansi pembina teknis bagi kepolisian resor dan kejaksaan negeri di daerah",
+        "D": "Pengadilan arbitrase dagang khusus untuk penyelesaian utang korporasi asing",
+        "E": "Pengadilan tertinggi bagi semua peradilan terlepas dari pengaruh Pemerintah dan pengaruh lainnya"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kedudukan MA adalah sebagai lembaga negara yang berfungsi sebagai **pengadilan tertinggi bagi semua peradilan terlepas dari pengaruh Pemerintah dan pengaruh-pengaruh lainnya**.",
+        "alasan_kunci": "Opsi E tepat karena MA membawahi empat lingkungan peradilan (umum, agama, militer, dan tata usaha negara) serta memegang otoritas kasasi tertinggi guna menjaga kesatuan penerapan hukum nasional (*unity of jurisprudence*).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena MA bersifat bebas dan mandiri serta terlepas dari arahan kementerian koordinator.",
+          "B": "Kurang tepat karena sengketa hasil pemilu diadili langsung oleh Mahkamah Konstitusi.",
+          "C": "Kurang tepat karena kepolisian dan kejaksaan berada di ranah cabang eksekutif penegak hukum.",
+          "D": "Kurang tepat karena arbitrase dagang merupakan mekanisme penyelesaian sengketa di luar peradilan umum (BANI)."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Calon Hakim Agung diusulkan oleh Komisi Yudisial kepada DPR"
+      ],
+      "topik_materi": "Mekanisme Pengusulan Calon Hakim Agung",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan UUD 1945, tata cara seleksi dan pengusulan calon Hakim Agung diatur melalui mekanisme bahwa...",
+      "pilihan": {
+        "A": "Calon Hakim Agung diusulkan oleh Komisi Yudisial kepada DPR untuk mendapatkan persetujuan",
+        "B": "Calon dipilih secara musyawarah tertutup oleh seluruh hakim agung aktif di pengadilan",
+        "C": "Presiden mengangkat langsung para hakim tinggi peradilan tanpa keterlibatan dewan",
+        "D": "Komisi aparatur sipil negara menyelenggarakan tes komputerisasi serentak di daerah",
+        "E": "Menteri hukum mengajukan daftar nama calon kepada pimpinan lembaga kejaksaan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Prosedur pengangkatan Hakim Agung menetapkan bahwa **Calon Hakim Agung diusulkan oleh Komisi Yudisial kepada DPR untuk mendapatkan persetujuan dan ditetapkan sebagai Hakim Agung oleh Presiden**.",
+        "alasan_kunci": "Opsi A tepat karena proses ini memadukan independensi seleksi profesional oleh KY, persetujuan keterwakilan rakyat oleh DPR, dan legitimasi penetapan administratif oleh Kepala Negara.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena seleksi calon hakim agung dilakukan oleh lembaga eksternal independen (Komisi Yudisial).",
+          "C": "Kurang tepat karena pengangkatan hakim agung wajib melalui proses usulan KY dan persetujuan DPR.",
+          "D": "Kurang tepat karena KASN/BKN mengurusi ASN birokrasi, bukan seleksi hakim agung peradilan.",
+          "E": "Kurang tepat karena menteri hukum dan kejaksaan tidak berwenang mengusulkan nama calon hakim agung."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Ketua dan Wakil Ketua Mahkamah Agung dipilih dari dan oleh Hakim Agung"
+      ],
+      "topik_materi": "Pemilihan Pimpinan Mahkamah Agung",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asas demokrasi internal dalam kepemimpinan puncak badan peradilan tercermin dalam aturan bahwa...",
+      "pilihan": {
+        "A": "Ketua MA ditunjuk secara bergantian oleh pimpinan fraksi partai politik parlemen",
+        "B": "Ketua dan Wakil Ketua Mahkamah Agung dipilih dari dan oleh Hakim Agung secara internal",
+        "C": "Presiden menetapkan pimpinan pengadilan tertinggi berdasarkan urutan masa dinas",
+        "D": "Pimpinan MA disahkan melalui rapat dengar pendapat umum bersama komisi kepolisian",
+        "E": "Menteri koordinator menugaskan pejabat eselon utama menduduki kursi kepaniteraan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Sesuai Pasal 24A ayat (4) UUD 1945, **Ketua dan Wakil Ketua Mahkamah Agung dipilih dari dan oleh Hakim Agung**.",
+        "alasan_kunci": "Opsi B tepat karena pemilihan dari dan oleh hakim agung sendiri menjamin independensi kepemimpinan kehakiman dari intervensi kekuasaan eksekutif maupun legislatif.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pimpinan fraksi partai dilarang mengintervensi pemilihan pimpinan peradilan.",
+          "C": "Kurang tepat karena Presiden tidak berwenang menunjuk atau mendikte pimpinan Mahkamah Agung.",
+          "D": "Kurang tepat karena komisi kepolisian tidak memiliki fungsi dalam suksesi kepemimpinan badan peradilan.",
+          "E": "Kurang tepat karena kepaniteraan MA merupakan unit fungsional di bawah hierarki internal pengadilan tertinggi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "hubungan pusat dan daerah, pembentukan dan pemekaran, dan penggabungan daerah"
+      ],
+      "topik_materi": "Lingkup Materi RUU Usulan DPD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Materi muatan rancangan undang-undang yang menjadi kompetensi DPD untuk diajukan kepada DPR meliputi bidang...",
+      "pilihan": {
+        "A": "Hukum pidana militer, diplomasi internasional, dan standardisasi persenjataan",
+        "B": "Regulasi kepabeanan ekspor impor, perizinan frekuensi radio, dan antariksa",
+        "C": "Hubungan pusat dan daerah, pembentukan dan pemekaran, dan penggabungan daerah",
+        "D": "Perjanjian pertahanan bilateral kawasan, ekstradisi tahanan, dan suaka politik",
+        "E": "Sanksi tindak pidana terorisme, intelijen strategis, dan komando pasukan khusus"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "RUU yang dapat diajukan DPD berkaitan dengan otonomi daerah, **hubungan pusat dan daerah, pembentukan dan pemekaran, dan penggabungan daerah**, pengelolaan SDA, serta perimbangan keuangan pusat dan daerah.",
+        "alasan_kunci": "Opsi C tepat karena pasal 22D UUD 1945 membatasi lingkup inisiatif DPD pada urusan yang bersinggungan langsung dengan tata kelola wilayah dan relasi daerah dengan pemerintah pusat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena urusan militer dan diplomasi merupakan kewenangan pemerintah pusat.",
+          "B": "Kurang tepat karena kepabeanan dan antariksa merupakan urusan perdagangan dan sains kementerian pusat.",
+          "D": "Kurang tepat karena perjanjian pertahanan bilateral merupakan ranah eksekutif dan persetujuan DPR.",
+          "E": "Kurang tepat karena intelijen dan terorisme merupakan urusan keamanan nasional pemerintah pusat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 50,
+      "kata_kunci_modul": [
+        "Memberikan pertimbangan kepada DPR atas RUU APBN dan RUU yang berkaitan dengan pajak, pendidikan, dan agama"
+      ],
+      "topik_materi": "Pertimbangan Anggaran dan Kebijakan Sosial DPD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Fungsi pemberian pertimbangan oleh Dewan Perwakilan Daerah kepada DPR difokuskan pada pembahasan...",
+      "pilihan": {
+        "A": "Rancangan undang-undang kepegawaian dinas intelijen dan penegakan hukum peradilan",
+        "B": "Perjanjian bantuan hibah militer luar negeri dengan perwakilan negara sahabat",
+        "C": "Rancangan peraturan pemerintah pengganti undang-undang tentang keadaan bahaya perang",
+        "D": "RUU APBN dan RUU yang berkaitan dengan pajak, pendidikan, dan agama",
+        "E": "Naskah nota kesepahaman antara kementerian negara dengan perusahaan multinasional"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "DPD bertugas: **memberikan pertimbangan kepada DPR atas RUU APBN dan RUU yang berkaitan dengan pajak, pendidikan, dan agama**.",
+        "alasan_kunci": "Opsi D tepat karena kebijakan APBN, perpajakan, pendidikan, dan keagamaan memiliki dampak langsung pada kesejahteraan sosial dan alokasi transfer dana bagi masyarakat daerah.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena RUU dinas intelijen dibahas oleh komisi pertahanan DPR bersama pemerintah.",
+          "B": "Kurang tepat karena bantuan hibah militer merupakan urusan kerja sama pertahanan pemerintah pusat.",
+          "C": "Kurang tepat karena persetujuan Perpu kegentingan perang merupakan ranah DPR.",
+          "E": "Kurang tepat karena MoU korporasi bukan objek pembahasan rancangan regulasi dewan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "Memeriksa dan memutus permohonan peninjauan kembali pada tingkat pertama dan terakhir"
+      ],
+      "topik_materi": "Wewenang Peninjauan Kembali (PK) Oleh MA",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu tugas dan wewenang yudisial Mahkamah Agung dalam penegakan kepastian hukum adalah...",
+      "pilihan": {
+        "A": "Memeriksa dan memutus permohonan peninjauan kembali pada tingkat pertama dan terakhir",
+        "B": "Mengadili perkara perselisihan hasil penghitungan suara pemilihan kepala daerah",
+        "C": "Meninjau keabsahan konstitusional undang-undang terhadap undang-undang dasar negara",
+        "D": "Memutuskan pembubaran organisasi partai politik peserta pemilu legislatif",
+        "E": "Memberhentikan secara langsung jaksa penuntut umum yang mangkir dalam sidang"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Tugas MA nomor 1 adalah **memeriksa dan memutus permohonan peninjauan kembali pada tingkat pertama dan terakhir atas putusan pengadilan yang telah memperoleh kekuatan hukum tetap**.",
+        "alasan_kunci": "Opsi A tepat karena Peninjauan Kembali (PK) merupakan upaya hukum luar biasa yang diadili langsung oleh Mahkamah Agung apabila ditemukan bukti baru (*novum*) atau kekhilafan hakim dalam putusan inkrah terdahulu.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena sengketa hasil pemilihan kepala daerah diadili oleh Mahkamah Konstitusi.",
+          "C": "Kurang tepat karena pengujian undang-undang terhadap UUD merupakan kewenangan MK.",
+          "D": "Kurang tepat karena pembubaran partai politik merupakan wewenang Mahkamah Konstitusi.",
+          "E": "Kurang tepat karena disiplin jaksa penuntut umum diatur internal oleh kejaksaan agung."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "Memutus permohonan kasasi terhadap putusan pengadilan tingkat banding"
+      ],
+      "topik_materi": "Wewenang Kasasi Mahkamah Agung",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewenangan Mahkamah Agung dalam memeriksa penerapan hukum pada putusan peradilan di bawahnya diwujudkan melalui tugas untuk...",
+      "pilihan": {
+        "A": "Menerbitkan surat paksa bayar pajak bagi wajib pajak perorangan yang mangkir",
+        "B": "Mengaudit laporan keuangan badan amil zakat tingkat kabupaten secara periodik",
+        "C": "Memutus permohonan kasasi terhadap putusan pengadilan tingkat banding dari semua peradilan",
+        "D": "Mengesahkan kepengurusan organisasi advokat tingkat nasional secara administratif",
+        "E": "Menyita barang bukti tindak pidana umum sebelum dimulainya proses persidangan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Tugas MA nomor 2 adalah **memutus permohonan kasasi terhadap putusan pengadilan tingkat banding atau tingkat terakhir dari semua lingkungan peradilan**.",
+        "alasan_kunci": "Opsi C tepat karena peradilan kasasi di Mahkamah Agung memeriksa apakah pengadilan bawahan telah menerapkan hukum dengan benar (*judex juris*), bukan memeriksa fakta peristiwa (*judex facti*).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penerbitan surat paksa pajak merupakan kewenangan jurusita pajak kementerian keuangan.",
+          "B": "Kurang tepat karena audit badan amil zakat dijalankan oleh akuntan publik dan Baznas.",
+          "D": "Kurang tepat karena pengesahan badan hukum organisasi profesi dilakukan oleh kementerian hukum.",
+          "E": "Kurang tepat karena penyitaan barang bukti pra-sidang merupakan kewenangan penyidik kepolisian/kejaksaan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "Menguji secara materil terhadap peraturan perundangan di bawah"
+      ],
+      "topik_materi": "Pengujian Peraturan Di Bawah Undang-Undang Oleh MA",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 24A ayat (1) UUD 1945, wewenang Mahkamah Agung dalam pengujian peraturan perundang-undangan adalah...",
+      "pilihan": {
+        "A": "Menguji kesesuaian undang-undang terhadap naskah pembukaan undang-undang dasar",
+        "B": "Menilai keabsahan instruksi menteri terhadap aturan tata tertib internal dewan",
+        "C": "Membatalkan undang-undang yang dinilai bertentangan dengan ketentuan konvensi",
+        "D": "Menguji ketetapan majelis permusyawaratan terhadap asas umum pemerintahan",
+        "E": "Menguji secara materiil terhadap peraturan perundangan di bawah undang-undang terhadap undang-undang"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tugas MA nomor 3 adalah **menguji secara materil terhadap peraturan perundangan di bawah undang-undang terhadap undang-undang** (*judicial review* regulasi di bawah UU).",
+        "alasan_kunci": "Opsi E tepat karena kewenangan pengujian perundang-undangan di Indonesia terbagi dua: Mahkamah Konstitusi menguji UU terhadap UUD, sedangkan Mahkamah Agung menguji peraturan di bawah UU (seperti PP, Perpres, Perda) terhadap UU.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pengujian undang-undang terhadap UUD merupakan kompetensi Mahkamah Konstitusi.",
+          "B": "Kurang tepat karena tata tertib dewan merupakan aturan internal dewan legislatif.",
+          "C": "Kurang tepat karena MA tidak berwenang membatalkan undang-undang.",
+          "D": "Kurang tepat karena ketetapan MPR bukan objek pengujian materiil di Mahkamah Agung."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "Memberikan pertimbangan kepada Presiden dalam memberikan grasi dan rehabilitasi"
+      ],
+      "topik_materi": "Pertimbangan MA Dalam Pemberian Grasi dan Rehabilitasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Peran konstitusional Mahkamah Agung dalam pelaksanaan hak prerogatif kepala negara diwujudkan melalui kewajiban untuk...",
+      "pilihan": {
+        "A": "Mengesahkan penunjukan menteri pertahanan dalam situasi kedaruratan nasional",
+        "B": "Memberikan pertimbangan kepada Presiden dalam memberikan grasi dan rehabilitasi",
+        "C": "Menyetujui ratifikasi perjanjian batas wilayah negara dengan negara tetangga",
+        "D": "Menentukan nama-nama duta besar yang akan ditempatkan di negara mitra asing",
+        "E": "Menyusun teks pidato kenegaraan tahunan pada sidang paripurna dewan perwakilan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tugas MA nomor 4 adalah **memberikan pertimbangan kepada Presiden dalam memberikan grasi dan rehabilitasi**.",
+        "alasan_kunci": "Opsi B tepat karena Presiden wajib memperhatikan pertimbangan yuridis dari Mahkamah Agung sebelum memutuskan mengabulkan atau menolak permohonan grasi maupun rehabilitasi yang diajukan narapidana.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penunjukan menteri merupakan hak prerogatif presiden tanpa keterlibatan MA.",
+          "C": "Kurang tepat karena persetujuan perjanjian internasional berada pada kewenangan DPR.",
+          "D": "Kurang tepat karena pertimbangan penempatan duta besar diberikan oleh DPR, bukan MA.",
+          "E": "Kurang tepat karena penyusunan pidato kenegaraan merupakan tugas kesekretariatan kepresidenan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "Bersifat mandiri;",
+        "Diangkat dan diberhentikan oleh Presiden dengan persetujuan DPR"
+      ],
+      "topik_materi": "Kedudukan dan Sifat Komisi Yudisial",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kedudukan Komisi Yudisial dalam sistem ketatanegaraan Indonesia pasca-amandemen UUD 1945 dicirikan oleh sifat bahwa lembaga ini...",
+      "pilihan": {
+        "A": "Berada di bawah koordinasi administratif kementerian hukum dan hak asasi",
+        "B": "Berwenang memutus perkara kasasi tindak pidana khusus pada tingkat pertama",
+        "C": "Merupakan sub-bagian teknis kepaniteraan peradilan pada lingkungan mahkamah agung",
+        "D": "Bersifat mandiri, serta diangkat dan diberhentikan oleh Presiden dengan persetujuan DPR",
+        "E": "Memiliki hierarki struktural kepengurusan berjenjang hingga tingkat kecamatan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kedudukan Komisi Yudisial (KY) ditegaskan dalam UUD 1945: **bersifat mandiri, diangkat dan diberhentikan oleh Presiden dengan persetujuan DPR**, serta susunan kedudukannya diatur dengan undang-undang.",
+        "alasan_kunci": "Opsi D tepat karena sifat mandiri (*independent*) menjamin KY dapat melakukan rekrutmen hakim agung dan pengawasan perilaku etik hakim tanpa tekanan dari pihak internal badan peradilan maupun eksekutif.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena KY bukan bagian dari struktur kementerian eksekutif.",
+          "B": "Kurang tepat karena KY tidak berwenang mengadili perkara pidana peradilan umum.",
+          "C": "Kurang tepat karena KY merupakan lembaga negara mandiri di luar Mahkamah Agung.",
+          "E": "Kurang tepat karena KY berkedudukan di ibu kota negara dan tidak memiliki kantor kecamatan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "Mengusulkan pengangkatan Hakim Agung"
+      ],
+      "topik_materi": "Wewenang Pokok Komisi Yudisial",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tugas dan wewenang utama Komisi Yudisial yang secara tegas dimandatkan oleh Pasal 24B ayat (1) UUD 1945 adalah...",
+      "pilihan": {
+        "A": "Mengusulkan pengangkatan Hakim Agung kepada DPR demi persetujuan bersama",
+        "B": "Menyelenggarakan penuntutan pidana terhadap mantan pejabat tinggi birokrasi",
+        "C": "Menguji kesesuaian materi muatan peraturan daerah terhadap undang-undang",
+        "D": "Menjatuhkan vonis eksekusi hukuman badan bagi pelanggar disiplin kerja",
+        "E": "Menyusun naskah rancangan anggaran belanja pengadilan negeri di daerah"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Tugas dan wewenang KY nomor 1 adalah **mengusulkan pengangkatan Hakim Agung** kepada DPR untuk mendapatkan persetujuan dan ditetapkan oleh Presiden.",
+        "alasan_kunci": "Opsi A tepat karena pembentukan KY pasca-reformasi ditujukan untuk memutus mata rantai nepotisme dan korporatisme internal dalam suksesi kepemimpinan hakim agung di Mahkamah Agung.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena penuntutan pidana merupakan tugas institusi kejaksaan.",
+          "C": "Kurang tepat karena pengujian materiil perda terhadap UU merupakan wewenang Mahkamah Agung.",
+          "D": "Kurang tepat karena KY tidak berwenang menjatuhkan sanksi vonis hukuman pidana.",
+          "E": "Kurang tepat karena penganggaran pengadilan dikelola satu atap oleh Mahkamah Agung."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim"
+      ],
+      "topik_materi": "Wewenang Etik Komisi Yudisial",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Selain mengusulkan calon Hakim Agung, kewenangan lain yang dimiliki Komisi Yudisial menurut konstitusi adalah dalam rangka...",
+      "pilihan": {
+        "A": "Mengatur kenaikan pangkat administratif bagi seluruh panitera pengganti",
+        "B": "Membatalkan vonis peradilan tingkat kasasi yang dinilai menciderai publik",
+        "C": "Menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim",
+        "D": "Mengadili permohonan dispensasi usia pernikahan di pengadilan tingkat pertama",
+        "E": "Menetapkan besaran tunjangan kinerja pejabat struktural badan kepegawaian"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Wewenang lain Komisi Yudisial menurut UUD 1945 adalah **memiliki wewenang lain dalam rangka menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim**.",
+        "alasan_kunci": "Opsi C tepat karena KY bertindak sebagai lembaga pengawas eksternal kode etik dan pedoman perilaku hakim (*code of judicial conduct*) demi menjaga integritas moral seluruh aparat kehakiman di Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena urusan kepegawaian panitera dikelola internal oleh sekretariat MA.",
+          "B": "Kurang tepat karena KY tidak berwenang mencampuri pertimbangan hukum putusan peradilan (*substantive justice*).",
+          "D": "Kurang tepat karena dispensasi perkawinan diadili oleh pengadilan agama atau pengadilan negeri.",
+          "E": "Kurang tepat karena tunjangan kinerja birokrasi diatur melalui regulasi kementerian terkait."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "Mempunyai sembilan orang anggota Hakim Konstitusi"
+      ],
+      "topik_materi": "Komposisi Keanggotaan Mahkamah Konstitusi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Susunan keanggotaan Mahkamah Konstitusi berdasarkan ketentuan Pasal 24C ayat (3) UUD 1945 terdiri atas...",
+      "pilihan": {
+        "A": "Tujuh orang hakim yang ditunjuk langsung oleh dewan perwakilan rakyat daerah",
+        "B": "Lima belas orang delegasi fakultas hukum negeri seluruh wilayah kepulauan",
+        "C": "Sebelas orang pakar hukum tata negara yang diangkat seumur hidup oleh majelis",
+        "D": "Lima orang pimpinan lembaga tinggi negara perwakilan kementerian koordinator",
+        "E": "Sembilan orang anggota Hakim Konstitusi yang diusulkan oleh Presiden, DPR, dan MA"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kedudukan MK menetapkan bahwa MK **mempunyai sembilan orang anggota Hakim Konstitusi yang diusulkan oleh masing-masing Presiden tiga orang, DPR tiga orang, dan Mahkamah Agung tiga orang**, kemudian ditetapkan oleh Presiden.",
+        "alasan_kunci": "Opsi E tepat karena komposisi tripartit (3 Presiden, 3 DPR, 3 MA) menjamin kemandirian dan perimbangan representasi dari tiga cabang kekuasaan negara tanpa ada cabang yang mendominasi.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena jumlah hakim MK adalah sembilan orang, bukan tujuh orang usulan DPRD.",
+          "B": "Kurang tepat karena anggota MK berjumlah sembilan orang dan bukan delegasi otomatis fakultas hukum.",
+          "C": "Kurang tepat karena hakim konstitusi menjabat dengan batas masa jabatan menurut undang-undang, bukan seumur hidup.",
+          "D": "Kurang tepat karena hakim konstitusi adalah figur negarawan pengawal konstitusi, bukan menteri koordinator."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "Menguji undang-undang terhadap Undang-Undang Dasar Negara Republik Indonesia 1945"
+      ],
+      "topik_materi": "Wewenang Pengujian Undang-Undang Oleh MK",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tugas dan wewenang pertama Mahkamah Konstitusi menurut Pasal 24C ayat (1) UUD 1945 adalah...",
+      "pilihan": {
+        "A": "Menyelenggarakan peninjauan kembali perkara tindak pidana korporasi swasta",
+        "B": "Menguji undang-undang terhadap Undang-Undang Dasar Negara Republik Indonesia 1945",
+        "C": "Menguji keabsahan peraturan pemerintah terhadap norma undang-undang pembentukan",
+        "D": "Menjatuhkan putusan kasasi perkara perselisihan ketenagakerjaan kementerian",
+        "E": "Mengadili pelanggaran disiplin aparatur sipil negara di lingkungan birokrasi"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Tugas dan wewenang MK nomor 1 adalah **menguji undang-undang terhadap Undang-Undang Dasar Negara Republik Indonesia 1945** (*judicial review* konstitusionalitas undang-undang).",
+        "alasan_kunci": "Opsi B tepat karena Mahkamah Konstitusi berfungsi sebagai penjaga konstitusi (*the guardian of the constitution*). Jika materi undang-undang bertentangan dengan UUD 1945, MK berwenang membatalkannya dengan putusan yang bersifat final dan mengikat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena permohonan peninjauan kembali diadili oleh Mahkamah Agung.",
+          "C": "Kurang tepat karena pengujian peraturan di bawah UU terhadap UU merupakan wewenang Mahkamah Agung.",
+          "D": "Kurang tepat karena kasasi ketenagakerjaan diadili oleh Mahkamah Agung (Pengadilan Hubungan Industrial).",
+          "E": "Kurang tepat karena pelanggaran disiplin ASN diproses oleh instansi pembina kepegawaian dan BKN."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 51,
+      "kata_kunci_modul": [
+        "Memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar"
+      ],
+      "topik_materi": "Wewenang Memutus SKLN Oleh Mahkamah Konstitusi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Apabila terjadi perselisihan kewenangan antara dua lembaga negara yang mandatnya bersumber langsung dari konstitusi, forum peradilan yang berwenang memutus perkara tersebut adalah...",
+      "pilihan": {
+        "A": "Rapat koordinasi menteri koordinator bidang politik hukum dan keamanan",
+        "B": "Majelis peradilan tata usaha negara tingkat pertama di ibu kota provinsi",
+        "C": "Sidang khusus dewan kehormatan penyelenggara pemilihan umum pusat",
+        "D": "Memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar di MK",
+        "E": "Forum musyawarah pimpinan komisi pemilihan umum bersama badan adhoc"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Tugas dan wewenang MK nomor 2 adalah **memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar Negara Republik Indonesia 1945** (SKLN).",
+        "alasan_kunci": "Opsi D tepat karena MK berfungsi sebagai penafsir akhir konstitusi (*the final interpreter of the constitution*). Apabila terjadi benturan wewenang antarlembaga konstitusional, putusan peradilan MK menjadi penyelesaian hukum definitif demi kepastian tata negara.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Menko Polhukam tidak memiliki kewenangan yudisial memutus sengketa antarlembaga negara.",
+          "B": "Kurang tepat karena PTUN mengadili keputusan pejabat tata usaha negara, bukan sengketa konstitusional antarlembaga tinggi.",
+          "C": "Kurang tepat karena DKPP hanya mengadili pelanggaran kode etik penyelenggara pemilu.",
+          "E": "Kurang tepat karena forum KPU bukan badan peradilan pemutus perselisihan antarlembaga negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "Memutus perselisihan hasil pemilihan umum"
+      ],
+      "topik_materi": "Wewenang MK Memutus Perselisihan Pemilu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewenangan yudisial Mahkamah Konstitusi dalam mengawal kemurnian suara kedaulatan rakyat ditegaskan melalui wewenang untuk...",
+      "pilihan": {
+        "A": "Menetapkan perolehan suara resmi secara mendahului sebelum rekapitulasi tuntas",
+        "B": "Memutus perselisihan hasil pemilihan umum dengan putusan final dan mengikat",
+        "C": "Menjatuhkan vonis kurungan pidana penjara bagi pelaku kecurangan pemilu",
+        "D": "Membekukan kepengurusan komisi pemilihan umum di seluruh wilayah kepulauan",
+        "E": "Membatalkan seluruh tahapan pemilu secara nasional saat terjadi ketegangan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Salah satu wewenang Mahkamah Konstitusi menurut Pasal 24C ayat (1) UUD 1945 adalah **memutus perselisihan hasil pemilihan umum** (PHPU).",
+        "alasan_kunci": "Opsi B tepat karena MK merupakan peradilan tingkat pertama dan terakhir yang putusannya bersifat final dan mengikat (*final and binding*) dalam mengadili perselisihan penetapan perolehan suara pemilu legislatif, pemilu presiden, maupun pilkada.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penetapan perolehan suara resmi dilakukan oleh Komisi Pemilihan Umum (KPU).",
+          "C": "Kurang tepat karena tindak pidana pemilu diproses oleh Sentra Gakkumdu dan diadili pengadilan negeri.",
+          "D": "Kurang tepat karena penegakan etik komisioner KPU diputus oleh Dewan Kehormatan Penyelenggara Pemilu (DKPP).",
+          "E": "Kurang tepat karena MK mengadili sengketa perselisihan angka hasil pemilu, bukan membatalkan pemilu secara serampangan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "paling lama sembilan puluh hari"
+      ],
+      "topik_materi": "Tenggat Waktu Pemeriksaan Pemakzulan di MK",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan UUD 1945, Mahkamah Konstitusi wajib memeriksa, mengadili, dan memutus pendapat DPR mengenai dugaan pelanggaran hukum oleh Presiden dalam batas waktu...",
+      "pilihan": {
+        "A": "Tiga puluh hari kalender sejak berkas usulan diterima panitera",
+        "B": "Seratus dua puluh hari kalender setelah verifikasi dokumen dinyatakan lengkap",
+        "C": "Empat puluh lima hari kerja terhitung sejak sidang pleno permulaan",
+        "D": "Paling lama sembilan puluh hari setelah permintaan DPR tersebut diterima oleh MK",
+        "E": "Enam puluh hari kerja sejak penunjukan susunan majelis hakim peradilan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Mahkamah Konstitusi wajib memeriksa, mengadili, dan memutus dengan seadil-adilnya terhadap pendapat DPR mengenai dugaan pelanggaran oleh Presiden/Wapres **paling lama sembilan puluh hari** setelah permintaan DPR diterima.",
+        "alasan_kunci": "Opsi D tepat karena konstitusi membatasi durasi peradilan pemakzulan maksimal sembilan puluh hari guna menjamin kepastian hukum ketatanegaraan serta mencegah kevakuman atau ketidakpastian kepemimpinan nasional.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena tiga puluh hari merupakan batas waktu penyelenggaraan sidang paripurna MPR pasca-putusan MK.",
+          "B": "Kurang tepat karena jangka waktu 120 hari tidak diatur dalam mekanisme konstitusi pasal 7B.",
+          "C": "Kurang tepat karena batas waktu konstitusional adalah sembilan puluh hari, bukan 45 hari kerja.",
+          "E": "Kurang tepat karena durasi 60 hari berlaku untuk pengisian kekosongan posisi wakil presiden di MPR."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "bebas dan mandiri dalam memeriksa pengelolaan dan tanggung jawab keuangan negara"
+      ],
+      "topik_materi": "Kedudukan Bebas dan Mandiri Badan Pemeriksa Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kedudukan konstitusional Badan Pemeriksa Keuangan (BPK) menurut Pasal 23E ayat (1) UUD 1945 dicirikan oleh status bahwa lembaga ini...",
+      "pilihan": {
+        "A": "Bebas dan mandiri dalam memeriksa pengelolaan dan tanggung jawab keuangan negara",
+        "B": "Merupakan sub-bagian teknis pembukuan kas di bawah kementerian keuangan",
+        "C": "Berada di bawah kendali pimpinan komisi perbankan dan anggaran parlemen",
+        "D": "Bertanggung jawab langsung secara struktural kepada kantor kepresidenan",
+        "E": "Merupakan lembaga penuntut umum dalam perkara tindak pidana perpajakan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kedudukan BPK ditegaskan dalam UUD 1945 sebagai lembaga negara yang **bebas dan mandiri dalam memeriksa pengelolaan dan tanggung jawab keuangan negara**.",
+        "alasan_kunci": "Opsi A tepat karena status bebas (*free*) dan mandiri (*independent*) menjamin bahwa auditor BPK dapat melakukan pemeriksaan keuangan negara tanpa intimidasi, intervensi, atau pengaruh dari pihak yang diperiksa (eksekutif maupun legislatif).",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena BPK berkedudukan di luar kementerian keuangan dan memeriksa kementerian keuangan itu sendiri.",
+          "C": "Kurang tepat karena BPK bersifat mandiri dan tidak berada di bawah kendali komisi DPR.",
+          "D": "Kurang tepat karena BPK sejajar dengan Presiden sebagai lembaga tinggi negara, bukan bawahan kepresidenan.",
+          "E": "Kurang tepat karena fungsi penuntutan pidana merupakan wewenang kejaksaan, bukan BPK."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "pelaksana fungsi auditif, operatif, dan rekomendatif"
+      ],
+      "topik_materi": "Tiga Fungsi Pokok Badan Pemeriksa Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam tata kelola pengawasan keuangan negara, Badan Pemeriksa Keuangan menjalankan fungsi pokok sebagai...",
+      "pilihan": {
+        "A": "Pelaksana fungsi eksekutif, pembentukan regulasi, dan peradilan perdata",
+        "B": "Penyelenggara fungsi moneter, pencetakan uang tunai, dan penjaminan simpanan",
+        "C": "Pelaksana fungsi auditif, operatif, dan rekomendatif atas keuangan negara",
+        "D": "Pengelola investasi dana pensiun aparatur dan penerbitan surat berharga",
+        "E": "Penyidik intelijen keuangan dan penindak sengketa persaingan usaha"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kedudukan BPK salah satunya berfungsi **sebagai pelaksana fungsi auditif, operatif, dan rekomendatif** terhadap keuangan negara.",
+        "alasan_kunci": "Opsi C tepat karena fungsi auditif adalah memeriksa keuangan, fungsi operatif adalah melakukan pemeriksaan lapangan dan investigasi, serta fungsi rekomendatif adalah memberikan rekomendasi perbaikan sistem dan tata kelola perbendaharaan kepada pemerintah dan DPR.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena BPK bukan pelaksana fungsi eksekutif atau peradilan perdata.",
+          "B": "Kurang tepat karena fungsi moneter dan pencetakan uang dijalankan oleh Bank Indonesia.",
+          "D": "Kurang tepat karena pengelolaan investasi dan surat berharga merupakan ranah kementerian keuangan.",
+          "E": "Kurang tepat karena intelijen keuangan dijalankan oleh PPATK dan persaingan usaha oleh KPPU."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "Berkedudukan di ibukota negara dan memiliki perwakilan di setiap provinsi"
+      ],
+      "topik_materi": "Struktur Domisili Badan Pemeriksa Keuangan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Jangkauan kelembagaan Badan Pemeriksa Keuangan dalam mengawal perbendaharaan di seluruh wilayah Indonesia diwujudkan melalui ketentuan bahwa BPK...",
+      "pilihan": {
+        "A": "Memusatkan seluruh auditornya di kantor pusat tanpa membuka kantor wilayah",
+        "B": "Mengalihkan operasional pengawasan kepada kantor perwakilan bank sentral",
+        "C": "Membentuk kantor cabang tetap di setiap kantor distrik setingkat kecamatan",
+        "D": "Menitipkan tugas pemeriksaan keuangan kepada dinas pendapatan daerah",
+        "E": "Berkedudukan di ibukota negara dan memiliki perwakilan di setiap provinsi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Sesuai Pasal 23G ayat (1) UUD 1945, BPK **berkedudukan di ibukota negara dan memiliki perwakilan di setiap provinsi**.",
+        "alasan_kunci": "Opsi E tepat karena keberadaan kantor perwakilan BPK di setiap provinsi memastikan bahwa pengelolaan APBD pemerintah daerah dan instansi vertikal di daerah dapat diperiksa secara efektif, cepat, dan berkesinambungan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena BPK tidak hanya di kantor pusat melainkan memiliki perwakilan di tiap provinsi.",
+          "B": "Kurang tepat karena Bank Indonesia menjalankan otoritas moneter dan bukan pemeriksa anggaran negara.",
+          "C": "Kurang tepat karena perwakilan BPK berada di tingkat provinsi, bukan di tingkat kecamatan.",
+          "D": "Kurang tepat karena BPK merupakan lembaga eksternal yang mandiri dan tidak menitipkan tugas ke pemda."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "menyerahkan hasil pemeriksaan atas pengelolaan dan tanggung jawab keuangan negara kepada DPR, DPD, dan DPRD"
+      ],
+      "topik_materi": "Penyerahan Laporan Hasil Pemeriksaan (LHP) BPK",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah menuntaskan audit keuangan negara, kewajiban konstitusional yang wajib dilaksanakan oleh BPK adalah...",
+      "pilihan": {
+        "A": "Menjual dokumen temuan audit kepada lembaga riset swasta internasional",
+        "B": "Menyerahkan hasil pemeriksaan atas pengelolaan dan tanggung jawab keuangan negara kepada DPR, DPD, dan DPRD",
+        "C": "Menyita secara mandiri gedung kantor pemerintah yang memiliki temuan belanja",
+        "D": "Menjatuhkan putusan pemecatan seketika kepada pimpinan instansi terperiksa",
+        "E": "Mengubah susunan anggaran kementerian secara otoritatif di luar dewan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "BPK bertugas **menyerahkan hasil pemeriksaan atas pengelolaan dan tanggung jawab keuangan negara kepada DPR, DPD, dan DPRD sesuai dengan kewenangannya** untuk ditindaklanjuti.",
+        "alasan_kunci": "Opsi B tepat karena DPR menerima LHP keuangan pusat, DPD menerima LHP terkait kedaerahan, dan DPRD menerima LHP keuangan daerah guna menjalankan fungsi pengawasan dan tindak lanjut rekomendasi anggaran.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena hasil audit BPK disampaikan resmi kepada lembaga perwakilan rakyat sesuai konstitusi.",
+          "C": "Kurang tepat karena BPK tidak berwenang menyita aset melainkan merekomendasikan pengembalian kas negara.",
+          "D": "Kurang tepat karena penjatuhan sanksi pemecatan pegawai merupakan kewenangan pejabat pembina kepegawaian.",
+          "E": "Kurang tepat karena BPK tidak berwenang merevisi anggaran APBN/APBD melainkan memeriksa pertanggungjawabannya."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "Komisi Pemilihan Umum (KPU) yang bersifat nasional, tetap, dan mandiri"
+      ],
+      "topik_materi": "Karakter Lembaga Komisi Pemilihan Umum",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 22E ayat (5) UUD 1945, lembaga penyelenggara pemilihan umum di Indonesia dicirikan oleh sifat yuridis bahwa KPU...",
+      "pilihan": {
+        "A": "Bersifat kedaerahan, temporer, dan tunduk pada arahan partai penguasa",
+        "B": "Berada di bawah koordinasi operasional kepolisian daerah di setiap wilayah",
+        "C": "Merupakan badan ad-hoc eksekutif yang dibentuk dan dibubarkan setiap masa pemilu",
+        "D": "Merupakan suatu Komisi Pemilihan Umum yang bersifat nasional, tetap, dan mandiri",
+        "E": "Bertanggung jawab administratif kepada pimpinan koalisi partai politik dewan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Sesuai Pasal 22E ayat (5) UUD 1945, pemilihan umum diselenggarakan oleh suatu **Komisi Pemilihan Umum (KPU) yang bersifat nasional, tetap, dan mandiri**.",
+        "alasan_kunci": "Opsi D tepat karena sifat nasional mencakup seluruh wilayah NKRI, sifat tetap berarti kelembagaan bekerja secara berkesinambungan (bukan ad-hoc), dan sifat mandiri berarti bebas dari pengaruh eksekutif maupun kepentingan partisan peserta pemilu.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena KPU berskala nasional dan independen dari partai penguasa.",
+          "B": "Kurang tepat karena KPU tidak berada di bawah komando kepolisian melainkan lembaga penyelenggara mandiri.",
+          "C": "Kurang tepat karena sifat KPU adalah kelembagaan tetap (*permanent*), bukan badan ad-hoc yang dibubarkan.",
+          "E": "Kurang tepat karena KPU tidak bertanggung jawab kepada koalisi fraksi partai politik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "langsung, umum, bebas, rahasia, jujur, dan adil setiap lima tahun sekali"
+      ],
+      "topik_materi": "Asas dan Periodesasi Pemilihan Umum",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip pelaksanaan pemilihan umum di Indonesia menurut Pasal 22E ayat (1) UUD 1945 diselenggarakan secara...",
+      "pilihan": {
+        "A": "Langsung, umum, bebas, rahasia, jujur, dan adil setiap lima tahun sekali",
+        "B": "Terbuka perwakilan, bertahap, fleksibel, dan terjadwal setiap tiga tahun sekali",
+        "C": "Kolektif konsensus, tertutup perwakilan, dan diselenggarakan saat kas APBN surplus",
+        "D": "Berjenjang melalui delegasi utusan adat tanpa jadwal periodisasi yang baku",
+        "E": "Mandatoris partai, terpusat di ibu kota, dan digelar sewaktu-waktu atas dekrit"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pemilihan umum dilakukan secara **langsung, umum, bebas, rahasia, jujur, dan adil setiap lima tahun sekali** untuk memilih anggota DPR, DPD, Presiden dan Wapres, serta DPRD.",
+        "alasan_kunci": "Opsi A tepat karena asas LUBER dan JURDIL merupakan fondasi demokrasi Pancasila yang menjamin kebebasan hak pilih setiap warga negara dan perlakuan yang setara bagi seluruh kontestan pemilu.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena pemilu digelar secara langsung dan reguler tiap lima tahun, bukan tiga tahun.",
+          "C": "Kurang tepat karena pemilu tidak boleh ditunda dengan alasan defisit APBN.",
+          "D": "Kurang tepat karena pemilu langsung dan berjadwal pasti setiap lima tahun sekali.",
+          "E": "Kurang tepat karena pemilu merupakan hak rakyat dan tidak dapat digelar sewaktu-waktu tanpa undang-undang."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "Peserta pemilu untuk memilih anggota DPR dan anggota DPRD adalah parpol"
+      ],
+      "topik_materi": "Peserta Pemilu Legislatif Dewan Perwakilan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan Pasal 22E ayat (3) UUD 1945 menetapkan kontestan pemilihan umum legislatif DPR dan DPRD adalah...",
+      "pilihan": {
+        "A": "Perseorangan warga negara yang mendapatkan izin khusus dari kementerian",
+        "B": "Gabungan organisasi massa buruh dan serikat pekerja tingkat daerah",
+        "C": "Peserta pemilu untuk memilih anggota DPR dan anggota DPRD adalah partai politik",
+        "D": "Kamar dagang dan industri bersama asosiasi korporasi berbadan hukum",
+        "E": "Yayasan sosial kemasyarakatan dan dewan kelurahan se-Indonesia"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pasal 22E ayat (3) UUD 1945 menyatakan bahwa **peserta pemilu untuk memilih anggota DPR dan anggota DPRD adalah partai politik**.",
+        "alasan_kunci": "Opsi C tepat karena partai politik diposisikan sebagai pilar demokrasi perwakilan yang mengagregasikan aspirasi masyarakat secara terorganisasi dan mencalonkan wakil rakyat di parlemen tingkat pusat dan daerah.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena calon perseorangan adalah peserta pemilu untuk memilih anggota DPD, bukan DPR/DPRD.",
+          "B": "Kurang tepat karena ormas dan serikat buruh bukan badan peserta resmi pemilu legislatif.",
+          "D": "Kurang tepat karena asosiasi bisnis dan industri bukan badan hukum peserta pemilihan umum.",
+          "E": "Kurang tepat karena yayasan kemasyarakatan bukan kontestan pemilu dewan perwakilan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 52,
+      "kata_kunci_modul": [
+        "Peserta pemilu untuk memilih anggota DPD adalah perseorangan"
+      ],
+      "topik_materi": "Jalur Perseorangan Dalam Pemilu Anggota DPD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perbedaan mendasar antara peserta pemilu DPR dengan pemilu DPD menurut Pasal 22E ayat (4) UUD 1945 terletak pada aturan bahwa...",
+      "pilihan": {
+        "A": "Peserta pemilu DPD wajib mendapatkan rekomendasi tertulis dari pimpinan partai",
+        "B": "Peserta pemilu DPD harus berstatus sebagai perwira purnawirawan dinas",
+        "C": "Peserta pemilu DPD diajukan oleh koalisi fraksi dewan perwakilan rakyat",
+        "D": "Peserta pemilu DPD diwajibkan menjabat sebagai pimpinan dinas di daerah",
+        "E": "Peserta pemilu untuk memilih anggota DPD adalah perseorangan warga negara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pasal 22E ayat (4) UUD 1945 menyatakan bahwa **peserta pemilu untuk memilih anggota DPD adalah perseorangan**.",
+        "alasan_kunci": "Opsi E tepat karena DPD dirancang sebagai representasi teritorial non-partisan. Calon anggota DPD maju sebagai perseorangan yang didukung oleh sejumlah KTP pemilih di daerahnya, bukan atas nama partai politik.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena calon DPD tidak memerlukan rekomendasi dari partai politik.",
+          "B": "Kurang tepat karena calon DPD terbuka bagi setiap warga negara yang memenuhi syarat undang-undang.",
+          "C": "Kurang tepat karena koalisi fraksi DPR tidak memiliki hak mengusung calon anggota DPD.",
+          "D": "Kurang tepat karena calon DPD tidak disyaratkan menjabat pimpinan dinas eksekutif."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "mengatur dan mengurus sendiri urusan pemerintahan menurut asas otonomi dan tugas pembantuan"
+      ],
+      "topik_materi": "Prinsip Otonomi Daerah dan Tugas Pembantuan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 18 ayat (2) UUD 1945, wewenang pemerintahan daerah provinsi, kabupaten, dan kota diselenggarakan melalui prinsip untuk...",
+      "pilihan": {
+        "A": "Menerapkan seluruh instruksi menteri secara mutlak tanpa penyesuaian lokal",
+        "B": "Membentuk mata uang regional guna membiayai belanja operasional kantor",
+        "C": "Mengatur dan mengurus sendiri urusan pemerintahan menurut asas otonomi dan tugas pembantuan",
+        "D": "Menetapkan traktat perbatasan dengan otoritas perwakilan negara tetangga",
+        "E": "Membubarkan satuan peradilan umum yang berada di wilayah teritorial daerah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pemerintahan daerah provinsi, kabupaten, dan kota **mengatur dan mengurus sendiri urusan pemerintahan menurut asas otonomi dan tugas pembantuan**.",
+        "alasan_kunci": "Opsi C tepat karena asas otonomi memberikan hak, wewenang, dan kewajiban bagi daerah untuk memprakarsai pembangunan sesuai potensi daerahnya, didampingi asas tugas pembantuan (*medebewind*) dari pemerintah tingkat atas.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pemda memiliki diskresi otonomi dalam batas kewenangannya untuk menyesuaikan kebutuhan daerah.",
+          "B": "Kurang tepat karena mata uang merupakan kewenangan absolut pemerintah pusat bidang moneter.",
+          "D": "Kurang tepat karena traktat perbatasan merupakan kewenangan eksklusif pemerintah pusat bidang politik luar negeri.",
+          "E": "Kurang tepat karena peradilan umum berada di bawah kekuasaan kehakiman Mahkamah Agung."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "memiliki DPRD yang anggota-anggotanya dipilih melalui pemilu"
+      ],
+      "topik_materi": "Lembaga Perwakilan Rakyat Daerah (DPRD)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip kedaulatan rakyat dalam penyelenggaraan pemerintahan daerah menurut UUD 1945 diwujudkan melalui ketentuan bahwa pemerintah daerah...",
+      "pilihan": {
+        "A": "Dipimpin oleh dewan penasihat yang ditunjuk langsung oleh kementerian",
+        "B": "Dikelola sepenuhnya oleh aparat birokrasi karier tanpa perwakilan dewan",
+        "C": "Diawasi oleh komite pengawas swasta yang berkedudukan di ibu kota",
+        "D": "Menyerahkan fungsi anggaran kepada majelis pertimbangan kesultanan",
+        "E": "Memiliki DPRD yang anggota-anggotanya dipilih melalui pemilu legislatif"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pasal 18 ayat (3) UUD 1945 menetapkan pemerintahan daerah provinsi, daerah kabupaten, dan kota **memiliki DPRD yang anggota-anggotanya dipilih melalui pemilu**.",
+        "alasan_kunci": "Opsi E tepat karena DPRD berkedudukan sebagai mitra sejajar kepala daerah dalam menjalankan fungsi legislasi daerah (Perda), penganggaran (APBD), dan pengawasan jalannya roda pemerintahan daerah.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPRD bukan dewan penasihat penunjukan melainkan wakil rakyat terpilih lewat pemilu.",
+          "B": "Kurang tepat karena pemerintahan daerah melibatkan unsur perwakilan politik rakyat melalui DPRD.",
+          "C": "Kurang tepat karena pengawasan politik dijalankan oleh DPRD dan pengawasan keuangan oleh BPK.",
+          "D": "Kurang tepat karena hak anggaran daerah berada pada wewenang DPRD bersama kepala daerah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Gubernur, Bupati, Walikota masing-masing sebagai kepala pemerintah daerah provinsi, kabupaten, dan kota dipilih secara demokratis"
+      ],
+      "topik_materi": "Pemilihan Kepala Daerah Secara Demokratis",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 18 ayat (4) UUD 1945, suksesi kepemimpinan eksekutif di tingkat daerah dilaksanakan melalui ketentuan bahwa...",
+      "pilihan": {
+        "A": "Kepala daerah diangkat secara mutlak oleh menteri dalam negeri atas dasar loyalitas",
+        "B": "Gubernur, Bupati, Walikota masing-masing dipilih secara demokratis sesuai regulasi undang-undang",
+        "C": "Jabatan kepala daerah diwariskan secara turun-temurun kepada garis keluarga penguasa",
+        "D": "Kepala dinas senior secara otomatis dilantik menduduki kursi bupati dan walikota",
+        "E": "Pemilihan kepala daerah ditentukan melalui lelang kontribusi investasi modal asing"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "UUD 1945 menetapkan bahwa **Gubernur, Bupati, Walikota masing-masing sebagai kepala pemerintah daerah provinsi, kabupaten, dan kota dipilih secara demokratis**.",
+        "alasan_kunci": "Opsi B tepat karena rumusan 'dipilih secara demokratis' memberikan landasan konstitusional bagi pemilihan kepala daerah, baik melalui pemilihan langsung oleh rakyat (Pilkada) maupun sistem demokratis khusus yang diatur dalam undang-undang bagi daerah istimewa.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena kepala daerah tidak diangkat sepihak oleh menteri melainkan dipilih secara demokratis.",
+          "C": "Kurang tepat karena suksesi kepemimpinan monarki dinasti bertentangan dengan prinsip demokrasi republik.",
+          "D": "Kurang tepat karena kepala daerah merupakan jabatan politik hasil pemilihan demokratis, bukan promosi karier PNS.",
+          "E": "Kurang tepat karena pemilihan kepala daerah bertumpu pada mandat suara kedaulatan rakyat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Pemerintahan daerah menjalankan otonomi seluas-luasnya, kecuali urusan pemerintahan yang oleh undang-undang ditentukan sebagai urusan pemerintah pusat"
+      ],
+      "topik_materi": "Prinsip Otonomi Seluas-Luasnya dan Urusan Pusat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip pembagian kewenangan pemerintahan antara pusat dan daerah menurut Pasal 18 ayat (5) UUD 1945 diatur bahwa...",
+      "pilihan": {
+        "A": "Daerah berwenang mengendalikan kebijakan moneter dan mencetak uang lokal",
+        "B": "Seluruh urusan pelayanan publik wajib diputuskan secara terpusat di kantor kementerian",
+        "C": "Pemerintah pusat melimpahkan wewenang peradilan dan pembentukan angkatan perang ke daerah",
+        "D": "Pemerintahan daerah menjalankan otonomi seluas-luasnya, kecuali urusan pemerintahan yang ditentukan sebagai urusan pusat",
+        "E": "Pemerintah daerah tidak memiliki kewenangan mengatur tata kelola fasilitas umum"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Sesuai Pasal 18 ayat (5) UUD 1945, **pemerintahan daerah menjalankan otonomi seluas-luasnya, kecuali urusan pemerintahan yang oleh undang-undang ditentukan sebagai urusan pemerintah pusat**.",
+        "alasan_kunci": "Opsi D tepat karena daerah diberi keleluasaan luas untuk mengurus urusan konkuren dan lokal, sedangkan urusan absolut (politik luar negeri, pertahanan, keamanan, moneter, yustisi, dan agama) tetap menjadi wewenang eksklusif pemerintah pusat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena kebijakan moneter merupakan urusan pemerintah pusat (Bank Indonesia).",
+          "B": "Kurang tepat karena sentralisasi pelayanan publik bertentangan dengan semangat otonomi seluas-luasnya.",
+          "C": "Kurang tepat karena peradilan dan pertahanan militer merupakan wewenang absolut pusat.",
+          "E": "Kurang tepat karena pengelolaan fasilitas umum daerah merupakan urusan otonomi pemda."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "memperhatikan kekhususan dan keragaman daerah"
+      ],
+      "topik_materi": "Hubungan Kewenangan Pusat dan Daerah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam mengatur hubungan wewenang antara pemerintah pusat dan daerah, UUD 1945 mewajibkan adanya prinsip untuk...",
+      "pilihan": {
+        "A": "Memperhatikan kekhususan dan keragaman daerah dalam kerangka kesatuan negara",
+        "B": "Menerapkan standardisasi tata kelola yang seragam mutlak tanpa mempedulikan budaya",
+        "C": "Menghapuskan kearifan lokal yang telah berkembang di tengah masyarakat suku",
+        "D": "Memberikan hak pemisahan wilayah bagi daerah yang berpenghasilan tambang tinggi",
+        "E": "Membatasi komunikasi resmi antara kepala daerah dengan jajaran kementerian"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Hubungan wewenang antara pusat dan pemda provinsi, kabupaten, dan kota diatur dengan undang-undang dengan **memperhatikan kekhususan dan keragaman daerah**.",
+        "alasan_kunci": "Opsi A tepat karena Indonesia memiliki keragaman geografis, sosial, budaya, dan historis. Hubungan kewenangan pusat-daerah harus fleksibel dan akomodatif terhadap pluralitas daerah guna menjaga keharmonisan nasional.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena penyeragaman birokrasi kaku bertentangan dengan pengakuan keragaman daerah.",
+          "C": "Kurang tepat karena kearifan lokal dihormati dan dilindungi oleh konstitusi negara.",
+          "D": "Kurang tepat karena hak pemisahan diri (secession) dilarang dalam kerangka NKRI.",
+          "E": "Kurang tepat karena komunikasi koordinasi pusat-daerah wajib terjalin intensif."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Negara mengakui dan menghormati satuan-satuan pemda yang bersifat khusus atau bersifat istimewa"
+      ],
+      "topik_materi": "Pengakuan Daerah Khusus dan Istimewa Pasal 18B Ayat 1",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 18B ayat (1) UUD 1945, sikap konstitusional negara terhadap daerah yang memiliki keistimewaan historis ditegaskan bahwa...",
+      "pilihan": {
+        "A": "Pemerintah pusat menghapus otonomi khusus demi unifikasi tata kelola wilayah",
+        "B": "Daerah istimewa dibebaskan secara total dari kewajiban mematuhi konstitusi negara",
+        "C": "Negara mengakui dan menghormati satuan-satuan pemda yang bersifat khusus atau istimewa",
+        "D": "Wilayah khusus diwajibkan membentuk angkatan bersenjata mandiri tingkat provinsi",
+        "E": "Status keistimewaan daerah dicabut apabila terjadi pergantian kepemimpinan pusat"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sesuai Pasal 18B ayat (1) UUD 1945, **Negara mengakui dan menghormati satuan-satuan pemda yang bersifat khusus atau bersifat istimewa diatur dengan undang-undang**.",
+        "alasan_kunci": "Opsi C tepat karena konstitusi menghargai hak asal-usul dan jasa historis daerah istimewa (seperti Aceh dan DIY) serta daerah berstatus otonomi khusus (seperti DKI Jakarta dan Papua) yang diatur dengan undang-undang spesifik.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena negara mengakui dan menghormati status khusus tersebut, bukan menghapusnya.",
+          "B": "Kurang tepat karena daerah istimewa tetap terikat dalam kerangka kedaulatan UUD 1945 dan NKRI.",
+          "D": "Kurang tepat karena pertahanan militer tetap tunggal di bawah Tentara Nasional Indonesia.",
+          "E": "Kurang tepat karena status keistimewaan dijamin permanen oleh undang-undang dan konstitusi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Negara mengakui dan menghormati kesatuan-kesatuan masyarakat hukum adat beserta hak-hak tradisionalnya"
+      ],
+      "topik_materi": "Pengakuan Masyarakat Hukum Adat Pasal 18B Ayat 2",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perlindungan konstitusional terhadap kearifan lokal diatur dalam Pasal 18B ayat (2) UUD 1945 melalui ketentuan bahwa...",
+      "pilihan": {
+        "A": "Hukum adat dinyatakan gugur demi penegakan kodifikasi hukum perdata modern",
+        "B": "Masyarakat adat dilarang menggunakan bahasa daerah dalam pergaulan sehari-hari",
+        "C": "Tanah ulayat adat diambil alih secara mutlak oleh korporasi tanpa ganti rugi",
+        "D": "Lembaga peradilan adat memegang wewenang memvonis hukuman pidana mati nasional",
+        "E": "Negara mengakui dan menghormati kesatuan masyarakat hukum adat beserta hak tradisionalnya"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "UUD 1945 menegaskan: **Negara mengakui dan menghormati kesatuan-kesatuan masyarakat hukum adat beserta hak-hak tradisionalnya sepanjang masih hidup dan sesuai dengan perkembangan masyarakat dan prinsip NKRI**.",
+        "alasan_kunci": "Opsi E tepat karena masyarakat hukum adat dan hak tradisionalnya (seperti hak ulayat) merupakan bagian tak terpisahkan dari kekayaan peradaban bangsa yang dijamin eksistensinya oleh hukum negara.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena hukum adat tetap diakui eksistensinya berdampingan dengan hukum positif.",
+          "B": "Kurang tepat karena bahasa daerah dilindungi dan dipelihara oleh negara sesuai Pasal 32 UUD 1945.",
+          "C": "Kurang tepat karena pengambilan tanah adat sewenang-wenang melanggar jaminan hak konstitusional.",
+          "D": "Kurang tepat karena vonis pidana mati hanya dapat dijatuhkan oleh pengadilan peradilan umum berkekuatan tetap."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "sepanjang masih hidup dan sesuai dengan perkembangan masyarakat dan prinsip NKRI"
+      ],
+      "topik_materi": "Syarat Pengakuan Kesatuan Masyarakat Hukum Adat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengakuan terhadap hak tradisional kesatuan masyarakat hukum adat dalam Pasal 18B ayat (2) UUD 1945 dibatasi oleh syarat konstitusional yaitu...",
+      "pilihan": {
+        "A": "Wajib memiliki kepengurusan formal yang disahkan oleh pimpinan dewan perwakilan",
+        "B": "Sepanjang masih hidup dan sesuai dengan perkembangan masyarakat dan prinsip NKRI",
+        "C": "Harus menyerahkan separuh hasil panen pertanian ke kas perbendaharaan pusat",
+        "D": "Dibatasi pada wilayah teritorial yang berpenduduk lebih dari satu juta jiwa",
+        "E": "Wajib menggunakan bahasa pengantar asing dalam pertemuan musyawarah adat"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pengakuan masyarakat adat berlaku bersyarat: **sepanjang masih hidup dan sesuai dengan perkembangan masyarakat dan prinsip NKRI, yang diatur dengan undang-undang**.",
+        "alasan_kunci": "Opsi B tepat karena persyaratan ini menjamin bahwa praktik hukum adat yang diakui tidak bertentangan dengan prinsip hak asasi manusia modern, keutuhan kedaulatan teritorial NKRI, dan nilai-nilai Pancasila.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena legitimasi masyarakat adat bertumpu pada hukum adat turun-temurun, bukan pengesahan dewan.",
+          "C": "Kurang tepat karena pengakuan hak adat tidak dikaitkan dengan upeti hasil panen.",
+          "D": "Kurang tepat karena jumlah populasi bukan syarat pengakuan kesatuan masyarakat hukum adat.",
+          "E": "Kurang tepat karena bahasa pengantar adat adalah bahasa daerah masing-masing."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Susunan dan tata cara penyelenggaraan pemerintahan daerah diatur dalam undang-undang"
+      ],
+      "topik_materi": "Landasan Pengaturan Pemerintahan Daerah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Pasal 18 ayat (6) UUD 1945, pembentukan kelembagaan serta operasional pemerintahan daerah diatur melalui amanat bahwa...",
+      "pilihan": {
+        "A": "Penyelenggaraan tata kelola daerah ditentukan oleh kesepakatan asosiasi kepala desa",
+        "B": "Tata kerja dinas daerah diserahkan kepada dewan arbitrase perdagangan kawasan",
+        "C": "Struktur satuan kerja perangkat daerah ditetapkan sekehendak pimpinan komisi",
+        "D": "Susunan dan tata cara penyelenggaraan pemerintahan daerah diatur dalam undang-undang",
+        "E": "Birokrasi daerah berhak menyimpang dari pemberlakuan regulasi yang diterbitkan presiden"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "UUD 1945 menegaskan: **Susunan dan tata cara penyelenggaraan pemerintahan daerah diatur dalam undang-undang** (yaitu Undang-Undang Pemerintahan Daerah).",
+        "alasan_kunci": "Opsi D tepat karena undang-undang menjadi instrumen hukum yang menyeragamkan tata kelola dasar, pembagian urusan, sistem pengawasan, dan tata tertib hubungan eksekutif-legislatif daerah secara nasional.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penyelenggaraan pemerintahan daerah bersumber dari undang-undang formal negara.",
+          "B": "Kurang tepat karena dewan arbitrase mengurusi perdata sengketa dagang, bukan birokrasi daerah.",
+          "C": "Kurang tepat karena struktur perangkat daerah diatur berdasarkan pedoman regulasi undang-undang dan PP.",
+          "E": "Kurang tepat karena birokrasi daerah wajib patuh pada hierarki peraturan perundang-undangan nasional."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 53,
+      "kata_kunci_modul": [
+        "Pemerintahan daerah provinsi, daerah kabupaten, dan kota"
+      ],
+      "topik_materi": "Struktur Pembagian Wilayah Negara Indonesia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsep pembagian wilayah Negara Kesatuan Republik Indonesia menurut Pasal 18 ayat (1) UUD 1945 dirumuskan dengan ketentuan bahwa...",
+      "pilihan": {
+        "A": "NKRI dibagi atas daerah provinsi dan daerah provinsi itu dibagi atas kabupaten dan kota",
+        "B": "Indonesia merupakan federasi serikat yang terdiri dari negara-negara bagian otonom",
+        "C": "Wilayah nasional disatukan dalam satu karesidenan tunggal di bawah kendali presiden",
+        "D": "Daerah kabupaten memegang kedaulatan mutlak yang setara dengan pemerintah pusat",
+        "E": "Batas teritorial daerah ditetapkan berdasarkan persebaran kepemilikan modal swasta"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pasal 18 ayat (1) UUD 1945 menegaskan: **Negara Kesatuan Republik Indonesia dibagi atas daerah-daerah provinsi dan daerah provinsi itu dibagi atas kabupaten dan kota, yang masing-masing mempunyai pemerintahan daerah yang diatur dengan undang-undang**.",
+        "alasan_kunci": "Opsi A tepat karena frasa 'dibagi atas' (bukan 'terdiri atas') membuktikan secara yuridis bahwa Indonesia adalah negara kesatuan (*unitary state*), di mana kedaulatan tidak terbagi ke negara-negara bagian melainkan didelegasikan melalui pembagian wilayah administratif berpemerintahan sendiri.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena Indonesia adalah negara kesatuan, bukan negara federasi.",
+          "C": "Kurang tepat karena sistem karesidenan merupakan warisan kolonial dan tidak dikenal dalam UUD 1945.",
+          "D": "Kurang tepat karena kedaulatan berada di tangan rakyat dan negara kesatuan, bukan di kabupaten.",
+          "E": "Kurang tepat karena batas teritorial daerah ditetapkan atas dasar administratif dan geografis perundang-undangan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 81,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "kurun waktu pertama dari tanggal 18 Agustus 1945 hingga tanggal 27 Desember 1949"
+      ],
+      "topik_materi": "Kurun Waktu Pertama Berlakunya UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam sejarah konstitusi Indonesia, periode kurun waktu pertama berlakunya UUD 1945 berlangsung pada rentang...",
+      "pilihan": {
+        "A": "Mulai tanggal 17 Agustus 1945 hingga tanggal 17 Agustus 1950 secara penuh",
+        "B": "Terhitung sejak 27 Desember 1949 hingga terbitnya dekrit presiden 1959",
+        "C": "Sejak pengesahan piagam jakarta hingga pembentukan dewan perancang nasional",
+        "D": "Kurun waktu pertama dari tanggal 18 Agustus 1945 hingga tanggal 27 Desember 1949",
+        "E": "Mulai 5 Juli 1959 hingga rangkaian sidang umum majelis tahun 1965"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "UUD 1945 berlaku dalam dua kurun waktu. Berlakunya UUD 1945 dalam **kurun waktu pertama dari tanggal 18 Agustus 1945 hingga tanggal 27 Desember 1949**.",
+        "alasan_kunci": "Opsi D tepat karena kurun waktu pertama dimulai sehari setelah Proklamasi Kemerdekaan saat PPKI mengesahkan UUD 1945 pada 18 Agustus 1945, dan berakhir saat kedaulatan diserahkan kepada Republik Indonesia Serikat (RIS) pada 27 Desember 1949.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pada 27 Desember 1949 diberlakukan Konstitusi RIS.",
+          "B": "Kurang tepat karena rentang 1949–1959 merupakan periode berlakunya Konstitusi RIS dan UUDS 1950.",
+          "C": "Kurang tepat karena Piagam Jakarta disusun pada 22 Juni 1945 sebelum kemerdekaan.",
+          "E": "Kurang tepat karena kurun waktu pasca-Dekrit 5 Juli 1959 merupakan kurun waktu kedua berlakunya UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 82,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "PPKI menetapkan Komite Nasional sebagai pembantu Presiden"
+      ],
+      "topik_materi": "Penetapan Komite Nasional Oleh PPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karena lembaga tinggi negara (MPR, DPR, DPA) belum dapat dibentuk pada awal kemerdekaan, langkah yang diambil PPKI adalah...",
+      "pilihan": {
+        "A": "PPKI menetapkan Komite Nasional sebagai pembantu Presiden dalam menjalankan negara",
+        "B": "Menyerahkan kekuasaan administratif kepada kantor perwakilan sekutu",
+        "C": "Membentuk dewan militer darurat guna mengambil alih kendali pemerintahan",
+        "D": "Menunjuk gubernur jenderal sebagai kepala pemerintahan sementara waktu",
+        "E": "Membekukan seluruh aktivitas birokrasi kementerian di tingkat ibu kota"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Karena lembaga-lembaga negara (MPR, DPR, DPA) belum dapat dibentuk, **PPKI menetapkan Komite Nasional sebagai pembantu Presiden**, untuk pembenarannya diberlakukan Pasal IV Aturan Peralihan UUD 1945.",
+        "alasan_kunci": "Opsi A tepat karena situasi revolusi fisik dan agresi militer tidak memungkinkan diselenggarakannya pemilu untuk membentuk MPR dan DPR. Komite Nasional Indonesia Pusat (KNIP) dibentuk sebagai wadah darurat penopang jalannya pemerintahan Presiden Soekarno.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena para pendiri bangsa mempertahankan kedaulatan merdeka penuh dari pihak asing.",
+          "C": "Kurang tepat karena kepemimpinan negara tetap berada pada supremasi sipil dwitunggal Soekarno-Hatta.",
+          "D": "Kurang tepat karena jabatan gubernur jenderal merupakan struktur kolonial yang telah runtuh.",
+          "E": "Kurang tepat karena roda birokrasi kementerian tetap digerakkan untuk melayani rakyat merdeka."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 83,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "Sistem Kabinet Presidensial yang harus dilaksanakan menurut UUD 1945 diubah menjadi Kabinet Parlementer"
+      ],
+      "topik_materi": "Peralihan Sistem Kabinet Presidensial ke Parlementer",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyimpangan praktik ketatanegaraan terhadap teks konstitusi yang terjadi pada kurun waktu pertama kemerdekaan adalah...",
+      "pilihan": {
+        "A": "Penghapusan status kedaulatan teritorial negara kesatuan oleh pemerintah pusat",
+        "B": "Pembentukan dewan moneter yang mencetak mata uang gulden secara massal",
+        "C": "Sistem Kabinet Presidensial yang harus dilaksanakan menurut UUD 1945 diubah menjadi Kabinet Parlementer",
+        "D": "Pengalihan wewenang panglima angkatan perang kepada pimpinan kepolisian",
+        "E": "Pemberian hak veto kepada delegasi korporasi swasta dalam sidang kabinet"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dalam kurun waktu pertama, **sistem Kabinet Presidensial yang harus dilaksanakan menurut UUD 1945 diubah menjadi Kabinet Parlementer**.",
+        "alasan_kunci": "Opsi C tepat karena Maklumat Pemerintah 14 November 1945 menggeser kepemimpinan kabinet dari Presiden ke Perdana Menteri (Sutan Sjahrir) dan menteri bertanggung jawab kepada KNIP. Langkah politis ini diambil untuk meyakinkan sekutu bahwa Indonesia adalah negara demokratis, bukan bentukan fasis Jepang.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena status kedaulatan negara kesatuan senantiasa dipertahankan dengan gigih.",
+          "B": "Kurang tepat karena Indonesia menerbitkan mata uang sendiri (ORI) pada Oktober 1946.",
+          "D": "Kurang tepat karena panglima angkatan perang (Jenderal Soedirman) memimpin struktur militer mandiri.",
+          "E": "Kurang tepat karena kabinet tidak memberikan hak veto kepada korporasi swasta."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 84,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "berlaku konstitusi RIS dari tanggal 27 Desember 1949 hingga tanggal 17 Agustus 1950"
+      ],
+      "topik_materi": "Periode Berlakunya Konstitusi RIS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konstitusi Republik Indonesia Serikat (RIS) diberlakukan di Indonesia pada masa transisi ketatanegaraan yaitu...",
+      "pilihan": {
+        "A": "Terhitung sejak 17 Agustus 1945 hingga Konferensi Meja Bundar disepakati",
+        "B": "Sepanjang masa agresi militer belanda pertama di wilayah kepulauan jawa",
+        "C": "Mulai pembacaan teks proklamasi hingga penyerahan mandat perdana menteri",
+        "D": "Sejak 17 Agustus 1950 hingga penetapan dekrit presiden 5 Juli 1959",
+        "E": "Berlaku konstitusi RIS dari tanggal 27 Desember 1949 hingga tanggal 17 Agustus 1950"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Antara kurun waktu pertama dan kurun waktu kedua berlakunya UUD 1945, **berlaku konstitusi RIS dari tanggal 27 Desember 1949 hingga tanggal 17 Agustus 1950**.",
+        "alasan_kunci": "Opsi E tepat karena berlakunya Konstitusi RIS merupakan konsekuensi dari hasil Konferensi Meja Bundar (KMB) di Den Haag, di mana Belanda mengakui kedaulatan Indonesia dalam bentuk negara federasi RIS yang berlangsung selama kurang lebih delapan bulan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pada 1945–1949 yang berlaku secara de jure adalah UUD 1945.",
+          "B": "Kurang tepat karena Agresi Militer Belanda I terjadi pada tahun 1947 di era UUD 1945 kurun pertama.",
+          "C": "Kurang tepat karena pembacaan teks proklamasi mengawali berlakunya UUD 1945 kurun pertama.",
+          "D": "Kurang tepat karena rentang 1950–1959 merupakan periode berlakunya UUDS 1950."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 85,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "Republik Indonesia yang beribukota Jogjakarta yang tetap memberlakukan UUD 1945"
+      ],
+      "topik_materi": "Eksistensi RI Yogyakarta Selama Periode RIS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Meskipun Konstitusi RIS diberlakukan secara federal, status UUD 1945 pada kurun 1949–1950 tetap dipertahankan oleh...",
+      "pilihan": {
+        "A": "Seluruh negara bagian boneka bentukan van Mook di wilayah timur",
+        "B": "Negara bagian Republik Indonesia yang beribukota Jogjakarta yang tetap memberlakukan UUD 1945",
+        "C": "Pemerintah distrik militer di kepulauan riau dan sekitarnya",
+        "D": "Dewan perwakilan persekutuan dagang di pelabuhan tanjung priok",
+        "E": "Kantor administrasi komisi jasa baik perserikatan bangsa-bangsa"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Konstitusi RIS tidak berlaku di **negara Republik Indonesia yang beribukota Jogjakarta yang tetap memberlakukan UUD 1945**.",
+        "alasan_kunci": "Opsi B tepat karena dalam struktur federasi RIS, Republik Indonesia (dengan Presiden Mr. Assaat dan ibukota Yogyakarta) merupakan salah satu negara bagian yang tetap setia berpegang teguh pada UUD 1945 hingga pembubaran RIS.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena negara bagian bentukan Belanda tunduk pada Konstitusi RIS.",
+          "C": "Kurang tepat karena distrik militer terikat pada struktur komando angkatan perang persekutuan.",
+          "D": "Kurang tepat karena persekutuan dagang bukan entitas negara bagian ketatanegaraan.",
+          "E": "Kurang tepat karena KTN/UNCI merupakan komisi penengah internasional PBB."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 86,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "sejak tanggal 17 Agustus 1950 hingga tanggal 5 Juli 1959 berlaku Undang-Undang Dasar Sementara 1950"
+      ],
+      "topik_materi": "Periode Berlakunya UUDS 1950",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah negara federal RIS dibubarkan dan kembali ke bentuk kesatuan, hukum dasar yang digunakan Indonesia adalah...",
+      "pilihan": {
+        "A": "Rancangan konstitusi piagam jakarta yang disempurnakan panitia sembilan",
+        "B": "Kitab hukum tata negara transisi yang disahkan oleh komite arbitrase",
+        "C": "Naskah undang-undang dasar persemakmuran bentukan konferensi den haag",
+        "D": "Sejak tanggal 17 Agustus 1950 hingga tanggal 5 Juli 1959 berlaku Undang-Undang Dasar Sementara 1950",
+        "E": "Maklumat dewan perancang undang-undang darurat perang tahun 1950"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Selanjutnya, **sejak tanggal 17 Agustus 1950 hingga tanggal 5 Juli 1959 berlaku Undang-Undang Dasar Sementara 1950 (UUDS 1950)**.",
+        "alasan_kunci": "Opsi D tepat karena piagam persetujuan RIS dan RI pada 19 Mei 1950 menyepakati pembentukan NKRI dengan memberlakukan konstitusi baru berkarakter parlementer liberal yang dinamakan UUDS 1950 hingga konstitusi definitif selesai dirumuskan oleh Konstituante.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena Piagam Jakarta adalah dokumen perumusan naskah pra-kemerdekaan 1945.",
+          "B": "Kurang tepat karena hukum dasar formal yang berlaku adalah UUDS 1950.",
+          "C": "Kurang tepat karena naskah Konstitusi RIS digantikan oleh UUDS 1950 pada 17 Agustus 1950.",
+          "E": "Kurang tepat karena UUDS 1950 ditetapkan melalui UU No. 7 Tahun 1950, bukan maklumat darurat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 87,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "Dekrit Presiden tanggal 5 Juli 1959 merupakan dasar hukum berlakunya UUD 1945 dalam kurun waktu kedua"
+      ],
+      "topik_materi": "Dekrit Presiden 5 Juli 1959",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Landasan yuridis yang mengembalikan pemberlakuan UUD 1945 untuk kurun waktu kedua di Indonesia adalah...",
+      "pilihan": {
+        "A": "Dekrit Presiden tanggal 5 Juli 1959 merupakan dasar hukum berlakunya UUD 1945 dalam kurun waktu kedua",
+        "B": "Resolusi majelis umum dewan perdamaian internasional perserikatan bangsa",
+        "C": "Putusan bersama antara pimpinan fraksi parlemen dan mahkamah agung",
+        "D": "Instruksi kepala staf komando pemulihan keamanan dan ketertiban nasional",
+        "E": "Hasil kesepakatan pemungutan suara bulat seluruh anggota konstituante"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Ditetapkan **Dekrit Presiden tanggal 5 Juli 1959 merupakan dasar hukum berlakunya UUD 1945 dalam kurun waktu kedua hingga sekarang (sebelum diamandemen)**.",
+        "alasan_kunci": "Opsi A tepat karena kebuntuan (*deadlock*) di badan Konstituante untuk menetapkan UUD baru mendorong Presiden Soekarno mengeluarkan Dekrit 5 Juli 1959 berdasarkan hukum keadaan darurat negara (*staatsnoodrecht*), yang membubarkan Konstituante dan memberlakukan kembali UUD 1945.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena kembalinya UUD 1945 merupakan tindakan hukum internal kedaulatan bangsa Indonesia.",
+          "C": "Kurang tepat karena Dekrit 5 Juli 1959 merupakan tindakan unilateral Presiden Soekarno.",
+          "D": "Kurang tepat karena Kopkamtib baru dibentuk pada tahun 1965 pasca-G30S.",
+          "E": "Kurang tepat karena Konstituante gagal mencapai kuorum 2/3 dalam pemungutan suara kembali ke UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 88,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "memusatkan segala upaya untuk mempertahankan kemerdekaan"
+      ],
+      "topik_materi": "Fokus Perjuangan Indonesia Kurun 1945-1949",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyebab utama UUD 1945 belum dapat dilaksanakan secara tertib dan sempurna pada kurun waktu 1945–1949 adalah...",
+      "pilihan": {
+        "A": "Terjadinya krisis pertikaian perebutan batas perairan maritim antarprovinsi",
+        "B": "Adanya penolakan massal terhadap naskah pembukaan undang-undang dasar",
+        "C": "Indonesia memusatkan segala upaya untuk mempertahankan kemerdekaan dari agresi kolonial Belanda",
+        "D": "Ketiadaan tenaga ahli sarjana hukum perundang-undangan di seluruh daerah",
+        "E": "Kegagalan perbankan nasional dalam menstabilkan cadangan emas perbendaharaan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dalam kurun waktu tahun 1945-1949 Indonesia **memusatkan segala upaya untuk mempertahankan kemerdekaan**, karena pihak kolonial Belanda ingin menjajah kembali Indonesia yang sudah merdeka.",
+        "alasan_kunci": "Opsi C tepat karena perang revolusi fisik mempertahankan kemerdekaan menyerap seluruh energi bangsa. Prioritas negara adalah perjuangan diplomasi dan bersenjata menghadapi agresi militer Belanda I dan II, sehingga agenda pembentukan lembaga formal pemilu terpaksa ditunda.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pertikaian antardaerah bukan faktor dominan melainkan agresi kolonial Belanda.",
+          "B": "Kurang tepat karena naskah Pembukaan UUD 1945 diterima penuh sebagai konsensus luhur bangsa.",
+          "D": "Kurang tepat karena para pendiri bangsa merupakan tokoh-tokoh berpendidikan tinggi dan sarjana hukum mumpuni.",
+          "E": "Kurang tepat karena masalah moneter merupakan akibat perang, bukan penyebab utama kendala konstitusi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 89,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "Diperlakukan pasal IV Aturan Peralihan UUD 1945 (asli)"
+      ],
+      "topik_materi": "Pemberlakuan Pasal IV Aturan Peralihan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dasar yuridis yang digunakan untuk melegitimasi pemusatan wewenang pemerintahan darurat pada awal kemerdekaan adalah...",
+      "pilihan": {
+        "A": "Pemberlakuan pasal aturan tambahan mengenai tata cara perubahan pasal UUD",
+        "B": "Dekrit penyerahan kedaulatan sementara kepada komite palang merah internasional",
+        "C": "Penerapan instruksi darurat sipil yang disahkan oleh perwakilan negara sekutu",
+        "D": "Perjanjian bantuan administrasi militer antara kementerian dengan milisi rakyat",
+        "E": "Diberlakukan pasal IV Aturan Peralihan UUD 1945 (asli) dalam penyelenggaraan kekuasaan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Sebagai landasan ketatanegaraan darurat, **diberlakukan pasal IV Aturan Peralihan UUD 1945 (asli)** yang menjadi dasar hukum pelaksanaan wewenang lembaga tinggi negara oleh Presiden dibantu Komite Nasional.",
+        "alasan_kunci": "Opsi E tepat karena pasal IV Aturan Peralihan UUD 1945 dirancang secara visioner oleh PPKI untuk menjembatani kevakuman kelembagaan sebelum lembaga-lembaga permanen (MPR, DPR, DPA) dapat dibentuk melalui pemilu demokratis.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena aturan tambahan mengatur status naskah UUD, bukan kewenangan eksekutif darurat.",
+          "B": "Kurang tepat karena Indonesia berdaulat penuh dan tidak menyerahkan kekuasaan kepada PMI.",
+          "C": "Kurang tepat karena Indonesia menolak tunduk pada instruksi sekutu dan NICA.",
+          "D": "Kurang tepat karena laskar rakyat berada dalam koordinasi pertahanan, bukan badan hukum administrasi negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 90,
+      "halaman_sumber": 54,
+      "kata_kunci_modul": [
+        "Lembaga-lembaga negara belum dapat dibentuk berdasarkan ketentuan UUD 1945"
+      ],
+      "topik_materi": "Kondisi Kelembagaan Negara Awal Kemerdekaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Realitas ketatanegaraan yang terjadi pada hari-hari pertama pasca-proklamasi kemerdekaan adalah...",
+      "pilihan": {
+        "A": "Seluruh anggota parlemen telah dilantik secara paripurna di gedung dewan",
+        "B": "Lembaga-lembaga negara belum dapat dibentuk berdasarkan ketentuan UUD 1945",
+        "C": "Sistem peradilan kasasi telah beroperasi penuh di seluruh pelosok keresidenan",
+        "D": "Badan pemeriksa keuangan telah menyelesaikan audit neraca penutupan kas kolonial",
+        "E": "Komisi pemilihan umum telah mengumumkan jadwal pemungutan suara nasional"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dalam catatan kurun waktu 1945-1949: **Lembaga-lembaga negara belum dapat dibentuk berdasarkan ketentuan UUD 1945, karena kondisi dan situasi yang tidak memungkinkan**.",
+        "alasan_kunci": "Opsi B tepat karena negara Indonesia yang baru merdeka belum memiliki perangkat peraturan pelaksana pemilu, struktur logistik, maupun keamanan yang stabil. Akibatnya, fungsi kelembagaan negara dijalankan oleh Presiden dengan bantuan Komite Nasional.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena parlemen hasil pemilu baru terbentuk pada tahun 1955.",
+          "C": "Kurang tepat karena operasional MA dan peradilan nasional baru dalam tahap perintisan unifikasi.",
+          "D": "Kurang tepat karena BPK baru didirikan pada tanggal 1 Januari 1947 di Magelang.",
+          "E": "Kurang tepat karena KPU pemilu pertama baru dibentuk pada dekade 1950-an."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 91,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "Sebelum MPR, DPR, DPA dibentuk menurut UUD ini, segala kekuasaannya dijalankan oleh Presiden"
+      ],
+      "topik_materi": "Bunyi Pasal IV Aturan Peralihan UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rumusan yuridis Pasal IV Aturan Peralihan UUD 1945 naskah asli menegaskan bunyi ketentuan bahwa...",
+      "pilihan": {
+        "A": "Kekuasaan presiden berakhir seketika apabila dewan pertimbangan agung terbentuk",
+        "B": "Penyelenggaraan peradilan kehakiman dipimpin langsung oleh pimpinan angkatan bersenjata",
+        "C": "Kedaulatan negara diserahkan kepada pimpinan komisi jasa baik perserikatan bangsa",
+        "D": "Presiden dilarang membentuk kabinet sebelum mendapat izin dari komite internasional",
+        "E": "Sebelum MPR, DPR, DPA dibentuk menurut UUD ini, segala kekuasaannya dijalankan oleh Presiden dengan bantuan Komite Nasional"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pasal IV Aturan Peralihan UUD 1945 berbunyi: **'Sebelum MPR, DPR, DPA dibentuk menurut UUD ini, segala kekuasaannya dijalankan oleh Presiden dengan bantuan Komite Nasional'**.",
+        "alasan_kunci": "Opsi E tepat karena pasal ini merupakan ketentuan transisi yang memberikan mandat legitimasi penuh bagi Presiden Soekarno untuk menjalankan fungsi kepresidenan sekaligus fungsi legislatif dan konsultatif selama masa revolusi kemerdekaan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena DPA merupakan dewan penasihat yang tidak mengakhiri kekuasaan eksekutif presiden.",
+          "B": "Kurang tepat karena peradilan tetap berpedoman pada undang-undang dan hakim independen.",
+          "C": "Kurang tepat karena kedaulatan negara berada di tangan rakyat dan dijalankan Presiden, bukan komisi PBB.",
+          "D": "Kurang tepat karena pembentukan kabinet adalah hak prerogatif presiden merdeka."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 92,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "kekuasaan Presiden sangat besar karena meliputi kewenangan semua lembaga-lembaga tinggi negara"
+      ],
+      "topik_materi": "Konsentrasi Kekuasaan Presiden Awal Kemerdekaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsekuensi ketatanegaraan dari penerapan Pasal IV Aturan Peralihan UUD 1945 pada awal kemerdekaan adalah...",
+      "pilihan": {
+        "A": "Kekuasaan eksekutif terbagi habis ke berbagai dewan pertimbangan daerah otonom",
+        "B": "Kekuasaan Presiden sangat besar karena meliputi kewenangan semua lembaga-lembaga tinggi negara",
+        "C": "Presiden kehilangan kendali operasional atas jajaran perwira tentara nasional",
+        "D": "Lembaga parlemen memegang kendali mutlak pencopotan pasangan dwitunggal proklamator",
+        "E": "Birokrasi pemerintahan dijalankan sepenuhnya oleh penasihat ekonomi asing"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan pasal IV Aturan Peralihan UUD 1945, **kekuasaan Presiden sangat besar karena meliputi kewenangan semua lembaga-lembaga tinggi negara**, sedangkan Komite Nasional hanya berfungsi sebagai pembantu Presiden.",
+        "alasan_kunci": "Opsi B tepat karena Presiden bertindak sebagai pemegang kekuasaan eksekutif sekaligus pemegang kekuasaan legislatif pembentuk undang-undang, sehingga kekuasaan negara terpusat di tangan kepala negara demi kecepatan pengambilan keputusan darurat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena kekuasaan justru memusat di tangan presiden, bukan terbagi habis ke daerah.",
+          "C": "Kurang tepat karena Presiden memegang kekuasaan tertinggi atas angkatan perang.",
+          "D": "Kurang tepat karena pada saat itu MPR dan DPR belum terbentuk.",
+          "E": "Kurang tepat karena birokrasi dipimpin langsung oleh para menteri pejuang bangsa."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 93,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "maklumat Wakil Presiden No. X tanggal 16 Oktober 1945"
+      ],
+      "topik_materi": "Maklumat Wakil Presiden No. X Tahun 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perubahan status dan fungsi Komite Nasional Indonesia Pusat (KNIP) menjadi lembaga legislatif ditetapkan melalui...",
+      "pilihan": {
+        "A": "Dekrit kepala staf angkatan bersenjata tentang tata tertib persidangan darurat",
+        "B": "Resolusi bersama dewan perwakilan serikat buruh dan tani seluruh indonesia",
+        "C": "Surat keputusan kementerian penerangan mengenai susunan fraksi politik dewan",
+        "D": "Maklumat Wakil Presiden No. X tanggal 16 Oktober 1945 yang ditandatangani Mohammad Hatta",
+        "E": "Instruksi tertulis pimpinan kesultanan jogjakarta kepada jajaran pamong praja"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "KNIP yang semula berstatus pembantu Presiden berubah menjadi badan pemegang kekuasaan legislatif dan ikut menetapkan GBHN berdasarkan **maklumat Wakil Presiden No. X tanggal 16 Oktober 1945**.",
+        "alasan_kunci": "Opsi D tepat karena Maklumat No. X yang dikeluarkan oleh Wakil Presiden Mohammad Hatta merupakan salah satu konvensi ketatanegaraan terpenting yang mengubah fungsi KNIP dari sekadar pembantu presiden menjadi badan legislatif (DPR sementara) sebelum pemilu terselenggara.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena perubahan fungsi lembaga perwakilan sipil bukan ranah dekrit staf angkatan bersenjata.",
+          "B": "Kurang tepat karena serikat buruh bukan otoritas hukum penetapan konstitusi negara.",
+          "C": "Kurang tepat karena kementerian penerangan tidak berwenang mengubah kedudukan lembaga tinggi negara.",
+          "E": "Kurang tepat karena Maklumat No. X berlaku nasional dan ditandatangani Wapres Mohammad Hatta."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 94,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "memegang kekuasaan legislatif dan ikut menetapkan Garis-Garis Besar daripada Haluan Negara"
+      ],
+      "topik_materi": "Fungsi Baru Komite Nasional Indonesia Pusat (KNIP)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan Maklumat No. X tanggal 16 Oktober 1945, wewenang baru yang diberikan kepada Komite Nasional Pusat adalah...",
+      "pilihan": {
+        "A": "Memegang kekuasaan legislatif dan ikut menetapkan Garis-Garis Besar daripada Haluan Negara",
+        "B": "Menyelenggarakan peradilan kasasi sengketa perdata waris di daerah",
+        "C": "Mengangkat dan memberhentikan para menteri koordinator secara independen",
+        "D": "Menetapkan besaran tarif cukai tembakau impor dari pelabuhan luar negeri",
+        "E": "Menyita sarana transportasi perkeretaapian milik administrasi kolonial"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan Maklumat Wapres No. X, Komite Nasional Pusat berubah menjadi **badan yang memegang kekuasaan legislatif dan ikut menetapkan Garis-Garis Besar daripada Haluan Negara** (GBHN).",
+        "alasan_kunci": "Opsi A tepat karena pemberian wewenang legislatif dan penetapan haluan negara ini menjadikan KNIP menjalankan fungsi ganda yang semestinya dimiliki oleh DPR dan MPR sebelum lembaga hasil pemilu terbentuk.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena peradilan kasasi merupakan ranah Mahkamah Agung.",
+          "C": "Kurang tepat karena pengangkatan menteri tetap berada pada ranah kekuasaan eksekutif pemerintah.",
+          "D": "Kurang tepat karena regulasi tarif cukai merupakan wewenang operasional kementerian keuangan.",
+          "E": "Kurang tepat karena nasionalisasi aset dilakukan oleh pemerintah dan serikat buruh kereta api."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 95,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "usul Badan Pekerja Komite Nasional Indonesia Pusat (BPKNIP) pada tanggal 11 Nopember 1945"
+      ],
+      "topik_materi": "Inisiatif Pembentukan Kabinet Parlementer Oleh BPKNIP",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pergeseran sistem kabinet presidensial menuju kabinet parlementer pada November 1945 diawali oleh peristiwa...",
+      "pilihan": {
+        "A": "Gugatan peradilan tata usaha negara dari kalangan pegawai pamong praja",
+        "B": "Tuntutan resmi dari perwakilan korps diplomatik komisi pengawasan sekutu",
+        "C": "Usul Badan Pekerja Komite Nasional Indonesia Pusat (BPKNIP) pada tanggal 11 Nopember 1945",
+        "D": "Mosi tidak percaya serentak dari gabungan pimpinan militer di yogyakarta",
+        "E": "Hasil referendum pemilih yang diselenggarakan serentak di lima provinsi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Perubahan sistem kabinet berakar dari **usul Badan Pekerja Komite Nasional Indonesia Pusat (BPKNIP) pada tanggal 11 Nopember 1945**, yang disetujui Presiden dan diumumkan lewat Maklumat Pemerintah 14 November 1945.",
+        "alasan_kunci": "Opsi C tepat karena BPKNIP (yang dipimpin oleh Sutan Sjahrir) menginginkan para menteri bertanggung jawab secara politis kepada badan perwakilan rakyat, bukan sekadar menjadi pegawai pembantu presiden.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena PTUN belum ada pada awal kemerdekaan.",
+          "B": "Kurang tepat karena usulan perubahan kabinet berasal dari inisiatif internal wakil rakyat BPKNIP.",
+          "D": "Kurang tepat karena militer tidak mengajukan mosi tidak percaya pada 11 November 1945.",
+          "E": "Kurang tepat karena Indonesia tidak menyelenggarakan referendum pada masa revolusi fisik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 96,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "Maklumat Pemerintah tanggal 14 Nopember 1945"
+      ],
+      "topik_materi": "Maklumat Pemerintah 14 November 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Landasan resmi berlakunya sistem pemerintahan parlementer di awal sejarah Republik Indonesia adalah...",
+      "pilihan": {
+        "A": "Surat perintah pelimpahan wewenang darurat militer kepada pimpinan laskar",
+        "B": "Undang-undang darurat pembentukan susunan kepresidenan federal 1945",
+        "C": "Ketetapan majelis permusyawaratan darurat tentang struktur kementerian",
+        "D": "Piagam kesepakatan damai antara pimpinan perundingan dengan utusan belanda",
+        "E": "Maklumat Pemerintah tanggal 14 Nopember 1945 tentang perubahan sistem kabinet"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Perubahan sistem kabinet presidensial menjadi sistem kabinet parlementer diumumkan secara resmi melalui **Maklumat Pemerintah tanggal 14 Nopember 1945**.",
+        "alasan_kunci": "Opsi E tepat karena Maklumat 14 November 1945 menandai lahirnya jabatan Perdana Menteri pertama Indonesia (Kabinet Sjahrir I) dan menandai dimulainya praktik parlementer di mana kabinet bertanggung jawab kepada KNIP.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena sistem parlementer merupakan urusan kepemimpinan politik pemerintahan, bukan darurat militer.",
+          "B": "Kurang tepat karena undang-undang darurat federal baru muncul pada era Konstitusi RIS 1949.",
+          "C": "Kurang tepat karena MPR darurat belum pernah terbentuk pada tahun 1945.",
+          "D": "Kurang tepat karena Maklumat 14 November 1945 diterbitkan sebelum perundingan damai Linggajati."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 97,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "kekuasaan pemerintah tidak dipegang oleh Presiden, tetapi dipegang oleh Perdana Menteri"
+      ],
+      "topik_materi": "Karakteristik Kabinet Parlementer 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perubahan mendasar dalam struktur eksekutif sejak tanggal 14 November 1945 ditandai oleh kondisi bahwa...",
+      "pilihan": {
+        "A": "Presiden membubarkan KNIP dan memimpin seluruh sidang kementerian sendirian",
+        "B": "Kekuasaan pemerintah dipegang oleh Perdana Menteri sebagai pimpinan kabinet",
+        "C": "Para menteri bertanggung jawab langsung secara personal kepada ratu belanda",
+        "D": "Seluruh keputusan kabinet wajib diratifikasi oleh komite militer gabungan",
+        "E": "Jabatan presiden ditiadakan dan digantikan oleh gubernur jenderal sipil"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Sejak tanggal 14 Nopember 1945, **kekuasaan pemerintah tidak dipegang oleh Presiden, tetapi dipegang oleh Perdana Menteri sebagai pimpinan kabinet** dengan para menteri sebagai anggota kabinet.",
+        "alasan_kunci": "Opsi B tepat karena Presiden berkedudukan sebagai Kepala Negara yang bersifat simbolis (*head of state*), sedangkan kendali eksekutif operasional pemerintahan sehari-hari beralih ke tangan Perdana Menteri (*head of government*).",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena KNIP tidak dibubarkan melainkan bertindak sebagai parlemen pengawas kabinet.",
+          "C": "Kurang tepat karena menteri bertanggung jawab kepada KNIP, bukan kepada ratu Belanda.",
+          "D": "Kurang tepat karena kabinet parlementer dipimpin oleh figur sipil tanpa ratifikasi komite militer.",
+          "E": "Kurang tepat karena Presiden Soekarno tetap menjabat sebagai Kepala Negara Republik Indonesia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 98,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "Para menteri dan perdana menteri bertanggung jawab kepada KNIP yang berfungsi sebagai DPR"
+      ],
+      "topik_materi": "Akuntabilitas Kabinet Kepada KNIP",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pola pertanggungjawaban politik dalam sistem kabinet parlementer pasca-Maklumat 14 November 1945 diatur bahwa...",
+      "pilihan": {
+        "A": "Menteri bertanggung jawab secara eksklusif kepada pimpinan partai pendukung",
+        "B": "Perdana menteri dapat mencopot anggota dewan perwakilan secara otoritatif",
+        "C": "Pemerintah bertanggung jawab kepada majelis permusyawaratan tingkat karesidenan",
+        "D": "Para menteri dan perdana menteri bertanggung jawab kepada KNIP yang berfungsi sebagai DPR",
+        "E": "Kabinet sekadar menyampaikan laporan kinerja kepada komisi pengawas sekutu"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dalam sistem parlementer 1945, **para menteri dan perdana menteri bertanggung jawab kepada KNIP yang berfungsi sebagai DPR**, baik secara bersama-sama maupun sendiri-sendiri.",
+        "alasan_kunci": "Opsi D tepat karena ciri khas sistem parlementer adalah kelangsungan kabinet bergantung pada mosi dukungan parlemen. KNIP sewaktu-waktu dapat menjatuhkan kabinet jika mosi tidak percaya diajukan oleh mayoritas anggota dewan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pertanggungjawaban disampaikan resmi ke forum perwakilan dewan (KNIP).",
+          "B": "Kurang tepat karena perdana menteri tidak berwenang mencopot anggota parlemen KNIP.",
+          "C": "Kurang tepat karena majelis karesidenan bukan lembaga perwakilan tingkat nasional.",
+          "E": "Kurang tepat karena akuntabilitas kabinet ditujukan kepada wakil rakyat Indonesia sendiri."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 99,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "berlangsung sangat singkat hanya 8 bulan yaitu dari tanggal 27 Desember 1949 hingga tanggal 17 Agustus 1950"
+      ],
+      "topik_materi": "Masa Berlakunya Negara Federal RIS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Durasi keberadaan bentuk negara federal Republik Indonesia Serikat (RIS) dalam lintasan sejarah Indonesia adalah...",
+      "pilihan": {
+        "A": "Berlangsung amat singkat selama delapan bulan sejak 27 Desember 1949 hingga 17 Agustus 1950",
+        "B": "Bertahan selama lima tahun penuh hingga terselenggaranya pemilu demokratis 1955",
+        "C": "Berjalan selama tiga dasawarsa sebelum akhirnya diamandemen oleh dewan perwakilan",
+        "D": "Mencapai sepuluh tahun masa transisi di bawah perlindungan komisi perserikatan bangsa",
+        "E": "Berlangsung selama dua tahun kalender terhitung sejak pembacaan dekrit presiden"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Negara federal RIS **berlangsung sangat singkat hanya 8 bulan yaitu dari tanggal 27 Desember 1949 hingga tanggal 17 Agustus 1950** sebelum kembali menjadi Negara Kesatuan Republik Indonesia.",
+        "alasan_kunci": "Opsi A tepat karena bentuk federal RIS tidak berakar dari kehendak murni rakyat melainkan kompromi diplomatik KMB. Dalam hitungan bulan, arus unifikasi rakyat di berbagai negara bagian menuntut pembubaran federasi dan integrasi kembali ke NKRI.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena pemilu 1955 berlangsung pada era UUDS 1950, bukan pada era RIS.",
+          "C": "Kurang tepat karena RIS hanya bertahan 8 bulan, bukan tiga dasawarsa.",
+          "D": "Kurang tepat karena durasi RIS kurang dari satu tahun.",
+          "E": "Kurang tepat karena Dekrit Presiden terjadi pada tahun 1959, jauh setelah bubarnya RIS pada 1950."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 100,
+      "halaman_sumber": 55,
+      "kata_kunci_modul": [
+        "timbul suatu keinginan dari negara-negara bagian RIS buatan Belanda yang merasa tidak cocok"
+      ],
+      "topik_materi": "Runtuhnya Negara Federal RIS Menuju NKRI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Faktor pendorong utama yang menyebabkan runtuhnya bentuk negara federal RIS dan kembalinya bentuk NKRI pada 17 Agustus 1950 adalah...",
+      "pilihan": {
+        "A": "Instruksi militer asing yang mewajibkan seluruh daerah melebur ke dalam persemakmuran",
+        "B": "Kegagalan penandatanganan perjanjian utang luar negeri dengan serikat perbankan eropa",
+        "C": "Timbul suatu keinginan dari negara-negara bagian RIS buatan Belanda yang merasa tidak cocok dan ingin bergabung ke RI",
+        "D": "Penolakan mahkamah internasional terhadap permohonan keanggotaan federasi kepulauan",
+        "E": "Keputusan mendadak pimpinan parlemen federal yang memecat seluruh perdana menteri bagian"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sejak berdirinya RIS, **timbul suatu keinginan dari negara-negara bagian RIS buatan Belanda yang merasa tidak cocok atas terbentuknya RIS hasil KMB, dan ingin bergabung dengan negara bagian Republik Indonesia yang beribukota Jogjakarta**.",
+        "alasan_kunci": "Opsi C tepat karena negara-negara bagian bentukan van Mook (seperti Negara Madura, Pasundan, Sumatera Timur) menyadari bahwa federasi merupakan strategi politik pecah belah (*devide et impera*). Rakyat dan parlemen negara-negara bagian tersebut secara sukarela membubarkan diri dan bergabung kembali ke Republik Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena kembalinya ke NKRI didorong oleh kehendak murni rakyat Indonesia sendiri.",
+          "B": "Kurang tepat karena masalah utang KMB bukan faktor pendorong utama kembalinya integrasi NKRI.",
+          "D": "Kurang tepat karena Mahkamah Internasional tidak mengintervensi bentuk internal ketatanegaraan RIS.",
+          "E": "Kurang tepat karena pembubaran negara bagian dilakukan melalui prosedur resolusi perwakilan daerah masing-masing."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    }
+  ]
+}

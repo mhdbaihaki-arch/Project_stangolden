@@ -1,0 +1,3015 @@
+{
+  "paket_nomor": 2,
+  "dokumen_sumber": "5. Wawasan Kebangsaan.pdf",
+  "rentang_halaman": "Halaman 16 s/d Halaman 25",
+  "jumlah_soal": 100,
+  "distribusi_kunci": {
+    "B": 20,
+    "E": 20,
+    "A": 20,
+    "C": 20,
+    "D": 20
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "Nilai material secara relatif lebih mudah diukur",
+        "alat pengukur berat"
+      ],
+      "topik_materi": "Karakteristik Pengukuran Nilai Material",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Nilai material relatif lebih mudah diukur secara kuantitatif karena...",
+      "pilihan": {
+        "A": "Telah disepakati oleh seluruh kelompok pemuka agama",
+        "B": "Dapat diuji menggunakan instrumen alat pengukur fisik",
+        "C": "Memiliki sanksi hukum pidana yang mengikat mutlak",
+        "D": "Dihasilkan melalui perenungan budi pekerti manusia",
+        "E": "Tercantum secara eksplisit dalam anggaran dasar kantor"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Nilai material** secara relatif lebih mudah diukur dengan **alat-alat pengukur fisik** seperti gram, meter, meter persegi, atau liter.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Berdasarkan materi modul wawasan kebangsaan, nilai material memiliki wujud fisik yang nyata sehingga besaran dan kadarnya dapat ditentukan secara presisi menggunakan alat ukur standar teknis. Hal ini membedakannya secara fundamental dari nilai kerohanian.",
+        "bedah_pengecoh": {
+          "A": "Kesepakatan pemuka agama merupakan ranah pembentukan nilai keagamaan.",
+          "C": "Sanksi pidana merupakan ciri norma hukum positif bukan alat ukur nilai.",
+          "D": "Budi pekerti manusia digunakan untuk menakar nilai rohani.",
+          "E": "Anggaran dasar memuat aturan manajerial bukan pengukur nilai material."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "Sedangkan nilai rohani tidak dapat diukur",
+        "budi nurani manusia"
+      ],
+      "topik_materi": "Tolok Ukur Pengujian Nilai Rohani",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berbeda dengan nilai material, nilai rohani ditakar menggunakan instrumen...",
+      "pilihan": {
+        "A": "Instrumen pemeringkatan kinerja organisasi birokrasi",
+        "B": "Alat ukur volume dan luas bidang geografis",
+        "C": "Catatan pembukuan perbendaharaan belanja dinas",
+        "D": "Standar operasional prosedur pengawasan aparatur",
+        "E": "Budi nurani manusia yang bersifat mendalam"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Nilai rohani** tidak dapat diukur dengan alat ukur fisik, melainkan diukur menggunakan **budi nurani manusia**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Nilai kerohanian bersifat abstrak dan imaterial sehingga tidak memiliki satuan matematis. Modul menegaskan bahwa sarana pengukur nilai rohani terletak pada kedalaman budi nurani manusia yang merefleksikan kebaikan dan kepatutan batin.",
+        "bedah_pengecoh": {
+          "A": "Pemeringkatan kinerja menilai capaian output tugas pegawai.",
+          "B": "Alat ukur volume merupakan instrumen pengukur nilai material.",
+          "C": "Pembukuan perbendaharaan mengukur transaksi keuangan negara.",
+          "D": "SOP pengawasan mengatur tata cara teknis kepatuhan dinas."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "menggunakan hati nurani dengan dibantu indera",
+        "akal, perasaan, kehendak"
+      ],
+      "topik_materi": "Alat Bantu Penilaian Kerohanian Manusia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam menilai hal yang bersifat kerohanian, hati nurani manusia dibantu oleh...",
+      "pilihan": {
+        "A": "Indera, akal, perasaan, kehendak, dan keyakinan",
+        "B": "Pedoman tata kelola pengadaan barang dan jasa instansi",
+        "C": "Surat perintah penugasan serta kewenangan dinas struktural",
+        "D": "Daftar urut kepangkatan serta alokasi tunjangan kinerja",
+        "E": "Regulasi disiplin serta ancaman pemotongan penghasilan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Penilaian terhadap hal kerohanian dilakukan menggunakan **hati nurani dengan dibantu oleh indera, akal, perasaan, kehendak, dan oleh keyakinan**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Manusia menimbang dimensi spiritual dan etis tidak hanya secara pasif, melainkan mengintegrasikan seluruh potensi eksistensialnya yang mencakup fungsi panca indera, penalaran rasional, kepekaan afektif, dorongan kehendak, dan keyakinan religius.",
+        "bedah_pengecoh": {
+          "B": "Pedoman pengadaan barang mengatur prosedur logistik kantor.",
+          "C": "Surat tugas merupakan mandat administratif kedinasan resmi.",
+          "D": "Daftar urut kepangkatan memuat hierarki kepegawaian aparatur.",
+          "E": "Regulasi disiplin menegakkan ketaatan norma kedinasan publik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "Bagi manusia nilai dijadikan landasan",
+        "motivasi dalam segala perbuatannya"
+      ],
+      "topik_materi": "Kedudukan Nilai bagi Perilaku Manusia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagi setiap manusia, kedudukan nilai berfungsi utama sebagai...",
+      "pilihan": {
+        "A": "Alat paksa eksekusi penegakan hukum tata usaha",
+        "B": "Dokumen pelaporan pertanggungjawaban program kerja",
+        "C": "Landasan, alasan, atau motivasi dalam berbuat",
+        "D": "Simbol formalitas upacara peringatan hari kenegaraan",
+        "E": "Syarat pembentukan badan otoritas khusus pemerintah"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Bagi manusia, **nilai dijadikan landasan, alasan atau motivasi dalam segala perbuatannya** sehari-hari.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Modul menegaskan fungsi aksiologis nilai sebagai penggerak fundamental perilaku manusia. Sebelum melakukan suatu tindakan nyata, manusia selalu mendasarkan keputusannya pada tata nilai yang dianutnya sebagai alasan pembenar moral.",
+        "bedah_pengecoh": {
+          "A": "Alat paksa hukum merupakan sifat sanksi yuridis eksternal.",
+          "B": "Dokumen pelaporan adalah instrumen akuntabilitas birokrasi.",
+          "D": "Simbol formalitas bukan tujuan hakiki pelembagaan nilai.",
+          "E": "Badan otoritas dibentuk berdasarkan ketentuan undang-undang negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "nilai-nilai dijabarkan dalam bentuk norma",
+        "merupakan suatu perintah"
+      ],
+      "topik_materi": "Penjabaran Nilai ke Bentuk Norma",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam praktik kehidupan bermasyarakat, nilai-nilai dijabarkan dalam bentuk...",
+      "pilihan": {
+        "A": "Statistik keuangan perbendaharaan negara komparatif",
+        "B": "Struktur hierarki eselonisasi kementerian lembaga",
+        "C": "Sistem lelang jabatan terbuka pimpinan tinggi madya",
+        "D": "Norma yang memuat perintah, anjuran, atau celaan",
+        "E": "Matriks analisis beban kerja jabatan pelaksana teknis"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dalam pelaksanaannya, **nilai-nilai dijabarkan dalam bentuk norma (normatif)** yang memuat **perintah/keharusan, anjuran, larangan, atau celaan**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Nilai yang bersifat abstrak memerlukan wujud operasional agar dapat ditaati bersama. Norma bertindak sebagai instrumen penjabaran konkret nilai dengan memberikan arahan mana perilaku yang wajib dijalankan, dianjurkan, maupun yang dicela.",
+        "bedah_pengecoh": {
+          "A": "Statistik keuangan memuat data fiskal operasional pemerintah.",
+          "B": "Hierarki eselon menggambarkan tingkatan kepemimpinan birokrasi.",
+          "C": "Lelang jabatan terbuka merupakan mekanisme seleksi aparatur.",
+          "E": "Analisis beban kerja mengukur formasi kebutuhan pegawai."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "Nilai kebenaran harus dilaksanakan",
+        "segala sesuatu yang tidak benar"
+      ],
+      "topik_materi": "Implementasi Nilai Kebenaran dalam Norma",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Penerapan konkret nilai kebenaran dalam etika penugasan aparatur menuntut...",
+      "pilihan": {
+        "A": "Penyesuaian kebenaran data mengikuti kehendak pimpinan satker",
+        "B": "Pelaksanaan hal benar serta penolakan atas ketidakbenaran",
+        "C": "Pengalihan tanggung jawab pemeriksaan kepada bawahan langsung",
+        "D": "Penyelarasan laporan keuangan demi memenuhi target serapan",
+        "E": "Pemberian perlakuan khusus kepada rekan satu angkatan kerja"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Nilai kebenaran harus dilaksanakan** dan segala sesuatu yang **tidak benar, tidak indah, dan tidak baik dilarang atau dicela**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Standar moralitas menuntut aparatur berpegang teguh pada fakta obyektif. Nilai kebenaran mengamanatkan bahwa tindakan kedinasan wajib merealisasikan kejujuran serta melarang dan mencela segala bentuk manipulasi data.",
+        "bedah_pengecoh": {
+          "A": "Menyesuaikan data demi atasan melanggar asas akuntabilitas dinas.",
+          "C": "Melempar tanggung jawab bertentangan dengan integritas profesional.",
+          "D": "Memanipulasi laporan demi serapan anggaran melanggar tata kelola.",
+          "E": "Memberi perlakuan khusus angkatan mencederai keadilan objektif."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "nilai berperan sebagai dasar pedoman",
+        "menentukan kehidupan setiap manusia"
+      ],
+      "topik_materi": "Peran Hakiki Nilai bagi Manusia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Peran hakiki nilai dalam eksistensi peradaban manusia adalah sebagai...",
+      "pilihan": {
+        "A": "Dasar pedoman yang menentukan arah kehidupan manusia",
+        "B": "Penghalang mobilitas penugasan lintas wilayah kementerian",
+        "C": "Bahan penyusunan anggaran belanja modal perkantoran",
+        "D": "Alasan penundaan penetapan keputusan mutasi kepegawaian",
+        "E": "Pembatas ruang gerak inovasi teknologi digital birokrasi"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan uraian materi, **nilai berperan sebagai dasar pedoman yang menentukan kehidupan setiap manusia**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Nilai memberikan arah orientasi hidup, kompas moralitas, dan standar kelayakan bagi masyarakat. Tanpa adanya tata nilai, kehidupan manusia akan kehilangan pedoman dasar dalam membedakan hal yang luhur dan yang tercela.",
+        "bedah_pengecoh": {
+          "B": "Nilai organisasi tidak menghambat mobilitas penugasan dinas.",
+          "C": "Anggaran belanja kantor disusun berdasar analisis standar biaya.",
+          "D": "Keputusan mutasi mengacu pada kualifikasi pola karier pegawai.",
+          "E": "Inovasi digital justru didorong oleh nilai adaptif organisasi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "Dalam pidato tanggal 31 Mei 1945",
+        "Soepomo mengemukakan gagasan tentang cita negara integralistik"
+      ],
+      "topik_materi": "Pencetus Gagasan Cita Negara Integralistik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Gagasan tentang cita negara integralistik disampaikan dalam sidang BPUPKI oleh...",
+      "pilihan": {
+        "A": "Mr. Achmad Soebardjo pada sidang penetapan naskah proklamasi",
+        "B": "Mr. A.A. Maramis dalam sidang perancangan hukum perdata",
+        "C": "Drs. Mohammad Hatta dalam rapat penyusunan anggaran negara",
+        "D": "Prof. R. Soepomo dalam pidato tanggal 31 Mei 1945",
+        "E": "Abikoesno Tjokrosoejoso pada musyawarah panitia perancang"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dalam pidato tanggal **31 Mei 1945** di depan rapat BPUPKI, **Prof. R. Soepomo** mengemukakan gagasan tentang **cita negara integralistik**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Prof. Soepomo meletakkan landasan konseptual mengenai negara integralistik pada hari ketiga sidang pertama BPUPKI. Pandangan ini menawarkan alternatif filosofis bentuk negara yang bersatu padu dengan seluruh rakyatnya.",
+        "bedah_pengecoh": {
+          "A": "Mr. Achmad Soebardjo berperan penting dalam peristiwa Rengasdengklok.",
+          "B": "Mr. A.A. Maramis berkontribusi dalam perumusan Piagam Jakarta.",
+          "C": "Bung Hatta berpidato pada perumusan asas perekonomian nasional.",
+          "E": "Abikoesno memimpin pembahasan panitia pembelaan tanah air."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "dasar sistem suatu pemerintahan tergantung pada cita negaranya",
+        "pada staatsidee"
+      ],
+      "topik_materi": "Fondasi Sistem Pemerintahan Menurut Soepomo",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menurut Prof. Soepomo, dasar dari suatu sistem pemerintahan sangat tergantung pada...",
+      "pilihan": {
+        "A": "Besarnya jumlah anggaran belanja pertahanan negara",
+        "B": "Banyaknya kantor cabang perwakilan dinas di daerah",
+        "C": "Cita negaranya atau staatsidee yang melandasinya",
+        "D": "Tingkat persaingan kekuatan ekonomi pasar global",
+        "E": "Jumlah aliansi pakta pertahanan militer internasional"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dasar sistem suatu pemerintahan **tergantung pada cita negaranya, pada staatsidee**, pada pemahaman tentang negara yang hendak digunakan untuk membangun negara.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Soepomo menegaskan bahwa struktur pemerintahan bukan sekadar teknik administrasi, melainkan cerminan dari falsafah dasar atau staatsidee negara. Cita negara menentukan bagaimana kedaulatan, kepemimpinan, dan hak warga negara diatur.",
+        "bedah_pengecoh": {
+          "A": "Anggaran belanja pertahanan adalah instrumen operasional militer.",
+          "B": "Jumlah kantor cabang daerah adalah aspek distribusi kelembagaan.",
+          "D": "Persaingan pasar global adalah faktor dinamika eksternal ekonomi.",
+          "E": "Aliansi pertahanan militer adalah pilihan diplomasi luar negeri."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 16,
+      "kata_kunci_modul": [
+        "pada pemahaman tentang negara yang hendak digunakan",
+        "membangun negara Indonesia"
+      ],
+      "topik_materi": "Tujuan Pemahaman Staatsidee Indonesia Merdeka",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemahaman tentang cita negara (staatsidee) menjadi titik tolak BPUPKI dalam rangka...",
+      "pilihan": {
+        "A": "Membentuk perserikatan perbankan komersial se-Asia Timur",
+        "B": "Menentukan tarif pajak ekspor impor komoditas kelautan",
+        "C": "Menyusun regulasi kenaikan pangkat reguler dinas aparatur",
+        "D": "Mengadopsi secara mutlak sistem monarki konstitusional asing",
+        "E": "Membangun fondasi tata negara Indonesia yang akan dibentuk"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pemahaman tentang negara (**staatsidee**) dijadikan fondasi pemikiran yang hendak digunakan untuk **membangun negara Indonesia merdeka**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Para pendiri bangsa menyadari pentingnya konsepsi teoritis sebelum merumuskan pasal-pasal konstitusi. Staatsidee berfungsi sebagai cetak biru filosofis dalam membangun arsitektur negara Indonesia yang berdaulat.",
+        "bedah_pengecoh": {
+          "A": "Perserikatan perbankan bukan agenda pokok perumusan dasar negara.",
+          "B": "Tarif pajak komoditas merupakan instrumen fiskal operasional.",
+          "C": "Regulasi pangkat aparatur adalah aturan kepegawaian teknis.",
+          "D": "Pendiri bangsa menolak adopsi mutlak sistem monarki asing."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 17,
+      "kata_kunci_modul": [
+        "teori integralistik yang diajarkan oleh",
+        "B. Spinosa, Adam Muller, Hegel"
+      ],
+      "topik_materi": "Tokoh Pencetus Teori Integralistik Dunia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Teori integralistik yang dikutip dalam pidato Prof. Soepomo diajarkan oleh tokoh...",
+      "pilihan": {
+        "A": "Karl Marx, Friedrich Engels, dan Vladimir Lenin",
+        "B": "John Locke, Montesquieu, dan Jean-Jacques Rousseau",
+        "C": "B. Spinoza, Adam Muller, dan G.W.F. Hegel",
+        "D": "Thomas Hobbes, Niccolo Machiavelli, dan Francis Bacon",
+        "E": "Adam Smith, David Ricardo, dan John Stuart Mill"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Teori integralistik dalam literatur filsafat kenegaraan diajarkan oleh para pemikir terkemuka antara lain **B. Spinoza, Adam Muller, dan Hegel**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Dalam pidatonya tanggal 31 Mei 1945, Soepomo mengkaji teori negara dari para pemikir Eropa tersebut untuk menjelaskan bahwa negara memandang seluruh masyarakat sebagai satu kesatuan organis yang utuh dan tidak terpecah-pecah.",
+        "bedah_pengecoh": {
+          "A": "Karl Marx dan Friedrich Engels adalah pencetus ideologi marxisme.",
+          "B": "John Locke dan Montesquieu adalah tokoh teori pemisahan kekuasaan.",
+          "D": "Thomas Hobbes dan Machiavelli dikenal lewat teori kekuasaan mutlak.",
+          "E": "Adam Smith dan David Ricardo adalah pemikir ekonomi klasik liberal."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 17,
+      "kata_kunci_modul": [
+        "negara tidak untuk menjamin kepentingan seseorang atau golongan",
+        "menjamin kepentingan masyarakat seluruhnya"
+      ],
+      "topik_materi": "Tujuan Negara Menurut Aliran Integralistik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menurut teori integralistik, tujuan utama pembentukan negara adalah...",
+      "pilihan": {
+        "A": "Menjamin kepentingan masyarakat seluruhnya sebagai kesatuan",
+        "B": "Melindungi monopoli modal korporasi konglomerasi swasta",
+        "C": "Memperluas wilayah pengaruh kekuasaan militer ke luar negeri",
+        "D": "Mengutamakan hegemoni politik golongan pemenang pemilu",
+        "E": "Memusatkan seluruh aset properti warga ke tangan penguasa"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Menurut teori integralistik, **negara tidak untuk menjamin kepentingan seseorang atau golongan, akan tetapi menjamin kepentingan masyarakat seluruhnya sebagai kesatuan**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Teori integralistik menolak paham individualisme yang membela kepentingan orang per orang dan paham golongan yang mengistimewakan kelompok tertentu. Negara hadir untuk memayungi dan menjamin keselamatan seluruh rakyat secara integral.",
+        "bedah_pengecoh": {
+          "B": "Melindungi monopoli modal bertentangan dengan keadilan sosial.",
+          "C": "Ekspansi pengaruh militer adalah corak negara imperialis.",
+          "D": "Mengutamakan hegemoni golongan merupakan ciri paham kelas/golongan.",
+          "E": "Sentralisasi properti sepihak adalah ciri komunisme ekstrem."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 17,
+      "kata_kunci_modul": [
+        "Negara ialah suatu susunan masyarakat yang integral",
+        "kesatuan masyarakat yang organis"
+      ],
+      "topik_materi": "Definisi Negara Organis Menurut Soepomo",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prof. Soepomo mendefinisikan negara integralistik sebagai susunan masyarakat yang...",
+      "pilihan": {
+        "A": "Terpisah-pisah dalam blok persaingan kepentingan kelas",
+        "B": "Dikelola seperti perseroan bisnis demi keuntungan dividen",
+        "C": "Menyerahkan kedaulatan mutlak kepada parlemen tunggal",
+        "D": "Saling berhubungan erat membentuk kesatuan organis",
+        "E": "Membatasi keterlibatan rakyat dalam urusan ketatanegaraan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Negara adalah suatu **susunan masyarakat yang integral, segala golongan, bagian, dan anggotanya berhubungan erat satu sama lain dan merupakan kesatuan masyarakat yang organis**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Konsepsi organis memandang negara layaknya tubuh manusia, di mana setiap organ atau bagian saling terhubung erat dan bekerja sama demi kelangsungan hidup bersama. Tidak ada pemisahan artifisial antara rakyat dan struktur negara.",
+        "bedah_pengecoh": {
+          "A": "Persaingan kepentingan kelas adalah pandangan marxisme-komunisme.",
+          "B": "Pengelolaan negara seperti korporasi adalah paham kapitalistis.",
+          "C": "Kedaulatan mutlak di parlemen adalah sistem parlementer murni.",
+          "E": "Membatasi rakyat bertentangan dengan prinsip negara kesatuan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 17,
+      "kata_kunci_modul": [
+        "sesuai dengan keistimewaan sifat dan corak masyarakat Indonesia",
+        "negara yang bersatu dengan seluruh rakyatnya"
+      ],
+      "topik_materi": "Kesesuaian Staatsidee dengan Corak Bangsa Indonesia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Staatsidee integralistik dinilai paling cocok bagi bangsa Indonesia karena...",
+      "pilihan": {
+        "A": "Memudahkan pemerintah membatasi kebebasan berpendapat publik",
+        "B": "Sesuai dengan keistimewaan sifat dan corak masyarakat Indonesia",
+        "C": "Menghilangkan kewajiban negara mengayomi hak-hak warga miskin",
+        "D": "Mendapat dukungan diplomatik dari blok negara-negara adidaya",
+        "E": "Menyeragamkan seluruh tradisi daerah menjadi satu budaya baku"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pendirian negara Indonesia harus berdasar **aliran pikiran (Staatsidee) negara yang integralistik** karena hal itu **sesuai dengan keistimewaan sifat dan corak masyarakat Indonesia**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Soepomo menggali kepribadian asli bangsa Indonesia yang menjunjung tinggi semangat gotong royong, kebersamaan, dan kekeluargaan. Staatsidee integralistik merupakan sublimasi dari corak sosiologis asli masyarakat Nusantara.",
+        "bedah_pengecoh": {
+          "A": "Membatasi kebebasan berpendapat adalah praktik rezim otoriter.",
+          "C": "Menghapus pengayoman warga miskin bertentangan dengan keadilan.",
+          "D": "Dukungan adidaya bukan dasar penentuan falsafah bangsa.",
+          "E": "Penyeragaman budaya mematikan asas kebinekaan nusantara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 17,
+      "kata_kunci_modul": [
+        "negara yang bersatu dengan seluruh rakyatnya",
+        "dalam lapangan apapun"
+      ],
+      "topik_materi": "Sifat Mengatasi Semua Golongan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Karakteristik utama negara integralistik dalam memandang keberagaman adalah...",
+      "pilihan": {
+        "A": "Mengutamakan kepentingan golongan mayoritas dalam birokrasi",
+        "B": "Menghapuskan eksistensi kelompok minoritas secara bertahap",
+        "C": "Mewajibkan warga memilih satu partai politik tunggal resmi",
+        "D": "Membagi kekuasaan kementerian kepada kelompok konglomerat",
+        "E": "Bersatu dengan seluruh rakyat dan mengatasi semua golongan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Negara integralistik adalah **negara yang bersatu dengan seluruh rakyatnya, yang mengatasi semua golongan dalam lapangan apapun**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Posisi negara dalam konsepsi integralistik berdiri netral dan mengatasi segala bentuk pengelompokan suku, agama, ras, maupun strata ekonomi. Negara tidak boleh menjadi instrumen kekuasaan bagi satu golongan tertentu.",
+        "bedah_pengecoh": {
+          "A": "Mengutamakan mayoritas mencederai prinsip persatuan kebangsaan.",
+          "B": "Menghapus minoritas bertentangan dengan HAM dan kemanusiaan.",
+          "C": "Partai tunggal merupakan karakteristik negara totaliter tertutup.",
+          "D": "Membagi kekuasaan ke pemodal adalah bentuk oligarki kekuasaan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 17,
+      "kata_kunci_modul": [
+        "kepala negara dan lain-lain badan pemerintah",
+        "harus bersifat pemimpin yang sejati"
+      ],
+      "topik_materi": "Karakter Pemimpin dalam Aliran Integralistik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam aliran integralistik, kepala negara dan badan pemerintah dituntut...",
+      "pilihan": {
+        "A": "Bertindak sebagai figur pemimpin sejati yang mengayomi",
+        "B": "Menumpuk kekayaan pribadi guna memperkuat dinasti keluarga",
+        "C": "Mengekang aspirasi rakyat demi stabilitas semu keamanan",
+        "D": "Memperluas hak istimewa kekebalan hukum bagi aparatur",
+        "E": "Menjalankan roda pemerintahan atas pesanan korporasi swasta"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dalam aliran integralistik, **kepala negara dan lain-lain badan pemerintah harus bersifat pemimpin yang sejati** dan tidak mempunyai kepentingan sendiri.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Kepemimpinan kenegaraan berorientasi integralistik memposisikan pemimpin sebagai pelayan dan pengayom seluruh rakyat. Pemimpin sejati menyatukan jiwanya dengan kehendak rakyat dan bebas dari vested interest pribadi.",
+        "bedah_pengecoh": {
+          "B": "Menumpuk kekayaan pribadi adalah bentuk tindak pidana korupsi.",
+          "C": "Mengekang aspirasi mencerminkan pola kepemimpinan tiranik.",
+          "D": "Hak kebal hukum aparatur melanggar asas equality before the law.",
+          "E": "Pemerintahan pesanan pemodal bertentangan dengan kedaulatan rakyat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 17,
+      "kata_kunci_modul": [
+        "Negara tidak bertindak sebagai seseorang yang maha kuasa",
+        "mempunyai kepentingan sendiri"
+      ],
+      "topik_materi": "Kedudukan Kekuasaan Negara Integralistik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip kekuasaan negara menurut pandangan Prof. Soepomo menegaskan bahwa...",
+      "pilihan": {
+        "A": "Kepala negara memegang hak mutlak atas seluruh tanah warga",
+        "B": "Pemerintah pusat berhak mengubah batas wilayah tanpa aturan",
+        "C": "Negara tidak bertindak maha kuasa demi kepentingan sendiri",
+        "D": "Aparatur militer berada di atas hukum peradilan umum sipil",
+        "E": "Kekuasaan yudikatif berada di bawah kendali menteri kabinet"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Negara tidak bertindak sebagai seseorang yang maha kuasa yang mempunyai kepentingan sendiri**, melainkan menyatu utuh dengan kehendak rakyatnya.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Konsepsi Soepomo mencegah negara berkembang menjadi kekuatan absolut yang menindas. Negara bukan entitas terpisah yang mengejar kepentingan egoistis penguasa, melainkan manifestasi dari kehendak bersatu masyarakat.",
+        "bedah_pengecoh": {
+          "A": "Hak atas tanah warga dijamin dan dilindungi oleh hukum negara.",
+          "B": "Pengubahan batas wilayah diatur secara konstitusional dalam undang-undang.",
+          "D": "Prinsip negara hukum menempatkan semua warga setara di hadapan hukum.",
+          "E": "Kekuasaan kehakiman bersifat merdeka bebas dari intervensi eksekutif."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 17,
+      "kata_kunci_modul": [
+        "tidak ada pertentangan antara staat dan individu",
+        "suatu bagian organik dari staat"
+      ],
+      "topik_materi": "Hubungan Negara dan Individu dalam Integralistik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hubungan antara negara (staat) dan individu dalam aliran integralistik ditandai...",
+      "pilihan": {
+        "A": "Konflik permanen memperebutkan alokasi sumber penerimaan",
+        "B": "Persaingan bebas dalam menentukan tata hukum dan peradilan",
+        "C": "Pemisahan ketat hak individu dari campur tangan otoritas umum",
+        "D": "Peniadaan hak hidup warga negara oleh kekuasaan tunggal raja",
+        "E": "Ketiadaan pertentangan karena individu adalah bagian organik negara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pada dasarnya menurut aliran integralistik, **tidak ada pertentangan antara staat dan individu, karena individu tidak lain melainkan suatu bagian organik dari staat**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Berbeda dengan pandangan Barat yang sering mempertentangkan hak asasi individu versus kekuasaan negara, teori integralistik melihat keharmonisan dwitunggal di mana kesejahteraan individu melekat pada kemakmuran dan martabat negara.",
+        "bedah_pengecoh": {
+          "A": "Konflik permanen adalah asumsi teori pertentangan kelas marxisme.",
+          "B": "Persaingan bebas peradilan merusak kepastian hukum ketatanegaraan.",
+          "C": "Pemisahan ketat hak individu adalah ciri liberalisme klasik.",
+          "D": "Peniadaan hak hidup adalah karakteristik monarki absolut tirani."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 17,
+      "kata_kunci_modul": [
+        "staat bukan suatu badan kekuasaan atau raksasa politik",
+        "suasana kemerdekaan seseorang"
+      ],
+      "topik_materi": "Makna Negara Bukan Raksasa Politik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pernyataan bahwa negara bukan 'raksasa politik' di luar kemerdekaan warga bermakna...",
+      "pilihan": {
+        "A": "Negara tidak memiliki angkatan bersenjata dan kepolisian",
+        "B": "Negara tidak berdiri sebagai kekuatan asing penindas warganya",
+        "C": "Warga negara terbebas dari seluruh kewajiban kontribusi kas negara",
+        "D": "Pemerintah tidak berwenang membuat peraturan perundang-undangan",
+        "E": "Kedaulatan hukum sepenuhnya diserahkan kepada pengadilan adat"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Staat **bukan suatu badan kekuasaan atau raksasa politik yang berada di luar lingkungan suasana kemerdekaan seseorang**, melainkan ruang hidup bersama yang membahagiakan warganya.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Metafora 'raksasa politik' digunakan Soepomo untuk menolak konsep negara Leviathan (kekuasaan monster menakutkan). Negara integralistik hadir sebagai rumah besar bersama yang melindungi hak dan kemerdekaan warganya dari dalam.",
+        "bedah_pengecoh": {
+          "A": "Negara berdaulat wajib memiliki angkatan bersenjata resmi.",
+          "C": "Membayar pajak adalah kewajiban konstitusional setiap warga negara.",
+          "D": "Pemerintah bersama legislatif berwenang membentuk undang-undang.",
+          "E": "Peradilan nasional berada dalam satu atap Mahkamah Agung."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 17,
+      "kata_kunci_modul": [
+        "hukum negara akan memperhatikan",
+        "segala keistimewaan golongan yang bermacam-macam"
+      ],
+      "topik_materi": "Perlindungan Hukum terhadap Keistimewaan Golongan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam sistem hukum negara integralistik, hukum positif dirancang untuk...",
+      "pilihan": {
+        "A": "Menghapus hukum adat yang hidup di tengah masyarakat desa",
+        "B": "Menjadikan hukum agama tertentu sebagai hukum pidana nasional",
+        "C": "Memberikan hak imunitas hukum bagi kelompok penguasa politik",
+        "D": "Memperhatikan keistimewaan golongan yang bermacam-macam",
+        "E": "Mewajibkan penggunaan satu dialek bahasa daerah secara seragam"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dalam negara integralistik, **hukum negara akan memperhatikan segala keistimewaan golongan yang bermacam-macam di tanah air kita**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Soepomo menegaskan bahwa persatuan integralistik tidak membunuh keberagaman (*unity in diversity*). Hukum negara justru mengayomi dan menghormati hak-hak tradisional serta keunikan kultural berbagai suku dan golongan nusantara.",
+        "bedah_pengecoh": {
+          "A": "Hukum adat tetap diakui eksistensinya sepanjang hidup dan sesuai asas NKRI.",
+          "B": "Indonesia bukan negara agama yang menerapkan satu hukum keagamaan.",
+          "C": "Imunitas penguasa mencederai keadilan hukum dan konstitusionalisme.",
+          "E": "Bahasa Indonesia adalah bahasa persatuan tanpa menghapus bahasa daerah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 18,
+      "kata_kunci_modul": [
+        "Ideologi berasal dari kata Yunani",
+        "Idein, yang berarti melihat"
+      ],
+      "topik_materi": "Etimologi Kata Ideologi dari Bahasa Yunani",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Secara etimologis, kata ideologi berakar dari bahasa Yunani 'idein' yang bermakna...",
+      "pilihan": {
+        "A": "Melihat suatu objek atau realitas gagasan",
+        "B": "Mendengar sabda dan ajaran para leluhur",
+        "C": "Menuliskan aturan tertulis di prasasti batu",
+        "D": "Memerintahkan bawahan dalam tugas kedinasan",
+        "E": "Merasakan kesedihan atas derita sesama warga"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Ideologi berasal dari kata Yunani **Idein yang berarti melihat**, atau **Idea** yang berarti raut muka, perawakan, gagasan, buah pikiran, dan **Logia** yang berarti ajaran.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Berdasarkan asal usul linguistiknya, akar kata 'idein' dalam bahasa Yunani kuno merujuk pada aktivitas persepsi visual atau 'melihat', yang kemudian berkembang menjadi konsep mengenai gagasan atau cita-cita mental yang dipandang akal.",
+        "bedah_pengecoh": {
+          "B": "Mendengar berhubungan dengan indera pendengaran bukan akar kata idein.",
+          "C": "Menuliskan aturan adalah ranah kodifikasi perundang-undangan.",
+          "D": "Memerintah bawahan berkaitan dengan fungsi komando administrasi.",
+          "E": "Merasakan kesedihan adalah respon afektif empati emosional."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 18,
+      "kata_kunci_modul": [
+        "ideologi adalah ajaran atau ilmu",
+        "tentang gagasan dan buah pikiran"
+      ],
+      "topik_materi": "Definisi Harfiah Ideologi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan perpaduan unsur pembentuk katanya, ideologi didefinisikan sebagai...",
+      "pilihan": {
+        "A": "Himpunan teknik negosiasi sengketa perdagangan dunia",
+        "B": "Pedoman tata cara pembagian bantuan subsidi pangan",
+        "C": "Petunjuk teknis pengoperasian sistem teknologi informasi",
+        "D": "Ajaran atau ilmu tentang gagasan dan buah pikiran",
+        "E": "Daftar susunan formasi jabatan karier kepegawaian"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dengan perpaduan unsur idea dan logia, **ideologi adalah ajaran atau ilmu tentang gagasan dan buah pikiran**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Penggabungan kata idea (gagasan/buah pikiran) dan logia (ajaran/ilmu) membentuk pemahaman harfiah bahwa ideologi merupakan disiplin atau sistem pemikiran terstruktur mengenai cita-cita mendasar yang diyakini kebenarannya.",
+        "bedah_pengecoh": {
+          "A": "Teknik negosiasi sengketa adalah instrumen diplomasi internasional.",
+          "B": "Tata cara pembagian subsidi adalah kebijakan operasional sosial.",
+          "C": "Petunjuk sistem informasi adalah manual operasional teknologi.",
+          "E": "Susunan formasi jabatan adalah dokumen teknis kepegawaian."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 18,
+      "kata_kunci_modul": [
+        "suatu konsensus mayoritas warga negara",
+        "tentang nilai-nilai dasar yang ingin diwujudkan"
+      ],
+      "topik_materi": "Makna Ideologi dalam Kehidupan Kenegaraan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam kehidupan kenegaraan, ideologi diartikan secara substantif sebagai...",
+      "pilihan": {
+        "A": "Maklumat otoriter penguasa yang diberlakukan tanpa konsultasi publik",
+        "B": "Konsensus mayoritas warga mengenai nilai dasar pendirian negara",
+        "C": "Hasil perjanjian dagang bilateral dengan negara tetangga kawasan",
+        "D": "Dokumen rencana kerja tahunan satuan kerja kementerian negara",
+        "E": "Koleksi manuskrip kuno peninggalan kerajaan maritim nusantara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Ideologi dalam kehidupan kenegaraan dapat diartikan sebagai **suatu konsensus mayoritas warga negara tentang nilai-nilai dasar yang ingin diwujudkan dengan mendirikan negara**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Ideologi negara bukan paksaan elite, melainkan kesepakatan bersama (*modus vivendi*) seluruh elemen bangsa. Konsensus ini memuat nilai-nilai fundamental yang disepakati sebagai tujuan bersama pendirian bangunan negara.",
+        "bedah_pengecoh": {
+          "A": "Perintah sepihak mencerminkan paham kekuasaan otoriter tertutup.",
+          "C": "Perjanjian dagang adalah instrumen kerja sama ekonomi luar negeri.",
+          "D": "Rencana kerja tahunan adalah dokumen manajerial APBN/DIPA.",
+          "E": "Koleksi manuskrip kuno adalah benda cagar budaya sejarah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 18,
+      "kata_kunci_modul": [
+        "pikiran-pikiran terdalam, hasrat terdalam",
+        "di atasnya didirikan suatu negara"
+      ],
+      "topik_materi": "Hakikat Ideologi sebagai Hasrat Terdalam Bangsa",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hakikat terdalam dari suatu ideologi negara mencerminkan...",
+      "pilihan": {
+        "A": "Ambisi geopolitik para perwira militer mendominasi kawasan",
+        "B": "Dorongan aparat penegak hukum memperbanyak penjatuhan vonis",
+        "C": "Kepentingan pemegang modal menanamkan modal investasi asing",
+        "D": "Keinginan birokrat mempertahankan privilese fasilitas kedinasan",
+        "E": "Pikiran dan hasrat terdalam warga sebagai fondasi negara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Ideologi merupakan **pikiran-pikiran terdalam, hasrat terdalam warga negaranya, untuk di atasnya didirikan suatu negara**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Modul menegaskan bahwa ideologi berakar pada sanubari bangsa yang paling dalam. Ia menampung cita-cita keadilan, kemerdekaan, dan kemakmuran yang dirindukan oleh seluruh rakyat sejak masa penjajahan.",
+        "bedah_pengecoh": {
+          "A": "Ambisi geopolitik militer mencirikan negara ekspansionis.",
+          "B": "Penjatuhan vonis adalah tugas peradilan menegakkan hukum.",
+          "C": "Kepentingan pemegang modal adalah watak kapitalisme liberal.",
+          "D": "Privilese birokrat bertentangan dengan semangat pelayanan publik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 18,
+      "kata_kunci_modul": [
+        "Mubyarto mengartikan bahwa ideologi adalah",
+        "sejumlah doktrin, kepercayaan, dan simbol-simbol"
+      ],
+      "topik_materi": "Definisi Ideologi Menurut Mubyarto",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menurut Mubyarto, ideologi didefinisikan sebagai himpunan...",
+      "pilihan": {
+        "A": "Peraturan teknis pengadaan logistik barang perkantoran",
+        "B": "Instruksi dinas rahasia pimpinan komando angkatan bersenjata",
+        "C": "Doktrin, kepercayaan, dan simbol pedoman mencapai tujuan",
+        "D": "Laporan berkala hasil pemeriksaan keuangan kas perbendaharaan",
+        "E": "Kumpulan dalil matematika untuk menghitung defisit anggaran"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Mubyarto** mengartikan bahwa ideologi adalah **sejumlah doktrin, kepercayaan, dan simbol-simbol sekelompok masyarakat atau satu bangsa yang menjadi pegangan dan pedoman karya untuk mencapai tujuan**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Definisi Mubyarto menonjolkan tiga unsur utama ideologi: doktrin keyakinan, sistem nilai kepercayaan, dan simbol pemersatu yang menjadi panduan praksis bagi bangsa dalam berkarya mencapai tujuan bersama.",
+        "bedah_pengecoh": {
+          "A": "Aturan pengadaan adalah regulasi teknis logistik kantor.",
+          "B": "Instruksi rahasia militer adalah dokumen strategi pertahanan.",
+          "D": "Laporan pemeriksaan adalah wewenang akuntabilitas BPK.",
+          "E": "Dalil matematika adalah instrumen analisis hitung statistik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 18,
+      "kata_kunci_modul": [
+        "Padmo Wahjono mengartikan ideologi sebagai",
+        "kesatuan yang bulat dan utuh dari ide-ide dasar"
+      ],
+      "topik_materi": "Definisi Ideologi Menurut Padmo Wahjono",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prof. Padmo Wahjono mengartikan ideologi sebagai suatu...",
+      "pilihan": {
+        "A": "Rancangan peraturan perundang-undangan penarikan pajak",
+        "B": "Perjanjian perdamaian pasca gencatan senjata medan perang",
+        "C": "Sistem komando terpusat pembagian aset perkebunan rakyat",
+        "D": "Kesatuan yang bulat dan utuh dari ide-ide dasar",
+        "E": "Kumpulan petunjuk teknis pelaksanaan lelang barang sitaan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Padmo Wahjono** mengartikan ideologi sebagai **kesatuan yang bulat dan utuh dari ide-ide dasar**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Padmo Wahjono menekankan keutuhan sistemik suatu ideologi. Ide-ide dasar yang terkandung di dalamnya saling mengunci, tidak berdiri sendiri, dan membentuk satu weltanschauung utuh dalam mengarahkan kehidupan bernegara.",
+        "bedah_pengecoh": {
+          "A": "Rancangan undang-undang pajak adalah instrumen hukum fiskal.",
+          "B": "Perjanjian pasca perang adalah produk diplomasi traktat.",
+          "C": "Sistem komando aset perkebunan adalah model ekonomi sosialis.",
+          "E": "Petunjuk lelang sitaan adalah aturan operasional perbendaharaan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 18,
+      "kata_kunci_modul": [
+        "konsekuensi daripada pandangan hidup bangsa",
+        "seperangkat tata nilai yang dicita-citakan"
+      ],
+      "topik_materi": "Hubungan Ideologi dan Pandangan Hidup",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sebagai konsekuensi dari pandangan hidup bangsa, ideologi hadir berupa...",
+      "pilihan": {
+        "A": "Seperangkat tata nilai yang dicita-citakan untuk direalisasikan",
+        "B": "Standar upah minimum tenaga kerja pada sektor industri",
+        "C": "Daftar sanksi administratif bagi pelanggar etika penugasan",
+        "D": "Alokasi pagu indikatif belanja operasional kementerian dinas",
+        "E": "Mekanisme pengangkatan pegawai honorer menjadi aparatur sipil"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Ideologi merupakan suatu konsekuensi daripada pandangan hidup bangsa, dan akan **berupa seperangkat tata nilai yang dicita-citakan akan direalisir di dalam kehidupan berkelompok**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Pandangan hidup bangsa bertransformasi menjadi ideologi saat nilai-nilai luhur tersebut diformulasikan sebagai cita-cita bersama yang hendak diwujudkan secara nyata dalam kehidupan sosial, politik, dan hukum berkelompok.",
+        "bedah_pengecoh": {
+          "B": "Standar upah minimum adalah kebijakan regulasi ketenagakerjaan.",
+          "C": "Sanksi administratif adalah instrumen penegakan disiplin dinas.",
+          "D": "Pagu belanja operasional adalah angka perencanaan anggaran.",
+          "E": "Mekanisme pengangkatan pegawai adalah prosedur manajemen SDM."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 18,
+      "kata_kunci_modul": [
+        "Pancasila sebagai ideologi mencerminkan",
+        "seperangkat nilai terpadu dalam kehidupan politik"
+      ],
+      "topik_materi": "Kedudukan Pancasila dalam Kehidupan Politik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam tata politik bangsa Indonesia, kedudukan Pancasila mencerminkan...",
+      "pilihan": {
+        "A": "Alat kekuasaan elite untuk mempertahankan jabatan kabinet",
+        "B": "Seperangkat nilai terpadu sebagai acuan kehidupan politik",
+        "C": "Sistem persaingan modal bebas tanpa batas peraturan negara",
+        "D": "Dasar hukum penundaan pemilihan umum berkala kedinasan",
+        "E": "Dokumen pembatasan partisipasi masyarakat dalam pemilu"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pancasila sebagai ideologi **mencerminkan seperangkat nilai terpadu dalam kehidupan politik bangsa Indonesia**, yaitu sebagai tata nilai yang dipergunakan sebagai acuan hidup.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Politik kenegaraan di Indonesia wajib berakar pada etika Pancasila. Nilai ketuhanan, kemanusiaan, persatuan, musyawarah, dan keadilan menjadi pembimbing seluruh proses pembuatan kebijakan dan penyelenggaraan kekuasaan umum.",
+        "bedah_pengecoh": {
+          "A": "Menjadikan ideologi alat elite mencirikan praktik manipulasi politik.",
+          "C": "Persaingan modal bebas adalah watak sistem politik liberal murni.",
+          "D": "Penundaan pemilu tanpa dasar hukum melanggar konstitusi.",
+          "E": "Membatasi partisipasi masyarakat bertentangan dengan demokrasi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 18,
+      "kata_kunci_modul": [
+        "Semua gagasan-gagasan yang timbul",
+        "ditata secara sistematis menjadi satu kesatuan yang utuh"
+      ],
+      "topik_materi": "Penataan Gagasan Sistematis dalam Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Gagasan yang tumbuh dalam kehidupan masyarakat ditata oleh Pancasila secara...",
+      "pilihan": {
+        "A": "Acak dan fleksibel mengikuti selera kekuasaan penguasa",
+        "B": "Hierarkis di mana hak pemerintah berada di atas hak rakyat",
+        "C": "Ketat dan terpisah antar masing-masing golongan suku",
+        "D": "Bebas tanpa keterikatan pada norma hukum ketatanegaraan",
+        "E": "Sistematis menjadi satu kesatuan bulat dan utuh"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Semua gagasan yang timbul dalam kehidupan bermasyarakat **ditata secara sistematis menjadi satu kesatuan yang utuh** dalam naungan ideologi Pancasila.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Keragaman aspirasi dan kearifan lokal bangsa tidak dibiarkan tercerai-berai. Pancasila menyatukannya dalam tata susunan sila yang hierarkis piramidal dan saling menjiwai, membentuk bangunan filsafat yang bulat dan terintegrasi.",
+        "bedah_pengecoh": {
+          "A": "Penataan acak merusak kepastian falsafah negara kesatuan.",
+          "B": "Pemerintah di atas rakyat bertentangan dengan kedaulatan rakyat.",
+          "C": "Pemisahan antarsuku memicu segregasi dan disintegrasi nasional.",
+          "D": "Kebebasan tanpa norma merusak tatanan tertib masyarakat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 18,
+      "kata_kunci_modul": [
+        "sifatnya terbuka, luwes, fleksibel",
+        "tidak bersifat kaku"
+      ],
+      "topik_materi": "Sifat Fleksibilitas Ideologi Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Agar tidak tertinggal oleh dinamika zaman, ideologi Pancasila memiliki sifat...",
+      "pilihan": {
+        "A": "Bersifat tertutup terhadap dinamika perkembangan zaman baru",
+        "B": "Statis dan melarang interpretasi baru atas nilai dasar",
+        "C": "Terbuka, luwes, fleksibel, serta tidak bersifat dogmatis",
+        "D": "Mutlak dan membatasi dialog pertukaran kebudayaan dunia",
+        "E": "Dibatasi penggunaannya pada agenda seremonial kenegaraan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sebagai pedoman dan acuan dalam segala bidang, ideologi Pancasila **sifatnya terbuka, luwes, fleksibel dan tidak bersifat kaku yang akan menyebabkan ketinggalan zaman**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Pancasila memiliki daya adaptasi tinggi tanpa kehilangan jati diri aslinya. Sifat terbuka dan fleksibel memungkinkan bangsa Indonesia menyerap kemajuan peradaban global dan merespons tantangan zaman secara kreatif.",
+        "bedah_pengecoh": {
+          "A": "Sifat tertutup adalah ciri ideologi totaliter seperti fasisme.",
+          "B": "Sifat statis membuat suatu ideologi kaku dan mudah ditinggalkan.",
+          "D": "Membatasi dialog memutus kemajuan ilmu pengetahuan bangsa.",
+          "E": "Fungsi pasif seremonial mengerdilkan peran hidup ideologi negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 19,
+      "kata_kunci_modul": [
+        "Pengembangan atas nilai-nilai dasar Pancasila",
+        "dilaksanakan secara kreatif dan dinamis"
+      ],
+      "topik_materi": "Metode Pengembangan Nilai Dasar Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengembangan atas nilai-nilai dasar Pancasila wajib dilaksanakan secara...",
+      "pilihan": {
+        "A": "Bersifat dogmatis dan membatasi masukan pemikiran generasi muda",
+        "B": "Menunggu inisiatif bantuan asistensi dari lembaga internasional",
+        "C": "Tertutup dalam forum rahasia pejabat tinggi kementerian",
+        "D": "Kreatif dan dinamis mengikuti kebutuhan masyarakat",
+        "E": "Seragam tanpa memperhatikan kondisi geografis wilayah"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Pengembangan atas nilai-nilai dasar Pancasila dilaksanakan secara kreatif dan dinamis** dengan memperhatikan tingkat kebutuhan serta perkembangan masyarakat Indonesia.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Aktualisasi nilai Pancasila tidak boleh mandek pada rumusan tekstual. Pengembangan dinamis dan kreatif memastikan nilai-nilai kebangsaan senantiasa kontekstual, solutif, dan relevan dengan realitas sosial masyarakat modern.",
+        "bedah_pengecoh": {
+          "A": "Sikap kaku menghambat kontribusi pemikiran generasi penerus.",
+          "B": "Sikap pasif melemahkan kemandirian kedaulatan bangsa.",
+          "C": "Forum tertutup rahasia bertentangan dengan prinsip keterbukaan publik.",
+          "E": "Mengabaikan kondisi geografis mengabaikan karakteristik kepulauan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 19,
+      "kata_kunci_modul": [
+        "membuka ruang membentuk kesepakatan masyarakat",
+        "bagaimana mencapai cita-cita"
+      ],
+      "topik_materi": "Konsekuensi Keterbukaan Ideologi Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsekuensi dari kedudukan Pancasila sebagai ideologi terbuka adalah...",
+      "pilihan": {
+        "A": "Memberi kebebasan mutlak bagi paham anarkisme individu",
+        "B": "Membuka ruang musyawarah masyarakat mencapai cita-cita",
+        "C": "Memperbolehkan perubahan konstitusi dasar tanpa musyawarah",
+        "D": "Menghapus wewenang pengawasan lembaga peradilan umum",
+        "E": "Mewajibkan privatisasi seluruh badan usaha milik negara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Sebagai konsekuensinya, Pancasila sebagai ideologi **membuka ruang membentuk kesepakatan masyarakat bagaimana mencapai cita-cita dan nilai-nilai dasar** dalam masyarakat itu sendiri.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Keterbukaan Pancasila mewadahi proses konsensus demokratis. Masyarakat diberikan ruang berdialog dan bermusyawarah guna merumuskan strategi terbaik dalam mengejawantahkan nilai dasar Pancasila ke dalam tata hukum dan kebijakan publik.",
+        "bedah_pengecoh": {
+          "A": "Paham anarkisme merusak ketertiban dan bertentangan dengan hukum.",
+          "C": "Dasar negara tidak dapat diubah oleh kesepakatan sepihak.",
+          "D": "Pengawasan peradilan mutlak dipertahankan dalam negara hukum.",
+          "E": "Privatisasi total BUMN bertentangan dengan Pasal 33 UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 19,
+      "kata_kunci_modul": [
+        "kesepakatan sebagai penyangga konstitusionalisme",
+        "kesepakatan tentang tujuan atau cita-cita bersama"
+      ],
+      "topik_materi": "Tiga Kesepakatan Penyangga Konstitusionalisme",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tiga pilar kesepakatan yang menjadi penyangga konstitusionalisme mencakup...",
+      "pilihan": {
+        "A": "Bagi hasil dividen, subsidi bahan bakar, dan pagu utang",
+        "B": "Penetapan upah buruh, tarif tol lintas daerah, dan ekspor",
+        "C": "Pakta militer pertahanan, batas teritorial, dan bea cukai",
+        "D": "Pembagian kursi kementerian, koalisi parlemen, dan anggaran",
+        "E": "Cita-cita bersama, the rule of law, dan institusi ketatanegaraan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Tiga kesepakatan penyangga konstitusionalisme mencakup: **1) tujuan atau cita-cita bersama, 2) the rule of law sebagai the basis of government, dan 3) the form of institutions and procedures**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Negara konstitusional berdiri kokoh di atas tiga konsensus fundamental tersebut. Tanpa adanya kesepakatan tentang cita-cita luhur, supremasi hukum yang berkeadilan, dan prosedur kelembagaan yang sah, suatu negara tidak akan beroperasi secara stabil.",
+        "bedah_pengecoh": {
+          "A": "Bagi hasil dan pagu utang adalah materi kebijakan fiskal belanja.",
+          "B": "Upah dan tarif tol adalah kebijakan sektoral ekonomi publik.",
+          "C": "Pakta militer adalah perjanjian pertahanan eksternal negara.",
+          "D": "Bagi kursi kementerian adalah negosiasi pragmatis politik kabinet."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 19,
+      "kata_kunci_modul": [
+        "hanya mungkin dicapai jika sistem yang dikembangkan",
+        "adalah sistem demokrasi"
+      ],
+      "topik_materi": "Sistem Politik Prasyarat Konstitusionalisme",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kesepakatan penyangga konstitusionalisme ditegaskan hanya dapat dicapai melalui...",
+      "pilihan": {
+        "A": "Pengembangan sistem politik yang berlandaskan demokrasi",
+        "B": "Penerapan hukum darurat perang militer secara permanen",
+        "C": "Sistem monarki absolut dengan kekuasaan turun temurun",
+        "D": "Penyerahan tata kelola negara kepada korporasi swasta",
+        "E": "Sentralisasi kekuasaan tunggal pada tangan birokrasi elit"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kesepakatan-kesepakatan konstitusionalisme tersebut **hanya mungkin dicapai jika sistem yang dikembangkan adalah sistem demokrasi**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Konstitusionalisme menghendaki pembatasan kekuasaan dan penghormatan hak warga negara. Hal tersebut mustahil terwujud di bawah tirani, melainkan menuntut iklim demokrasi yang menjamin kebebasan berpendapat dan partisipasi aktif rakyat.",
+        "bedah_pengecoh": {
+          "B": "Hukum darurat militer permanen membekukan hak-hak sipil warga.",
+          "C": "Monarki absolut menempatkan kehendak raja di atas hukum.",
+          "D": "Pemerintahan korporasi meniadakan fungsi pengayoman sosial.",
+          "E": "Sentralisasi birokrasi elit memicu timbulnya oligarki tertutup."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 19,
+      "kata_kunci_modul": [
+        "Pancasila sebagai dasar-dasar filosofis",
+        "terdapat dalam Pembukaan UUD 1945"
+      ],
+      "topik_materi": "Kedudukan Pancasila dalam Pembukaan UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam arsitektur ketatanegaraan RI, Pancasila berkedudukan sebagai...",
+      "pilihan": {
+        "A": "Petunjuk teknis pengawasan anggaran belanja dinas tahunan",
+        "B": "Aturan teknis pelaksanaan operasional penerimaan bea cukai",
+        "C": "Dasar filosofis dalam Pembukaan UUD 1945 penyangga konstitusi",
+        "D": "Surat edaran menteri mengenai mekanisme kerja pegawai shift",
+        "E": "Lampiran pelengkap yang dapat diubah melalui keputusan dirjen"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Pancasila sebagai dasar-dasar filosofis terdapat dalam Pembukaan UUD 1945** yang merupakan **kesepakatan pertama penyangga konstitusionalisme**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Pembukaan UUD 1945 merupakan *staatsfundamentalnorm* yang memuat dasar falsafah negara Pancasila. Kesepakatan filosofis ini menjadi landasan moral dan sumber hukum tertinggi bagi seluruh tata hukum positif di Indonesia.",
+        "bedah_pengecoh": {
+          "A": "Pengawasan anggaran adalah fungsi auditor internal pemerintah.",
+          "B": "Aturan bea cukai adalah instrumen teknis perundang-undangan.",
+          "D": "Surat edaran jam kerja adalah aturan teknis manajemen kantor.",
+          "E": "Pancasila bukan lampiran pelengkap melainkan norma dasar negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 19,
+      "kata_kunci_modul": [
+        "Dengan tidak diubahnya Pembukaan UUD 1945",
+        "tidak berubah pula kedudukan Pancasila"
+      ],
+      "topik_materi": "Dampak Yuridis Tidak Diubahnya Pembukaan UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Komitmen kesepakatan MPR untuk tidak mengubah Pembukaan UUD 1945 berakibat...",
+      "pilihan": {
+        "A": "Membekukan seluruh pembaruan pasal-pasal batang tubuh konstitusi",
+        "B": "Menjaga keabadian kedudukan Pancasila sebagai dasar filosofis negara",
+        "C": "Mengharuskan pemilihan presiden kembali melalui musyawarah dewan",
+        "D": "Membatalkan seluruh undang-undang organik yang disahkan pemerintah",
+        "E": "Menghapus peran Dewan Perwakilan Daerah dalam proses legislasi"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dengan **tidak diubahnya Pembukaan UUD 1945**, maka **tidak berubah pula kedudukan Pancasila sebagai dasar-dasar filosofis bangunan negara Republik Indonesia**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Kesepakatan fundamental amandemen UUD 1945 menetapkan Pembukaan tidak boleh diubah karena mengubah Pembukaan sama halnya dengan membubarkan negara proklamasi. Komitmen ini menjaga Pancasila tetap abadi sebagai fondasi bangsa.",
+        "bedah_pengecoh": {
+          "A": "Pasal batang tubuh telah diubah melalui empat kali amandemen.",
+          "C": "Pemilihan presiden tetap berjalan langsung oleh seluruh rakyat.",
+          "D": "Undang-undang organik tetap berlaku sah sesuai asas peraturan.",
+          "E": "Peran DPD tetap dijamin dalam ketentuan UUD 1945 hasil amandemen."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 19,
+      "kata_kunci_modul": [
+        "Yang berubah adalah sistem dan institusi",
+        "mewujudkan cita-cita berdasarkan nilai-nilai Pancasila"
+      ],
+      "topik_materi": "Dimensi Perubahan dalam Ideologi Terbuka",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam koridor Pancasila sebagai ideologi terbuka, unsur yang dapat berubah adalah...",
+      "pilihan": {
+        "A": "Nilai dasar ketuhanan dan kemanusiaan yang adil dan beradab",
+        "B": "Kewajiban aparatur negara setia pada lambang garuda pancasila",
+        "C": "Bentuk negara kesatuan menjadi serikat federasi kedaerahan",
+        "D": "Tujuan nasional perlindungan segenap tumpah darah indonesia",
+        "E": "Sistem dan bentuk institusi demi mewujudkan cita-cita bangsa"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Nilai dasar Pancasila tetap abadi, sedangkan **yang berubah adalah sistem dan institusi untuk mewujudkan cita-cita berdasarkan nilai-nilai Pancasila**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Keterbukaan Pancasila membedakan antara nilai dasar yang permanen dan nilai instrumental/praksis yang adaptif. Lembaga negara, tata kelola teknologi, dan metode birokrasi dapat bertransformasi mengikuti tuntutan efektivitas zaman.",
+        "bedah_pengecoh": {
+          "A": "Nilai dasar spiritualitas dan moralitas bersifat abadi tidak diubah.",
+          "B": "Kesetiaan pada simbol lambang negara adalah kewajiban mutlak ASN.",
+          "C": "Bentuk negara kesatuan adalah komitmen mutlak yang dipertahankan.",
+          "D": "Tujuan nasional alinea IV Pembukaan merupakan pedoman abadi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 19,
+      "kata_kunci_modul": [
+        "Pancasila mengakui dan melindungi",
+        "baik hak-hak individu maupun hak masyarakat"
+      ],
+      "topik_materi": "Perlindungan Hak Individu dan Kolektif",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keunggulan ideologi Pancasila dibanding liberalisme dan sosialisme terletak pada...",
+      "pilihan": {
+        "A": "Pengutamaan mutlak hak individu di atas kepentingan masyarakat",
+        "B": "Peniadaan total hak milik individu oleh penguasaan negara",
+        "C": "Penyerahan kewenangan hukum kepada perserikatan buruh pabrik",
+        "D": "Penyelarasan seimbang antara hak individu dan hak masyarakat",
+        "E": "Pemberian konsesi berusaha eksklusif kepada pejabat birokrasi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pancasila memiliki perbedaan fundamental: **mengakui dan melindungi baik hak-hak individu maupun hak masyarakat baik di bidang ekonomi maupun politik** secara selaras.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Pancasila menghindari ekstremitas individualisme kapitalis yang mengorbankan masyarakat dan ekstremitas kolektivisme komunis yang menindas hak individu. Keduanya disatukan secara harmonis dalam bingkai kebersamaan yang berkeadilan.",
+        "bedah_pengecoh": {
+          "A": "Pengutamaan mutlak hak individu adalah karakteristik liberalisme.",
+          "B": "Peniadaan hak milik individu adalah watak komunisme marxisme.",
+          "C": "Penyerahan hukum ke serikat buruh adalah sindikalisme radikal.",
+          "E": "Hak istimewa usaha pejabat adalah monopoli oligarkis terlarang."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 19,
+      "kata_kunci_modul": [
+        "Demokrasi yang dikembangkan bukan demokrasi politik semata",
+        "tetapi juga demokrasi ekonomi"
+      ],
+      "topik_materi": "Konsep Demokrasi Ekonomi Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Demokrasi yang dikembangkan dalam sistem ketatanegaraan Indonesia mencakup...",
+      "pilihan": {
+        "A": "Demokrasi liberal berorientasi penumpukan kekayaan pribadi",
+        "B": "Demokrasi terpimpin mutlak di bawah kekuasaan seorang presiden",
+        "C": "Demokrasi politik yang dipadukan dengan demokrasi ekonomi",
+        "D": "Demokrasi serikat pekerja yang membatasi investasi teknologi baru",
+        "E": "Demokrasi semu yang melarang warga berserikat dan berkumpul"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Demokrasi yang dikembangkan bangsa Indonesia **bukan demokrasi politik semata seperti dalam ideologi liberal-kapitalis, tetapi juga demokrasi ekonomi**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Kedaulatan rakyat tidak cukup hanya diwujudkan dalam bilik suara pemilu politik. Pancasila menghendaki demokrasi ekonomi di mana produksi dikerjakan oleh semua untuk semua di bawah pimpinan anggota-anggota masyarakat demi kemakmuran bersama.",
+        "bedah_pengecoh": {
+          "A": "Penumpukan kekayaan pribadi mencirikan watak kapitalis murni.",
+          "B": "Kekuasaan mutlak satu orang adalah penyimpangan otoritarianisme.",
+          "D": "Menolak investasi teknologi bertentangan dengan kemajuan bangsa.",
+          "E": "Melarang berserikat mencederai hak konstitusional Pasal 28 UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 19,
+      "kata_kunci_modul": [
+        "bukan usaha bersama dan kekeluargaan",
+        "kebebasan individual untuk berusaha"
+      ],
+      "topik_materi": "Perbedaan Sistem Perekonomian Menurut Jimly Asshiddiqie",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menurut Jimly Asshiddiqie, perbedaan sistem perekonomian Pancasila terletak pada...",
+      "pilihan": {
+        "A": "Prinsip usaha bersama dan asas kekeluargaan seluruh warga",
+        "B": "Pemberantasan seluruh bentuk kepemilikan swasta oleh militer",
+        "C": "Dominasi monopoli mutlak oleh perusahaan multinasional asing",
+        "D": "Kewajiban warga menjual seluruh hasil pertanian kepada pejabat",
+        "E": "Peniadaan mata uang rupiah dan penerapan sistem barter kuno"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Berdasarkan kutipan pemikiran **Jimly Asshiddiqie**, dalam Pancasila dasar perekonomian berpijak pada **usaha bersama dan kekeluargaan**, bukan kebebasan individual liberal atau dominasi etatisme negara.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Perekonomian Pancasila menyatukan daya cipta swasta, peran strategis BUMN, dan kekuatan gotong royong koperasi. Asas kekeluargaan menjadi jiwa operasional agar perekonomian tidak menghasilkan penindasan manusia atas manusia.",
+        "bedah_pengecoh": {
+          "B": "Pemberantasan swasta oleh militer mencirikan kediktatoran junta.",
+          "C": "Monopoli asing meruntuhkan kedaulatan ekonomi kemandirian bangsa.",
+          "D": "Penjualan paksa kepada pejabat adalah praktik tanam paksa kolonial.",
+          "E": "Peniadaan mata uang bertentangan dengan UU Mata Uang NKRI."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 20,
+      "kata_kunci_modul": [
+        "Pancasila tidaklah lahir secara mendadak",
+        "melalui proses yang panjang"
+      ],
+      "topik_materi": "Historisitas Kelahiran Pancasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan penelusuran sejarah, kelahiran Pancasila pada tahun 1945 terjadi...",
+      "pilihan": {
+        "A": "Secara mendadak sebagai hadiah pemberian dari penjajah",
+        "B": "Melalui pemungutan suara perwakilan kamar dagang dunia",
+        "C": "Hasil penjiplakan utuh konstitusi negara adidaya barat",
+        "D": "Berdasarkan instruksi langsung penguasa militer pendudukan asing",
+        "E": "Melalui proses panjang perjuangan dan kepribadian bangsa"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pancasila **tidaklah lahir secara mendadak pada tahun 1945, melainkan melalui proses yang panjang**, dengan didasari sejarah perjuangan dan berakar pada kepribadian bangsa Indonesia sendiri.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Kelahiran Pancasila merupakan buah dari perjalanan sejarah spiritual, sosiologis, dan perjuangan fisik berabad-abad. Nilai-nilainya bukan bentukan instan melainkan kristalisasi jiwa bangsa yang digali dari bumi pertiwi.",
+        "bedah_pengecoh": {
+          "A": "Pancasila bukan hadiah melainkan hasil perjuangan mandiri bangsa.",
+          "B": "Kamar dagang dunia tidak terlibat dalam perumusan falsafah bangsa.",
+          "C": "Pancasila bukan jiplakan melainkan berakar pada budaya lokal.",
+          "D": "Penguasa militer Jepang tidak merumuskan materi dasar negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 20,
+      "kata_kunci_modul": [
+        "kedua kerajaan Sriwijaya dan Majapahit",
+        "meliputi seluruh nusantara"
+      ],
+      "topik_materi": "Dua Kerajaan Kedaulatan Nusantara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dua kerajaan maritim dan agraris yang berhasil menyatukan wilayah Nusantara adalah...",
+      "pilihan": {
+        "A": "Kerajaan Tarumanegara dan Kesultanan Samudera Pasai",
+        "B": "Kesultanan Mataram Islam dan Kesultanan Banten",
+        "C": "Kerajaan Sriwijaya dan Kerajaan Majapahit",
+        "D": "Kerajaan Singasari dan Kesultanan Malaka",
+        "E": "Kerajaan Kutai Martapura dan Kesultanan Ternate"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pada zamannya, **kedua kerajaan Sriwijaya dan Majapahit telah merupakan negara yang berdaulat, bersatu, serta mempunyai wilayah yang meliputi seluruh nusantara**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Modul menegaskan bahwa tonggak integrasi kedaulatan wilayah nusantara tercatat dalam era keemasan Kerajaan Sriwijaya (abad ke-7) dan Majapahit (abad ke-14). Keduanya membuktikan kemampuan bangsa menyelenggarakan ketatanegaraan berdaulat.",
+        "bedah_pengecoh": {
+          "A": "Tarumanegara dan Samudera Pasai mencakup wilayah regional terbatas.",
+          "B": "Mataram dan Banten berkuasa pada skala pulau Jawa.",
+          "D": "Singasari adalah pendahulu Majapahit dengan wilayah belum penuh nusantara.",
+          "E": "Kutai dan Ternate merupakan kerajaan lokal berbasis kepulauan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 20,
+      "kata_kunci_modul": [
+        "unsur-unsur atau sila-sila dari Pancasila",
+        "telah dihayati dan dijadikan asas"
+      ],
+      "topik_materi": "Penghayatan Nilai Pancasila Zaman Kerajaan Nusantara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada zaman kejayaan Sriwijaya dan Majapahit, nilai-nilai Pancasila telah...",
+      "pilihan": {
+        "A": "Dihayati dan dijadikan asas kehidupan bermasyarakat",
+        "B": "Diabaikan demi kepentingan hegemoni dinasti keluarga raja",
+        "C": "Digantikan oleh sistem hukum perdata penjajah kolonial",
+        "D": "Dilarang penyebarannya di luar tembok istana kerajaan",
+        "E": "Dibukukan dalam lembaran negara berbahasa asing modern"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pada zaman itu, **unsur-unsur atau sila-sila dari Pancasila yaitu ketuhanan, kemanusiaan, persatuan, musyawarah dan keadilan sosial telah dihayati dan dijadikan asas** dalam tata kehidupan pemerintahan dan kemasyarakatan.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Meskipun belum dirumuskan dalam kalimat resmi 5 sila seperti dalam rumusan resmi konstitusi, esensi nilai-nilai ketuhanan, gotong royong, toleransi beragama, dan musyawarah telah menjadi nafas kehidupan sehari-hari masyarakat nusantara kuno.",
+        "bedah_pengecoh": {
+          "B": "Nilai-nilai luhur justru dihayati bukan diabaikan dinasti.",
+          "C": "Hukum kolonial baru masuk berabad-abad kemudian pada era VOC.",
+          "D": "Praktik nilai menyebar luas di masyarakat bukan hanya di istana.",
+          "E": "Dokumen masa itu ditulis dalam aksara dan bahasa kuno nusantara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 20,
+      "kata_kunci_modul": [
+        "dokumen-dokumen tertulis yang ada seperti",
+        "Telaga Batu, Kedukan Bukit, Karang Brahi"
+      ],
+      "topik_materi": "Prasasti Sejarah Pembukti Nilai Sriwijaya",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bukti tertulis penerapan nilai kebersamaan dan ketuhanan era Sriwijaya termuat dalam...",
+      "pilihan": {
+        "A": "Prasasti Ciaruteun, Kebon Kopi, dan Prasasti Tugu",
+        "B": "Prasasti Yupa Muara Kaman di tepian Sungai Mahakam",
+        "C": "Kitab Centhini, Serat Wedhatama, dan Babad Tanah Jawi",
+        "D": "Prasasti Telaga Batu, Kedukan Bukit, dan Karang Brahi",
+        "E": "Prasasti Canggal, Kalasan, dan Prasasti Mantyasih Kedu"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Bukti nilai luhur zaman Sriwijaya termuat dalam **dokumen-dokumen tertulis yang ada seperti Telaga Batu, Kedukan Bukit, Karang Brahi, Talang Tuo dan Kota Kapur**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Berbagai prasasti peninggalan Kedatuan Sriwijaya tersebut memuat pesan-pesan moral mengenai kesetiaan pada negara, keadilan, doa kemakmuran bagi seluruh rakyat, serta kutukan bagi para perusak ketertiban umum.",
+        "bedah_pengecoh": {
+          "A": "Ciaruteun dan Tugu adalah peninggalan Kerajaan Tarumanegara.",
+          "B": "Prasasti Yupa adalah peninggalan Kerajaan Hindu Kutai.",
+          "C": "Centhini dan Wedhatama adalah karya sastra era Mataram Islam.",
+          "E": "Canggal dan Kalasan adalah prasasti Mataram Kuno di Jawa Tengah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 20,
+      "kata_kunci_modul": [
+        "Dalam buku Nagarakertagama karangan Mpu Prapanca",
+        "menunjukkan adanya unsur musyawarah"
+      ],
+      "topik_materi": "Nilai Musyawarah dalam Kitab Nagarakertagama",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Unsur musyawarah dan hubungan antaranegara tetangga era Majapahit diuraikan dalam...",
+      "pilihan": {
+        "A": "Kitab Pararaton karangan pujangga kerajaan Singasari",
+        "B": "Buku Nagarakertagama karangan Mpu Prapanca",
+        "C": "Kitab Arjunawiwaha karangan pujangga Mpu Kanwa",
+        "D": "Kitab Bharatayuddha gubahan Mpu Sedah dan Panuluh",
+        "E": "Serat Kalatidha karangan pujangga Raden Ngabehi Ranggawarsita"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Dalam buku Nagarakertagama karangan Mpu Prapanca** diuraikan susunan pemerintahan Majapahit yang **menunjukkan adanya unsur musyawarah dan hubungan antar negara tetangga**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Kakawin Nagarakertagama (Desawarnana) yang ditulis tahun 1365 mendokumentasikan tata kelola kenegaraan Majapahit di bawah Prabu Hayam Wuruk dan Mahapatih Gajah Mada, termasuk adanya dewan pertimbangan (*Bhattara Saptaprabhu*).",
+        "bedah_pengecoh": {
+          "A": "Kitab Pararaton menceritakan riwayat raja-raja Singasari dan Majapahit.",
+          "C": "Arjunawiwaha adalah karya sastra era Raja Airlangga di Kahuripan.",
+          "D": "Bharatayuddha digubah pada era Kerajaan Kediri di bawah Jayabaya.",
+          "E": "Serat Kalatidha berisi ramalan zaman edan era pujangga Surakarta."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 20,
+      "kata_kunci_modul": [
+        "dalam buku Sutasoma karangan Mpu Tantular",
+        "toleransi kehidupan beragama"
+      ],
+      "topik_materi": "Toleransi Kehidupan Beragama dalam Kitab Sutasoma",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip toleransi kehidupan beragama antara pemeluk Buddha dan Hindu dilukiskan dalam...",
+      "pilihan": {
+        "A": "Kitab Gatotkacasraya gubahan pujangga Mpu Panuluh",
+        "B": "Kitab Smaradahana karangan pujangga Mpu Dharmaja",
+        "C": "Buku Sutasoma karangan pujangga Mpu Tantular",
+        "D": "Kitab Kresnayana karangan pujangga istana Mpu Triguna",
+        "E": "Kitab Lubdhaka karangan pujangga sastra Mpu Tanakung"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Dalam buku Sutasoma karangan Mpu Tantular** dilukiskan adanya **toleransi kehidupan beragama, khususnya antara agama Budha dan Hindu** yang melahirkan semboyan Bhinneka Tunggal Ika.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Mpu Tantular menuliskan frasa monumental *'Bhinneka Tunggal Ika tan hana dharma mangrwa'* dalam Kakawin Sutasoma. Karya ini membuktikan bahwa persatuan dalam kemajemukan agama telah menjadi kearifan luhur bangsa sejak abad ke-14.",
+        "bedah_pengecoh": {
+          "A": "Gatotkacasraya berkisah tentang kepahlawanan tokoh pewayangan.",
+          "B": "Smaradahana menceritakan terbakarnya Dewa Kama oleh Dewa Siwa.",
+          "D": "Kresnayana mengisahkan perkawinan Prabu Kresna dan Dewi Rukmini.",
+          "E": "Lubdhaka mengisahkan pengampunan dosa seorang pemburu binatang."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 20,
+      "kata_kunci_modul": [
+        "bangsa Indonesia telah mengalami kejayaan",
+        "nilai-nilai yang terkandung dalam Pancasila sudah diterapkan"
+      ],
+      "topik_materi": "Penerapan Nilai Pancasila Zaman Kejayaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Puncak kejayaan peradaban masa lampau nusantara membuktikan bahwa nilai Pancasila...",
+      "pilihan": {
+        "A": "Baru tercipta setelah bangsa Indonesia mengenal teknologi cetak",
+        "B": "Gagal menciptakan kedamaian dan kerukunan antarsuku bangsa",
+        "C": "Terbatas pada lingkungan saudagar perantara di pesisir pelabuhan",
+        "D": "Ditiru secara mentah dari undang-undang kerajaan di Eropa barat",
+        "E": "Telah diterapkan secara nyata dalam tata kehidupan bernegara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Bangsa Indonesia telah mengalami kejayaan pada zaman Sriwijaya dan Majapahit di mana **nilai-nilai yang terkandung dalam Pancasila sudah diterapkan dalam tata kehidupan bernegara dan bermasyarakat**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Kejayaan Nusantara bukanlah kemegahan semu tanpa jiwa. Kemakmuran Sriwijaya dan Majapahit terwujud berkat penerapan prinsip-prinsip moral ketuhanan, persatuan teritorial, hukum yang adil, serta keterbukaan terhadap peradaban dunia.",
+        "bedah_pengecoh": {
+          "A": "Nilai-nilai luhur telah hidup berabad-abad sebelum teknologi cetak.",
+          "B": "Penerapan nilai terbukti berhasil menciptakan kejayaan peradaban.",
+          "C": "Nilai dihayati seluruh lapisan masyarakat bukan saudagar semata.",
+          "D": "Pancasila bersumber dari tradisi lokal bukan adopsi hukum Eropa."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 20,
+      "kata_kunci_modul": [
+        "dengan datangnya penjajahan Barat",
+        "kehidupan bangsa Indonesia berubah menjadi penderitaan"
+      ],
+      "topik_materi": "Dampak Kolonialisme terhadap Kehidupan Bangsa",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kedatangan penjajahan Barat mengubah kehidupan bangsa menjadi penderitaan karena...",
+      "pilihan": {
+        "A": "Penjajah bertindak tidak sesuai dengan nilai-nilai Pancasila",
+        "B": "Penjajah membangun sarana jalan raya dan jaringan pelabuhan",
+        "C": "Masyarakat pedalaman belum mengenal teknologi industri modern",
+        "D": "Terjadi bencana kekeringan berkepanjangan di seluruh pulau",
+        "E": "Para raja nusantara menyerahkan takhta secara sukarela"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dengan datangnya penjajahan Barat, kehidupan bangsa berubah menjadi penderitaan karena **penjajah bertindak tidak sesuai dengan nilai-nilai yang terkandung dalam Pancasila**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Praktik kolonialisme berwatak eksploitatif, menindas kemanusiaan, memecah belah persatuan (*devide et impera*), dan meniadakan keadilan sosial. Penjajahan secara mutlak berlawanan dengan harkat martabat dan nilai-nilai luhur Pancasila.",
+        "bedah_pengecoh": {
+          "B": "Pembangunan sarana fisik kolonial bermotif eksploitasi ekonomi.",
+          "C": "Rakyat nusantara justru gigih menuntut akses pendidikan modern.",
+          "D": "Penderitaan bangsa disebabkan oleh penindasan manusia atas manusia.",
+          "E": "Para pejuang dan raja nusantara bertempur gigih melawan penjajah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 20,
+      "kata_kunci_modul": [
+        "Talang Tua dan Kota Kapur",
+        "berdasarkan dokumen-dokumen tertulis"
+      ],
+      "topik_materi": "Prasasti Talang Tuo dan Kota Kapur",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prasasti Talang Tuo dan Kota Kapur membuktikan keberadaan tata nilai luhur pada era...",
+      "pilihan": {
+        "A": "Kerajaan Pajajaran di bawah kekuasaan Prabu Siliwangi",
+        "B": "Kerajaan Mataram Kuno di bawah dinasti Sanjaya dan Syailendra",
+        "C": "Kesultanan Demak pada masa kepemimpinan Sultan Trenggana",
+        "D": "Kedatuan Sriwijaya dalam mewujudkan kemakmuran lingkungan",
+        "E": "Kesultanan Gowa Tallo di bawah kepemimpinan Sultan Hasanuddin"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Prasasti **Talang Tuo dan Kota Kapur** merupakan dokumen tertulis resmi yang membuktikan kejayaan dan penerapan tata nilai pada era **Kedatuan Sriwijaya**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Prasasti Talang Tuo (684 M) memuat pembangunan taman Sriksetra demi kesejahteraan seluruh makhluk hidup, merefleksikan nilai luhur kepemimpinan yang berwawasan lingkungan dan mengutamakan kemaslahatan rakyat banyak.",
+        "bedah_pengecoh": {
+          "A": "Kerajaan Pajajaran mewariskan Prasasti Batutulis di Bogor.",
+          "B": "Prasasti Mataram Kuno antara lain Prasasti Canggal dan Balitung.",
+          "C": "Kesultanan Demak mewariskan Masjid Agung dan piagam dakwah Islam.",
+          "E": "Kesultanan Gowa Tallo mewariskan benteng Somba Opu di Makassar."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 20,
+      "kata_kunci_modul": [
+        "diilhami oleh gagasan-gagasan besar dunia",
+        "berakar pada kepribadian dan gagasan besar bangsa"
+      ],
+      "topik_materi": "Sintesis Gagasan Dunia dan Kepribadian Lokal",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perpaduan sumber ideologis Pancasila secara historis dicirikan oleh...",
+      "pilihan": {
+        "A": "Penolakan total terhadap seluruh gagasan kemanusiaan peradaban dunia",
+        "B": "Ilham gagasan besar dunia yang berakar pada kepribadian bangsa",
+        "C": "Penerimaan doktrin materialisme sejarah tanpa penyaringan budaya",
+        "D": "Kewajiban mengadopsi sistem parlementer monarki dari kerajaan barat",
+        "E": "Pembatasan hubungan kemitraan pada rumpun bangsa serumpun"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pancasila **diilhami oleh gagasan-gagasan besar dunia, tetapi tetap berakar pada kepribadian dan gagasan besar bangsa Indonesia sendiri**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Para pendiri bangsa memiliki wawasan global yang luas sekaligus keterikatan batin yang mendalam pada jati diri nusantara. Nilai-nilai universal seperti demokrasi dan kemanusiaan disenyawakan dengan nilai keaslian gotong royong dan ketuhanan.",
+        "bedah_pengecoh": {
+          "A": "Pancasila bersikap terbuka pada gagasan luhur peradaban dunia.",
+          "C": "Materialisme sejarah disaring dan ditolak watak ateistiknya.",
+          "D": "Pendiri bangsa menolak bentuk monarki bagi republik Indonesia.",
+          "E": "Diplomasi Indonesia berprinsip bebas aktif menjangkau seluruh dunia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 21,
+      "kata_kunci_modul": [
+        "dimulai sejak awal 1900-an",
+        "mencari sintesis antar ideologi"
+      ],
+      "topik_materi": "Awal Konseptualisasi Sintesis Ideologi Bangsa",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rintisan sejarah konseptualisasi Pancasila dimulai sejak awal tahun 1900-an melalui...",
+      "pilihan": {
+        "A": "Pencarian sintesis antar-ideologi melalui organisasi pergerakan",
+        "B": "Pemberian dana pinjaman modal usaha oleh bank pemerintah kolonial",
+        "C": "Penyelenggaraan ekspedisi militer gabungan di kepulauan pasifik",
+        "D": "Pelaksanaan pemilihan umum pertama anggota volksraad di batavia",
+        "E": "Pembentukan serikat buruh perusahaan perkebunan milik belanda"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Proses konseptualisasi Pancasila melintasi perjalanan panjang, **dimulai sejak awal 1900-an dalam bentuk rintisan-rintisan gagasan untuk mencari sintesis antar ideologi**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Kebangkitan nasional melahirkan beragam aliran pemikiran (nasionalisme, Islam, dan sosialisme). Para tokoh pergerakan berusaha mencari titik temu (*sintesis*) yang dapat menyatukan segenap perbedaan pandangan demi kemerdekaan bangsa.",
+        "bedah_pengecoh": {
+          "B": "Pinjaman modal adalah skema perbankan bukan konseptualisasi ideologi.",
+          "C": "Ekspedisi militer adalah operasi perang bukan pergerakan kebangsaan.",
+          "D": "Pemilihan Volksraad adalah lembaga dewan bentukan penjajah Hindia Belanda.",
+          "E": "Serikat buruh kolonial berfokus pada hubungan industrial perkebunan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 21,
+      "kata_kunci_modul": [
+        "kemunculan berbagai organisasi pergerakan",
+        "Boedi Oetomo, SDI, SI, Muhammadiyah"
+      ],
+      "topik_materi": "Kemunculan Organisasi Pergerakan Nasional",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Fase awal kebangkitan gagasan kebangsaan ditandai oleh kemunculan organisasi...",
+      "pilihan": {
+        "A": "Vereenigde Oostindische Compagnie dan Dewan Hindia Belanda",
+        "B": "Komite Nasional Pemuda Indonesia dan Korps Pegawai Negeri",
+        "C": "Gerakan Non-Blok dan Perhimpunan Bangsa-Bangsa Asia Tenggara",
+        "D": "Partai Demokrat Liberal dan Persatuan Kaum Buruh Eropa",
+        "E": "Boedi Oetomo, Sarekat Dagang Islam, Muhammadiyah, dan NU"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Proses sintesis ditandai oleh kemunculan organisasi kebangkitan: **Boedi Oetomo, SDI, SI, Muhammadiyah, NU, Perhimpunan Indonesia, dan Sumpah Pemuda**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Munculnya organisasi-organisasi modern pada dekade awal abad ke-20 menandai transformasi perjuangan kedaerahan menjadi gerakan kebangsaan terorganisasi. Ruang-ruang organisasi ini melatih dialog nilai yang kelak mengkristal dalam Pancasila.",
+        "bedah_pengecoh": {
+          "A": "VOC dan Raad van Indie adalah organ kelembagaan penjajah kolonial.",
+          "B": "KNPI dan Korpri dibentuk pada paruh kedua abad ke-20 masa Orde Baru.",
+          "C": "GNB dan ASEAN dibentuk pasca kemerdekaan pada era perang dingin.",
+          "D": "Partai Demokrat Liberal adalah entitas politik negara-negara Barat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 21,
+      "kata_kunci_modul": [
+        "tanggal 7 September 1944 Jepang",
+        "menjanjikan kemerdekaan Indonesia di kemudian hari"
+      ],
+      "topik_materi": "Janji Kemerdekaan Perdana Jepang (Koiso)",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada tanggal 7 September 1944, Perdana Menteri Koiso mengeluarkan janji berupa...",
+      "pilihan": {
+        "A": "Penyerahan seluruh armada kapal selam tempur kepada pejuang PETA",
+        "B": "Penarikan langsung seluruh tentara pendudukan jepang dari jawa",
+        "C": "Kemerdekaan Indonesia di kemudian hari jika membantu perang",
+        "D": "Pemberian hak suara penuh kepada pemuda indonesia di parlemen tokyo",
+        "E": "Pembubaran organisasi pembela tanah air di seluruh karesidenan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pada tanggal **7 September 1944**, Jepang berusaha menarik simpati dengan **menjanjikan kemerdekaan Indonesia di kemudian hari, apabila Indonesia membantu Jepang memenangkan perang**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Janji Koiso dikeluarkan di depan parlemen Jepang saat posisi militer Jepang semakin terdesak oleh pasukan Sekutu di mandala Pasifik. Janji bersyarat ini dimanfaatkan secara cerdik oleh para tokoh bangsa untuk mempercepat persiapan kemerdekaan.",
+        "bedah_pengecoh": {
+          "A": "Jepang tidak pernah menyerahkan armada kapal perang modernnya.",
+          "B": "Tentara Jepang tetap menduduki Nusantara hingga menyerah pada Sekutu.",
+          "D": "Pemuda Indonesia tidak diberi hak perwakilan di parlemen Jepang.",
+          "E": "Organisasi PETA justru dibentuk Jepang untuk membantu pertahanan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 21,
+      "kata_kunci_modul": [
+        "pada tanggal 1 Maret 1945",
+        "mengumumkan akan dibentuknya"
+      ],
+      "topik_materi": "Pengumuman Pembentukan Badan Penyelidik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pengumuman resmi mengenai rencana pembentukan BPUPKI disampaikan pada...",
+      "pilihan": {
+        "A": "Tanggal 7 September 1944 bersamaan janji perdana menteri",
+        "B": "Tanggal 1 Maret 1945 oleh pimpinan militer Bala Tentara Dai Nippon",
+        "C": "Tanggal 29 April 1945 pada peringatan hari lahir kaisar jepang",
+        "D": "Tanggal 28 Mei 1945 pada upacara pelantikan anggota gedung pejambon",
+        "E": "Tanggal 17 Agustus 1945 pada pembacaan naskah proklamasi pegangsaan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pada tanggal **1 Maret 1945**, Jepang mengulangi janji kemerdekaan tanpa syarat dan **mengumumkan akan dibentuknya BPUPKI (Dokuritsu Junbi Choosakai)**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Jenderal Kumakichi Harada (panglima tentara ke-16 di Jawa) mengumumkan pembentukan badan penyelidik ini pada 1 Maret 1945 sebagai realisasi konkret dari janji kemerdekaan sebelumnya.",
+        "bedah_pengecoh": {
+          "A": "Tanggal 7 September 1944 adalah pidato perdana Koiso di Tokyo.",
+          "C": "Tanggal 29 April 1945 adalah peresmian pembentukan susunan pengurus.",
+          "D": "Tanggal 28 Mei 1945 adalah hari upacara pelantikan resmi BPUPKI.",
+          "E": "Tanggal 17 Agustus 1945 adalah proklamasi kemerdekaan Republik Indonesia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 21,
+      "kata_kunci_modul": [
+        "Pada tanggal 29 April 1945",
+        "Jepang membentuk BPUPKI yang diketuai Dr.K.R.T. Radjiman Wediodiningrat"
+      ],
+      "topik_materi": "Peresmian Pembentukan dan Ketua BPUPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Secara resmi kelembagaan BPUPKI dibentuk pada 29 April 1945 dengan ketua...",
+      "pilihan": {
+        "A": "Mr. Muhammad Yamin perumus naskah rancangan pembukaan",
+        "B": "Mr. Kasman Singodimedjo komandan batalyon peta jakarta",
+        "C": "Prof. R. Soepomo ahli hukum adat dan tata negara universitas",
+        "D": "Dr. K.R.T. Radjiman Wediodiningrat tokoh pergerakan senior",
+        "E": "Ki Hadjar Dewantara perintis perguruan taman siswa yogyakarta"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pada tanggal **29 April 1945**, dibentuk susunan resmi BPUPKI yang diketuai oleh figur sepuh pergerakan nasional, **Dr. K.R.T. Radjiman Wediodiningrat**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Penetapan Radjiman Wediodiningrat sebagai ketua mencerminkan kehormatan bagi tokoh senior Boedi Oetomo yang dihormati semua golongan. Beliau memimpin sidang-sidang perumusan dasar negara secara bijaksana dan demokratis.",
+        "bedah_pengecoh": {
+          "A": "Mr. Moh. Yamin bertindak sebagai anggota biasa yang berpidato.",
+          "B": "Kasman Singodimedjo memimpin BKR pasca proklamasi kemerdekaan.",
+          "C": "Prof. Soepomo menjadi anggota dan ketua panitia perancang kecil.",
+          "E": "Ki Hadjar Dewantara berkedudukan sebagai anggota perumus bidang budaya."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 21,
+      "kata_kunci_modul": [
+        "dua orang Ketua Muda (Fuku Kaityo)",
+        "Ketua Muda I Itibangase, dan Ketua Muda II, Raden Pandji Soeroso"
+      ],
+      "topik_materi": "Pimpinan Ketua Muda BPUPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dua orang pejabat yang mendampingi ketua BPUPKI sebagai Ketua Muda adalah...",
+      "pilihan": {
+        "A": "Ir. Soekarno dan Drs. Mohammad Hatta dwitunggal",
+        "B": "Sutan Sjahrir dan Amir Sjarifuddin tokoh pemuda",
+        "C": "Mr. A.A. Maramis dan KH. Wachid Hasjim perwakilan",
+        "D": "Abikoesno Tjokrosoejoso dan H. Agus Salim menteri",
+        "E": "Itibangase Yosio dan Raden Pandji Soeroso"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dr. Radjiman didampingi oleh dua orang Ketua Muda (Fuku Kaityo), yaitu **Ketua Muda I Itibangase (Jepang) dan Ketua Muda II Raden Pandji Soeroso (Indonesia)**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Unsur pimpinan BPUPKI mencerminkan struktur birokrasi masa pendudukan militer, di mana perwakilan pihak Jepang (Itibangase Yosio) dan perwakilan Indonesia (R.P. Soeroso yang merangkap kepala kantor sekretariat) memegang jabatan wakil ketua.",
+        "bedah_pengecoh": {
+          "A": "Soekarno-Hatta adalah proklamator dan ketua-wakil panitia sembilan.",
+          "B": "Sutan Sjahrir dan Amir Sjarifuddin memilih jalur perjuangan bawah tanah.",
+          "C": "Maramis dan Wachid Hasjim adalah anggota BPUPKI dan Panitia Sembilan.",
+          "D": "Abikoesno dan Agus Salim memimpin komisi sidang rancangan UUD."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 21,
+      "kata_kunci_modul": [
+        "7 (tujuh) orang anggota Istimewa",
+        "tidak mempunyai hak suara"
+      ],
+      "topik_materi": "Status Hak Suara Anggota Istimewa BPUPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuh orang anggota istimewa (Toku Betsu) berkebangsaan Jepang dalam BPUPKI...",
+      "pilihan": {
+        "A": "Memiliki hak veto membatalkan hasil keputusan musyawarah",
+        "B": "Tidak memiliki hak suara dalam pemungutan keputusan sidang",
+        "C": "Menjabat secara otomatis sebagai ketua panitia perancang hukum",
+        "D": "Wajib memberikan persetujuan tertulis pada teks naskah proklamasi",
+        "E": "Berhak menentukan jumlah anggota perwakilan komite daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "BPUPKI memiliki **7 (tujuh) orang anggota Istimewa (Toku Betsu) berkebangsaan Jepang yang tidak mempunyai hak suara** dalam sidang.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Anggota istimewa Jepang berkedudukan hanya sebagai pengamat (*observer*) perwakilan penguasa militer pendudukan. Mereka hadir memantau jalannya sidang tanpa memiliki hak memberikan suara atau menentukan keputusan akhir naskah.",
+        "bedah_pengecoh": {
+          "A": "Anggota Jepang tidak memiliki hak veto konstitusional.",
+          "C": "Ketua panitia perancang dipimpin oleh Ir. Soekarno bukan Jepang.",
+          "D": "Naskah proklamasi murni dirumuskan dan diputuskan bangsa Indonesia.",
+          "E": "Penentuan keanggotaan daerah berada di bawah otoritas pergerakan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 21,
+      "kata_kunci_modul": [
+        "jumlah keseluruhan anggota BPUPKI",
+        "adalah 76 orang (termasuk Ketua dan Ketua Muda)"
+      ],
+      "topik_materi": "Jumlah Total Keanggotaan Akhir BPUPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah ditambah 6 anggota asal Indonesia, jumlah keseluruhan anggota BPUPKI adalah...",
+      "pilihan": {
+        "A": "60 orang anggota perwakilan suku daerah",
+        "B": "85 orang perwakilan organisasi keagamaan",
+        "C": "76 orang termasuk Ketua dan Ketua Muda",
+        "D": "90 orang utusan partai politik nusantara",
+        "E": "100 orang perwakilan serikat kerja pemuda"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Komposisi awal 60 orang anggota biasa dan 7 anggota istimewa ditambah 6 anggota bangsa Indonesia, sehingga **jumlah keseluruhan anggota BPUPKI adalah 76 orang (termasuk Ketua dan Ketua Muda)**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Modul merinci perhitungan keanggotaan BPUPKI secara komprehensif. Penambahan 6 tokoh Indonesia di tengah perjalanan membuat total forum musyawarah berjumlah genap 76 orang pemikir bangsa.",
+        "bedah_pengecoh": {
+          "A": "60 orang adalah jumlah awal anggota biasa bangsa Indonesia.",
+          "B": "85 orang bukan angka resmi keanggotaan menurut dokumen modul.",
+          "D": "90 orang bukan komposisi keanggotaan badan penyelidik.",
+          "E": "100 orang adalah representasi kabinet menteri seratus menteri."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 21,
+      "kata_kunci_modul": [
+        "Pada tanggal 28 Mei 1945",
+        "Jepang melantik BPUPKI"
+      ],
+      "topik_materi": "Tanggal Resmi Pelantikan Anggota BPUPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelantikan resmi anggota BPUPKI di Gedung Chuo Sangi In Jakarta dilaksanakan pada...",
+      "pilihan": {
+        "A": "Tanggal 28 Mei 1945 sehari sebelum sidang perdana",
+        "B": "Tanggal 1 Maret 1945 bertepatan maklumat jenderal",
+        "C": "Tanggal 1 Juni 1945 bertepatan pidato kelahiran pancasila",
+        "D": "Tanggal 22 Juni 1945 bertepatan pengesahan piagam jakarta",
+        "E": "Tanggal 10 Juli 1945 pada pembukaan masa persidangan kedua"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Pada tanggal 28 Mei 1945, Jepang melantik BPUPKI** dan keesokan harinya BPUPKI langsung memulai masa persidangan pertamanya.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Upacara pelantikan anggota BPUPKI diselenggarakan secara khidmat pada 28 Mei 1945 di Gedung Cuo Sangi In (sekarang Gedung Pancasila, Kemenlu) dengan pengibaran bendera Hinomaru yang berdampingan dengan bendera Merah Putih.",
+        "bedah_pengecoh": {
+          "B": "Tanggal 1 Maret 1945 adalah hari pengumuman rencana pembentukan.",
+          "C": "Tanggal 1 Juni 1945 adalah hari terakhir masa sidang pertama BPUPKI.",
+          "D": "Tanggal 22 Juni 1945 adalah pertemuan pengesahan Piagam Jakarta.",
+          "E": "Tanggal 10 Juli 1945 adalah hari pertama masa sidang kedua BPUPKI."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 21,
+      "kata_kunci_modul": [
+        "sidang pertama dari tanggal 29 Mei 1945 hingga 1 Juni 1945",
+        "dan sidang kedua dari tanggal 10 Juli 1945"
+      ],
+      "topik_materi": "Jadwal Resmi Masa Sidang I dan II BPUPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rentang waktu pelaksanaan Sidang Pertama dan Sidang Kedua BPUPKI adalah...",
+      "pilihan": {
+        "A": "1-10 Mei 1945 dan 1-10 Juni 1945 secara bersambung",
+        "B": "17-18 Agustus 1945 dan 22-25 Agustus 1945 pasca merdeka",
+        "C": "15-20 Juni 1945 dan 1-5 Agustus 1945 di gedung dewan",
+        "D": "29 Mei – 1 Juni 1945 dan 10 – 16 Juli 1945",
+        "E": "5-10 September 1945 dan 1-10 Oktober 1945 sidang pleno"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "BPUPKI melakukan dua kali masa persidangan resmi, yaitu **sidang pertama tanggal 29 Mei hingga 1 Juni 1945** dan **sidang kedua tanggal 10 Juli hingga 16 Juli 1945**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Sidang pertama difokuskan untuk merumuskan dasar filsafat negara Indonesia merdeka, sedangkan sidang kedua membahas bentuk negara, batas wilayah teritorial, kewarganegaraan, dan rancangan undang-undang dasar.",
+        "bedah_pengecoh": {
+          "A": "Bulan Mei awal belum dimulai persidangan resmi badan penyelidik.",
+          "B": "18 Agustus 1945 adalah sidang PPKI mengesahkan UUD 1945.",
+          "C": "Akhir Juni adalah masa kerja Panitia Sembilan bukan sidang pleno.",
+          "E": "Bulan September adalah masa awal kerja KNIP pasca proklamasi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 22,
+      "kata_kunci_modul": [
+        "kegiatan perumusan Pancasila sebagai dasar negara",
+        "diskusi dan perdebatan-perdebatan dalam sidang"
+      ],
+      "topik_materi": "Forum Perumusan Dasar Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perumusan resmi naskah dasar negara Indonesia diwarnai diskusi intensif dalam...",
+      "pilihan": {
+        "A": "Rapat kerja pimpinan kantor komando pertahanan militer jepang",
+        "B": "Diskusi dan perdebatan dalam sidang-sidang resmi BPUPKI",
+        "C": "Konferensi meja bundar bersama delegasi kerajaan belanda",
+        "D": "Sidang dewan keamanan perserikatan bangsa-bangsa di new york",
+        "E": "Musyawarah perdana menteri dan jajaran menteri kabinet pertama"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Periode perumusan Pancasila sebagai dasar negara diwarnai dengan **kegiatan diskusi dan perdebatan-perdebatan mendalam dalam sidang Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia (BPUPKI)**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Forum BPUPKI menjadi kancah perdebatan intelektual dan ideologis paling bersejarah. Para bapak bangsa mengemukakan berbagai gagasan falsafah kenegaraan secara terbuka, kritis, dan demokratis hingga mencapai mufakat dasar negara.",
+        "bedah_pengecoh": {
+          "A": "Rapat militer Jepang mengurus strategi pertahanan pasifik.",
+          "C": "KMB diselenggarakan pada akhir 1949 di Den Haag Belanda.",
+          "D": "PBB belum berdiri saat perumusan awal dasar negara Mei 1945.",
+          "E": "Kabinet pertama baru dibentuk pasca proklamasi September 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 22,
+      "kata_kunci_modul": [
+        "Pada hari pertama sidang pertama BPUPKI",
+        "meminta para anggota BPUPKI untuk mengemukakan dasar"
+      ],
+      "topik_materi": "Permintaan Ketua BPUPKI pada Sidang Pertama",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada hari pertama sidang 29 Mei 1945, Ketua BPUPKI Dr. Radjiman meminta anggota...",
+      "pilihan": {
+        "A": "Menghitung ketersediaan cadangan devisa emas bank peredaran",
+        "B": "Menyusun struktur anggaran belanja kementerian pertahanan",
+        "C": "Mengemukakan gagasan tentang dasar Indonesia merdeka",
+        "D": "Menentukan batas koordinat laut teritorial kepulauan nusantara",
+        "E": "Merancang undang-undang pemilihan umum kepala daerah kota"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pada hari pertama sidang pertama BPUPKI pada tanggal 29 Mei 1945, **Ketua BPUPKI meminta para anggota BPUPKI untuk mengemukakan dasar Indonesia merdeka**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Pertanyaan pembuka dari Dr. Radjiman Wediodiningrat (*'Apakah dasar dari negara Indonesia yang akan kita bentuk?'*) memicu lahirnya pemikiran-pemikiran filosofis brilian dari tokoh-tokoh utama pergerakan nasional.",
+        "bedah_pengecoh": {
+          "A": "Cadangan devisa emas dibahas dalam komisi perekonomian kemudian.",
+          "B": "Anggaran belanja dibahas setelah kedaulatan negara terbentuk.",
+          "D": "Batas wilayah laut dibahas khusus pada masa persidangan kedua.",
+          "E": "Pilkada adalah instrumen pengisian jabatan politik pasca kemerdekaan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 22,
+      "kata_kunci_modul": [
+        "Mr. Moh. Yamin, Prof. R. Soepomo, dan Ir. Soekarno",
+        "lima asas atau lima dasar negara"
+      ],
+      "topik_materi": "Tiga Tokoh Konseptor Dasar Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tiga tokoh bangsa yang menyampaikan pidato konseptual mengenai dasar negara adalah...",
+      "pilihan": {
+        "A": "Sutan Sjahrir, Amir Sjarifuddin, dan Tan Malaka pejuang",
+        "B": "Ki Hadjar Dewantara, K.H. Ahmad Dahlan, dan Hasyim Asyari",
+        "C": "Dr. Soetomo, H.O.S. Tjokroaminoto, dan Douwes Dekker perintis",
+        "D": "Mr. Moh. Yamin, Prof. R. Soepomo, dan Ir. Soekarno",
+        "E": "Mr. Kasman Singodimedjo, Chaerul Saleh, dan Wikana pemuda"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pada sidang pertama BPUPKI, tiga anggota yaitu **Mr. Moh. Yamin (29 Mei), Prof. R. Soepomo (31 Mei), dan Ir. Soekarno (1 Juni 1945)** masing-masing mengemukakan pandangan lima asas dasar negara.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Ketiga tokoh tersebut mewakili spektrum keilmuan hukum, filsafat kenegaraan, dan kepemimpinan politik pergerakan yang meletakkan pilar-pilar konseptual bagi perumusan falsafah dasar Pancasila.",
+        "bedah_pengecoh": {
+          "A": "Sutan Sjahrir dan Tan Malaka tidak berpidato dasar negara di BPUPKI.",
+          "B": "Ahmad Dahlan dan Hasyim Asyari adalah tokoh pendiri ormas Islam.",
+          "C": "Tjokroaminoto dan Dr. Soetomo telah wafat sebelum sidang BPUPKI 1945.",
+          "E": "Kasman dan Wikana adalah eksponen pergerakan pemuda Menteng 31."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 22,
+      "kata_kunci_modul": [
+        "Mr. Moh. Yamin menyampaikan dalam pidatonya",
+        "Peri Kebangsaan"
+      ],
+      "topik_materi": "Rumusan Pidato Lisan Moh. Yamin 29 Mei 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rumusan lima asas dasar negara yang disampaikan dalam pidato lisan Moh. Yamin adalah...",
+      "pilihan": {
+        "A": "Peri Kebangsaan, Kemanusiaan, Ketuhanan, Kerakyatan, Kesejahteraan",
+        "B": "Sosio Nasionalisme, Sosio Demokrasi, dan Ketuhanan berkebudayaan",
+        "C": "Persatuan, Kekeluargaan, Keseimbangan Lahir Batin, dan Musyawarah",
+        "D": "Kemerdekaan, Kedaulatan, Perdamaian Abadi, dan Keadilan Sosial",
+        "E": "Ketuhanan, Kemanusiaan, Persatuan, Kerakyatan, dan Keadilan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pada tanggal 29 Mei 1945, Mr. Moh. Yamin menyampaikan pidato lisan lima asas: **1) Peri Kebangsaan, 2) Peri Kemanusiaan, 3) Peri Ketuhanan, 4) Peri Kerakyatan, dan 5) Kesejahteraan Rakyat**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Karakteristik khas usulan lisan Moh. Yamin ditandai dengan penggunaan awalan 'Peri-' pada empat asas pertamanya yang mencerminkan etika perikemanusiaan dan keadaban luhur bangsa timur.",
+        "bedah_pengecoh": {
+          "B": "Sosio Nasionalisme dan Sosio Demokrasi adalah Trisila Soekarno.",
+          "C": "Persatuan dan Kekeluargaan adalah rumusan pidato Soepomo.",
+          "D": "Kemerdekaan dan perdamaian adalah rumusan alinea Pembukaan.",
+          "E": "Ketuhanan hingga Keadilan adalah rumusan baku UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 22,
+      "kata_kunci_modul": [
+        "menyampaikan pula secara tertulis rancangan UUD",
+        "lima asas tersebut rumusannya berbeda"
+      ],
+      "topik_materi": "Dualitas Rumusan Usulan Moh. Yamin",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ciri unik dari usulan dasar negara yang diajukan oleh Mr. Moh. Yamin adalah...",
+      "pilihan": {
+        "A": "Disampaikan dalam bahasa Belanda tanpa naskah terjemahan",
+        "B": "Disusun bersama penasehat militer jenderal tentara sekutu",
+        "C": "Meniadakan pencantuman norma ketuhanan dalam dasar hukum negara",
+        "D": "Menghendaki bentuk monarki kekaisaran serikat bagi indonesia",
+        "E": "Rumusan rancangan tertulis berbeda dengan isi pidato lisannya"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Di samping pidato lisan, Moh. Yamin menyampaikan secara tertulis rancangan UUD di mana **lima asas dasar negara rumusannya berbeda dengan yang diucapkannya dalam pidatonya**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Dokumen sejarah mencatat bahwa Moh. Yamin menyerahkan lampiran naskah rancangan Pembukaan UUD tertulis yang redaksi lima asasnya lebih sistematis dan mendekati rumusan Pembukaan UUD 1945 yang tercantum dalam Pembukaan UUD 1945.",
+        "bedah_pengecoh": {
+          "A": "Pidato disampaikan dalam bahasa Indonesia yang fasih dan puitis.",
+          "B": "Penyusunan naskah murni inisiatif pemikiran beliau secara mandiri.",
+          "C": "Moh. Yamin justru menempatkan Ketuhanan Yang Maha Esa pada sila pertama.",
+          "D": "Moh. Yamin memperjuangkan bentuk Republik berdaulat rakyat."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 22,
+      "kata_kunci_modul": [
+        "Ketuhanan Yang Maha Esa",
+        "Mr. Muh. Yamin menyampaikan pula secara tertulis"
+      ],
+      "topik_materi": "Sila Pertama Rumusan Tertulis Moh. Yamin",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asas pertama yang tercantum dalam rancangan naskah tertulis Moh. Yamin adalah...",
+      "pilihan": {
+        "A": "Peri Kebangsaan rakyat nusantara yang merdeka",
+        "B": "Kedaulatan hukum dan keadilan peradilan perdata",
+        "C": "Ketuhanan Yang Maha Esa sebagai pilar keimanan",
+        "D": "Persatuan tanah air kepulauan melayu timur",
+        "E": "Kekeluargaan dan gotong royong warga masyarakat"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dalam rancangan tertulis UUD yang diajukan Moh. Yamin, asas pertama dirumuskan berbunyi **'Ketuhanan Yang Maha Esa'**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Berbeda dengan pidato lisannya yang menempatkan Peri Kebangsaan di urutan pertama dan Peri Ketuhanan di urutan ketiga, naskah tertulis Moh. Yamin secara berani menempatkan sila Ketuhanan Yang Maha Esa di urutan paling awal.",
+        "bedah_pengecoh": {
+          "A": "Peri Kebangsaan adalah urutan pertama dalam pidato lisannya.",
+          "B": "Kedaulatan hukum bukan rumusan sila pertama naskah tertulis.",
+          "D": "Persatuan kepulauan bukan frasa asas tertulis Moh. Yamin.",
+          "E": "Kekeluargaan adalah usulan Prof. Soepomo pada 31 Mei 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 22,
+      "kata_kunci_modul": [
+        "Kebangsaan Persatuan Indonesia",
+        "Rasa Kemanusiaan yang Adil dan Beradab"
+      ],
+      "topik_materi": "Sila Kedua dan Ketiga Tertulis Moh. Yamin",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asas kedua dan ketiga dalam naskah tertulis rancangan Moh. Yamin berbunyi...",
+      "pilihan": {
+        "A": "Musyawarah mufakat dan Kesejahteraan rakyat pekerja",
+        "B": "Keseimbangan lahir batin dan Kekeluargaan masyarakat",
+        "C": "Internasionalisme bangsa dan Keadilan peradilan umum",
+        "D": "Kebangsaan Persatuan Indonesia dan Rasa Kemanusiaan yang Adil dan Beradab",
+        "E": "Sosio Nasionalisme dan Sosio Demokrasi kerakyatan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Rumusan tertulis asas kedua dan ketiga Moh. Yamin adalah **b. Kebangsaan Persatuan Indonesia** dan **c. Rasa Kemanusiaan yang Adil dan Beradab**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Modul menunjukkan bahwa kedua frasa tersebut menjadi rujukan historis penting yang sangat mirip dengan rumusan Sila Kedua dan Sila Ketiga dalam Pembukaan UUD 1945 pasca pengesahan PPKI.",
+        "bedah_pengecoh": {
+          "A": "Musyawarah dan kesejahteraan adalah asas keempat dan kelima.",
+          "B": "Keseimbangan lahir batin adalah asas pidato Prof. Soepomo.",
+          "C": "Internasionalisme adalah frasa pidato Bung Karno 1 Juni.",
+          "E": "Sosio Nasionalisme adalah Trisila perasan Bung Karno."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 22,
+      "kata_kunci_modul": [
+        "dalam pidatonya Prof. R. Soepomo mengemukakan",
+        "Keseimbangan Lahir dan Batin"
+      ],
+      "topik_materi": "Lima Asas Dasar Negara Usulan Prof. Soepomo",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Lima dasar negara yang dikemukakan Prof. R. Soepomo pada 31 Mei 1945 meliputi...",
+      "pilihan": {
+        "A": "Peri Kebangsaan, Kemanusiaan, Ketuhanan, Kerakyatan, Kesejahteraan",
+        "B": "Persatuan, Kekeluargaan, Keseimbangan Lahir Batin, Musyawarah, Keadilan Rakyat",
+        "C": "Kebangsaan, Internasionalisme, Mufakat, Kesejahteraan Sosial, Ketuhanan",
+        "D": "Gotong Royong, Usaha Bersama, Kemakmuran, Keadilan, Kedaulatan",
+        "E": "Keimanan, Ketaqwaan, Keadaban, Kerakyatan, Kesejahteraan Bersama"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Prof. R. Soepomo mengemukakan lima asas: **1. Persatuan, 2. Kekeluargaan, 3. Keseimbangan Lahir dan Batin, 4. Musyawarah, dan 5. Keadilan Rakyat**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Rumusan Soepomo memancarkan cita negara integralistik dengan menekankan nilai kekeluargaan, harmoni lahir batin, dan keadilan bagi seluruh rakyat tanpa mendasarkan diri pada pemikiran individualisme barat.",
+        "bedah_pengecoh": {
+          "A": "Peri Kebangsaan hingga Kesejahteraan adalah usulan Moh. Yamin.",
+          "C": "Kebangsaan hingga Ketuhanan Berkebudayaan adalah usulan Soekarno.",
+          "D": "Gotong royong adalah Ekasila perasan Soekarno.",
+          "E": "Keimanan dan ketaqwaan adalah terminologi pembinaan moralitas."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 22,
+      "kata_kunci_modul": [
+        "Keseimbangan Lahir dan Batin",
+        "Prof. R. Soepomo mengemukakan"
+      ],
+      "topik_materi": "Asas Keseimbangan Lahir dan Batin",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asas 'Keseimbangan Lahir dan Batin' yang digagas Soepomo menegaskan pentingnya...",
+      "pilihan": {
+        "A": "Penumpukan kekayaan materi untuk membiayai belanja perang militer",
+        "B": "Pembatasan perdagangan internasional demi menjaga swasembada total",
+        "C": "Pemisahan mutlak urusan keagamaan dari seluruh kebijakan publik",
+        "D": "Penyerahan tata peradilan sepenuhnya kepada kebiasaan adat istiadat",
+        "E": "Keharmonisan pemenuhan kebutuhan fisik jasmani dan spiritual rohani"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Asas **Keseimbangan Lahir dan Batin** menekankan bahwa penyelenggaraan negara harus menyelaraskan dimensi pembangunan fisik material (lahir) dan dimensi moral spiritual (batin).",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Manusia Indonesia tidak hanya memburu kemajuan ekonomi kebendaan, melainkan wajib memelihara ketenangan batiniah, budi pekerti luhur, dan hubungan harmonis dengan Tuhan Yang Maha Esa dan sesama makhluk.",
+        "bedah_pengecoh": {
+          "A": "Penumpukan materi demi perang bertentangan dengan kemanusiaan.",
+          "B": "Isolasi perdagangan mematikan pertumbuhan perekonomian bangsa.",
+          "C": "Pemisahan mutlak urusan agama adalah konsep sekularisme ekstrem.",
+          "D": "Penyerahan peradilan total mengabaikan sistem hukum nasional."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 22,
+      "kata_kunci_modul": [
+        "Keadilan Rakyat",
+        "Prof. R. Soepomo mengemukakan"
+      ],
+      "topik_materi": "Asas Keadilan Rakyat dalam Konsepsi Soepomo",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Asas kelima dalam rumusan pidato dasar negara Prof. R. Soepomo berbunyi...",
+      "pilihan": {
+        "A": "Keadilan Rakyat sebagai muara perlindungan bersama",
+        "B": "Kesejahteraan Sosial bagi seluruh kaum buruh tani",
+        "C": "Keadilan Sosial bagi Seluruh Rakyat Indonesia merdeka",
+        "D": "Kemakmuran bersama berlandaskan asas persaudaraan",
+        "E": "Pemerataan kepemilikan tanah dan sumber daya alam"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Asas kelima dalam pidato 31 Mei 1945 oleh Prof. R. Soepomo dirumuskan secara otentik dengan istilah **'Keadilan Rakyat'**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Soepomo menggunakan istilah 'Keadilan Rakyat' untuk menekankan bahwa hukum dan kebijakan negara harus menghadirkan rasa keadilan nyata yang dirasakan oleh seluruh lapisan rakyat jelata tanpa diskriminasi kedudukan.",
+        "bedah_pengecoh": {
+          "B": "Kesejahteraan sosial adalah asas keempat usulan Ir. Soekarno.",
+          "C": "Keadilan Sosial bagi Seluruh Rakyat adalah Sila V UUD 1945.",
+          "D": "Kemakmuran bersama adalah frasa penjelasan ekonomi nasional.",
+          "E": "Pemerataan tanah adalah tujuan pokok undang-undang pokok agraria."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 23,
+      "kata_kunci_modul": [
+        "Pada tanggal 1 Juni 1945, tibalah giliran Ir. Soekarno",
+        "mengusulkan pula lima asas"
+      ],
+      "topik_materi": "Lima Asas Dasar Negara Pidato Ir. Soekarno",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Lima asas dasar negara yang diusulkan oleh Ir. Soekarno pada 1 Juni 1945 adalah...",
+      "pilihan": {
+        "A": "Peri Kebangsaan, Kemanusiaan, Ketuhanan, Kerakyatan, Kesejahteraan",
+        "B": "Sosio Nasionalisme, Sosio Demokrasi, dan Ketuhanan yang berkebudayaan",
+        "C": "Persatuan, Kekeluargaan, Keseimbangan Lahir Batin, Musyawarah, Keadilan",
+        "D": "Kebangsaan, Internasionalisme, Mufakat, Kesejahteraan Sosial, Ketuhanan",
+        "E": "Ketuhanan, Kemanusiaan, Persatuan, Musyawarah, dan Keadilan Sosial"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pada 1 Juni 1945, Ir. Soekarno mengusulkan lima asas: **1. Kebangsaan Indonesia, 2. Internasionalisme atau Perikemanusiaan, 3. Mufakat atau Demokrasi, 4. Kesejahteraan Sosial, dan 5. Ketuhanan yang Berkebudayaan**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Pidato Bung Karno yang berapi-api mensintesiskan nasionalisme kebangsaan yang berperikemanusiaan dengan sistem demokrasi permusyawaratan, keadilan ekonomi sosial, dan penghayatan nilai ketuhanan yang berbudi luhur.",
+        "bedah_pengecoh": {
+          "A": "Peri Kebangsaan hingga Kesejahteraan adalah pidato Moh. Yamin.",
+          "B": "Sosio Nasionalisme dan Demokrasi adalah Trisila perasan.",
+          "C": "Persatuan hingga Keadilan Rakyat adalah pidato Prof. Soepomo.",
+          "E": "Ketuhanan hingga Keadilan Sosial adalah urutan resmi UUD 1945."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 23,
+      "kata_kunci_modul": [
+        "diusulkan untuk diberi nama Pancasila",
+        "diperolehnya dari seorang temannya yang ahli bahasa"
+      ],
+      "topik_materi": "Pemberian Nama Pancasila Saran Ahli Bahasa",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Nama 'Pancasila' yang diusulkan Bung Karno diperoleh atas petunjuk seorang...",
+      "pilihan": {
+        "A": "Sahabat karib beliau yang merupakan seorang ahli bahasa",
+        "B": "Perwira tinggi pimpinan komando angkatan perang jepang",
+        "C": "Utusan khusus perdana menteri dari kementerian luar negeri",
+        "D": "Wartawan media massa perintis surat kabar kabar asia",
+        "E": "Saudagar kaya raya penyumbang dana perjuangan gerilya"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Ir. Soekarno mengusulkan nama dasar negara dinamakan **Pancasila yang mana istilah itu diperolehnya dari seorang temannya yang ahli bahasa**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Dalam pidatonya, Bung Karno menjelaskan bahwa 'Panca' berarti lima dan 'Sila' berarti dasar atau asas. Beliau meminta saran sahabatnya yang ahli bahasa Sansekerta untuk menamai lima prinsip dasar tersebut sehingga lahirlah nama Pancasila.",
+        "bedah_pengecoh": {
+          "B": "Pihak militer pendudukan Jepang tidak menciptakan nama Pancasila.",
+          "C": "Bukan usulan kementerian luar negeri negara asing.",
+          "D": "Bukan berasal dari inisiatif wartawan media kabar.",
+          "E": "Saudagar pejuang membantu logistik bukan peristilahan bahasa."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 23,
+      "kata_kunci_modul": [
+        "tahun 1947, pidato Ir. Soekarno tersebut dipublikasikan",
+        "dalam bentuk sebuah buku yang berjudul Lahirnya Pancasila"
+      ],
+      "topik_materi": "Publikasi Buku Lahirnya Pancasila Tahun 1947",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pidato bersejarah Bung Karno 1 Juni 1945 pertama kali dipublikasikan pada 1947 dalam buku...",
+      "pilihan": {
+        "A": "Indonesia Menggugat di hadapan sidang pengadilan kolonial",
+        "B": "Sarinah kewajiban wanita dalam revolusi republik indonesia",
+        "C": "Mencapai Indonesia Merdeka risalah panduan kader pergerakan",
+        "D": "Di Bawah Bendera Revolusi kumpulan artikel surat kabar",
+        "E": "Lahirnya Pancasila sebagai risalah pidato dasar negara"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pada tahun 1947, pidato 1 Juni Ir. Soekarno dipublikasikan dalam bentuk buku berjudul **'Lahirnya Pancasila'**, yang melahirkan anggapan umum hari lahir Pancasila pada 1 Juni.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Penerbitan buku 'Lahirnya Pancasila' pada masa revolusi kemerdekaan bertujuan menyebarluaskan landasan falsafah negara kepada seluruh rakyat dan laskar pejuang guna membakar semangat mempertahankan kedaulatan republik.",
+        "bedah_pengecoh": {
+          "A": "Indonesia Menggugat adalah pledoi pembelaan Bung Karno tahun 1930.",
+          "B": "Sarinah adalah buku kajian peranan perempuan terbit tahun 1947.",
+          "C": "Mencapai Indonesia Merdeka adalah risalah politik tahun 1933.",
+          "D": "Di Bawah Bendera Revolusi terbit pada era tahun 1959-1960an."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 23,
+      "kata_kunci_modul": [
+        "tidak didasarkan kepada pola berfikir filosofis/ religius",
+        "pola berfikir dialektis atau historis materialisme"
+      ],
+      "topik_materi": "Pola Berpikir Dialektis Perumusan Soekarno",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Menurut teks modul, perumusan dasar negara oleh Bung Karno didasarkan pada pola pikir...",
+      "pilihan": {
+        "A": "Mistik supranatural warisan para pujangga keraton lama",
+        "B": "Legalistik formal hukum perdata perdagangan bangsa eropa",
+        "C": "Dialektis atau historis materialisme dalam melihat dinamika",
+        "D": "Statis dogmatis tanpa membuka dialog kebangsaan luas",
+        "E": "Pragmatisme pasar modal berorientasi keuntungan ekonomi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Perumusan dasar negara oleh Ir. Soekarno **tidak didasarkan kepada pola berfikir filosofis/religius, melainkan kepada pola berfikir dialektis atau historis materialisme**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Pendekatan dialektis Bung Karno mempertemukan tesis dan antitesis (seperti kebangsaan vs kemanusiaan, demokrasi politik vs keadilan sosial) untuk menghasilkan sintesis luhur (*Sosio-Nasionalisme* dan *Sosio-Demokrasi*).",
+        "bedah_pengecoh": {
+          "A": "Pola mistik supranatural bukan kerangka ilmiah pidato 1 Juni.",
+          "B": "Pendekatan legalistik perdata adalah corak pemikiran yuridis barat.",
+          "D": "Pola statis dogmatis berlawanan dengan jiwa keterbukaan Pancasila.",
+          "E": "Pragmatisme pasar bertentangan dengan keadilan sosial kerakyatan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 23,
+      "kata_kunci_modul": [
+        "sila kebangsaan disandingkan dengan Internasionalisme",
+        "menjadi “Sosio Nasionalisme”"
+      ],
+      "topik_materi": "Konsep Sosio Nasionalisme Bung Karno",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perpaduan antara sila Kebangsaan Indonesia dan sila Internasionalisme menghasilkan...",
+      "pilihan": {
+        "A": "Sosio Demokrasi kerakyatan yang berkeadilan merata",
+        "B": "Sosio Nasionalisme cinta tanah air yang berperikemanusiaan",
+        "C": "Chauvinisme sempit yang mengagungkan bangsa sendiri",
+        "D": "Kosmopolitanisme semu tanpa batas kedaulatan tanah air",
+        "E": "Sindikalisme serikat buruh dalam menguasai parlemen negara"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Sila Kebangsaan disandingkan dengan Internasionalisme/Perikemanusiaan diperas menjadi konsep **'Sosio Nasionalisme'**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Bung Karno menolak nasionalisme sempit (*chauvinisme*) yang menindas bangsa lain. Sosio Nasionalisme adalah nasionalisme Indonesia yang bermekaran di taman sarinya internasionalisme berperikemanusiaan.",
+        "bedah_pengecoh": {
+          "A": "Sosio Demokrasi adalah perpaduan Mufakat dan Kesejahteraan Sosial.",
+          "C": "Chauvinisme adalah racun nasionalisme yang ditentang keras.",
+          "D": "Kosmopolitanisme pasif mengikis rasa cinta dan bela tanah air.",
+          "E": "Sindikalisme adalah paham serikat pekerja radikal eropa."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 23,
+      "kata_kunci_modul": [
+        "sila Mufakat/ Demokrasi disandingkan dengan",
+        "sila kesejahteraan Sosial, menjadi “Sosio Demokrasi”"
+      ],
+      "topik_materi": "Konsep Sosio Demokrasi Bung Karno",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penyatuan sila Mufakat/Demokrasi dengan sila Kesejahteraan Sosial melahirkan konsep...",
+      "pilihan": {
+        "A": "Sosio Demokrasi keadilan politik dan kesejahteraan ekonomi",
+        "B": "Sosio Nasionalisme pertahanan keutuhan kepulauan",
+        "C": "Kapitalisme pasar bebas yang mengutamakan pemodal besar",
+        "D": "Oligarki kepemimpinan partai politik mayoritas dewan",
+        "E": "Etatisme birokrasi yang mematikan partisipasi usaha swasta"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Sila Mufakat/Demokrasi disandingkan dengan sila Kesejahteraan Sosial melahirkan sintesis **'Sosio Demokrasi'**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Sosio Demokrasi menolak demokrasi Barat yang hanya menjamin kebebasan politik di parlemen namun membiarkan rakyat tertindas secara ekonomi. Demokrasi Indonesia wajib mendatangkan keadilan sosial dan kemakmuran nyata.",
+        "bedah_pengecoh": {
+          "B": "Sosio Nasionalisme adalah perasan kebangsaan dan kemanusiaan.",
+          "C": "Kapitalisme pasar bebas menolak campur tangan keadilan sosial.",
+          "D": "Oligarki politik bertentangan dengan asas kerakyatan musyawarah.",
+          "E": "Etatisme mematikan inisiatif masyarakat yang dijamin Pancasila."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 23,
+      "kata_kunci_modul": [
+        "lima dasar tadi menjadi tiga, yang disebut",
+        "Trisila"
+      ],
+      "topik_materi": "Tiga Asas dalam Konsep Trisila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tiga prinsip dasar yang terkandung dalam konsep 'Trisila' Bung Karno adalah...",
+      "pilihan": {
+        "A": "Persatuan, Musyawarah, dan Keadilan Sosial seluruh rakyat",
+        "B": "Kemerdekaan, Perdamaian Abadi, dan Piagam Hak Asasi Manusia",
+        "C": "Kedaulatan Rakyat, Kemandirian Fiskal, dan Pertahanan Negara",
+        "D": "Sosio Nasionalisme, Sosio Demokrasi, dan Nilai Ketuhanan",
+        "E": "Ekonomi Kerakyatan, Kepastian Hukum, dan Reformasi Birokrasi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Lima asas dasar negara dapat diperas menjadi tiga asas (**Trisila**), yaitu: **1. Sosio Nasionalisme, 2. Sosio Demokrasi, dan 3. Ketuhanan**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Dalam pidato 1 Juni 1945, Bung Karno menawarkan alternatif jika peserta sidang menghendaki rumusan yang lebih padat. Lima dasar dapat diringkas menjadi Trisila tanpa mengurangi bobot substansi filosofisnya.",
+        "bedah_pengecoh": {
+          "A": "Persatuan dan musyawarah adalah istilah pokok lima sila UUD.",
+          "B": "Kemerdekaan dan perdamaian adalah materi pembukaan UUD 1945.",
+          "C": "Kemandirian fiskal adalah pilar kebijakan ekonomi perbendaharaan.",
+          "E": "Reformasi birokrasi adalah agenda modernisasi aparatur sipil."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 23,
+      "kata_kunci_modul": [
+        "“Trisila” itu diperas menjadi “Ekasila”",
+        "yaitu “Gotong-Royong”"
+      ],
+      "topik_materi": "Pemerasan Trisila Menjadi Ekasila",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Intisari pamungkas dari Trisila apabila diperas kembali menjadi satu asas (Ekasila) adalah...",
+      "pilihan": {
+        "A": "Individualisme persaingan pasar terbuka",
+        "B": "Kerahasiaan dokumen penyelenggaraan administrasi dinas",
+        "C": "Hukum kepatuhan mutlak kepada penguasa pusat",
+        "D": "Sentralisasi perencanaan anggaran belanja modal",
+        "E": "Gotong Royong sebagai jiwa persaudaraan asli"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Selanjutnya Trisila tersebut dapat diperas kembali menjadi satu asas tunggal yang disebut **Ekasila**, yaitu **'Gotong-Royong'**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Bung Karno menegaskan bahwa hakikat sejati bangsa Indonesia berakar pada semangat gotong royong: pembanting tulang bersama, pemerasan keringat bersama, dan perjuangan bantu-binantu demi kebahagiaan seluruh tumpah darah.",
+        "bedah_pengecoh": {
+          "A": "Individualisme adalah paham asing yang ditolak bapak bangsa.",
+          "B": "Kerahasiaan dokumen berlebihan melanggar transparansi publik.",
+          "C": "Kepatuhan mutlak tanpa kritik mencirikan sistem tirani totaliter.",
+          "D": "Sentralisasi anggaran adalah instrumen teknis perbendaharaan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 23,
+      "kata_kunci_modul": [
+        "dikenal sebagai Panitia Delapan yang diketuai Ir. Soekarno",
+        "mengumpulkan dan menggolong-golongkan usul-usul"
+      ],
+      "topik_materi": "Pembentukan dan Tugas Pokok Panitia Delapan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada akhir Sidang I BPUPKI dibentuk Panitia Delapan pimpinan Bung Karno dengan tugas...",
+      "pilihan": {
+        "A": "Mengadakan pembelian persenjataan laras panjang dari eropa",
+        "B": "Mengumpulkan dan menggolongkan usulan para anggota sidang",
+        "C": "Membentuk pasukan pengamanan istana kepresidenan jakarta",
+        "D": "Menetapkan tarif cukai tembakau dan garam seluruh daerah",
+        "E": "Mengadili pimpinan militer asing dalam mahkamah peradilan khusus"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Ketua sidang membentuk panitia kecil yang dikenal sebagai **Panitia Delapan yang diketuai Ir. Soekarno** yang ditugasi **mengumpulkan dan menggolong-golongkan usul-usul yang diajukan peserta sidang**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Mengingat banyaknya usulan tertulis dan lisan yang masuk selama sidang pertama, Panitia Delapan dibentuk sebagai badan perumus pendahuluan untuk menginventarisasi aspirasi para anggota mengenai syarat-syarat Indonesia merdeka.",
+        "bedah_pengecoh": {
+          "A": "Pembelian senjata adalah tugas perwira logistik tentara pasca merdeka.",
+          "C": "Pengamanan istana baru dibentuk pasca proklamasi oleh Paspampres.",
+          "D": "Tarif cukai adalah materi perundang-undangan fiskal APBN.",
+          "E": "Pengadilan perang dilaksanakan oleh mahkamah militer sekutu."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 23,
+      "kata_kunci_modul": [
+        "Pada tanggal 22 Juni 1945",
+        "ketua Panitia Delapan telah mengadakan pertemuan"
+      ],
+      "topik_materi": "Pertemuan Bersejarah 22 Juni 1945 di Jakarta",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pertemuan penting Panitia Delapan dengan anggota BPUPKI di Jakarta diselenggarakan pada...",
+      "pilihan": {
+        "A": "Tanggal 1 Juni 1945 sesaat setelah pidato dasar negara",
+        "B": "Tanggal 10 Juli 1945 pada pembukaan masa persidangan kedua",
+        "C": "Tanggal 22 Juni 1945 menjelang pembentukan panitia sembilan",
+        "D": "Tanggal 7 Agustus 1945 pada saat pembentukan panitia persiapan",
+        "E": "Tanggal 17 Agustus 1945 menjelang pembacaan teks proklamasi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "**Pada tanggal 22 Juni 1945, ketua Panitia Delapan mengadakan pertemuan** dengan anggota BPUPKI yang berada di Jakarta yang kemudian melahirkan kesepakatan monumental Piagam Jakarta.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Pertemuan 22 Juni 1945 di Gedung Pegangsaan Timur 56 Jakarta menjadi ajang musyawarah intensif yang mempertemukan golongan kebangsaan dan golongan Islam, membuahkan naskah konsensus Rancangan Pembukaan UUD.",
+        "bedah_pengecoh": {
+          "A": "Tanggal 1 Juni 1945 adalah penutupan resmi masa sidang pertama.",
+          "B": "Tanggal 10 Juli 1945 adalah pembukaan masa sidang kedua BPUPKI.",
+          "D": "Tanggal 7 Agustus 1945 adalah pembentukan resmi PPKI oleh Jepang.",
+          "E": "Tanggal 17 Agustus 1945 adalah proklamasi kemerdekaan Indonesia."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 81,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "Pertemuan tersebut merupakan pertemuan antara",
+        "golongan/ paham kebangsaan dan golongan/ paham agama"
+      ],
+      "topik_materi": "Dua Kekuatan Utama dalam Rapat 22 Juni 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pertemuan penting 22 Juni 1945 di Jakarta mempertemukan dua aliran pemikiran yaitu...",
+      "pilihan": {
+        "A": "Golongan pedagang maritim dan golongan pengusaha perkebunan",
+        "B": "Golongan intelektual universitas dan golongan buruh industri",
+        "C": "Golongan bangsawan keraton dan golongan militer pejuang peta",
+        "D": "Golongan pemuda bawah tanah dan golongan pejabat pangreh praja",
+        "E": "Golongan paham kebangsaan dan golongan paham agama"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pertemuan tanggal 22 Juni 1945 merupakan musyawarah konsensus bersejarah antara **golongan/paham kebangsaan dan golongan/paham agama**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Kedua kutub pemikiran tersebut mendominasi diskursus perumusan bentuk negara. Golongan kebangsaan menghendaki negara persatuan nasional yang netral agama, sedangkan golongan Islam memperjuangkan dasar negara yang bersendikan syariat Islam.",
+        "bedah_pengecoh": {
+          "A": "Pedagang dan pengusaha perkebunan adalah entitas ekonomi.",
+          "B": "Intelektual dan buruh bukan klasifikasi fraksi sidang BPUPKI.",
+          "C": "Bangsawan dan militer bukan dua poros ideologis rapat 22 Juni.",
+          "D": "Pemuda dan pamong praja mewakili jalur strategi pergerakan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 82,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "Dalam rapat tersebut dibentuk Panitia Sembilan",
+        "anggotanya terdiri dari Ir. Soekarno, Drs. Moh. Hatta"
+      ],
+      "topik_materi": "Pembentukan Panitia Sembilan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Panitia kecil yang dibentuk pada pertemuan 22 Juni 1945 beranggotakan 9 tokoh disebut...",
+      "pilihan": {
+        "A": "Panitia Delapan perumus usul sidang",
+        "B": "Panitia Sembilan perancang kesepakatan dasar",
+        "C": "Panitia Kecil perancang undang-undang",
+        "D": "Panitia Persiapan Kemerdekaan Indonesia",
+        "E": "Komite Nasional Indonesia Pusat"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dalam rapat 22 Juni 1945, dibentuk **Panitia Sembilan** yang anggotanya terdiri dari 9 tokoh terkemuka mewakili golongan kebangsaan dan golongan Islam.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Panitia Sembilan beranggotakan: Soekarno, Hatta, Maramis, Abikoesno, Kahar Muzakir, Agus Salim, Subardjo, Wachid Hasjim, dan Yamin. Komposisi ini bertugas menyusun naskah kompromi hukum dasar negara.",
+        "bedah_pengecoh": {
+          "A": "Panitia Delapan dibentuk sebelumnya pada akhir Sidang I BPUPKI.",
+          "C": "Panitia Kecil perancang UUD dibentuk kelak pada Sidang II BPUPKI.",
+          "D": "PPKI baru dibentuk pada bulan Agustus 1945 oleh Jepang.",
+          "E": "KNIP dibentuk pasca proklamasi kemerdekaan pada akhir Agustus."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 83,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "menghasilkan persetujuan dari golongan/ paham agama",
+        "dan golongan/ paham kebangsaan"
+      ],
+      "topik_materi": "Keberhasilan Konsensus Panitia Sembilan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Keberhasilan monumental dari musyawarah Panitia Sembilan ditandai oleh...",
+      "pilihan": {
+        "A": "Penyerahan mandat kekuasaan darurat kepada perwira tinggi jepang",
+        "B": "Pembubaran paksa seluruh organisasi pergerakan kedaerahan di jawa",
+        "C": "Tercapainya persetujuan bersama antara golongan agama dan kebangsaan",
+        "D": "Penetapan batas teritorial laut nusantara sejauh dua ratus mil",
+        "E": "Pembatalan hasil risalah pidato dasar negara yang telah diajukan"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Panitia Sembilan telah mencapai hasil baik yang **menghasilkan persetujuan dari golongan/paham agama (Islam) dan golongan/paham kebangsaan**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Keberhasilan Panitia Sembilan membuktikan kearifan musyawarah mufakat para pendiri bangsa. Mereka berhasil menjembatani polarisasi pandangan menjadi sebuah dokumen konsensus bersama (*gentlemen's agreement*).",
+        "bedah_pengecoh": {
+          "A": "Bapak bangsa tidak menyerahkan mandat politik kepada Jepang.",
+          "B": "Organisasi pergerakan dihimpun dan dipersatukan energinya.",
+          "D": "Batas laut 200 mil adalah Deklarasi Djuanda tahun 1957.",
+          "E": "Risalah pidato justru menjadi bahan rujukan penyusunan naskah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 84,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "ditetapkan sebagai Rancangan Preambule Hukum Dasar",
+        "hasil Panitia Sembilan tersebut"
+      ],
+      "topik_materi": "Penetapan Rancangan Preambule Hukum Dasar",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Naskah persetujuan bersama Panitia Sembilan oleh Panitia Delapan ditetapkan sebagai...",
+      "pilihan": {
+        "A": "Rancangan Maklumat Pemerintah Militer Bala Tentara Dai Nippon",
+        "B": "Rancangan Deklarasi Hak Asasi Manusia dan Warga Negara",
+        "C": "Rancangan Piagam Perdamaian Kawasan Perang Pasifik Barat",
+        "D": "Rancangan Preambule Hukum Dasar negara Indonesia",
+        "E": "Rancangan Anggaran Pendapatan dan Belanja Perbendaharaan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Persetujuan bersama tersebut termaktub dalam satu naskah yang oleh Panitia Delapan ditetapkan sebagai **'Rancangan Preambule Hukum Dasar'**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Preambule (pembukaan) diposisikan sebagai kepala konstitusi yang memuat asas-asas filosofis, tujuan bernegara, serta pernyataan kemerdekaan bangsa Indonesia sebelum memasuki pasal-pasal batang tubuh hukum dasar.",
+        "bedah_pengecoh": {
+          "A": "Bukan maklumat militer asing melainkan dokumen hukum nasional.",
+          "B": "Deklarasi HAM PBB baru disahkan secara global pada tahun 1948.",
+          "C": "Bukan piagam perdamaian perang melainkan dasar hukum negara.",
+          "E": "Anggaran perbendaharaan adalah instrumen teknis keuangan publik."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 85,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "oleh Mr. Moh. Yamin disebut sebagai Jakarta Charter",
+        "atau Piagam Jakarta"
+      ],
+      "topik_materi": "Pemberian Nama Piagam Jakarta oleh Moh. Yamin",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Nama 'Jakarta Charter' atau 'Piagam Jakarta' untuk naskah Preambule diberikan oleh...",
+      "pilihan": {
+        "A": "Mr. Muhammad Yamin sastrawan dan ahli hukum",
+        "B": "Drs. Mohammad Hatta perumus naskah proklamasi",
+        "C": "Prof. R. Soepomo perancang batang tubuh konstitusi",
+        "D": "K.H. Abdul Wahid Hasjim perwakilan ulama islam",
+        "E": "Mr. A.A. Maramis perwakilan tokoh indonesia timur"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Adapun hasil Panitia Sembilan tersebut sebagai persetujuan golongan agama dan kebangsaan oleh **Mr. Moh. Yamin disebut sebagai Jakarta Charter atau Piagam Jakarta**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Moh. Yamin memberikan penamaan puitis dan historis 'Jakarta Charter' (Piagam Jakarta) untuk mengenang bahwa naskah piagam kemerdekaan dan dasar falsafah bangsa tersebut dilahirkan di kota Jakarta pada 22 Juni 1945.",
+        "bedah_pengecoh": {
+          "B": "Bung Hatta menyetujui rumusan namun bukan pencetus nama piagam.",
+          "C": "Prof. Soepomo berfokus pada kodifikasi pasal perancangan UUD.",
+          "D": "Wachid Hasjim mewakili aspirasi ulama Nahdlatul Ulama.",
+          "E": "A.A. Maramis mewakili golongan kebangsaan asal Sulawesi Utara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 86,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "terdapat rancangan dasar negara Pancasila",
+        "dalam Piagam Jakarta"
+      ],
+      "topik_materi": "Kandungan Rancangan Dasar Negara dalam Piagam Jakarta",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Di dalam naskah Piagam Jakarta, rumusan dasar negara Pancasila termaktub pada...",
+      "pilihan": {
+        "A": "Alinea pertama yang menguraikan hak kemerdekaan segala bangsa",
+        "B": "Alinea keempat pada perumusan dasar negara dan pemerintahan",
+        "C": "Alinea kedua yang menegaskan perjuangan pergerakan kemerdekaan",
+        "D": "Alinea ketiga yang menyatakan berkat rahmat Allah yang maha kuasa",
+        "E": "Bagian penjelasan penutup mengenai hierarki peraturan daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Di dalam Rancangan Preambule Hukum Dasar (Piagam Jakarta) **terdapat rancangan dasar negara Pancasila yang tertuang pada alinea keempat**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Alinea keempat memuat sendi-sendi pokok pembentukan negara: tujuan nasional, penyusunan kemerdekaan dalam UUD, bentuk negara Republik yang berkedaulatan rakyat, dan lima asas falsafah dasar negara Pancasila.",
+        "bedah_pengecoh": {
+          "A": "Alinea pertama memuat pernyataan filosofis hak kemerdekaan.",
+          "C": "Alinea kedua memuat cita-cita kemerdekaan bersatu berdaulat adil.",
+          "D": "Alinea ketiga memuat motivasi spiritual pengakuan rahmat Allah.",
+          "E": "Piagam Jakarta tidak memuat penjelasan hierarki peraturan daerah."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 87,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "kewajiban menjalankan syariat Islam",
+        "Rancangan Preambule Hukum Dasar"
+      ],
+      "topik_materi": "Sila Pertama dalam Piagam Jakarta",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rumusan otentik Sila Pertama Pancasila yang tercantum dalam naskah Piagam Jakarta adalah...",
+      "pilihan": {
+        "A": "Ketuhanan Yang Maha Esa bagi seluruh rakyat nusantara",
+        "B": "Kebebasan memeluk keyakinan beragama tanpa diskriminasi",
+        "C": "Ketuhanan yang berkebudayaan dan berbudi pekerti luhur",
+        "D": "Peri Ketuhanan yang menjunjung tinggi toleransi antarumat",
+        "E": "Ketuhanan, dengan kewajiban menjalankan syariat Islam bagi pemeluknya"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Sila pertama dalam Piagam Jakarta berbunyi: **'1. Ketuhanan, dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya'** yang dikenal dengan 'tujuh kata'.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Klausul tujuh kata tersebut merupakan kompromi antara golongan Islam dan golongan kebangsaan pada 22 Juni 1945, yang kelak pada 18 Agustus 1945 disempurnakan menjadi 'Ketuhanan Yang Maha Esa' demi keutuhan NKRI.",
+        "bedah_pengecoh": {
+          "A": "Ketuhanan YME adalah rumusan final UUD 1945 tanggal 18 Agustus.",
+          "B": "Kebebasan beragama adalah substansi norma Pasal 29 UUD 1945.",
+          "C": "Ketuhanan berkebudayaan adalah rumusan pidato 1 Juni Soekarno.",
+          "D": "Peri Ketuhanan adalah rumusan pidato lisan Moh. Yamin 29 Mei."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 88,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "2.Kemanusiaan yang Adil dan Beradab",
+        "rancangan dasar negara Pancasila yang terdapat dalam Piagam Jakarta"
+      ],
+      "topik_materi": "Sila Kedua dalam Piagam Jakarta",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rumusan asas kedua dalam naskah Piagam Jakarta berbunyi...",
+      "pilihan": {
+        "A": "Internasionalisme atau Perikemanusiaan yang merdeka",
+        "B": "Peri Kemanusiaan yang menjunjung tinggi persaudaraan",
+        "C": "Kemanusiaan yang Adil dan Beradab bagi seluruh manusia",
+        "D": "Rasa Kemanusiaan yang Adil dan Beradab seluruh rakyat",
+        "E": "Keadilan bagi sesama makhluk hidup di muka bumi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sila kedua dalam Piagam Jakarta tertulis persis berbunyi: **'2. Kemanusiaan yang Adil dan Beradab'**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Rumusan sila kedua dalam Piagam Jakarta telah memiliki redaksi final yang identik dengan teks resmi Pancasila yang disahkan oleh PPKI pada 18 Agustus 1945 dan termuat dalam Pembukaan UUD 1945.",
+        "bedah_pengecoh": {
+          "A": "Internasionalisme adalah frasa usulan pidato Ir. Soekarno.",
+          "B": "Peri Kemanusiaan adalah usulan pidato lisan Mr. Moh. Yamin.",
+          "D": "Rasa Kemanusiaan adalah rumusan tertulis rancangan Moh. Yamin.",
+          "E": "Keadilan bagi makhluk hidup bukan rumusan sila dasar negara."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 89,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "3.Persatuan Indonesia",
+        "4.Kerakyatan yang dipimpin oleh hikmat kebijaksanaan"
+      ],
+      "topik_materi": "Sila Ketiga dan Keempat dalam Piagam Jakarta",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rumusan Sila Ketiga dan Sila Keempat dalam naskah Piagam Jakarta adalah...",
+      "pilihan": {
+        "A": "Kebangsaan Indonesia dan Mufakat atau Demokrasi kerakyatan",
+        "B": "Peri Kebangsaan dan Peri Kerakyatan perwakilan seluruh daerah",
+        "C": "Sosio Nasionalisme dan Sosio Demokrasi perwakilan mufakat",
+        "D": "Persatuan Indonesia dan Kerakyatan dipimpin hikmat permusyawaratan",
+        "E": "Kekeluargaan bersama dan Musyawarah gotong royong warga"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Sila ketiga dan keempat dalam Piagam Jakarta berbunyi: **'3. Persatuan Indonesia'** dan **'4. Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan'**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Panitia Sembilan berhasil memadukan asas kebangsaan dan kedaulatan rakyat ke dalam rumusan sila yang baku. Redaksi kedua sila ini tidak mengalami perubahan dan dipertahankan secara utuh dalam UUD 1945.",
+        "bedah_pengecoh": {
+          "A": "Kebangsaan dan Mufakat adalah rumusan pidato 1 Juni Bung Karno.",
+          "B": "Peri Kebangsaan dan Peri Kerakyatan adalah pidato Moh. Yamin.",
+          "C": "Sosio Nasionalisme dan Demokrasi adalah Trisila Bung Karno.",
+          "E": "Kekeluargaan dan Musyawarah adalah pidato Prof. Soepomo."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 90,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "5.Keadilan Sosial bagi Seluruh Rakyat Indonesia",
+        "Piagam Jakarta adalah sebagai berikut"
+      ],
+      "topik_materi": "Sila Kelima dalam Piagam Jakarta",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rumusan Sila Kelima yang melengkapi naskah Piagam Jakarta berbunyi...",
+      "pilihan": {
+        "A": "Keadilan Sosial bagi Seluruh Rakyat Indonesia merdeka",
+        "B": "Kesejahteraan Sosial bagi kaum pekerja dan fakir miskin",
+        "C": "Keadilan Rakyat berdasarkan asas kekeluargaan bersama",
+        "D": "Kesejahteraan Rakyat yang merata di seluruh kepulauan",
+        "E": "Kemakmuran bersama yang berkeadilan lahir dan batin"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Sila kelima dalam naskah Piagam Jakarta berbunyi: **'5. Keadilan Sosial bagi Seluruh Rakyat Indonesia'**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Sila kelima menjadi muara dan tujuan akhir dari kemerdekaan Indonesia. Negara didirikan bukan hanya untuk merdeka secara politis, melainkan untuk menciptakan keadilan sosial ekonomi yang dinikmati oleh seluruh rakyat tanpa terkecuali.",
+        "bedah_pengecoh": {
+          "B": "Kesejahteraan Sosial adalah istilah asas pidato Bung Karno.",
+          "C": "Keadilan Rakyat adalah asas pidato Prof. R. Soepomo.",
+          "D": "Kesejahteraan Rakyat adalah asas pidato Mr. Moh. Yamin.",
+          "E": "Kemakmuran lahir batin adalah penjelasan tafsir kesejahteraan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 91,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "dilaporkan dalam sidang kedua BPUPKI",
+        "Rancangan Preambule Hukum Dasar"
+      ],
+      "topik_materi": "Pelaporan Piagam Jakarta pada Sidang Kedua BPUPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Rancangan Preambule Hukum Dasar (Piagam Jakarta) secara resmi dilaporkan pada...",
+      "pilihan": {
+        "A": "Rapat perdana pembentukan pengurus kantor besar peta",
+        "B": "Pertemuan rahasia pemuda pejuang di asrama menteng 31",
+        "C": "Sidang kedua BPUPKI yang dimulai tanggal 10 Juli 1945",
+        "D": "Sidang pleno pertama komite nasional indonesia pusat",
+        "E": "Upacara peringatan hari proklamasi di pegangsaan timur"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Rancangan dasar negara yang tertuang dalam **Rancangan Preambule Hukum Dasar (Piagam Jakarta) dilaporkan oleh Panitia Delapan dalam sidang kedua BPUPKI**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Sidang kedua BPUPKI (10–16 Juli 1945) diawali dengan laporan hasil kerja masa reses oleh Ir. Soekarno selaku ketua Panitia Delapan dan Panitia Sembilan mengenai naskah konsensus Piagam Jakarta untuk disetujui forum pleno.",
+        "bedah_pengecoh": {
+          "A": "Bukan laporan komando pertahanan militer PETA.",
+          "B": "Asrama Menteng 31 adalah basis gerakan pemuda radikal.",
+          "D": "KNIP baru menggelar sidang pleno pada akhir Agustus 1945.",
+          "E": "Pegangsaan Timur 56 adalah lokasi upacara detik proklamasi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 92,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "pada tanggal 11 Juli 1945",
+        "ketua BPUPKI membentuk tiga panitia"
+      ],
+      "topik_materi": "Pembentukan Tiga Panitia Kerja pada 11 Juli 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada tanggal 11 Juli 1945, Ketua BPUPKI membentuk tiga panitia kerja yaitu...",
+      "pilihan": {
+        "A": "Panitia Anggaran, Panitia Hubungan Luar Negeri, dan Panitia Agama",
+        "B": "Panitia Lambang Negara, Panitia Bendera, dan Panitia Lagu Kebangsaan",
+        "C": "Panitia Persenjataan, Panitia Logistik Beras, dan Panitia Wilayah",
+        "D": "Panitia Perancang UUD, Panitia Pembelaan Tanah Air, dan Panitia Keuangan",
+        "E": "Panitia Pemilihan Presiden, Panitia Kehakiman, dan Panitia Pegawai"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pada tanggal 11 Juli 1945 dibentuk tiga panitia: **1. Panitia Perancang UUD (ketua Ir. Soekarno), 2. Panitia Pembelaan Tanah Air (ketua Abikoesno Tjokrosoejoso), dan 3. Panitia Soal Keuangan dan Perekonomian (ketua Moh. Hatta)**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Pembentukan tiga panitia ini bertujuan mempercepat penyelesaian naskah teknis penyelenggaraan negara Indonesia merdeka, membagi tugas bidang hukum dasar konstitusi, pertahanan militer, dan fondasi perekonomian.",
+        "bedah_pengecoh": {
+          "A": "Panitia Agama bukan panitia terpisah pada 11 Juli 1945.",
+          "B": "Panitia Lambang Negara dibentuk pada masa RIS tahun 1950.",
+          "C": "Panitia Logistik beras tidak dibentuk dalam struktur sidang.",
+          "E": "Pemilihan presiden diputuskan pada sidang PPKI 18 Agustus."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 93,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "Panitia Perancang UUD",
+        "membentuk panitia kecil yang diketuai Prof. R. Soepomo"
+      ],
+      "topik_materi": "Ketua Panitia Kecil Perancang UUD",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Panitia kecil yang bertugas merumuskan naskah Batang Tubuh UUD diketuai oleh...",
+      "pilihan": {
+        "A": "Prof. R. Soepomo pakar hukum adat dan ketatanegaraan",
+        "B": "Mr. Achmad Soebardjo pejabat perwakilan kementerian",
+        "C": "Drs. Mohammad Hatta perumus pasal asas perekonomian",
+        "D": "Abikoesno Tjokrosoejoso tokoh perancang pertahanan",
+        "E": "Dr. K.R.T. Radjiman Wediodiningrat sesepuh dewan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Panitia Perancang UUD membentuk **panitia kecil yang diketuai Prof. R. Soepomo** yang bertugas menyusun draf rancangan Batang Tubuh UUD selama tiga hari kerja.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Keahlian mendalam Prof. Soepomo dalam bidang hukum tata negara dan sosiologi hukum adat menjadikannya figur paling tepat untuk merumuskan pasal-pasal konstitusi agar mencerminkan cita negara integralistik dan kekeluargaan.",
+        "bedah_pengecoh": {
+          "B": "Achmad Soebardjo bertugas di bidang hubungan diplomasi luar negeri.",
+          "C": "Bung Hatta memimpin panitia bidang keuangan dan perekonomian.",
+          "D": "Abikoesno memimpin panitia bidang pembelaan tanah air.",
+          "E": "Dr. Radjiman bertindak sebagai ketua umum sidang pleno BPUPKI."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 94,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "Pada tanggal 14 Juli 1945",
+        "Ir. Soekarno melaporkan hasil tugasnya kepada sidang kedua"
+      ],
+      "topik_materi": "Laporan Hasil Perancang UUD 14 Juli 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketua Panitia Perancang UUD Ir. Soekarno menyampaikan laporan hasil tugas pada...",
+      "pilihan": {
+        "A": "Tanggal 1 Juni 1945 pada penutupan masa sidang perdana",
+        "B": "Tanggal 18 Agustus 1945 pada penetapan resmi undang-undang dasar",
+        "C": "Tanggal 7 Agustus 1945 pada saat pembentukan komite ppki",
+        "D": "Tanggal 17 Agustus 1945 sesaat sebelum naskah proklamasi dibaca",
+        "E": "Tanggal 14 Juli 1945 dalam rapat pleno Sidang Kedua BPUPKI"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Pada tanggal 14 Juli 1945, Ketua Perancang UUD Ir. Soekarno melaporkan hasil tugasnya** kepada sidang kedua BPUPKI mengenai naskah rancangan kemerdekaan dan pembukaan.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Setelah bekerja intensif, pada 14 Juli 1945 Bung Karno menyerahkan tiga hasil penting panitia perancang UUD: pernyataan Indonesia merdeka, naskah Pembukaan UUD, dan draf rancangan Batang Tubuh konstitusi.",
+        "bedah_pengecoh": {
+          "A": "Tanggal 1 Juni 1945 adalah pidato kelahiran istilah Pancasila.",
+          "B": "Tanggal 18 Agustus 1945 adalah sidang pengesahan UUD oleh PPKI.",
+          "C": "Tanggal 7 Agustus 1945 adalah tanggal pembentukan PPKI.",
+          "D": "Tanggal 17 Agustus 1945 adalah hari pembacaan teks proklamasi."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 95,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "Rancangan Pembukaan UUD 1945 diambil dari",
+        "alinea 4 Rancangan Preambule Hukum dasar"
+      ],
+      "topik_materi": "Sumber Naskah Pembukaan UUD 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan laporan Panitia Perancang UUD, teks Pembukaan UUD 1945 diambil dari...",
+      "pilihan": {
+        "A": "Deklarasi Kemerdekaan Amerika Serikat tahun 1776 di philadelphia",
+        "B": "Alinea keempat Rancangan Preambule Hukum Dasar (Piagam Jakarta)",
+        "C": "Naskah manifesto politik Perhimpunan Indonesia di negeri belanda",
+        "D": "Maklumat kaisar jepang mengenai kemerdekaan tanpa syarat asia",
+        "E": "Piagam Magna Charta pembatasan kekuasaan monarki inggris"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Rancangan Pembukaan UUD 1945 **diambil dari alinea 4 Rancangan Preambule Hukum Dasar (Piagam Jakarta)** yang disempurnakan oleh panitia perancang.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Panitia Perancang UUD mengadopsi naskah Piagam Jakarta sebagai naskah Pembukaan UUD. Alinea keempat Piagam Jakarta yang memuat lima dasar negara dijadikan rumusan inti Pembukaan konstitusi negara.",
+        "bedah_pengecoh": {
+          "A": "Deklarasi Amerika adalah rujukan kemerdekaan bangsa barat.",
+          "C": "Manifesto politik adalah dokumen pergerakan mahasiswa 1925.",
+          "D": "Maklumat kaisar adalah janji politis pemerintah pendudukan.",
+          "E": "Magna Charta adalah piagam pembatasan raja Inggris tahun 1215."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 96,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "Pada tanggal 16 Juli 1945",
+        "Rancangan Batang Tubuh UUD diterima dalam sidang"
+      ],
+      "topik_materi": "Penerimaan Seluruh Naskah Konstitusi 16 Juli 1945",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sidang BPUPKI secara bulat menerima seluruh naskah Pembukaan dan Batang Tubuh UUD pada...",
+      "pilihan": {
+        "A": "Tanggal 22 Juni 1945 saat penandatanganan piagam jakarta",
+        "B": "Tanggal 17 Agustus 1945 saat naskah proklamasi kemerdekaan",
+        "C": "Tanggal 7 Agustus 1945 saat peresmian pembentukan anggota ppki",
+        "D": "Tanggal 16 Juli 1945 pada penutupan masa sidang kedua BPUPKI",
+        "E": "Tanggal 18 Agustus 1945 saat rapat pleno pengesahan konstitusi"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "**Pada tanggal 16 Juli 1945**, Rancangan Preambule Hukum Dasar dan **Rancangan Batang Tubuh UUD secara resmi dan bulat diterima dalam sidang BPUPKI**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Tanggal 16 Juli 1945 menandai puncak keberhasilan tugas BPUPKI. Seluruh rancangan konstitusi tertulis, yang memuat Pembukaan dan pasal-pasal Batang Tubuh, disetujui dengan suara bulat oleh seluruh anggota sidang.",
+        "bedah_pengecoh": {
+          "A": "Tanggal 22 Juni 1945 adalah rapat Panitia Sembilan bukan pleno.",
+          "B": "Tanggal 17 Agustus 1945 adalah momentum pembacaan proklamasi.",
+          "C": "Tanggal 7 Agustus 1945 adalah hari pembubaran resmi BPUPKI.",
+          "E": "Tanggal 18 Agustus 1945 adalah penetapan UUD oleh lembaga PPKI."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 97,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "perumusan Pancasila sebagai dasar negara",
+        "dirumuskan dalam sidang-sidang BPUPKI"
+      ],
+      "topik_materi": "Simpulan Peran BPUPKI dalam Dasar Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan tinjauan historis, perumusan naskah dasar negara Pancasila resmi lahir dari...",
+      "pilihan": {
+        "A": "Hasil kompromi paksa pejabat militer sekutu pasca perang dunia",
+        "B": "Instruksi tertulis gubernur jenderal hindia belanda di batavia",
+        "C": "Rangkaian musyawarah dan dinamika persidangan resmi BPUPKI",
+        "D": "Dekrit otoriter perdana menteri kabinet perserikatan bangsa",
+        "E": "Keputusan rapat terbatas staf khusus pertahanan jepang tokyo"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dapat disimpulkan bahwa **perumusan Pancasila sebagai dasar negara yang tercantum dalam Pembukaan UUD 1945 dirumuskan dalam sidang-sidang BPUPKI**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Modul menegaskan fakta konstitusional bahwa BPUPKI adalah rahim historis lahirnya rumusan Pancasila. Dari pertukaran gagasan di forum inilah dasar filsafat negara Indonesia merdeka dirajut hingga menjadi konsensus nasional.",
+        "bedah_pengecoh": {
+          "A": "Sekutu tidak ikut merumuskan falsafah dasar negara Indonesia.",
+          "B": "Gubernur jenderal Belanda telah menyerah tanpa syarat tahun 1942.",
+          "D": "Dekrit perdana menteri bukan sumber yuridis kelahiran Pancasila.",
+          "E": "Pemerintah Tokyo hanya memberikan izin pembentukan badan."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 98,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "Setelah menyelesaikan tugasnya, BPUPKI dibubarkan",
+        "pada tanggal 7 Agustus 1945"
+      ],
+      "topik_materi": "Pembubaran BPUPKI dan Pembentukan PPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setelah menuntaskan seluruh tugas perancangan konstitusi, BPUPKI dibubarkan pada...",
+      "pilihan": {
+        "A": "Tanggal 7 Agustus 1945 dilanjutkan dengan pembentukan PPKI",
+        "B": "Tanggal 16 Juli 1945 sesaat setelah naskah konstitusi disetujui",
+        "C": "Tanggal 14 Agustus 1945 saat jepang menyerah kepada sekutu",
+        "D": "Tanggal 17 Agustus 1945 sesaat sebelum proklamasi kemerdekaan",
+        "E": "Tanggal 22 Agustus 1945 pada pembentukan komite nasional pusat"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Setelah menyelesaikan tugasnya, **BPUPKI dibubarkan, dan pada tanggal 7 Agustus 1945 dibentuk Panitia Persiapan Kemerdekaan Indonesia (PPKI)**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Jenderal Terauchi menyetujui pembubaran BPUPKI pada 7 Agustus 1945 karena dianggap telah selesai menyelidiki bahan persiapan kemerdekaan, kemudian digantikan oleh PPKI (*Dokuritsu Junbi Inkai*) untuk mempersiapkan pemindahan kekuasaan.",
+        "bedah_pengecoh": {
+          "B": "Tanggal 16 Juli 1945 adalah penutupan sidang bukan pembubaran.",
+          "C": "Tanggal 14 Agustus 1945 adalah kapitulasi Jepang kepada Sekutu.",
+          "D": "Tanggal 17 Agustus 1945 adalah deklarasi proklamasi kemerdekaan.",
+          "E": "Tanggal 22 Agustus 1945 adalah sidang PPKI membentuk BKR dan PNI."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 99,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "PPKI yang diketuai oleh Ir. Soekarno",
+        "wakil ketua Drs. Moh. Hatta"
+      ],
+      "topik_materi": "Pimpinan Puncak Lembaga PPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Lembaga PPKI yang dibentuk pada 7 Agustus 1945 dipimpin oleh Dwitunggal...",
+      "pilihan": {
+        "A": "Dr. Radjiman Wediodiningrat dan Raden Pandji Soeroso",
+        "B": "Ki Hadjar Dewantara dan K.H. Abdul Wahid Hasjim perwakilan",
+        "C": "Mr. Achmad Soebardjo dan Mr. Alexander Andries Maramis",
+        "D": "Sutan Sjahrir selaku Perdana Menteri dan Amir Sjarifuddin",
+        "E": "Ir. Soekarno selaku Ketua dan Drs. Moh. Hatta selaku Wakil Ketua"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "PPKI dipimpin oleh dwitunggal proklamator, yaitu **diketuai oleh Ir. Soekarno dan wakil ketua Drs. Moh. Hatta**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Kepemimpinan Soekarno-Hatta dalam PPKI menegaskan pergeseran mandat dari badan penyelidik (BPUPKI) ke badan eksekutor persiapan kemerdekaan yang bertugas memproklamasikan dan mengesahkan konstitusi negara merdeka.",
+        "bedah_pengecoh": {
+          "A": "Radjiman dan R.P. Soeroso adalah pimpinan BPUPKI sebelumnya.",
+          "B": "Ki Hadjar dan Wachid Hasjim memegang posisi menteri departemen.",
+          "C": "Subardjo dan Maramis adalah anggota komisi perumus dasar.",
+          "D": "Sjahrir dan Amir memimpin kabinet parlementer pasca merdeka."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    },
+    {
+      "nomor": 100,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "beranggotakan 21 orang",
+        "PPKI yang diketuai oleh Ir. Soekarno"
+      ],
+      "topik_materi": "Jumlah Keanggotaan Awal PPKI",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pada saat awal pembentukannya tanggal 7 Agustus 1945, PPKI beranggotakan...",
+      "pilihan": {
+        "A": "9 orang tokoh perwakilan panitia kecil perumus",
+        "B": "21 orang tokoh bangsa yang mewakili seluruh wilayah nusantara",
+        "C": "60 orang anggota perwakilan persidangan gedung pejambon",
+        "D": "76 orang anggota gabungan dewan penyelidik kemerdekaan",
+        "E": "100 orang utusan partai politik dan laskar perjuangan daerah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pada awal dibentuknya, **PPKI beranggotakan 21 orang** tokoh pergerakan yang mewakili berbagai suku dan pulau di tanah air (Jawa, Sumatera, Sulawesi, Maluku, Sunda Kecil, dan golongan minoritas).",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Berbeda dengan BPUPKI yang melibatkan anggota Jepang, seluruh anggota PPKI adalah bangsa Indonesia murni berjumlah awal 21 orang, yang kemudian ditambah 6 orang tanpa sepengetahuan Jepang untuk menegaskan kemandirian proklamasi.",
+        "bedah_pengecoh": {
+          "A": "9 orang adalah komposisi keanggotaan Panitia Sembilan.",
+          "C": "60 orang adalah jumlah anggota biasa awal BPUPKI.",
+          "D": "76 orang adalah jumlah keseluruhan anggota pleno BPUPKI.",
+          "E": "100 orang adalah representasi dewan formasi seratus menteri."
+        },
+        "sumber_rujukan": "Wawasan Kebangsaan"
+      }
+    }
+  ]
+}

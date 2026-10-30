@@ -1,0 +1,923 @@
+NO 1 (Hlm 7, Kunci A)
+KW: ['Rapat Paripurna tanggal 3 Oktober 2023', 'Rancangan Undang-Undang (RUU)']
+Q: Rancangan Undang-Undang Aparatur Sipil Negara disetujui DPR-RI dalam Rapat Paripurna pada tanggal...
+  A: 3 Oktober 2023 [KUNCI]
+  B: 17 Oktober 2023
+  C: 24 Oktober 2023
+  D: 31 Oktober 2023
+  E: 10 November 2023
+------------------------------------------------------------
+NO 2 (Hlm 7, Kunci B)
+KW: ['31 Oktober telah disahkan oleh Presiden', 'Undang-Undang Nomor 20 Tahun 2023']
+Q: Presiden Republik Indonesia mengesahkan Undang-Undang Nomor 20 Tahun 2023 tentang Aparatur Sipil Negara pada...
+  A: 3 Oktober 2023
+  B: 31 Oktober 2023 [KUNCI]
+  C: 10 November 2023
+  D: 1 Desember 2023
+  E: 2 Januari 2024
+------------------------------------------------------------
+NO 3 (Hlm 7, Kunci C)
+KW: ['disetujui oleh DPR-RI', 'Rapat Paripurna tanggal 3 Oktober 2023']
+Q: Sebelum disahkan secara resmi oleh Presiden pada 31 Oktober 2023, naskah RUU ASN terlebih dahulu disetujui oleh...
+  A: Komisi Yudisial Republik Indonesia
+  B: Badan Pemeriksa Keuangan Indonesia
+  C: Dewan Perwakilan Rakyat Republik Indonesia [KUNCI]
+  D: Kementerian Koordinator Politik Hukum
+  E: Mahkamah Konstitusi Republik Indonesia
+------------------------------------------------------------
+NO 4 (Hlm 7, Kunci D)
+KW: ['Pasal 77 UU Nomor 20 Tahun 2023', 'pada tanggal diundangkan']
+Q: Berdasarkan Pasal 77 Undang-Undang Nomor 20 Tahun 2023, undang-undang ini mulai berlaku pada...
+  A: Enam bulan sejak persetujuan dewan perwakilan
+  B: Satu tahun setelah tanggal pengesahan presiden
+  C: Awal tahun anggaran baru tanggal 1 Januari 2024
+  D: Tanggal resmi undang-undang diundangkan [KUNCI]
+  E: Saat seluruh aturan pelaksana selesai ditetapkan
+------------------------------------------------------------
+NO 5 (Hlm 7, Kunci E)
+KW: ['ketentuan penutup Undang-Undang Nomor', 'masih tetap berlaku']
+Q: Berdasarkan ketentuan penutup Undang-Undang Nomor 20 Tahun 2023, seluruh peraturan pelaksanaan lama dinyatakan...
+  A: Batal demi hukum sejak regulasi baru disahkan
+  B: Diberhentikan sementara menunggu keputusan menteri
+  C: Berlaku terbatas pada ruang lingkup kantor pusat
+  D: Dibatalkan khusus pada ketentuan sanksi pidana
+  E: Tetap berlaku sepanjang tidak bertentangan aturan baru [KUNCI]
+------------------------------------------------------------
+NO 6 (Hlm 7, Kunci A)
+KW: ['tidak bertentangan dan belum diganti']
+Q: Syarat kumulatif agar peraturan pelaksanaan lama tetap dinyatakan sah menurut UU Nomor 20 Tahun 2023 adalah...
+  A: Tidak bertentangan dan belum diganti aturan baru [KUNCI]
+  B: Mendapat persetujuan tertulis dari komisi dewan
+  C: Telah diuji materiil oleh Mahkamah Konstitusi
+  D: Diterbitkan paling lambat dua tahun sebelumnya
+  E: Memiliki alokasi anggaran operasional tersendiri
+  NEGATIVE CUES: ['[D] lambat: Diterbitkan paling lambat dua tahun sebelumnya']
+------------------------------------------------------------
+NO 7 (Hlm 7, Kunci B)
+KW: ['disahkan oleh Presiden Joko Widodo']
+Q: Pengesahan Undang-Undang Nomor 20 Tahun 2023 tentang Aparatur Sipil Negara secara konstitusional dilakukan oleh...
+  A: Ketua Dewan Perwakilan Rakyat Republik Indonesia
+  B: Presiden Republik Indonesia Joko Widodo [KUNCI]
+  C: Menteri Pendayagunaan Aparatur Negara dan RB
+  D: Kepala Badan Kepegawaian Negara Indonesia
+  E: Ketua Majelis Permusyawaratan Rakyat Republik
+------------------------------------------------------------
+NO 8 (Hlm 7, Kunci C)
+KW: ['Pasal 77 UU Nomor 20 Tahun 2023', 'mulai berlaku']
+Q: Nomor pasal dalam Undang-Undang Nomor 20 Tahun 2023 yang mengatur bahwa undang-undang mulai berlaku pada tanggal diundangkan adalah...
+  A: Pasal 55
+  B: Pasal 62
+  C: Pasal 77 [KUNCI]
+  D: Pasal 81
+  E: Pasal 94
+------------------------------------------------------------
+NO 9 (Hlm 7, Kunci D)
+KW: ['Rancangan Undang-Undang (RUU) Aparatur Sipil Negara', 'Rapat Paripurna tanggal 3 Oktober 2023']
+Q: Forum resmi di DPR-RI yang menyetujui pengesahan naskah RUU ASN pada tanggal 3 Oktober 2023 adalah...
+  A: Rapat Dengar Pendapat Komisi Teknis
+  B: Rapat Kerja Terbuka Bersama Menteri
+  C: Sidang Khusus Badan Urusan Legislasi
+  D: Rapat Paripurna Dewan Perwakilan Rakyat [KUNCI]
+  E: Pertemuan Konsultasi Antar-Fraksi Gabungan
+------------------------------------------------------------
+NO 10 (Hlm 7, Kunci E)
+KW: ['ketentuan penutup Undang-Undang Nomor 20 Tahun 2023', 'peraturan perundang-undangan yang merupakan peraturan pelaksanaan']
+Q: Pemberlakuan sementara aturan pelaksana turunan UU 5/2014 bertujuan utama untuk...
+  A: Menunda kewajiban pelaksanaan sistem merit nasional
+  B: Mencegah pembatalan sepihak tunjangan kinerja daerah
+  C: Mengurangi beban audit kepatuhan inspektorat jenderal
+  D: Memberikan hak imunitas hukum bagi pejabat kepegawaian
+  E: Menjamin kesinambungan hukum tata kelola kepegawaian [KUNCI]
+  BLACKLIST: ['[B] sepihak: Mencegah pembatalan sepihak tunjangan kinerja daerah']
+------------------------------------------------------------
+NO 11 (Hlm 9, Kunci B)
+KW: ['profesi bagi Pegawai Negeri Sipil', 'bekerja pada instansi pemerintah']
+Q: Aparatur Sipil Negara secara hukum didefinisikan sebagai suatu profesi bagi...
+  A: Seluruh tenaga kontrak outsourcing di kementerian negara
+  B: Pegawai Negeri Sipil dan PPPK di instansi pemerintah [KUNCI]
+  C: Karyawan tetap pada badan usaha milik negara dan swasta
+  D: Pekerja profesional independen pada lembaga peradilan
+  E: Aparat pertahanan dan keamanan penjaga kedaulatan negara
+------------------------------------------------------------
+NO 12 (Hlm 9, Kunci C)
+KW: ['Pegawai ASN terdiri dari', 'diangkat oleh pejabat pembina kepegawaian']
+Q: Pegawai ASN yang terdiri atas PNS dan PPPK secara resmi diangkat oleh...
+  A: Kepala Badan Riset dan Inovasi Nasional
+  B: Pimpinan tertinggi lembaga swadaya masyarakat
+  C: Pejabat Pembina Kepegawaian di instansi [KUNCI]
+  D: Ketua Komisi Pemberantasan Korupsi Republik
+  E: Sekretaris Daerah Khusus Ibu Kota Nusantara
+  BLACKLIST: ['[D] korupsi: Ketua Komisi Pemberantasan Korupsi Republik']
+------------------------------------------------------------
+NO 13 (Hlm 9, Kunci D)
+KW: ['Pegawai Negeri Sipil yang selanjutnya disingkat PNS', 'diangkat sebagai Pegawai ASN secara tetap']
+Q: Ciri khas status kepegawaian Pegawai Negeri Sipil (PNS) berdasarkan undang-undang adalah diangkat...
+  A: Berdasarkan kontrak tahunan berorientasi proyek khusus
+  B: Melalui penunjukan langsung pimpinan fraksi partai
+  C: Hanya untuk masa jabatan maksimal lima tahun berturut
+  D: Sebagai Pegawai ASN secara tetap oleh pejabat pembina [KUNCI]
+  E: Secara berkala mengikuti pergantian kabinet menteri
+  BLACKLIST: ['[C] hanya: Hanya untuk masa jabatan maksimal lima tahun berturut']
+------------------------------------------------------------
+NO 14 (Hlm 9, Kunci E)
+KW: ['PPPK merupakan warga negara Indonesia', 'berdasarkan perjanjian kerja untuk jangka waktu tertentu']
+Q: Pegawai Pemerintah dengan Perjanjian Kerja (PPPK) diangkat oleh pemerintah berdasarkan landasan...
+  A: Ketetapan konsorsium perguruan tinggi negeri
+  B: Piagam kesepakatan serikat buruh nasional
+  C: Nota kesepahaman antarduta besar negara sahabat
+  D: Instruksi lisan kepala dinas perbendaharaan
+  E: Perjanjian kerja untuk jangka waktu tertentu [KUNCI]
+------------------------------------------------------------
+NO 15 (Hlm 9, Kunci A)
+KW: ['berkedudukan sebagai unsur aparatur negara', 'melaksanakan kebijakan yang ditetapkan oleh pimpinan']
+Q: Secara kedudukan hukum, Pegawai ASN berkedudukan sebagai unsur aparatur negara yang bertugas...
+  A: Melaksanakan kebijakan yang ditetapkan pimpinan instansi [KUNCI]
+  B: Menyusun undang-undang bersama komisi legislatif pusat
+  C: Membuat putusan hukum yang mengikat badan peradilan
+  D: Menentukan arah ideologi dan platform partai politik
+  E: Mengelola keuangan perusahaan swasta multinasional
+------------------------------------------------------------
+NO 16 (Hlm 9, Kunci B)
+KW: ['bebas dari pengaruh dan intervensi', 'semua golongan dan partai politik']
+Q: Menjelang pemilihan umum, seorang pegawai ASN diminta bergabung menjadi tim sukses partai. Tindakan yang wajib diambil adalah...
+  A: Menerima tawaran secara diam-diam tanpa surat tugas
+  B: Menolak tawaran demi menjaga prinsip netralitas ASN [KUNCI]
+  C: Meminta izin pimpinan untuk menjadi pengurus aktif
+  D: Menggunakan fasilitas kantor untuk kampanye terbatas
+  E: Membagi dokumen kerja dinas kepada simpatisan partai
+  BLACKLIST: ['[B] menolak: Menolak tawaran demi menjaga prinsip netralitas ASN']
+------------------------------------------------------------
+NO 17 (Hlm 9, Kunci C)
+KW: ['Pasal 8 dan 9 UU Nomor 20 Tahun 2023', 'bebas dari pengaruh dan intervensi']
+Q: Ketentuan mengenai kedudukan ASN dan asas bebas dari intervensi partai politik diatur dalam UU 20/2023 pada...
+  A: Pasal 1 dan 2
+  B: Pasal 4 dan 5
+  C: Pasal 8 dan 9 [KUNCI]
+  D: Pasal 12 dan 13
+  E: Pasal 16 dan 17
+------------------------------------------------------------
+NO 18 (Hlm 9, Kunci D)
+KW: ['diserahi tugas dalam suatu jabatan pemerintahan', 'diberikan penghasilan']
+Q: Setiap Pegawai ASN yang diserahi tugas negara berhak memperoleh penghasilan yang bersumber dari...
+  A: Sumbangan sukarela masyarakat pengguna layanan publik
+  B: Bagi hasil keuntungan proyek investasi swasta rekanan
+  C: Iuran wajib bulanan para pegawai senior di kementerian
+  D: Ketentuan resmi berdasarkan peraturan perundang-undangan [KUNCI]
+  E: Dana talangan pribadi pimpinan satuan kerja dinas
+  NEGATIVE CUES: ['[B] keuntungan: Bagi hasil keuntungan proyek investasi swasta rekanan', '[E] pribadi: Dana talangan pribadi pimpinan satuan kerja dinas']
+------------------------------------------------------------
+NO 19 (Hlm 9, Kunci E)
+KW: ['Pegawai ASN terdiri dari Pegawai Negeri Sipil', 'dan Pegawai Pemerintah dengan Perjanjian Kerja']
+Q: Di lingkungan instansi pemerintah Republik Indonesia, Pegawai ASN dikelompokkan secara sah ke dalam...
+  A: Pegawai Tetap Daerah dan Pegawai Harian Lepas Pusat
+  B: Tenaga Honorer Kategori I dan Tenaga Kontrak Magang
+  C: Pegawai Organik Lembaga dan Pekerja Alih Daya Swasta
+  D: Tenaga Bantuan Operasional dan Staf Khusus Kementerian
+  E: Pegawai Negeri Sipil dan Pegawai Pemerintah Perjanjian Kerja [KUNCI]
+------------------------------------------------------------
+NO 20 (Hlm 9, Kunci A)
+KW: ['warga negara Indonesia yang memenuhi syarat tertentu', 'untuk menduduki jabatan pemerintahan']
+Q: Syarat mutlak status kewarganegaraan untuk dapat diangkat menjadi PNS maupun PPPK adalah...
+  A: Warga Negara Indonesia yang memenuhi persyaratan [KUNCI]
+  B: Warga negara asing pemegang visa izin tinggal tetap
+  C: Mantan warga negara asing yang memiliki keahlian sains
+  D: Penduduk berstatus dwi-kewarganegaraan aktif resmi
+  E: Warga negara asing peserta program beasiswa bilateral
+------------------------------------------------------------
+NO 21 (Hlm 10, Kunci C)
+KW: ['Jabatan dalam ASN terdiri atas 2 (dua) jabatan', 'Jabatan Manajerial']
+Q: Berdasarkan regulasi terbaru, jabatan di lingkungan aparatur sipil negara terbagi ke dalam...
+  A: Jabatan struktural murni dan jabatan staf pembantu umum
+  B: Jabatan karier terbuka dan jabatan politis perwakilan
+  C: Jabatan Manajerial dan Jabatan Nonmanajerial [KUNCI]
+  D: Jabatan eselon wilayah dan jabatan fungsional daerah
+  E: Jabatan operasional lapangan dan jabatan audit internal
+------------------------------------------------------------
+NO 22 (Hlm 10, Kunci D)
+KW: ['Jabatan Manajerial adalah sekelompok jabatan', 'memiliki fungsi memimpin unit organisasi']
+Q: Fungsi utama yang melekat pada kelompok Jabatan Manajerial dalam birokrasi pemerintahan adalah...
+  A: Menjalankan riset sains laboratorium secara mandiri
+  B: Menyusun pembukuan teknis bukti kas kuitansi dinas
+  C: Melakukan penindakan hukum tindak pidana kepolisian
+  D: Memimpin unit organisasi dan mengelola kinerja pegawai [KUNCI]
+  E: Memberikan pertimbangan politik kepada kepala daerah
+------------------------------------------------------------
+NO 23 (Hlm 10, Kunci E)
+KW: ['Jabatan manajerial terdiri atas', 'Jabatan Pimpinan Tinggi', 'Jabatan Administrator']
+Q: Kelompok Jabatan Manajerial dalam tata kelola ASN terdiri atas...
+  A: Jabatan Keahlian, Jabatan Keterampilan, dan Mahir
+  B: Jabatan Ahli Utama, Ahli Madya, dan Ahli Muda
+  C: Jabatan Pembina, Penata Tingkat Satu, dan Pengatur
+  D: Jabatan Pelaksana Tugas, Staf Ahli, dan Konsultan
+  E: Jabatan Pimpinan Tinggi, Administrator, dan Pengawas [KUNCI]
+------------------------------------------------------------
+NO 24 (Hlm 10, Kunci A)
+KW: ['JPT Utama, JPT Madya, dan JPT Pratama', 'Jabatan Pimpinan Tinggi']
+Q: Jabatan Pimpinan Tinggi (JPT) terbagi ke dalam tiga tingkatan jenjang yaitu...
+  A: JPT Utama, JPT Madya, dan JPT Pratama [KUNCI]
+  B: JPT Pusat, JPT Provinsi, dan JPT Kabupaten
+  C: JPT Keahlian, JPT Keterampilan, dan JPT Khusus
+  D: JPT Senior, JPT Menengah, dan JPT Pertama
+  E: JPT Eselon Satu, JPT Eselon Dua, dan JPT Tiga
+------------------------------------------------------------
+NO 25 (Hlm 10, Kunci B)
+KW: ['jabatan manajerial tingkat tinggi', 'pengembangan Pegawai ASN']
+Q: Tanggung jawab utama yang dibebankan kepada pejabat dalam Jabatan Pimpinan Tinggi adalah...
+  A: Mencatat arsip surat masuk dan keluar di loket unit
+  B: Memimpin unit organisasi dan memotivasi Pegawai ASN [KUNCI]
+  C: Melakukan pemeriksaan fisik sarana gedung kantor
+  D: Menjaga keamanan gerbang masuk kantor pemerintahan
+  E: Mengantar dokumen dinas ke instansi kementerian lain
+------------------------------------------------------------
+NO 26 (Hlm 10, Kunci C)
+KW: ['Jabatan Administrator', 'pelayanan publik dan administrasi']
+Q: Pejabat dalam Jabatan Administrator bertanggung jawab memimpin pelaksanaan seluruh kegiatan...
+  A: Penyelidikan perkara pelanggaran pidana korupsi
+  B: Diplomasi perdagangan bilateral di forum internasional
+  C: Pelayanan publik, administrasi pemerintahan, dan pembangunan [KUNCI]
+  D: Audit investigasi atas kebocoran rahasia militer
+  E: Penyusunan doktrin pertahanan teritorial matra udara
+  BLACKLIST: ['[A] korupsi: Penyelidikan perkara pelanggaran pidana korupsi']
+------------------------------------------------------------
+NO 27 (Hlm 10, Kunci D)
+KW: ['Jabatan Pengawas', 'Jabatan Manajerial tingkat dasar']
+Q: Tanggung jawab utama yang diemban oleh pejabat dalam Jabatan Pengawas adalah...
+  A: Menetapkan standar baku pengujian laboratorium forensik
+  B: Mengadili sengketa perselisihan hubungan industrial
+  C: Menandatangani nota pinjaman keuangan antar-negara
+  D: Mengendalikan pelaksanaan kegiatan oleh pejabat pelaksana [KUNCI]
+  E: Memimpin sidang kabinet terbatas bersama para menteri
+------------------------------------------------------------
+NO 28 (Hlm 10, Kunci E)
+KW: ['mencapai tujuan organisasi', 'Jabatan Manajerial']
+Q: Seorang Direktur Jenderal memimpin rapat koordinasi penetapan target output tahunan satker. Tindakan ini menjamin...
+  A: Kenaikan pangkat otomatis tanpa penilaian kinerja tahunan
+  B: Pemberian dispensasi jam kerja bagi staf unit pusat
+  C: Penundaan pelaporan keuangan kepada auditor eksternal
+  D: Pengurangan frekuensi audit operasional inspektorat jenderal
+  E: Pencapaian tujuan dan sasaran unit organisasi instansi [KUNCI]
+------------------------------------------------------------
+NO 29 (Hlm 10, Kunci A)
+KW: ['Jabatan Manajerial', 'mengelola, memotivasi, dan mendukung']
+Q: Unsur yang wajib dikelola dan diawasi oleh pejabat manajerial dalam rangka mencapai tujuan organisasi adalah...
+  A: Kinerja dan akuntabilitas pelaksanaan tugas para pegawai [KUNCI]
+  B: Pilihan politik pribadi aparatur pada pemilihan kepala daerah
+  C: Aktivitas transaksi keuangan perbankan privat seluruh staf
+  D: Kehidupan rumah tangga pegawai di luar kedinasan kantor
+  E: Pilihan investasi saham pribadi bawahan di pasar modal
+  NEGATIVE CUES: ['[B] pribadi: Pilihan politik pribadi aparatur pada pemilihan kepala daerah', '[E] pribadi: Pilihan investasi saham pribadi bawahan di pasar modal']
+------------------------------------------------------------
+NO 30 (Hlm 10, Kunci B)
+KW: ['Jabatan manajerial terdiri atas', 'Jabatan Pengawas']
+Q: Jenjang struktural yang menjadi tingkatan terbawah dalam kelompok Jabatan Manajerial adalah...
+  A: Jabatan Pelaksana Tata Usaha
+  B: Jabatan Pengawas Operasional [KUNCI]
+  C: Jabatan Fungsional Terampil
+  D: Jabatan Fungsional Pertama
+  E: Jabatan Pranata Administrasi
+------------------------------------------------------------
+NO 31 (Hlm 11, Kunci D)
+KW: ['memiliki Kompetensi Teknis', 'Kompetensi Manajerial, dan Kompetensi Sosial Kultural']
+Q: Untuk dapat diangkat dalam jabatan administrasi, PNS wajib memenuhi tiga jenis kompetensi yaitu...
+  A: Kompetensi Finansial, Keberanian Berisiko, dan Komersial
+  B: Kompetensi Diplomasi, Hukum Pidana, dan Intelijen
+  C: Kompetensi Vokasi, Desain Grafis, dan Pemasaran
+  D: Kompetensi Teknis, Manajerial, dan Sosial Kultural [KUNCI]
+  E: Kompetensi Teritorial, Strategi Tempur, dan Militer
+------------------------------------------------------------
+NO 32 (Hlm 11, Kunci E)
+KW: ['Kompetensi Teknis diukur dari', 'tingkat dan spesialisasi pendidikan']
+Q: Kompetensi Teknis PNS diukur dari tingkat dan spesialisasi pendidikan, pengalaman bekerja teknis, serta...
+  A: Jumlah sertifikat keikutsertaan ormas kedaerahan
+  B: Frekuensi kehadiran pada acara keagamaan nasional
+  C: Hasil perolehan suara pemilihan pimpinan daerah
+  D: Tingkat kepemilikan aset properti dan kendaraan dinas
+  E: Pelatihan teknis fungsional kedinasan yang diikuti [KUNCI]
+------------------------------------------------------------
+NO 33 (Hlm 11, Kunci A)
+KW: ['Kompetensi Manajerial diukur dari', 'pelatihan struktural atau manajemen']
+Q: Indikator yang digunakan untuk mengukur Kompetensi Manajerial aparatur sipil negara mencakup...
+  A: Pendidikan, pelatihan struktural, dan kepemimpinan [KUNCI]
+  B: Bakat kesenian tradisional dan kemahiran musik
+  C: Keahlian mekanik reparasi perangkat keras server
+  D: Daftar publikasi artikel jurnal internasional terindeks
+  E: Kapasitas fisik ketahanan lari jarak jauh maraton
+------------------------------------------------------------
+NO 34 (Hlm 11, Kunci B)
+KW: ['Kompetensi Sosial Kultural diukur dari', 'pengalaman kerja berkaitan dengan masyarakat majemuk']
+Q: Kompetensi Sosial Kultural dinilai dari pengalaman kerja aparatur yang berkaitan dengan...
+  A: Pengujian kepatuhan transaksi perbankan komersial
+  B: Masyarakat majemuk dalam agama, suku, dan budaya [KUNCI]
+  C: Koleksi benda pusaka peninggalan kerajaan kuno
+  D: Penyusunan kode pemrograman aplikasi berbasis awan
+  E: Negosiasi sengketa batas wilayah maritim terluar
+------------------------------------------------------------
+NO 35 (Hlm 11, Kunci C)
+KW: ['PNS dapat diberhentikan dari jabatan administrasi', 'menjalani tugas belajar lebih dari 6 (enam) bulan']
+Q: Seorang PNS administrator menempuh tugas belajar doktoral selama 24 bulan. Sesuai PP 11/2017 jo PP 17/2020, konsekuensi terhadap jabatannya adalah...
+  A: Tetap memangku jabatan dengan tunjangan penuh
+  B: Dipindahkan secara otomatis menjadi staf ahli menteri
+  C: Diberhentikan dari jabatan administrasi yang diemban [KUNCI]
+  D: Diberikan kenaikan pangkat istimewa dua tingkat
+  E: Diberhentikan statusnya sebagai Pegawai Negeri Sipil
+------------------------------------------------------------
+NO 36 (Hlm 11, Kunci D)
+KW: ['diberhentikan dari jabatan administrasi apabila', 'cuti di luar tanggungan negara']
+Q: Berikut ini merupakan sebab seorang PNS diberhentikan dari jabatan administrasi, KECUALI...
+  A: Mengundurkan diri dari jabatan administrasi
+  B: Diberhentikan sementara statusnya sebagai PNS
+  C: Menjalani cuti di luar tanggungan negara
+  D: Menjalani cuti tahunan selama dua belas hari kerja [KUNCI]
+  E: Ditugaskan secara penuh di luar jabatan administrasi
+------------------------------------------------------------
+NO 37 (Hlm 11, Kunci E)
+KW: ['Jabatan nonmanajerial adalah sekelompok jabatan', 'mengutamakan kompetensi yang bersifat teknis']
+Q: Kelompok jabatan dalam ASN yang mengutamakan kompetensi teknis dan tidak memiliki tanggung jawab langsung memimpin pegawai disebut...
+  A: Jabatan Administrator Utama Wilayah
+  B: Jabatan Pimpinan Tinggi Madya Pusat
+  C: Jabatan Pengawas Pelayanan Operasional
+  D: Jabatan Pelaksana Tugas Eselon Daerah
+  E: Jabatan Nonmanajerial Aparatur Negara [KUNCI]
+------------------------------------------------------------
+NO 38 (Hlm 11, Kunci A)
+KW: ['terselenggaranya peningkatan kinerja secara berkesinambungan', 'bagi Jabatan administrator']
+Q: Bagi Jabatan Administrator, tanggung jawab manajerial dilaksanakan guna menjamin seluruh kegiatan berjalan efisien serta terselenggaranya...
+  A: Peningkatan kinerja pegawai secara berkesinambungan [KUNCI]
+  B: Penghapusan seluruh mekanisme laporan pertanggungjawaban
+  C: Pemberian fasilitas mobil dinas mewah bagi staf baru
+  D: Pengalihan seluruh aset kantor kepada yayasan sosial
+  E: Pengurangan hari kerja operasional kantor pelayanan
+------------------------------------------------------------
+NO 39 (Hlm 11, Kunci B)
+KW: ['kegiatan sesuai dengan standar operasional prosedur', 'bagi Jabatan pelaksana']
+Q: Tanggung jawab yang wajib dipenuhi oleh pegawai yang menduduki Jabatan Pelaksana adalah memastikan pelaksanaan...
+  A: Audit investigasi atas pengelolaan utang luar negeri
+  B: Kegiatan kerja sesuai standar operasional prosedur [KUNCI]
+  C: Perumusan kebijakan fiskal makro nasional tahunan
+  D: Pengangkatan pejabat eselon di lingkungan kementerian
+  E: Penetapan tarif cukai hasil tembakau dan alkohol
+------------------------------------------------------------
+NO 40 (Hlm 11, Kunci C)
+KW: ['Jabatan Fungsional (JF) adalah sekelompok jabatan', 'berdasarkan pada keahlian dan keterampilan tertentu']
+Q: Sekelompok jabatan dalam birokrasi yang berisi fungsi pelayanan berbasis keahlian dan keterampilan tertentu adalah...
+  A: Jabatan Struktural Wilayah Komando
+  B: Jabatan Politis Perwakilan Rakyat
+  C: Jabatan Fungsional Aparatur Sipil [KUNCI]
+  D: Jabatan Honorer Pembantu Kepegawaian
+  E: Jabatan Ad-Hoc Penasehat Kementerian
+------------------------------------------------------------
+NO 41 (Hlm 12, Kunci E)
+KW: ['jabatan fungsional keahlian terdiri atas', 'Ahli utama, Ahli madya, Ahli muda dan Ahli pertama']
+Q: Jenjang Jabatan Fungsional Keahlian dari tingkatan tertinggi ke terendah secara berurutan adalah...
+  A: Penyelia, Mahir, Terampil, dan Pemula
+  B: Utama, Madya, Pratama, dan Administrator
+  C: Pembina Utama, Penata Muda, Pengatur, dan Juru
+  D: Senior, Madya, Yunior, dan Asisten Peneliti
+  E: Ahli Utama, Ahli Madya, Ahli Muda, dan Ahli Pertama [KUNCI]
+------------------------------------------------------------
+NO 42 (Hlm 12, Kunci A)
+KW: ['jabatan fungsional keterampilan terdiri atas', 'Penyelia, Mahir, Terampil, dan Pemula']
+Q: Jenjang tingkatan pada Jabatan Fungsional Keterampilan secara sah terdiri atas...
+  A: Penyelia, Mahir, Terampil, dan Pemula [KUNCI]
+  B: Ahli Utama, Ahli Madya, dan Ahli Pertama
+  C: Administrator, Pengawas, dan Pelaksana Harian
+  D: Kepala Seksi, Kasubbag, dan Staf Administrasi
+  E: Pengatur Muda, Pengatur, dan Penata Tingkat Satu
+------------------------------------------------------------
+NO 43 (Hlm 12, Kunci B)
+KW: ['kegiatannya dapat diukur dengan satuan nilai', 'angka kredit']
+Q: Kriteria penilaian keluaran kegiatan pada Jabatan Fungsional diukur dengan satuan nilai atau akumulasi nilai butir dalam bentuk...
+  A: Persentase dividen saham perusahaan
+  B: Angka kredit butir kegiatan tugas [KUNCI]
+  C: Indeks kepuasan politik dewan perwakilan
+  D: Nominal bonus komisi transaksi penjualan
+  E: Nilai tukar mata uang asing kedinasan
+------------------------------------------------------------
+NO 44 (Hlm 12, Kunci C)
+KW: ['Pengangkatan PNS ke dalam Jabatan Fungsional', 'pengangkatan pertama, perpindahan dari Jabatan lain, penyesuaian dan/atau promosi']
+Q: Pengangkatan PNS ke dalam Jabatan Fungsional dapat dilaksanakan melalui empat mekanisme resmi yaitu...
+  A: Lelang terbuka, voting staf, warisan jabatan, dan tender
+  B: Penunjukan keluarga, diskresi bupati, undian, dan rotasi
+  C: Pengangkatan pertama, perpindahan jabatan, penyesuaian, dan promosi [KUNCI]
+  D: Rekomendasi ormas, kuota daerah, afirmasi politik, dan mutasi
+  E: Permohonan pribadi, seleksi daring, magang sukarela, dan magang
+  NEGATIVE CUES: ['[B] keluarga: Penunjukan keluarga, diskresi bupati, undian, dan rotasi', '[E] pribadi: Permohonan pribadi, seleksi daring, magang sukarela, dan magang']
+------------------------------------------------------------
+NO 45 (Hlm 12, Kunci D)
+KW: ['PNS dapat diberhentikan dari Jabatan Fungsional apabila', 'ditugaskan secara penuh di luar JF']
+Q: Seorang pejabat fungsional auditor ditugaskan secara penuh menjadi pejabat administrator struktural. Status jabatan fungsionalnya adalah...
+  A: Merangkap kedua jabatan sekaligus dengan dua tunjangan
+  B: Diberikan cuti besar selama memegang jabatan struktural
+  C: Diberhentikan tetap statusnya sebagai pegawai negeri
+  D: Diberhentikan dari jabatan fungsional yang diduduki [KUNCI]
+  E: Ditunda penerbitan surat keputusan pengangkatannya
+------------------------------------------------------------
+NO 46 (Hlm 12, Kunci E)
+KW: ['dapat diangkat kembali sesuai dengan jenjang Jabatan Fungsional terakhir', 'apabila tersedia lowongan Jabatan']
+Q: PNS yang telah selesai menjalani tugas belajar lebih dari enam bulan dapat diangkat kembali ke dalam JF asalkan...
+  A: Mendapat persetujuan lisan dari seluruh rekan sejawat
+  B: Membayar uang administrasi pemulihan formasi dinas
+  C: Menempati kantor cabang di luar pulau tempat domisili
+  D: Menyerahkan sertifikat kelulusan kepada serikat pekerja
+  E: Tersedia lowongan formasi pada jenjang jabatan terakhir [KUNCI]
+------------------------------------------------------------
+NO 47 (Hlm 12, Kunci A)
+KW: ['b. Jabatan Pelaksana', 'Bertanggung jawab memberikan pelayanan dan melaksanakan pekerjaan yang bersifat rutin dan sederhana']
+Q: Berdasarkan regulasi kepegawaian, kelompok Jabatan Pelaksana bertanggung jawab dalam memberikan pelayanan serta...
+  A: Melaksanakan pekerjaan yang bersifat rutin dan sederhana [KUNCI]
+  B: Menetapkan formula tarif perpajakan internasional
+  C: Memimpin operasi militer pengamanan perbatasan negara
+  D: Membuat keputusan yudisial atas perkara sengketa pemilu
+  E: Mengoordinasikan perumusan rencana strategis lima menteri
+------------------------------------------------------------
+NO 48 (Hlm 12, Kunci B)
+KW: ['pelaksanaan tugas yang bersifat mandiri', 'dalam menjalankan tugas profesinya']
+Q: Salah satu kriteria khusus yang membedakan pelaksanaan tugas Jabatan Fungsional dengan jabatan struktural adalah...
+  A: Ketiadaan kewajiban mematuhi jam kerja kedinasan kantor
+  B: Pelaksanaan tugas bersifat mandiri sesuai profesinya [KUNCI]
+  C: Bebas dari kewajiban penilaian prestasi kerja tahunan
+  D: Hak imunitas dari sanksi pelanggaran tata tertib dinas
+  E: Wewenang mengabaikan disposisi instruksi pimpinan unit
+  BLACKLIST: ['[E] mengabaikan: Wewenang mengabaikan disposisi instruksi pimpinan unit']
+------------------------------------------------------------
+NO 49 (Hlm 12, Kunci C)
+KW: ['mensyaratkan keahlian atau keterampilan tertentu', 'dibuktikan dengan sertifikasi']
+Q: Penguasaan keahlian atau keterampilan tertentu pada Jabatan Fungsional wajib dibuktikan melalui...
+  A: Rekomendasi tertulis dari pimpinan partai politik
+  B: Bukti pelunasan pajak bumi dan bangunan tempat tinggal
+  C: Sertifikasi dan/atau penilaian kompetensi tertentu [KUNCI]
+  D: Kuitansi pembelian perlengkapan dinas secara mandiri
+  E: Daftar riwayat perjalanan wisata liburan ke luar negeri
+------------------------------------------------------------
+NO 50 (Hlm 12, Kunci D)
+KW: ['PNS dapat diberhentikan dari Jabatan Fungsional apabila', 'tidak memenuhi persyaratan Jabatan']
+Q: Pemberhentian PNS dari Jabatan Fungsional dapat dijatuhkan oleh pejabat pembina kepegawaian apabila pegawai...
+  A: Mengajukan usulan perbaikan tata kerja di unit kantor
+  B: Mengikuti pelatihan peningkatan kompetensi kepemimpinan
+  C: Menyelesaikan studi sarjana tepat waktu sesuai jadwal
+  D: Tidak lagi memenuhi persyaratan kualifikasi jabatannya [KUNCI]
+  E: Mencapai target kinerja tahunan melebihi ekspektasi unit
+------------------------------------------------------------
+NO 51 (Hlm 13, Kunci A)
+KW: ['jabatan eselon Ia kepala lembaga pemerintah nonkementerian', 'jabatan pimpinan tinggi utama']
+Q: Berdasarkan penyetaraan jabatan PNS, jabatan eselon Ia kepala lembaga pemerintah nonkementerian setara dengan...
+  A: Jabatan Pimpinan Tinggi Utama [KUNCI]
+  B: Jabatan Pimpinan Tinggi Madya
+  C: Jabatan Pimpinan Tinggi Pratama
+  D: Jabatan Administrator Utama
+  E: Jabatan Pengawas Wilayah Pusat
+------------------------------------------------------------
+NO 52 (Hlm 13, Kunci C)
+KW: ['jabatan eselon Ia dan eselon Ib', 'jabatan pimpinan tinggi madya']
+Q: Jabatan eselon Ia (selain kepala LPNK) dan eselon Ib dalam birokrasi kementerian disetarakan dengan...
+  A: Jabatan Fungsional Ahli Utama
+  B: Jabatan Pimpinan Tinggi Pratama
+  C: Jabatan Pimpinan Tinggi Madya [KUNCI]
+  D: Jabatan Administrator Tingkat Satu
+  E: Jabatan Pengawas Eksekutif Madya
+------------------------------------------------------------
+NO 53 (Hlm 13, Kunci E)
+KW: ['jabatan eselon II setara dengan', 'jabatan pimpinan tinggi pratama']
+Q: Dalam penyetaraan jabatan kepegawaian, jabatan eselon II (Direktur atau Kepala Kantor Wilayah) setara dengan...
+  A: Jabatan Administrator Wilayah Khusus
+  B: Jabatan Pengawas Tingkat Pratama
+  C: Jabatan Pimpinan Tinggi Madya Pusat
+  D: Jabatan Fungsional Mahir Pratama
+  E: Jabatan Pimpinan Tinggi Pratama [KUNCI]
+------------------------------------------------------------
+NO 54 (Hlm 13, Kunci B)
+KW: ['jabatan eselon III setara dengan', 'jabatan administrator']
+Q: Penyetaraan posisi jabatan untuk pejabat struktural eselon III adalah ke dalam...
+  A: Jabatan Pimpinan Tinggi Pratama
+  B: Jabatan Administrator [KUNCI]
+  C: Jabatan Pengawas Pelayanan
+  D: Jabatan Pelaksana Madya
+  E: Jabatan Fungsional Ahli Muda
+------------------------------------------------------------
+NO 55 (Hlm 13, Kunci D)
+KW: ['jabatan eselon IV setara dengan', 'jabatan pengawas']
+Q: Pejabat struktural eselon IV (Kepala Seksi atau Kepala Subbagian) disetarakan kedudukannya ke dalam...
+  A: Jabatan Pimpinan Pratama
+  B: Jabatan Administrator Utama
+  C: Jabatan Fungsional Terampil
+  D: Jabatan Pengawas [KUNCI]
+  E: Jabatan Pelaksana Harian
+------------------------------------------------------------
+NO 56 (Hlm 13, Kunci A)
+KW: ['jabatan eselon V dan fungsional umum', 'setara dengan jabatan pelaksana']
+Q: Berdasarkan ketentuan penyetaraan jabatan ASN, jabatan eselon V dan fungsional umum setara dengan...
+  A: Jabatan Pelaksana [KUNCI]
+  B: Jabatan Pengawas
+  C: Jabatan Administrator
+  D: Jabatan Fungsional Mahir
+  E: Jabatan Fungsional Pertama
+------------------------------------------------------------
+NO 57 (Hlm 13, Kunci C)
+KW: ['Peraturan Pemerintah Nomor 17 Tahun 2020']
+Q: Regulasi pemerintah yang mengatur penyesuaian jabatan administrasi ke dalam Jabatan Fungsional demi penataan birokrasi adalah...
+  A: Peraturan Pemerintah Nomor 10 Tahun 1983
+  B: Peraturan Pemerintah Nomor 30 Tahun 2019
+  C: Peraturan Pemerintah Nomor 17 Tahun 2020 [KUNCI]
+  D: Peraturan Pemerintah Nomor 94 Tahun 2021
+  E: Peraturan Pemerintah Nomor 42 Tahun 2004
+------------------------------------------------------------
+NO 58 (Hlm 13, Kunci E)
+KW: ['Penyetaraan jabatan dimaksud adalah pengangkatan Pejabat Administrasi', 'melalui Penyesuaian/Inpassing pada jabatan fungsional yang setara']
+Q: Mekanisme pengangkatan Pejabat Administrasi ke dalam Jabatan Fungsional yang setara dalam penataan birokrasi disebut...
+  A: Pengangkatan pertama formasi umum CPNS
+  B: Demosi hukuman penurunan pangkat dinas
+  C: Promosi terbuka lintas instansi daerah
+  D: Pemberhentian dengan hormat atas pensiun
+  E: Penyesuaian atau Inpassing jabatan fungsional [KUNCI]
+------------------------------------------------------------
+NO 59 (Hlm 13, Kunci B)
+KW: ['Penyetaraan jabatan diatur', 'dengan Peraturan Menteri']
+Q: Berdasarkan ketentuan PP 17/2020, pedoman teknis penyetaraan jabatan diatur lebih lanjut dengan...
+  A: Surat Edaran Lurah setempat
+  B: Peraturan Menteri terkait [KUNCI]
+  C: Keputusan Camat wilayah
+  D: Maklumat Kepala Desa binaan
+  E: Nota Dinas Internal Staf
+------------------------------------------------------------
+NO 60 (Hlm 13, Kunci D)
+KW: ['penyesuaian jabatan ke dalam Jabatan Fungsional', 'penataan birokrasi']
+Q: Tujuan pokok dilaksanakannya kebijakan penyetaraan jabatan administrasi ke dalam jabatan fungsional adalah...
+  A: Menambah panjang rantai hierarki persetujuan surat dinas
+  B: Menghapuskan fungsi pelayanan publik pada kantor vertikal
+  C: Mengurangi alokasi belanja pegawai untuk bantuan sosial
+  D: Mewujudkan penataan birokrasi yang lincah dan profesional [KUNCI]
+  E: Menurunkan kelas jabatan dan memotong penghasilan pegawai
+------------------------------------------------------------
+NO 61 (Hlm 15, Kunci B)
+KW: ['Pegawai ASN berhak memperoleh penghargaan', 'berupa materiel dan/atau nonmateriel']
+Q: Berdasarkan undang-undang, Pegawai ASN berhak memperoleh penghargaan dan pengakuan yang berwujud...
+  A: Saham kepemilikan aset gedung kantor dinas
+  B: Penghargaan berupa materiel dan/atau nonmateriel [KUNCI]
+  C: Imunitas pidana khusus bagi seluruh pejabat
+  D: Hak veto atas kebijakan strategis kementerian
+  E: Pemberian gelar bangsawan kehormatan adat
+------------------------------------------------------------
+NO 62 (Hlm 15, Kunci D)
+KW: ['berupa materiel dan/atau nonmateriel', 'Penghargaan yang bersifat motivasi']
+Q: Berikut ini merupakan komponen penghargaan dan pengakuan hak Pegawai ASN, KECUALI...
+  A: Penghasilan serta tunjangan dan fasilitas
+  B: Jaminan sosial dan lingkungan kerja
+  C: Pengembangan diri dan bantuan hukum
+  D: Kepemilikan kendaraan operasional dinas secara pribadi [KUNCI]
+  E: Penghargaan yang bersifat motivasi
+------------------------------------------------------------
+NO 63 (Hlm 15, Kunci A)
+KW: ['berupa materiel dan/atau nonmateriel yang terdiri atas', 'Bantuan hukum']
+Q: Seorang pejabat perbendaharaan digugat di pengadilan perdata terkait pelaksanaan tugas kedinasan resminya. Hak yang wajib diberikan pemerintah adalah...
+  A: Bantuan hukum dalam perkara pelaksanaan tugas [KUNCI]
+  B: Pemberian dana ganti rugi tanpa melalui sidang
+  C: Penutupan paksa lembaga pengadilan yang menyidang
+  D: Pemberhentian seketika dari dinas tanpa pemeriksaan
+  E: Pengalihan gugatan menjadi tanggung jawab keluarga
+  NEGATIVE CUES: ['[E] keluarga: Pengalihan gugatan menjadi tanggung jawab keluarga']
+------------------------------------------------------------
+NO 64 (Hlm 15, Kunci C)
+KW: ['B. Kewajiban Aparatur Sipil Negara (ASN)', 'setia dan taat kepada Pancasila, UUD Tahun 1945, NKRI, dan pemerintah yang sah']
+Q: Kewajiban pertama dan utama bagi setiap insan Aparatur Sipil Negara sebagaimana diatur dalam undang-undang adalah...
+  A: Mendukung program kerja asosiasi pengusaha daerah
+  B: Menghafalkan seluruh nomor registrasi aset kantor
+  C: Setia dan taat kepada Pancasila, UUD 1945, NKRI, dan pemerintah [KUNCI]
+  D: Mengikuti kegiatan studi banding dinas ke luar negeri
+  E: Mencapai target penerimaan kas nonpajak pribadi
+  NEGATIVE CUES: ['[E] pribadi: Mencapai target penerimaan kas nonpajak pribadi']
+------------------------------------------------------------
+NO 65 (Hlm 15, Kunci E)
+KW: ['Kewajiban ASN adalah', 'menaati ketentuan peraturan perundang-undangan']
+Q: Dalam penyelenggaraan birokrasi pemerintahan, asas legalitas aparatur diwujudkan melalui kewajiban...
+  A: Menerapkan kebijakan diskresi tanpa batasan wewenang
+  B: Mengutamakan tradisi lisan dibanding naskah regulasi
+  C: Menyesuaikan standar layanan demi kepentingan kerabat
+  D: Mengesampingkan regulasi saat menghadapi audit rutin
+  E: Menaati ketentuan peraturan perundang-undangan yang sah [KUNCI]
+  NEGATIVE CUES: ['[C] kerabat: Menyesuaikan standar layanan demi kepentingan kerabat']
+------------------------------------------------------------
+NO 66 (Hlm 15, Kunci B)
+KW: ['melaksanakan nilai dasar ASN', 'dan kode etik dan kode perilaku ASN']
+Q: Dalam berinteraksi dengan masyarakat pemohon layanan, seorang pegawai ASN wajib senantiasa...
+  A: Meminta uang pelicin agar berkas izin lekas disetujui
+  B: Melaksanakan nilai dasar serta kode etik dan kode perilaku [KUNCI]
+  C: Menutup loket pelayanan sebelum jam kerja dinas berakhir
+  D: Menolak berkas permohonan tanpa memberikan penjelasan
+  E: Menyimpan berkas warga hingga ada titipan pihak berpengaruh
+  BLACKLIST: ['[D] menolak: Menolak berkas permohonan tanpa memberikan penjelasan']
+------------------------------------------------------------
+NO 67 (Hlm 15, Kunci D)
+KW: ['Kewajiban ASN adalah', 'menjaga netraliras']
+Q: Kewajiban butir keempat yang ditegaskan dalam Undang-Undang ASN untuk menjamin independensi pelayanan adalah...
+  A: Menjaga kerahasiaan tarif pelayanan publik di loket
+  B: Menghadiri kampanye pemilihan kepala daerah secara rutin
+  C: Menolak instruksi penugasan di daerah pelosok perbatasan
+  D: Menjaga netralitas dari kepentingan politik mana pun [KUNCI]
+  E: Membentuk serikat politik khusus pegawai kementerian
+  BLACKLIST: ['[C] menolak: Menolak instruksi penugasan di daerah pelosok perbatasan']
+------------------------------------------------------------
+NO 68 (Hlm 15, Kunci A)
+KW: ['bersedia ditempatkan di seluruh wilayah NKRI', 'dan perwakilan NKRI yang berkedudukan di luar wilayah Indonesia']
+Q: Ruang lingkup kewajiban kesediaan penempatan tugas kedinasan bagi seluruh Pegawai ASN mencakup...
+  A: Seluruh wilayah NKRI dan perwakilan di luar negeri [KUNCI]
+  B: Hanya di wilayah ibu kota provinsi tempat domisili
+  C: Khusus pada kantor pusat kementerian di ibu kota
+  D: Terbatas pada radius lima puluh kilometer dari tempat lahir
+  E: Hanya pada instansi vertikal yang memiliki fasilitas lengkap
+  BLACKLIST: ['[B] hanya: Hanya di wilayah ibu kota provinsi tempat domisili', '[E] hanya: Hanya pada instansi vertikal yang memiliki fasilitas lengkap']
+------------------------------------------------------------
+NO 69 (Hlm 15, Kunci C)
+KW: ['Pegawai ASN berhak memperoleh penghargaan dan pengakuan', 'Lingkungan kerja', 'Pengembangan diri']
+Q: Sebuah instansi pemerintah menyediakan ruang kerja yang aman, sehat, serta memfasilitasi beasiswa studi bagi stafnya. Instansi ini memenuhi hak...
+  A: Fasilitas rumah dinas mewah dan mobil operasional
+  B: Imunitas dari pengawasan aparat pengawas internal
+  C: Lingkungan kerja dan hak pengembangan diri pegawai [KUNCI]
+  D: Pemberian gratifikasi liburan akhir tahun anggaran
+  E: Dispensasi bebas absensi sidik jari kedinasan
+------------------------------------------------------------
+NO 70 (Hlm 15, Kunci E)
+KW: ['Kewajiban ASN adalah', 'bersedia ditempatkan di seluruh wilayah NKRI']
+Q: Secara keseluruhan, kewajiban pokok Aparatur Sipil Negara yang dirumuskan dalam ketentuan undang-undang terdiri atas...
+  A: Tiga butir kewajiban pokok kedinasan
+  B: Empat butir kewajiban pokok kedinasan
+  C: Enam butir kewajiban pokok kedinasan
+  D: Tujuh butir kewajiban pokok kedinasan
+  E: Lima butir kewajiban pokok kedinasan [KUNCI]
+------------------------------------------------------------
+NO 71 (Hlm 17, Kunci C)
+KW: ['Presiden merupakan pemegang kekuasaan pemerintahan tertinggi', 'kebijakan, pembinaan profesi, dan Manajemen Aparatur Sipil Negara']
+Q: Pemegang kekuasaan pemerintahan tertinggi dalam kebijakan, pembinaan profesi, dan Manajemen ASN adalah...
+  A: Menteri Pendayagunaan Aparatur Negara dan RB
+  B: Kepala Badan Kepegawaian Negara Republik
+  C: Presiden Republik Indonesia [KUNCI]
+  D: Ketua Dewan Perwakilan Rakyat Republik Indonesia
+  E: Ketua Mahkamah Agung Republik Indonesia
+------------------------------------------------------------
+NO 72 (Hlm 17, Kunci E)
+KW: ['Presiden mendelegasikan kepada', 'Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi']
+Q: Untuk menyelenggarakan kekuasaan manajemen ASN, Presiden secara resmi mendelegasikan kewenangan kepada...
+  A: Lembaga Administrasi Negara Republik Indonesia
+  B: Kementerian Koordinator Bidang Perekonomian
+  C: Badan Kepegawaian Negara Republik Indonesia
+  D: Komisi Pemilihan Umum Republik Indonesia
+  E: Kementerian PAN-RB Republik Indonesia [KUNCI]
+------------------------------------------------------------
+NO 73 (Hlm 17, Kunci B)
+KW: ['perumusan dan penetapan kebijakan strategis', 'koordinasi dan sinkronisasi kebijakan']
+Q: Pendelegasian kewenangan Presiden kepada Kementerian PAN-RB berkaitan erat dengan tiga mandat utama yaitu...
+  A: Penyidikan korupsi, penuntutan pidana, dan eksekusi denda
+  B: Perumusan kebijakan, koordinasi sinkronisasi, dan pengendalian [KUNCI]
+  C: Penerbitan surat utang, lelang obligasi, dan moneter
+  D: Pengadaan alutsista, logistik militer, dan pertahanan
+  E: Penetapan vonis perdata, banding sengketa, dan kasasi
+  BLACKLIST: ['[A] korupsi: Penyidikan korupsi, penuntutan pidana, dan eksekusi denda']
+------------------------------------------------------------
+NO 74 (Hlm 17, Kunci D)
+KW: ['pengembangan kapasitas dan pembelajaran ASN', 'sinkronisasi pengendalian tugas dan fungsi']
+Q: Dalam penyelenggaraan Manajemen ASN, Kementerian PAN-RB mengoordinasikan rencana kerja lembaga serta melakukan...
+  A: Pencetakan uang kertas dan uang logam rupiah baru
+  B: Pemberian sanksi pemecatan langsung kepada kepala daerah
+  C: Pemeriksaan forensik atas transaksi pasar bursa modal
+  D: Sinkronisasi pengendalian kapasitas dan pembelajaran ASN [KUNCI]
+  E: Penyitaan rekening simpanan wajib perbankan swasta
+------------------------------------------------------------
+NO 75 (Hlm 17, Kunci A)
+KW: ['Kementerian PAN-RB juga melakukan pengawasan', 'penerapan Sistem Merit pada Kementerian/Lembaga']
+Q: Salah satu tugas pengawasan krusial yang dijalankan oleh Kementerian PAN-RB pada instansi pemerintah adalah...
+  A: Pengawasan penerapan Sistem Merit di K/L [KUNCI]
+  B: Pemeriksaan fisik sarana persenjataan pangkalan
+  C: Penyadapan saluran telekomunikasi pejabat daerah
+  D: Pemeriksaan kepatuhan rambu-rambu lalu lintas dinas
+  E: Audit penerimaan devisa ekspor industri tekstil
+------------------------------------------------------------
+NO 76 (Hlm 17, Kunci C)
+KW: ['pengendalian kebijakan Manajemen ASN', 'secara nasional']
+Q: Pengendalian kebijakan Manajemen ASN yang dijalankan oleh Kementerian PAN-RB memiliki ruang lingkup...
+  A: Hanya terbatas pada instansi pemerintah pusat
+  B: Khusus untuk unit kantor wilayah pulau terluar
+  C: Secara menyeluruh mencakup skala nasional [KUNCI]
+  D: Hanya bagi pegawai yang berstatus masa percobaan
+  E: Terbatas pada instansi yang mengalami defisit anggaran
+  BLACKLIST: ['[A] hanya: Hanya terbatas pada instansi pemerintah pusat', '[D] hanya: Hanya bagi pegawai yang berstatus masa percobaan']
+------------------------------------------------------------
+NO 77 (Hlm 17, Kunci E)
+KW: ['pengendalian pelaksanaan kebijakan teknis', 'Manajemen ASN']
+Q: Kementerian PAN-RB selain menetapkan kebijakan makro juga bertugas melakukan pengendalian atas...
+  A: Tarif suku bunga pinjaman perbankan swasta
+  B: Penetapan harga eceran tertinggi sembako pangan
+  C: Jadwal penerbangan maskapai komersial swasta
+  D: Pemenang tender lelang jalan tol lintas wilayah
+  E: Pelaksanaan kebijakan teknis Manajemen ASN [KUNCI]
+------------------------------------------------------------
+NO 78 (Hlm 17, Kunci B)
+KW: ['mengoordinasikan rencana kerja lembaga yang berkaitan', 'dengan penyelenggaraan Manajemen ASN']
+Q: BKN dan LAN menyusun rencana kerja tahunan terkait rekrutmen dan pelatihan kepemimpinan. Kementerian yang mengoordinasikan rencana kerja tersebut adalah...
+  A: Kementerian Hukum dan Hak Asasi Manusia
+  B: Kementerian PAN-RB Republik Indonesia [KUNCI]
+  C: Kementerian Sekretariat Negara Republik
+  D: Kementerian Koordinator Bidang Politik dan Keamanan
+  E: Kementerian Keuangan Republik Indonesia
+------------------------------------------------------------
+NO 79 (Hlm 17, Kunci D)
+KW: ['kebijakan, pembinaan profesi, dan Manajemen Aparatur Sipil Negara', 'Presiden merupakan pemegang kekuasaan']
+Q: Kekuasaan pemerintahan tertinggi yang dipegang oleh Presiden dalam ranah kepegawaian aparatur negara mencakup tiga aspek yaitu...
+  A: Pajak daerah, retribusi pasar, dan royalti tambang
+  B: Pendidikan militer, komando tempur, dan intelijen
+  C: Hukum pidana khusus, grasi hukum, dan remisi tahanan
+  D: Kebijakan, pembinaan profesi, dan Manajemen ASN [KUNCI]
+  E: Audit perbankan, peredaran obligasi, dan kurs rupiah
+------------------------------------------------------------
+NO 80 (Hlm 17, Kunci A)
+KW: ['Pendelegasian tersebut berkaitan dengan kewenangan', 'pengendalian kebijakan Manajemen ASN secara nasional']
+Q: Prinsip utama pendelegasian kekuasaan Presiden kepada Kementerian PAN-RB dalam mengendalikan kebijakan ASN bertujuan mewujudkan...
+  A: Sistem pengelolaan aparatur yang terpadu dan selaras [KUNCI]
+  B: Kemandirian mutlak setiap daerah tanpa kontrol pusat
+  C: Penyerahan tata kelola kepegawaian kepada korporasi
+  D: Peniadaan batas persyaratan kompetensi jabatan staf
+  E: Pembagian jatah kursi birokrasi bagi kelompok tertentu
+------------------------------------------------------------
+NO 81 (Hlm 19, Kunci D)
+KW: ['kualifikasi, kompetensi, dan kinerja secara adil dan wajar', '(Sistem Merit)']
+Q: Kebijakan dan manajemen ASN yang didasarkan pada kualifikasi, kompetensi, dan kinerja secara adil dan wajar tanpa diskriminasi disebut...
+  A: Sistem Patronase Politik Terbuka
+  B: Sistem Senioritas Pangkat Mutlak
+  C: Sistem Spoils Pembagian Jabatan
+  D: Sistem Merit Manajemen Aparatur [KUNCI]
+  E: Sistem Kuota Afirmasi Wilayah
+------------------------------------------------------------
+NO 82 (Hlm 19, Kunci A)
+KW: ['tanpa membedakan latar belakang politik, ras, warna kulit', 'status pernikahan, umur, atau kondisi kecacatan']
+Q: Dalam penerapan Sistem Merit, manajemen ASN wajib memperlakukan pegawai secara adil tanpa membedakan faktor...
+  A: Latar belakang politik, ras, agama, kelamin, dan kecacatan [KUNCI]
+  B: Tingkat pencapaian target kinerja bulanan di unit dinas
+  C: Skor hasil pengujian kompetensi teknis dan manajerial
+  D: Tingkat kualifikasi ijazah pendidikan formal yang dimiliki
+  E: Riwayat rekam jejak integritas penugasan kedinasan
+------------------------------------------------------------
+NO 83 (Hlm 19, Kunci C)
+KW: ['Manajemen ASN ini meliputi', 'Manajemen Pegawai Negeri Sipil (PNS) dan Manajemen Pegawai Pemerintah dengan Perjanjian Kerja']
+Q: Ruang lingkup tata kelola Manajemen ASN secara komprehensif meliputi dua bidang yaitu...
+  A: Manajemen Angkatan Bersenjata dan Manajemen Polisi Sipil
+  B: Manajemen Pejabat Diplomatik dan Manajemen Konsuler Luar
+  C: Manajemen Pegawai Negeri Sipil dan Manajemen PPPK [KUNCI]
+  D: Manajemen Hakim Peradilan dan Manajemen Jaksa Agung
+  E: Manajemen Pekerja BUMN dan Manajemen Karyawan Swasta
+------------------------------------------------------------
+NO 84 (Hlm 19, Kunci E)
+KW: ['Presiden dapat mendelegasikan kewenangan pembinaan Manajemen ASN', 'kepada Pejabat yang Berwenang di kementerian']
+Q: Presiden dapat mendelegasikan kewenangan pembinaan Manajemen ASN kepada Pejabat yang Berwenang (PyB) di antaranya yaitu...
+  A: Pimpinan redaksi media pers cetak swasta nasional
+  B: Ketua dewan perwakilan rakyat tingkat kabupaten
+  C: Direktur utama perusahaan penyedia tenaga kerja alih daya
+  D: Pimpinan organisasi masyarakat keagamaan daerah
+  E: Sekretaris jenderal kementerian atau sekretariat lembaga [KUNCI]
+------------------------------------------------------------
+NO 85 (Hlm 19, Kunci B)
+KW: ['Pejabat yang berwenang sebagaimana dimaksud memberikan rekomendasi usulan', 'kepada Pejabat Pembina Kepegawaian (PPK)']
+Q: Dalam proses pengangkatan pejabat administrasi, peran utama Pejabat yang Berwenang (PyB) adalah...
+  A: Menetapkan surat keputusan pengangkatan tanpa koordinasi
+  B: Memberikan rekomendasi usulan kepada Pejabat Pembina Kepegawaian [KUNCI]
+  C: Melakukan pelantikan pejabat di hadapan dewan perwakilan
+  D: Memotong tunjangan kinerja pejabat yang baru diangkat
+  E: Membatalkan undang-undang yang mengatur syarat jabatan
+------------------------------------------------------------
+NO 86 (Hlm 19, Kunci D)
+KW: ['mengusulkan pengangkatan, pemindahan, dan pemberhentian', 'Pejabat Administrasi dan Pejabat Fungsional']
+Q: Pejabat yang Berwenang mengusulkan pengangkatan, pemindahan, dan pemberhentian kepada PPK khusus untuk...
+  A: Menteri koordinator dan wakil menteri kabinet
+  B: Ketua dan wakil ketua komisi yudisial negara
+  C: Gubernur dan wakil gubernur hasil pemilihan
+  D: Pejabat Administrasi dan Pejabat Fungsional [KUNCI]
+  E: Panglima militer dan kepala staf angkatan
+------------------------------------------------------------
+NO 87 (Hlm 19, Kunci A)
+KW: ['Manajemen PNS pada Instansi Pusat dilaksanakan oleh pemerintah pusat', 'pada Instansi Daerah dilaksanakan oleh pemerintah daerah']
+Q: Penyelenggaraan Manajemen PNS pada tingkat instansi daerah dilaksanakan secara sah oleh...
+  A: Pemerintah daerah bersangkutan [KUNCI]
+  B: Konsulat jenderal negara sahabat
+  C: Yayasan kemanusiaan nirlaba lokal
+  D: Komando resor militer setempat
+  E: Kamar dagang dan industri daerah
+------------------------------------------------------------
+NO 88 (Hlm 19, Kunci C)
+KW: ['Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (PAN-RB)', 'menetapkan Kebijakan Perencanaan Kebutuhan Pegawai ASN secara nasional']
+Q: Otoritas yang berwenang menetapkan Kebijakan Perencanaan Kebutuhan Pegawai ASN secara nasional adalah...
+  A: Kepala Kepolisian Negara Republik Indonesia
+  B: Gubernur Bank Indonesia bidang moneter
+  C: Menteri Pendayagunaan Aparatur Negara dan RB [KUNCI]
+  D: Ketua Badan Pemeriksa Keuangan Republik
+  E: Menteri Perencanaan Pembangunan Nasional
+------------------------------------------------------------
+NO 89 (Hlm 19, Kunci E)
+KW: ['berdasarkan prioritas nasional', 'rencana pembangunan jangka menengah nasional']
+Q: Perencanaan Kebutuhan Pegawai ASN secara nasional ditetapkan oleh Menteri PAN-RB berlandaskan pada...
+  A: Hasil jajak pendapat popularitas partai politik
+  B: Laporan laba bersih emiten perseroan terbuka
+  C: Permintaan kuota sponsor dari organisasi kemasyarakatan
+  D: Jumlah pengajuan izin cuti melahirkan di daerah
+  E: Prioritas nasional sesuai rencana pembangunan menengah [KUNCI]
+------------------------------------------------------------
+NO 90 (Hlm 19, Kunci B)
+KW: ['Kebijakan dan manajemen ASN didasarkan pada', 'kualifikasi, kompetensi, dan kinerja']
+Q: Tiga pilar penilaian objektif yang menjadi dasar pertimbangan dalam setiap pengambilan keputusan karier ASN adalah...
+  A: Kekayaan pribadi, koneksi pejabat, dan popularitas
+  B: Kualifikasi pendidikan, kompetensi kerja, dan kinerja nyata [KUNCI]
+  C: Asal kedaerahan, suku keluarga, dan senioritas umur
+  D: Afiliasi organisasi kemasyarakatan dan pilihan politik
+  E: Besaran sumbangan sosial dan rekomendasi tokoh informal
+  NEGATIVE CUES: ['[A] pribadi: Kekayaan pribadi, koneksi pejabat, dan popularitas', '[C] keluarga: Asal kedaerahan, suku keluarga, dan senioritas umur']
+------------------------------------------------------------
+NO 91 (Hlm 20, Kunci E)
+KW: ['wajib menyusun kebutuhan jumlah dan jenis jabatan PNS', 'analisis jabatan dan analisis beban kerja']
+Q: Setiap Instansi Pemerintah wajib menyusun kebutuhan jumlah dan jenis jabatan PNS berdasarkan...
+  A: Perkiraan subjektif kepala subbagian kepegawaian
+  B: Jumlah pendaftar magang sukarela tahun sebelumnya
+  C: Permintaan kuota tambahan dari serikat pekerja dinas
+  D: Kapasitas daya tampung ruangan gedung kantor baru
+  E: Analisis jabatan dan analisis beban kerja organisasi [KUNCI]
+------------------------------------------------------------
+NO 92 (Hlm 20, Kunci B)
+KW: ['memperhatikan kondisi geografis daerah', 'jumlah penduduk, dan rasio alokasi anggaran belanja pegawai']
+Q: Selain analisis jabatan dan beban kerja, penyusunan kebutuhan formasi PNS wajib memperhatikan...
+  A: Hasil perolehan suara partai pemenang pemilihan umum
+  B: Kondisi geografis, jumlah penduduk, dan belanja pegawai [KUNCI]
+  C: Jumlah kendaraan dinas operasional yang tersedia
+  D: Tingkat suku bunga kredit perbankan komersial daerah
+  E: Daftar perusahaan swasta rekanan pengadaan barang
+------------------------------------------------------------
+NO 93 (Hlm 20, Kunci D)
+KW: ['mengumumkan secara terbuka kepada masyarakat', 'mempunyai kesempatan yang sama']
+Q: Prinsip kesetaraan kesempatan bagi seluruh WNI dalam pengadaan calon Pegawai ASN diwujudkan melalui kewajiban instansi untuk...
+  A: Merekrut pegawai baru melalui musyawarah tertutup pejabat
+  B: Membatasi pendaftaran hanya bagi kerabat aparatur aktif
+  C: Memprioritaskan lulusan dari satu almamater pimpinan dinas
+  D: Mengumumkan lowongan kebutuhan jabatan secara terbuka [KUNCI]
+  E: Menjual formulir pendaftaran melalui pihak ketiga swasta
+  BLACKLIST: ['[B] hanya: Membatasi pendaftaran hanya bagi kerabat aparatur aktif']
+  NEGATIVE CUES: ['[B] kerabat: Membatasi pendaftaran hanya bagi kerabat aparatur aktif']
+------------------------------------------------------------
+NO 94 (Hlm 20, Kunci A)
+KW: ['pengadaan PNS dilakukan secara nasional', 'Jabatan Administrasi (khusus pada Jabatan Pelaksana)']
+Q: Jabatan administrasi dalam instansi pemerintah yang dapat diisi melalui seleksi pengadaan PNS secara nasional adalah...
+  A: Khusus pada kelompok Jabatan Pelaksana [KUNCI]
+  B: Seluruh posisi Jabatan Administrator eselon tiga
+  C: Posisi pimpinan Jabatan Pengawas kepala subbagian
+  D: Seluruh jenjang Jabatan Pimpinan Tinggi Pratama
+  E: Posisi pimpinan Jabatan Pimpinan Tinggi Utama
+------------------------------------------------------------
+NO 95 (Hlm 20, Kunci C)
+KW: ['Jabatan Fungsional Keahlian', 'Jabatan Fungsional Ahli Pertama dan Ahli Muda']
+Q: Jenjang Jabatan Fungsional Keahlian yang dapat diisi melalui seleksi pengadaan PNS secara nasional adalah...
+  A: Jabatan Fungsional Ahli Utama dan Ahli Madya
+  B: Jabatan Fungsional Penyelia dan Fungsional Mahir
+  C: Jabatan Fungsional Ahli Pertama dan Ahli Muda [KUNCI]
+  D: Jabatan Fungsional Terampil dan Fungsional Pemula
+  E: Jabatan Administrator Utama dan Penata Keahlian
+------------------------------------------------------------
+NO 96 (Hlm 20, Kunci E)
+KW: ['Jabatan Fungsional Keterampilan', 'Jabatan Fungsional Pemula dan Terampil']
+Q: Jenjang Jabatan Fungsional Keterampilan yang dialokasikan dalam seleksi pengadaan PNS nasional adalah...
+  A: Jabatan Fungsional Penyelia dan Jabatan Mahir
+  B: Jabatan Fungsional Ahli Madya dan Ahli Utama
+  C: Jabatan Fungsional Ahli Muda dan Ahli Pertama
+  D: Jabatan Administrator dan Jabatan Pengawas Lini
+  E: Jabatan Fungsional Pemula dan Jabatan Terampil [KUNCI]
+------------------------------------------------------------
+NO 97 (Hlm 20, Kunci B)
+KW: ['Pengadaan PNS sebagaimana dimaksud dilakukan melalui tahapan', 'perencanaan, pengumuman lowongan, pelamaran, seleksi']
+Q: Secara kronologis berurutan, tahapan resmi dalam penyelenggaraan pengadaan PNS terdiri atas...
+  A: Pelamaran, masa percobaan, seleksi berkas, dan pengangkatan
+  B: Perencanaan, pengumuman, pelamaran, seleksi, hasil, percobaan, pengangkatan [KUNCI]
+  C: Pengumuman kelulusan, masa dinas, magang kerja, dan sumpah jabatan
+  D: Pelatihan dasar, seleksi kompetensi, wawancara direktur, dan SK dinas
+  E: Penetapan NIP, orientasi kerja, pelamaran, dan pembekalan materi tugas
+------------------------------------------------------------
+NO 98 (Hlm 20, Kunci D)
+KW: ['Penyelenggaraan seleksi sebagaimana dimaksud terdiri dari 3 (tiga) tahap', 'seleksi administrasi, seleksi kompetensi dasar, dan seleksi kompetensi bidang']
+Q: Tiga tahapan ujian seleksi pengadaan PNS yang wajib diselenggarakan secara objektif adalah...
+  A: Uji kebugaran jasmani, tes psikologi mendalam, dan wawancara ormas
+  B: Seleksi berkas keluarga, tes kepribadian dinas, dan portofolio kerja
+  C: Tes bahasa asing, ujian kepemimpinan regu, dan verifikasi keuangan
+  D: Seleksi administrasi, seleksi kompetensi dasar, dan seleksi kompetensi bidang [KUNCI]
+  E: Seleksi kesehatan umum, wawancara pejabat daerah, dan uji bakat seni
+  NEGATIVE CUES: ['[B] keluarga: Seleksi berkas keluarga, tes kepribadian dinas, dan portofolio kerja']
+------------------------------------------------------------
+NO 99 (Hlm 20, Kunci A)
+KW: ['Seleksi administrasi dalam tahap ini adalah untuk mencocokkan', 'persyaratan administrasi dengan dokumen pelamaran']
+Q: Fungsi utama dari penyelenggaraan tahap seleksi administrasi dalam pengadaan PNS adalah...
+  A: Mencocokkan persyaratan administrasi dengan dokumen pelamar [KUNCI]
+  B: Mengukur tingkat kecerdasan intelegensia dan logika abstrak
+  C: Menilai penguasaan substansi teknis spesialisasi jabatan
+  D: Menguji kemampuan fisik lari ketahanan di lapangan terbuka
+  E: Menentukan besaran gaji pokok yang akan diterima pegawai
+------------------------------------------------------------
+NO 100 (Hlm 20, Kunci C)
+KW: ['penilaian secara objektif berdasarkan kompetensi, kualifikasi', 'kebutuhan jabatan untuk diisi dari calon Pegawai ASN']
+Q: Penyelenggaraan seleksi pengadaan PNS wajib dilakukan secara objektif dengan menitikberatkan penilaian pada...
+  A: Besaran kontribusi finansial yang disetorkan pelamar
+  B: Afiliasi politik orang tua dan asal partai pendukung
+  C: Kompetensi, kualifikasi, dan persyaratan jabatan [KUNCI]
+  D: Tingkat kedekatan hubungan keluarga dengan panitia seleksi
+  E: Rekomendasi dari tokoh masyarakat dan pejabat daerah
+  NEGATIVE CUES: ['[D] keluarga: Tingkat kedekatan hubungan keluarga dengan panitia seleksi']
+------------------------------------------------------------
