@@ -350,7 +350,7 @@
       "pilihan": {
         "A": "Klaim santunan kecelakaan kerja dari asuransi umum",
         "B": "Gaji, upah, tunjangan, honorarium, bonus, dan pensiun",
-        "C": "Pemberian warisan tanah dan bangunan keluarga lurus",
+        "C": "Penerimaan santunan asuransi jiwa atau kecelakaan kerja dinas",
         "D": "Setoran tunai pengganti penyertaan modal saham baru",
         "E": "Bantuan bencana alam dari lembaga filantropi sosial"
       },
@@ -379,7 +379,7 @@
       "pilihan": {
         "A": "Penyerahan jasa kena pajak dengan pemotongan tarif PPN",
         "B": "Penerimaan santunan kemanusiaan bebas pengenaan tarif pajak",
-        "C": "Hadiah undian, pekerjaan, kegiatan, dan penghargaan objek PPh",
+        "C": "Hadiah perlombaan, pekerjaan, kegiatan, dan penghargaan objek PPh",
         "D": "Dividen terselubung atas penyertaan modal badan hukum",
         "E": "Bantuan sosial keagamaan yang dikecualikan dari pelaporan"
       },
@@ -1816,7 +1816,7 @@
       "pilihan": {
         "A": "Aset mesin bergerak yang disewa oleh korporasi industri",
         "B": "Bumi dan bangunan yang dimiliki, dikuasai, atau dimanfaatkan",
-        "C": "Hasil panen komoditas perkebunan yang dijual ke pasar induk",
+        "C": "Komoditas barang dagangan hasil produksi pabrik manufaktur",
         "D": "Penyerahan jasa kebersihan lingkungan oleh dinas pertamanan",
         "E": "Penjualan bahan material bangunan oleh toko bangunan lokal"
       },
@@ -2496,7 +2496,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Penerimaan Negara Bukan Pajak (PNBP) didefinisikan sebagai pungutan yang dibayar oleh...",
       "pilihan": {
-        "A": "Masyarakat umum berupa sumbangan sukarela tanpa dasar undang-undang",
+        "A": "Masyarakat umum berupa sumbangan sukarela di luar ketetapan tarif",
         "B": "Seluruh aparatur sipil negara dari pemotongan gaji rutin bulanan",
         "C": "Konsumen akhir atas konsumsi barang kena cukai tembakau",
         "D": "Importir barang modal atas bea masuk yang dilunasi di pabean",

@@ -1016,7 +1016,7 @@
         "B": "Penarikan langsung kas operasional rekening giro BUMN",
         "C": "Penetapan harga barang eceran toko BUMN oleh bendahara",
         "D": "Penyertaan modal negara dan setoran bagian laba/dividen",
-        "E": "Pemberian dana talangan tanpa dasar hukum undang-undang"
+        "E": "Pemberian pinjaman operasional di luar batas peruntukan BUMN"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
@@ -1526,7 +1526,7 @@
         "B": "Kebijakan pro-cyclical pengetatan anggaran negara",
         "C": "Kebijakan moneter kenaikan cadangan wajib perbankan",
         "D": "Penyerahan kendali fiskal kepada lembaga swasta",
-        "E": "Tindakan pemborosan kas negara tanpa dasar perundangan"
+        "E": "Kebijakan belanja berlebih di luar batas kerangka fiskal"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
@@ -1676,7 +1676,7 @@
         "B": "Pemberian pinjaman komersial kepada korporasi besar",
         "C": "Penetapan tingkat bunga simpanan perbankan swasta",
         "D": "Pengambilalihan aset produksi milik masyarakat luas",
-        "E": "Pembatasan volume panen komoditas pangan daerah"
+        "E": "Penetapan kuota produksi barang industri manufaktur daerah"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
@@ -2275,7 +2275,7 @@
         "A": "Menerbitkan SPM yang diuji keabsahannya oleh KPPN selaku kuasa BUN",
         "B": "Mencairkan dana belanja langsung melalui rekening pribadi bendahara",
         "C": "Meminta persetujuan lisan kepada direksi bank sentral setempat",
-        "D": "Menetapkan sendiri batasan alokasi pagu belanja tanpa dasar hukum",
+        "D": "Menetapkan batasan alokasi pagu belanja secara mandiri di satker",
         "E": "Mengalihkan anggaran pembangunan untuk kepentingan investasi saham"
       },
       "kunci_jawaban": "A",
@@ -2366,7 +2366,7 @@
         "B": "Ketua dewan perwakilan rakyat daerah",
         "C": "Kepala kantor perwakilan bank sentral daerah",
         "D": "Kepala satuan kerja perangkat daerah",
-        "E": "Koordinator paguyuban aparatur sipil daerah"
+        "E": "Pimpinan unit pelaksana teknis dinas daerah"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
@@ -2422,7 +2422,7 @@
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Berdasarkan Asas Tahunan, seluruh tagihan pembayaran yang timbul pada tahun berkenaan hanya boleh dibebankan pada...",
       "pilihan": {
-        "A": "DIPA tahun anggaran yang bersangkutan",
+        "A": "Dokumen DIPA resmi tahun anggaran yang bersangkutan",
         "B": "Estimasi pagu belanja dinas lima tahun berikutnya",
         "C": "Rekening penampungan taktis pimpinan unit kerja",
         "D": "Pos penerimaan dividen perusahaan milik pemerintah daerah",
@@ -2452,7 +2452,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Asas Universalitas mewajibkan seluruh pengeluaran dan penerimaan negara dimasukkan dalam APBN, yang menegaskan bahwa...",
       "pilihan": {
-        "A": "Pendapatan satker boleh dialihkan ke rekening organisasi paguyuban",
+        "A": "Pendapatan satker boleh dialihkan ke kas operasional mitra kerja",
         "B": "Dana non-budgeter tidak diperkenankan keberadaannya",
         "C": "Belanja operasional dinas boleh didanai dari kas titipan pihak ketiga",
         "D": "Unit kerja berhak membentuk pos anggaran rahasia tanpa pencatatan",
@@ -2515,7 +2515,7 @@
         "A": "Disajikan secara gelondongan tanpa batasan pos belanja",
         "B": "Disediakan dalam bentuk rekening cadangan tanpa peruntukan",
         "C": "Diberikan kebebasan dialihkan antarkementerian tanpa prosedur",
-        "D": "Dirinci dan jelas peruntukannya",
+        "D": "Disajikan secara terperinci dan jelas peruntukan belanjanya",
         "E": "Ditetapkan secara tertutup bagi pengawasan aparat pemeriksa"
       },
       "kunci_jawaban": "D",
@@ -2692,21 +2692,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Asas Keterbukaan membuka diri terhadap hak masyarakat untuk memperoleh informasi tentang keuangan negara yang bersifat...",
       "pilihan": {
-        "A": "Dibatasi bagi perwakilan asosiasi profesi ekonomi tertentu",
-        "B": "Dibatasi bagi perwakilan asosiasi profesi ekonomi tertentu",
-        "C": "Diberikan secara acak sesuai diskresi khusus pejabat berwenang",
-        "D": "Diberikan secara acak sesuai diskresi khusus pejabat berwenang",
-        "E": "Benar, jujur, dan tidak diskriminatif"
+        "A": "Rahasia jabatan yang diperuntukkan bagi pejabat perbendaharaan",
+        "B": "Terbatas bagi perwakilan anggota asosiasi atau lembaga riset perbankan",
+        "C": "Khusus dan disesuaikan menurut diskresi pimpinan pengelola kas daerah",
+        "D": "Mengikat secara internal pada forum koordinasi antar-instansi teknis",
+        "E": "Benar, jujur, akurat, dan tidak diskriminatif bagi seluruh warga"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
         "konsep_materi": "**Asas Keterbukaan** yaitu asas yang membuka diri terhadap hak masyarakat untuk memperoleh **informasi yang benar, jujur, dan tidak diskriminatif** tentang pengelolaan keuangan negara.",
         "alasan_kunci": "Opsi E tepat karena transparansi menuntut keterbukaan informasi publik yang valid, akurat, dan dapat diakses oleh seluruh lapisan masyarakat secara adil. Oleh karena itu, opsi E benar.",
         "bedah_pengecoh": {
-          "A": "Akses informasi keuangan terbuka bagi seluruh warga secara adil.",
-          "B": "Akses informasi keuangan terbuka bagi seluruh warga secara adil.",
-          "C": "Pemberian acak melanggar kepastian hukum hak keterbukaan informasi.",
-          "D": "Pemberian acak melanggar kepastian hukum hak keterbukaan informasi."
+          "A": "Informasi keuangan negara bersifat terbuka bagi publik luas dan bukan rahasia jabatan.",
+          "B": "Akses informasi fiskal tidak dibatasi bagi kelompok atau asosiasi tertentu.",
+          "C": "Informasi keuangan negara bersifat umum dan bukan konsumsi khusus pimpinan.",
+          "D": "Keterbukaan informasi menjangkau masyarakat luas, bukan forum internal instansi semata."
         },
         "sumber_rujukan": "Pengelolaan Keuangan Negara"
       }

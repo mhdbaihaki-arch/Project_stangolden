@@ -82,9 +82,9 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Anggaran negara berkedudukan sangat penting dalam tata kelola bernegara karena dokumen tersebut merupakan...",
       "pilihan": {
-        "A": "Keputusan tertutup jajaran direksi bank devisa",
+        "A": "Keputusan strategis pembiayaan jajaran direksi perbankan devisa",
         "B": "Pedoman pinjaman komersial bagi perseroan perbankan daerah",
-        "C": "Keputusan politik bersama antara pemerintah dan Dewan Perwakilan Rakyat",
+        "C": "Keputusan politik bersama pemerintah dan Dewan Perwakilan Rakyat",
         "D": "Ketentuan batas modal kerja persekutuan perdata bisnis",
         "E": "Rencana pembagian laba bersih konsorsium perusahaan swasta"
       },
@@ -2260,7 +2260,7 @@
         "B": "Pemberian dana hibah secara cuma-cuma oleh investor internasional",
         "C": "Kenaikan cadangan kas negara dari penerimaan dividen perbankan",
         "D": "Penghapusan seluruh beban bunga surat berharga negara",
-        "E": "Akses pembiayaan menjadi sulit atau beban biaya utang menjadi sangat mahal"
+        "E": "Beban biaya utang meningkat atau akses pembiayaan makin sulit"
       },
       "kunci_jawaban": "E",
       "pembahasan": {

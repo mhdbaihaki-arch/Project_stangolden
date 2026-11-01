@@ -1,0 +1,253 @@
+=== ALL LONG IN P5 ===
+Q1:
+  A: "Selambat-lambatnya dalam waktu tiga puluh hari dari dua paket calon peraih suara terbanyak"
+  B: "Paling lambat empat belas hari kerja sejak naskah pengunduran diri disahkan dewan"
+  C: "Maksimal enam puluh hari kalender sejak pembentukan panitia kerja darurat nasional"
+  D: "Dalam tenggat sembilan puluh hari setelah berkas pencalonan diverifikasi mahkamah"
+Q2:
+  B: "Selaku kepala pemerintahan (fungsi eksekutif dan fungsi legislatif) dan kepala negara"
+Q4:
+  D: "Memegang jabatan lima tahun dan dapat dipilih kembali dalam jabatan yang sama untuk satu kali"
+Q5:
+  C: "Mahkamah Agung mengeksekusi pemberhentian seketika tanpa melibatkan sidang majelis"
+  E: "Dapat diberhentikan dari jabatannya oleh MPR atas usul DPR berdasarkan putusan Mahkamah Konstitusi"
+Q8:
+  C: "Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama"
+Q9:
+  D: "Mengajukan usul perubahan pasal-pasal Undang-Undang Dasar oleh sekurang-kurangnya 1/3 dari jumlah anggota MPR"
+Q12:
+  C: "Menetapkan Peraturan Pemerintah untuk menjalankan undang-undang sebagaimana mestinya"
+Q16:
+  B: "Memegang kekuasaan tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara"
+Q17:
+  C: "Dengan persetujuan DPR, menyatakan perang, membuat perdamaian dan perjanjian internasional"
+Q18:
+  D: "Dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat, mengangkat duta dan konsul"
+Q19:
+  E: "Dengan memperhatikan pertimbangan Mahkamah Agung, memberi grasi, dan rehabilitasi"
+Q20:
+  A: "Dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat, memberi amnesti dan abolisi"
+Q24:
+  A: "Membentuk undang-undang yang dibahas dengan Presiden untuk mendapat persetujuan bersama"
+Q25:
+  B: "Membahas dan memberikan persetujuan atau penolakan atas peraturan pemerintah pengganti undang-undang"
+Q26:
+  E: "Mengalihkan alokasi belanja pendidikan menjadi pos bantuan modal perusahaan swasta"
+Q28:
+  E: "Melaksanakan pengawasan terhadap pelaksanaan UU, APBN, serta kebijakan pemerintah"
+Q30:
+  B: "Memberikan persetujuan kepada Presiden atas pengangkatan dan pemberhentian anggota Komisi Yudisial"
+Q32:
+  E: "Memilih tiga orang calon anggota hakim konstitusi dan mengajukannya kepada Presiden"
+Q37:
+  C: "Provinsi kepulauan diberikan hak kuota perwakilan dua kali lipat dibanding daratan"
+  D: "Jumlah kursi dewan ditentukan berdasarkan besarnya kontribusi pajak daerah ke APBN"
+  E: "Jumlah anggota DPD di setiap provinsi sama dan terdistribusi adil di seluruh wilayah"
+Q38:
+  A: "Jumlah seluruh anggota DPD tidak boleh lebih dari 1/3 dari jumlah anggota DPR"
+Q40:
+  C: "Anggota DPD dapat diberhentikan dari jabatannya yang syarat-syarat dan tata caranya diatur dalam undang-undang"
+Q41:
+  D: "Membatalkan peraturan daerah secara mandiri tanpa persetujuan menteri dalam negeri"
+  E: "Dapat mengajukan kepada DPR RUU yang berkaitan dengan otonomi daerah dan perimbangan keuangan"
+Q42:
+  A: "Membahas RUU pada bidang kedaerahan tersebut bersama-sama DPR sebelum dibahas bersama pemerintah"
+Q43:
+  B: "Melakukan pengawasan sebagai pertimbangan DPR atas pelaksanaan undang-undang mengenai otonomi daerah"
+Q44:
+  C: "Memberikan pertimbangan kepada DPR dalam pemilihan anggota Badan Pemeriksa Keuangan"
+Q45:
+  D: "Pemegang kekuasaan kehakiman dan penyelenggara peradilan yang merdeka untuk menegakkan hukum dan keadilan"
+Q46:
+  B: "Lembaga banding pertama bagi perkara tindak pidana pelanggaran pemilu kepala daerah"
+  E: "Pengadilan tertinggi bagi semua peradilan terlepas dari pengaruh Pemerintah dan pengaruh lainnya"
+Q47:
+  A: "Calon Hakim Agung diusulkan oleh Komisi Yudisial kepada DPR untuk mendapatkan persetujuan"
+  B: "Calon dipilih secara musyawarah tertutup oleh seluruh hakim agung aktif di pengadilan"
+  C: "Presiden mengangkat langsung para hakim tinggi peradilan tanpa keterlibatan dewan"
+  D: "Komisi aparatur sipil negara menyelenggarakan tes komputerisasi serentak di daerah"
+Q48:
+  B: "Ketua dan Wakil Ketua Mahkamah Agung dipilih dari dan oleh Hakim Agung secara internal"
+  D: "Pimpinan MA disahkan melalui rapat dengar pendapat umum bersama komisi kepolisian"
+Q50:
+  A: "Rancangan undang-undang kepegawaian dinas intelijen dan penegakan hukum peradilan"
+  C: "Rancangan peraturan pemerintah pengganti undang-undang tentang keadaan bahaya perang"
+  E: "Naskah nota kesepahaman antara kementerian negara dengan perusahaan multinasional"
+Q51:
+  A: "Memeriksa dan memutus permohonan peninjauan kembali pada tingkat pertama dan terakhir"
+  C: "Meninjau keabsahan konstitusional undang-undang terhadap undang-undang dasar negara"
+Q52:
+  C: "Memutus permohonan kasasi terhadap putusan pengadilan tingkat banding dari semua peradilan"
+  D: "Mengesahkan kepengurusan organisasi advokat tingkat nasional secara administratif"
+Q53:
+  E: "Menguji secara materiil terhadap peraturan perundangan di bawah undang-undang terhadap undang-undang"
+Q55:
+  C: "Merupakan sub-bagian teknis kepaniteraan peradilan pada lingkungan mahkamah agung"
+  D: "Bersifat mandiri, serta diangkat dan diberhentikan oleh Presiden dengan persetujuan DPR"
+Q58:
+  E: "Sembilan orang anggota Hakim Konstitusi yang diusulkan oleh Presiden, DPR, dan MA"
+Q59:
+  B: "Menguji undang-undang terhadap Undang-Undang Dasar Negara Republik Indonesia 1945"
+Q60:
+  D: "Memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar di MK"
+Q66:
+  B: "Menyerahkan hasil pemeriksaan atas pengelolaan dan tanggung jawab keuangan negara kepada DPR, DPD, dan DPRD"
+Q68:
+  C: "Kolektif konsensus, tertutup perwakilan, dan diselenggarakan saat kas APBN surplus"
+Q71:
+  C: "Mengatur dan mengurus sendiri urusan pemerintahan menurut asas otonomi dan tugas pembantuan"
+Q73:
+  A: "Kepala daerah diangkat secara mutlak oleh menteri dalam negeri atas dasar loyalitas"
+  B: "Gubernur, Bupati, Walikota masing-masing dipilih secara demokratis sesuai regulasi undang-undang"
+  C: "Jabatan kepala daerah diwariskan secara turun-temurun kepada garis keluarga penguasa"
+  E: "Pemilihan kepala daerah ditentukan melalui lelang kontribusi investasi modal asing"
+Q74:
+  B: "Seluruh urusan pelayanan publik wajib diputuskan secara terpusat di kantor kementerian"
+  C: "Pemerintah pusat melimpahkan wewenang peradilan dan pembentukan angkatan perang ke daerah"
+  D: "Pemerintahan daerah menjalankan otonomi seluas-luasnya, kecuali urusan pemerintahan yang ditentukan sebagai urusan pusat"
+Q75:
+  B: "Menerapkan standardisasi tata kelola yang seragam mutlak tanpa mempedulikan budaya"
+Q76:
+  B: "Daerah istimewa dibebaskan secara total dari kewajiban mematuhi konstitusi negara"
+  C: "Negara mengakui dan menghormati satuan-satuan pemda yang bersifat khusus atau istimewa"
+Q77:
+  E: "Negara mengakui dan menghormati kesatuan masyarakat hukum adat beserta hak tradisionalnya"
+Q79:
+  A: "Penyelenggaraan tata kelola daerah ditentukan oleh kesepakatan asosiasi kepala desa"
+  D: "Susunan dan tata cara penyelenggaraan pemerintahan daerah diatur dalam undang-undang"
+  E: "Birokrasi daerah berhak menyimpang dari pemberlakuan regulasi yang diterbitkan presiden"
+Q80:
+  A: "NKRI dibagi atas daerah provinsi dan daerah provinsi itu dibagi atas kabupaten dan kota"
+  B: "Indonesia merupakan federasi serikat yang terdiri dari negara-negara bagian otonom"
+  C: "Wilayah nasional disatukan dalam satu karesidenan tunggal di bawah kendali presiden"
+  E: "Batas teritorial daerah ditetapkan berdasarkan persebaran kepemilikan modal swasta"
+Q81:
+  D: "Kurun waktu pertama dari tanggal 18 Agustus 1945 hingga tanggal 27 Desember 1949"
+Q82:
+  A: "PPKI menetapkan Komite Nasional sebagai pembantu Presiden dalam menjalankan negara"
+Q83:
+  C: "Sistem Kabinet Presidensial yang harus dilaksanakan menurut UUD 1945 diubah menjadi Kabinet Parlementer"
+Q84:
+  E: "Berlaku konstitusi RIS dari tanggal 27 Desember 1949 hingga tanggal 17 Agustus 1950"
+Q85:
+  B: "Negara bagian Republik Indonesia yang beribukota Jogjakarta yang tetap memberlakukan UUD 1945"
+Q86:
+  D: "Sejak tanggal 17 Agustus 1950 hingga tanggal 5 Juli 1959 berlaku Undang-Undang Dasar Sementara 1950"
+Q87:
+  A: "Dekrit Presiden tanggal 5 Juli 1959 merupakan dasar hukum berlakunya UUD 1945 dalam kurun waktu kedua"
+Q88:
+  C: "Indonesia memusatkan segala upaya untuk mempertahankan kemerdekaan dari agresi kolonial Belanda"
+Q89:
+  E: "Diberlakukan pasal IV Aturan Peralihan UUD 1945 (asli) dalam penyelenggaraan kekuasaan"
+Q91:
+  B: "Penyelenggaraan peradilan kehakiman dipimpin langsung oleh pimpinan angkatan bersenjata"
+  C: "Kedaulatan negara diserahkan kepada pimpinan komisi jasa baik perserikatan bangsa"
+  D: "Presiden dilarang membentuk kabinet sebelum mendapat izin dari komite internasional"
+  E: "Sebelum MPR, DPR, DPA dibentuk menurut UUD ini, segala kekuasaannya dijalankan oleh Presiden dengan bantuan Komite Nasional"
+Q92:
+  B: "Kekuasaan Presiden sangat besar karena meliputi kewenangan semua lembaga-lembaga tinggi negara"
+  D: "Lembaga parlemen memegang kendali mutlak pencopotan pasangan dwitunggal proklamator"
+Q93:
+  D: "Maklumat Wakil Presiden No. X tanggal 16 Oktober 1945 yang ditandatangani Mohammad Hatta"
+Q94:
+  A: "Memegang kekuasaan legislatif dan ikut menetapkan Garis-Garis Besar daripada Haluan Negara"
+Q95:
+  C: "Usul Badan Pekerja Komite Nasional Indonesia Pusat (BPKNIP) pada tanggal 11 Nopember 1945"
+Q98:
+  D: "Para menteri dan perdana menteri bertanggung jawab kepada KNIP yang berfungsi sebagai DPR"
+Q99:
+  A: "Berlangsung amat singkat selama delapan bulan sejak 27 Desember 1949 hingga 17 Agustus 1950"
+  C: "Berjalan selama tiga dasawarsa sebelum akhirnya diamandemen oleh dewan perwakilan"
+  D: "Mencapai sepuluh tahun masa transisi di bawah perlindungan komisi perserikatan bangsa"
+Q100:
+  A: "Instruksi militer asing yang mewajibkan seluruh daerah melebur ke dalam persemakmuran"
+  B: "Kegagalan penandatanganan perjanjian utang luar negeri dengan serikat perbankan eropa"
+  C: "Timbul suatu keinginan dari negara-negara bagian RIS buatan Belanda yang merasa tidak cocok dan ingin bergabung ke RI"
+  D: "Penolakan mahkamah internasional terhadap permohonan keanggotaan federasi kepulauan"
+  E: "Keputusan mendadak pimpinan parlemen federal yang memecat seluruh perdana menteri bagian"
+=== ALL LONG IN P6 ===
+Q1:
+  A: "Pembubaran dan penggabungan negara-negara bagian itu dimungkinkan dalam pasal 43 dan pasal 49 Konstitusi RIS"
+  C: "Konstitusi federal melarang pembubaran entitas wilayah otonom tanpa izin ratu belanda"
+  E: "Pemerintah federal memegang hak monopoli mutlak membekukan dewan perwakilan daerah"
+Q5:
+  E: "Pada tanggal 17 Agustus 1950 Negara Indonesia yang berbentuk negara federal RIS menjadi negara kesatuan"
+Q6:
+  A: "Membuat rancangan perubahan Konstitusi RIS menjadi Undang-Undang Dasar Sementara (UUDS) 1950"
+Q9:
+  D: "Telah bergabung ke RI Yogyakarta dan menyisakan sedikit bagian yang belum bergabung"
+Q10:
+  B: "Aturan hukum tersebut sewaktu-waktu dapat dibatalkan oleh komisi perserikatan bangsa"
+  C: "Naskah undang-undang dasar disusun tersendiri tanpa melibatkan tokoh-tokoh pergerakan"
+  E: "Terbentuknya Undang-Undang Dasar Sementara (UUDS) dimaksudkan menunggu konstitusi definitif dari Konstituante"
+Q12:
+  C: "Para menteri yang dipimpin oleh Perdana Menteri bertanggung jawab kepada DPR/ Parlemen"
+Q13:
+  C: "Sistem feodalistik yang menempatkan aristokrasi sebagai pemegang mandat kekuasaan"
+Q15:
+  A: "Dasar hukum berlakunya UUD 1945 dalam kurun waktu kedua adalah Dekrit Presiden tanggal 5 Juli 1959"
+Q16:
+  B: "Bubarkan PKI, bersihkan kabinet dari unsur G-30-S/PKI, dan turunkan harga/perbaikan ekonomi"
+  D: "Pemilihan presiden secara langsung, penghapusan DPD, dan revisi undang-undang agraria"
+  E: "Pembekuan dewan perwakilan daerah, privatisasi BUMN, dan pinjaman perbankan asing"
+Q18:
+  D: "Presiden mengeluarkan Supersemar kepada Letjen Soeharto untuk mengambil tindakan pengamanan"
+Q20:
+  A: "Kurun waktu kedua berlakunya UUD 1945 dapat dibagi dalam empat periode ketatanegaraan"
+Q21:
+  C: "Menarik kembali mandat MPRS dari Presiden Ir. Soekarno dan mengangkat pejabat Presiden"
+Q22:
+  D: "Mengangkat Jenderal Soeharto sebagai Presiden tetap sampai terpilihnya Presiden hasil pemilu"
+Q26:
+  C: "Ketua lembaga-lembaga tinggi negara dijadikan menteri-menteri negara pembantu Presiden"
+Q27:
+  D: "Kekuasaan lembaga tinggi presiden sangat berperan dominan dibanding lembaga lainnya"
+Q29:
+  A: "Kurun waktu 11 Maret 1966 hingga 21 Mei 1998 yang dikenal dengan masa Orde Baru"
+Q30:
+  A: "Pasangan calon presiden dipilih langsung oleh seluruh rakyat melalui pemilu serentak"
+  C: "Presiden ditunjuk secara bergiliran oleh para pimpinan dewan perwakilan rakyat daerah"
+  D: "Kepala pemerintahan diangkat oleh mahkamah agung berdasarkan hasil uji kompetensi"
+  E: "Suksesi kepemimpinan diserahkan kepada kesepakatan tertutup dewan perbankan nasional"
+Q31:
+  D: "Pasal 104 TAP MPR No. I/MPR/1983 yang berketetapan mempertahankan dan tidak mengubah UUD 1945"
+Q34:
+  B: "Pencabutan dengan TAP MPR No. VIII/MPR/1998 karena tidak sejalan dengan Pasal 37 UUD"
+Q43:
+  B: "Bertugas melantik Presiden dan Wakil Presiden hasil pemilihan umum secara langsung oleh rakyat"
+Q45:
+  A: "MPR berwenang memberhentikan Presiden secara langsung atas kehendak pimpinan komisi"
+  D: "MPR memberhentikan Presiden atas usul DPR berdasarkan keputusan Mahkamah Konstitusi"
+Q46:
+  E: "Dengan tegas dinyatakan bahwa Presiden tidak dapat membekukan dan membubarkan DPR"
+Q50:
+  D: "Tidak ada lagi lembaga DPA, tetapi Presiden berwenang membentuk Dewan Pertimbangan"
+Q54:
+  D: "Sepakat untuk memindahkan hal-hal normatif dalam Penjelasan UUD ke dalam pasal-pasal"
+Q55:
+  C: "Menyusun piagam konstitusi darurat tanpa melampirkan teks undang-undang dasar asli"
+Q56:
+  A: "Ketetapan MPR No. IX/MPR/1999 tentang Penugasan Badan Pekerja Majelis Permusyawaratan Rakyat"
+  B: "Surat keputusan kementerian kehakiman mengenai pembentukan tim perumus undang-undang"
+Q58:
+  C: "Membatasi kekuasaan Presiden dan memperkuat kedudukan DPR sebagai lembaga legislatif"
+Q60:
+  B: "Perubahan naskah dilakukan melalui musyawarah tertutup antar pimpinan fraksi dewan"
+  E: "Perubahan UUD 1945 dilakukan secara bertahap pada Sidang Tahunan MPR dari 1999 hingga 2002"
+Q64:
+  E: "Naskah asli berisi 71 butir ketentuan, dan setelah empat kali perubahan mencakup 199 butir"
+Q65:
+  A: "Aturan Peralihan Pasal I, II, dan III serta Aturan Tambahan Pasal I dan II"
+Q67:
+  C: "Ketentuan tentang pendidikan dan kebudayaan termasuk alokasi anggaran minimal 20%"
+Q69:
+  E: "Ketentuan-ketentuan tentang Pemilihan Umum yang ditetapkan pada tanggal 9 November 2001"
+Q72:
+  D: "Tidak sedikitpun mengubah Negara Kesatuan Republik Indonesia menjadi bentuk negara lain"
+Q75:
+  B: "Tekad bangsa yang menjadi sumpah anak bangsa pada 1928 yang dikenal Sumpah Pemuda"
+Q76:
+  C: "Penghargaan terhadap cita-cita luhur pendiri bangsa yang menginginkan negara bangsa yang satu"
+Q79:
+  A: "Diperlukan pengaturan dalam peraturan perundang-undangan komprehensif bagi otonomi daerah"
+  C: "Seluruh pejabat daerah wajib diangkat dari kalangan aparatur pusat di kementerian"

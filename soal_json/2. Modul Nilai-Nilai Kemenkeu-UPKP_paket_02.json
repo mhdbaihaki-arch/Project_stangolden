@@ -331,7 +331,7 @@
         "A": "Instruksi Presiden Nomor 10 Tahun 2020",
         "B": "Keputusan Menteri Keuangan Nomor 312 Tahun 2011",
         "C": "Peraturan Pemerintah Nomor 94 Tahun 2021",
-        "D": "SE Nomor 20 Tahun 2021",
+        "D": "Surat Edaran Menpan RB Nomor 20 Tahun 2021",
         "E": "Peraturan Kepala BKN Nomor 5 Tahun 2022"
       },
       "kunci_jawaban": "D",
@@ -481,7 +481,7 @@
         "A": "Menerima standar besaran tunjangan daerah yang seragam",
         "B": "Memiliki masa penugasan dinas luar kota yang setara",
         "C": "Mengenakan seragam dinas harian bermotif identik",
-        "D": "Mempunyai core values yang sama",
+        "D": "Mempunyai core values dan semboyan kerja yang sama",
         "E": "Menjalani rotasi berkala lintas instansi pemerintah"
       },
       "kunci_jawaban": "D",
@@ -602,7 +602,7 @@
         "A": "Memahami dan memenuhi kebutuhan masyarakat",
         "B": "Ramah, cekatan, solutif, dan dapat diandalkan",
         "C": "Memberi kesempatan berbagai pihak untuk berkontribusi",
-        "D": "Melakukan perbaikan tiada henti",
+        "D": "Melakukan perbaikan tiada henti secara berkesinambungan",
         "E": "Melayani masyarakat dengan kesungguhan hati"
       },
       "kunci_jawaban": "C",
@@ -753,7 +753,7 @@
         "A": "Melakukan perbaikan layanan tiada henti",
         "B": "Menghargai setiap orang tanpa membedakan latar belakang",
         "C": "Menggerakkan sumber daya untuk tujuan bersama",
-        "D": "Memegang teguh ideologi dasar negara",
+        "D": "Memegang teguh ideologi dasar negara dan konstitusi",
         "E": "Melaksanakan tugas dengan cermat dan disiplin"
       },
       "kunci_jawaban": "B",
@@ -1302,7 +1302,7 @@
         "A": "Akuntabel dan Adaptif",
         "B": "Kompeten dan Loyal",
         "C": "Harmonis dan Kolaboratif",
-        "D": "Berorientasi Pelayanan dan Adaptif",
+        "D": "Pelayanan dan Adaptif",
         "E": "Akuntabel dan Kolaboratif"
       },
       "kunci_jawaban": "C",
@@ -1543,7 +1543,7 @@
         "B": "Keputusan Menteri Keuangan Nomor 312/KMK.01/2011",
         "C": "Surat Edaran Bersama Menteri Keuangan dan Kepala BKN",
         "D": "Peraturan Presiden Nomor 12 Tahun 2021",
-        "E": "Undang-Undang Nomor 17 Tahun 2003"
+        "E": "Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
@@ -1661,7 +1661,7 @@
       "pertanyaan": "Perilaku utama pertama dari nilai Integritas dalam panduan perilaku utama adalah...",
       "pilihan": {
         "A": "Mempunyai keahlian dan pengetahuan yang luas",
-        "B": "Memiliki sangka baik, saling percaya, dan saling menghormati",
+        "B": "Memiliki sangka baik dan saling menghormati",
         "C": "Melakukan perbaikan secara terus menerus",
         "D": "Melayani dengan berorientasi pada kepuasan",
         "E": "Bersikap jujur, tulus, dan dapat dipercaya"
@@ -1782,7 +1782,7 @@
       "pilihan": {
         "A": "Mengembangkan inovasi dan kreativitas kerja",
         "B": "Menjaga martabat dan tidak berbuat tercela",
-        "C": "Bekerja dengan hati",
+        "C": "Bekerja dengan hati dan dedikasi yang tinggi",
         "D": "Bersikap proaktif dan cepat tanggap melayani",
         "E": "Memiliki sangka baik dan saling menghormati"
       },
@@ -1960,10 +1960,10 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Perilaku utama kedua dari nilai Pelayanan dalam panduan perilaku utama kementerian adalah...",
       "pilihan": {
-        "A": "Melayani dengan berorientasi pada kepuasan pemangku kepentingan",
-        "B": "Memiliki sangka baik, saling percaya, dan saling menghormati",
+        "A": "Melayani berorientasi pada kepuasan para pemangku",
+        "B": "Memiliki sangka baik dan saling percaya antarsesama",
         "C": "Mempunyai keahlian dan pengetahuan yang luas",
-        "D": "Bersikap proaktif dan cepat tanggap",
+        "D": "Bersikap proaktif dan cepat tanggap melayani",
         "E": "Menjaga martabat dan tidak berbuat tercela"
       },
       "kunci_jawaban": "D",

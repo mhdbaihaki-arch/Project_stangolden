@@ -21,10 +21,10 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Apabila Presiden dan Wakil Presiden mangkat atau berhenti secara bersamaan dalam masa jabatannya, MPR wajib menyelenggarakan sidang suksesi dalam batas waktu...",
       "pilihan": {
-        "A": "Selambat-lambatnya dalam waktu tiga puluh hari dari dua paket calon peraih suara terbanyak",
-        "B": "Paling lambat empat belas hari kerja sejak naskah pengunduran diri disahkan dewan",
-        "C": "Maksimal enam puluh hari kalender sejak pembentukan panitia kerja darurat nasional",
-        "D": "Dalam tenggat sembilan puluh hari setelah berkas pencalonan diverifikasi mahkamah",
+        "A": "Selambat-lambatnya tiga puluh hari dari dua paket calon terbanyak",
+        "B": "Paling lambat empat belas hari kerja sejak pengunduran diri",
+        "C": "Maksimal enam puluh hari kalender sejak penetapan panitia",
+        "D": "Dalam tenggat sembilan puluh hari setelah verifikasi berkas",
         "E": "Tepat seratus dua puluh hari kerja terhitung sejak rapat pleno paripurna pertama"
       },
       "kunci_jawaban": "A",
@@ -51,7 +51,7 @@
       "pertanyaan": "Dalam sistem ketatanegaraan Indonesia pasca-amandemen UUD 1945, kedudukan Presiden Republik Indonesia dirumuskan sebagai...",
       "pilihan": {
         "A": "Pelaksana kekuasaan yudikatif tertinggi peradilan kasasi perkara tata usaha",
-        "B": "Selaku kepala pemerintahan (fungsi eksekutif dan fungsi legislatif) dan kepala negara",
+        "B": "Kepala pemerintahan (eksekutif dan legislatif) dan kepala negara",
         "C": "Pemimpin tunggal lembaga legislatif yang berwenang membubarkan parlemen",
         "D": "Mandataris mutlak majelis yang bertanggung jawab penuh kepada pimpinan fraksi",
         "E": "Ketua dewan pertimbangan yang menjalankan fungsi peradilan sengketa pemilu"
@@ -111,7 +111,7 @@
         "A": "Dapat memegang kekuasaan seumur hidup manakala didukung oleh konsensus dewan",
         "B": "Wajib meletakkan jabatan setelah tiga tahun pengabdian guna rotasi kabinet",
         "C": "Dapat dipilih berulang kali tanpa batasan periode asalkan disetujui mahkamah",
-        "D": "Memegang jabatan lima tahun dan dapat dipilih kembali dalam jabatan yang sama untuk satu kali",
+        "D": "Menjabat lima tahun dan dapat dipilih kembali untuk satu kali",
         "E": "Diberikan kewenangan memperpanjang mandat secara mandiri saat situasi krisis"
       },
       "kunci_jawaban": "D",
@@ -139,9 +139,9 @@
       "pilihan": {
         "A": "DPR memberhentikan Presiden secara langsung melalui rapat pleno internal komisi",
         "B": "Badan Pemeriksa Keuangan mencopot jabatan kepala negara atas dasar temuan audit",
-        "C": "Mahkamah Agung mengeksekusi pemberhentian seketika tanpa melibatkan sidang majelis",
+        "C": "Mahkamah Agung mengeksekusi pemberhentian tanpa sidang majelis",
         "D": "Kabinet kementerian mengambil alih kendali kekuasaan melalui mosi tidak percaya",
-        "E": "Dapat diberhentikan dari jabatannya oleh MPR atas usul DPR berdasarkan putusan Mahkamah Konstitusi"
+        "E": "Diberhentikan MPR atas usul DPR berdasar putusan Mahkamah Konstitusi"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -226,7 +226,7 @@
       "pilihan": {
         "A": "Panglima TNI, Kepala Kepolisian Negara, dan Kepala Badan Intelijen Negara",
         "B": "Menteri Koordinator Bidang Polhukam, Menteri Keuangan, dan Jaksa Agung",
-        "C": "Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama",
+        "C": "Menteri Luar Negeri, Dalam Negeri, dan Pertahanan bersama-sama",
         "D": "Ketua MPR, Ketua DPR, serta Ketua Dewan Perwakilan Daerah secara kolegial",
         "E": "Ketua Mahkamah Agung, Ketua Mahkamah Konstitusi, dan Ketua Komisi Yudisial"
       },
@@ -256,7 +256,7 @@
         "A": "Menerbitkan dekrit darurat pembubaran lembaga-lembaga tinggi negara",
         "B": "Membatalkan putusan peradilan tingkat banding perkara kejahatan perpajakan",
         "C": "Menetapkan besaran tarif retribusi daerah tanpa koordinasi pemerintah daerah",
-        "D": "Mengajukan usul perubahan pasal-pasal Undang-Undang Dasar oleh sekurang-kurangnya 1/3 dari jumlah anggota MPR",
+        "D": "Usul perubahan pasal diajukan sekurang-kurangnya 1/3 anggota MPR",
         "E": "Menyetujui pengangkatan pimpinan perusahaan milik negara secara administratif"
       },
       "kunci_jawaban": "D",
@@ -342,7 +342,7 @@
       "pilihan": {
         "A": "Menerbitkan fatwa hukum yang mengikat jalannya persidangan perkara perdata",
         "B": "Mengubah substansi pasal undang-undang secara langsung lewat surat edaran",
-        "C": "Menetapkan Peraturan Pemerintah untuk menjalankan undang-undang sebagaimana mestinya",
+        "C": "Menetapkan PP untuk menjalankan undang-undang sebagaimana mestinya",
         "D": "Menetapkan traktat bilateral tanpa memerlukan koordinasi perwakilan kementerian",
         "E": "Menginstruksikan pembatalan vonis hakim pengadilan umum demi stabilitas"
       },
@@ -373,7 +373,7 @@
         "B": "Mengesahkan undang-undang tanpa melibatkan pembahasan dengan komisi dewan",
         "C": "Membatalkan langsung undang-undang yang diterbitkan pada masa pemerintahan lalu",
         "D": "Mengajukan dan membahas rancangan undang-undang bersama DPR guna persetujuan",
-        "E": "Menetapkan sanksi pidana dalam keputusan presiden tanpa dasar undang-undang"
+        "E": "Menetapkan sanksi pidana dalam keputusan presiden di luar ketentuan UU"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
@@ -457,7 +457,7 @@
       "pertanyaan": "Berdasarkan Pasal 10 UUD 1945, wewenang Presiden Republik Indonesia dalam kapasitasnya sebagai Kepala Negara adalah...",
       "pilihan": {
         "A": "Memimpin peradilan mahkamah militer agung dalam pengadilan desersi pasukan",
-        "B": "Memegang kekuasaan tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara",
+        "B": "Memegang kekuasaan tertinggi atas Angkatan Darat, Laut, dan Udara",
         "C": "Menetapkan pangkat perwira menengah di daerah tanpa melalui seleksi dinas",
         "D": "Menginstruksikan mobilisasi militer untuk kepentingan kampanye pemilihan umum",
         "E": "Menyita sarana transportasi sipil tanpa kompensasi pada waktu kondisi damai"
@@ -487,7 +487,7 @@
       "pilihan": {
         "A": "Meminta pertimbangan tertulis dari dewan pimpinan mahkamah konstitusi",
         "B": "Melakukan konsultasi tertutup dengan komite pertahanan negara tetangga",
-        "C": "Dengan persetujuan DPR, menyatakan perang, membuat perdamaian dan perjanjian internasional",
+        "C": "Menyatakan perang dan membuat perdamaian atas persetujuan DPR",
         "D": "Menunggu persetujuan aklamasi dari seluruh pimpinan satuan kerja dinas",
         "E": "Mendapatkan rekomendasi mandiri dari dewan pertimbangan daerah provinsi"
       },
@@ -517,7 +517,7 @@
         "A": "Menyerahkan proses seleksi sepenuhnya kepada organisasi profesi advokat",
         "B": "Meminta pengujian kepatutan administratif kepada badan pemeriksa keuangan",
         "C": "Mendapatkan rekomendasi mutlak dari komisi yudisial bidang pengawasan hakim",
-        "D": "Dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat, mengangkat duta dan konsul",
+        "D": "Mengangkat duta dan konsul dengan memperhatikan pertimbangan DPR",
         "E": "Mengangkat calon secara mandiri tanpa memerlukan pertimbangan lembaga dewan"
       },
       "kunci_jawaban": "D",
@@ -547,7 +547,7 @@
         "B": "Melalui referendum umum masyarakat pemilih di wilayah terjadinya pidana",
         "C": "Atas instruksi tertulis dari komite etik asosiasi advokat seluruh wilayah",
         "D": "Setelah mendapatkan persetujuan tertulis dari seluruh anggota parlemen",
-        "E": "Dengan memperhatikan pertimbangan Mahkamah Agung, memberi grasi, dan rehabilitasi"
+        "E": "Memberi grasi dan rehabilitasi dengan pertimbangan Mahkamah Agung"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -572,7 +572,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Ketentuan Pasal 14 ayat (2) UUD 1945 menegaskan bahwa pemberian pengampunan massal berupa amnesti dan abolisi oleh Presiden dilakukan...",
       "pilihan": {
-        "A": "Dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat, memberi amnesti dan abolisi",
+        "A": "Memberi amnesti dan abolisi dengan memperhatikan pertimbangan DPR",
         "B": "Melalui penetapan keputusan pengadilan tinggi tata usaha negara",
         "C": "Atas pertimbangan mutlak ketua komisi pemilihan umum pusat",
         "D": "Berdasarkan permohonan tertulis dari majelis hakim mahkamah agung",
@@ -689,7 +689,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Pelaksanaan wewenang legislasi oleh Dewan Perwakilan Rakyat diwujudkan melalui mekanisme konstitusional yaitu...",
       "pilihan": {
-        "A": "Membentuk undang-undang yang dibahas dengan Presiden untuk mendapat persetujuan bersama",
+        "A": "Membentuk undang-undang yang dibahas bersama Presiden",
         "B": "Menetapkan peraturan pemerintah secara mandiri saat situasi keamanan kondusif",
         "C": "Mengesahkan surat edaran kementerian menjadi undang-undang organik negara",
         "D": "Mengubah tata urutan perundang-undangan melalui keputusan pimpinan komisi",
@@ -719,7 +719,7 @@
       "pertanyaan": "Ketika Presiden menetapkan Peraturan Pemerintah Pengganti Undang-Undang (Perpu), wewenang yang wajib dijalankan DPR pada masa sidang berikutnya adalah...",
       "pilihan": {
         "A": "Menyerahkan naskah Perpu tersebut kepada kejaksaan agung untuk penuntutan",
-        "B": "Membahas dan memberikan persetujuan atau penolakan atas peraturan pemerintah pengganti undang-undang",
+        "B": "Membahas dan memberi persetujuan atau penolakan atas Perppu",
         "C": "Menyusun permohonan pembatalan Perpu kepada majelis hakim pengadilan tinggi",
         "D": "Menginstruksikan aparatur daerah guna memboikot pelaksanaan isi naskah perpu",
         "E": "Menetapkan sanksi administratif langsung terhadap menteri penerbit naskah perpu"
@@ -751,7 +751,7 @@
         "B": "Menyusun rancangan belanja daerah tanpa berkoordinasi dengan pemerintah pusat",
         "C": "Memperhatikan pertimbangan DPD atas RUU APBN dan RUU bidang tertentu tersebut",
         "D": "Menetapkan besaran tarif cukai komoditas impor secara rahasia tanpa persetujuan",
-        "E": "Mengalihkan alokasi belanja pendidikan menjadi pos bantuan modal perusahaan swasta"
+        "E": "Mengalihkan belanja pendidikan menjadi pos bantuan modal swasta"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
@@ -809,7 +809,7 @@
         "B": "Mengawasi tata peribadatan keagamaan masyarakat dalam kehidupan sehari-hari",
         "C": "Memeriksa secara langsung pembukuan kas bendahara umum di daerah terpencil",
         "D": "Menjatuhkan sanksi kurungan pidana kepada pimpinan lembaga swadaya masyarakat",
-        "E": "Melaksanakan pengawasan terhadap pelaksanaan UU, APBN, serta kebijakan pemerintah"
+        "E": "Mengawasi pelaksanaan UU, APBN, serta kebijakan pemerintah"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -864,7 +864,7 @@
       "pertanyaan": "Wewenang DPR dalam mendukung pembentukan lembaga Komisi Yudisial menurut UUD 1945 adalah...",
       "pilihan": {
         "A": "Memimpin sidang pemeriksaan etik hakim yang diadukan oleh masyarakat umum",
-        "B": "Memberikan persetujuan kepada Presiden atas pengangkatan dan pemberhentian anggota Komisi Yudisial",
+        "B": "Menyetujui usulan pengangkatan dan pemberhentian anggota KY",
         "C": "Menunjuk secara mandiri calon anggota komisi tanpa proses panitia seleksi",
         "D": "Mengesahkan tata cara persidangan peradilan kasasi di lingkungan mahkamah",
         "E": "Membatalkan berkas rekomendasi sanksi yang diajukan komisi ke mahkamah"
@@ -925,7 +925,7 @@
         "B": "Memberhentikan secara mendadak hakim konstitusi yang berbeda pendapat hukum",
         "C": "Menguji kelayakan putusan peradilan konstitusi mengenai pengujian undang-undang",
         "D": "Membatalkan hasil putusan sengketa pemilihan umum yang ditetapkan oleh mahkamah",
-        "E": "Memilih tiga orang calon anggota hakim konstitusi dan mengajukannya kepada Presiden"
+        "E": "Memilih tiga calon hakim konstitusi dan mengajukannya ke Presiden"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -1070,9 +1070,9 @@
       "pilihan": {
         "A": "Provinsi dengan populasi penduduk terpadat memperoleh alokasi kursi terbanyak",
         "B": "Ibu kota negara memiliki hak monopoli menentukan separuh dari total kursi dewan",
-        "C": "Provinsi kepulauan diberikan hak kuota perwakilan dua kali lipat dibanding daratan",
-        "D": "Jumlah kursi dewan ditentukan berdasarkan besarnya kontribusi pajak daerah ke APBN",
-        "E": "Jumlah anggota DPD di setiap provinsi sama dan terdistribusi adil di seluruh wilayah"
+        "C": "Provinsi kepulauan diberi kuota perwakilan dua kali lipat daratan",
+        "D": "Jumlah kursi dewan ditentukan besaran kontribusi pajak ke APBN",
+        "E": "Jumlah anggota DPD setiap provinsi sama dan berkeadilan merata"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -1097,7 +1097,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Berdasarkan Pasal 22C ayat (2) UUD 1945, batasan kuota seluruh anggota DPD secara nasional diatur agar...",
       "pilihan": {
-        "A": "Jumlah seluruh anggota DPD tidak boleh lebih dari 1/3 dari jumlah anggota DPR",
+        "A": "Jumlah seluruh anggota DPD paling banyak 1/3 jumlah anggota DPR",
         "B": "Tepat menyamai separuh dari total pejabat struktural eselon satu kementerian",
         "C": "Mencapai sekurang-kurangnya dua pertiga dari jumlah anggota parlemen nasional",
         "D": "Dibatasi paling banyak seratus orang perwakilan dari pulau-pulau besar",
@@ -1157,7 +1157,7 @@
       "pilihan": {
         "A": "Pemberhentian diputuskan sekehendak pimpinan organisasi kemasyarakatan daerah",
         "B": "Gubernur berwenang memecat anggota DPD yang berbeda pandangan pembangunan daerah",
-        "C": "Anggota DPD dapat diberhentikan dari jabatannya yang syarat-syarat dan tata caranya diatur dalam undang-undang",
+        "C": "Pemberhentian anggota DPD diatur syarat dan tata caranya dalam UU",
         "D": "Pemberhentian wajib disetujui melalui pemungutan suara tertutup oleh kementerian",
         "E": "Anggota dewan tidak dapat diberhentikan dalam kondisi apa pun hingga akhir hayat"
       },
@@ -1187,8 +1187,8 @@
         "A": "Mengesahkan undang-undang perpajakan tanpa melibatkan persetujuan dari DPR",
         "B": "Menerbitkan obligasi daerah otonom tanpa melalui pengawasan kementerian keuangan",
         "C": "Menetapkan struktur tarif bea masuk komoditas perdagangan lintas kepulauan",
-        "D": "Membatalkan peraturan daerah secara mandiri tanpa persetujuan menteri dalam negeri",
-        "E": "Dapat mengajukan kepada DPR RUU yang berkaitan dengan otonomi daerah dan perimbangan keuangan"
+        "D": "Membatalkan peraturan daerah secara mandiri tanpa izin menteri",
+        "E": "Mengajukan RUU bidang otonomi dan perimbangan keuangan ke DPR"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -1213,7 +1213,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Terkait rancangan undang-undang bidang kedaerahan, keterlibatan DPD dalam proses pembentukan regulasi diatur melalui wewenang untuk...",
       "pilihan": {
-        "A": "Membahas RUU pada bidang kedaerahan tersebut bersama-sama DPR sebelum dibahas bersama pemerintah",
+        "A": "Membahas RUU bidang kedaerahan bersama DPR sebelum dengan pemerintah",
         "B": "Memegang hak veto mutlak terhadap keputusan akhir sidang paripurna DPR",
         "C": "Menetapkan sanksi pidana kurungan bagi kepala daerah yang tidak hadir rapat",
         "D": "Mengubah susunan fraksi politik dewan perwakilan secara mandiri di parlemen",
@@ -1243,7 +1243,7 @@
       "pertanyaan": "Pelaksanaan fungsi pengawasan oleh Dewan Perwakilan Daerah menurut UUD 1945 diwujudkan melalui kewenangan untuk...",
       "pilihan": {
         "A": "Menyelenggarakan penyidikan tindak pidana penyalahgunaan keuangan desa",
-        "B": "Melakukan pengawasan sebagai pertimbangan DPR atas pelaksanaan undang-undang mengenai otonomi daerah",
+        "B": "Mengawasi pelaksanaan undang-undang mengenai otonomi daerah bagi DPR",
         "C": "Menyita berkas laporan pertanggungjawaban dinas perpajakan tingkat kota",
         "D": "Menonaktifkan bupati atau walikota yang terlambat menyampaikan laporan APBD",
         "E": "Membekukan operasional badan usaha milik daerah yang mengalami kerugian kas"
@@ -1273,7 +1273,7 @@
       "pilihan": {
         "A": "Menetapkan susunan auditor pelaksana audit forensik di seluruh provinsi",
         "B": "Mengesahkan anggaran operasional badan pemeriksa secara mandiri dan final",
-        "C": "Memberikan pertimbangan kepada DPR dalam pemilihan anggota Badan Pemeriksa Keuangan",
+        "C": "Memberikan pertimbangan kepada DPR dalam pemilihan anggota BPK",
         "D": "Menjatuhkan putusan etik profesi akuntan terhadap pimpinan lembaga pemeriksa",
         "E": "Memimpin sidang pleno penyerahan laporan hasil pemeriksaan anggaran tahunan"
       },
@@ -1303,7 +1303,7 @@
         "A": "Badan pendukung eksekutif dalam penertiban administrasi perpajakan daerah",
         "B": "Lembaga penasihat hukum resmi bagi jajaran kementerian koordinator pemerintahan",
         "C": "Komisi penyelidik independen perkara kejahatan lintas batas kedaulatan negara",
-        "D": "Pemegang kekuasaan kehakiman dan penyelenggara peradilan yang merdeka untuk menegakkan hukum dan keadilan",
+        "D": "Pelaksana kekuasaan kehakiman yang merdeka demi hukum dan keadilan",
         "E": "Pengawas kedisiplinan operasional bagi aparatur sipil negara di kementerian"
       },
       "kunci_jawaban": "D",
@@ -1330,10 +1330,10 @@
       "pertanyaan": "Fungsi Mahkamah Agung sebagai puncak hierarki peradilan di Indonesia ditegaskan melalui status yuridis bahwa MA merupakan...",
       "pilihan": {
         "A": "Mitra koordinasi penuntutan umum di bawah instruksi menteri koordinator",
-        "B": "Lembaga banding pertama bagi perkara tindak pidana pelanggaran pemilu kepala daerah",
+        "B": "Lembaga banding pertama tindak pidana pelanggaran pilkada daerah",
         "C": "Instansi pembina teknis bagi kepolisian resor dan kejaksaan negeri di daerah",
         "D": "Pengadilan arbitrase dagang khusus untuk penyelesaian utang korporasi asing",
-        "E": "Pengadilan tertinggi bagi semua peradilan terlepas dari pengaruh Pemerintah dan pengaruh lainnya"
+        "E": "Pengadilan tertinggi bagi semua peradilan yang merdeka dan mandiri"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -1358,10 +1358,10 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Berdasarkan UUD 1945, tata cara seleksi dan pengusulan calon Hakim Agung diatur melalui mekanisme bahwa...",
       "pilihan": {
-        "A": "Calon Hakim Agung diusulkan oleh Komisi Yudisial kepada DPR untuk mendapatkan persetujuan",
-        "B": "Calon dipilih secara musyawarah tertutup oleh seluruh hakim agung aktif di pengadilan",
-        "C": "Presiden mengangkat langsung para hakim tinggi peradilan tanpa keterlibatan dewan",
-        "D": "Komisi aparatur sipil negara menyelenggarakan tes komputerisasi serentak di daerah",
+        "A": "Calon Hakim Agung diusulkan Komisi Yudisial kepada DPR untuk disetujui",
+        "B": "Calon dipilih melalui musyawarah tertutup oleh seluruh hakim agung",
+        "C": "Presiden mengangkat langsung para hakim tinggi tanpa dewan",
+        "D": "Komisi ASN menyelenggarakan tes komputerisasi serentak daerah",
         "E": "Menteri hukum mengajukan daftar nama calon kepada pimpinan lembaga kejaksaan"
       },
       "kunci_jawaban": "A",
@@ -1388,9 +1388,9 @@
       "pertanyaan": "Asas demokrasi internal dalam kepemimpinan puncak badan peradilan tercermin dalam aturan bahwa...",
       "pilihan": {
         "A": "Ketua MA ditunjuk secara bergantian oleh pimpinan fraksi partai politik parlemen",
-        "B": "Ketua dan Wakil Ketua Mahkamah Agung dipilih dari dan oleh Hakim Agung secara internal",
+        "B": "Ketua dan Wakil Ketua MA dipilih dari dan oleh Hakim Agung",
         "C": "Presiden menetapkan pimpinan pengadilan tertinggi berdasarkan urutan masa dinas",
-        "D": "Pimpinan MA disahkan melalui rapat dengar pendapat umum bersama komisi kepolisian",
+        "D": "Pimpinan MA disahkan melalui dengar pendapat komisi kepolisian",
         "E": "Menteri koordinator menugaskan pejabat eselon utama menduduki kursi kepaniteraan"
       },
       "kunci_jawaban": "B",
@@ -1445,11 +1445,11 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Fungsi pemberian pertimbangan oleh Dewan Perwakilan Daerah kepada DPR difokuskan pada pembahasan...",
       "pilihan": {
-        "A": "Rancangan undang-undang kepegawaian dinas intelijen dan penegakan hukum peradilan",
+        "A": "RUU kepegawaian dinas intelijen dan penegakan hukum peradilan",
         "B": "Perjanjian bantuan hibah militer luar negeri dengan perwakilan negara sahabat",
-        "C": "Rancangan peraturan pemerintah pengganti undang-undang tentang keadaan bahaya perang",
+        "C": "Rancangan Perppu tentang status keadaan bahaya perang nasional",
         "D": "RUU APBN dan RUU yang berkaitan dengan pajak, pendidikan, dan agama",
-        "E": "Naskah nota kesepahaman antara kementerian negara dengan perusahaan multinasional"
+        "E": "Nota kesepahaman antara kementerian negara dengan swasta asing"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
@@ -1474,9 +1474,9 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Salah satu tugas dan wewenang yudisial Mahkamah Agung dalam penegakan kepastian hukum adalah...",
       "pilihan": {
-        "A": "Memeriksa dan memutus permohonan peninjauan kembali pada tingkat pertama dan terakhir",
+        "A": "Memutus permohonan PK pada tingkat pertama dan terakhir",
         "B": "Mengadili perkara perselisihan hasil penghitungan suara pemilihan kepala daerah",
-        "C": "Meninjau keabsahan konstitusional undang-undang terhadap undang-undang dasar negara",
+        "C": "Meninjau keabsahan konstitusional undang-undang terhadap UUD",
         "D": "Memutuskan pembubaran organisasi partai politik peserta pemilu legislatif",
         "E": "Memberhentikan secara langsung jaksa penuntut umum yang mangkir dalam sidang"
       },
@@ -1505,8 +1505,8 @@
       "pilihan": {
         "A": "Menerbitkan surat paksa bayar pajak bagi wajib pajak perorangan yang mangkir",
         "B": "Mengaudit laporan keuangan badan amil zakat tingkat kabupaten secara periodik",
-        "C": "Memutus permohonan kasasi terhadap putusan pengadilan tingkat banding dari semua peradilan",
-        "D": "Mengesahkan kepengurusan organisasi advokat tingkat nasional secara administratif",
+        "C": "Memutus kasasi putusan pengadilan tingkat banding semua peradilan",
+        "D": "Mengesahkan kepengurusan organisasi advokat nasional administratif",
         "E": "Menyita barang bukti tindak pidana umum sebelum dimulainya proses persidangan"
       },
       "kunci_jawaban": "C",
@@ -1536,7 +1536,7 @@
         "B": "Menilai keabsahan instruksi menteri terhadap aturan tata tertib internal dewan",
         "C": "Membatalkan undang-undang yang dinilai bertentangan dengan ketentuan konvensi",
         "D": "Menguji ketetapan majelis permusyawaratan terhadap asas umum pemerintahan",
-        "E": "Menguji secara materiil terhadap peraturan perundangan di bawah undang-undang terhadap undang-undang"
+        "E": "Menguji materiil peraturan di bawah undang-undang terhadap UU"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -1593,8 +1593,8 @@
       "pilihan": {
         "A": "Berada di bawah koordinasi administratif kementerian hukum dan hak asasi",
         "B": "Berwenang memutus perkara kasasi tindak pidana khusus pada tingkat pertama",
-        "C": "Merupakan sub-bagian teknis kepaniteraan peradilan pada lingkungan mahkamah agung",
-        "D": "Bersifat mandiri, serta diangkat dan diberhentikan oleh Presiden dengan persetujuan DPR",
+        "C": "Sub-bagian teknis kepaniteraan peradilan lingkungan mahkamah agung",
+        "D": "Mandiri, serta diangkat dan diberhentikan Presiden atas persetujuan DPR",
         "E": "Memiliki hierarki struktural kepengurusan berjenjang hingga tingkat kecamatan"
       },
       "kunci_jawaban": "D",
@@ -1682,7 +1682,7 @@
         "B": "Lima belas orang delegasi fakultas hukum negeri seluruh wilayah kepulauan",
         "C": "Sebelas orang pakar hukum tata negara yang diangkat seumur hidup oleh majelis",
         "D": "Lima orang pimpinan lembaga tinggi negara perwakilan kementerian koordinator",
-        "E": "Sembilan orang anggota Hakim Konstitusi yang diusulkan oleh Presiden, DPR, dan MA"
+        "E": "Sembilan hakim konstitusi yang diusulkan Presiden, DPR, dan MA"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -1708,7 +1708,7 @@
       "pertanyaan": "Tugas dan wewenang pertama Mahkamah Konstitusi menurut Pasal 24C ayat (1) UUD 1945 adalah...",
       "pilihan": {
         "A": "Menyelenggarakan peninjauan kembali perkara tindak pidana korporasi swasta",
-        "B": "Menguji undang-undang terhadap Undang-Undang Dasar Negara Republik Indonesia 1945",
+        "B": "Menguji undang-undang terhadap Undang-Undang Dasar Negara 1945",
         "C": "Menguji keabsahan peraturan pemerintah terhadap norma undang-undang pembentukan",
         "D": "Menjatuhkan putusan kasasi perkara perselisihan ketenagakerjaan kementerian",
         "E": "Mengadili pelanggaran disiplin aparatur sipil negara di lingkungan birokrasi"
@@ -1739,7 +1739,7 @@
         "A": "Rapat koordinasi menteri koordinator bidang politik hukum dan keamanan",
         "B": "Majelis peradilan tata usaha negara tingkat pertama di ibu kota provinsi",
         "C": "Sidang khusus dewan kehormatan penyelenggara pemilihan umum pusat",
-        "D": "Memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar di MK",
+        "D": "Memutus sengketa kewenangan lembaga negara yang diberikan UUD",
         "E": "Forum musyawarah pimpinan komisi pemilihan umum bersama badan adhoc"
       },
       "kunci_jawaban": "D",
@@ -1911,7 +1911,7 @@
       "pertanyaan": "Setelah menuntaskan audit keuangan negara, kewajiban konstitusional yang wajib dilaksanakan oleh BPK adalah...",
       "pilihan": {
         "A": "Menjual dokumen temuan audit kepada lembaga riset swasta internasional",
-        "B": "Menyerahkan hasil pemeriksaan atas pengelolaan dan tanggung jawab keuangan negara kepada DPR, DPD, dan DPRD",
+        "B": "Menyerahkan hasil audit keuangan negara kepada DPR, DPD, dan DPRD",
         "C": "Menyita secara mandiri gedung kantor pemerintah yang memiliki temuan belanja",
         "D": "Menjatuhkan putusan pemecatan seketika kepada pimpinan instansi terperiksa",
         "E": "Mengubah susunan anggaran kementerian secara otoritatif di luar dewan"
@@ -1970,7 +1970,7 @@
       "pilihan": {
         "A": "Langsung, umum, bebas, rahasia, jujur, dan adil setiap lima tahun sekali",
         "B": "Terbuka perwakilan, bertahap, fleksibel, dan terjadwal setiap tiga tahun sekali",
-        "C": "Kolektif konsensus, tertutup perwakilan, dan diselenggarakan saat kas APBN surplus",
+        "C": "Kolektif konsensus, tertutup perwakilan, dan saat kas APBN surplus",
         "D": "Berjenjang melalui delegasi utusan adat tanpa jadwal periodisasi yang baku",
         "E": "Mandatoris partai, terpusat di ibu kota, dan digelar sewaktu-waktu atas dekrit"
       },
@@ -2057,7 +2057,7 @@
       "pilihan": {
         "A": "Menerapkan seluruh instruksi menteri secara mutlak tanpa penyesuaian lokal",
         "B": "Membentuk mata uang regional guna membiayai belanja operasional kantor",
-        "C": "Mengatur dan mengurus sendiri urusan pemerintahan menurut asas otonomi dan tugas pembantuan",
+        "C": "Mengatur urusan pemerintahan berdasar asas otonomi dan pembantuan",
         "D": "Menetapkan traktat perbatasan dengan otoritas perwakilan negara tetangga",
         "E": "Membubarkan satuan peradilan umum yang berada di wilayah teritorial daerah"
       },
@@ -2113,11 +2113,11 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Berdasarkan Pasal 18 ayat (4) UUD 1945, suksesi kepemimpinan eksekutif di tingkat daerah dilaksanakan melalui ketentuan bahwa...",
       "pilihan": {
-        "A": "Kepala daerah diangkat secara mutlak oleh menteri dalam negeri atas dasar loyalitas",
-        "B": "Gubernur, Bupati, Walikota masing-masing dipilih secara demokratis sesuai regulasi undang-undang",
-        "C": "Jabatan kepala daerah diwariskan secara turun-temurun kepada garis keluarga penguasa",
+        "A": "Kepala daerah diangkat mutlak oleh menteri atas dasar loyalitas",
+        "B": "Gubernur, Bupati, Walikota dipilih demokratis sesuai undang-undang",
+        "C": "Jabatan kepala daerah diwariskan kepada garis keluarga penguasa",
         "D": "Kepala dinas senior secara otomatis dilantik menduduki kursi bupati dan walikota",
-        "E": "Pemilihan kepala daerah ditentukan melalui lelang kontribusi investasi modal asing"
+        "E": "Pemilihan kepala daerah ditentukan melalui lelang kontribusi modal"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
@@ -2143,9 +2143,9 @@
       "pertanyaan": "Prinsip pembagian kewenangan pemerintahan antara pusat dan daerah menurut Pasal 18 ayat (5) UUD 1945 diatur bahwa...",
       "pilihan": {
         "A": "Daerah berwenang mengendalikan kebijakan moneter dan mencetak uang lokal",
-        "B": "Seluruh urusan pelayanan publik wajib diputuskan secara terpusat di kantor kementerian",
-        "C": "Pemerintah pusat melimpahkan wewenang peradilan dan pembentukan angkatan perang ke daerah",
-        "D": "Pemerintahan daerah menjalankan otonomi seluas-luasnya, kecuali urusan pemerintahan yang ditentukan sebagai urusan pusat",
+        "B": "Seluruh urusan publik wajib diputuskan terpusat di kementerian",
+        "C": "Pemerintah pusat melimpahkan wewenang militer dan peradilan ke daerah",
+        "D": "Menjalankan otonomi seluasnya, kecuali urusan yang ditentukan pusat",
         "E": "Pemerintah daerah tidak memiliki kewenangan mengatur tata kelola fasilitas umum"
       },
       "kunci_jawaban": "D",
@@ -2172,7 +2172,7 @@
       "pertanyaan": "Dalam mengatur hubungan wewenang antara pemerintah pusat dan daerah, UUD 1945 mewajibkan adanya prinsip untuk...",
       "pilihan": {
         "A": "Memperhatikan kekhususan dan keragaman daerah dalam kerangka kesatuan negara",
-        "B": "Menerapkan standardisasi tata kelola yang seragam mutlak tanpa mempedulikan budaya",
+        "B": "Standardisasi tata kelola seragam tanpa mempedulikan budaya lokal",
         "C": "Menghapuskan kearifan lokal yang telah berkembang di tengah masyarakat suku",
         "D": "Memberikan hak pemisahan wilayah bagi daerah yang berpenghasilan tambang tinggi",
         "E": "Membatasi komunikasi resmi antara kepala daerah dengan jajaran kementerian"
@@ -2201,8 +2201,8 @@
       "pertanyaan": "Berdasarkan Pasal 18B ayat (1) UUD 1945, sikap konstitusional negara terhadap daerah yang memiliki keistimewaan historis ditegaskan bahwa...",
       "pilihan": {
         "A": "Pemerintah pusat menghapus otonomi khusus demi unifikasi tata kelola wilayah",
-        "B": "Daerah istimewa dibebaskan secara total dari kewajiban mematuhi konstitusi negara",
-        "C": "Negara mengakui dan menghormati satuan-satuan pemda yang bersifat khusus atau istimewa",
+        "B": "Daerah istimewa dibebaskan dari kewajiban mematuhi konstitusi",
+        "C": "Negara mengakui satuan pemda yang bersifat khusus atau istimewa",
         "D": "Wilayah khusus diwajibkan membentuk angkatan bersenjata mandiri tingkat provinsi",
         "E": "Status keistimewaan daerah dicabut apabila terjadi pergantian kepemimpinan pusat"
       },
@@ -2233,7 +2233,7 @@
         "B": "Masyarakat adat dilarang menggunakan bahasa daerah dalam pergaulan sehari-hari",
         "C": "Tanah ulayat adat diambil alih secara mutlak oleh korporasi tanpa ganti rugi",
         "D": "Lembaga peradilan adat memegang wewenang memvonis hukuman pidana mati nasional",
-        "E": "Negara mengakui dan menghormati kesatuan masyarakat hukum adat beserta hak tradisionalnya"
+        "E": "Negara mengakui kesatuan masyarakat adat beserta hak tradisionalnya"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -2260,7 +2260,7 @@
       "pilihan": {
         "A": "Wajib memiliki kepengurusan formal yang disahkan oleh pimpinan dewan perwakilan",
         "B": "Sepanjang masih hidup dan sesuai dengan perkembangan masyarakat dan prinsip NKRI",
-        "C": "Harus menyerahkan separuh hasil panen pertanian ke kas perbendaharaan pusat",
+        "C": "Wajib menyetorkan pungutan retribusi adat ke kas perbendaharaan pusat",
         "D": "Dibatasi pada wilayah teritorial yang berpenduduk lebih dari satu juta jiwa",
         "E": "Wajib menggunakan bahasa pengantar asing dalam pertemuan musyawarah adat"
       },
@@ -2287,11 +2287,11 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Berdasarkan Pasal 18 ayat (6) UUD 1945, pembentukan kelembagaan serta operasional pemerintahan daerah diatur melalui amanat bahwa...",
       "pilihan": {
-        "A": "Penyelenggaraan tata kelola daerah ditentukan oleh kesepakatan asosiasi kepala desa",
+        "A": "Tata kelola daerah ditentukan kesepakatan asosiasi kepala desa",
         "B": "Tata kerja dinas daerah diserahkan kepada dewan arbitrase perdagangan kawasan",
         "C": "Struktur satuan kerja perangkat daerah ditetapkan sekehendak pimpinan komisi",
-        "D": "Susunan dan tata cara penyelenggaraan pemerintahan daerah diatur dalam undang-undang",
-        "E": "Birokrasi daerah berhak menyimpang dari pemberlakuan regulasi yang diterbitkan presiden"
+        "D": "Susunan dan tata cara pemerintahan daerah diatur dalam undang-undang",
+        "E": "Birokrasi daerah berhak menyimpang dari regulasi presiden"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
@@ -2316,11 +2316,11 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Konsep pembagian wilayah Negara Kesatuan Republik Indonesia menurut Pasal 18 ayat (1) UUD 1945 dirumuskan dengan ketentuan bahwa...",
       "pilihan": {
-        "A": "NKRI dibagi atas daerah provinsi dan daerah provinsi itu dibagi atas kabupaten dan kota",
-        "B": "Indonesia merupakan federasi serikat yang terdiri dari negara-negara bagian otonom",
-        "C": "Wilayah nasional disatukan dalam satu karesidenan tunggal di bawah kendali presiden",
+        "A": "NKRI dibagi atas daerah provinsi, dan provinsi dibagi kabupaten/kota",
+        "B": "Indonesia merupakan federasi dari negara-negara bagian otonom",
+        "C": "Wilayah nasional disatukan dalam satu karesidenan kendali presiden",
         "D": "Daerah kabupaten memegang kedaulatan mutlak yang setara dengan pemerintah pusat",
-        "E": "Batas teritorial daerah ditetapkan berdasarkan persebaran kepemilikan modal swasta"
+        "E": "Batas teritorial daerah ditetapkan berdasar persebaran modal swasta"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
@@ -2348,7 +2348,7 @@
         "A": "Mulai tanggal 17 Agustus 1945 hingga tanggal 17 Agustus 1950 secara penuh",
         "B": "Terhitung sejak 27 Desember 1949 hingga terbitnya dekrit presiden 1959",
         "C": "Sejak pengesahan piagam jakarta hingga pembentukan dewan perancang nasional",
-        "D": "Kurun waktu pertama dari tanggal 18 Agustus 1945 hingga tanggal 27 Desember 1949",
+        "D": "Kurun waktu pertama dari 18 Agustus 1945 hingga 27 Desember 1949",
         "E": "Mulai 5 Juli 1959 hingga rangkaian sidang umum majelis tahun 1965"
       },
       "kunci_jawaban": "D",
@@ -2374,7 +2374,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Karena lembaga tinggi negara (MPR, DPR, DPA) belum dapat dibentuk pada awal kemerdekaan, langkah yang diambil PPKI adalah...",
       "pilihan": {
-        "A": "PPKI menetapkan Komite Nasional sebagai pembantu Presiden dalam menjalankan negara",
+        "A": "PPKI menetapkan Komite Nasional pembantu Presiden jalankan negara",
         "B": "Menyerahkan kekuasaan administratif kepada kantor perwakilan sekutu",
         "C": "Membentuk dewan militer darurat guna mengambil alih kendali pemerintahan",
         "D": "Menunjuk gubernur jenderal sebagai kepala pemerintahan sementara waktu",
@@ -2405,7 +2405,7 @@
       "pilihan": {
         "A": "Penghapusan status kedaulatan teritorial negara kesatuan oleh pemerintah pusat",
         "B": "Pembentukan dewan moneter yang mencetak mata uang gulden secara massal",
-        "C": "Sistem Kabinet Presidensial yang harus dilaksanakan menurut UUD 1945 diubah menjadi Kabinet Parlementer",
+        "C": "Sistem Presidensial menurut UUD 1945 diubah menjadi Parlementer",
         "D": "Pengalihan wewenang panglima angkatan perang kepada pimpinan kepolisian",
         "E": "Pemberian hak veto kepada delegasi korporasi swasta dalam sidang kabinet"
       },
@@ -2436,7 +2436,7 @@
         "B": "Sepanjang masa agresi militer belanda pertama di wilayah kepulauan jawa",
         "C": "Mulai pembacaan teks proklamasi hingga penyerahan mandat perdana menteri",
         "D": "Sejak 17 Agustus 1950 hingga penetapan dekrit presiden 5 Juli 1959",
-        "E": "Berlaku konstitusi RIS dari tanggal 27 Desember 1949 hingga tanggal 17 Agustus 1950"
+        "E": "Berlaku Konstitusi RIS dari 27 Desember 1949 hingga 17 Agustus 1950"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -2462,7 +2462,7 @@
       "pertanyaan": "Meskipun Konstitusi RIS diberlakukan secara federal, status UUD 1945 pada kurun 1949–1950 tetap dipertahankan oleh...",
       "pilihan": {
         "A": "Seluruh negara bagian boneka bentukan van Mook di wilayah timur",
-        "B": "Negara bagian Republik Indonesia yang beribukota Jogjakarta yang tetap memberlakukan UUD 1945",
+        "B": "Negara bagian RI ibukota Jogjakarta yang tetap berlakukan UUD 1945",
         "C": "Pemerintah distrik militer di kepulauan riau dan sekitarnya",
         "D": "Dewan perwakilan persekutuan dagang di pelabuhan tanjung priok",
         "E": "Kantor administrasi komisi jasa baik perserikatan bangsa-bangsa"
@@ -2493,7 +2493,7 @@
         "A": "Rancangan konstitusi piagam jakarta yang disempurnakan panitia sembilan",
         "B": "Kitab hukum tata negara transisi yang disahkan oleh komite arbitrase",
         "C": "Naskah undang-undang dasar persemakmuran bentukan konferensi den haag",
-        "D": "Sejak tanggal 17 Agustus 1950 hingga tanggal 5 Juli 1959 berlaku Undang-Undang Dasar Sementara 1950",
+        "D": "Sejak 17 Agustus 1950 hingga 5 Juli 1959 berlaku naskah UUDS 1950",
         "E": "Maklumat dewan perancang undang-undang darurat perang tahun 1950"
       },
       "kunci_jawaban": "D",
@@ -2519,7 +2519,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Landasan yuridis yang mengembalikan pemberlakuan UUD 1945 untuk kurun waktu kedua di Indonesia adalah...",
       "pilihan": {
-        "A": "Dekrit Presiden tanggal 5 Juli 1959 merupakan dasar hukum berlakunya UUD 1945 dalam kurun waktu kedua",
+        "A": "Dekrit Presiden 5 Juli 1959 dasar hukum UUD 1945 kurun waktu kedua",
         "B": "Resolusi majelis umum dewan perdamaian internasional perserikatan bangsa",
         "C": "Putusan bersama antara pimpinan fraksi parlemen dan mahkamah agung",
         "D": "Instruksi kepala staf komando pemulihan keamanan dan ketertiban nasional",
@@ -2550,7 +2550,7 @@
       "pilihan": {
         "A": "Terjadinya krisis pertikaian perebutan batas perairan maritim antarprovinsi",
         "B": "Adanya penolakan massal terhadap naskah pembukaan undang-undang dasar",
-        "C": "Indonesia memusatkan segala upaya untuk mempertahankan kemerdekaan dari agresi kolonial Belanda",
+        "C": "Memusatkan upaya pertahankan kemerdekaan dari agresi kolonial",
         "D": "Ketiadaan tenaga ahli sarjana hukum perundang-undangan di seluruh daerah",
         "E": "Kegagalan perbankan nasional dalam menstabilkan cadangan emas perbendaharaan"
       },
@@ -2581,7 +2581,7 @@
         "B": "Dekrit penyerahan kedaulatan sementara kepada komite palang merah internasional",
         "C": "Penerapan instruksi darurat sipil yang disahkan oleh perwakilan negara sekutu",
         "D": "Perjanjian bantuan administrasi militer antara kementerian dengan milisi rakyat",
-        "E": "Diberlakukan pasal IV Aturan Peralihan UUD 1945 (asli) dalam penyelenggaraan kekuasaan"
+        "E": "Diberlakukan pasal IV Aturan Peralihan UUD 1945 dalam kekuasaan"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -2636,10 +2636,10 @@
       "pertanyaan": "Rumusan yuridis Pasal IV Aturan Peralihan UUD 1945 naskah asli menegaskan bunyi ketentuan bahwa...",
       "pilihan": {
         "A": "Kekuasaan presiden berakhir seketika apabila dewan pertimbangan agung terbentuk",
-        "B": "Penyelenggaraan peradilan kehakiman dipimpin langsung oleh pimpinan angkatan bersenjata",
-        "C": "Kedaulatan negara diserahkan kepada pimpinan komisi jasa baik perserikatan bangsa",
-        "D": "Presiden dilarang membentuk kabinet sebelum mendapat izin dari komite internasional",
-        "E": "Sebelum MPR, DPR, DPA dibentuk menurut UUD ini, segala kekuasaannya dijalankan oleh Presiden dengan bantuan Komite Nasional"
+        "B": "Peradilan kehakiman dipimpin langsung oleh komandan militer",
+        "C": "Kedaulatan diserahkan kepada komisi jasa baik perserikatan bangsa",
+        "D": "Presiden dilarang membentuk kabinet sebelum izin komite asing",
+        "E": "Sebelum MPR/DPR/DPA dibentuk, kekuasaan dijalankan Presiden dan KNIP"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -2665,9 +2665,9 @@
       "pertanyaan": "Konsekuensi ketatanegaraan dari penerapan Pasal IV Aturan Peralihan UUD 1945 pada awal kemerdekaan adalah...",
       "pilihan": {
         "A": "Kekuasaan eksekutif terbagi habis ke berbagai dewan pertimbangan daerah otonom",
-        "B": "Kekuasaan Presiden sangat besar karena meliputi kewenangan semua lembaga-lembaga tinggi negara",
+        "B": "Kekuasaan Presiden sangat besar meliputi kewenangan semua lembaga",
         "C": "Presiden kehilangan kendali operasional atas jajaran perwira tentara nasional",
-        "D": "Lembaga parlemen memegang kendali mutlak pencopotan pasangan dwitunggal proklamator",
+        "D": "Parlemen memegang kendali pencopotan dwitunggal proklamator",
         "E": "Birokrasi pemerintahan dijalankan sepenuhnya oleh penasihat ekonomi asing"
       },
       "kunci_jawaban": "B",
@@ -2696,7 +2696,7 @@
         "A": "Dekrit kepala staf angkatan bersenjata tentang tata tertib persidangan darurat",
         "B": "Resolusi bersama dewan perwakilan serikat buruh dan tani seluruh indonesia",
         "C": "Surat keputusan kementerian penerangan mengenai susunan fraksi politik dewan",
-        "D": "Maklumat Wakil Presiden No. X tanggal 16 Oktober 1945 yang ditandatangani Mohammad Hatta",
+        "D": "Maklumat Wakil Presiden No. X tanggal 16 Oktober 1945 oleh Hatta",
         "E": "Instruksi tertulis pimpinan kesultanan jogjakarta kepada jajaran pamong praja"
       },
       "kunci_jawaban": "D",
@@ -2722,7 +2722,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Berdasarkan Maklumat No. X tanggal 16 Oktober 1945, wewenang baru yang diberikan kepada Komite Nasional Pusat adalah...",
       "pilihan": {
-        "A": "Memegang kekuasaan legislatif dan ikut menetapkan Garis-Garis Besar daripada Haluan Negara",
+        "A": "Memegang kekuasaan legislatif dan ikut menetapkan haluan negara",
         "B": "Menyelenggarakan peradilan kasasi sengketa perdata waris di daerah",
         "C": "Mengangkat dan memberhentikan para menteri koordinator secara independen",
         "D": "Menetapkan besaran tarif cukai tembakau impor dari pelabuhan luar negeri",
@@ -2753,7 +2753,7 @@
       "pilihan": {
         "A": "Gugatan peradilan tata usaha negara dari kalangan pegawai pamong praja",
         "B": "Tuntutan resmi dari perwakilan korps diplomatik komisi pengawasan sekutu",
-        "C": "Usul Badan Pekerja Komite Nasional Indonesia Pusat (BPKNIP) pada tanggal 11 Nopember 1945",
+        "C": "Usul Badan Pekerja KNIP (BPKNIP) pada tanggal 11 Nopember 1945",
         "D": "Mosi tidak percaya serentak dari gabungan pimpinan militer di yogyakarta",
         "E": "Hasil referendum pemilih yang diselenggarakan serentak di lima provinsi"
       },
@@ -2841,7 +2841,7 @@
         "A": "Menteri bertanggung jawab secara eksklusif kepada pimpinan partai pendukung",
         "B": "Perdana menteri dapat mencopot anggota dewan perwakilan secara otoritatif",
         "C": "Pemerintah bertanggung jawab kepada majelis permusyawaratan tingkat karesidenan",
-        "D": "Para menteri dan perdana menteri bertanggung jawab kepada KNIP yang berfungsi sebagai DPR",
+        "D": "Para menteri dan perdana menteri bertanggung jawab kepada KNIP",
         "E": "Kabinet sekadar menyampaikan laporan kinerja kepada komisi pengawas sekutu"
       },
       "kunci_jawaban": "D",
@@ -2867,10 +2867,10 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Durasi keberadaan bentuk negara federal Republik Indonesia Serikat (RIS) dalam lintasan sejarah Indonesia adalah...",
       "pilihan": {
-        "A": "Berlangsung amat singkat selama delapan bulan sejak 27 Desember 1949 hingga 17 Agustus 1950",
+        "A": "Berlangsung delapan bulan sejak 27 Desember 1949 hingga 17 Agustus 1950",
         "B": "Bertahan selama lima tahun penuh hingga terselenggaranya pemilu demokratis 1955",
-        "C": "Berjalan selama tiga dasawarsa sebelum akhirnya diamandemen oleh dewan perwakilan",
-        "D": "Mencapai sepuluh tahun masa transisi di bawah perlindungan komisi perserikatan bangsa",
+        "C": "Berjalan tiga dasawarsa sebelum diamandemen oleh dewan perwakilan",
+        "D": "Mencapai sepuluh tahun transisi di bawah komisi perserikatan bangsa",
         "E": "Berlangsung selama dua tahun kalender terhitung sejak pembacaan dekrit presiden"
       },
       "kunci_jawaban": "A",
@@ -2896,11 +2896,11 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Faktor pendorong utama yang menyebabkan runtuhnya bentuk negara federal RIS dan kembalinya bentuk NKRI pada 17 Agustus 1950 adalah...",
       "pilihan": {
-        "A": "Instruksi militer asing yang mewajibkan seluruh daerah melebur ke dalam persemakmuran",
-        "B": "Kegagalan penandatanganan perjanjian utang luar negeri dengan serikat perbankan eropa",
-        "C": "Timbul suatu keinginan dari negara-negara bagian RIS buatan Belanda yang merasa tidak cocok dan ingin bergabung ke RI",
-        "D": "Penolakan mahkamah internasional terhadap permohonan keanggotaan federasi kepulauan",
-        "E": "Keputusan mendadak pimpinan parlemen federal yang memecat seluruh perdana menteri bagian"
+        "A": "Instruksi militer asing agar seluruh daerah lebur ke persemakmuran",
+        "B": "Kegagalan perjanjian utang luar negeri dengan perbankan eropa",
+        "C": "Keinginan negara bagian RIS bentukan Belanda bergabung kembali ke RI",
+        "D": "Penolakan mahkamah internasional atas keanggotaan federasi",
+        "E": "Keputusan mandiri parlemen federal memecat perdana menteri bagian"
       },
       "kunci_jawaban": "C",
       "pembahasan": {

@@ -787,7 +787,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Pengujian kepatuhan pengeluaran uang negara pada hakikatnya mencakup pemeriksaan...",
       "pilihan": {
-        "A": "Pemeriksaan iuran keanggotaan organisasi paguyuban kantor",
+        "A": "Pemeriksaan kas operasional sekretariat dewan pembina yayasan",
         "B": "Pemeriksaan atas penerimaan dan anggaran belanja negara",
         "C": "Penilaian perolehan omzet penjualan toko ritel swasta",
         "D": "Pengujian tarif sewa kendaraan angkutan umum perkotaan",
@@ -848,7 +848,7 @@
       "pilihan": {
         "A": "Pemeriksaan tingkat kunjungan wisatawan di tempat rekreasi",
         "B": "Pemeriksaan atas batas kewajaran laba perusahaan swasta",
-        "C": "Pemeriksaan atas volume produksi panen komoditas pangan",
+        "C": "Pemeriksaan atas target volume penjualan komoditas korporasi",
         "D": "Pemeriksaan atas kehematan dan efisiensi keuangan negara",
         "E": "Pemeriksaan mutu bahan bangunan proyek perumahan warga"
       },
@@ -1803,7 +1803,7 @@
         "B": "Pedoman Akuntansi Komersial Perbankan Investasi Wall Street",
         "C": "Standar Pembukuan Koperasi Simpan Pinjam Asia Pasifik",
         "D": "Ketentuan Pelaporan Pajak Penghasilan Badan Usaha Asing",
-        "E": "Petunjuk Teknis Pembukuan Kas Paguyuban Warga Perumahan"
+        "E": "Petunjuk Teknis Pembukuan Unit Usaha Koperasi Karyawan Swasta"
       },
       "kunci_jawaban": "A",
       "pembahasan": {

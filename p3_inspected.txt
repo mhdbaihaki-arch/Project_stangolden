@@ -1,0 +1,430 @@
+=== NOMOR 4 (Hlm 31, Kunci D) ===
+Q (13 w): Jaminan pensiun dan jaminan hari tua diberikan kepada PNS dengan fungsi utama sebagai...
+  A (64 ch, 8 w): Pajak pemotongan wajib untuk pendanaan kontestasi politik daerah
+  B (61 ch, 7 w): Uang kompensasi atas pelepasan kewarganegaraan aparatur sipil
+  C (59 ch, 8 w): Pinjaman modal kerja bagi pembukaan kegiatan bisnis pribadi
+  D (70 ch, 8 w): Perlindungan kesinambungan penghasilan hari tua serta penghargaan jasa
+  E (60 ch, 9 w): Modal investasi saham berisiko tinggi pada pasar bursa modal
+  Min len: 59, Max len: 70, Diff: 11
+Alasan: Opsi D merupakan filosofi perlindungan sosial negara bagi purnakaryawan aparatur sipil. Setelah puluhan tahun mengabdi, negara menjamin kestabilan finansial aparatur di masa lanjut usia sebagai hak dan wujud terima kasih bangsa. Regulasi menegaskan fungsinya sebagai perlindungan kesinambungan penghasilan dan penghargaan. Oleh karena itu, opsi D adalah pilihan yang tepat.
+
+=== NOMOR 6 (Hlm 31, Kunci A) ===
+Q (20 w): Sebuah kementerian menggabungkan dua badan riset menjadi satu entitas baru sehingga terjadi perampingan organisasi. Pegawai terdampak yang memenuhi kriteria memperoleh...
+  A (58 ch, 8 w): Hak pensiun dini dengan hormat sesuai kebijakan pemerintah
+  B (59 ch, 8 w): Pemberhentian tidak dengan hormat tanpa uang pesangon dinas
+  C (61 ch, 8 w): Hukuman disiplin berat karena tidak mampu mempertahankan unit
+  D (63 ch, 8 w): Kewajiban mengembalikan seluruh gaji yang pernah diterima dinas
+  E (59 ch, 8 w): Pemindahan paksa menjadi pegawai kontrak lepas tanpa status
+  Min len: 58, Max len: 63, Diff: 5
+Alasan: Opsi A merupakan perlindungan hak kepegawaian dalam restrukturisasi birokrasi negara. Pegawai yang terdampak penataan organisasi pemerintah dan memenuhi ambang usia/masa kerja berhak menerima pensiun dini terhormat beserta jaminan hari tua. Aturan menegaskan hak pensiun dini akibat perampingan organisasi. Oleh karena itu, opsi A adalah pilihan yang tepat.
+
+=== NOMOR 7 (Hlm 31, Kunci B) ===
+Q (15 w): Pengelolaan jaminan pensiun dan jaminan hari tua bagi aparatur sipil negara terintegrasi ke dalam kerangka...
+  A (56 ch, 6 w): Asuransi komersial swasta internasional tanpa pengawasan
+  B (57 ch, 7 w): Program jaminan sosial nasional yang diatur undang-undang
+  C (54 ch, 7 w): Koperasi simpan pinjam pegawai di lingkungan kelurahan
+  D (53 ch, 7 w): Yayasan filantropi bantuan sosial bencana alam daerah
+  E (56 ch, 7 w): Perkumpulan arisan keluarga aparatur sipil negara daerah
+  Min len: 53, Max len: 57, Diff: 4
+Alasan: Opsi B merupakan kebijakan unifikasi sistem proteksi sosial nasional. Jaminan pensiun ASN dipayungi regulasi sistem jaminan sosial nasional guna memastikan tata kelola dana yang akuntabel, transparan, dan berkelanjutan. Aturan menegaskan jaminan pensiun diberikan dalam program jaminan sosial nasional. Dengan demikian, opsi B adalah jawaban yang benar.
+
+=== NOMOR 9 (Hlm 31, Kunci D) ===
+Q (15 w): PNS yang dinyatakan tidak cakap jasmani dan/atau rohani oleh tim penguji kesehatan pegawai diberhentikan dengan...
+  A (58 ch, 9 w): Tidak dengan hormat dan dicabut seluruh hak santunan dinas
+  B (60 ch, 7 w): Pemberhentian sementara tanpa hak jaminan kesinambungan gaji
+  C (58 ch, 8 w): Penurunan pangkat tiga tingkat di bawah jenjang sebelumnya
+  D (64 ch, 8 w): Hormat dengan hak pensiun sesuai ketentuan peraturan perundangan
+  E (60 ch, 8 w): Sanksi kewajiban membayar denda perawatan kepada rumah sakit
+  Min len: 58, Max len: 64, Diff: 6
+Alasan: Opsi D merupakan perlakuan hukum yang adil bagi aparatur yang mengalami disabilitas kerja permanen. Berdasarkan surat keterangan tim penguji kesehatan resmi, pegawai diberhentikan secara terhormat dan diberikan hak jaminan pensiun. Aturan menegaskan pemberhentian dilakukan dengan hormat dengan hak pensiun. Dengan demikian, opsi D adalah pilihan yang tepat.
+
+=== NOMOR 11 (Hlm 33, Kunci B) ===
+Q (13 w): Dalam sejarah transformasi kelembagaan, Kementerian Keuangan telah mengimplementasikan Sistem Merit secara konsisten sejak...
+  A (55 ch, 6 w): Masa pengesahan undang-undang perbendaharaan tahun 1999
+  B (51 ch, 6 w): Momentum reformasi birokrasi kementerian tahun 2007
+  C (52 ch, 6 w): Pelaksanaan program desentralisasi fiskal tahun 2014
+  D (52 ch, 7 w): Penerbitan paket regulasi keuangan negara tahun 2003
+  E (53 ch, 6 w): Pemberlakuan undang-undang penanaman modal tahun 2008
+  Min len: 51, Max len: 55, Diff: 4
+Alasan: Opsi B merupakan tonggak sejarah (*milestone*) reformasi birokrasi modern di Kementerian Keuangan. Sejak 2007, Kemenkeu memelopori tata kelola SDM aparatur berbasis kompetensi, pemeringkatan jabatan (*grading*), dan remunerasi kinerja. Modul mencatat tahun 2007 sebagai awal penerapan sistem merit. Oleh karena itu, opsi B adalah pilihan yang tepat.
+
+=== NOMOR 15 (Hlm 33, Kunci A) ===
+Q (15 w): Manajemen Talenta di Kementerian Keuangan diimplementasikan guna mewujudkan rencana suksesi (succession planning) yang memiliki sifat...
+  A (56 ch, 7 w): Objektif, terencana, terbuka, tepat waktu, dan akuntabel
+  B (60 ch, 6 w): Tertutup, fleksibel, tergesa-gesa, dan berbasis kekeluargaan
+  C (57 ch, 8 w): Spontan, informal, rahasia pimpinan, dan tanpa tolak ukur
+  D (65 ch, 7 w): Konvensional, hierarkis, mengutamakan senioritas masa dinas kerja
+  E (60 ch, 6 w): Kompromistis, politis, mengakomodasi titipan pihak eksternal
+  Min len: 56, Max len: 65, Diff: 9
+Alasan: Opsi A merupakan lima prinsip baku perencanaan suksesi kepemimpinan di Kemenkeu. Rencana suksesi tidak boleh bersifat dadakan atau politis, melainkan tersusun sistematis berbasis data kinerja dan profil kompetensi yang transparan. Regulasi menegaskan suksesi harus objektif, terencana, terbuka, tepat waktu, dan akuntabel. Dengan demikian, opsi A adalah pilihan yang benar.
+
+=== NOMOR 18 (Hlm 33, Kunci D) ===
+Q (13 w): Sejak reformasi birokrasi, sistem pemberian remunerasi pegawai di lingkungan Kementerian Keuangan didasarkan pada...
+  A (57 ch, 6 w): Jenjang gelar kebangsawanan keluarga pegawai bersangkutan
+  B (57 ch, 7 w): Banyaknya jumlah anggota keluarga yang menjadi tanggungan
+  C (62 ch, 7 w): Frekuensi kehadiran tanpa memperhitungkan capaian target tugas
+  D (55 ch, 7 w): Peringkat jabatan (grading) dan capaian kinerja pegawai
+  E (55 ch, 9 w): Penilaian suka atau tidak suka dari pimpinan unit kerja
+  Min len: 55, Max len: 62, Diff: 7
+Alasan: Opsi D merupakan prinsip diferensiasi kompensasi berbasis bobot tanggung jawab dan kontribusi riil. Pegawai pada kelas jabatan lebih tinggi atau dengan kinerja melampaui target menerima remunerasi sebanding. Regulasi menegaskan remunerasi berbasis peringkat jabatan dan kinerja. Oleh karena itu, opsi D adalah jawaban yang tepat.
+
+=== NOMOR 20 (Hlm 33, Kunci A) ===
+Q (15 w): Selain mengisi jabatan struktural definitif, talenta unggul yang disaring melalui manajemen talenta Kemenkeu dipersiapkan untuk...
+  A (57 ch, 8 w): Mengisi posisi lain yang dianggap strategis oleh instansi
+  B (60 ch, 8 w): Menjadi pengurus harian pada partai politik mitra pemerintah
+  C (61 ch, 8 w): Mengelola badan usaha swasta komersial milik keluarga pegawai
+  D (66 ch, 8 w): Mengambil alih seluruh fungsi pemeriksaan auditor eksternal negara
+  E (64 ch, 9 w): Menjalankan tugas dinas militer tempur di garis depan perbatasan
+  Min len: 57, Max len: 66, Diff: 9
+Alasan: Opsi A merupakan ruang lingkup fleksibilitas suksesi kepemimpinan non-struktural, seperti ketua tim transformasi, *special mission vehicle* (SMV), atau gugus tugas proyek strategis nasional. Talenta terbaik dapat ditempatkan pada posisi berdampak tinggi tersebut. Aturan menyebutkan posisinya mencakup posisi lain yang dianggap strategis. Oleh karena itu, opsi A adalah jawaban yang tepat.
+
+=== NOMOR 22 (Hlm 34, Kunci D) ===
+Q (14 w): Fokus penyiapan talent dalam program Manajemen Talenta Kementerian Keuangan secara spesifik diarahkan untuk mengisi...
+  A (56 ch, 8 w): Posisi yang setingkat lebih rendah guna evaluasi hukuman
+  B (58 ch, 7 w): Seluruh kursi tenaga honorer kebersihan kantor kementerian
+  C (54 ch, 9 w): Posisi di luar negeri tanpa batas waktu masa penugasan
+  D (61 ch, 9 w): Posisi setingkat lebih tinggi atau posisi lain yang strategis
+  E (59 ch, 7 w): Posisi pimpinan satuan kerja penunjang administratif daerah
+  Min len: 54, Max len: 61, Diff: 7
+Alasan: Opsi D merupakan target suksesi vertikal terencana organisasi. Kader berkinerja tinggi diberikan pembinaan akseleratif agar siap mengemban wewenang jabatan satu tingkat di atasnya saat terjadi kekosongan. Regulasi menetapkan sasarannya adalah posisi setingkat lebih tinggi atau posisi strategis. Oleh karena itu, opsi D adalah jawaban yang tepat.
+
+=== NOMOR 23 (Hlm 34, Kunci E) ===
+Q (14 w): Definisi yuridis dari Sistem Merit dalam manajemen ASN sebagaimana ditegaskan dalam ketentuan modul adalah...
+  A (66 ch, 8 w): Kebijakan promosi yang memprioritaskan pegawai dari suku mayoritas
+  B (64 ch, 8 w): Sistem pemberian jabatan berdasarkan hasil lobi politik parlemen
+  C (68 ch, 10 w): Pola mutasi berdasarkan urutan tanggal lahir dan usia pegawai tertua
+  D (65 ch, 8 w): Mekanisme pengangkatan berdasarkan besaran donasi ke kas instansi
+  E (70 ch, 8 w): Kebijakan berdasarkan kualifikasi, kompetensi, dan kinerja secara adil
+  Min len: 64, Max len: 70, Diff: 6
+Alasan: Opsi E merupakan rumusan normatif undang-undang tentang asas meritokrasi. Manajemen ASN menjamin kesetaraan perlakuan dan objektivitas penuh dengan hanya melihat portofolio kualifikasi akademik, keahlian kompetensi, dan prestasi kinerja nyata. Regulasi menyatakan dasar sistem merit adalah kualifikasi, kompetensi, dan kinerja adil. Dengan demikian, opsi E adalah pilihan yang benar.
+
+=== NOMOR 25 (Hlm 34, Kunci B) ===
+Q (13 w): Penerapan sistem merit melalui manajemen talenta ditujukan untuk memastikan jabatan target diduduki oleh...
+  A (64 ch, 8 w): Pegawai dari kelompok kerabat pimpinan teras instansi pemerintah
+  B (69 ch, 12 w): Pegawai yang tepat dan pada waktu yang tepat sejalan tata kelola baik
+  C (63 ch, 7 w): Aparatur yang bersedia memberikan sebagian tunjangan jabatannya
+  D (63 ch, 9 w): Pegawai tertua yang telah bertugas puluhan tahun tanpa evaluasi
+  E (62 ch, 8 w): Staf yang paling sering mendampingi perjalanan pribadi menteri
+  Min len: 62, Max len: 69, Diff: 7
+Alasan: Opsi B merupakan kaidah penempatan pegawai presisi (*the right person on the right place and right time*). Penempatan tepat sasaran waktu mencegah kekosongan kepemimpinan dan menjamin kesiapan mental serta kompetensi pejabat baru. Aturan menegaskan tujuannya menempatkan pegawai tepat pada waktu yang tepat. Dengan demikian, opsi B adalah jawaban yang benar.
+
+=== NOMOR 27 (Hlm 34, Kunci D) ===
+Q (19 w): Salah satu komponen baru yang masuk ke dalam delapan siklus Manajemen ASN menurut UU Nomor 20 Tahun 2023 adalah...
+  A (56 ch, 8 w): Pengadaan kendaraan dinas mewah bagi seluruh staf kantor
+  B (56 ch, 8 w): Pemberian dispensasi jam kerja bagi pegawai di perkotaan
+  C (60 ch, 7 w): Pembentukan serikat politik khusus pegawai kementerian pusat
+  D (62 ch, 8 w): Penguatan budaya kerja dan citra institusi aparatur pemerintah
+  E (55 ch, 6 w): Penghapusan seluruh sistem pengawasan audit inspektorat
+  Min len: 55, Max len: 62, Diff: 7
+Alasan: Opsi D merupakan terobosan baru dalam regulasi ASN modern yang memandang budaya kerja (nilai BerAKHLAK dan nilai Kemenkeu) serta reputasi publik institusi sebagai pilar penentu kinerja birokrasi. Aturan mencantumkan penguatan budaya kerja dan citra institusi sebagai siklus resmi. Dengan demikian, opsi D adalah pilihan yang benar.
+
+=== NOMOR 28 (Hlm 34, Kunci E) ===
+Q (16 w): Dua siklus Manajemen ASN yang berfokus langsung pada peningkatan kapasitas dan penataan jalur penugasan aparatur adalah...
+  A (56 ch, 8 w): Pengadaan logistik dan penataan tata ruang gedung kantor
+  B (59 ch, 7 w): Pemeriksaan kekayaan dan penyitaan barang bukti gratifikasi
+  C (56 ch, 8 w): Pemberian sanksi teguran lisan dan pemotongan uang makan
+  D (58 ch, 7 w): Pencatatan presensi manual dan pengawasan keamanan gerbang
+  E (61 ch, 7 w): Pengembangan talenta dan karier serta pengembangan kompetensi
+  Min len: 56, Max len: 61, Diff: 5
+Alasan: Opsi E merupakan pilar investasi modal manusia (*human capital investment*) dalam birokrasi. Pengembangan kompetensi membekali kecakapan baru, sedangkan manajemen talenta memastikan pegawai berkompeten tersebut ditempatkan pada posisi strategis. Regulasi merumuskan butir 5 dan 6 adalah pengembangan talenta/karier dan kompetensi. Oleh karena itu, opsi E adalah jawaban yang tepat.
+
+=== NOMOR 29 (Hlm 34, Kunci A) ===
+Q (16 w): Bagi pegawai yang masuk ke dalam kelompok talenta unggul (talent pool), kementerian memberikan kesempatan akselerasi melalui...
+  A (63 ch, 7 w): Pengembangan karier dan peningkatan kompetensi secara terencana
+  B (61 ch, 8 w): Pembebasan dari kewajiban mematuhi jam kerja kedinasan kantor
+  C (62 ch, 8 w): Pemberian kekebalan hukum dari segala macam bentuk pemeriksaan
+  D (65 ch, 9 w): Hak mengelola rekening dana penerimaan negara bukan pajak pribadi
+  E (65 ch, 9 w): Izin melakukan kampanye terbuka bagi calon kepala daerah terpilih
+  Min len: 61, Max len: 65, Diff: 4
+Alasan: Opsi A merupakan komitmen pembinaan institusi terhadap para kader potensial. Jalur beasiswa, magang lintas instansi (*secondment*), pelatihan kepemimpinan, dan proyek strategis dibuka secara transparan bagi *talent*. Aturan menegaskan haknya adalah kesempatan pengembangan karier dan kompetensi. Dengan demikian, opsi A adalah pilihan yang benar.
+
+=== NOMOR 35 (Hlm 35, Kunci C) ===
+Q (12 w): Ruang lingkup Jabatan Karier dalam pola mutasi di lingkungan Kementerian Keuangan mencakup...
+  A (65 ch, 9 w): Seluruh jabatan pimpinan tinggi madya dan staf khusus kementerian
+  B (61 ch, 9 w): Tenaga staf khusus menteri dan penasihat ahli fraksi parlemen
+  C (64 ch, 10 w): Jabatan struktural eselon II, III, IV, V, dan jabatan fungsional
+  D (59 ch, 8 w): Seluruh pegawai kontrak pihak ketiga penyedia jasa keamanan
+  E (68 ch, 10 w): Pegawai yang memiliki rekam jejak kepemimpinan pada unit eselon satu
+  Min len: 59, Max len: 68, Diff: 9
+Alasan: Opsi C merupakan definisi yuridis cakupan jabatan karier aparatur sipil negara di Kemenkeu. Jabatan karier membedakan pegawai berstatus ASN tetap yang meniti tangga struktural dan fungsional dari jabatan politis kementerian. Aturan menetapkan ruang lingkupnya adalah eselon II sampai V dan fungsional. Dengan demikian, opsi C adalah pilihan yang tepat.
+
+=== NOMOR 36 (Hlm 35, Kunci D) ===
+Q (9 w): Berdasarkan modul kepegawaian Kemenkeu, definisi dari Pola Mutasi adalah...
+  A (65 ch, 8 w): Penyesuaian formasi penugasan berkala demi pemerataan beban kerja
+  B (71 ch, 9 w): Mekanisme perpindahan tugas atas dasar permohonan sukarela tanpa syarat
+  C (65 ch, 9 w): Proses seleksi penerimaan calon pegawai negeri sipil formasi umum
+  D (79 ch, 11 w): Sistem pemindahan PNS dalam jabatan karier secara terencana dan berdasar syarat
+  E (71 ch, 9 w): Pemberian kenaikan pangkat istimewa bagi pegawai yang menemukan inovasi
+  Min len: 65, Max len: 79, Diff: 14
+Alasan: Opsi D merupakan kaidah pemindahan terstruktur yang menghindarkan mutasi dari sifat mendadak, diskriminatif, atau tanpa dasar kompetensi. Pola mutasi mempertimbangkan kebutuhan unit, syarat jabatan, dan pengembangan wawasan pegawai. Aturan mendefinisikan pola mutasi sebagai sistem pemindahan terencana berdasar syarat dan kebutuhan. Oleh karena itu, opsi D adalah jawaban yang benar.
+
+=== NOMOR 39 (Hlm 35, Kunci A) ===
+Q (8 w): Tujuan mendasar dari penyelenggaraan kegiatan pengadaan ASN adalah...
+  A (67 ch, 8 w): Mengisi kekosongan kebutuhan pegawai pada suatu Instansi Pemerintah
+  B (64 ch, 8 w): Menghabiskan kelebihan anggaran belanja pegawai pada akhir tahun
+  C (63 ch, 8 w): Memberikan pekerjaan bagi seluruh pendukung calon kepala daerah
+  D (67 ch, 9 w): Menaikkan jumlah pegawai honorer tanpa batasan analisis beban tugas
+  E (62 ch, 7 w): Mengurangi alokasi belanja modal proyek infrastruktur nasional
+  Min len: 62, Max len: 67, Diff: 5
+Alasan: Opsi A merupakan hakikat utama diadakannya rekrutmen aparatur. Pengadaan bukan untuk menambah pegawai tanpa kendali, melainkan murni mengisi kekurangan formasi yang teridentifikasi lewat analisis jabatan dan beban kerja. Aturan menegaskan tujuannya mengisi kebutuhan dalam instansi pemerintah. Dengan demikian, opsi A adalah pilihan yang tepat.
+
+=== NOMOR 44 (Hlm 36, Kunci C) ===
+Q (14 w): Ketentuan batas masa penempatan atau penugasan PNS Kementerian Keuangan pada unit organisasi non-eselon adalah...
+  A (56 ch, 9 w): Paling lama satu tahun dan tidak dapat diperpanjang lagi
+  B (52 ch, 7 w): Permanen seumur hidup tanpa evaluasi kinerja tahunan
+  C (57 ch, 10 w): Paling lama 3 tahun dan dapat diperpanjang setiap 2 tahun
+  D (58 ch, 9 w): Paling lama lima tahun tanpa opsi penarikan ke kementerian
+  E (57 ch, 8 w): Ditetapkan selama enam bulan masa orientasi tugas jabatan
+  Min len: 52, Max len: 58, Diff: 6
+Alasan: Opsi C merupakan aturan penugasan pada unit non-eselon (seperti BLU, LNSW, LPEI, atau komite khusus). Periode awal dibatasi 3 tahun guna evaluasi kontribusi, dengan opsi perpanjangan per 2 tahun berdasarkan kinerja dan kebutuhan instansi. Regulasi menetapkan durasi max 3 tahun dan perpanjangan tiap 2 tahun. Dengan demikian, opsi C adalah jawaban yang benar.
+
+=== NOMOR 48 (Hlm 36, Kunci B) ===
+Q (21 w): Dua orang PNS Kemenkeu yang berstatus suami-istri mengajukan penempatan di wilayah kota yang sama. Dasar pertimbangan sah dalam KMK 7/2023 adalah...
+  A (64 ch, 8 w): Hak memilih lokasi penempatan dinas berdasar preferensi keluarga
+  B (67 ch, 9 w): Pasangan suami/istri yang bekerja di Kemenkeu dan aspek kemanusiaan
+  C (60 ch, 9 w): Hak istimewa pasangan pegawai untuk tidak perlu masuk kantor
+  D (58 ch, 8 w): Pemberian fasilitas rumah tinggal ganda di dua kementerian
+  E (56 ch, 8 w): Izin menerima tunjangan keluarga sebesar lima kali lipat
+  Min len: 56, Max len: 67, Diff: 11
+Alasan: Opsi B merupakan bentuk perhatian organisasi terhadap keutuhan rumah tangga aparatur sipil. Sedapat mungkin kementerian menempatkan pasangan suami-istri pada satu zona geografis kerja atau mendekatkan mereka guna menjaga motivasi dan kesehatan mental pegawai. Aturan menetapkan pertimbangan pasangan suami/istri dan kemanusiaan. Dengan demikian, opsi B adalah jawaban yang benar.
+
+=== NOMOR 49 (Hlm 36, Kunci C) ===
+Q (15 w): Dalam pelaksanaan mutasi penugasan PNS Kemenkeu ke satker baru, pembiayaan perpindahan dinas diatur dengan ketentuan...
+  A (73 ch, 11 w): Seluruh biaya tiket dan kargo barang ditanggung dari gaji pribadi pegawai
+  B (68 ch, 10 w): Pegawai wajib mencari sponsor dari pihak swasta di daerah penempatan
+  C (64 ch, 9 w): Penyediaan anggaran biaya perpindahan bagi PNS dan keluarga inti
+  D (60 ch, 9 w): Biaya perpindahan dipotong dari iuran wajib pensiun hari tua
+  E (66 ch, 9 w): Keluarga pegawai dilarang keras ikut berpindah ke lokasi penugasan
+  Min len: 60, Max len: 73, Diff: 13
+Alasan: Opsi C merupakan hak finansial aparatur yang dipindahtugaskan demi dinas negara. Negara menanggung biaya transportasi, pengepakan, dan kargo barang pindahan pegawai beserta suami/istri dan anak-anak sahnya melalui DIPA satker. Regulasi menegaskan penyediaan anggaran biaya perpindahan bagi PNS dan keluarga inti. Oleh karena itu, opsi C adalah jawaban yang tepat.
+
+=== NOMOR 50 (Hlm 36, Kunci D) ===
+Q (12 w): Kebijakan mutasi dan promosi di Kemenkeu secara terencana memprioritaskan penempatan strategis bagi...
+  A (63 ch, 8 w): Staf yang paling jarang menghadiri kegiatan pelatihan kedinasan
+  B (62 ch, 8 w): Pegawai yang memiliki hubungan bisnis komersial dengan rekanan
+  C (67 ch, 8 w): Aparatur yang pernah dijatuhi hukuman disiplin pemotongan tunjangan
+  D (68 ch, 9 w): Lulusan pascasarjana luar negeri dan pegawai yang berprestasi unggul
+  E (66 ch, 9 w): Pegawai yang memilih untuk tidak mengikuti uji pemetaan kompetensi
+  Min len: 62, Max len: 68, Diff: 6
+Alasan: Opsi D merupakan utilisasi hasil beasiswa negara (*return of investment on scholarship*). Aparatur yang telah menamatkan pendidikan magister/doktoral di universitas terkemuka dunia atau mengukir prestasi istimewa ditempatkan pada posisi perumus kebijakan fiskal strategis. Aturan menyebutkan pemberdayaan lulusan pascasarjana luar negeri dan PNS berprestasi. Dengan demikian, opsi D adalah pilihan yang benar.
+
+=== NOMOR 58 (Hlm 37, Kunci E) ===
+Q (22 w): Seorang PNS Kemenkeu telah menyelesaikan masa penugasannya pada unit non-eselon. Alur penempatan kembali ke struktur reguler yang setingkat jabatan terakhir merupakan wujud...
+  A (53 ch, 6 w): Pemberhentian sukarela atas inisiatif pribadi pegawai
+  B (66 ch, 9 w): Demosi struktural akibat kegagalan target kerja di unit non-eselon
+  C (67 ch, 8 w): Promosi akselerasi luar biasa di lingkungan kementerian koordinator
+  D (61 ch, 9 w): Kenaikan pangkat pengabdian masa kerja tiga puluh tahun penuh
+  E (62 ch, 8 w): Pola karier semi horizontal di lingkungan Kementerian Keuangan
+  Min len: 53, Max len: 67, Diff: 14
+Alasan: Opsi E merupakan pemulihan posisi aparatur yang telah selesai diperbantukan pada organ non-eselon. Pegawai ditarik kembali menempati formasi JA/JF/JPT setara posisi terakhirnya tanpa kehilangan hak karier strukturalnya. Aturan mengkategorikannya sebagai pola karier semi horizontal. Oleh karena itu, opsi E adalah pilihan yang tepat.
+
+=== NOMOR 59 (Hlm 37, Kunci B) ===
+Q (21 w): Seorang pejabat pengawas (Jabatan Administrasi) terpilih melalui seleksi terbuka menduduki Jabatan Fungsional Ahli Madya (setara Eselon III). Perpindahan ini menerapkan pola...
+  A (63 ch, 10 w): Pola karier horizontal mendatar pada unit kerja seksi yang sama
+  B (70 ch, 9 w): Pola karier diagonal antarkelompok jabatan dengan jenjang lebih tinggi
+  C (68 ch, 8 w): Pola rotasi tertutup antarseksi pada kantor pelayanan perbendaharaan
+  D (61 ch, 7 w): Pola pemindahan hukuman disiplin pemotongan tunjangan kinerja
+  E (66 ch, 9 w): Pola penugasan luar negeri tanpa melalui mekanisme seleksi terbuka
+  Min len: 61, Max len: 70, Diff: 9
+Alasan: Opsi B merupakan contoh konkret penerapan pola diagonal. Pegawai berpindah dari kelompok administrasi ke kelompok fungsional, sekaligus melangkah naik ke level yang lebih tinggi (dari setara eselon IV ke eselon III). Regulasi mendefinisikannya sebagai pola diagonal. Dengan demikian, opsi B adalah jawaban yang benar.
+
+=== NOMOR 61 (Hlm 38, Kunci B) ===
+Q (14 w): Berdasarkan regulasi kepegawaian yang diatur dalam modul, empat jenis kenaikan pangkat bagi PNS meliputi...
+  A (55 ch, 7 w): Kenaikan pangkat harian, mingguan, bulanan, dan tahunan
+  B (68 ch, 7 w): Kenaikan pangkat reguler, pilihan/istimewa, pengabdian, dan anumerta
+  C (59 ch, 7 w): Kenaikan pangkat daerah, provinsi, pusat, dan internasional
+  D (61 ch, 8 w): Kenaikan pangkat pemula, madya, utama, dan kehormatan militer
+  E (61 ch, 7 w): Kenaikan pangkat penugasan, perbantuan, skorsing, dan pensiun
+  Min len: 55, Max len: 68, Diff: 13
+Alasan: Opsi B merupakan empat pintu resmi kenaikan golongan/ruang kepangkatan aparatur negara. Kenaikan pangkat reguler untuk masa kerja rutin, pilihan untuk jabatan/prestasi luar biasa, pengabdian saat pensiun terhormat, dan anumerta bagi yang gugur dinas. Regulasi menegaskan keempat jenis tersebut. Dengan demikian, opsi B adalah pilihan yang tepat.
+
+=== NOMOR 62 (Hlm 38, Kunci D) ===
+Q (18 w): Syarat masa dinas minimum dalam pangkat terakhir yang wajib dipenuhi seorang PNS untuk memperoleh Kenaikan Pangkat Reguler adalah...
+  A (35 ch, 5 w): Satu tahun kalender masa pengabdian
+  B (34 ch, 6 w): Dua tahun masa penugasan di satker
+  C (31 ch, 5 w): Tiga tahun masa kedinasan aktif
+  D (59 ch, 7 w): Sekurang-kurangnya telah empat tahun dalam pangkat terakhir
+  E (34 ch, 5 w): Tujuh tahun masa kerja kepegawaian
+  Min len: 31, Max len: 59, Diff: 28
+Alasan: Opsi D merupakan kurun waktu pembinaan standar bagi PNS non-jabatan struktural/fungsional tertentu untuk naik pangkat secara berkala. Periode empat tahun mencerminkan kecukupan masa pengabdian untuk dinaikkan satu tingkat golongan ruangnya. Aturan menetapkan syaratnya sekurang-kurangnya empat tahun. Oleh karena itu, opsi D adalah jawaban yang benar.
+
+=== NOMOR 64 (Hlm 38, Kunci C) ===
+Q (18 w): Kenaikan Pangkat Pilihan dapat dianugerahkan kepada PNS yang menunjukkan prestasi kerja luar biasa baiknya, dengan bukti yuridis berupa...
+  A (49 ch, 7 w): Pemberitaan viral di berbagai media sosial daring
+  B (55 ch, 6 w): Piagam penghargaan dari organisasi kemasyarakatan lokal
+  C (55 ch, 6 w): Surat keputusan yang ditandatangani Pembina Kepegawaian
+  D (55 ch, 7 w): Surat pernyataan dukungan dari seluruh keluarga pegawai
+  E (51 ch, 8 w): Bukti transfer uang donasi sukarela ke rekening kas
+  Min len: 49, Max len: 55, Diff: 6
+Alasan: Opsi C merupakan legalitas pengakuan resmi kepala instansi atas inovasi atau jasa luar biasa pegawai. Tanpa surat keputusan resmi dari Pejabat Pembina Kepegawaian, prestasi tersebut tidak dapat dijadikan dasar kenaikan pangkat pilihan istimewa. Aturan menegaskan bukti berupa SK yang ditandatangani Pembina Kepegawaian. Oleh karena itu, opsi C adalah jawaban yang benar.
+
+=== NOMOR 65 (Hlm 38, Kunci E) ===
+Q (22 w): Seorang PNS fungsional peneliti berhasil menciptakan teknologi ramah lingkungan yang dipatenkan dan terbukti menghemat belanja negara miliaran rupiah. Pegawai bersangkutan berhak atas...
+  A (64 ch, 8 w): Pemberian dispensasi bebas tugas selamanya tanpa pemotongan gaji
+  B (62 ch, 8 w): Pengalihan status kepegawaian menjadi tenaga ahli swasta asing
+  C (60 ch, 9 w): Pemberhentian dini dengan hak pensiun nominal dua kali lipat
+  D (63 ch, 8 w): Pemberian izin merangkap sebagai pengurus harian partai politik
+  E (67 ch, 9 w): Kenaikan Pangkat Pilihan karena menemukan penemuan baru bagi negara
+  Min len: 60, Max len: 67, Diff: 7
+Alasan: Opsi E merupakan insentif kenegaraan bagi aparatur inovatif yang menghasilkan karya intelektual berdampak besar bagi bangsa. Penemuan baru yang diakui secara saintifik dan bermanfaat strategis diapresiasi langsung melalui percepatan kenaikan pangkat pilihan. Aturan menetapkan haknya adalah Kenaikan Pangkat Pilihan. Dengan demikian, opsi E adalah jawaban yang tepat.
+
+=== NOMOR 69 (Hlm 39, Kunci C) ===
+Q (14 w): Syarat integritas dan kedisiplinan yang mutlak wajib dipenuhi untuk penetapan Kenaikan Pangkat Pengabdian adalah...
+  A (59 ch, 8 w): Pernah dijatuhi sanksi disiplin berat namun telah dimaafkan
+  B (57 ch, 8 w): Mendapat teguran tertulis berulang dalam masa dinas kerja
+  C (63 ch, 8 w): Tidak dijatuhi sanksi disiplin sedang/berat satu tahun terakhir
+  D (63 ch, 8 w): Memiliki izin tertulis menjadi konsultan pada perusahaan swasta
+  E (59 ch, 7 w): Mendapat rekomendasi pengampunan dari majelis etik instansi
+  Min len: 57, Max len: 63, Diff: 6
+Alasan: Opsi C merupakan jawaban yang tepat. Kenaikan pangkat pengabdian merupakan penghargaan pamungkas negara bagi aparatur yang memasuki masa purna tugas. Syarat rekam jejak bersih dari hukuman disiplin tingkat sedang maupun berat selama setahun terakhir mutlak dipenuhi.
+
+=== NOMOR 71 (Hlm 39, Kunci C) ===
+Q (11 w): Kenaikan Pangkat Anumerta dianugerahkan oleh negara kepada Pegawai Negeri Sipil yang...
+  A (57 ch, 9 w): Memilih pensiun dini atas permintaan sendiri di usia muda
+  B (61 ch, 6 w): Mengikuti seleksi penerimaan beasiswa pendidikan pascasarjana
+  C (63 ch, 7 w): Dinyatakan tewas dalam menjalankan tugas kewajiban kedinasannya
+  D (60 ch, 7 w): Menemukan metode penghematan kertas operasional kantor dinas
+  E (59 ch, 9 w): Mencapai masa kerja penuh selama empat puluh tahun berdinas
+  Min len: 57, Max len: 63, Diff: 6
+Alasan: Opsi C merupakan penghargaan anumerta tertinggi atas gugurnya aparatur saat mengabdi pada bangsa. Status tewas dalam tugas memberikan kenaikan satu tingkat pangkat secara anumerta yang berdampak pada peningkatan hak pensiun bagi janda/duda dan ahli waris. Aturan menyebutkan syaratnya dinyatakan tewas dalam tugas kewajiban. Dengan demikian, opsi C adalah jawaban yang benar.
+
+=== NOMOR 76 (Hlm 39, Kunci C) ===
+Q (14 w): Tiga sifat utama dari pengelolaan SDM dalam Manajemen Karier di lingkungan Kementerian Keuangan adalah...
+  A (45 ch, 6 w): Subjektif, informal, dan tertutup bagi publik
+  B (47 ch, 6 w): Spontan, spekulatif, dan fleksibel tanpa aturan
+  C (54 ch, 7 w): Objektif, terencana, dan akuntabel sesuai Sistem Merit
+  D (53 ch, 6 w): Patrimonial, politis, dan berbasis kekerabatan daerah
+  E (61 ch, 6 w): Hierarkis, administratif, dan mengutamakan urutan kepangkatan
+  Min len: 45, Max len: 61, Diff: 16
+Alasan: Opsi C merupakan fondasi profesionalisme tata kelola SDM Kemenkeu. Pengelolaan karier bebas dari rasa suka/tidak suka (*like/dislike*), terprogram jangka panjang, dan dapat dipertanggungjawabkan akurasinya kepada publik dan pemangku kepentingan. Regulasi merumuskannya objektif, terencana, dan akuntabel. Oleh karena itu, opsi C adalah jawaban yang tepat.
+
+=== NOMOR 79 (Hlm 39, Kunci B) ===
+Q (17 w): PNS yang meninggal dunia akibat komplikasi luka parah yang didapat langsung saat menjalankan tugas kedinasan berhak atas...
+  A (65 ch, 7 w): Pemberhentian dengan sanksi kelalaian menjaga keselamatan pribadi
+  B (61 ch, 7 w): Penetapan Kenaikan Pangkat Anumerta sebagai penghargaan dinas
+  C (62 ch, 8 w): Penundaan pembayaran santunan duka sampai hasil audit forensik
+  D (61 ch, 8 w): Pemindahan tugas keluarga inti menuju lokasi rawan kecelakaan
+  E (59 ch, 8 w): Pemberian surat teguran tertulis kepada pimpinan unit kerja
+  Min len: 59, Max len: 65, Diff: 6
+Alasan: Opsi B merupakan bentuk penghargaan atas luka tugas fatal (*in the line of duty*). Walaupun pegawai tidak langsung tewas di tempat kejadian, kematian yang terbukti secara medis disebabkan oleh luka tugas resmi disetarakan dengan gugur dinas. Aturan menetapkan haknya adalah Kenaikan Pangkat Anumerta. Dengan demikian, opsi B adalah pilihan yang tepat.
+
+=== NOMOR 80 (Hlm 39, Kunci A) ===
+Q (15 w): Ruang lingkup kegiatan operasional Manajemen Karier di Kementerian Keuangan yang diselenggarakan berdasarkan Sistem Merit meliputi...
+  A (74 ch, 8 w): Pengembangan kompetensi, pengembangan karier, pola karier, mutasi, promosi
+  B (64 ch, 8 w): Pemberian pinjaman komersial dan pelelangan aset kendaraan dinas
+  C (64 ch, 7 w): Penyelidikan intelijen perpajakan dan penyitaan rekening nasabah
+  D (63 ch, 8 w): Pengaturan jam dinas fleksibel tanpa kewajiban pemenuhan target
+  E (61 ch, 8 w): Penarikan iuran bulanan wajib untuk pendanaan serikat pekerja
+  Min len: 61, Max len: 74, Diff: 13
+Alasan: Opsi A merupakan lima pilar kegiatan operasional manajemen karier di Kemenkeu. Kelima elemen bekerja terpadu untuk memastikan kompetensi terus ditingkatkan, pola mutasi tertata, dan promosi diberikan murni berdasar meritokrasi. Regulasi merinci kegiatannya meliputi kompetensi, karier, pola karier, mutasi, dan promosi. Oleh karena itu, opsi A adalah jawaban yang benar.
+
+=== NOMOR 81 (Hlm 40, Kunci D) ===
+Q (16 w): Salah satu tujuan utama manajemen karier di Kementerian Keuangan dalam rangka mencetak pemimpin masa depan adalah...
+  A (65 ch, 8 w): Mewajibkan seluruh staf pindah ke perusahaan swasta internasional
+  B (60 ch, 6 w): Membubarkan program pendidikan kedinasan politeknik keuangan
+  C (62 ch, 8 w): Mengurangi alokasi anggaran pelatihan teknis pada seluruh unit
+  D (71 ch, 8 w): Mendukung pelaksanaan program Leaders Factory di lingkungan kementerian
+  E (67 ch, 9 w): Memberikan hak bagi pegawai untuk memilih penempatan kantor sendiri
+  Min len: 60, Max len: 71, Diff: 11
+Alasan: Opsi D merupakan program strategis Kemenkeu sebagai 'pabrik pemimpin' (*Leaders Factory*) yang tidak hanya mencetak pemimpin internal kementerian, tetapi juga menyuplai talenta kepemimpinan bagi kementerian dan lembaga negara lain. Regulasi menegaskan tujuannya mendukung pelaksanaan program Leaders Factory. Dengan demikian, opsi D adalah pilihan yang tepat.
+
+=== NOMOR 86 (Hlm 40, Kunci D) ===
+Q (12 w): Tujuan butir f dari penyelenggaraan Manajemen Karier di Kementerian Keuangan diarahkan untuk...
+  A (63 ch, 8 w): Menyerahkan seluruh wewenang promosi kepada pihak ketiga swasta
+  B (69 ch, 8 w): Membatasi pengumuman lowongan formasi pada tingkat pejabat struktural
+  C (63 ch, 8 w): Menjadikan masa kerja tertua sebagai satu-satunya syarat mutasi
+  D (65 ch, 7 w): Meningkatkan objektivitas dan transparansi perencanaan karier PNS
+  E (61 ch, 7 w): Mewajibkan pegawai melapor seluruh kegiatan pergaulan pribadi
+  Min len: 61, Max len: 69, Diff: 8
+Alasan: Opsi D merupakan komitmen peniadaan ruang gelap dalam penentuan mutasi dan promosi jabatan. Perencanaan karier yang transparan memastikan pegawai mengetahui profil kompetensinya dan jalur suksesi yang dapat ditempuh secara adil. Regulasi menegaskan tujuannya meningkatkan objektivitas dan transparansi. Oleh karena itu, opsi D adalah jawaban yang benar.
+
+=== NOMOR 89 (Hlm 40, Kunci E) ===
+Q (13 w): Tujuan butir d dari perumusan Manajemen Karier di Kementerian Keuangan adalah mendorong peningkatan...
+  A (65 ch, 9 w): Beban kerja harian pegawai tanpa diimbangi pemberian sarana kerja
+  B (67 ch, 8 w): Tingkat perselisihan antar-unit eselon satu dalam perebutan formasi
+  C (60 ch, 8 w): Pengeluaran dana operasional perjalanan dinas ke luar negeri
+  D (60 ch, 8 w): Jumlah sanksi pemotongan tunjangan kinerja bulanan para staf
+  E (59 ch, 8 w): Motivasi kerja, standar kompetensi, dan capaian Kinerja PNS
+  Min len: 59, Max len: 67, Diff: 8
+Alasan: Opsi E merupakan dampak psikologis dan profesional dari sistem karier yang sehat. Pegawai yang melihat adanya jenjang karier yang adil terpacu motivasinya untuk terus mengasah keahlian dan memberikan kontribusi kinerja terbaik bagi instansi. Regulasi menegaskan tujuannya meningkatkan motivasi, kompetensi, dan kinerja. Dengan demikian, opsi E adalah jawaban yang tepat.
+
+=== NOMOR 91 (Hlm 41, Kunci E) ===
+Q (16 w): Berdasarkan PMK Manajemen Karier Kemenkeu, pengembangan talenta dan karier pegawai wajib mempertimbangkan empat aspek pokok yaitu...
+  A (62 ch, 8 w): Kedekatan suku, status pernikahan, almamater, dan umur pegawai
+  B (65 ch, 9 w): Besaran tabungan, status kekayaan, kendaraan dinas, dan nomor DUK
+  C (66 ch, 9 w): Frekuensi lembur, rekomendasi politik, asal daerah, dan masa bakti
+  D (67 ch, 9 w): Preferensi partai politik, jenis kelamin, golongan sosial, dan usia
+  E (67 ch, 7 w): Kualifikasi, kompetensi, kinerja, dan kebutuhan instansi pemerintah
+  Min len: 62, Max len: 67, Diff: 5
+Alasan: Opsi E merupakan empat pilar pertimbangan meritokrasi dalam penataan karier pegawai Kemenkeu. Kebijakan ini menyelaraskan potensi individu pegawai dengan formasi riil yang dibutuhkan organisasi kementerian. Aturan menetapkan pertimbangannya mencakup kualifikasi, kompetensi, kinerja, dan kebutuhan instansi. Dengan demikian, opsi E adalah pilihan yang benar.
+
+=== NOMOR 92 (Hlm 41, Kunci B) ===
+Q (13 w): Tiga mekanisme operasional yang digunakan dalam pengembangan karier bagi PNS Kementerian Keuangan adalah...
+  A (69 ch, 8 w): Pemberhentian dini, skorsing sementara, dan pemotongan uang tunjangan
+  B (64 ch, 8 w): Mutasi, promosi, dan/atau penugasan di luar Kementerian Keuangan
+  C (65 ch, 9 w): Pemberian izin cuti besar, pengunduran diri, dan pensiun sukarela
+  D (63 ch, 8 w): Penurunan pangkat berkala, teguran tertulis, dan mutasi hukuman
+  E (70 ch, 10 w): Pelatihan fisik militer, uji kebugaran berkala, dan diklat bela negara
+  Min len: 63, Max len: 70, Diff: 7
+Alasan: Opsi B merupakan instrumen mobilitas talenta aparatur Kemenkeu. Pegawai dikembangkan melalui pergeseran horizontal (mutasi), kenaikan jenjang tanggung jawab (promosi), maupun pengayaan wawasan lintas institusi pada kementerian/lembaga lain atau badan internasional. Regulasi merinci melalui mutasi, promosi, dan penugasan di luar Kemenkeu. Oleh karena itu, opsi B adalah jawaban yang tepat.
+
+=== NOMOR 93 (Hlm 41, Kunci D) ===
+Q (14 w): Seorang pejabat administrator Kemenkeu ditugaskan berdinas pada kementerian koordinator. Status jabatannya diatur dengan ketentuan...
+  A (69 ch, 10 w): Tetap memegang jabatan lamanya dan menerima dua gaji struktural penuh
+  B (66 ch, 8 w): Diberhentikan permanen dari korps pegawai negeri sipil kementerian
+  C (68 ch, 9 w): Wajib mengajukan surat pensiun dini sukarela kepada menteri keuangan
+  D (70 ch, 9 w): Diberhentikan dari jabatan Kemenkeu dan diangkat di instansi penugasan
+  E (64 ch, 7 w): Ditempatkan sebagai tenaga pembantu administratif masa percobaan
+  Min len: 64, Max len: 70, Diff: 6
+Alasan: Opsi D merupakan prosedur tertib administrasi penugasan lintas instansi negara. Pejabat dilepaskan dari jabatan struktural Kemenkeu agar dapat diisi pejabat baru, dan secara resmi dilantik pada jabatan di instansi tujuan penugasan tanpa memutus status kepegawaian negerinya. Aturan menegaskan diberhentikan dari jabatan Kemenkeu dan diangkat di instansi penugasan. Dengan demikian, opsi D adalah pilihan yang benar.
+
+=== NOMOR 94 (Hlm 41, Kunci D) ===
+Q (16 w): Jalur pengembangan karier aparatur dalam Jabatan Fungsional (JF) di Kemenkeu yang BUKAN merupakan mekanisme resmi adalah...
+  A (47 ch, 5 w): Pengangkatan pertama formasi jabatan fungsional
+  B (47 ch, 6 w): Perpindahan tugas kepegawaian dari jabatan lain
+  C (47 ch, 5 w): Penyesuaian kualifikasi keahlian atau inpassing
+  D (57 ch, 7 w): Pembelian surat keputusan fungsional tanpa uji kompetensi
+  E (48 ch, 6 w): Pengangkatan kembali ke dalam jabatan fungsional
+  Min len: 47, Max len: 57, Diff: 10
+Alasan: Opsi D merupakan tindak pidana korupsi dan pemalsuan SK yang dilarang keras dalam hukum negara. Pengangkatan fungsional murni ditempuh melalui jalur resmi berbasis portofolio angka kredit dan uji kompetensi. Oleh karena itu, opsi D adalah pilihan jawaban pengecualian yang benar.
+
+=== NOMOR 95 (Hlm 41, Kunci C) ===
+Q (18 w): Syarat mutlak yang wajib dipenuhi oleh pejabat fungsional untuk dapat naik jenjang jabatan satu tingkat lebih tinggi adalah...
+  A (59 ch, 7 w): Mendapatkan rekomendasi politik dari kepala daerah setempat
+  B (58 ch, 9 w): Telah mencapai usia minimal lima puluh lima tahun kalender
+  C (57 ch, 7 w): Telah memenuhi perolehan angka kredit yang dipersyaratkan
+  D (61 ch, 7 w): Memiliki sertifikat kejuaraan olahraga di tingkat kementerian
+  E (63 ch, 7 w): Menyerahkan sumbangan buku ke perpustakaan sekretariat jenderal
+  Min len: 57, Max len: 63, Diff: 6
+Alasan: Opsi C merupakan esensi dari sistem pembinaan jabatan fungsional berbasis kinerja keahlian. Angka kredit merefleksikan akumulasi butir kegiatan substansi profesi yang telah diselesaikan. Aturan menyatakan syaratnya adalah memenuhi angka kredit yang dipersyaratkan. Dengan demikian, opsi C adalah jawaban yang tepat.
+
+=== NOMOR 96 (Hlm 41, Kunci E) ===
+Q (16 w): Ketentuan mengenai mutasi dan promosi bagi PNS Kementerian Keuangan yang bertugas pada Unit Non-Eselon mengatur bahwa...
+  A (64 ch, 7 w): Pegawai non-eselon dilarang selamanya memperoleh promosi jabatan
+  B (60 ch, 7 w): Seluruh hak karier kepegawaian dinonaktifkan secara permanen
+  C (60 ch, 6 w): Diprioritaskan menduduki jabatan fungsional pelaksana teknis
+  D (64 ch, 9 w): Wajib mengundurkan diri dari status PNS sebelum menerima promosi
+  E (62 ch, 10 w): Mutasi dan promosi tetap berlaku bagi PNS pada Unit Non-Eselon
+  Min len: 60, Max len: 64, Diff: 4
+Alasan: Opsi E merupakan jaminan kesetaraan hak karier bagi aparatur yang ditugaskan pada badan layanan umum atau komite strategis non-eselon. Masa penugasan non-eselon diakui utuh dan yang bersangkutan tetap berhak dipromosikan atau dimutasikan sesuai prestasi kinerjanya. Regulasi menegaskan mutasi dan promosi tetap berlaku bagi pegawai di unit non-eselon. Oleh karena itu, opsi E adalah jawaban yang benar.
+
+=== NOMOR 97 (Hlm 41, Kunci B) ===
+Q (20 w): Seorang pejabat fungsional Analis Kebijakan yang sebelumnya ditugaskan menjadi pejabat negara telah purna tugas. Jalur pemulihan jabatan fungsionalnya ditempuh melalui...
+  A (55 ch, 7 w): Pengangkatan pertama melalui jalur penerimaan CPNS baru
+  B (58 ch, 7 w): Mekanisme pengangkatan kembali ke dalam Jabatan Fungsional
+  C (60 ch, 7 w): Pemberian sanksi pemotongan tunjangan kinerja selama setahun
+  D (59 ch, 7 w): Penurunan jenjang fungsional ke tingkat keterampilan pemula
+  E (56 ch, 8 w): Pemberian cuti istimewa tanpa batas waktu masa penugasan
+  Min len: 55, Max len: 60, Diff: 5
+Alasan: Opsi B merupakan mekanisme administratif untuk mendudukkan kembali pejabat fungsional ke dalam formasi keahliannya. Angka kredit dan jenjang kepangkatan terakhir sebelum penugasan negara diaktifkan kembali. Aturan merumuskan jalurnya sebagai Pengangkatan kembali. Dengan demikian, opsi B adalah pilihan yang tepat.
+
+=== NOMOR 99 (Hlm 41, Kunci A) ===
+Q (17 w): Jalur pengangkatan ke dalam Jabatan Fungsional dalam rangka penataan organisasi atau pembentukan jabatan fungsional baru disebut jalur...
+  A (45 ch, 5 w): Penyesuaian atau inpassing jabatan fungsional
+  B (43 ch, 5 w): Promosi tertutup rekomendasi pejabat daerah
+  C (46 ch, 5 w): Pengangkatan sukarela tanpa syarat kualifikasi
+  D (44 ch, 5 w): Rotasi hukuman disiplin pemotongan tunjangan
+  E (49 ch, 7 w): Alih status otomatis tanpa penetapan angka kredit
+  Min len: 43, Max len: 49, Diff: 6
+Alasan: Opsi A merupakan mekanisme transisi nasional (*inpassing*) untuk mengonversi pegawai administrasi ke jabatan fungsional tertentu sesuai rumpun keahliannya. Jalur ini dibuka secara berkala dengan standar uji kesesuaian portofolio. Aturan menyebutkan jalurnya adalah Penyesuaian/inpassing. Dengan demikian, opsi A adalah pilihan yang benar.
+

@@ -572,7 +572,7 @@
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Sebagai sebuah kesadaran korektif, agenda reformasi bangsa Indonesia ditujukan untuk...",
       "pilihan": {
-        "A": "Menghapus seluruh warisan sejarah masa kepemimpinan lama",
+        "A": "Menghapuskan capaian positif kepemimpinan masa sebelumnya",
         "B": "Menyeragamkan pola kepemimpinan birokrasi di daerah",
         "C": "Membatasi keterlibatan pers dalam pengawasan kinerja pemerintah",
         "D": "Menjadikan kekuasaan lembaga peradilan berada di bawah eksekutif",
@@ -661,7 +661,7 @@
       "pilihan": {
         "A": "Rancangan Anggaran Pendapatan dan Belanja Negara",
         "B": "Piagam Perjanjian Kerjasama Perdagangan Antarnegara",
-        "C": "Konsensus Dasar Nasional",
+        "C": "Empat Konsensus Dasar Berbangsa dan Bernegara",
         "D": "Buku Pedoman Standar Tata Kelola Organisasi Daerah",
         "E": "Naskah Akademik Perubahan Undang-Undang Pemilihan"
       },
@@ -1040,7 +1040,7 @@
         "B": "Komite Nasional Indonesia Pusat pengganti parlemen sementara",
         "C": "Dewan Pertimbangan Agung penasihat presiden pertama",
         "D": "Majelis Musyawarah Rakyat bentukan pemerintah karesidenan",
-        "E": "Panitia Perancang Keuangan Pembagian Harta Warisan Penjajah"
+        "E": "Panitia Perancang Pengalihan Aset Rampasan Perang"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
@@ -1210,11 +1210,11 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Selain fungsi yuridis ketatanegaraan, Pancasila dalam tata kehidupan bangsa juga menjalankan...",
       "pilihan": {
-        "A": "Fungsi militeristis doktriner",
-        "B": "Fungsi sosiologis serta fungsi etis dan filosofis",
-        "C": "Fungsi fiskal moneter regional",
-        "D": "Fungsi adjudikasi sengketa perdata",
-        "E": "Fungsi regulasi pasar modal bursa"
+        "A": "Fungsi ketahanan pertahanan militer doktriner",
+        "B": "Fungsi sosiologis, etis, serta filosofis kenegaraan",
+        "C": "Fungsi pengelolaan moneter kawasan regional",
+        "D": "Fungsi peradilan dalam adjudikasi perkara",
+        "E": "Fungsi pengawasan pada otoritas bursa efek"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
@@ -1326,7 +1326,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Sebagai bagian yang tidak terpisahkan dari Pembukaan UUD 1945, Pancasila memiliki...",
       "pilihan": {
-        "A": "Kedudukan hukum yang kuat",
+        "A": "Kedudukan hukum dan landasan yuridis yang kokoh",
         "B": "Kedudukan hukum yang fleksibel bersyarat",
         "C": "Sifat sementara menunggu amandemen total",
         "D": "Kekuatan setara peraturan pemerintah pengganti",
@@ -2316,7 +2316,7 @@
         "B": "Undang-Undang Nomor 15 Tahun 2004",
         "C": "Undang-Undang Nomor 25 Tahun 2009",
         "D": "Undang-Undang Nomor 28 Tahun 1999",
-        "E": "Undang-Undang Nomor 12 Tahun 2011 juncto UU 13/2022"
+        "E": "Undang-Undang Nomor 12 Tahun 2011"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -2603,7 +2603,7 @@
       "pertanyaan": "Karakteristik khas norma hukum yang membedakannya dari norma kesusilaan dan sopan santun adalah memiliki sanksi...",
       "pilihan": {
         "A": "Kutukan gaib yang datang dari roh nenek moyang",
-        "B": "Pengucilan informal dalam kelompok arisan keluarga",
+        "B": "Sanksi sosial informal berupa teguran lingkungan",
         "C": "Teguran lisan dari para tetangga sekitar rumah",
         "D": "Rasa cemas tanpa adanya ancaman hukuman lahiriah",
         "E": "Tegas dari pemerintah melalui alat-alat negara"

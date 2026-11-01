@@ -415,7 +415,7 @@
         "A": "Dapat dipusatkan secara permanen pada tangan satu kelompok elite penguasa",
         "B": "Dikecualikan dari kewajiban pemeriksaan laporan pertanggungjawaban dana",
         "C": "Bebas digunakan untuk menindak siapa saja yang berbeda haluan politik",
-        "D": "Dapat diwariskan secara turun-temurun dalam lingkungan keluarga pejabat",
+        "D": "Kelompok kerabat tertentu yang memiliki relasi kedinasan",
         "E": "Dapat dibatasi dan dikendalikan sebagaimana mestinya demi mencegah tirani"
       },
       "kunci_jawaban": "E",
@@ -773,7 +773,7 @@
         "A": "Memberikan hak istimewa imunitas penuntutan pidana kepada aparat dinas",
         "B": "Memperbolehkan penahanan warga negara tanpa melalui prosedur peradilan",
         "C": "Mengatur pelaksanaan supremasi hukum dalam hubungan individu dan pemerintah",
-        "D": "Mengharuskan setiap warga menaati titah penguasa tanpa dasar undang-undang",
+        "D": "Kebijakan diskresioner aparatur di luar kerangka hukum",
         "E": "Membatasi hak warga untuk mengakses dokumen informasi publik kementerian"
       },
       "kunci_jawaban": "C",
@@ -1010,9 +1010,9 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Konsekuensi asas hierarki hukum terhadap pembentukan Peraturan Pemerintah dan Perpres adalah...",
       "pilihan": {
-        "A": "Bebas memuat materi yang bertentangan dengan undang-undang asalkan disetujui presiden",
+        "A": "Bebas memuat materi yang bertentangan dengan undang-undang",
         "B": "Wajib berlandaskan dan bersumber pada peraturan perundangan yang lebih tinggi",
-        "C": "Dapat mengesampingkan pasal-pasal hak asasi manusia demi percepatan investasi modal",
+        "C": "Dapat mengesampingkan pasal hak asasi demi percepatan modal",
         "D": "Ditetapkan secara tertutup tanpa perlu diundangkan dalam lembaran berita negara",
         "E": "Dikecualikan dari pengujian materiil oleh lembaga peradilan mahkamah agung"
       },
@@ -1104,7 +1104,7 @@
         "B": "UU Nomor 15 Tahun 2004 tentang Tata Cara Pemeriksaan Keuangan Negara",
         "C": "UU Nomor 30 Tahun 2014 tentang Pelaksanaan Administrasi Pemerintahan",
         "D": "UU Nomor 1 Tahun 2004 tentang Tata Tertib Perbendaharaan Negara",
-        "E": "UU Nomor 12 Tahun 2011 yang telah diubah dengan UU Nomor 13 Tahun 2022"
+        "E": "UU Nomor 12 Tahun 2011 juncto UU Nomor 13 Tahun 2022"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
@@ -1161,7 +1161,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Karakteristik norma-norma yang terkandung dalam UUD 1945 bersifat mengikat karena...",
       "pilihan": {
-        "A": "Disusun berdasarkan tradisi musyawarah informal paguyuban adat",
+        "A": "Membentuk kelompok kedaerahan eksklusif di lingkungan kantor",
         "B": "Merupakan aturan dasar yang wajib ditaati dan dilaksanakan semua komponen",
         "C": "Bersifat anjuran sukarela yang pelaksanaannya diserahkan pada individu",
         "D": "Berlaku efektif apabila didukung oleh konsensus seluruh angkatan bersenjata",
@@ -1251,7 +1251,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Berdasarkan Pasal 7 UU 12/2011 jo UU 13/2022, urutan hierarki peraturan perundang-undangan yang tepat adalah...",
       "pilihan": {
-        "A": "UUD 1945, Ketetapan MPR, UU/Perppu, PP, Perpres, Perda Provinsi, dan Perda Kab/Kota",
+        "A": "UUD 1945, Tap MPR, UU/Perppu, PP, Perpres, Perda Prov, Perda Kab/Kota",
         "B": "UUD 1945, Perpres, PP, Undang-Undang/Perppu, dan Peraturan Daerah",
         "C": "Ketetapan MPR, UUD 1945, Undang-Undang, Perpres, Peraturan Pemerintah, dan Perda",
         "D": "Pancasila, UUD 1945, Peraturan Pemerintah, Undang-Undang, Perpres, dan Perda",
@@ -1311,10 +1311,10 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Makna dari prinsip 'kekuatan hukum peraturan perundang-undangan sesuai dengan hierarki' adalah...",
       "pilihan": {
-        "A": "Peraturan yang diterbitkan lebih baru otomatis membatalkan seluruh undang-undang dasar",
-        "B": "Setiap keputusan kepala desa dapat mengesampingkan ketentuan peraturan pemerintah",
-        "C": "Peraturan yang lebih tinggi memiliki derajat kekuatan hukum mengalahkan yang lebih rendah",
-        "D": "Peraturan daerah memiliki kedudukan hukum tertinggi dalam wilayah batas otonominya",
+        "A": "Peraturan baru otomatis membatalkan seluruh undang-undang dasar",
+        "B": "Keputusan kepala desa dapat mengesampingkan peraturan pemerintah",
+        "C": "Peraturan yang lebih tinggi derajatnya mengalahkan yang rendah",
+        "D": "Peraturan daerah berkedudukan tertinggi dalam batas otonominya",
         "E": "Peraturan menteri dapat mengubah materi undang-undang asalkan disetujui presiden"
       },
       "kunci_jawaban": "C",
@@ -1610,7 +1610,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Fungsi utama konvensi ketatanegaraan dalam praktik bernegara di Indonesia adalah...",
       "pilihan": {
-        "A": "Mengubah susunan hierarki peraturan perundang-undangan tanpa dasar UU",
+        "A": "Mengubah hierarki tata urutan peraturan di luar undang-undang",
         "B": "Sebagai aturan pelengkap atau pengisi kekosongan hukum dalam praktik",
         "C": "Menghapuskan fungsi pengawasan lembaga dewan perwakilan rakyat",
         "D": "Memberikan hak veto kepada presiden terhadap putusan mahkamah",
@@ -1799,7 +1799,7 @@
       "kunci_jawaban": "D",
       "pembahasan": {
         "konsep_materi": "Persatuan adalah **dasar negara yang tidak boleh dilupakan**, karena tanpa persatuan, keutuhan dan keberlanjutan eksistensi bangsa akan runtuh.",
-        "alasan_kunci": "Opsi D keliru; Opsi A tepat karena para pendiri bangsa menyadari bahwa Indonesia adalah negara majemuk dengan ribuan pulau dan ratusan suku. Bila persatuan diabaikan, benih perpecahan dan konflik primordial dapat menghancurkan kemerdekaan yang telah ditebus dengan darah para pejuang. Persatuan adalah syarat mutlak kejayaan.",
+        "alasan_kunci": "Opsi D tepat karena para pendiri bangsa menyadari bahwa Indonesia adalah negara majemuk dengan ribuan pulau dan ratusan suku. Bila persatuan diabaikan, benih perpecahan dan konflik primordial dapat menghancurkan kemerdekaan yang telah ditebus dengan darah para pejuang. Oleh karena itu, opsi D merupakan jawaban yang tepat.",
         "bedah_pengecoh": {
           "A": "Undang-undang dibuat sesuai kebutuhan hukum masyarakat, bukan berganti tanpa arah.",
           "B": "Bentuk negara kesatuan republik adalah pilihan final yang tidak dapat diubah (Pasal 37).",
@@ -2479,7 +2479,7 @@
       "pilihan": {
         "A": "Majelis Permusyawaratan Rakyat memegang monopoli seluruh cabang kekuasaan",
         "B": "Dewan Perwakilan Daerah memiliki kedudukan lebih tinggi dibanding DPR",
-        "C": "Kekuasaan tertinggi negara berada di tangan rakyat dan tidak lagi di tangan MPR",
+        "C": "Kekuasaan tertinggi di tangan rakyat dan tidak lagi di tangan MPR",
         "D": "Lembaga kepresidenan berubah kedudukan menjadi pemegang mandat penuh MPR",
         "E": "Pemerintah pusat memegang kendali penuh atas putusan peradilan konstitusi"
       },
@@ -2564,11 +2564,11 @@
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Apabila DPR menduga adanya tindak pidana berat oleh Presiden, langkah konstitusional yang wajib ditempuh DPR sebelum menyampaikan usul pemakzulan ke MPR adalah...",
       "pilihan": {
-        "A": "Meminta fatwa hukum Mahkamah Agung mengenai status pemakzulan kepala pemerintahan",
-        "B": "Menerbitkan nota pemakzulan langsung tanpa pengadilan untuk dieksekusi kepolisian",
-        "C": "Menyelenggarakan referendum nasional guna meminta mandat pemakzulan dari seluruh pemilih",
-        "D": "Mengajukan permintaan ke Mahkamah Konstitusi untuk memeriksa dan memutus pendapat DPR",
-        "E": "Membentuk komite etik internal parlemen guna memberhentikan Presiden dari jabatannya"
+        "A": "Meminta fatwa hukum Mahkamah Agung terkait pemakzulan Presiden",
+        "B": "Menerbitkan nota pemakzulan langsung untuk dieksekusi kepolisian",
+        "C": "Menyelenggarakan referendum nasional guna meminta mandat pemilih",
+        "D": "Mengajukan permintaan ke MK guna memeriksa dan memutus pendapat DPR",
+        "E": "Membentuk komite etik guna memberhentikan Presiden dari jabatannya"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
@@ -2597,7 +2597,7 @@
         "B": "Penurunan kinerja pertumbuhan ekonomi nasional di bawah rata-rata target APBN",
         "C": "Perbedaan visi program pembangunan antara Presiden dengan pimpinan fraksi partai",
         "D": "Penolakan terhadap usulan pembentukan kementerian baru yang disodorkan parlemen",
-        "E": "Keputusan perombakan kabinet yang dilakukan tanpa persetujuan komisi terkait di DPR"
+        "E": "Keputusan perombakan kabinet di luar persetujuan komisi terkait di DPR"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
@@ -2624,7 +2624,7 @@
       "pilihan": {
         "A": "Menteri negara bertanggung jawab secara kolektif kepada komisi-komisi di DPR",
         "B": "Pengangkatan jajaran kabinet wajib melalui persetujuan mutlak pimpinan parlemen",
-        "C": "Menteri diangkat serta diberhentikan oleh Presiden dan bertanggung jawab kepadanya",
+        "C": "Menteri diangkat dan diberhentikan serta bertanggung jawab ke Presiden",
         "D": "Pemberhentian menteri harus didasarkan pada hasil sidang paripurna istimewa MPR",
         "E": "Menteri memegang mandat otonom yang tidak dapat dipengaruhi kebijakan Presiden"
       },
@@ -2681,7 +2681,7 @@
       "pertanyaan": "Ketentuan Pasal 37 ayat (5) UUD 1945 memberikan batasan tegas terhadap wewenang perubahan konstitusi, yaitu...",
       "pilihan": {
         "A": "Struktur kelembagaan kementerian dapat dibubarkan secara mandiri oleh parlemen",
-        "B": "Khusus tentang bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan",
+        "B": "Bentuk Negara Kesatuan Republik Indonesia tidak dapat diubah",
         "C": "Mekanisme pemilihan kepala daerah tidak dapat disesuaikan dengan undang-undang",
         "D": "Batas wilayah otonomi daerah dilarang mengalami pemekaran atau penggabungan",
         "E": "Pengaturan jumlah lembaga peradilan tata usaha negara bersifat mutlak permanen"
@@ -2769,9 +2769,9 @@
       "pilihan": {
         "A": "Perwakilan organisasi masyarakat dan utusan golongan yang ditunjuk kepala negara",
         "B": "Seluruh menteri koordinator bersama para pimpinan lembaga tinggi pemerintahan",
-        "C": "Para perwira tinggi militer aktif beserta pimpinan partai politik pemenang pemilu",
+        "C": "Perwira militer aktif beserta pimpinan partai pemenang pemilu",
         "D": "Seluruh anggota DPR dan DPD yang dipilih secara langsung lewat pemilihan umum",
-        "E": "Gubernur seluruh provinsi dan delegasi rektor perguruan tinggi negeri se-Indonesia"
+        "E": "Gubernur seluruh provinsi dan delegasi rektor perguruan tinggi"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
