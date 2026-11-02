@@ -23,7 +23,7 @@
       "pilihan": {
         "A": "Pembubaran dan penggabungan negara bagian diatur pasal 43 dan 49 RIS",
         "B": "Peleburan wilayah serikat diputuskan sekehendak perwakilan militer sekutu",
-        "C": "Konstitusi federal melarang pembubaran wilayah tanpa izin Belanda",
+        "C": "Peleburan negara serikat harus disetujui langsung oleh parlemen Den Haag",
         "D": "Negara bagian diwajibkan mempertahankan batas teritorialnya secara permanen",
         "E": "Pemerintah federal berhak membekukan dewan perwakilan daerah"
       },
@@ -32,10 +32,10 @@
         "konsep_materi": "**Pembubaran dan penggabungan negara-negara bagian itu dimungkinkan dalam pasal 43 dan pasal 49 Konstitusi RIS**, yang menjadi jalan konstitusional kembalinya bentuk negara kesatuan.",
         "alasan_kunci": "Opsi A tepat karena Konstitusi RIS sendiri memuat klausul hukum yang memperbolehkan suatu negara bagian untuk bergabung dengan negara bagian lain atau membubarkan diri demi aspirasi rakyatnya, sehingga proses unifikasi berjalan sah secara hukum ketatanegaraan.",
         "bedah_pengecoh": {
-          "B": "Kurang tepat karena peleburan wilayah didasarkan pada kehendak rakyat dan pasal konstitusi, bukan komando sekutu.",
-          "C": "Kurang tepat karena Konstitusi RIS justru membuka ruang pembubaran dan penggabungan wilayah.",
-          "D": "Kurang tepat karena negara bagian memiliki hak konstitusional untuk menggabungkan wilayahnya.",
-          "E": "Kurang tepat karena pembubaran negara bagian berakar dari keputusan rakyat dan parlemen negara bagian terkait."
+          "B": "Penyatuan kembali RIS adalah kehendak sah rakyat, bukan instruksi sekutu.",
+          "C": "Indonesia telah berdaulat penuh dan tidak memerlukan izin parlemen Belanda.",
+          "D": "Konstitusi RIS secara terbuka membuka opsi penggabungan dengan Republik.",
+          "E": "Pembekuan dewan daerah bertentangan dengan prinsip demokrasi federalis saat itu."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -663,17 +663,17 @@
         "B": "Tahun 1955 pada masa transisi berlakunya undang-undang dasar sementara",
         "C": "Tahun 1973 bertepatan dengan penetapan garis-garis besar haluan negara",
         "D": "Tahun 1968 menjelang sidang umum majelis permusyawaratan darurat",
-        "E": "Pemilu pertama dalam masa Orde Baru diadakan pada tahun 1971"
+        "E": "Tahun 1971 sebagai pesta pemilu perdana pada masa pemerintahan Orde Baru"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
         "konsep_materi": "**Pemilu pertama dalam masa Orde Baru diadakan pada tahun 1971**, selanjutnya pada tahun 1973 diadakan sidang umum MPR yang menetapkan GBHN dan memilih Presiden dan Wakil Presiden.",
         "alasan_kunci": "Opsi E tepat karena setelah Pemilu 1955, Indonesia baru menyelenggarakan pemilihan umum kembali pada tanggal 5 Juli 1971 yang diikuti oleh 10 kontestan (9 parpol dan Sekber Golkar).",
         "bedah_pengecoh": {
-          "A": "Kurang tepat karena tahun 1966 adalah momentum transisi politik terbitnya Supersemar.",
-          "B": "Kurang tepat karena Pemilu 1955 adalah pemilu pertama Indonesia pada masa Demokrasi Liberal.",
-          "C": "Kurang tepat karena tahun 1973 adalah Sidang Umum MPR hasil Pemilu 1971.",
-          "D": "Kurang tepat karena tahun 1968 adalah Sidang Umum MPRS pengangkatan presiden definitif."
+          "A": "Tahun 1966 adalah momentum peralihan kekuasaan melalui Supersemar.",
+          "B": "Tahun 1955 adalah pemilu pertama di Indonesia pada masa Demokrasi Parlementer.",
+          "C": "Tahun 1973 adalah sidang MPR yang menetapkan GBHN pertama era Orba.",
+          "D": "Tahun 1968 adalah momentum pengangkatan Soeharto sebagai presiden definitif."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -775,21 +775,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Karakteristik penyelenggaraan ketatanegaraan pada masa Orde Baru (1966–1998) ditandai oleh fenomena hubungan kelembagaan di mana...",
       "pilihan": {
-        "A": "Parlemen memegang dominasi penuh dalam menentukan arah seluruh kebijakan publik",
-        "B": "Pemerintah daerah memegang kedaulatan mutlak pengelolaan sumber keuangan negara",
-        "C": "Badan peradilan memiliki wewenang membatalkan ketetapan majelis permusyawaratan",
-        "D": "Kekuasaan lembaga kepresidenan sangat dominan dibanding lainnya",
-        "E": "Dewan pertimbangan agung menjalankan fungsi penuntutan perkara kejahatan ekonomi"
+        "A": "Pemberlakuan sistem kabinet parlementer dengan menteri bertanggung jawab ke parlemen",
+        "B": "Pemisahan kekuasaan negara yang menempatkan dewan perwakilan sebagai otoritas tertinggi",
+        "C": "Peniadaan masa jabatan kepresidenan dan penunjukan kepala negara secara bergiliran",
+        "D": "Pemusatan kekuasaan pada presiden serta stabilitas politik dan pembangunan ekonomi",
+        "E": "Dominasi kekuasaan eksekutif yang membatasi ruang partisipasi oposisi bebas"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
         "konsep_materi": "Dalam pelaksanaan UUD 1945 kurun waktu 1966–1998: Di satu pihak, **kekuasaan lembaga tinggi presiden sangat berperan**, di lain pihak lembaga-lembaga negara lainnya belum berfungsi secara optimal (*executive heavy*).",
         "alasan_kunci": "Opsi D tepat karena meskipun lembaga negara telah dibentuk lengkap, kekuasaan eksekutif presiden sangat dominan mengendalikan proses politik dan hukum, sementara DPR dan lembaga pengawas cenderung bersikap menyetujui (*rubber stamp*).",
         "bedah_pengecoh": {
-          "A": "Kurang tepat karena DPR pada era Orde Baru berada di bawah pengaruh kuat dominasi eksekutif presiden.",
-          "B": "Kurang tepat karena tata kelola keuangan negara era Orde Baru bersifat sangat sentralistik.",
-          "C": "Kurang tepat karena MA saat itu belum memiliki wewenang menguji undang-undang atau TAP MPR.",
-          "E": "Kurang tepat karena DPA berstatus dewan penasihat dan tidak menjalankan fungsi penuntutan hukum."
+          "A": "Sistem parlementer berlaku pada masa Republik Indonesia Serikat dan UUDS 1950.",
+          "B": "Orde Baru berlandaskan sistem presidensial dengan kekuasaan eksekutif dominan.",
+          "C": "Konstitusi UUD 1945 tetap mengatur masa jabatan presiden selama lima tahunan.",
+          "E": "Pembatasan oposisi adalah ekses politik, bukan karakteristik normatif buku teks."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1009,7 +1009,7 @@
       "pilihan": {
         "A": "Tanggal 11 Maret 1966 saat surat perintah pengamanan negara diterbitkan",
         "B": "Tanggal 19 Oktober 1999 saat pengesahan naskah amandemen pertama konstitusi",
-        "C": "Pada tanggal 21 Mei 1998 saat kepemimpinan Orde Baru resmi berakhir",
+        "C": "Tanggal 21 Mei 1998 saat pernyataan berhenti Presiden Soeharto dibacakan",
         "D": "Tanggal 17 Agustus 1950 saat pembubaran negara serikat hasil konferensi",
         "E": "Tanggal 5 Juli 1959 saat pembacaan dekrit pemberlakuan kembali konstitusi"
       },
@@ -1018,10 +1018,10 @@
         "konsep_materi": "**Pada tanggal 21 Mei 1998, Pemerintahan Orde Baru berakhir** dengan pengunduran diri Presiden Soeharto setelah gelombang demonstrasi mahasiswa dan krisis moneter.",
         "alasan_kunci": "Opsi C tepat karena pada 21 Mei 1998 Presiden Soeharto menyatakan berhenti dari jabatannya di Istana Merdeka dan Wakil Presiden B.J. Habibie disumpah menjadi Presiden ketiga Republik Indonesia, mengawali era Reformasi.",
         "bedah_pengecoh": {
-          "A": "Kurang tepat karena 11 Maret 1966 adalah awal lahirnya era Orde Baru.",
-          "B": "Kurang tepat karena 19 Oktober 1999 adalah tanggal penetapan Amandemen Pertama UUD 1945.",
-          "D": "Kurang tepat karena 17 Agustus 1950 adalah tanggal berdirinya kembali NKRI pasca-RIS.",
-          "E": "Kurang tepat karena 5 Juli 1959 adalah tanggal Dekrit Presiden kembali ke UUD 1945."
+          "A": "Supersemar 1966 merupakan awal masa peralihan menuju pemerintahan Orde Baru.",
+          "B": "Amandemen pertama UUD 1945 disahkan pada era Reformasi tahun 1999.",
+          "D": "Pembubaran RIS pada 17 Agustus 1950 mengawali era Demokrasi Liberal.",
+          "E": "Dekrit Presiden 5 Juli 1959 merupakan penanda lahirnya masa Demokrasi Terpimpin."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1123,21 +1123,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Pergeseran kekuasaan membentuk undang-undang dalam Perubahan Pertama UUD 1945 pada Pasal 20 ayat (1) menegaskan bahwa...",
       "pilihan": {
-        "A": "Kekuasaan legislasi sepenuhnya diserahkan kepada dewan pertimbangan kepresidenan",
-        "B": "Pemegang kekuasaan pembentuk UU adalah DPR, bukan lagi Presiden",
-        "C": "Mahkamah agung memegang hak monopoli menyusun naskah rancangan peraturan",
-        "D": "Pemerintah daerah berhak mengesahkan undang-undang nasional secara mandiri",
-        "E": "Kementerian koordinator memiliki hak veto membatalkan persetujuan dewan"
+        "A": "Kewenangan membuat undang-undang dialihkan sepenuhnya kepada mahkamah agung",
+        "B": "Dewan Perwakilan Rakyat memegang kekuasaan membentuk undang-undang",
+        "C": "Kekuasaan presiden menetapkan rancangan aturan kedinasan tanpa persetujuan dewan",
+        "D": "Kewenangan legislasi diserahkan kepada dewan pertimbangan agung kementerian",
+        "E": "Undang-undang hanya dapat disahkan setelah disetujui dewan pimpinan daerah"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
         "konsep_materi": "Dalam amandemen pertama dinyatakan bahwa **pemegang kekuasaan pembentuk UU adalah DPR, bukan lagi Presiden**, memulihkan hakikat parlemen sebagai cabang legislatif.",
         "alasan_kunci": "Opsi B tepat karena naskah asli Pasal 5 ayat (1) menempatkan Presiden sebagai pemegang kekuasaan membentuk UU dengan persetujuan DPR (*executive heavy*). Amandemen Pertama memindahkannya ke Pasal 20 ayat (1) sehingga DPR menjadi pemegang kekuasaan legislasi utama.",
         "bedah_pengecoh": {
-          "A": "Kurang tepat karena dewan pertimbangan berkedudukan memberi pertimbangan, bukan membentuk UU.",
-          "C": "Kurang tepat karena Mahkamah Agung mengadili perkara peradilan, bukan membentuk undang-undang.",
-          "D": "Kurang tepat karena pembentukan undang-undang merupakan ranah DPR dan Presiden di tingkat pusat.",
-          "E": "Kurang tepat karena menteri tidak memiliki hak veto terhadap undang-undang."
+          "A": "Mahkamah Agung menjalankan fungsi yudikatif, bukan membentuk undang-undang.",
+          "C": "Pasal 20 ayat (1) justru menggeser kekuasaan pembentukan UU dari Presiden ke DPR.",
+          "D": "Dewan Pertimbangan Agung (DPA) telah resmi dihapuskan dalam amandemen konstitusi.",
+          "E": "Persetujuan bersama pembentukan UU dilakukan oleh DPR bersama Presiden."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1181,21 +1181,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Perubahan mendasar terkait doktrin kedaulatan rakyat dalam Perubahan Ketiga UUD 1945 tahun 2001 adalah...",
       "pilihan": {
-        "A": "MPR diposisikan sebagai pemegang monopoli kekuasaan eksekutif dan peradilan",
-        "B": "Kekuasaan tertinggi negara dialihkan kepada pimpinan angkatan bersenjata",
-        "C": "Kedaulatan negara diserahkan kepada dewan pimpinan partai politik mayoritas",
-        "D": "Lembaga kepresidenan dibubarkan dan digantikan oleh kabinet presidium",
-        "E": "MPR tidak lagi memegang dan melaksanakan kedaulatan rakyat secara penuh"
+        "A": "Kedaulatan berada penuh di tangan majelis permusyawaratan sebagai penjelmaan rakyat",
+        "B": "Kedaulatan diserahkan kepada keputusan gabungan pimpinan partai politik nasional",
+        "C": "Kedaulatan dijalankan sepenuhnya oleh kepala negara dibantu aparat bersenjata",
+        "D": "Kedaulatan rakyat dibatasi hanya pada pelaksanaan pemilihan kepala desa serentak",
+        "E": "Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
         "konsep_materi": "Dalam amandemen ketiga UUD 1945 ditegaskan bahwa **MPR tidak lagi memegang dan melaksanakan kedaulatan rakyat. Dengan demikian MPR bukan lagi sebagai lembaga tertinggi negara**, melainkan lembaga negara yang sejajar dengan lembaga negara lainnya.",
         "alasan_kunci": "Opsi E tepat karena kedaulatan rakyat pasca-amandemen Pasal 1 ayat (2) berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar, memutus konsep 'supremasi MPR' menjadi 'supremasi konstitusi'.",
         "bedah_pengecoh": {
-          "A": "Kurang tepat karena MPR tidak memonopoli kekuasaan eksekutif atau yudikatif.",
-          "B": "Kurang tepat karena kekuasaan negara dipegang oleh lembaga sipil konstitusional.",
-          "C": "Kurang tepat karena kedaulatan berada di tangan rakyat, bukan di tangan partai politik.",
-          "D": "Kurang tepat karena lembaga kepresidenan tetap kokoh sebagai pemegang kekuasaan pemerintahan."
+          "A": "MPR sebagai pemegang kedaulatan mutlak adalah rumusan UUD 1945 pra-amandemen.",
+          "B": "Partai politik adalah pilar demokrasi, bukan pemilik kedaulatan negara.",
+          "C": "Sistem ketatanegaraan Indonesia menolak konsentrasi kedaulatan pada individu presiden.",
+          "D": "Kedaulatan rakyat mencakup hak politik penuh dalam pemilu legislatif dan presiden."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1821,8 +1821,8 @@
       "pilihan": {
         "A": "Tanggal 19 Oktober 1999 pada penutupan sidang umum pertama reformasi",
         "B": "Tanggal 9 November 2001 saat pembentukan mahkamah konstitusi disetujui",
-        "C": "Tanggal 18 Agustus 2000 bertepatan dengan pengesahan bab hak asasi",
-        "D": "Ditetapkan pada tanggal 10 Agustus 2002 pada Sidang Tahunan MPR",
+        "C": "Tanggal 18 Agustus 2000 bertepatan dengan pengesahan bab hak asasi manusia",
+        "D": "Tanggal 10 Agustus 2002 pada penutupan Sidang Tahunan Majelis Permusyawaratan Rakyat",
         "E": "Tanggal 17 Agustus 1950 saat pembubaran negara serikat hasil perundingan"
       },
       "kunci_jawaban": "D",
@@ -1830,10 +1830,10 @@
         "konsep_materi": "Perubahan Keempat UUD 1945 **ditetapkan pada tanggal 10 Agustus 2002** dalam Sidang Tahunan MPR RI, menandai selesainya pembaruan komprehensif konstitusi Indonesia.",
         "alasan_kunci": "Opsi D tepat karena tanggal 10 Agustus 2002 menjadi tonggak penyelesaian agenda reformasi konstitusi yang dimulai sejak 1999, menghasilkan naskah UUD 1945 yang modern dan demokratis.",
         "bedah_pengecoh": {
-          "A": "Kurang tepat karena 19 Oktober 1999 adalah tanggal penetapan Perubahan Pertama.",
-          "B": "Kurang tepat karena 9 November 2001 adalah tanggal penetapan Perubahan Ketiga.",
-          "C": "Kurang tepat karena 18 Agustus 2000 adalah tanggal penetapan Perubahan Kedua.",
-          "E": "Kurang tepat karena 17 Agustus 1950 adalah peringatan kembalinya NKRI pasca-RIS."
+          "A": "19 Oktober 1999 merupakan pengesahan Perubahan Pertama UUD 1945.",
+          "B": "9 November 2001 merupakan pengesahan Perubahan Ketiga UUD 1945.",
+          "C": "18 Agustus 2000 merupakan pengesahan Perubahan Kedua UUD 1945.",
+          "E": "17 Agustus 1950 adalah momentum kembalinya Indonesia ke bentuk NKRI."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1906,21 +1906,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Dalam Perubahan Keempat UUD 1945, penyempurnaan terhadap Bab XIV ditujukan untuk mempertegas...",
       "pilihan": {
-        "A": "Pemberian izin monopoli perdagangan kepada konglomerasi perbankan swasta",
-        "B": "Ketentuan tentang perekonomian nasional dan jaminan kesejahteraan sosial rakyat",
-        "C": "Penarikan seluruh dana simpanan masyarakat untuk dialihkan ke kas pertahanan",
-        "D": "Penghapusan jaminan pemeliharaan fakir miskin dan anak terlantar oleh negara",
-        "E": "Penetapan upah buruh minimum secara langsung tanpa koordinasi dewan pengupahan"
+        "A": "Penyerahan tata kelola ekonomi kepada mekanisme pasar internasional bebas",
+        "B": "Menambahkan prinsip efisiensi berkeadilan dan kepedulian lingkungan hidup",
+        "C": "Menghapuskan fungsi kepemilikan negara atas seluruh badan usaha milik umum",
+        "D": "Mewajibkan penggunaan mata uang asing dalam seluruh transaksi perdagangan",
+        "E": "Membatasi keikutsertaan koperasi dalam pengelolaan sumber kekayaan alam"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
         "konsep_materi": "Materi perubahan pada Perubahan Keempat mencakup **ketentuan tentang perekonomian dan kesejahteraan sosial** (Bab XIV Pasal 33 ayat 4 dan 5 serta Pasal 34 ayat 1, 2, 3, dan 4).",
         "alasan_kunci": "Opsi B tepat karena amandemen menambahkan prinsip efisiensi berkeadilan, keberlanjutan, berwawasan lingkungan, dan kemandirian dalam Pasal 33, serta mewajibkan negara mengembangkan sistem jaminan sosial dan memelihara fakir miskin dalam Pasal 34.",
         "bedah_pengecoh": {
-          "A": "Kurang tepat karena Pasal 33 melarang monopoli swasta yang menguasai hajat hidup orang banyak.",
-          "C": "Kurang tepat karena negara menjamin perlindungan hak milik dan simpanan warga.",
-          "D": "Kurang tepat karena negara justru diwajibkan memelihara fakir miskin (Pasal 34 ayat 1).",
-          "E": "Kurang tepat karena regulasi ketenagakerjaan diatur secara adil dalam undang-undang ketenagakerjaan."
+          "A": "Ekonomi Indonesia berlandaskan keadilan sosial, menolak kapitalisme pasar bebas murni.",
+          "C": "Pasal 33 tetap mengamanatkan penguasaan negara atas cabang produksi strategis.",
+          "D": "Rupiah merupakan alat pembayaran sah yang wajib digunakan di wilayah NKRI.",
+          "E": "Koperasi tetap ditempatkan sebagai soko guru perekonomian nasional."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }

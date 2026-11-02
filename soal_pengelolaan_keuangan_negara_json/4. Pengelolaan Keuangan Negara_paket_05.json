@@ -146,7 +146,7 @@
         "A": "Fasilitas pembebasan pajak bagi seluruh aparatur pemerintah",
         "B": "Kewenangan mutlak dalam menetapkan harga komoditas pasar",
         "C": "Kemampuan menghapus seluruh kewajiban utang luar negeri",
-        "D": "Hak monopoli dalam pengelolaan seluruh sektor industri privat",
+        "D": "Daya dukung dalam stabilisasi likuiditas valuta asing negara",
         "E": "Efek ganda dalam menumbuhkan ekonomi dan lapangan kerja"
       },
       "kunci_jawaban": "E",
@@ -157,7 +157,7 @@
           "A": "Aparatur pemerintah tetap dikenakan pemotongan pajak penghasilan resmi.",
           "B": "Harga pasar komoditas ditentukan oleh mekanisme pasar dan daya beli.",
           "C": "Belanja negara tidak otomatis menghapuskan kewajiban pokok utang.",
-          "D": "Negara tidak memonopoli industri privat yang berdaya saing bebas."
+          "D": "Stabilisasi valuta asing adalah fungsi moneter yang dijalankan oleh Bank Indonesia."
         },
         "sumber_rujukan": "Pengelolaan Keuangan Negara"
       }
@@ -355,7 +355,7 @@
       "pilihan": {
         "A": "Menghambat penarikan dana pinjaman luar negeri pemerintah",
         "B": "Menimbulkan peluang duplikasi, penumpukan, dan penyimpangan",
-        "C": "Mempersulit pemeriksaan kuitansi fisik oleh aparat pemeriksa",
+        "C": "Menghambat integrasi pelaporan realisasi belanja modal daerah",
         "D": "Menurunkan jumlah penerimaan perpajakan kas umum negara",
         "E": "Membatasi penambahan jumlah formasi aparatur sipil negara"
       },
@@ -365,7 +365,7 @@
         "alasan_kunci": "Opsi B tepat karena kegiatan operasional sering kali disamarkan sebagai proyek pembangunan non-fisik sehingga satu kegiatan didanai ganda dari pos rutin sekaligus pos pembangunan.",
         "bedah_pengecoh": {
           "A": "Penarikan pinjaman luar negeri mengikuti tata cara perjanjian pinjaman.",
-          "C": "Pemeriksaan kuitansi tetap dilakukan sesuai standar audit kepatuhan.",
+          "C": "Pelaporan belanja modal mengikuti standar akuntansi pemerintahan yang berlaku.",
           "D": "Format belanja tidak memengaruhi penerimaan perpajakan kas negara.",
           "E": "Formasi ASN ditetapkan berdasarkan analisis jabatan dan beban kerja."
         },
@@ -682,8 +682,8 @@
       "pertanyaan": "Pengeluaran berupa transfer uang atau barang kepada masyarakat melalui K/L disebut...",
       "pilihan": {
         "A": "Belanja barang untuk menunjang operasional dinas kantor",
-        "B": "Belanja pegawai untuk meningkatkan kinerja aparatur",
-        "C": "Bantuan sosial untuk melindungi dari risiko sosial",
+        "B": "Belanja pegawai untuk meningkatkan kinerja aparatur negara",
+        "C": "Belanja bantuan sosial untuk memproteksi risiko sosial warga",
         "D": "Belanja modal untuk menambah kepemilikan aset kementerian",
         "E": "Belanja bunga untuk melunasi kupon surat utang negara"
       },
@@ -983,7 +983,7 @@
         "A": "Tingkat suku bunga pinjaman komersial perbankan daerah",
         "B": "Jumlah proposal permohonan bantuan yang diajukan oleh bupati",
         "C": "Persentase atas pendapatan tertentu dalam APBN dan kinerja tertentu",
-        "D": "Hasil lelang barang sitaan kejahatan tindak pidana peradilan",
+        "D": "Alokasi penerimaan bea masuk pelabuhan ekspor kawasan",
         "E": "Besaran sisa lebih anggaran belanja tahun anggaran sebelumnya"
       },
       "kunci_jawaban": "C",
@@ -993,7 +993,7 @@
         "bedah_pengecoh": {
           "A": "Suku bunga perbankan tidak menjadi dasar pembagian bagi hasil APBN.",
           "B": "DBH bukan dana hibah proposal melainkan alokasi berbasis persentase.",
-          "D": "Barang sitaan peradilan disetor ke kas negara sebagai PNBP kejaksaan.",
+          "D": "Bea masuk merupakan penerimaan pabean yang seluruhnya masuk kas negara.",
           "E": "SiLPA daerah adalah saldo kas daerah yang tidak memengaruhi DBH."
         },
         "sumber_rujukan": "Pengelolaan Keuangan Negara"
@@ -1075,7 +1075,7 @@
         "B": "Industri perbankan, pasar modal, asuransi, dan dana pensiun",
         "C": "Transportasi darat, penerbangan perintis, dan perkeretaapian",
         "D": "Telekomunikasi digital, informatika, dan pos logistik paket",
-        "E": "Pariwisata perhotelan, hiburan malam, dan restoran kuliner"
+        "E": "Perkebunan kelapa sawit, kakao, karet rakyat, dan tebu"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
@@ -1085,7 +1085,7 @@
           "B": "Industri perbankan dan asuransi adalah sektor jasa keuangan komersial.",
           "C": "Transportasi adalah sektor perhubungan logistik, bukan SDA.",
           "D": "Telekomunikasi adalah sektor infrastruktur teknologi informasi.",
-          "E": "Pariwisata dan hotel adalah sektor pajak jasa daerah.",
+          "E": "Sektor perkebunan dikelola sebagai komoditas pertanian agrobisnis biasa.",
           "sumber_rujukan": "Pengelolaan Keuangan Negara"
         },
         "sumber_rujukan": "Pengelolaan Keuangan Negara"
@@ -1648,7 +1648,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Pemanfaatan Dana Desa secara regulasi difokuskan untuk mendanai empat bidang yaitu...",
       "pilihan": {
-        "A": "Penyelenggaraan pesta rakyat dan perayaan tahun baru di desa",
+        "A": "Penyediaan modal usaha perorangan bagi pengurus aparatur desa",
         "B": "Perjalanan dinas aparatur kementerian, studi banding, dan seminar",
         "C": "Pembelian saham obligasi korporasi di bursa efek domestik",
         "D": "Talangan pelunasan utang macet pengurus badan usaha daerah",
@@ -1659,7 +1659,7 @@
         "konsep_materi": "Tujuan Dana Desa adalah **mendukung pendanaan penyelenggaraan Pemerintahan, pelaksanaan pembangunan, pemberdayaan masyarakat, dan kemasyarakatan** desa.",
         "alasan_kunci": "Opsi E tepat karena undang-undang desa menggariskan empat pilar pemanfaatan tersebut untuk meningkatkan layanan dasar, infrastruktur desa, ketahanan pangan, dan pengembangan BUMDes.",
         "bedah_pengecoh": {
-          "A": "Kegiatan seremonial hiburan bukan prioritas pembangunan desa.",
+          "A": "Dana Desa tidak dapat dialokasikan sebagai pinjaman perorangan aparatur.",
           "B": "Dana Desa dilarang digunakan untuk perjalanan dinas aparatur pusat.",
           "C": "Investasi saham komersial bukan bidang penggunaan Dana Desa.",
           "D": "Dana Desa bukan dana talangan utang komersial badan usaha."
@@ -2156,7 +2156,7 @@
         "B": "BUMN tersebut tidak bersifat strategis bagi pertahanan negara",
         "C": "Mengalami kerugian operasional menahun tanpa prospek pemulihan",
         "D": "Beroperasi khusus di bidang pengadaan senjata dan amunisi militer",
-        "E": "Memiliki monopoli tunggal atas distribusi bahan pokok makanan"
+        "E": "Memiliki kepemilikan aset komersial sepenuhnya di luar negeri"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
@@ -2166,7 +2166,7 @@
           "A": "Sektor yang menguasai hajat hidup orang banyak dilarang diprivatisasi penuh.",
           "C": "BUMN rugi tanpa prospek sulit menarik minat investor pasar modal.",
           "D": "Industri persenjataan militer adalah sektor strategis pertahanan vital.",
-          "E": "Distribusi bahan pangan esensial diawasi ketat oleh negara (Bulog)."
+          "E": "Kepemilikan aset luar negeri bukan indikator kelayakan privatisasi BUMN."
         },
         "sumber_rujukan": "Pengelolaan Keuangan Negara"
       }

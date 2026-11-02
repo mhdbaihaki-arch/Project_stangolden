@@ -353,7 +353,7 @@
       "pertanyaan": "Menurut teori integralistik, tujuan utama pembentukan negara adalah...",
       "pilihan": {
         "A": "Menjamin kepentingan masyarakat seluruhnya sebagai kesatuan",
-        "B": "Melindungi monopoli modal korporasi konglomerasi swasta",
+        "B": "Menjaga kebebasan individu mutlak di atas kehendak bersama",
         "C": "Memperluas wilayah pengaruh kekuasaan militer ke luar negeri",
         "D": "Mengutamakan hegemoni politik golongan pemenang pemilu",
         "E": "Memusatkan seluruh aset properti warga ke tangan penguasa"
@@ -363,7 +363,7 @@
         "konsep_materi": "Menurut teori integralistik, **negara tidak untuk menjamin kepentingan seseorang atau golongan, akan tetapi menjamin kepentingan masyarakat seluruhnya sebagai kesatuan**.",
         "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Teori integralistik menolak paham individualisme yang membela kepentingan orang per orang dan paham golongan yang mengistimewakan kelompok tertentu. Negara hadir untuk memayungi dan menjamin keselamatan seluruh rakyat secara integral.",
         "bedah_pengecoh": {
-          "B": "Melindungi monopoli modal bertentangan dengan keadilan sosial.",
+          "B": "Menjaga kebebasan individu mutlak merupakan inti ajaran individualisme liberal.",
           "C": "Ekspansi pengaruh militer adalah corak negara imperialis.",
           "D": "Mengutamakan hegemoni golongan merupakan ciri paham kelas/golongan.",
           "E": "Sentralisasi properti sepihak adalah ciri komunisme ekstrem."
@@ -682,7 +682,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Dalam kehidupan kenegaraan, ideologi diartikan secara substantif sebagai...",
       "pilihan": {
-        "A": "Maklumat otoriter penguasa yang diberlakukan tanpa konsultasi publik",
+        "A": "Doktrin formal yang ditetapkan sepihak oleh otoritas legislatif",
         "B": "Konsensus mayoritas warga mengenai nilai dasar pendirian negara",
         "C": "Hasil perjanjian dagang bilateral dengan negara tetangga kawasan",
         "D": "Dokumen rencana kerja tahunan satuan kerja kementerian negara",
@@ -693,7 +693,7 @@
         "konsep_materi": "Ideologi dalam kehidupan kenegaraan dapat diartikan sebagai **suatu konsensus mayoritas warga negara tentang nilai-nilai dasar yang ingin diwujudkan dengan mendirikan negara**.",
         "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Ideologi negara bukan paksaan elite, melainkan kesepakatan bersama (*modus vivendi*) seluruh elemen bangsa. Konsensus ini memuat nilai-nilai fundamental yang disepakati sebagai tujuan bersama pendirian bangunan negara.",
         "bedah_pengecoh": {
-          "A": "Perintah sepihak mencerminkan paham kekuasaan otoriter tertutup.",
+          "A": "Doktrin formal sepihak mencerminkan paham kekuasaan otoriter tertutup.",
           "C": "Perjanjian dagang adalah instrumen kerja sama ekonomi luar negeri.",
           "D": "Rencana kerja tahunan adalah dokumen manajerial APBN/DIPA.",
           "E": "Koleksi manuskrip kuno adalah benda cagar budaya sejarah."
@@ -1194,7 +1194,7 @@
       "pilihan": {
         "A": "Prinsip usaha bersama dan asas kekeluargaan seluruh warga",
         "B": "Pemberantasan seluruh bentuk kepemilikan swasta oleh militer",
-        "C": "Dominasi monopoli mutlak oleh perusahaan multinasional asing",
+        "C": "Penerapan persaingan bebas berlandaskan mekanisme pasar terbuka",
         "D": "Kewajiban warga menjual seluruh hasil pertanian kepada pejabat",
         "E": "Peniadaan mata uang rupiah dan penerapan sistem barter kuno"
       },
@@ -1203,10 +1203,10 @@
         "konsep_materi": "Berdasarkan kutipan pemikiran **Jimly Asshiddiqie**, dalam Pancasila dasar perekonomian berpijak pada **usaha bersama dan kekeluargaan**, bukan kebebasan individual liberal atau dominasi etatisme negara.",
         "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Perekonomian Pancasila menyatukan daya cipta swasta, peran strategis BUMN, dan kekuatan gotong royong koperasi. Asas kekeluargaan menjadi jiwa operasional agar perekonomian tidak menghasilkan penindasan manusia atas manusia.",
         "bedah_pengecoh": {
-          "B": "Pemberantasan swasta oleh militer mencirikan kediktatoran junta.",
-          "C": "Monopoli asing meruntuhkan kedaulatan ekonomi kemandirian bangsa.",
-          "D": "Penjualan paksa kepada pejabat adalah praktik tanam paksa kolonial.",
-          "E": "Peniadaan mata uang bertentangan dengan UU Mata Uang NKRI."
+          "B": "Pemberantasan kepemilikan swasta mencerminkan corak sosialisme radikal.",
+          "C": "Mekanisme pasar bebas murni merupakan pilar ekonomi kapitalisme liberal.",
+          "D": "Kewajiban menyerahkan hasil panen adalah sistem tanam paksa era kolonial.",
+          "E": "Sistem barter adalah sistem pertukaran tradisional pra-modern."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1372,9 +1372,9 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Prinsip toleransi kehidupan beragama antara pemeluk Buddha dan Hindu dilukiskan dalam...",
       "pilihan": {
-        "A": "Kitab Gatotkacasraya gubahan pujangga Mpu Panuluh",
-        "B": "Kitab Smaradahana karangan pujangga Mpu Dharmaja",
-        "C": "Buku Sutasoma karangan pujangga Mpu Tantular",
+        "A": "Kitab Gatotkacasraya gubahan pujangga istana Mpu Panuluh",
+        "B": "Kitab Smaradahana karangan pujangga kerajaan Mpu Dharmaja",
+        "C": "Kitab Sutasoma karangan pujangga terkemuka Mpu Tantular",
         "D": "Kitab Kresnayana karangan pujangga istana Mpu Triguna",
         "E": "Kitab Lubdhaka karangan pujangga sastra Mpu Tanakung"
       },
@@ -1383,10 +1383,10 @@
         "konsep_materi": "**Dalam buku Sutasoma karangan Mpu Tantular** dilukiskan adanya **toleransi kehidupan beragama, khususnya antara agama Budha dan Hindu** yang melahirkan semboyan Bhinneka Tunggal Ika.",
         "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Mpu Tantular menuliskan frasa monumental *'Bhinneka Tunggal Ika tan hana dharma mangrwa'* dalam Kakawin Sutasoma. Karya ini membuktikan bahwa persatuan dalam kemajemukan agama telah menjadi kearifan luhur bangsa sejak abad ke-14.",
         "bedah_pengecoh": {
-          "A": "Gatotkacasraya berkisah tentang kepahlawanan tokoh pewayangan.",
-          "B": "Smaradahana menceritakan terbakarnya Dewa Kama oleh Dewa Siwa.",
-          "D": "Kresnayana mengisahkan perkawinan Prabu Kresna dan Dewi Rukmini.",
-          "E": "Lubdhaka mengisahkan pengampunan dosa seorang pemburu binatang."
+          "A": "Kitab Gatotkacasraya mengisahkan kepahlawanan Gatotkaca dalam pewayangan.",
+          "B": "Kitab Smaradahana mengisahkan terbakarnya Dewa Kamajaya oleh Dewa Siwa.",
+          "D": "Kitab Kresnayana menguraikan kisah pernikahan Prabu Kresna dan Dewi Rukmini.",
+          "E": "Kitab Lubdhaka memuat ajaran tentang pengampunan dosa malam Siwaratri."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -2904,7 +2904,7 @@
         "A": "Hasil kompromi paksa pejabat militer sekutu pasca perang dunia",
         "B": "Instruksi tertulis gubernur jenderal hindia belanda di batavia",
         "C": "Rangkaian musyawarah dan dinamika persidangan resmi BPUPKI",
-        "D": "Dekrit otoriter perdana menteri kabinet perserikatan bangsa",
+        "D": "Rancangan sepihak dari perwakilan komite perundingan luar negeri",
         "E": "Keputusan rapat terbatas staf khusus pertahanan jepang tokyo"
       },
       "kunci_jawaban": "C",
@@ -2912,10 +2912,10 @@
         "konsep_materi": "Dapat disimpulkan bahwa **perumusan Pancasila sebagai dasar negara yang tercantum dalam Pembukaan UUD 1945 dirumuskan dalam sidang-sidang BPUPKI**.",
         "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Fakta konstitusional membuktikan bahwa BPUPKI merupakan rahim historis lahirnya rumusan Pancasila. Dari pertukaran gagasan di forum inilah dasar filsafat negara Indonesia merdeka dirajut hingga menjadi konsensus nasional.",
         "bedah_pengecoh": {
-          "A": "Sekutu tidak ikut merumuskan falsafah dasar negara Indonesia.",
-          "B": "Gubernur jenderal Belanda telah menyerah tanpa syarat tahun 1942.",
-          "D": "Dekrit perdana menteri bukan sumber yuridis kelahiran Pancasila.",
-          "E": "Pemerintah Tokyo hanya memberikan izin pembentukan badan."
+          "A": "Sekutu tidak terlibat dalam perumusan falsafah dasar negara Indonesia.",
+          "B": "Pemerintah kolonial Belanda menentang keras kemerdekaan Indonesia.",
+          "D": "Pancasila dirumuskan secara mandiri oleh para pendiri bangsa di BPUPKI.",
+          "E": "Staf Tokyo hanya memfasilitasi pembentukan BPUPKI tanpa merumuskan isinya."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }

@@ -832,7 +832,7 @@
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Penyelesaian masalah keutuhan negara dalam waktu kurang dari 15 menit membuktikan bahwa para pemimpin...",
       "pilihan": {
-        "A": "Bersikap acuh tak acuh terhadap aspirasi konstituen pendukungnya",
+        "A": "Menyerahkan rumusan naskah sepenuhnya kepada pihak perwakilan sekutu",
         "B": "Benar-benar mementingkan keselamatan nasib dan persatuan bangsa",
         "C": "Terburu-buru karena khawatir terhadap serangan militer sekutu",
         "D": "Menyerahkan urusan kenegaraan kepada keputusan sekelompok elite",
@@ -843,10 +843,10 @@
         "konsep_materi": "Keberhasilan tersebut adalah bukti bahwa **pemimpin-pemimpin di waktu itu benar-benar mementingkan nasib dan persatuan bangsa**.",
         "alasan_kunci": "Opsi B tepat karena Hatta menegaskan bahwa kecepatan tercapainya konsensus mencerminkan kemurnian niat dan jiwa pengorbanan para pendiri republik. Mereka rela menanggalkan ego golongan demi nasib bersama ratusan juta rakyat Indonesia. Sikap ini adalah keteladanan tertinggi integritas kebangsaan.",
         "bedah_pengecoh": {
-          "A": "Para pemimpin sangat bertanggung jawab dan memahami betul denyut aspirasi masyarakat luas.",
-          "C": "Keputusan diambil atas dasar kesadaran luhur kenegarawanan, bukan kepanikan semata.",
-          "D": "Keputusan diambil melalui perwakilan sah tokoh-tokoh utama yang disegani umat dan rakyat.",
-          "E": "Tokoh yang hadir seperti Kasman dan Hasan adalah ahli hukum terkemuka berpendidikan tinggi."
+          "A": "Para pendiri bangsa berdaulat penuh dan tidak tunduk pada kehendak sekutu.",
+          "C": "Kesepakatan lahir dari jiwa kenegarawanan luhur, bukan kepanikan militer.",
+          "D": "Keputusan diambil secara musyawarah mufakat demi seluruh rakyat.",
+          "E": "Para tokoh perumus adalah cendekiawan dan pakar hukum terkemuka."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1525,7 +1525,7 @@
         "A": "Keadilan sosial bagi seluruh rakyat Indonesia (sila kelima)",
         "B": "Persekutuan pertahanan bersama dengan negara adidaya dunia",
         "C": "Pemusatan seluruh hak kepemilikan tanah ke dalam kas negara",
-        "D": "Kebebasan pasar monopoli bagi perserikatan niaga perkapalan",
+        "D": "Penerapan persaingan pasar bebas tanpa regulasi perlindungan",
         "E": "Penghapusan seluruh subsidi sosial bagi masyarakat miskin"
       },
       "kunci_jawaban": "A",
@@ -1533,10 +1533,10 @@
         "konsep_materi": "Pokok Pikiran Kedua menegaskan **Negara bertujuan mewujudkan keadilan sosial bagi seluruh rakyat dalam rangka mewujudkan Indonesia yang merdeka, bersatu, berdaulat, adil, dan makmur (sila kelima)**.",
         "alasan_kunci": "Opsi A tepat karena keadilan sosial merupakan muara akhir dari seluruh perjuangan mendirikan negara merdeka. Negara tidak boleh membiarkan ketimpangan ekstrem antara kaya dan miskin terus berlanjut. Pokok pikiran ini menuntut negara memajukan kesejahteraan umum bagi segenap rakyat.",
         "bedah_pengecoh": {
-          "B": "Aliansi militer asing bertentangan dengan prinsip non-blok politik luar negeri Indonesia.",
-          "C": "Hak milik perorangan tetap diakui dengan fungsi sosial, tidak dihapuskan sewenang-wenang.",
-          "D": "Monopoli pasar ditentang karena merusak sendi perekonomian dan mematikan usaha rakyat.",
-          "E": "Negara berkewajiban menyelenggarakan jaminan dan bantuan sosial bagi warga miskin."
+          "B": "Indonesia menganut politik luar negeri bebas aktif non-blok.",
+          "C": "Hak milik perorangan tetap diakui dengan fungsi sosial yang seimbang.",
+          "D": "Pasar bebas murni tanpa regulasi bertentangan dengan ekonomi Pancasila.",
+          "E": "Pemerintah wajib melindungi fakir miskin dan warga terlantar."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1672,21 +1672,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Karakteristik hubungan agama dan negara Republik Indonesia menurut pokok pikiran keempat adalah...",
       "pilihan": {
-        "A": "Negara theokrasi mutlak di bawah kepemimpinan otoritas ulama",
-        "B": "Negara monarki keagamaan dengan kewajiban satu agama tunggal",
-        "C": "Negara sekuler yang melarang seluruh simbol agama di ranah publik",
-        "D": "Negara ateis yang meniadakan keberadaan institusi rumah ibadah",
-        "E": "Bukan negara theokrasi dan juga bukan negara sekuler"
+        "A": "Bentuk negara theokrasi mutlak di bawah kepemimpinan otoritas ulama",
+        "B": "Bentuk negara monarki keagamaan dengan kewajiban satu agama tunggal",
+        "C": "Bentuk negara sekuler yang melarang seluruh simbol agama di ruang publik",
+        "D": "Bentuk negara ateis yang meniadakan keberadaan institusi rumah ibadah",
+        "E": "Bentuk negara berketuhanan yang bukan theokrasi dan bukan sekuler"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
         "konsep_materi": "Negara Indonesia **bukan negara theokrasi, tetapi juga bukan negara sekuler**.",
         "alasan_kunci": "Opsi E tepat karena Indonesia tidak mendasarkan hukum pada satu agama tertentu (theokrasi), tetapi juga tidak memisahkan urusan keagamaan dari etika kehidupan bernegara (sekuler). Negara menjunjung tinggi semua agama dan kepercayaan serta memfasilitasi kerukunan hidup beragama. Keselarasan ini menjadi ciri khas kebangsaan Indonesia.",
         "bedah_pengecoh": {
-          "A": "Negara theokrasi mendasarkan kepemimpinan pada hukum agama tertentu secara eksklusif.",
-          "B": "Pancasila melindungi kemajemukan pemeluk agama resmi yang diakui tanpa monopoli tunggal.",
-          "C": "Negara sekuler memisahkan mutlak agama dari kehidupan kenegaraan dan kebijakan publik.",
-          "D": "Pancasila menegaskan Ketuhanan Yang Maha Esa dan secara mutlak menolak paham ateisme."
+          "A": "Indonesia bukan theokrasi karena hukum negara tidak didasarkan pada satu agama.",
+          "B": "Indonesia berbentuk republik yang menjamin kemerdekaan memeluk beragam agama.",
+          "C": "Indonesia bukan sekuler karena nilai agama menjiwai hukum dan moralitas bangsa.",
+          "D": "Indonesia berdasar Ketuhanan Yang Maha Esa dan menentang keras ateisme."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1976,17 +1976,17 @@
         "B": "Kewajiban warga negara mengikuti seluruh arahan penguasa dinas",
         "C": "Tuntutan hak berlebih-lebihan hingga merugikan masyarakat keseluruhan",
         "D": "Penghapusan kebebasan berniaga dan berusaha di sektor swasta",
-        "E": "Timbulnya monopoli perdagangan oleh badan usaha milik negara"
+        "E": "Pembatasan kepemilikan aset produksi secara sentralistik dan kaku"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
         "konsep_materi": "Dalam masyarakat individualistis, pelaksanaan HAM cenderung **berlebih-lebihan sehingga mungkin merugikan masyarakat sebagai keseluruhan**.",
         "alasan_kunci": "Opsi C tepat karena individualisme menempatkan ego perorangan di atas kepentingan bersama, yang dapat merusak tatanan ketertiban umum. Ketika setiap orang menuntut hak mutlaknya tanpa mempedulikan orang lain, terjadi benturan kepentingan yang merugikan. Pancasila mengoreksi kelemahan ini melalui asas kekeluargaan.",
         "bedah_pengecoh": {
-          "A": "Masyarakat individualistis justru sangat menjunjung tinggi kebebasan berpendapat di muka umum.",
-          "B": "Kepatuhan mutlak pada dinas birokrasi adalah ciri totalitarianisme, bukan individualisme.",
-          "D": "Kebebasan berusaha swasta merupakan pilar utama perekonomian masyarakat individualis.",
-          "E": "Monopoli negara merupakan ciri sistem etatisme sosialis dan bukan sistem individualistik."
+          "A": "Kebebasan berpendapat adalah pilar utama yang sangat dijunjung individualisme.",
+          "B": "Kepatuhan total pada penguasa mencerminkan sistem otoritarianisme.",
+          "D": "Individualisme menjamin kebebasan berusaha dan kepemilikan privat.",
+          "E": "Sentralisasi kepemilikan aset merupakan ciri khas sistem kolektivisme sosialis."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -2065,7 +2065,7 @@
         "A": "Prinsip pemisahan mutlak urusan keagamaan dari hukum positif",
         "B": "Pemberian kebebasan bersenjata bagi setiap warga sipil masyarakat",
         "C": "Kepentingan dominasi permodalan investasi korporasi multinasional",
-        "D": "Instruksi otoriter pengadilan arbitrase perdagangan internasional",
+        "D": "Standar baku konvensi perdagangan bebas internasional kawasan",
         "E": "Nilai-nilai ketuhanan, kemanusiaan yang beradab, dan keadilan"
       },
       "kunci_jawaban": "E",
@@ -2073,10 +2073,10 @@
         "konsep_materi": "Negara Pancasila **menjunjung tinggi hak asasi manusia berlandaskan nilai ketuhanan, kemanusiaan adil beradab, dan keadilan sosial**.",
         "alasan_kunci": "Opsi E tepat karena HAM dalam konteks Indonesia tidak bersifat sekuler atau bebas nilai, melainkan dibimbing oleh norma etika religius dan kemanusiaan luhur. Penghormatan terhadap hak orang lain dipandang sebagai amanah moral kepada Tuhan dan sesama warga bangsa. Inilah keistimewaan konsep HAM Pancasila.",
         "bedah_pengecoh": {
-          "A": "Pemisahan mutlak agama dari hukum merupakan ciri negara sekuler murni, bukan Indonesia.",
-          "B": "Kebebasan kepemilikan senjata api bertentangan dengan ketertiban umum dan keamanan nasional.",
-          "C": "Penegakan HAM bertujuan memuliakan martabat manusia, bukan melayani korporasi modal.",
-          "D": "Arbitrase niaga mengurus sengketa dagang dan bukan dasar falsafah perlindungan HAM."
+          "A": "Pemisahan mutlak agama dari hukum positif adalah asas sekulerisme Barat.",
+          "B": "Kepemilikan senjata api diatur ketat oleh aparat keamanan demi ketertiban.",
+          "C": "HAM di Indonesia berpijak pada kemanusiaan luhur, bukan kepentingan modal.",
+          "D": "Konvensi niaga mengatur pertukaran dagang, bukan landasan filosofis HAM."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -2092,7 +2092,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Dua bentuk negara yang dikenal dalam kajian ilmu hukum tata negara adalah...",
       "pilihan": {
-        "A": "Bentuk negara serikat (federal) dan bentuk negara kesatuan",
+        "A": "Negara kesatuan (unitaris) dan negara serikat (federal)",
         "B": "Negara feodal bangsawan dan negara protektorat kolonial",
         "C": "Negara dominion persemakmuran dan negara mandat internasional",
         "D": "Negara garnisun militer dan negara kepulauan perhimpunan",
@@ -2103,10 +2103,10 @@
         "konsep_materi": "Mengenai bentuk negara, antara lain kita mengenal **bentuk negara serikat dan negara kesatuan**.",
         "alasan_kunci": "Opsi A tepat karena dalam teori bentuk susunan negara modern, dikotomi utama terletak antara negara federal (serikat) dan negara kesatuan (unitaris). Pendiri bangsa mempertimbangkan kedua alternatif ini dan secara sadar memilih bentuk negara kesatuan bagi Republik Indonesia. Pilihan ini menjamin integrasi nasional.",
         "bedah_pengecoh": {
-          "B": "Negara feodal dan protektorat adalah bentuk wilayah subordinat masa lampau prakemerdekaan.",
-          "C": "Dominion dan mandat merupakan status wilayah persemakmuran bentukan liga bangsa-bangsa.",
-          "D": "Negara garnisun adalah tipologi rezim militeristik dan bukan klasifikasi bentuk negara.",
-          "E": "Negara kota (polis) adalah bentuk negara kuno peradaban Yunani dan bukan negara bangsa modern."
+          "B": "Negara protektorat adalah status wilayah di bawah perlindungan penjajah.",
+          "C": "Dominion adalah status wilayah bekas koloni imperium Britania.",
+          "D": "Garnisun militer adalah basis pertahanan pasukan bersenjata.",
+          "E": "Negara kota adalah format peradaban masa Yunani kuno (*polis*)."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -2213,7 +2213,7 @@
       "pertanyaan": "Berdasarkan Pasal 33 ayat (1) UUD 1945, sistem perekonomian nasional disusun sebagai...",
       "pilihan": {
         "A": "Persaingan bebas antarpemilik modal untuk menguasai pasar komoditas",
-        "B": "Monopoli usaha oleh keluarga pimpinan satuan kerja kementerian",
+        "B": "Penguasaan cabang produksi strategis oleh korporasi multinasional",
         "C": "Usaha bersama berlandaskan asas kekeluargaan demi kemakmuran bersama",
         "D": "Penyerahan tata kelola niaga sepenuhnya kepada mekanisme pasar dunia",
         "E": "Sistem ekonomi komando sentralistik yang melarang koperasi mandiri"
@@ -2223,10 +2223,10 @@
         "konsep_materi": "Pasal 33 ayat (1) UUD 1945 menegaskan **Perekonomian disusun sebagai usaha bersama berdasarkan atas asas kekeluargaan**.",
         "alasan_kunci": "Opsi C tepat karena demokrasi ekonomi Indonesia mengedepankan asas kekeluargaan dan gotong royong, di mana badan usaha yang paling cocok adalah koperasi. Perekonomian tidak boleh dibangun atas dasar pertarungan bebas yang mematikan kaum lemah. Kesejahteraan bersama menjadi tujuan utama sistem ekonomi.",
         "bedah_pengecoh": {
-          "A": "Persaingan bebas liberal memicu eksploitasi manusia dan dilarang oleh konstitusi ekonomi.",
-          "B": "Asas kekeluargaan bermakna persaudaraan kebangsaan, bukan praktik nepotisme dinasti keluarga.",
-          "D": "Mekanisme pasar bebas murni tanpa campur tangan negara bertentangan dengan keadilan sosial.",
-          "E": "Ekonomi komando kaku meniadakan inisiatif rakyat dan bertentangan dengan demokrasi ekonomi."
+          "A": "Sistem *free fight liberalism* dilarang keras dalam perekonomian nasional.",
+          "B": "Cabang produksi strategis wajib dikuasai negara, bukan korporasi asing.",
+          "D": "Mekanisme pasar bebas murni mengikis keadilan dan perlindungan warga rentan.",
+          "E": "Koperasi berkedudukan sebagai soko guru perekonomian berdasar UUD 1945."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -2275,7 +2275,7 @@
         "A": "Dipergunakan untuk sebesar-besar kemakmuran dan kesejahteraan rakyat",
         "B": "Memperkaya para pejabat pengelola badan usaha milik negara secara pribadi",
         "C": "Dijadikan agunan jaminan pembayaran cicilan utang luar negeri",
-        "D": "Diserahkan konsesinya secara monopoli kepada korporasi transnasional",
+        "D": "Diberikan konsesi komersial penuh kepada korporasi transnasional",
         "E": "Ditutup akses pemanfaatannya dari seluruh aktivitas kegiatan industri"
       },
       "kunci_jawaban": "A",
@@ -2283,10 +2283,10 @@
         "konsep_materi": "Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan **dipergunakan untuk sebesar-besar kemakmuran rakyat**.",
         "alasan_kunci": "Opsi A tepat karena hak penguasaan oleh negara bermakna mandat pengelolaan publik, bukan kepemilikan privat penguasa. Seluruh manfaat ekonomi dari sumber daya alam tambang, hutan, dan laut harus dikembalikan kepada rakyat melalui pembangunan dan pelayanan publik. Kemakmuran rakyat adalah tujuan mutlaknya.",
         "bedah_pengecoh": {
-          "B": "Kekayaan alam bukan komoditas untuk memperkaya pejabat atau kroni kekuasaan.",
-          "C": "Kedaulatan atas kekayaan alam tidak boleh digadaikan sebagai jaminan utang luar negeri.",
-          "D": "Konsesi monopoli asing bertentangan dengan kemandirian ekonomi nasional bangsa.",
-          "E": "Pemanfaatan kekayaan alam dilakukan secara terencana dengan prinsip kelestarian lingkungan."
+          "B": "Kekayaan alam ditujukan untuk kemakmuran rakyat, bukan perorangan pengurus.",
+          "C": "Kekayaan bumi dan air bukan aset jaminan utang internasional.",
+          "D": "Pemanfaatan oleh swasta/asing dibatasi izin ketat demi kedaulatan negara.",
+          "E": "Pemanfaatan SDA tetap dibuka secara bertanggung jawab dan berkelanjutan."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -2302,7 +2302,7 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Prinsip-prinsip penyelenggaraan perekonomian nasional berdasarkan Pasal 33 ayat (4) mencakup...",
       "pilihan": {
-        "A": "Persaingan bebas, monopoli modal, privatisasi total, dan eksploitasi",
+        "A": "Mekanisme pasar murni, deregulasi total, dan persaingan modal bebas",
         "B": "Deregulasian perbankan tanpa pengawasan, rente, dan inflasi bebas",
         "C": "Sentralisme anggaran, subsidi nol, proteksionisme dogmatis, dan isolasi",
         "D": "Kebersamaan, efisiensi berkeadilan, berkelanjutan, dan kemandirian",
@@ -2313,10 +2313,10 @@
         "konsep_materi": "Perekonomian nasional diselenggarakan atas dasar demokrasi ekonomi dengan prinsip **kebersamaan, efisiensi berkeadilan, berkelanjutan, berwawasan lingkungan, kemandirian, serta menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional**.",
         "alasan_kunci": "Opsi D tepat karena Pasal 33 ayat (4) hasil amandemen memberikan pedoman komprehensif bagi pembangunan ekonomi modern yang tetap setia pada nilai Pancasila. Efisiensi harus dipadukan dengan keadilan dan kelestarian alam demi generasi mendatang. Prinsip kemandirian menjaga ketahanan bangsa di era global.",
         "bedah_pengecoh": {
-          "A": "Eksploitasi dan monopoli modal merusak sendi keadilan sosial yang diamanatkan konstitusi.",
-          "B": "Deregulasi tanpa pengawasan memicu krisis keuangan dan spekulasi yang merugikan publik.",
-          "C": "Isolasi perdagangan dan sentralisme kaku menghambat dinamika kemajuan ekonomi daerah.",
-          "E": "Oligarki dan kartel adalah musuh utama dari sistem demokrasi ekonomi Pancasila."
+          "A": "Deregulasi total dan pasar murni adalah ciri kapitalisme tanpa batas.",
+          "B": "Pengawasan perbankan dilakukan ketat oleh OJK dan Bank Indonesia.",
+          "C": "Isolasi ekonomi bertentangan dengan kerja sama internasional yang sehat.",
+          "E": "Kartel dan oligarki merugikan konsumen dan dilarang undang-undang persaingan."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -2332,21 +2332,22 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Makna hakiki Kepulauan Nusantara sebagai satu kesatuan ekonomi bagi seluruh rakyat adalah...",
       "pilihan": {
-        "A": "Pendapatan tambang daerah dinikmati eksklusif warga kelahiran setempat",
-        "B": "Pemberian hak monopoli pelayaran niaga antarpulau kepada serikat tertentu",
-        "C": "Kewajiban setiap provinsi menerbitkan mata uang dan tarif pabean sendiri",
-        "D": "Pemusatan seluruh kantor operasional perusahaan di kawasan pulau Jawa",
-        "E": "Kekayaan wilayah nusantara adalah modal dan milik bersama seluruh bangsa"
+        "A": "Penerapan persaingan pasar bebas tanpa pengawasan regulasi pemerintah",
+        "B": "Pemberian konsesi eksklusif kepada perusahaan konglomerasi swasta",
+        "C": "Kemandirian pangan dan jaminan stabilitas kebutuhan pokok masyarakat",
+        "D": "Ketergantungan impor pangan dari negara-negara tetangga kawasan",
+        "E": "Pengalihan seluruh aset pertanian pangan kepada korporasi perkebunan"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
         "konsep_materi": "Kepulauan Nusantara sebagai kesatuan ekonomi berarti **bahwa kekayaan wilayah Nusantara adalah modal dan milik bersama bangsa, dan tingkat perkembangan ekonomi harus serasi dan seimbang di seluruh Indonesia**.",
         "alasan_kunci": "Opsi E tepat karena seluruh potensi sumber daya alam di berbagai pulau merupakan kekayaan nasional yang diperuntukkan bagi kesejahteraan bersama. Tidak boleh ada ketimpangan mencolok di mana satu daerah kaya raya sementara daerah lain terbelakang. Pemerataan pembangunan adalah wujud keadilan sosial.",
         "bedah_pengecoh": {
-          "A": "Paham kedaerahan sempit bertentangan dengan prinsip kekayaan nusantara milik bersama bangsa.",
-          "B": "Monopoli pelayaran bertentangan dengan konektivitas logistik kelancaran niaga antarpulau.",
+          "A": "Pasar bebas tanpa pengawasan mengancam kedaulatan pangan nasional.",
+          "B": "Konsesi eksklusif memicu ketimpangan ekonomi dan merugikan petani rakyat.",
           "C": "Mata uang tunggal rupiah berlaku di seluruh wilayah kedaulatan Negara Kesatuan Republik Indonesia.",
-          "D": "Pembangunan ekonomi didorong merata di luar pulau Jawa demi memutus kesenjangan kawasan."
+          "D": "Ketergantungan impor pangan membahayakan ketahanan pangan nasional.",
+          "E": "Lahan pertanian pangan wajib dilindungi dari alih fungsi komersial."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }

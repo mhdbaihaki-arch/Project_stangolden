@@ -1,0 +1,898 @@
+
+=======================================================
+MODUL: Modul 2 - Nilai-Nilai Kemenkeu
+=======================================================
+
+--- 2. Modul Nilai-Nilai Kemenkeu-UPKP_paket_03.json (Total: 1 soal) ---
+
+[No. 91] (Kunci: C)
+Pertanyaan: Penguatan nilai kementerian tidak sekadar jargon seremonial, melainkan mengerucut pada karakteristik peran sebagai...
+  A. Penyelenggara pesta demokrasi pemilihan umum
+  B. Penegak ketertiban keamanan perbatasan laut
+  C. Pengelola keuangan negara dalam berbagai aspeknya  <-- KUNCI
+  D. Penyedia sarana transportasi darat antarkota
+  E. Pengawas stabilitas perdagangan komoditas ekspor
+Kelemahan Opsi:
+  - Opsi A memuat kata absurd/tidak kontekstual birokrasi: 'pesta'
+
+--- 2. Modul Nilai-Nilai Kemenkeu-UPKP_paket_04.json (Total: 2 soal) ---
+
+[No. 16] (Kunci: A)
+Pertanyaan: Larangan etika integritas terkait perlindungan martabat rekan kerja melarang perbuatan...
+  A. Bertindak sewenang-wenang, perundungan, dan pelecehan  <-- KUNCI
+  B. Memiliki rajah tato pada bagian tubuh yang terbuka terlihat
+  C. Menyebarkan informasi yang memicu rasa permusuhan
+  D. Menerima tamu non-pekerjaan tanpa izin pimpinan kantor
+  E. Menghalangi kreativitas rekan yang memberi nilai tambah
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (permusuhan), D (tanpa izin) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 23] (Kunci: C)
+Pertanyaan: Penggunaan tindik (piercing) bagi pegawai dilarang dalam kode etik profesionalisme, KECUALI...
+  A. Penggunaan tindik pada daun telinga untuk seluruh staf pria
+  B. Penggunaan anting hidung saat menghadiri acara protokoler
+  C. Di daun telinga khusus pegawai perempuan atau alasan agama  <-- KUNCI
+  D. Penggunaan aksesoris tindik alis pada kegiatan operasional
+  E. Penggunaan perhiasan tindik bibir bagi aparatur pelayanan
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'penggunaan' sedangkan kunci berawalan 'di'
+
+Subtotal Modul 2 - Nilai-Nilai Kemenkeu: 3 soal
+
+=======================================================
+MODUL: Modul 3 - Tata Aturan Kepegawaian
+=======================================================
+
+--- 3. Tata Aturan Kepegawaian_paket_02.json (Total: 1 soal) ---
+
+[No. 89] (Kunci: B)
+Pertanyaan: PNS yang dinyatakan tewas atau hilang dalam menjalankan tugas operasi kedinasan negara diberhentikan secara...
+  A. Pemberhentian sementara menunggu kepastian masa tugas
+  B. Dengan hormat atas jasa dan pengabdian kepada negara  <-- KUNCI
+  C. Pemberhentian tidak atas permohonan sendiri berjangka
+  D. Pemberhentian administratif dengan pemutusan hak tunjangan
+  E. Pemberhentian jabatan definitif dengan status pegawai nonaktif
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'pemberhentian' sedangkan kunci berawalan 'dengan'
+
+--- 3. Tata Aturan Kepegawaian_paket_03.json (Total: 1 soal) ---
+
+[No. 47] (Kunci: A)
+Pertanyaan: Biro SDM Kemenkeu menjadwalkan gelombang mutasi pegawai luar daerah pada bulan Juni-Juli dan Desember. Pertimbangan humanis yang mendasarinya adalah...
+  A. Menyesuaikan dengan masa pergantian tahun ajaran sekolah anak  <-- KUNCI
+  B. Pertimbangan jarak tempuh geografis antar-satuan kerja wilayah
+  C. Menghabiskan alokasi anggaran tiket pesawat sebelum audit BPK
+  D. Menunggu selesainya perayaan pesta rakyat di ibu kota provinsi
+  E. Memberikan kesempatan pegawai berlibur panjang bersama keluarga
+Kelemahan Opsi:
+  - Opsi D memuat kata absurd/tidak kontekstual birokrasi: 'pesta'
+
+--- 3. Tata Aturan Kepegawaian_paket_04.json (Total: 3 soal) ---
+
+[No. 9] (Kunci: C)
+Pertanyaan: Dalam skema pola karier Kemenkeu, unsur yang BUKAN merupakan bagian dari skema tersebut adalah...
+  A. Jalur promosi vertikal
+  B. Jalur mutasi horizontal
+  C. Alokasi anggaran pensiun  <-- KUNCI
+  D. Jalur mobilitas diagonal
+  E. Jalur penugasan instansi
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'jalur' sedangkan kunci berawalan 'alokasi'
+
+[No. 58] (Kunci: D)
+Pertanyaan: Seorang auditor fungsional mengajukan surat permohonan berhenti dari tugas auditnya atas kehendak sendiri. Ini tergolong...
+  A. Pemberhentian sementara akibat penahanan tindak pidana
+  B. Pemberhentian tidak dengan hormat karena makar
+  C. Hukuman disiplin berat penurunan jabatan setingkat
+  D. Pemberhentian jabatan karena mengundurkan diri  <-- KUNCI
+  E. Pelaksanaan tugas perbantuan pada lembaga swadaya
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (makar) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 100] (Kunci: C)
+Pertanyaan: Berdasarkan PP 94/2021, sanksi yang BUKAN merupakan klasifikasi hukuman disiplin sedang adalah...
+  A. Pemotongan tunjangan kinerja 25% selama 6 bulan
+  B. Pemotongan tunjangan kinerja 25% selama 9 bulan
+  C. Penurunan pangkat setingkat lebih rendah selama 3 tahun  <-- KUNCI
+  D. Pemotongan tunjangan kinerja 25% selama 12 bulan
+  E. Pemotongan tunjangan prestasi kerja satu semester
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'pemotongan' sedangkan kunci berawalan 'penurunan'
+
+--- 3. Tata Aturan Kepegawaian_paket_05.json (Total: 5 soal) ---
+
+[No. 19] (Kunci: D)
+Pertanyaan: Di antara opsi berikut, pelanggaran larangan yang dijatuhi hukuman disiplin ringan karena berdampak pada Unit Kerja adalah...
+  A. Menyalahgunakan barang milik negara berdampak negatif bagi negara
+  B. Menjadi anggota partai politik tanpa mengajukan surat pengunduran diri
+  C. Membocorkan dokumen rahasia kedinasan yang berdampak pada instansi
+  D. Melakukan kegiatan yang merugikan negara berdampak pada unit kerja  <-- KUNCI
+  E. Meminjamkan aset dinas tanpa izin atasan berdampak pada instansi
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: E (tanpa izin) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 78] (Kunci: A)
+Pertanyaan: Bagian kepegawaian menyusun pedoman teknis cuti bersama tahunan. Landasan hukum peraturan pemerintah rujukan utamanya adalah...
+  A. PP Nomor 11 Tahun 2017 jo PP Nomor 17 Tahun 2020  <-- KUNCI
+  B. Peraturan Pemerintah Nomor 30 Tahun 2019
+  C. Peraturan Pemerintah Nomor 94 Tahun 2021
+  D. Peraturan Pemerintah Nomor 35 Tahun 2010
+  E. Peraturan Pemerintah Nomor 42 Tahun 2004
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'peraturan' sedangkan kunci berawalan 'pp'
+
+[No. 80] (Kunci: C)
+Pertanyaan: Harmonisasi regulasi cuti di Kemenkeu mengintegrasikan ketentuan PP Manajemen PNS, Perka BKN, dan SE Menkeu guna menjamin...
+  A. Pembatasan frekuensi pengajuan permohonan istirahat dalam satu tahun
+  B. Penghapusan seluruh hak cuti tahunan pegawai di daerah terpencil
+  C. Kepastian pemenuhan hak cuti tanpa mengganggu pelayanan publik  <-- KUNCI
+  D. Pemberian kebebasan bagi pegawai tidak masuk kantor tanpa izin
+  E. Penyeragaman seluruh masa kerja pensiun menjadi 50 tahun
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (tanpa izin) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 82] (Kunci: C)
+Pertanyaan: Berdasarkan regulasi cuti, Calon Pegawai Negeri Sipil (CPNS) hanya berhak atas...
+  A. Cuti di luar tanggungan negara selama tiga tahun
+  B. Cuti besar untuk menunaikan ibadah haji
+  C. Cuti tahunan, kecuali ada pertimbangan kemanusiaan  <-- KUNCI
+  D. Cuti tahunan yang diakumulasikan selama sepuluh tahun
+  E. Pembebasan penugasan tanpa izin dari atasan langsung
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: E (tanpa izin) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 95] (Kunci: C)
+Pertanyaan: Hak cuti sakit diberikan kepada PNS yang menderita sakit serta PNS/CPNS wanita yang...
+  A. Mengikuti kegiatan retret keagamaan
+  B. Menjalani operasi kecantikan mandiri
+  C. Mengalami gugur kandungan  <-- KUNCI
+  D. Menemani suami dinas ke luar daerah
+  E. Melakukan wisata kesehatan ke luar negeri
+Kelemahan Opsi:
+  - Opsi E memuat kata absurd/tidak kontekstual birokrasi: 'wisata'
+
+--- 3. Tata Aturan Kepegawaian_paket_06.json (Total: 4 soal) ---
+
+[No. 25] (Kunci: C)
+Pertanyaan: Cuti karena alasan penting dapat diberikan kepada PNS laki-laki dengan alasan khusus yaitu...
+  A. Membeli rumah tempat tinggal baru
+  B. Mendampingi anak ujian sekolah kedinasan
+  C. Istrinya melahirkan atau operasi sesar  <-- KUNCI
+  D. Menghadiri acara wisuda kerabat jauh
+  E. Mengikuti kegiatan rekreasi keluarga tahunan
+Kelemahan Opsi:
+  - Opsi E memuat kata absurd/tidak kontekstual birokrasi: 'rekreasi'
+
+[No. 40] (Kunci: C)
+Pertanyaan: PNS yang baru saja selesai tugas belajar dan bekerja kembali langsung berhak atas cuti berikut tanpa menunggu 3 bulan, yaitu...
+  A. Cuti bersama dan cuti rekreasi dinas
+  B. Cuti tahunan berjalan dan cuti besar haji
+  C. Cuti sakit, cuti melahirkan, dan cuti alasan penting  <-- KUNCI
+  D. Cuti tahunan penugasan luar negeri
+  E. Cuti di luar tanggungan negara langsung
+Kelemahan Opsi:
+  - Opsi A memuat kata absurd/tidak kontekstual birokrasi: 'rekreasi'
+
+[No. 47] (Kunci: D)
+Pertanyaan: Berdasarkan Keppres Nomor 56 Tahun 1974, usaha kesejahteraan Pegawai Negeri Sipil mencakup empat program yaitu...
+  A. Beasiswa luar negeri, tabungan emas, asuransi jiwa
+  B. Transportasi, rekreasi, seragam, sembako murah
+  C. Kredit usaha, kendaraan dinas, kuota, seminar
+  D. Pensiun, kesehatan, perumahan, pendidikan anak  <-- KUNCI
+  E. Bantuan hukum, pesangon, bonus target, wisata
+Kelemahan Opsi:
+  - Opsi B memuat kata absurd/tidak kontekstual birokrasi: 'rekreasi'
+  - Opsi E memuat kata absurd/tidak kontekstual birokrasi: 'wisata'
+
+[No. 60] (Kunci: A)
+Pertanyaan: Selain gaji pokok, komponen tunjangan resmi yang dapat diberikan kepada Pegawai Negeri Sipil meliputi...
+  A. Tunjangan keluarga, jabatan, pangan, dan lain-lain  <-- KUNCI
+  B. Tunjangan hiburan, rekreasi, pulsa, dan pesangon
+  C. Tunjangan liburan akhir pekan dan bonus belanja
+  D. Tunjangan kepemilikan saham dan dividen satker
+  E. Tunjangan hari raya swasta dan insentif lembur bebas
+Kelemahan Opsi:
+  - Opsi B memuat kata absurd/tidak kontekstual birokrasi: 'rekreasi'
+  - Opsi B memuat kata absurd/tidak kontekstual birokrasi: 'hiburan'
+
+Subtotal Modul 3 - Tata Aturan Kepegawaian: 14 soal
+
+=======================================================
+MODUL: Modul 4 - Pengelolaan Keuangan Negara
+=======================================================
+
+--- 4. Pengelolaan Keuangan Negara_paket_01.json (Total: 4 soal) ---
+
+[No. 24] (Kunci: D)
+Pertanyaan: Kebijakan fiskal yang tercermin dalam APBN diarahkan untuk mencapai tiga tujuan utama yaitu...
+  A. Eksploitasi sumber daya, sentralisasi kas, dan monopoli
+  B. Pengurangan cadangan devisa, inflasi tinggi, dan impor
+  C. Peniadaan pajak, pembiayaan utang bebas, dan defisit
+  D. Alokasi sumber dana, distribusi, dan stabilisasi ekonomi  <-- KUNCI
+  E. Pemberian subsidi swasta, privatisasi total, dan komisi
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (eksploitasi), A (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 55] (Kunci: E)
+Pertanyaan: Dalam buku The Theory of Public Finance, Richard Musgrave menyatakan bahwa tugas dan fungsi negara meliputi...
+  A. Monopoli perdagangan, privatisasi perbankan, dan deregulasi moneter
+  B. Penyeragaman tarif pajak, penghapusan subsidi, dan ekspansi wilayah
+  C. Sentralisasi industri, pembatasan devisa, dan pengendalian pasar
+  D. Pengawasan peradilan, pencetakan uang kartal, dan penetapan bea impor
+  E. Realokasi sumber daya, redistribusi pendapatan, dan stabilisasi ekonomi  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 61] (Kunci: A)
+Pertanyaan: Kebijakan pengeluaran pemerintah yang berpihak kepada masyarakat berpenghasilan rendah (pro-poor) diterapkan dalam bentuk...
+  A. Alokasi bantuan sosial dan subsidi dasar tepat sasaran  <-- KUNCI
+  B. Pembangunan sarana rekreasi mewah di pusat kawasan bisnis
+  C. Pemberian insentif pembebasan pajak barang mewah impor
+  D. Pengadaan armada kendaraan dinas protokoler kementerian
+  E. Penyediaan fasilitas penerbangan eksekutif pejabat pusat
+Kelemahan Opsi:
+  - Opsi B memuat kata absurd/tidak kontekstual birokrasi: 'rekreasi'
+
+[No. 100] (Kunci: E)
+Pertanyaan: Dua asas umum pelengkap yang ditegaskan pada bagian akhir penataan keuangan negara di Undang-Undang Keuangan Negara adalah...
+  A. Asas Monopoli Perdagangan dan asas proteksionisme komoditas
+  B. Asas Fleksibilitas Kasir dan asas pergeseran pagu bebas prosedur
+  C. Asas Sentralisasi Perbankan dan asas pemungutan iuran wajib
+  D. Asas Pembebasan Pajak dan asas pinjaman komersial tanpa batas
+  E. Asas Keterbukaan dan asas pemeriksaan oleh badan bebas dan mandiri  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+--- 4. Pengelolaan Keuangan Negara_paket_02.json (Total: 2 soal) ---
+
+[No. 33] (Kunci: C)
+Pertanyaan: Kebijakan stabilisasi seringkali dimaknai sebagai pengelolaan permintaan agregat yang ditujukan untuk secara bersamaan mencapai...
+  A. Kenaikan suku bunga kredit komersial dan penurunan tabungan
+  B. Monopoli impor komoditas pangan oleh korporasi multinasional
+  C. Kesempatan kerja penuh (full employment) dan stabilitas harga  <-- KUNCI
+  D. Penyeragaman tingkat upah pekerja di seluruh belahan dunia
+  E. Penghapusan pungutan retribusi dan denda administrasi daerah
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 45] (Kunci: E)
+Pertanyaan: Berdasarkan kondisi perekonomian yang dihadapi, pilihan politik anggaran yang dapat diambil pemerintah mencakup opsi...
+  A. Anggaran privat, anggaran komersial, atau anggaran rahasia
+  B. Anggaran spekulatif, anggaran lelang, atau anggaran titipan
+  C. Anggaran regional, anggaran terisolasi, atau anggaran parsial
+  D. Anggaran monopoli, anggaran proteksi, atau anggaran barter
+  E. Anggaran surplus, anggaran berimbang, atau anggaran defisit  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+--- 4. Pengelolaan Keuangan Negara_paket_03.json (Total: 1 soal) ---
+
+[No. 40] (Kunci: E)
+Pertanyaan: Dua tujuan utama dari perubahan struktur format APBN menjadi model I-account adalah...
+  A. Memberikan hak monopoli perbankan komersial atas kas negara
+  B. Menutup angka defisit riil serta membatasi akses masyarakat
+  C. Menghapuskan fungsi audit eksternal dari badan pemeriksa resmi
+  D. Mewajibkan penggunaan mata uang asing dalam transaksi dinas kantor
+  E. Meningkatkan transparansi dan mempermudah analisis komparasi operasi fiskal  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+--- 4. Pengelolaan Keuangan Negara_paket_04.json (Total: 2 soal) ---
+
+[No. 4] (Kunci: D)
+Pertanyaan: Kelompok pajak dalam negeri pada postur penerimaan perpajakan mencakup...
+  A. Pajak hotel, restoran, hiburan, dan penerangan jalan
+  B. Bea masuk impor, bea keluar ekspor, dan retribusi jasa
+  C. Pajak kendaraan bermotor, retribusi parkir, dan reklame
+  D. Pajak penghasilan, PPN, PPnBM, cukai, dan pajak lainnya  <-- KUNCI
+  E. Pungutan hasil perikanan dan dividen perusahaan negara
+Kelemahan Opsi:
+  - Opsi A memuat kata absurd/tidak kontekstual birokrasi: 'hiburan'
+
+[No. 94] (Kunci: D)
+Pertanyaan: Penerimaan dari denda tilang, uang sitaan, atau hasil lelang barang rampasan masuk klaster...
+  A. Pajak bumi dan bangunan sektor pertambangan mineral umum
+  B. Penerimaan pajak perdagangan internasional komoditas ekspor
+  C. Pungutan cukai atas peredaran barang berbahaya tanpa izin
+  D. Objek PNBP Hak Negara Lainnya sesuai ketentuan regulasi  <-- KUNCI
+  E. Penerimaan hibah terikat dari penegak hukum luar negeri
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (tanpa izin) -> membuat kunci positif terlalu mudah ditebak
+
+--- 4. Pengelolaan Keuangan Negara_paket_05.json (Total: 7 soal) ---
+
+[No. 5] (Kunci: E)
+Pertanyaan: Perluasan belanja negara dalam postur defisit dimaksudkan karena belanja pemerintah memiliki...
+  A. Fasilitas pembebasan pajak bagi seluruh aparatur pemerintah
+  B. Kewenangan mutlak dalam menetapkan harga komoditas pasar
+  C. Kemampuan menghapus seluruh kewajiban utang luar negeri
+  D. Hak monopoli dalam pengelolaan seluruh sektor industri privat
+  E. Efek ganda dalam menumbuhkan ekonomi dan lapangan kerja  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 12] (Kunci: B)
+Pertanyaan: Pemisahan belanja rutin dan belanja pembangunan pada masa lalu dihilangkan karena...
+  A. Menghambat penarikan dana pinjaman luar negeri pemerintah
+  B. Menimbulkan peluang duplikasi, penumpukan, dan penyimpangan  <-- KUNCI
+  C. Mempersulit pemeriksaan kuitansi fisik oleh aparat pemeriksa
+  D. Menurunkan jumlah penerimaan perpajakan kas umum negara
+  E. Membatasi penambahan jumlah formasi aparatur sipil negara
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (mempersulit) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 23] (Kunci: C)
+Pertanyaan: Pengeluaran berupa transfer uang atau barang kepada masyarakat melalui K/L disebut...
+  A. Belanja barang untuk menunjang operasional dinas kantor
+  B. Belanja pegawai untuk meningkatkan kinerja aparatur
+  C. Bantuan sosial untuk melindungi dari risiko sosial  <-- KUNCI
+  D. Belanja modal untuk menambah kepemilikan aset kementerian
+  E. Belanja bunga untuk melunasi kupon surat utang negara
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'belanja' sedangkan kunci berawalan 'bantuan'
+
+[No. 33] (Kunci: C)
+Pertanyaan: Dana Bagi Hasil (DBH) dialokasikan kepada pemerintah daerah berdasarkan...
+  A. Tingkat suku bunga pinjaman komersial perbankan daerah
+  B. Jumlah proposal permohonan bantuan yang diajukan oleh bupati
+  C. Persentase atas pendapatan tertentu dalam APBN dan kinerja tertentu  <-- KUNCI
+  D. Hasil lelang barang sitaan kejahatan tindak pidana peradilan
+  E. Besaran sisa lebih anggaran belanja tahun anggaran sebelumnya
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (kejahatan) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 36] (Kunci: A)
+Pertanyaan: Sektor penerimaan yang termasuk dalam kelompok DBH Sumber Daya Alam meliputi...
+  A. Kehutanan, minerba, migas, panas bumi, dan perikanan  <-- KUNCI
+  B. Industri perbankan, pasar modal, asuransi, dan dana pensiun
+  C. Transportasi darat, penerbangan perintis, dan perkeretaapian
+  D. Telekomunikasi digital, informatika, dan pos logistik paket
+  E. Pariwisata perhotelan, hiburan malam, dan restoran kuliner
+Kelemahan Opsi:
+  - Opsi E memuat kata absurd/tidak kontekstual birokrasi: 'hiburan'
+
+[No. 55] (Kunci: E)
+Pertanyaan: Pemanfaatan Dana Desa secara regulasi difokuskan untuk mendanai empat bidang yaitu...
+  A. Penyelenggaraan pesta rakyat dan perayaan tahun baru di desa
+  B. Perjalanan dinas aparatur kementerian, studi banding, dan seminar
+  C. Pembelian saham obligasi korporasi di bursa efek domestik
+  D. Talangan pelunasan utang macet pengurus badan usaha daerah
+  E. Pemerintahan, pembangunan, pemberdayaan, dan kemasyarakatan desa  <-- KUNCI
+Kelemahan Opsi:
+  - Opsi A memuat kata absurd/tidak kontekstual birokrasi: 'pesta'
+
+[No. 72] (Kunci: B)
+Pertanyaan: BUMN yang diperkenankan untuk diprivatisasi harus memenuhi syarat mutlak yaitu...
+  A. Menguasai seluruh cabang produksi yang penting bagi hajat hidup
+  B. BUMN tersebut tidak bersifat strategis bagi pertahanan negara  <-- KUNCI
+  C. Mengalami kerugian operasional menahun tanpa prospek pemulihan
+  D. Beroperasi khusus di bidang pengadaan senjata dan amunisi militer
+  E. Memiliki monopoli tunggal atas distribusi bahan pokok makanan
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: E (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+--- 4. Pengelolaan Keuangan Negara_paket_06.json (Total: 3 soal) ---
+
+[No. 18] (Kunci: C)
+Pertanyaan: Fungsi BPK dalam melaksanakan pemeriksaan pertanggungjawaban keuangan negara dinamakan...
+  A. Fungsi penyusunan standar tarif retribusi pelayanan
+  B. Fungsi penuntutan perkara kejahatan aparatur sipil
+  C. Fungsi audit dan operasional atas pelaksanaan APBN  <-- KUNCI
+  D. Fungsi pencairan surat perintah membayar bendahara
+  E. Fungsi pembentukan organisasi kantor badan peradilan
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (kejahatan) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 29] (Kunci: D)
+Pertanyaan: Pemeriksaan BPK yang bertujuan menilai ketiadaan pemborosan dalam alokasi anggaran adalah...
+  A. Pemeriksaan tingkat kunjungan wisatawan di tempat rekreasi
+  B. Pemeriksaan atas batas kewajaran laba perusahaan swasta
+  C. Pemeriksaan atas target volume penjualan komoditas korporasi
+  D. Pemeriksaan atas kehematan dan efisiensi keuangan negara  <-- KUNCI
+  E. Pemeriksaan mutu bahan bangunan proyek perumahan warga
+Kelemahan Opsi:
+  - Opsi A memuat kata absurd/tidak kontekstual birokrasi: 'rekreasi'
+
+[No. 44] (Kunci: D)
+Pertanyaan: Salah satu bentuk konkret peran serta masyarakat dalam penyelenggaraan negara adalah...
+  A. Hak membekukan rekening kasir satuan kerja kementerian
+  B. Hak menyita arsip rahasia negara secara mandiri tanpa izin
+  C. Hak menginterogasi pejabat administrasi di luar pengadilan
+  D. Hak mencari, memperoleh, dan memberikan informasi publik  <-- KUNCI
+  E. Hak membatalkan penerapan seluruh peraturan perundang-undangan
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (tanpa izin) -> membuat kunci positif terlalu mudah ditebak
+
+Subtotal Modul 4 - Pengelolaan Keuangan Negara: 19 soal
+
+=======================================================
+MODUL: Modul 5 - Wawasan Kebangsaan
+=======================================================
+
+--- 5. Wawasan Kebangsaan_paket_01.json (Total: 1 soal) ---
+
+[No. 90] (Kunci: E)
+Pertanyaan: Karakteristik khas norma hukum yang membedakannya dari norma kesusilaan dan sopan santun adalah memiliki sanksi...
+  A. Kutukan gaib yang datang dari roh nenek moyang
+  B. Sanksi sosial informal berupa teguran lingkungan
+  C. Teguran lisan dari para tetangga sekitar rumah
+  D. Rasa cemas tanpa adanya ancaman hukuman lahiriah
+  E. Tegas dari pemerintah melalui alat-alat negara  <-- KUNCI
+Kelemahan Opsi:
+  - Opsi A memuat kata absurd/tidak kontekstual birokrasi: 'gaib'
+
+--- 5. Wawasan Kebangsaan_paket_02.json (Total: 5 soal) ---
+
+[No. 12] (Kunci: A)
+Pertanyaan: Menurut teori integralistik, tujuan utama pembentukan negara adalah...
+  A. Menjamin kepentingan masyarakat seluruhnya sebagai kesatuan  <-- KUNCI
+  B. Melindungi monopoli modal korporasi konglomerasi swasta
+  C. Memperluas wilayah pengaruh kekuasaan militer ke luar negeri
+  D. Mengutamakan hegemoni politik golongan pemenang pemilu
+  E. Memusatkan seluruh aset properti warga ke tangan penguasa
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 23] (Kunci: B)
+Pertanyaan: Dalam kehidupan kenegaraan, ideologi diartikan secara substantif sebagai...
+  A. Maklumat otoriter penguasa yang diberlakukan tanpa konsultasi publik
+  B. Konsensus mayoritas warga mengenai nilai dasar pendirian negara  <-- KUNCI
+  C. Hasil perjanjian dagang bilateral dengan negara tetangga kawasan
+  D. Dokumen rencana kerja tahunan satuan kerja kementerian negara
+  E. Koleksi manuskrip kuno peninggalan kerajaan maritim nusantara
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (otoriter) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 40] (Kunci: A)
+Pertanyaan: Menurut Jimly Asshiddiqie, perbedaan sistem perekonomian Pancasila terletak pada...
+  A. Prinsip usaha bersama dan asas kekeluargaan seluruh warga  <-- KUNCI
+  B. Pemberantasan seluruh bentuk kepemilikan swasta oleh militer
+  C. Dominasi monopoli mutlak oleh perusahaan multinasional asing
+  D. Kewajiban warga menjual seluruh hasil pertanian kepada pejabat
+  E. Peniadaan mata uang rupiah dan penerapan sistem barter kuno
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 46] (Kunci: C)
+Pertanyaan: Prinsip toleransi kehidupan beragama antara pemeluk Buddha dan Hindu dilukiskan dalam...
+  A. Kitab Gatotkacasraya gubahan pujangga Mpu Panuluh
+  B. Kitab Smaradahana karangan pujangga Mpu Dharmaja
+  C. Buku Sutasoma karangan pujangga Mpu Tantular  <-- KUNCI
+  D. Kitab Kresnayana karangan pujangga istana Mpu Triguna
+  E. Kitab Lubdhaka karangan pujangga sastra Mpu Tanakung
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'kitab' sedangkan kunci berawalan 'buku'
+
+[No. 97] (Kunci: C)
+Pertanyaan: Berdasarkan tinjauan historis, perumusan naskah dasar negara Pancasila resmi lahir dari...
+  A. Hasil kompromi paksa pejabat militer sekutu pasca perang dunia
+  B. Instruksi tertulis gubernur jenderal hindia belanda di batavia
+  C. Rangkaian musyawarah dan dinamika persidangan resmi BPUPKI  <-- KUNCI
+  D. Dekrit otoriter perdana menteri kabinet perserikatan bangsa
+  E. Keputusan rapat terbatas staf khusus pertahanan jepang tokyo
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (otoriter) -> membuat kunci positif terlalu mudah ditebak
+
+--- 5. Wawasan Kebangsaan_paket_03.json (Total: 10 soal) ---
+
+[No. 28] (Kunci: B)
+Pertanyaan: Penyelesaian masalah keutuhan negara dalam waktu kurang dari 15 menit membuktikan bahwa para pemimpin...
+  A. Bersikap acuh tak acuh terhadap aspirasi konstituen pendukungnya
+  B. Benar-benar mementingkan keselamatan nasib dan persatuan bangsa  <-- KUNCI
+  C. Terburu-buru karena khawatir terhadap serangan militer sekutu
+  D. Menyerahkan urusan kenegaraan kepada keputusan sekelompok elite
+  E. Memiliki keterbatasan pemahaman terhadap substansi ilmu hukum
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (acuh) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 51] (Kunci: A)
+Pertanyaan: Substansi Pokok Pikiran Kedua dalam Pembukaan UUD 1945 memuat tujuan mewujudkan...
+  A. Keadilan sosial bagi seluruh rakyat Indonesia (sila kelima)  <-- KUNCI
+  B. Persekutuan pertahanan bersama dengan negara adidaya dunia
+  C. Pemusatan seluruh hak kepemilikan tanah ke dalam kas negara
+  D. Kebebasan pasar monopoli bagi perserikatan niaga perkapalan
+  E. Penghapusan seluruh subsidi sosial bagi masyarakat miskin
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 56] (Kunci: E)
+Pertanyaan: Karakteristik hubungan agama dan negara Republik Indonesia menurut pokok pikiran keempat adalah...
+  A. Negara theokrasi mutlak di bawah kepemimpinan otoritas ulama
+  B. Negara monarki keagamaan dengan kewajiban satu agama tunggal
+  C. Negara sekuler yang melarang seluruh simbol agama di ranah publik
+  D. Negara ateis yang meniadakan keberadaan institusi rumah ibadah
+  E. Bukan negara theokrasi dan juga bukan negara sekuler  <-- KUNCI
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'negara' sedangkan kunci berawalan 'bukan'
+
+[No. 66] (Kunci: C)
+Pertanyaan: Kelemahan paham individualisme dalam pelaksanaan hak asasi manusia adalah...
+  A. Ketiadaan kebebasan berserikat dan mengemukakan pendapat di umum
+  B. Kewajiban warga negara mengikuti seluruh arahan penguasa dinas
+  C. Tuntutan hak berlebih-lebihan hingga merugikan masyarakat keseluruhan  <-- KUNCI
+  D. Penghapusan kebebasan berniaga dan berusaha di sektor swasta
+  E. Timbulnya monopoli perdagangan oleh badan usaha milik negara
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: E (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 69] (Kunci: E)
+Pertanyaan: Komitmen Negara Pancasila dalam menjunjung tinggi hak asasi manusia ditegakkan dengan berlandaskan...
+  A. Prinsip pemisahan mutlak urusan keagamaan dari hukum positif
+  B. Pemberian kebebasan bersenjata bagi setiap warga sipil masyarakat
+  C. Kepentingan dominasi permodalan investasi korporasi multinasional
+  D. Instruksi otoriter pengadilan arbitrase perdagangan internasional
+  E. Nilai-nilai ketuhanan, kemanusiaan yang beradab, dan keadilan  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (otoriter) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 70] (Kunci: A)
+Pertanyaan: Dua bentuk negara yang dikenal dalam kajian ilmu hukum tata negara adalah...
+  A. Bentuk negara serikat (federal) dan bentuk negara kesatuan  <-- KUNCI
+  B. Negara feodal bangsawan dan negara protektorat kolonial
+  C. Negara dominion persemakmuran dan negara mandat internasional
+  D. Negara garnisun militer dan negara kepulauan perhimpunan
+  E. Negara kota mandiri dan negara perserikatan pedagang maritim
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'negara' sedangkan kunci berawalan 'bentuk'
+
+[No. 74] (Kunci: C)
+Pertanyaan: Berdasarkan Pasal 33 ayat (1) UUD 1945, sistem perekonomian nasional disusun sebagai...
+  A. Persaingan bebas antarpemilik modal untuk menguasai pasar komoditas
+  B. Monopoli usaha oleh keluarga pimpinan satuan kerja kementerian
+  C. Usaha bersama berlandaskan asas kekeluargaan demi kemakmuran bersama  <-- KUNCI
+  D. Penyerahan tata kelola niaga sepenuhnya kepada mekanisme pasar dunia
+  E. Sistem ekonomi komando sentralistik yang melarang koperasi mandiri
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 76] (Kunci: A)
+Pertanyaan: Tujuan utama penguasaan bumi, air, dan kekayaan alam oleh negara pada Pasal 33 ayat (3) adalah...
+  A. Dipergunakan untuk sebesar-besar kemakmuran dan kesejahteraan rakyat  <-- KUNCI
+  B. Memperkaya para pejabat pengelola badan usaha milik negara secara pribadi
+  C. Dijadikan agunan jaminan pembayaran cicilan utang luar negeri
+  D. Diserahkan konsesinya secara monopoli kepada korporasi transnasional
+  E. Ditutup akses pemanfaatannya dari seluruh aktivitas kegiatan industri
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 77] (Kunci: D)
+Pertanyaan: Prinsip-prinsip penyelenggaraan perekonomian nasional berdasarkan Pasal 33 ayat (4) mencakup...
+  A. Persaingan bebas, monopoli modal, privatisasi total, dan eksploitasi
+  B. Deregulasian perbankan tanpa pengawasan, rente, dan inflasi bebas
+  C. Sentralisme anggaran, subsidi nol, proteksionisme dogmatis, dan isolasi
+  D. Kebersamaan, efisiensi berkeadilan, berkelanjutan, dan kemandirian  <-- KUNCI
+  E. Oligarki kepemilikan aset, kartel harga, dan ketergantungan impor
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (eksploitasi), A (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 78] (Kunci: E)
+Pertanyaan: Makna hakiki Kepulauan Nusantara sebagai satu kesatuan ekonomi bagi seluruh rakyat adalah...
+  A. Pendapatan tambang daerah dinikmati eksklusif warga kelahiran setempat
+  B. Pemberian hak monopoli pelayaran niaga antarpulau kepada serikat tertentu
+  C. Kewajiban setiap provinsi menerbitkan mata uang dan tarif pabean sendiri
+  D. Pemusatan seluruh kantor operasional perusahaan di kawasan pulau Jawa
+  E. Kekayaan wilayah nusantara adalah modal dan milik bersama seluruh bangsa  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+--- 5. Wawasan Kebangsaan_paket_04.json (Total: 2 soal) ---
+
+[No. 15] (Kunci: A)
+Pertanyaan: Dalam sejarah perkembangan ketatanegaraan modern, kedudukan konstitusi diakui sebagai...
+  A. Naskah legitimasi pengakuan terhadap paham kedaulatan rakyat  <-- KUNCI
+  B. Maklumat penaklukan kedaulatan warga oleh penguasa monarki mutlak
+  C. Surat perjanjian kerja sama monopoli dagang antarpelabuhan maritim
+  D. Piagam pelepasan tanggung jawab negara atas kesejahteraan sosial
+  E. Instruksi dinas seremonial yang dikhususkan pada masa damai
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 83] (Kunci: C)
+Pertanyaan: Perubahan rumusan kedaulatan rakyat dalam Pasal 1 ayat (2) UUD 1945 membawa implikasi ketatanegaraan mendasar yaitu...
+  A. Majelis Permusyawaratan Rakyat memegang monopoli seluruh cabang kekuasaan
+  B. Dewan Perwakilan Daerah memiliki kedudukan lebih tinggi dibanding DPR
+  C. Kekuasaan tertinggi di tangan rakyat dan tidak lagi di tangan MPR  <-- KUNCI
+  D. Lembaga kepresidenan berubah kedudukan menjadi pemegang mandat penuh MPR
+  E. Pemerintah pusat memegang kendali penuh atas putusan peradilan konstitusi
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+--- 5. Wawasan Kebangsaan_paket_05.json (Total: 9 soal) ---
+
+[No. 9] (Kunci: D)
+Pertanyaan: Salah satu hak konstitusional yang dimiliki oleh anggota Majelis Permusyawaratan Rakyat dalam menjalankan tugasnya adalah...
+  A. Menerbitkan dekrit darurat pembubaran lembaga-lembaga tinggi negara
+  B. Membatalkan putusan peradilan tingkat banding perkara kejahatan perpajakan
+  C. Menetapkan besaran tarif retribusi daerah tanpa koordinasi pemerintah daerah
+  D. Usul perubahan pasal diajukan sekurang-kurangnya 1/3 anggota MPR  <-- KUNCI
+  E. Menyetujui pengangkatan pimpinan perusahaan milik negara secara administratif
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (kejahatan) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 11] (Kunci: B)
+Pertanyaan: Tugas dan wewenang pokok Presiden Republik Indonesia selaku Kepala Pemerintahan dalam bidang eksekutif adalah...
+  A. Menyelenggarakan penuntutan perkara kejahatan korporasi di peradilan tinggi
+  B. Menjalankan kekuasaan pemerintahan negara menurut Undang-undang Dasar  <-- KUNCI
+  C. Meninjau kembali putusan sengketa hasil pemilihan kepala daerah provinsi
+  D. Mengadili pelanggaran kode etik para hakim agung di lingkungan peradilan
+  E. Mengesahkan kepengurusan partai politik oposisi secara mutlak otoritatif
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (kejahatan) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 24] (Kunci: A)
+Pertanyaan: Pelaksanaan wewenang legislasi oleh Dewan Perwakilan Rakyat diwujudkan melalui mekanisme konstitusional yaitu...
+  A. Membentuk undang-undang yang dibahas bersama Presiden  <-- KUNCI
+  B. Menetapkan peraturan pemerintah secara mandiri saat situasi keamanan kondusif
+  C. Mengesahkan surat edaran kementerian menjadi undang-undang organik negara
+  D. Mengubah tata urutan perundang-undangan melalui keputusan pimpinan komisi
+  E. Membatalkan undang-undang yang sedang diuji materiil di mahkamah konstitusi
+Kelemahan Opsi:
+  - Kunci mencolok paling pendek (53 karakter vs pengecoh terpendek 73 karakter)
+
+[No. 33] (Kunci: A)
+Pertanyaan: Berdasarkan Pasal 20A ayat (2) UUD 1945, hak-hak yang dimiliki oleh lembaga DPR dalam rangka pelaksanaan fungsi pengawasan adalah...
+  A. Hak interpelasi, hak angket, dan hak menyatakan pendapat kepada pemerintah  <-- KUNCI
+  B. Hak veto, hak amnesti massal, dan hak penuntutan kejahatan politik luar negeri
+  C. Hak banding, hak kasasi yudisial, serta hak peninjauan kembali perkara pajak
+  D. Hak prerogatif, hak grasi kepala negara, serta hak pengangkatan menteri
+  E. Hak eksekusi aset daerah, hak audit mandiri, dan hak pembekuan korporasi
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (kejahatan) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 34] (Kunci: B)
+Pertanyaan: Setiap anggota Dewan Perwakilan Rakyat secara perorangan dibekali oleh konstitusi dengan hak...
+  A. Menetapkan vonis perkara kejahatan, membubarkan parpol, dan hak menyita aset
+  B. Mengajukan usul RUU, mengajukan pertanyaan, menyampaikan pendapat, dan imunitas  <-- KUNCI
+  C. Membekukan organisasi kemasyarakatan, hak menyadap telepon, dan hak protokoler
+  D. Mereshuffle kabinet menteri, hak grasi, serta hak pembentukan daerah otonom
+  E. Membatalkan perjanjian internasional, hak ekstradisi, dan hak suaka politik
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (kejahatan) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 37] (Kunci: E)
+Pertanyaan: Prinsip kesetaraan perwakilan wilayah dalam pembentukan Dewan Perwakilan Daerah ditegaskan melalui aturan bahwa...
+  A. Provinsi dengan populasi penduduk terpadat memperoleh alokasi kursi terbanyak
+  B. Ibu kota negara memiliki hak monopoli menentukan separuh dari total kursi dewan
+  C. Provinsi kepulauan diberi kuota perwakilan dua kali lipat daratan
+  D. Jumlah kursi dewan ditentukan besaran kontribusi pajak ke APBN
+  E. Jumlah anggota DPD setiap provinsi sama dan berkeadilan merata  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 41] (Kunci: E)
+Pertanyaan: Kewenangan legislatif yang dimiliki oleh Dewan Perwakilan Daerah menurut Pasal 22D ayat (1) UUD 1945 mencakup hak untuk...
+  A. Mengesahkan undang-undang perpajakan tanpa melibatkan persetujuan dari DPR
+  B. Menerbitkan obligasi daerah otonom tanpa melalui pengawasan kementerian keuangan
+  C. Menetapkan struktur tarif bea masuk komoditas perdagangan lintas kepulauan
+  D. Membatalkan peraturan daerah secara mandiri tanpa izin menteri
+  E. Mengajukan RUU bidang otonomi dan perimbangan keuangan ke DPR  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (tanpa izin) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 45] (Kunci: D)
+Pertanyaan: Kedudukan Mahkamah Agung berdasarkan Pasal 24 ayat (1) UUD 1945 diposisikan sebagai...
+  A. Badan pendukung eksekutif dalam penertiban administrasi perpajakan daerah
+  B. Lembaga penasihat hukum resmi bagi jajaran kementerian koordinator pemerintahan
+  C. Komisi penyelidik independen perkara kejahatan lintas batas kedaulatan negara
+  D. Pelaksana kekuasaan kehakiman yang merdeka demi hukum dan keadilan  <-- KUNCI
+  E. Pengawas kedisiplinan operasional bagi aparatur sipil negara di kementerian
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (kejahatan) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 61] (Kunci: B)
+Pertanyaan: Kewenangan yudisial Mahkamah Konstitusi dalam mengawal kemurnian suara kedaulatan rakyat ditegaskan melalui wewenang untuk...
+  A. Menetapkan perolehan suara resmi secara mendahului sebelum rekapitulasi tuntas
+  B. Memutus perselisihan hasil pemilihan umum dengan putusan final dan mengikat  <-- KUNCI
+  C. Menjatuhkan vonis kurungan pidana penjara bagi pelaku kecurangan pemilu
+  D. Membekukan kepengurusan komisi pemilihan umum di seluruh wilayah kepulauan
+  E. Membatalkan seluruh tahapan pemilu secara nasional saat terjadi ketegangan
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (kecurangan) -> membuat kunci positif terlalu mudah ditebak
+
+--- 5. Wawasan Kebangsaan_paket_06.json (Total: 9 soal) ---
+
+[No. 1] (Kunci: A)
+Pertanyaan: Penyatuan kembali negara-negara bagian federal ke dalam pangkuan Republik Indonesia secara yuridis didasarkan pada ketentuan bahwa...
+  A. Pembubaran dan penggabungan negara bagian diatur pasal 43 dan 49 RIS  <-- KUNCI
+  B. Peleburan wilayah serikat diputuskan sekehendak perwakilan militer sekutu
+  C. Konstitusi federal melarang pembubaran wilayah tanpa izin Belanda
+  D. Negara bagian diwajibkan mempertahankan batas teritorialnya secara permanen
+  E. Pemerintah federal berhak membekukan dewan perwakilan daerah
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (tanpa izin) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 17] (Kunci: C)
+Pertanyaan: Peristiwa tragis yang mengguncang stabilitas politik dan kedaulatan negara pada kurun waktu pertama pasca-Dekrit 1959 adalah...
+  A. Pemberontakan perhimpunan serikat buruh pelabuhan di tanjung perak
+  B. Serangan agresi militer armada perang kerajaan belanda di ibu kota
+  C. Terjadi pemberontakan G-30-S/PKI yang mengancam keutuhan ideologi negara  <-- KUNCI
+  D. Pertikaian bersenjata perbatasan teritorial kepulauan dengan negara tetangga
+  E. Krisis likuiditas moneter perbankan swasta berskala multinasional
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (pemberontakan) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 23] (Kunci: E)
+Pertanyaan: Pelaksanaan pesta demokrasi pemilihan umum legislatif pertama pada masa pemerintahan Orde Baru diselenggarakan pada...
+  A. Tahun 1966 bersamaan dengan terbitnya surat perintah sebelas maret
+  B. Tahun 1955 pada masa transisi berlakunya undang-undang dasar sementara
+  C. Tahun 1973 bertepatan dengan penetapan garis-garis besar haluan negara
+  D. Tahun 1968 menjelang sidang umum majelis permusyawaratan darurat
+  E. Pemilu pertama dalam masa Orde Baru diadakan pada tahun 1971  <-- KUNCI
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'tahun' sedangkan kunci berawalan 'pemilu'
+
+[No. 27] (Kunci: D)
+Pertanyaan: Karakteristik penyelenggaraan ketatanegaraan pada masa Orde Baru (1966–1998) ditandai oleh fenomena hubungan kelembagaan di mana...
+  A. Parlemen memegang dominasi penuh dalam menentukan arah seluruh kebijakan publik
+  B. Pemerintah daerah memegang kedaulatan mutlak pengelolaan sumber keuangan negara
+  C. Badan peradilan memiliki wewenang membatalkan ketetapan majelis permusyawaratan
+  D. Kekuasaan lembaga kepresidenan sangat dominan dibanding lainnya  <-- KUNCI
+  E. Dewan pertimbangan agung menjalankan fungsi penuntutan perkara kejahatan ekonomi
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: E (kejahatan) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 35] (Kunci: C)
+Pertanyaan: Momentum bersejarah yang menandai berakhirnya masa pemerintahan Orde Baru di Indonesia terjadi pada...
+  A. Tanggal 11 Maret 1966 saat surat perintah pengamanan negara diterbitkan
+  B. Tanggal 19 Oktober 1999 saat pengesahan naskah amandemen pertama konstitusi
+  C. Pada tanggal 21 Mei 1998 saat kepemimpinan Orde Baru resmi berakhir  <-- KUNCI
+  D. Tanggal 17 Agustus 1950 saat pembubaran negara serikat hasil konferensi
+  E. Tanggal 5 Juli 1959 saat pembacaan dekrit pemberlakuan kembali konstitusi
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'tanggal' sedangkan kunci berawalan 'pada'
+
+[No. 39] (Kunci: B)
+Pertanyaan: Pergeseran kekuasaan membentuk undang-undang dalam Perubahan Pertama UUD 1945 pada Pasal 20 ayat (1) menegaskan bahwa...
+  A. Kekuasaan legislasi sepenuhnya diserahkan kepada dewan pertimbangan kepresidenan
+  B. Pemegang kekuasaan pembentuk UU adalah DPR, bukan lagi Presiden  <-- KUNCI
+  C. Mahkamah agung memegang hak monopoli menyusun naskah rancangan peraturan
+  D. Pemerintah daerah berhak mengesahkan undang-undang nasional secara mandiri
+  E. Kementerian koordinator memiliki hak veto membatalkan persetujuan dewan
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 41] (Kunci: E)
+Pertanyaan: Perubahan mendasar terkait doktrin kedaulatan rakyat dalam Perubahan Ketiga UUD 1945 tahun 2001 adalah...
+  A. MPR diposisikan sebagai pemegang monopoli kekuasaan eksekutif dan peradilan
+  B. Kekuasaan tertinggi negara dialihkan kepada pimpinan angkatan bersenjata
+  C. Kedaulatan negara diserahkan kepada dewan pimpinan partai politik mayoritas
+  D. Lembaga kepresidenan dibubarkan dan digantikan oleh kabinet presidium
+  E. MPR tidak lagi memegang dan melaksanakan kedaulatan rakyat secara penuh  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 63] (Kunci: D)
+Pertanyaan: Rangkaian empat tahapan amandemen konstitusi Republik Indonesia secara resmi dituntaskan dan disahkan pada...
+  A. Tanggal 19 Oktober 1999 pada penutupan sidang umum pertama reformasi
+  B. Tanggal 9 November 2001 saat pembentukan mahkamah konstitusi disetujui
+  C. Tanggal 18 Agustus 2000 bertepatan dengan pengesahan bab hak asasi
+  D. Ditetapkan pada tanggal 10 Agustus 2002 pada Sidang Tahunan MPR  <-- KUNCI
+  E. Tanggal 17 Agustus 1950 saat pembubaran negara serikat hasil perundingan
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'tanggal' sedangkan kunci berawalan 'ditetapkan'
+
+[No. 66] (Kunci: B)
+Pertanyaan: Dalam Perubahan Keempat UUD 1945, penyempurnaan terhadap Bab XIV ditujukan untuk mempertegas...
+  A. Pemberian izin monopoli perdagangan kepada konglomerasi perbankan swasta
+  B. Ketentuan tentang perekonomian nasional dan jaminan kesejahteraan sosial rakyat  <-- KUNCI
+  C. Penarikan seluruh dana simpanan masyarakat untuk dialihkan ke kas pertahanan
+  D. Penghapusan jaminan pemeliharaan fakir miskin dan anak terlantar oleh negara
+  E. Penetapan upah buruh minimum secara langsung tanpa koordinasi dewan pengupahan
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+--- 5. Wawasan Kebangsaan_paket_07.json (Total: 11 soal) ---
+
+[No. 17] (Kunci: C)
+Pertanyaan: Wawasan kebangsaan menyatakan bahwa negara Indonesia merupakan satu kesatuan utuh yang dipandang dari...
+  A. Aspek kepemilikan modal dan saham perbankan
+  B. Aspek kepangkatan aparatur militer dan sipil
+  C. Semua aspek kehidupan sebagai pandangan hidup bangsa  <-- KUNCI
+  D. Aspek kekuatan armada industri pertambangan
+  E. Aspek penguasaan teknologi digital multinasional
+Kelemahan Opsi:
+  - Bocoran gramatikal: 4 pengecoh berawalan 'aspek' sedangkan kunci berawalan 'semua'
+
+[No. 18] (Kunci: D)
+Pertanyaan: Perwujudan aspirasi bangsa dan pencapaian tujuan nasional dalam wawasan kebangsaan mencakup empat kesatuan utama, KECUALI...
+  A. Kesatuan politik bernegara
+  B. Kesatuan sosial budaya rakyat
+  C. Kesatuan pertahanan keamanan nasional
+  D. Kesatuan kartel monopoli harga komoditas  <-- KUNCI
+  E. Kesatuan ekonomi perniagaan nusantara
+Kelemahan Opsi:
+  - Soal KECUALI tapi kunci memuat kata negatif mencolok: 'monopoli' -> peserta langsung tebak opsi terjelek
+
+[No. 27] (Kunci: D)
+Pertanyaan: Pengembangan persatuan Indonesia dalam wawasan kebangsaan dilaksanakan sedemikian rupa dengan tujuan utama mempertahankan...
+  A. Kekuasaan politik kelompok koalisi parlemen
+  B. Sistem feodal kebangsawanan daerah istimewa
+  C. Monopoli tata niaga perdagangan komoditas
+  D. Asas keluhuran semboyan Bhinneka Tunggal Ika  <-- KUNCI
+  E. Hak imunitas pejabat tinggi dari pemeriksaan
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 29] (Kunci: A)
+Pertanyaan: Berbekal wawasan kebangsaan berlandaskan pandangan hidup Pancasila, bangsa Indonesia berhasil merintis jalan dalam...
+  A. Menjalani misinya di tengah kehidupan dunia  <-- KUNCI
+  B. Mendominasi kepemilikan modal perbankan dunia
+  C. Membentuk pakta pertahanan militer eksklusif
+  D. Menetapkan aturan perdagangan diskriminatif kawasan
+  E. Menyaingi kekuatan persenjataan nuklir global
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (diskriminatif) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 34] (Kunci: B)
+Pertanyaan: Penyelenggaraan program perlindungan sosial bagi warga miskin dan korban bencana alam mencerminkan perwujudan dimensi nilai dasar...
+  A. Sentralisme birokrasi kepegawaian
+  B. Kesetiakawanan sosial dan masyarakat adil makmur  <-- KUNCI
+  C. Eksploitasi sumber daya produktif daerah
+  D. Pemusatan kekuasaan yudikatif pemerintahan
+  E. Primordialisme bantuan sosial kemasyarakatan
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (eksploitasi) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 46] (Kunci: E)
+Pertanyaan: Jati diri bangsa Indonesia dalam penyelenggaraan pembangunan nasional berakar pada kesepakatan luhur bahwa keberhasilan bangsa merupakan...
+  A. Kemenangan mutlak kelompok militer atas sipil
+  B. Dampak persaingan suku bangsa dalam memperebutkan modal
+  C. Hadiah kedermawanan dari negara-negara pendonor asing
+  D. Hasil eksploitasi penuh atas kekayaan hutan lindung
+  E. Rahmat Tuhan Yang Maha Esa dan keteguhan falsafah Pancasila  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (eksploitasi) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 55] (Kunci: E)
+Pertanyaan: Nilai cinta akan tanah air dan bangsa dalam wawasan kebangsaan menegaskan penghargaan tinggi terhadap asas...
+  A. Pemberian gelar kehormatan bagi pembayar pajak tertinggi
+  B. Persaingan bebas yang memenangkan kelompok terkuat
+  C. Eksploitasi teritorial demi keuntungan kelompok investor
+  D. Pemisahan hak sipil berdasarkan kepemilikan aset tanah
+  E. Kebersamaan luas yang melindungi dan memajukan setiap warga  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: C (eksploitasi) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 67] (Kunci: C)
+Pertanyaan: Dalam rangka memelihara keutuhan bangsa, nilai-nilai luhur yang hendaknya senantiasa dipupuk dalam jiwa setiap insan Indonesia adalah...
+  A. Fanatisme kedaerahan dan persaingan primordial
+  B. Eksploitasi ekonomi dan pemusatan kekayaan modal
+  C. Martabat manusia, cinta tanah air, demokrasi, dan solidaritas  <-- KUNCI
+  D. Ketertutupan budaya dan penolakan kemajuan teknologi
+  E. Sikap acuh tak acuh terhadap nasib warga tertinggal
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: A (fanatisme), A (primordial), B (eksploitasi), D (ketertutupan), E (acuh) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 69] (Kunci: E)
+Pertanyaan: Sebaliknya, keanekaan dan kemajemukan masyarakat Indonesia dalam wawasan kebangsaan tidak boleh menjadi faktor pemecah belah, melainkan...
+  A. Alasan untuk meminta otonomi terpisah dari negara kesatuan
+  B. Alat pembenaran penguasaan politik oleh kelompok tertentu
+  C. Bahan persaingan dagang antarsuku di pasar perniagaan
+  D. Dasar pembagian jatah bantuan sosial secara diskriminatif
+  E. Hal yang memperkaya dan memperkokoh persatuan bangsa  <-- KUNCI
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: D (diskriminatif) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 72] (Kunci: D)
+Pertanyaan: Cinta akan tanah air dan bangsa Indonesia senantiasa diarahkan secara berimbang pada kepentingan...
+  A. Ekspansi kekuasaan militer ke wilayah negara tetangga
+  B. Dominasi perdagangan monopoli hasil rempah kepulauan
+  C. Kelompok pemegang hak konsesi pertambangan lepas pantai
+  D. Seluruh umat manusia dalam jaringan persaudaraan antarbangsa  <-- KUNCI
+  E. Pemisahan diri dari keanggotaan badan-badan dunia
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+[No. 85] (Kunci: C)
+Pertanyaan: Di tengah pergaulan sosial masyarakat tempat tinggalnya, setiap pegawai ASN berkedudukan dan berperan sebagai...
+  A. Pengamat statis tanpa kepedulian terhadap lingkungan
+  B. Pengatur bisnis monopoli perdagangan perumahan
+  C. Figur atau tokoh teladan dalam menjaga persatuan  <-- KUNCI
+  D. Tokoh penggerak perselisihan antarkelompok warga
+  E. Pemberi izin kegiatan sewenang tanpa koordinasi
+Kelemahan Opsi:
+  - Pengecoh memuat kata negatif/cacat: B (monopoli) -> membuat kunci positif terlalu mudah ditebak
+
+Subtotal Modul 5 - Wawasan Kebangsaan: 47 soal
+
+GRAND TOTAL: 83 soal perlu diperbaiki opsi pengecohnya agar lebih mengecoh.

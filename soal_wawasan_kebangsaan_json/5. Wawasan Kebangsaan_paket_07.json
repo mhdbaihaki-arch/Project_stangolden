@@ -485,21 +485,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Wawasan kebangsaan menyatakan bahwa negara Indonesia merupakan satu kesatuan utuh yang dipandang dari...",
       "pilihan": {
-        "A": "Aspek kepemilikan modal dan saham perbankan",
-        "B": "Aspek kepangkatan aparatur militer dan sipil",
-        "C": "Semua aspek kehidupan sebagai pandangan hidup bangsa",
-        "D": "Aspek kekuatan armada industri pertambangan",
-        "E": "Aspek penguasaan teknologi digital multinasional"
+        "A": "Aspek kepemilikan modal dan saham perbankan komersial",
+        "B": "Aspek kepangkatan aparatur militer dan pegawai sipil",
+        "C": "Aspek kehidupan nasional secara utuh menyeluruh lahir batin",
+        "D": "Aspek kekuatan armada industri pertambangan dan pelayaran",
+        "E": "Aspek penguasaan teknologi digital multinasional kawasan"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
         "konsep_materi": "Negara Indonesia merupakan **satu kesatuan dipandang dari semua aspek sebagai pandangan hidup bangsa** dalam mendayagunakan konstelasi lingkungan.",
         "alasan_kunci": "Opsi C tepat karena wawasan kebangsaan menuntut cara pandang terpadu yang memandang seluruh segi kehidupan berbangsa terjalin secara integral. Pandangan komprehensif ini membimbing bangsa mengelola potensi geografi, sejarah, dan kebudayaan demi mewujudkan aspirasi nasional bersama. Kesatuan multiperspektif ini mencerminkan falsafah kenegaraan Indonesia.",
         "bedah_pengecoh": {
-          "A": "Kepemilikan modal perbankan merupakan instrumen moneter dalam sistem perbankan nasional.",
-          "B": "Kepangkatan aparatur berkaitan dengan manajemen hierarki kepegawaian institusi teknis.",
-          "D": "Kekuatan armada pertambangan berkaitan dengan kapasitas industri ekstraktif sumber daya alam.",
-          "E": "Teknologi digital multinasional merupakan produk kemajuan teknologi informasi global."
+          "A": "Aspek modal perbankan adalah instrumen moneter, bukan konsep keutuhan bangsa.",
+          "B": "Hierarki kepangkatan adalah sistem manajerial ASN, bukan kesatuan wawasan.",
+          "D": "Armada pertambangan adalah sektor industri komersial ekstraktif.",
+          "E": "Teknologi digital adalah sarana informasi, bukan dasar falsafah kenegaraan."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -775,21 +775,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Pengembangan persatuan Indonesia dalam wawasan kebangsaan dilaksanakan sedemikian rupa dengan tujuan utama mempertahankan...",
       "pilihan": {
-        "A": "Kekuasaan politik kelompok koalisi parlemen",
-        "B": "Sistem feodal kebangsawanan daerah istimewa",
-        "C": "Monopoli tata niaga perdagangan komoditas",
-        "D": "Asas keluhuran semboyan Bhinneka Tunggal Ika",
-        "E": "Hak imunitas pejabat tinggi dari pemeriksaan"
+        "A": "Penghapusan seluruh perbedaan adat istiadat suku bangsa kedaerahan",
+        "B": "Penyeragam bahasa percakapan sehari-hari di seluruh pelosok wilayah",
+        "C": "Peleburan kebudayaan daerah menjadi satu model budaya seragam tunggal",
+        "D": "Mempertahankan kemajemukan bangsa dan menjadikannya perekat persatuan",
+        "E": "Penutupan akses pertukaran budaya antardaerah demi kemurnian tradisi"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
         "konsep_materi": "Wawasan kebangsaan **mengembangkan persatuan Indonesia sedemikian rupa sehingga asas Bhinneka Tunggal Ika dipertahankan**.",
         "alasan_kunci": "Opsi D tepat karena persatuan yang dibangun di Indonesia bukan persatuan yang melebur atau mematikan keragaman adat lokal, melainkan persatuan yang merayakan kebinekaan dalam satu wadah ketunggalikaan. Asas Bhinneka Tunggal Ika menjadi jiwa pemersatu yang menjamin kelestarian budaya nusantara. Pemeliharaan asas ini menjaga keaslian identitas bangsa.",
         "bedah_pengecoh": {
-          "A": "Kekuasaan koalisi parlemen bersifat pragmatis politik dan dinamis berubah sesuai pemilu.",
-          "B": "Sistem feodal bertentangan dengan prinsip kesetaraan derajat manusia dalam republik merdeka.",
-          "C": "Monopoli tata niaga merusak keadilan ekonomi rakyat dan bertentangan dengan hukum persaingan usaha.",
-          "E": "Hak imunitas mutlak dari pemeriksaan mencederai asas kesetaraan di hadapan hukum."
+          "A": "Persatuan Indonesia tidak menghapuskan keanekaragaman adat istiadat nusantara.",
+          "B": "Bahasa daerah tetap dilestarikan sebagai kekayaan budaya nasional bangsa.",
+          "C": "Kebudayaan nasional bersumber dari puncak-puncak kebudayaan daerah.",
+          "E": "Interaksi budaya antardaerah justru memperkuat persaudaraan kebangsaan."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -833,21 +833,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Berbekal wawasan kebangsaan berlandaskan pandangan hidup Pancasila, bangsa Indonesia berhasil merintis jalan dalam...",
       "pilihan": {
-        "A": "Menjalani misinya di tengah kehidupan dunia",
-        "B": "Mendominasi kepemilikan modal perbankan dunia",
-        "C": "Membentuk pakta pertahanan militer eksklusif",
-        "D": "Menetapkan aturan perdagangan diskriminatif kawasan",
-        "E": "Menyaingi kekuatan persenjataan nuklir global"
+        "A": "Menjalani misinya di tengah kehidupan pergaulan antarbangsa dunia",
+        "B": "Mendominasi kepemilikan modal perbankan di kawasan asia tenggara",
+        "C": "Membentuk pakta pertahanan militer bersenjata yang bersifat eksklusif",
+        "D": "Membentuk aliansi ekonomi regional yang bersifat tertutup dan proteksionis",
+        "E": "Menyaingi kekuatan persenjataan nuklir negara adidaya dunia"
       },
       "kunci_jawaban": "A",
       "pembahasan": {
         "konsep_materi": "Dengan wawasan kebangsaan yang dilandasi Pancasila, bangsa Indonesia berhasil **merintis jalan menjalani misinya di tengah-tengah tata kehidupan di dunia**.",
         "alasan_kunci": "Opsi A tepat karena Indonesia secara konsisten membuktikan kepeloporan diplomasi kemerdekaan dan perdamaian abadi seperti melalui Konferensi Asia Afrika dan Gerakan Non-Blok. Pandangan hidup Pancasila memandu kiprah internasional bangsa agar senantiasa berkontribusi bagi ketertiban dunia yang berkeadilan. Misi mulia ini mengukuhkan wibawa diplomatik negara.",
         "bedah_pengecoh": {
-          "B": "Mendominasi perbankan merupakan ambisi korporasi keuangan raksasa di negara kapitalis.",
-          "C": "Pakta pertahanan militer eksklusif bertentangan dengan politik luar negeri bebas dan aktif.",
-          "D": "Perdagangan diskriminatif bertentangan dengan prinsip kemitraan ekonomi multilateral yang saling menguntungkan.",
-          "E": "Persenjataan nuklir bertentangan dengan komitmen traktat pelarangan senjata pemusnah massal."
+          "B": "Indonesia tidak berorientasi pada dominasi hegemoni permodalan regional.",
+          "C": "Politik bebas aktif melarang Indonesia bergabung dalam pakta militer pertahanan.",
+          "D": "Indonesia aktif mendorong kerja sama ekonomi terbuka yang saling menguntungkan.",
+          "E": "Indonesia secara konsisten menentang proliferasi dan penggunaan senjata nuklir."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -978,21 +978,21 @@
       "level_kognitif": "C3 - Aplikasi",
       "pertanyaan": "Penyelenggaraan program perlindungan sosial bagi warga miskin dan korban bencana alam mencerminkan perwujudan dimensi nilai dasar...",
       "pilihan": {
-        "A": "Sentralisme birokrasi kepegawaian",
-        "B": "Kesetiakawanan sosial dan masyarakat adil makmur",
-        "C": "Eksploitasi sumber daya produktif daerah",
-        "D": "Pemusatan kekuasaan yudikatif pemerintahan",
-        "E": "Primordialisme bantuan sosial kemasyarakatan"
+        "A": "Kewajiban warga miskin mengganti dana bantuan melalui program kerja paksa",
+        "B": "Wujud komitmen konstitusional dalam menjamin perlindungan sosial warga",
+        "C": "Penyerahan penanganan kemiskinan sepenuhnya kepada inisiatif lembaga swasta",
+        "D": "Pemberian pinjaman uang berbunga tinggi dengan agunan sertifikat tanah",
+        "E": "Pembatasan pemberian bantuan hanya bagi warga yang tinggal di ibu kota"
       },
       "kunci_jawaban": "B",
       "pembahasan": {
         "konsep_materi": "Dimensi kelima dan keenam nilai dasar wawasan kebangsaan adalah **kesetiakawanan sosial dan masyarakat adil-makmur**.",
         "alasan_kunci": "Opsi B tepat karena bantuan perlindungan sosial merupakan wujud nyata gotong royong dan kesetiakawanan sosial demi mencapai kemakmuran bersama yang adil. Nilai empati kebangsaan ini memastikan tidak ada warga yang tertinggal dalam mengakses pemenuhan kebutuhan dasar hidup. Pengamalan ini mewujudkan amanat sila kelima Pancasila.",
         "bedah_pengecoh": {
-          "A": "Sentralisme birokrasi mengatur hierarki perintah dan rantai komando administratif dinas.",
-          "C": "Eksploitasi sumber daya bertentangan dengan asas kelestarian dan keadilan pemanfaatan alam.",
-          "D": "Pemusatan kekuasaan yudikatif merusak kemandirian dan kebebasan peradilan hukum.",
-          "E": "Primordialisme bantuan sosial menyalurkan bantuan secara diskriminatif berdasarkan kesukuan."
+          "A": "Bansos adalah hak jaminan sosial warga, bukan skema transaksi kerja paksa.",
+          "C": "Negara bertanggung jawab utama atas perlindungan fakir miskin (Pasal 34 UUD 1945).",
+          "D": "Bansos disalurkan secara cuma-cuma tanpa skema bunga perbankan komersial.",
+          "E": "Bantuan sosial disalurkan berkeadilan ke seluruh pelosok tanah air."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1327,21 +1327,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Jati diri bangsa Indonesia dalam penyelenggaraan pembangunan nasional berakar pada kesepakatan luhur bahwa keberhasilan bangsa merupakan...",
       "pilihan": {
-        "A": "Kemenangan mutlak kelompok militer atas sipil",
-        "B": "Dampak persaingan suku bangsa dalam memperebutkan modal",
-        "C": "Hadiah kedermawanan dari negara-negara pendonor asing",
-        "D": "Hasil eksploitasi penuh atas kekayaan hutan lindung",
-        "E": "Rahmat Tuhan Yang Maha Esa dan keteguhan falsafah Pancasila"
+        "A": "Kepatuhan penuh pada arahan kebijakan ekonomi korporasi pendonor modal",
+        "B": "Penerapan teknologi modern dengan menyingkirkan kearifan budaya lokal",
+        "C": "Penyerahan tata kelola sumber daya strategis kepada konsesi modal luar",
+        "D": "Ketergantungan struktural pada skema pinjaman komersial lembaga asing",
+        "E": "Kemandirian nasional dan pemanfaatan potensi keanekaragaman bangsa"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
         "konsep_materi": "Bangsa Indonesia meyakini bahwa **keberhasilan pembangunan nasional adalah rahmat Tuhan Yang Maha Esa dan keteguhan pada falsafah Pancasila**.",
         "alasan_kunci": "Opsi E tepat karena masyarakat Indonesia senantiasa menyadari dimensi spiritual dan etis dalam setiap capaian kemajuan peradaban bangsa. Keyakinan atas berkah ketuhanan dipadukan dengan komitmen teguh pada nilai Pancasila menjadikan pembangunan berdimensi holistik lahir dan batin. Nilai ini menjadi ciri khas kepribadian bangsa.",
         "bedah_pengecoh": {
-          "A": "Kemenangan kelompok militer mencerminkan junta kekuasaan yang bertentangan dengan supremasi sipil.",
-          "B": "Persaingan antarsuku memicu gesekan sosial yang merusak semangat persatuan kebangsaan.",
-          "C": "Hadiah donor asing mencerminkan mental inlander yang menafikan kerja keras dan kemandirian rakyat.",
-          "D": "Eksploitasi hutan lindung merusak daya dukung lingkungan dan bertentangan dengan keadilan ekologis."
+          "A": "Pembangunan nasional berpedoman pada haluan negara, bukan kehendak donor.",
+          "B": "Modernisasi teknologi wajib diselaraskan dengan kearifan nilai luhur bangsa.",
+          "C": "Sumber daya strategis dikelola secara mandiri demi sebesar-besar kemakmuran rakyat.",
+          "D": "Kemandirian menuntut pengurangan ketergantungan utang luar negeri bertahap."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1590,21 +1590,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Nilai cinta akan tanah air dan bangsa dalam wawasan kebangsaan menegaskan penghargaan tinggi terhadap asas...",
       "pilihan": {
-        "A": "Pemberian gelar kehormatan bagi pembayar pajak tertinggi",
-        "B": "Persaingan bebas yang memenangkan kelompok terkuat",
-        "C": "Eksploitasi teritorial demi keuntungan kelompok investor",
-        "D": "Pemisahan hak sipil berdasarkan kepemilikan aset tanah",
-        "E": "Kebersamaan luas yang melindungi dan memajukan setiap warga"
+        "A": "Sikap chauvinisme yang merendahkan harkat dan martabat bangsa-bangsa lain",
+        "B": "Sikap isolasionis yang menolak kerja sama internasional dengan negara luar",
+        "C": "Pemberian konsesi eksploitasi alam seluas-luasnya demi penerimaan instan",
+        "D": "Penyelarasan seluruh nilai budaya bangsa dengan standar budaya barat modern",
+        "E": "Kesiagaan membela kedaulatan negara dan menjaga kelestarian lingkungan"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
         "konsep_materi": "Cinta tanah air dan bangsa **menempatkan penghargaan tinggi akan kebersamaan yang luas yang melindungi setiap warga dan menyediakan tempat perkembangan pribadi**.",
         "alasan_kunci": "Opsi E tepat karena kecintaan pada tanah air diwujudkan melalui komitmen untuk saling mengayomi dan menyediakan ruang tumbuh yang aman bagi seluruh warga negara. Semangat kebersamaan ini memastikan setiap individu dapat mengaktualisasikan potensinya demi kemajuan peradaban bersama. Nilai cinta tanah air menjalin ikatan persaudaraan sejati.",
         "bedah_pengecoh": {
-          "A": "Gelar kehormatan berbayar mereduksi nilai integritas kebangsaan menjadi transaksi materiil.",
-          "B": "Pilihan ini adalah jawaban yang benar.",
-          "C": "Eksploitasi teritorial merusak keseimbangan alam dan merugikan hak generasi masa depan.",
-          "D": "Pemisahan hak sipil berdasarkan aset tanah merupakan praktik feodal tuan tanah zaman kolonial."
+          "A": "Nasionalisme Indonesia berwatak kemanusiaan, menentang paham chauvinisme sempit.",
+          "B": "Indonesia aktif berpartisipasi mewujudkan perdamaian dunia dalam pergaulan global.",
+          "C": "Pemanfaatan alam wajib mengedepankan prinsip keberlanjutan ekologis jangka panjang.",
+          "D": "Bangsa Indonesia menjunjung tinggi kepribadian dan martabat kebudayaan sendiri."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1940,21 +1940,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Dalam rangka memelihara keutuhan bangsa, nilai-nilai luhur yang hendaknya senantiasa dipupuk dalam jiwa setiap insan Indonesia adalah...",
       "pilihan": {
-        "A": "Fanatisme kedaerahan dan persaingan primordial",
-        "B": "Eksploitasi ekonomi dan pemusatan kekayaan modal",
-        "C": "Martabat manusia, cinta tanah air, demokrasi, dan solidaritas",
-        "D": "Ketertutupan budaya dan penolakan kemajuan teknologi",
-        "E": "Sikap acuh tak acuh terhadap nasib warga tertinggal"
+        "A": "Semangat kosmopolitanisme global dan kebebasan perilaku perorangan",
+        "B": "Asas efisiensi ekonomi modern dan persaingan permodalan korporasi",
+        "C": "Martabat manusia, cinta tanah air, demokrasi, dan solidaritas sosial",
+        "D": "Kepatuhan mutlak tradisi leluhur dan penguatan norma komunal tertutup",
+        "E": "Kemandirian keluarga inti dan etos kerja profesional tanpa batas"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
         "konsep_materi": "Dalam wawasan kebangsaan **hendaknya dipupuk penghargaan terhadap martabat manusia, cinta kepada tanah air dan bangsa, demokrasi dan kesetiakawanan sosial**.",
         "alasan_kunci": "Opsi C tepat karena keterpaduan keempat pilar nilai ini membentuk kepribadian bangsa yang humanis, nasionalis, demokratis, dan berkeadilan sosial. Pembinaan karakter ini secara berkesinambungan menjaga imunitas bangsa dari ancaman disintegrasi dan polarisasi sosial. Nilai luhur ini menjadi pedoman perilaku bernegara.",
         "bedah_pengecoh": {
-          "A": "Fanatisme kedaerahan memecah belah keutuhan wilayah dan memicu konflik horizontal.",
-          "B": "Eksploitasi ekonomi memperlebar jurang kesenjangan sosial antarwarga.",
-          "D": "Ketertutupan budaya membuat bangsa tertinggal dalam persaingan peradaban global.",
-          "E": "Sikap acuh tak acuh melunturkan rasa kebersamaan gotong royong nusantara."
+          "A": "Kosmopolitanisme tanpa akar nasionalisme melunturkan kepedulian pada bangsa.",
+          "B": "Efisiensi modal adalah ukuran ekonomi bisnis, bukan nilai luhur integrasi jiwa.",
+          "D": "Ketertutupan komunal menghambat dinamika kemajuan persatuan antarsuku.",
+          "E": "Fokus keluarga semata dapat memicu sikap individualistik yang mengikis gotong royong."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -1998,21 +1998,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Sebaliknya, keanekaan dan kemajemukan masyarakat Indonesia dalam wawasan kebangsaan tidak boleh menjadi faktor pemecah belah, melainkan...",
       "pilihan": {
-        "A": "Alasan untuk meminta otonomi terpisah dari negara kesatuan",
-        "B": "Alat pembenaran penguasaan politik oleh kelompok tertentu",
-        "C": "Bahan persaingan dagang antarsuku di pasar perniagaan",
-        "D": "Dasar pembagian jatah bantuan sosial secara diskriminatif",
-        "E": "Hal yang memperkaya dan memperkokoh persatuan bangsa"
+        "A": "Alasan untuk menuntut otonomi khusus tanpa integrasi hukum nasional",
+        "B": "Alat pembuktian keunggulan budaya satu kelompok di atas suku lainnya",
+        "C": "Bahan persaingan dagang dan penutupan pasar lokal dari suku tetangga",
+        "D": "Dasar penentuan kuota perwakilan politik di lembaga tinggi negara",
+        "E": "Kekayaan khazanah budaya yang memperkokoh persatuan dan kesatuan bangsa"
       },
       "kunci_jawaban": "E",
       "pembahasan": {
         "konsep_materi": "Keanekaan dan kemajemukan **tidak boleh menjadi pemecah belah tetapi menjadi hal yang memperkaya persatuan** kebangsaan Indonesia.",
         "alasan_kunci": "Opsi E tepat karena warna-warni budaya, adat, dan kearifan lokal memperkaya khazanah kebudayaan nasional serta memberikan sumbangan gagasan bagi kemajuan bersama. Kemajemukan yang dirajut dalam persatuan menghadirkan sinergi kekuatan yang luar biasa bagi ketahanan nasional. Keragaman ini menjadi kebanggaan identitas keindonesiaan.",
         "bedah_pengecoh": {
-          "A": "Meminta otonomi terpisah mengarah pada separatisme yang merusak keutuhan wilayah negara.",
-          "B": "Alat penguasaan politik oleh kelompok tertentu mencederai prinsip demokrasi yang setara.",
-          "C": "Persaingan dagang antarsuku memicu gesekan etnis yang merugikan persaudaraan warga.",
-          "D": "Pembagian bantuan diskriminatif mencederai keadilan sosial dan memicu kecemburuan sosial."
+          "A": "Otonomi daerah dijalankan dalam kerangka keutuhan Negara Kesatuan Republik Indonesia.",
+          "B": "Kemajemukan bukan untuk mengadu superioritas antarsuku atau antargolongan.",
+          "C": "Persaingan dagang antardaerah harus sehat dan saling menopang ekonomi nasional.",
+          "D": "Keterwakilan politik didasarkan pada aspirasi rakyat melalui pemilu demokratis."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -2085,21 +2085,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Cinta akan tanah air dan bangsa Indonesia senantiasa diarahkan secara berimbang pada kepentingan...",
       "pilihan": {
-        "A": "Ekspansi kekuasaan militer ke wilayah negara tetangga",
-        "B": "Dominasi perdagangan monopoli hasil rempah kepulauan",
-        "C": "Kelompok pemegang hak konsesi pertambangan lepas pantai",
-        "D": "Seluruh umat manusia dalam jaringan persaudaraan antarbangsa",
-        "E": "Pemisahan diri dari keanggotaan badan-badan dunia"
+        "A": "Mengutamakan keunggulan bangsa sendiri dengan meremehkan negara-negara lain",
+        "B": "Dominasi penguasaan aset-aset ekonomi strategis di tingkat internasional",
+        "C": "Penyebaran paham ideologi nasional kepada perhimpunan bangsa-bangsa dunia",
+        "D": "Pembangunan persaudaraan universal dan perdamaian abadi antarbangsa",
+        "E": "Penolakan terhadap seluruh bentuk bantuan kemanusiaan dari luar negeri"
       },
       "kunci_jawaban": "D",
       "pembahasan": {
         "konsep_materi": "Cinta tanah air dan bangsa **sekaligus diarahkan pada kepentingan seluruh umat manusia yang saling berhubungan dengan berbagai jaringan antarras, antarbangsa dan antarnegara**.",
         "alasan_kunci": "Opsi D tepat karena wawasan kebangsaan Indonesia menempatkan kepentingan nasional selaras dengan kemaslahatan peradaban kemanusiaan global. Hubungan antarbangsa dipandang sebagai jalinan persaudaraan yang saling membutuhkan dalam mewujudkan perdamaian abadi dan keadilan sosial. Keseimbangan ini menegaskan kepribadian internasional bangsa.",
         "bedah_pengecoh": {
-          "A": "Ekspansi militer bertentangan dengan prinsip penolakan agresi dan penjajahan.",
-          "B": "Monopoli rempah mencerminkan sistem imperialisme komersial yang ditentang para pendiri bangsa.",
-          "C": "Kepentingan pemegang konsesi adalah keuntungan bisnis sektoral di luar nilai kemanusiaan.",
-          "E": "Pemisahan dari badan dunia melemahkan partisipasi aktif dalam perumusan kebijakan global."
+          "A": "Cinta tanah air di Indonesia menolak chauvinisme yang meremehkan bangsa lain.",
+          "B": "Tujuan nasional tidak berorientasi pada ekspansi dominasi kapital luar negeri.",
+          "C": "Pancasila bukan ideologi ekspansionis yang dipaksakan kepada negara lain.",
+          "E": "Indonesia menjunjung tinggi solidaritas kemanusiaan lintas batas bangsa."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }
@@ -2464,21 +2464,21 @@
       "level_kognitif": "C2 - Pemahaman",
       "pertanyaan": "Di tengah pergaulan sosial masyarakat tempat tinggalnya, setiap pegawai ASN berkedudukan dan berperan sebagai...",
       "pilihan": {
-        "A": "Pengamat statis tanpa kepedulian terhadap lingkungan",
-        "B": "Pengatur bisnis monopoli perdagangan perumahan",
-        "C": "Figur atau tokoh teladan dalam menjaga persatuan",
-        "D": "Tokoh penggerak perselisihan antarkelompok warga",
-        "E": "Pemberi izin kegiatan sewenang tanpa koordinasi"
+        "A": "Mengabaikan kegiatan sosial kemasyarakatan demi menjaga jarak kedinasan",
+        "B": "Mengutamakan kepentingan bisnis keluarga di atas kepentingan lingkungan",
+        "C": "Menjadi pelopor keteladanan gotong royong, toleransi, dan kerukunan",
+        "D": "Membatasi interaksi sosial hanya dengan sesama rekan aparatur pemerintah",
+        "E": "Menuntut perlakuan istimewa dalam setiap musyawarah warga rukun tetangga"
       },
       "kunci_jawaban": "C",
       "pembahasan": {
         "konsep_materi": "Pegawai ASN mengemban tanggung jawab moral untuk **menjadi figur/tokoh dan teladan di lingkungan masyarakatnya** dalam merawat harmoni sosial.",
         "alasan_kunci": "Opsi C tepat karena citra aparatur negara tercermin langsung dari sikap, tutur kata, dan perilaku sehari-hari pegawai di lingkungan tempat tinggalnya. Keteladanan dalam gotong royong, musyawarah, dan ketaatan hukum menginspirasi warga masyarakat untuk hidup rukun dan tertib. Pengaruh positif ini memperkuat kohesi sosial kemasyarakatan.",
         "bedah_pengecoh": {
-          "A": "Sikap statis dan masa bodoh mencerminkan rendahnya kepedulian sosial seorang abdi masyarakat.",
-          "B": "Mengatur monopoli bisnis perumahan bertentangan dengan etika kepantasan dan persaingan usaha yang sehat.",
-          "D": "Memicu perselisihan bertentangan secara diametral dengan fungsi ASN sebagai perekat bangsa.",
-          "E": "Pemberian izin sewenang menyimpang dari tata tertib dan prosedur administrasi lingkungan warga."
+          "A": "Aparatur negara harus membaur dan menjadi teladan di lingkungan tempat tinggalnya.",
+          "B": "Kepentingan umum dan kerukunan warga harus senantiasa diutamakan.",
+          "D": "Eksklusivitas pergaulan memicu jarak sosial antara aparatur dan rakyat.",
+          "E": "Aparatur sipil tidak boleh meminta privilese sosial di masyarakat sekitar."
         },
         "sumber_rujukan": "Wawasan Kebangsaan"
       }

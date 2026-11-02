@@ -105,10 +105,11 @@ function stgnk_json(array $data,int $status=200): void {
 $stgaction=optional_param('action','',PARAM_ALPHANUMEXT);
 
 if ($stgaction === 'admin_save_question') {
-    if (!is_siteadmin($USER)) {
+    global $USER;
+    if (!is_siteadmin($USER) && !is_siteadmin()) {
         http_response_code(403);
         header('Content-Type: application/json; charset=utf-8');
-        echo json_encode(['success' => false, 'message' => 'Hanya administrator yang diizinkan mengedit soal.'], JSON_UNESCAPED_UNICODE);
+        echo json_encode(['success' => false, 'message' => 'Akses ditolak: Hanya administrator yang diizinkan mengedit soal.'], JSON_UNESCAPED_UNICODE);
         exit;
     }
     require_sesskey();
@@ -2176,7 +2177,7 @@ function startExam(){
 }
 
 </script>
-<?php if (is_siteadmin($USER)): ?>
+<?php if (is_siteadmin($USER) || is_siteadmin()): ?>
 <!-- ========================================== -->
 <!-- STANGOLDEN LIVE IN-PAGE ADMIN QUESTION EDITOR -->
 <!-- ========================================== -->
@@ -2210,7 +2211,7 @@ function startExam(){
   position: fixed;
   inset: 0;
   background: rgba(23, 19, 31, 0.75);
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(4px);
   display: none;
   align-items: center;
   justify-content: center;
@@ -2226,8 +2227,8 @@ function startExam(){
   border-radius: 20px;
   box-shadow: 8px 8px 0 #17131F;
   width: 100%;
-  max-width: 840px;
-  max-height: 92vh;
+  max-width: 900px;
+  max-height: 94vh;
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -2249,7 +2250,7 @@ function startExam(){
   color: #17131F;
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
 }
 .stg-modal-admin-badge {
   background: #FF4D8D;
@@ -2344,6 +2345,41 @@ function startExam(){
   font-size: 13px;
   cursor: pointer;
 }
+.stg-bedah-row {
+  display: grid;
+  grid-template-columns: 75px 1fr;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.stg-bedah-label {
+  font-weight: 800;
+  font-size: 12px;
+  color: #17131F;
+  background: #E8E0FF;
+  border: 1.5px solid #17131F;
+  border-radius: 6px;
+  text-align: center;
+  padding: 8px 0;
+  display: block;
+}
+.stg-bedah-row.is-key .stg-bedah-label {
+  background: #C7FF42;
+  color: #17131F;
+}
+.stg-bedah-row.is-key input {
+  background: #F1FADC;
+  color: #2D4A1D;
+  font-style: italic;
+  font-weight: 600;
+}
+.stg-expl-box {
+  background: #FFFDF5;
+  border: 2px solid #7C3FFF;
+  border-radius: 14px;
+  padding: 16px;
+  margin-top: 10px;
+}
 .stg-modal-admin-foot {
   padding: 14px 22px;
   background: #F9F7FF;
@@ -2424,36 +2460,110 @@ function startExam(){
       <div class="stg-admin-nav">
         <button type="button" onclick="stgNavAdminQ(-1)">◀ Sebelumnya</button>
         <div style="display:flex;align-items:center;gap:8px;">
-          <label style="font-weight:800;font-size:14px;">Pilih Soal:</label>
+          <label style="font-weight:800;font-size:14px;margin:0;">Pilih Soal:</label>
           <select id="stgAdminQSelect" onchange="stgLoadAdminQ(parseInt(this.value, 10))"></select>
         </div>
         <button type="button" onclick="stgNavAdminQ(1)">Selanjutnya ▶</button>
       </div>
 
+      <!-- POKOK SOAL -->
       <div class="stg-form-group">
         <label>Pertanyaan (Pokok Soal):</label>
         <textarea id="stgAdminQText" class="stg-form-control" rows="3" placeholder="Tuliskan pertanyaan soal..."></textarea>
       </div>
 
+      <!-- PILIHAN OPSI & KUNCI -->
       <div class="stg-form-group">
         <label>Pilihan Jawaban & Kunci (Pilih radio untuk menetapkan kunci):</label>
         <?php foreach (['A', 'B', 'C', 'D', 'E'] as $idx => $ltr): ?>
         <div class="stg-opt-row">
           <label class="stg-opt-radio-label">
-            <input type="radio" name="stgAdminKunciRadio" value="<?= $idx ?>">
+            <input type="radio" name="stgAdminKunciRadio" value="<?= $idx ?>" onchange="stgOnAdminKeyChange(<?= $idx ?>)">
             <span>Opsi <?= $ltr ?></span>
           </label>
-          <input type="text" id="stgAdminOpt<?= $idx ?>" class="stg-form-control" placeholder="Teks opsi <?= $ltr ?>...">
+          <input type="text" id="stgAdminOpt<?= $idx ?>" class="stg-form-control" placeholder="Teks opsi <?= $ltr ?>..." oninput="stgUpdateLivePreview()">
         </div>
         <?php endforeach; ?>
       </div>
 
+      <!-- PEMBAHASAN BERSIH (NON-HTML) -->
       <div class="stg-form-group">
-        <label>Pembahasan Lengkap (Format HTML Kartu Belajar):</label>
-        <textarea id="stgAdminExplanation" class="stg-form-control" rows="8" style="font-family:monospace;font-size:12px;line-height:1.4;" placeholder="HTML explanation..."></textarea>
-        <small style="color:#665E7C;font-size:11px;margin-top:4px;display:block;">
-          💡 Format pembahasan menggunakan HTML terstruktur (Intisari Materi, Alasan AREL, dan Bedah Opsi Lainnya).
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;">
+          <label style="margin:0;color:#3A1B73;font-size:14px;">📖 Pembahasan Lengkap (Bebas Tag HTML — Langsung Edit):</label>
+          <button type="button" id="stgToggleRawBtn" onclick="stgToggleAdminRawMode()" style="background:#fff;border:1.5px solid #17131F;border-radius:6px;padding:3px 9px;font-size:11px;font-weight:800;cursor:pointer;">
+            ⚙️ Mode HTML Mentah
+          </button>
+        </div>
+        <small style="color:#665E7C;font-size:11px;display:block;margin-bottom:10px;">
+          💡 Kolom di bawah bebas dari kode HTML rumit. Tuliskan teks materi biasa; sistem akan menyusun kartu belajar secara otomatis.
         </small>
+
+        <div class="stg-expl-box">
+          <!-- 1. Topik -->
+          <div style="margin-bottom:12px;">
+            <label style="font-size:12px;font-weight:800;margin-bottom:4px;display:block;">📌 Topik / Judul Pembahasan:</label>
+            <input type="text" id="stgExpTopic" class="stg-form-control" placeholder="Contoh: Pengertian Dasar Nilai" oninput="stgUpdateLivePreview()">
+          </div>
+
+          <!-- 2. Konsep Inti -->
+          <div style="margin-bottom:12px;">
+            <label style="font-size:12px;font-weight:800;margin-bottom:4px;display:block;">
+              01 · Konsep Inti Textbook (Gunakan **kata** jika ingin mencetak tebal):
+            </label>
+            <textarea id="stgExpKonsep" class="stg-form-control" rows="3" placeholder="Tuliskan intisari materi dari textbook... Contoh: **Nilai** adalah suatu **keyakinan**..." oninput="stgUpdateLivePreview()"></textarea>
+          </div>
+
+          <!-- 3. Alasan AREL -->
+          <div style="margin-bottom:12px;">
+            <label style="font-size:12px;font-weight:800;margin-bottom:4px;display:block;">
+              02 · Alasan Kunci Jawaban (Metode AREL):
+            </label>
+            <textarea id="stgExpAlasan" class="stg-form-control" rows="4" placeholder="Jelaskan alasan logis mengapa opsi kunci merupakan jawaban yang tepat..." oninput="stgUpdateLivePreview()"></textarea>
+            <small style="color:#665E7C;font-size:11px;display:block;margin-top:2px;">
+              ℹ️ Kalimat <em>'Jawaban tepat: [Kunci]'</em> ditambahkan otomatis sesuai pilihan radio di atas.
+            </small>
+          </div>
+
+          <!-- 4. Bedah Opsi -->
+          <div style="margin-bottom:12px;">
+            <label style="font-size:12px;font-weight:800;margin-bottom:6px;display:block;">
+              03 · Bedah Opsi Lainnya (Pengecoh — Jelaskan secara ringkas alasan opsi lain tidak tepat):
+            </label>
+            <?php foreach (['A', 'B', 'C', 'D', 'E'] as $idx => $ltr): ?>
+            <div class="stg-bedah-row" id="stgBedahRow<?= $idx ?>">
+              <span class="stg-bedah-label">Opsi <?= $ltr ?></span>
+              <input type="text" id="stgExpBedah<?= $idx ?>" class="stg-form-control" placeholder="Penjelasan mengapa Opsi <?= $ltr ?> kurang tepat / milik konsep apa..." oninput="stgUpdateLivePreview()">
+            </div>
+            <?php endforeach; ?>
+          </div>
+
+          <!-- 5. Referensi & Kata Kunci -->
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:14px;">
+            <div>
+              <label style="font-size:12px;font-weight:800;margin-bottom:4px;display:block;">📖 Referensi Modul:</label>
+              <input type="text" id="stgExpRef" class="stg-form-control" placeholder="Contoh: Nilai-Nilai Kementerian Keuangan (Hlm. 05)" oninput="stgUpdateLivePreview()">
+            </div>
+            <div>
+              <label style="font-size:12px;font-weight:800;margin-bottom:4px;display:block;">🔍 Kata Kunci Cek Buku:</label>
+              <input type="text" id="stgExpKw" class="stg-form-control" placeholder="Contoh: keyakinan • apa yang dianggap baik" oninput="stgUpdateLivePreview()">
+            </div>
+          </div>
+
+          <!-- Mode HTML Mentah (Fallback) -->
+          <div id="stgRawExplWrap" style="display:none;margin-bottom:14px;">
+            <label style="font-size:12px;font-weight:800;margin-bottom:4px;display:block;color:#C7254E;">⚠️ Kode HTML Mentah (Mode Lanjutan):</label>
+            <textarea id="stgAdminExplanation" class="stg-form-control" rows="7" style="font-family:monospace;font-size:12px;line-height:1.4;" placeholder="HTML explanation..." oninput="stgOnRawHtmlInput()"></textarea>
+          </div>
+
+          <!-- Live Preview -->
+          <div style="margin-top:12px;border-top:1.5px dashed #D2C7E8;padding-top:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;">
+              <span style="font-size:12px;font-weight:800;color:#17131F;">✨ Pratinjau Tampilan Siswa (Live Update):</span>
+              <span style="font-size:11px;color:#7C3FFF;font-weight:700;">Otomatis Sesuai Isian Di Atas</span>
+            </div>
+            <div id="stgExpPreview" style="background:#FAF8FF;border:2px dashed #7C3FFF;border-radius:12px;padding:12px;overflow-x:auto;"></div>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -2471,6 +2581,7 @@ function startExam(){
 
 <script>
 let stgAdminCurIdx = 0;
+let stgIsRawModeActive = false;
 
 function stgInitAdminSelect() {
   const sel = document.getElementById("stgAdminQSelect");
@@ -2506,6 +2617,239 @@ function stgNavAdminQ(dir) {
   stgLoadAdminQ(next);
 }
 
+function stgCleanText(html) {
+  if (!html) return "";
+  let s = html;
+  s = s.replace(/<strong[^>]*>([\s\S]*?)<\/strong>/gi, "**$1**");
+  s = s.replace(/<b[^>]*>([\s\S]*?)<\/b>/gi, "**$1**");
+  s = s.replace(/<em[^>]*>([\s\S]*?)<\/em>/gi, "*$1*");
+  s = s.replace(/<i[^>]*>([\s\S]*?)<\/i>/gi, "*$1*");
+  s = s.replace(/<[^>]+>/g, " ");
+  s = s.replace(/&nbsp;/gi, " ")
+       .replace(/&amp;/gi, "&")
+       .replace(/&lt;/gi, "<")
+       .replace(/&gt;/gi, ">")
+       .replace(/&quot;/gi, '"')
+       .replace(/&#039;/gi, "'");
+  return s.replace(/\s+/g, " ").trim();
+}
+
+function stgParseExplanation(html) {
+  const result = {
+    title: "",
+    konsep: "",
+    alasan: "",
+    bedah: { A: "", B: "", C: "", D: "", E: "" },
+    ref: "",
+    kw: "",
+    raw: html || ""
+  };
+  if (!html) return result;
+
+  // 1. Title
+  const mTitle = html.match(/class=["']learn-title["'][^>]*>([\s\S]*?)<\/div>/i);
+  if (mTitle) {
+    let t = stgCleanText(mTitle[1]);
+    t = t.replace(/^[^\w\s]*\s*Intisari Materi\s*[•\-–]\s*/i, "").trim();
+    result.title = t;
+  }
+
+  // 2. Konsep Inti
+  const mKonsep = html.match(/Konsep Inti Textbook<\/div>\s*<p>([\s\S]*?)<\/p>/i);
+  if (mKonsep) {
+    result.konsep = stgCleanText(mKonsep[1]);
+  }
+
+  // 3. Alasan AREL
+  const mAlasan = html.match(/Alasan Kunci Jawaban \(AREL\)<\/div>\s*<p>([\s\S]*?)<\/p>/i);
+  if (mAlasan) {
+    result.alasan = stgCleanText(mAlasan[1]);
+  }
+
+  // 4. Bedah Opsi
+  const mBedahSec = html.match(/Bedah Opsi Lainnya<\/div>\s*<ul[^>]*>([\s\S]*?)<\/ul>/i);
+  if (mBedahSec) {
+    const liMatches = [...mBedahSec[1].matchAll(/<li>\s*<strong[^>]*>([A-E])<\/strong>\s*:\s*([\s\S]*?)<\/li>/gi)];
+    for (const match of liMatches) {
+      const letter = match[1].toUpperCase();
+      result.bedah[letter] = stgCleanText(match[2]);
+    }
+  }
+
+  // 5. Source & Kata Kunci
+  const mSrc = html.match(/class=["']lesson-source["'][^>]*>([\s\S]*?)<\/div>/i);
+  if (mSrc) {
+    const rawSrc = mSrc[1];
+    const mRef = rawSrc.match(/Referensi:\s*([^&|<]+)/i);
+    if (mRef) result.ref = stgCleanText(mRef[1]);
+    
+    const mKw = rawSrc.match(/Kata Kunci[^:]*:\s*([\s\S]*)$/i);
+    if (mKw) {
+      let kw = stgCleanText(mKw[1]);
+      kw = kw.replace(/\*\*/g, "").trim();
+      result.kw = kw;
+    }
+  }
+
+  return result;
+}
+
+function stgMarkdownToHtml(text) {
+  if (!text) return "";
+  let s = text.trim();
+  s = s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  s = s.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+  s = s.replace(/\*(.+?)\*/g, "<em>$1</em>");
+  return s;
+}
+
+function stgGetSelectedKey() {
+  const radios = document.getElementsByName("stgAdminKunciRadio");
+  for (let r of radios) {
+    if (r.checked) return parseInt(r.value, 10);
+  }
+  return 0;
+}
+
+function stgBuildExplanationHtml(data, answerKey, options) {
+  const letters = ["A", "B", "C", "D", "E"];
+  const keyLetter = letters[answerKey] || "A";
+  const keyOptText = (options && options[answerKey]) ? options[answerKey] : "";
+
+  const titleText = (data.title || "").trim() || "Intisari Materi";
+  const konsepHtml = stgMarkdownToHtml(data.konsep || "");
+  const alasanHtml = stgMarkdownToHtml(data.alasan || "");
+
+  let bedahLi = "";
+  for (let i = 0; i < 5; i++) {
+    const ltr = letters[i];
+    if (i === answerKey) continue;
+    const bText = (data.bedah && data.bedah[ltr]) ? data.bedah[ltr].trim() : "";
+    if (bText) {
+      bedahLi += `<li><strong>${ltr}</strong>: ${stgMarkdownToHtml(bText)}</li>`;
+    }
+  }
+
+  const refText = (data.ref || "").trim() || "Bahan Modul Pembelajaran";
+  const kwText = (data.kw || "").trim();
+
+  return `<div class="learn-box lesson-card">` +
+    `<div class="learn-title">📚 Intisari Materi • ${titleText}</div>` +
+    `<div class="lesson-section">` +
+      `<div class="lesson-kicker">01 · Konsep Inti Textbook</div>` +
+      `<p>${konsepHtml}</p>` +
+    `</div>` +
+    `<div class="lesson-section lesson-reason">` +
+      `<div class="lesson-kicker">02 · Alasan Kunci Jawaban (AREL)</div>` +
+      `<p>${alasanHtml}</p>` +
+      `<p>Jawaban tepat: <strong>${keyLetter}. ${keyOptText}</strong></p>` +
+    `</div>` +
+    `<div class="lesson-section">` +
+      `<div class="lesson-kicker">03 · Bedah Opsi Lainnya</div>` +
+      `<ul style="margin:6px 0 0;padding-left:20px;line-height:1.6">${bedahLi}</ul>` +
+    `</div>` +
+    `<div class="lesson-source">📖 Referensi: ${refText} &nbsp;|&nbsp; 🔍 Kata Kunci Cek Buku: <strong>${kwText}</strong></div>` +
+  `</div>`;
+}
+
+function stgOnAdminKeyChange(newKey) {
+  const letters = ["A", "B", "C", "D", "E"];
+  for (let i = 0; i < 5; i++) {
+    const row = document.getElementById(`stgBedahRow${i}`);
+    const inp = document.getElementById(`stgExpBedah${i}`);
+    if (i === newKey) {
+      row.classList.add("is-key");
+      inp.disabled = true;
+      inp.placeholder = `(Kunci Jawaban — otomatis tercakup di poin 02 Alasan AREL)`;
+      inp.dataset.savedVal = inp.value;
+      inp.value = "";
+    } else {
+      row.classList.remove("is-key");
+      inp.disabled = false;
+      inp.placeholder = `Penjelasan mengapa Opsi ${letters[i]} kurang tepat / milik konsep apa...`;
+      if (inp.dataset.savedVal) {
+        inp.value = inp.dataset.savedVal;
+        delete inp.dataset.savedVal;
+      }
+    }
+  }
+  stgUpdateLivePreview();
+}
+
+function stgToggleAdminRawMode() {
+  const rawWrap = document.getElementById("stgRawExplWrap");
+  const btn = document.getElementById("stgToggleRawBtn");
+  stgIsRawModeActive = !stgIsRawModeActive;
+  if (stgIsRawModeActive) {
+    rawWrap.style.display = "block";
+    btn.textContent = "⬅️ Kembali ke Form Bebas HTML";
+    btn.style.background = "#FFEDD5";
+  } else {
+    rawWrap.style.display = "none";
+    btn.textContent = "⚙️ Mode HTML Mentah";
+    btn.style.background = "#fff";
+    // Sync raw HTML changes back to clean form
+    const rawVal = document.getElementById("stgAdminExplanation").value.trim();
+    if (rawVal) {
+      const parsed = stgParseExplanation(rawVal);
+      document.getElementById("stgExpTopic").value = parsed.title;
+      document.getElementById("stgExpKonsep").value = parsed.konsep;
+      document.getElementById("stgExpAlasan").value = parsed.alasan;
+      const letters = ["A", "B", "C", "D", "E"];
+      for (let i = 0; i < 5; i++) {
+        const inp = document.getElementById(`stgExpBedah${i}`);
+        if (!inp.disabled) {
+          inp.value = parsed.bedah[letters[i]] || "";
+        }
+      }
+      document.getElementById("stgExpRef").value = parsed.ref;
+      document.getElementById("stgExpKw").value = parsed.kw;
+    }
+    stgUpdateLivePreview();
+  }
+}
+
+function stgOnRawHtmlInput() {
+  if (stgIsRawModeActive) {
+    const rawVal = document.getElementById("stgAdminExplanation").value;
+    document.getElementById("stgExpPreview").innerHTML = rawVal;
+  }
+}
+
+function stgUpdateLivePreview() {
+  const previewBox = document.getElementById("stgExpPreview");
+  if (!previewBox) return;
+
+  const curKey = stgGetSelectedKey();
+  const opts = [];
+  for (let i = 0; i < 5; i++) {
+    opts.push(document.getElementById(`stgAdminOpt${i}`).value || "");
+  }
+
+  const letters = ["A", "B", "C", "D", "E"];
+  const bedahData = {};
+  for (let i = 0; i < 5; i++) {
+    bedahData[letters[i]] = document.getElementById(`stgExpBedah${i}`).value || "";
+  }
+
+  const data = {
+    title: document.getElementById("stgExpTopic").value,
+    konsep: document.getElementById("stgExpKonsep").value,
+    alasan: document.getElementById("stgExpAlasan").value,
+    bedah: bedahData,
+    ref: document.getElementById("stgExpRef").value,
+    kw: document.getElementById("stgExpKw").value
+  };
+
+  const html = stgBuildExplanationHtml(data, curKey, opts);
+  previewBox.innerHTML = html;
+
+  const rawArea = document.getElementById("stgAdminExplanation");
+  if (rawArea && !stgIsRawModeActive) {
+    rawArea.value = html;
+  }
+}
+
 function stgLoadAdminQ(idx) {
   stgAdminCurIdx = idx;
   const sel = document.getElementById("stgAdminQSelect");
@@ -2522,7 +2866,25 @@ function stgLoadAdminQ(idx) {
   for (let r of radios) {
     r.checked = (parseInt(r.value, 10) === q.answer);
   }
+
+  // Parse explanation to clean non-HTML fields
+  const parsed = stgParseExplanation(q.explanation || "");
+  document.getElementById("stgExpTopic").value = parsed.title;
+  document.getElementById("stgExpKonsep").value = parsed.konsep;
+  document.getElementById("stgExpAlasan").value = parsed.alasan;
+
+  const letters = ["A", "B", "C", "D", "E"];
+  for (let i = 0; i < 5; i++) {
+    const inp = document.getElementById(`stgExpBedah${i}`);
+    inp.value = parsed.bedah[letters[i]] || "";
+    delete inp.dataset.savedVal;
+  }
+
+  document.getElementById("stgExpRef").value = parsed.ref;
+  document.getElementById("stgExpKw").value = parsed.kw;
   document.getElementById("stgAdminExplanation").value = q.explanation || "";
+
+  stgOnAdminKeyChange(q.answer);
 
   const alertBox = document.getElementById("stgAdminAlert");
   alertBox.className = "stg-admin-alert";
@@ -2542,10 +2904,11 @@ function stgSaveAdminQ() {
   }
 
   const opts = [];
+  const letters = ["A", "B", "C", "D", "E"];
   for (let i = 0; i < 5; i++) {
     const v = document.getElementById(`stgAdminOpt${i}`).value.trim();
     if (!v) {
-      alertBox.textContent = `Pilihan opsi ${letters[i] || (i+1)} tidak boleh kosong.`;
+      alertBox.textContent = `Pilihan opsi ${letters[i]} tidak boleh kosong.`;
       alertBox.className = "stg-admin-alert error";
       alertBox.style.display = "block";
       return;
@@ -2553,23 +2916,40 @@ function stgSaveAdminQ() {
     opts.push(v);
   }
 
-  let answerKey = 0;
-  const radios = document.getElementsByName("stgAdminKunciRadio");
-  for (let r of radios) {
-    if (r.checked) {
-      answerKey = parseInt(r.value, 10);
-      break;
+  const answerKey = stgGetSelectedKey();
+
+  let finalExplanation = "";
+  if (stgIsRawModeActive) {
+    finalExplanation = document.getElementById("stgAdminExplanation").value.trim();
+  } else {
+    const bedahData = {};
+    for (let i = 0; i < 5; i++) {
+      bedahData[letters[i]] = document.getElementById(`stgExpBedah${i}`).value.trim();
     }
+    const data = {
+      title: document.getElementById("stgExpTopic").value.trim(),
+      konsep: document.getElementById("stgExpKonsep").value.trim(),
+      alasan: document.getElementById("stgExpAlasan").value.trim(),
+      bedah: bedahData,
+      ref: document.getElementById("stgExpRef").value.trim(),
+      kw: document.getElementById("stgExpKw").value.trim()
+    };
+    finalExplanation = stgBuildExplanationHtml(data, answerKey, opts);
   }
 
-  const expl = document.getElementById("stgAdminExplanation").value.trim();
+  if (!finalExplanation) {
+    alertBox.textContent = "Pembahasan soal tidak boleh kosong.";
+    alertBox.className = "stg-admin-alert error";
+    alertBox.style.display = "block";
+    return;
+  }
 
   const payload = {
     index: stgAdminCurIdx,
     question: qText,
     options: opts,
     answer: answerKey,
-    explanation: expl
+    explanation: finalExplanation
   };
 
   saveBtn.disabled = true;
@@ -2595,7 +2975,7 @@ function stgSaveAdminQ() {
       questions[stgAdminCurIdx].question = qText;
       questions[stgAdminCurIdx].options = opts;
       questions[stgAdminCurIdx].answer = answerKey;
-      if (expl) questions[stgAdminCurIdx].explanation = expl;
+      questions[stgAdminCurIdx].explanation = finalExplanation;
 
       if (typeof render === "function") {
         render();

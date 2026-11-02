@@ -1,0 +1,480 @@
+
+=======================================================
+MODUL: M2 - Nilai-Nilai Kemenkeu
+=======================================================
+
+--- File: 2. Modul Nilai-Nilai Kemenkeu-UPKP_paket_03.json (1 soal) ---
+
+Soal Nomor 91 (Kunci: C)
+Pertanyaan: Penguatan nilai kementerian tidak sekadar jargon seremonial, melainkan mengerucut pada karakteristik peran sebagai...
+Pilihan:
+  A. Penyelenggara pesta demokrasi pemilihan umum
+  B. Penegak ketertiban keamanan perbatasan laut
+  C. Pengelola keuangan negara dalam berbagai aspeknya [KUNCI]
+  D. Penyedia sarana transportasi darat antarkota
+  E. Pengawas stabilitas perdagangan komoditas ekspor
+Catatan Evaluasi / Masalah:
+  * Opsi A memuat kata absurd/tidak relevan: 'pesta'
+
+--- File: 2. Modul Nilai-Nilai Kemenkeu-UPKP_paket_04.json (2 soal) ---
+
+Soal Nomor 16 (Kunci: A)
+Pertanyaan: Larangan etika integritas terkait perlindungan martabat rekan kerja melarang perbuatan...
+Pilihan:
+  A. Bertindak sewenang-wenang, perundungan, dan pelecehan [KUNCI]
+  B. Memiliki rajah tato pada bagian tubuh yang terbuka terlihat
+  C. Menyebarkan informasi yang memicu rasa permusuhan
+  D. Menerima tamu non-pekerjaan tanpa izin pimpinan kantor
+  E. Menghalangi kreativitas rekan yang memberi nilai tambah
+Catatan Evaluasi / Masalah:
+  * Opsi D bernada negatif/melanggar: 'tanpa izin' (pengecoh terlalu gampang dieliminasi)
+
+Soal Nomor 23 (Kunci: C)
+Pertanyaan: Penggunaan tindik (piercing) bagi pegawai dilarang dalam kode etik profesionalisme, KECUALI...
+Pilihan:
+  A. Penggunaan tindik pada daun telinga untuk seluruh staf pria
+  B. Penggunaan anting hidung saat menghadiri acara protokoler
+  C. Di daun telinga khusus pegawai perempuan atau alasan agama [KUNCI]
+  D. Penggunaan aksesoris tindik alis pada kegiatan operasional
+  E. Penggunaan perhiasan tindik bibir bagi aparatur pelayanan
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'penggunaan' sedangkan kunci 'di' berbeda (grammatical telltale)
+
+=======================================================
+MODUL: M3 - Tata Aturan Kepegawaian
+=======================================================
+
+--- File: 3. Tata Aturan Kepegawaian_paket_02.json (1 soal) ---
+
+Soal Nomor 89 (Kunci: B)
+Pertanyaan: PNS yang dinyatakan tewas atau hilang dalam menjalankan tugas operasi kedinasan negara diberhentikan secara...
+Pilihan:
+  A. Pemberhentian sementara menunggu kepastian masa tugas
+  B. Dengan hormat atas jasa dan pengabdian kepada negara [KUNCI]
+  C. Pemberhentian tidak atas permohonan sendiri berjangka
+  D. Pemberhentian administratif dengan pemutusan hak tunjangan
+  E. Pemberhentian jabatan definitif dengan status pegawai nonaktif
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'pemberhentian' sedangkan kunci 'dengan' berbeda (grammatical telltale)
+
+--- File: 3. Tata Aturan Kepegawaian_paket_03.json (1 soal) ---
+
+Soal Nomor 47 (Kunci: A)
+Pertanyaan: Biro SDM Kemenkeu menjadwalkan gelombang mutasi pegawai luar daerah pada bulan Juni-Juli dan Desember. Pertimbangan humanis yang mendasarinya adalah...
+Pilihan:
+  A. Menyesuaikan dengan masa pergantian tahun ajaran sekolah anak [KUNCI]
+  B. Pertimbangan jarak tempuh geografis antar-satuan kerja wilayah
+  C. Menghabiskan alokasi anggaran tiket pesawat sebelum audit BPK
+  D. Menunggu selesainya perayaan pesta rakyat di ibu kota provinsi
+  E. Memberikan kesempatan pegawai berlibur panjang bersama keluarga
+Catatan Evaluasi / Masalah:
+  * Opsi D memuat kata absurd/tidak relevan: 'pesta'
+
+--- File: 3. Tata Aturan Kepegawaian_paket_04.json (2 soal) ---
+
+Soal Nomor 9 (Kunci: C)
+Pertanyaan: Dalam skema pola karier Kemenkeu, unsur yang BUKAN merupakan bagian dari skema tersebut adalah...
+Pilihan:
+  A. Jalur promosi vertikal
+  B. Jalur mutasi horizontal
+  C. Alokasi anggaran pensiun [KUNCI]
+  D. Jalur mobilitas diagonal
+  E. Jalur penugasan instansi
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'jalur' sedangkan kunci 'alokasi' berbeda (grammatical telltale)
+
+Soal Nomor 100 (Kunci: C)
+Pertanyaan: Berdasarkan PP 94/2021, sanksi yang BUKAN merupakan klasifikasi hukuman disiplin sedang adalah...
+Pilihan:
+  A. Pemotongan tunjangan kinerja 25% selama 6 bulan
+  B. Pemotongan tunjangan kinerja 25% selama 9 bulan
+  C. Penurunan pangkat setingkat lebih rendah selama 3 tahun [KUNCI]
+  D. Pemotongan tunjangan kinerja 25% selama 12 bulan
+  E. Pemotongan tunjangan prestasi kerja satu semester
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'pemotongan' sedangkan kunci 'penurunan' berbeda (grammatical telltale)
+
+--- File: 3. Tata Aturan Kepegawaian_paket_05.json (4 soal) ---
+
+Soal Nomor 19 (Kunci: D)
+Pertanyaan: Di antara opsi berikut, pelanggaran larangan yang dijatuhi hukuman disiplin ringan karena berdampak pada Unit Kerja adalah...
+Pilihan:
+  A. Menyalahgunakan barang milik negara berdampak negatif bagi negara
+  B. Menjadi anggota partai politik tanpa mengajukan surat pengunduran diri
+  C. Membocorkan dokumen rahasia kedinasan yang berdampak pada instansi
+  D. Melakukan kegiatan yang merugikan negara berdampak pada unit kerja [KUNCI]
+  E. Meminjamkan aset dinas tanpa izin atasan berdampak pada instansi
+Catatan Evaluasi / Masalah:
+  * Opsi E bernada negatif/melanggar: 'tanpa izin' (pengecoh terlalu gampang dieliminasi)
+
+Soal Nomor 78 (Kunci: A)
+Pertanyaan: Bagian kepegawaian menyusun pedoman teknis cuti bersama tahunan. Landasan hukum peraturan pemerintah rujukan utamanya adalah...
+Pilihan:
+  A. PP Nomor 11 Tahun 2017 jo PP Nomor 17 Tahun 2020 [KUNCI]
+  B. Peraturan Pemerintah Nomor 30 Tahun 2019
+  C. Peraturan Pemerintah Nomor 94 Tahun 2021
+  D. Peraturan Pemerintah Nomor 35 Tahun 2010
+  E. Peraturan Pemerintah Nomor 42 Tahun 2004
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'peraturan' sedangkan kunci 'pp' berbeda (grammatical telltale)
+
+Soal Nomor 80 (Kunci: C)
+Pertanyaan: Harmonisasi regulasi cuti di Kemenkeu mengintegrasikan ketentuan PP Manajemen PNS, Perka BKN, dan SE Menkeu guna menjamin...
+Pilihan:
+  A. Pembatasan frekuensi pengajuan permohonan istirahat dalam satu tahun
+  B. Penghapusan seluruh hak cuti tahunan pegawai di daerah terpencil
+  C. Kepastian pemenuhan hak cuti tanpa mengganggu pelayanan publik [KUNCI]
+  D. Pemberian kebebasan bagi pegawai tidak masuk kantor tanpa izin
+  E. Penyeragaman seluruh masa kerja pensiun menjadi 50 tahun
+Catatan Evaluasi / Masalah:
+  * Opsi D bernada negatif/melanggar: 'tanpa izin' (pengecoh terlalu gampang dieliminasi)
+
+Soal Nomor 82 (Kunci: C)
+Pertanyaan: Berdasarkan regulasi cuti, Calon Pegawai Negeri Sipil (CPNS) hanya berhak atas...
+Pilihan:
+  A. Cuti di luar tanggungan negara selama tiga tahun
+  B. Cuti besar untuk menunaikan ibadah haji
+  C. Cuti tahunan, kecuali ada pertimbangan kemanusiaan [KUNCI]
+  D. Cuti tahunan yang diakumulasikan selama sepuluh tahun
+  E. Pembebasan penugasan tanpa izin dari atasan langsung
+Catatan Evaluasi / Masalah:
+  * Opsi E bernada negatif/melanggar: 'tanpa izin' (pengecoh terlalu gampang dieliminasi)
+
+--- File: 3. Tata Aturan Kepegawaian_paket_06.json (4 soal) ---
+
+Soal Nomor 25 (Kunci: C)
+Pertanyaan: Cuti karena alasan penting dapat diberikan kepada PNS laki-laki dengan alasan khusus yaitu...
+Pilihan:
+  A. Membeli rumah tempat tinggal baru
+  B. Mendampingi anak ujian sekolah kedinasan
+  C. Istrinya melahirkan atau operasi sesar [KUNCI]
+  D. Menghadiri acara wisuda kerabat jauh
+  E. Mengikuti kegiatan rekreasi keluarga tahunan
+Catatan Evaluasi / Masalah:
+  * Opsi E memuat kata absurd/tidak relevan: 'rekreasi'
+
+Soal Nomor 40 (Kunci: C)
+Pertanyaan: PNS yang baru saja selesai tugas belajar dan bekerja kembali langsung berhak atas cuti berikut tanpa menunggu 3 bulan, yaitu...
+Pilihan:
+  A. Cuti bersama dan cuti rekreasi dinas
+  B. Cuti tahunan berjalan dan cuti besar haji
+  C. Cuti sakit, cuti melahirkan, dan cuti alasan penting [KUNCI]
+  D. Cuti tahunan penugasan luar negeri
+  E. Cuti di luar tanggungan negara langsung
+Catatan Evaluasi / Masalah:
+  * Opsi A memuat kata absurd/tidak relevan: 'rekreasi'
+
+Soal Nomor 47 (Kunci: D)
+Pertanyaan: Berdasarkan Keppres Nomor 56 Tahun 1974, usaha kesejahteraan Pegawai Negeri Sipil mencakup empat program yaitu...
+Pilihan:
+  A. Beasiswa luar negeri, tabungan emas, asuransi jiwa
+  B. Transportasi, rekreasi, seragam, sembako murah
+  C. Kredit usaha, kendaraan dinas, kuota, seminar
+  D. Pensiun, kesehatan, perumahan, pendidikan anak [KUNCI]
+  E. Bantuan hukum, pesangon, bonus target, wisata
+Catatan Evaluasi / Masalah:
+  * Opsi B memuat kata absurd/tidak relevan: 'rekreasi'
+
+Soal Nomor 60 (Kunci: A)
+Pertanyaan: Selain gaji pokok, komponen tunjangan resmi yang dapat diberikan kepada Pegawai Negeri Sipil meliputi...
+Pilihan:
+  A. Tunjangan keluarga, jabatan, pangan, dan lain-lain [KUNCI]
+  B. Tunjangan hiburan, rekreasi, pulsa, dan pesangon
+  C. Tunjangan liburan akhir pekan dan bonus belanja
+  D. Tunjangan kepemilikan saham dan dividen satker
+  E. Tunjangan hari raya swasta dan insentif lembur bebas
+Catatan Evaluasi / Masalah:
+  * Opsi B memuat kata absurd/tidak relevan: 'rekreasi'
+  * Opsi B memuat kata absurd/tidak relevan: 'hiburan'
+
+=======================================================
+MODUL: M4 - Pengelolaan Keuangan Negara
+=======================================================
+
+--- File: 4. Pengelolaan Keuangan Negara_paket_01.json (1 soal) ---
+
+Soal Nomor 61 (Kunci: A)
+Pertanyaan: Kebijakan pengeluaran pemerintah yang berpihak kepada masyarakat berpenghasilan rendah (pro-poor) diterapkan dalam bentuk...
+Pilihan:
+  A. Alokasi bantuan sosial dan subsidi dasar tepat sasaran [KUNCI]
+  B. Pembangunan sarana rekreasi mewah di pusat kawasan bisnis
+  C. Pemberian insentif pembebasan pajak barang mewah impor
+  D. Pengadaan armada kendaraan dinas protokoler kementerian
+  E. Penyediaan fasilitas penerbangan eksekutif pejabat pusat
+Catatan Evaluasi / Masalah:
+  * Opsi B memuat kata absurd/tidak relevan: 'rekreasi'
+
+--- File: 4. Pengelolaan Keuangan Negara_paket_04.json (2 soal) ---
+
+Soal Nomor 4 (Kunci: D)
+Pertanyaan: Kelompok pajak dalam negeri pada postur penerimaan perpajakan mencakup...
+Pilihan:
+  A. Pajak hotel, restoran, hiburan, dan penerangan jalan
+  B. Bea masuk impor, bea keluar ekspor, dan retribusi jasa
+  C. Pajak kendaraan bermotor, retribusi parkir, dan reklame
+  D. Pajak penghasilan, PPN, PPnBM, cukai, dan pajak lainnya [KUNCI]
+  E. Pungutan hasil perikanan dan dividen perusahaan negara
+Catatan Evaluasi / Masalah:
+  * Opsi A memuat kata absurd/tidak relevan: 'hiburan'
+
+Soal Nomor 94 (Kunci: D)
+Pertanyaan: Penerimaan dari denda tilang, uang sitaan, atau hasil lelang barang rampasan masuk klaster...
+Pilihan:
+  A. Pajak bumi dan bangunan sektor pertambangan mineral umum
+  B. Penerimaan pajak perdagangan internasional komoditas ekspor
+  C. Pungutan cukai atas peredaran barang berbahaya tanpa izin
+  D. Objek PNBP Hak Negara Lainnya sesuai ketentuan regulasi [KUNCI]
+  E. Penerimaan hibah terikat dari penegak hukum luar negeri
+Catatan Evaluasi / Masalah:
+  * Opsi C bernada negatif/melanggar: 'tanpa izin' (pengecoh terlalu gampang dieliminasi)
+
+--- File: 4. Pengelolaan Keuangan Negara_paket_05.json (4 soal) ---
+
+Soal Nomor 12 (Kunci: B)
+Pertanyaan: Pemisahan belanja rutin dan belanja pembangunan pada masa lalu dihilangkan karena...
+Pilihan:
+  A. Menghambat penarikan dana pinjaman luar negeri pemerintah
+  B. Menimbulkan peluang duplikasi, penumpukan, dan penyimpangan [KUNCI]
+  C. Mempersulit pemeriksaan kuitansi fisik oleh aparat pemeriksa
+  D. Menurunkan jumlah penerimaan perpajakan kas umum negara
+  E. Membatasi penambahan jumlah formasi aparatur sipil negara
+Catatan Evaluasi / Masalah:
+  * Opsi C bernada negatif/melanggar: 'mempersulit' (pengecoh terlalu gampang dieliminasi)
+
+Soal Nomor 23 (Kunci: C)
+Pertanyaan: Pengeluaran berupa transfer uang atau barang kepada masyarakat melalui K/L disebut...
+Pilihan:
+  A. Belanja barang untuk menunjang operasional dinas kantor
+  B. Belanja pegawai untuk meningkatkan kinerja aparatur
+  C. Bantuan sosial untuk melindungi dari risiko sosial [KUNCI]
+  D. Belanja modal untuk menambah kepemilikan aset kementerian
+  E. Belanja bunga untuk melunasi kupon surat utang negara
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'belanja' sedangkan kunci 'bantuan' berbeda (grammatical telltale)
+
+Soal Nomor 36 (Kunci: A)
+Pertanyaan: Sektor penerimaan yang termasuk dalam kelompok DBH Sumber Daya Alam meliputi...
+Pilihan:
+  A. Kehutanan, minerba, migas, panas bumi, dan perikanan [KUNCI]
+  B. Industri perbankan, pasar modal, asuransi, dan dana pensiun
+  C. Transportasi darat, penerbangan perintis, dan perkeretaapian
+  D. Telekomunikasi digital, informatika, dan pos logistik paket
+  E. Pariwisata perhotelan, hiburan malam, dan restoran kuliner
+Catatan Evaluasi / Masalah:
+  * Opsi E memuat kata absurd/tidak relevan: 'hiburan'
+
+Soal Nomor 55 (Kunci: E)
+Pertanyaan: Pemanfaatan Dana Desa secara regulasi difokuskan untuk mendanai empat bidang yaitu...
+Pilihan:
+  A. Penyelenggaraan pesta rakyat dan perayaan tahun baru di desa
+  B. Perjalanan dinas aparatur kementerian, studi banding, dan seminar
+  C. Pembelian saham obligasi korporasi di bursa efek domestik
+  D. Talangan pelunasan utang macet pengurus badan usaha daerah
+  E. Pemerintahan, pembangunan, pemberdayaan, dan kemasyarakatan desa [KUNCI]
+Catatan Evaluasi / Masalah:
+  * Opsi A memuat kata absurd/tidak relevan: 'pesta'
+
+--- File: 4. Pengelolaan Keuangan Negara_paket_06.json (2 soal) ---
+
+Soal Nomor 29 (Kunci: D)
+Pertanyaan: Pemeriksaan BPK yang bertujuan menilai ketiadaan pemborosan dalam alokasi anggaran adalah...
+Pilihan:
+  A. Pemeriksaan tingkat kunjungan wisatawan di tempat rekreasi
+  B. Pemeriksaan atas batas kewajaran laba perusahaan swasta
+  C. Pemeriksaan atas target volume penjualan komoditas korporasi
+  D. Pemeriksaan atas kehematan dan efisiensi keuangan negara [KUNCI]
+  E. Pemeriksaan mutu bahan bangunan proyek perumahan warga
+Catatan Evaluasi / Masalah:
+  * Opsi A memuat kata absurd/tidak relevan: 'rekreasi'
+
+Soal Nomor 44 (Kunci: D)
+Pertanyaan: Salah satu bentuk konkret peran serta masyarakat dalam penyelenggaraan negara adalah...
+Pilihan:
+  A. Hak membekukan rekening kasir satuan kerja kementerian
+  B. Hak menyita arsip rahasia negara secara mandiri tanpa izin
+  C. Hak menginterogasi pejabat administrasi di luar pengadilan
+  D. Hak mencari, memperoleh, dan memberikan informasi publik [KUNCI]
+  E. Hak membatalkan penerapan seluruh peraturan perundang-undangan
+Catatan Evaluasi / Masalah:
+  * Opsi B bernada negatif/melanggar: 'tanpa izin' (pengecoh terlalu gampang dieliminasi)
+
+=======================================================
+MODUL: M5 - Wawasan Kebangsaan
+=======================================================
+
+--- File: 5. Wawasan Kebangsaan_paket_01.json (1 soal) ---
+
+Soal Nomor 90 (Kunci: E)
+Pertanyaan: Karakteristik khas norma hukum yang membedakannya dari norma kesusilaan dan sopan santun adalah memiliki sanksi...
+Pilihan:
+  A. Kutukan gaib yang datang dari roh nenek moyang
+  B. Sanksi sosial informal berupa teguran lingkungan
+  C. Teguran lisan dari para tetangga sekitar rumah
+  D. Rasa cemas tanpa adanya ancaman hukuman lahiriah
+  E. Tegas dari pemerintah melalui alat-alat negara [KUNCI]
+Catatan Evaluasi / Masalah:
+  * Opsi A memuat kata absurd/tidak relevan: 'gaib'
+
+--- File: 5. Wawasan Kebangsaan_paket_02.json (1 soal) ---
+
+Soal Nomor 46 (Kunci: C)
+Pertanyaan: Prinsip toleransi kehidupan beragama antara pemeluk Buddha dan Hindu dilukiskan dalam...
+Pilihan:
+  A. Kitab Gatotkacasraya gubahan pujangga Mpu Panuluh
+  B. Kitab Smaradahana karangan pujangga Mpu Dharmaja
+  C. Buku Sutasoma karangan pujangga Mpu Tantular [KUNCI]
+  D. Kitab Kresnayana karangan pujangga istana Mpu Triguna
+  E. Kitab Lubdhaka karangan pujangga sastra Mpu Tanakung
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'kitab' sedangkan kunci 'buku' berbeda (grammatical telltale)
+
+--- File: 5. Wawasan Kebangsaan_paket_03.json (3 soal) ---
+
+Soal Nomor 28 (Kunci: B)
+Pertanyaan: Penyelesaian masalah keutuhan negara dalam waktu kurang dari 15 menit membuktikan bahwa para pemimpin...
+Pilihan:
+  A. Bersikap acuh tak acuh terhadap aspirasi konstituen pendukungnya
+  B. Benar-benar mementingkan keselamatan nasib dan persatuan bangsa [KUNCI]
+  C. Terburu-buru karena khawatir terhadap serangan militer sekutu
+  D. Menyerahkan urusan kenegaraan kepada keputusan sekelompok elite
+  E. Memiliki keterbatasan pemahaman terhadap substansi ilmu hukum
+Catatan Evaluasi / Masalah:
+  * Opsi A bernada negatif/melanggar: 'acuh' (pengecoh terlalu gampang dieliminasi)
+
+Soal Nomor 56 (Kunci: E)
+Pertanyaan: Karakteristik hubungan agama dan negara Republik Indonesia menurut pokok pikiran keempat adalah...
+Pilihan:
+  A. Negara theokrasi mutlak di bawah kepemimpinan otoritas ulama
+  B. Negara monarki keagamaan dengan kewajiban satu agama tunggal
+  C. Negara sekuler yang melarang seluruh simbol agama di ranah publik
+  D. Negara ateis yang meniadakan keberadaan institusi rumah ibadah
+  E. Bukan negara theokrasi dan juga bukan negara sekuler [KUNCI]
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'negara' sedangkan kunci 'bukan' berbeda (grammatical telltale)
+
+Soal Nomor 70 (Kunci: A)
+Pertanyaan: Dua bentuk negara yang dikenal dalam kajian ilmu hukum tata negara adalah...
+Pilihan:
+  A. Bentuk negara serikat (federal) dan bentuk negara kesatuan [KUNCI]
+  B. Negara feodal bangsawan dan negara protektorat kolonial
+  C. Negara dominion persemakmuran dan negara mandat internasional
+  D. Negara garnisun militer dan negara kepulauan perhimpunan
+  E. Negara kota mandiri dan negara perserikatan pedagang maritim
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'negara' sedangkan kunci 'bentuk' berbeda (grammatical telltale)
+
+--- File: 5. Wawasan Kebangsaan_paket_05.json (2 soal) ---
+
+Soal Nomor 41 (Kunci: E)
+Pertanyaan: Kewenangan legislatif yang dimiliki oleh Dewan Perwakilan Daerah menurut Pasal 22D ayat (1) UUD 1945 mencakup hak untuk...
+Pilihan:
+  A. Mengesahkan undang-undang perpajakan tanpa melibatkan persetujuan dari DPR
+  B. Menerbitkan obligasi daerah otonom tanpa melalui pengawasan kementerian keuangan
+  C. Menetapkan struktur tarif bea masuk komoditas perdagangan lintas kepulauan
+  D. Membatalkan peraturan daerah secara mandiri tanpa izin menteri
+  E. Mengajukan RUU bidang otonomi dan perimbangan keuangan ke DPR [KUNCI]
+Catatan Evaluasi / Masalah:
+  * Opsi D bernada negatif/melanggar: 'tanpa izin' (pengecoh terlalu gampang dieliminasi)
+
+Soal Nomor 61 (Kunci: B)
+Pertanyaan: Kewenangan yudisial Mahkamah Konstitusi dalam mengawal kemurnian suara kedaulatan rakyat ditegaskan melalui wewenang untuk...
+Pilihan:
+  A. Menetapkan perolehan suara resmi secara mendahului sebelum rekapitulasi tuntas
+  B. Memutus perselisihan hasil pemilihan umum dengan putusan final dan mengikat [KUNCI]
+  C. Menjatuhkan vonis kurungan pidana penjara bagi pelaku kecurangan pemilu
+  D. Membekukan kepengurusan komisi pemilihan umum di seluruh wilayah kepulauan
+  E. Membatalkan seluruh tahapan pemilu secara nasional saat terjadi ketegangan
+Catatan Evaluasi / Masalah:
+  * Opsi C bernada negatif/melanggar: 'kecurangan' (pengecoh terlalu gampang dieliminasi)
+
+--- File: 5. Wawasan Kebangsaan_paket_06.json (4 soal) ---
+
+Soal Nomor 1 (Kunci: A)
+Pertanyaan: Penyatuan kembali negara-negara bagian federal ke dalam pangkuan Republik Indonesia secara yuridis didasarkan pada ketentuan bahwa...
+Pilihan:
+  A. Pembubaran dan penggabungan negara bagian diatur pasal 43 dan 49 RIS [KUNCI]
+  B. Peleburan wilayah serikat diputuskan sekehendak perwakilan militer sekutu
+  C. Konstitusi federal melarang pembubaran wilayah tanpa izin Belanda
+  D. Negara bagian diwajibkan mempertahankan batas teritorialnya secara permanen
+  E. Pemerintah federal berhak membekukan dewan perwakilan daerah
+Catatan Evaluasi / Masalah:
+  * Opsi C bernada negatif/melanggar: 'tanpa izin' (pengecoh terlalu gampang dieliminasi)
+
+Soal Nomor 23 (Kunci: E)
+Pertanyaan: Pelaksanaan pesta demokrasi pemilihan umum legislatif pertama pada masa pemerintahan Orde Baru diselenggarakan pada...
+Pilihan:
+  A. Tahun 1966 bersamaan dengan terbitnya surat perintah sebelas maret
+  B. Tahun 1955 pada masa transisi berlakunya undang-undang dasar sementara
+  C. Tahun 1973 bertepatan dengan penetapan garis-garis besar haluan negara
+  D. Tahun 1968 menjelang sidang umum majelis permusyawaratan darurat
+  E. Pemilu pertama dalam masa Orde Baru diadakan pada tahun 1971 [KUNCI]
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'tahun' sedangkan kunci 'pemilu' berbeda (grammatical telltale)
+
+Soal Nomor 35 (Kunci: C)
+Pertanyaan: Momentum bersejarah yang menandai berakhirnya masa pemerintahan Orde Baru di Indonesia terjadi pada...
+Pilihan:
+  A. Tanggal 11 Maret 1966 saat surat perintah pengamanan negara diterbitkan
+  B. Tanggal 19 Oktober 1999 saat pengesahan naskah amandemen pertama konstitusi
+  C. Pada tanggal 21 Mei 1998 saat kepemimpinan Orde Baru resmi berakhir [KUNCI]
+  D. Tanggal 17 Agustus 1950 saat pembubaran negara serikat hasil konferensi
+  E. Tanggal 5 Juli 1959 saat pembacaan dekrit pemberlakuan kembali konstitusi
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'tanggal' sedangkan kunci 'pada' berbeda (grammatical telltale)
+
+Soal Nomor 63 (Kunci: D)
+Pertanyaan: Rangkaian empat tahapan amandemen konstitusi Republik Indonesia secara resmi dituntaskan dan disahkan pada...
+Pilihan:
+  A. Tanggal 19 Oktober 1999 pada penutupan sidang umum pertama reformasi
+  B. Tanggal 9 November 2001 saat pembentukan mahkamah konstitusi disetujui
+  C. Tanggal 18 Agustus 2000 bertepatan dengan pengesahan bab hak asasi
+  D. Ditetapkan pada tanggal 10 Agustus 2002 pada Sidang Tahunan MPR [KUNCI]
+  E. Tanggal 17 Agustus 1950 saat pembubaran negara serikat hasil perundingan
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'tanggal' sedangkan kunci 'ditetapkan' berbeda (grammatical telltale)
+
+--- File: 5. Wawasan Kebangsaan_paket_07.json (4 soal) ---
+
+Soal Nomor 17 (Kunci: C)
+Pertanyaan: Wawasan kebangsaan menyatakan bahwa negara Indonesia merupakan satu kesatuan utuh yang dipandang dari...
+Pilihan:
+  A. Aspek kepemilikan modal dan saham perbankan
+  B. Aspek kepangkatan aparatur militer dan sipil
+  C. Semua aspek kehidupan sebagai pandangan hidup bangsa [KUNCI]
+  D. Aspek kekuatan armada industri pertambangan
+  E. Aspek penguasaan teknologi digital multinasional
+Catatan Evaluasi / Masalah:
+  * Pengecoh memiliki awalan seragam 'aspek' sedangkan kunci 'semua' berbeda (grammatical telltale)
+
+Soal Nomor 29 (Kunci: A)
+Pertanyaan: Berbekal wawasan kebangsaan berlandaskan pandangan hidup Pancasila, bangsa Indonesia berhasil merintis jalan dalam...
+Pilihan:
+  A. Menjalani misinya di tengah kehidupan dunia [KUNCI]
+  B. Mendominasi kepemilikan modal perbankan dunia
+  C. Membentuk pakta pertahanan militer eksklusif
+  D. Menetapkan aturan perdagangan diskriminatif kawasan
+  E. Menyaingi kekuatan persenjataan nuklir global
+Catatan Evaluasi / Masalah:
+  * Opsi D bernada negatif/melanggar: 'diskriminatif' (pengecoh terlalu gampang dieliminasi)
+
+Soal Nomor 67 (Kunci: C)
+Pertanyaan: Dalam rangka memelihara keutuhan bangsa, nilai-nilai luhur yang hendaknya senantiasa dipupuk dalam jiwa setiap insan Indonesia adalah...
+Pilihan:
+  A. Fanatisme kedaerahan dan persaingan primordial
+  B. Eksploitasi ekonomi dan pemusatan kekayaan modal
+  C. Martabat manusia, cinta tanah air, demokrasi, dan solidaritas [KUNCI]
+  D. Ketertutupan budaya dan penolakan kemajuan teknologi
+  E. Sikap acuh tak acuh terhadap nasib warga tertinggal
+Catatan Evaluasi / Masalah:
+  * Opsi E bernada negatif/melanggar: 'acuh' (pengecoh terlalu gampang dieliminasi)
+
+Soal Nomor 69 (Kunci: E)
+Pertanyaan: Sebaliknya, keanekaan dan kemajemukan masyarakat Indonesia dalam wawasan kebangsaan tidak boleh menjadi faktor pemecah belah, melainkan...
+Pilihan:
+  A. Alasan untuk meminta otonomi terpisah dari negara kesatuan
+  B. Alat pembenaran penguasaan politik oleh kelompok tertentu
+  C. Bahan persaingan dagang antarsuku di pasar perniagaan
+  D. Dasar pembagian jatah bantuan sosial secara diskriminatif
+  E. Hal yang memperkaya dan memperkokoh persatuan bangsa [KUNCI]
+Catatan Evaluasi / Masalah:
+  * Opsi D bernada negatif/melanggar: 'diskriminatif' (pengecoh terlalu gampang dieliminasi)
