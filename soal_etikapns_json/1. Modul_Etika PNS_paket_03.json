@@ -1,0 +1,2336 @@
+{
+  "paket_nomor": 3,
+  "dokumen_sumber": "1. Modul_Etika PNS_after UAT.pdf",
+  "rentang_halaman": "Halaman 24 s/d Halaman 31",
+  "jumlah_soal": 80,
+  "distribusi_kunci": {
+    "A": 16,
+    "B": 16,
+    "C": 16,
+    "D": 16,
+    "E": 16
+  },
+  "daftar_soal": [
+    {
+      "nomor": 1,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "adaptasi organisasi terhadap dinamika"
+      ],
+      "topik_materi": "Latar Belakang Sistem Kerja Fleksibel",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penetapan Sistem Kerja Fleksibel melalui KMK Nomor 416/KMK.01/2023 merupakan bentuk...",
+      "pilihan": {
+        "A": "Adaptasi organisasi terhadap dinamika lingkungan kerja",
+        "B": "Pengurangan beban kerja operasional pegawai secara permanen",
+        "C": "Penghapusan presensi kehadiran harian di kementerian",
+        "D": "Pemberian kebebasan waktu kerja tanpa evaluasi kinerja",
+        "E": "Penyederhanaan struktur kelembagaan eselon kementerian"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Sistem Kerja Fleksibel (SKF) merupakan bentuk **adaptasi organisasi terhadap dinamika lingkungan kerja yang terus berubah** dengan tetap menjaga produktivitas.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Transformasi digital menuntut organisasi pemerintah bersikap adaptif dan lincah dalam merespons perkembangan zaman. Kebijakan SKF diterbitkan sebagai respons adaptasi organisasi terhadap dinamika kerja modern. Dengan demikian, pelayanan publik tetap produktif dan akuntabel.",
+        "bedah_pengecoh": {
+          "B": "Beban target kinerja tetap sama dan tidak dikurangi dalam sistem SKF.",
+          "C": "Presensi kehadiran tetap wajib diisi via aplikasi otomasi perkantoran.",
+          "D": "Bekerja fleksibel tetap terikat pada target dan pemantauan atasan.",
+          "E": "Penataan struktur kelembagaan tunduk pada regulasi kelembagaan terpisah."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 2,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "fleksibilitas tempat bekerja dan fleksibilitas waktu bekerja"
+      ],
+      "topik_materi": "Komponen Sistem Kerja Fleksibel",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dua bentuk fleksibilitas pokok yang diatur dalam Sistem Kerja Fleksibel Kementerian Keuangan adalah...",
+      "pilihan": {
+        "A": "Fleksibilitas target output dan fleksibilitas anggaran belanja",
+        "B": "Fleksibilitas tempat bekerja dan fleksibilitas waktu bekerja",
+        "C": "Fleksibilitas jenjang kepangkatan dan fleksibilitas tunjangan",
+        "D": "Fleksibilitas standar kompetensi dan fleksibilitas cuti dinas",
+        "E": "Fleksibilitas audit kepatuhan dan fleksibilitas tata naskah"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Sistem Kerja Fleksibel di lingkungan Kementerian Keuangan terdiri dari **fleksibilitas tempat bekerja dan fleksibilitas waktu bekerja**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. SKF memberikan ruang penyesuaian lokasi kerja (WFO/WFH) dan alokasi waktu kerja yang adaptif. Regulasi KMK 416/2023 menetapkan dua komponen utama yaitu fleksibilitas tempat dan waktu bekerja. Dengan demikian, efektivitas penuntasan tugas dapat dioptimalkan.",
+        "bedah_pengecoh": {
+          "A": "Target capaian kinerja dan standar output pekerjaan bersifat mengikat.",
+          "C": "Pangkat dan tunjangan diatur baku dalam sistem kepegawaian nasional.",
+          "D": "Standar kompetensi jabatan tidak dapat dilonggarkan secara sepihak.",
+          "E": "Audit kepatuhan tetap berjalan ketat mengawal akuntabilitas instansi."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 3,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "perangkat keras",
+        "perangkat lunak"
+      ],
+      "topik_materi": "Dukungan Sarana Prasarana SKF",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan tugas dalam sistem kerja fleksibel didukung sarana prasarana yang meliputi...",
+      "pilihan": {
+        "A": "Kendaraan dinas operasional dan fasilitas ruang rapat mewah",
+        "B": "Buku kas manual dan register surat fisik konvensional",
+        "C": "Perangkat keras, perangkat lunak, dan sarana pendukung",
+        "D": "Genset cadangan pribadi dan saluran telepon kabel rumah",
+        "E": "Voucher belanja konsumsi dan akomodasi penginapan dinas"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "SKF didukung sarana prasarana teknologi meliputi **perangkat keras, perangkat lunak (aplikasi otomasi perkantoran), dan sarana pendukung lainnya**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Kesiapan infrastruktur teknologi informasi adalah tulang punggung kelancaran kerja jarak jauh. Sarana SKF mencakup komputer/laptop, aplikasi otomasi perkantoran, dan jaringan komunikasi data resmi. Dengan demikian, konektivitas koordinasi pegawai tetap terjaga.",
+        "bedah_pengecoh": {
+          "A": "Fasilitas mobilitas fisik bukan sarana utama sistem kerja fleksibel.",
+          "B": "Sistem administrasi SKF bertumpu penuh pada aplikasi digital nirkertas.",
+          "D": "Peralatan sarana dinas disediakan sesuai standar perlengkapan kerja.",
+          "E": "Biaya belanja konsumsi pribadi bukan bagian dari sarana kerja TIK."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 4,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "Diktum keduabelas huruf b angka 3"
+      ],
+      "topik_materi": "Kewajiban Etika Diktum Keduabelas",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban pegawai mematuhi kode etik dan disiplin dalam pelaksanaan SKF secara eksplisit diatur pada...",
+      "pilihan": {
+        "A": "Diktum pertama huruf a angka 1 KMK 416/2023",
+        "B": "Diktum kelima huruf c angka 2 KMK 416/2023",
+        "C": "Diktum kesepuluh huruf a angka 4 KMK 416/2023",
+        "D": "Diktum keduabelas huruf b angka 3 KMK 416/2023",
+        "E": "Diktum kelimabelas huruf d angka 1 KMK 416/2023"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kewajiban etika SKF tertuang dalam **Diktum keduabelas huruf b angka 3** KMK 416/KMK.01/2023 tentang kepatuhan kode etik dan norma masyarakat.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Klausul ini secara tegas mengikat pegawai agar tidak menyalahartikan fleksibilitas sebagai pelonggaran disiplin. Diktum keduabelas huruf b angka 3 KMK 416/2023 mewajibkan kepatuhan kode etik dan kesopanan. Dengan demikian, kepatuhan moral menjadi syarat sah kerja fleksibel.",
+        "bedah_pengecoh": {
+          "A": "Diktum pertama memuat ketentuan umum definisi dan ruang lingkup SKF.",
+          "B": "Diktum kelima mengatur pembagian waktu kerja dan jam operasional dinas.",
+          "C": "Diktum kesepuluh mengatur kriteria pegawai yang berhak mengikuti SKF.",
+          "E": "Diktum kelimabelas memuat ketentuan penutup dan masa berlaku keputusan."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 5,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "kesopanan dan kesusilaan yang berlaku di masyarakat"
+      ],
+      "topik_materi": "Kepatuhan Norma Kesopanan Masyarakat",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Saat melaksanakan tugas kedinasan dari ruang kerja bersama (coworking space), perilaku pegawai wajib mencerminkan...",
+      "pilihan": {
+        "A": "Kebebasan bersikap tanpa memperhatikan lingkungan sekitar",
+        "B": "Pengutamaan kenyamanan pribadi di atas ketertiban umum",
+        "C": "Pemasangan identitas politik untuk menunjukkan keterbukaan",
+        "D": "Pemanfaatan jaringan internet umum tanpa proteksi keamanan",
+        "E": "Kepatuhan pada norma kesopanan dan kesusilaan masyarakat"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pegawai wajib mematuhi kode etik dan disiplin **termasuk norma kesopanan dan kesusilaan yang berlaku di masyarakat** di manapun bertugas.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Pegawai yang bekerja di ruang publik membawa citra institusi kementerian di hadapan masyarakat luas. Ketentuan etika menegaskan kewajiban mematuhi norma kesopanan dan kesusilaan yang berlaku. Dengan demikian, ketertiban umum dan kehormatan korps tetap terjaga.",
+        "bedah_pengecoh": {
+          "A": "Mengabaikan etika publik mencoreng kehormatan aparatur sipil negara.",
+          "B": "Mementingkan kenyamanan sendiri berpotensi mengganggu pengguna lain.",
+          "C": "Melanggar asas netralitas politik aparatur sipil negara di ruang publik.",
+          "D": "Menggunakan internet publik tanpa proteksi memicu ancaman siber data."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 6,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "pelonggaran standar moral dan profesional"
+      ],
+      "topik_materi": "Prinsip Moralitas Kerja Fleksibel",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan etika kerja fleksibel menegaskan bahwa keleluasaan tempat dan waktu tidak boleh dimaknai sebagai...",
+      "pilihan": {
+        "A": "Peluang meningkatkan inovasi dan pemanfaatan teknologi baru",
+        "B": "Pelonggaran standar moral dan integritas profesional",
+        "C": "Sarana meningkatkan keharmonisan keluarga dan tugas dinas",
+        "D": "Kesempatan menghemat waktu perjalanan menuju kantor fisik",
+        "E": "Upaya membangun kemandirian penyelesaian tugas pekerjaan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Fleksibilitas tempat dan waktu bekerja **tidak boleh dimaknai sebagai pelonggaran standar moral dan profesional** aparatur.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Standar moral dan kualitas output kedinasan tetap berlaku sama persis baik di kantor maupun di rumah. Regulasi menegaskan fleksibilitas bukan alasan untuk mengendurkan disiplin moral dan profesionalisme. Dengan demikian, integritas aparatur tetap tegak di segala kondisi.",
+        "bedah_pengecoh": {
+          "A": "Pemanfaatan inovasi teknologi justru menjadi tujuan positif SKF.",
+          "C": "Keseimbangan hidup-kerja merupakan dampak positif yang diharapkan.",
+          "D": "Penghematan waktu mobilitas adalah manfaat efisiensi kerja jarak jauh.",
+          "E": "Kemandirian tugas adalah kompetensi yang dituntut dalam era fleksibel."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 7,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "Disiplin dan Kejujuran dalam Penggunaan Waktu Kerja"
+      ],
+      "topik_materi": "Disiplin Waktu Kerja SKF",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Bentuk akuntabilitas etis pegawai saat melaksanakan tugas WFH dalam pemanfaatan jam kerja kedinasan adalah...",
+      "pilihan": {
+        "A": "Menyelesaikan urusan belanja pribadi pada jam pelayanan publik",
+        "B": "Mematikan gawai dinas agar tidak terganggu panggilan rapat",
+        "C": "Fokus pada tugas dinas dan melaporkan hasil kerja secara jujur",
+        "D": "Mengalihkan pekerjaan kantor kepada rekan kerja yang di kantor",
+        "E": "Mengisi presensi hadir lalu meninggalkan tempat kerja tanpa izin"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Aspek etika SKF menuntut **disiplin dan kejujuran dalam penggunaan waktu kerja** dengan fokus pada tugas kedinasan dan pelaporan valid.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Bekerja tanpa pengawasan fisik langsung membutuhkan komitmen kejujuran penggunaan jam kerja dinas. Pegawai wajib fokus pada tugas kantor serta melaporkan hasil kerja harian secara riil dan valid. Dengan demikian, amanah jam kerja terpenuhi dengan akuntabel.",
+        "bedah_pengecoh": {
+          "A": "Menyalahgunakan jam dinas untuk urusan pribadi melanggar disiplin.",
+          "B": "Menolak panggilan koordinasi rapat virtual melanggar kewajiban dinas.",
+          "D": "Membebankan pekerjaan sendiri kepada rekan kerja mencederai sinergi.",
+          "E": "Presensi fiktif merupakan pelanggaran disiplin berat aparatur sipil negara."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 8,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "menjaga keamanan dan keselamatan pekerjaan"
+      ],
+      "topik_materi": "Tanggung Jawab dan Integritas SKF",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban etis pegawai dalam aspek tanggung jawab dan integritas saat bekerja jarak jauh mencakup...",
+      "pilihan": {
+        "A": "Penyebarluasan draf kebijakan kementerian ke forum publik daring",
+        "B": "Pemberian akses akun sistem dinas kepada keluarga di rumah",
+        "C": "Penggunaan perangkat kerja kantor untuk bisnis sampingan pribadi",
+        "D": "Menjaga keamanan pekerjaan dan kerahasiaan data negara",
+        "E": "Penyimpanan dokumen rahasia pada layanan komputasi awan bebas"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Dalam aspek tanggung jawab dan integritas, pegawai wajib **menjaga keamanan dan keselamatan pekerjaan, termasuk kerahasiaan data**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Bekerja di luar kantor memperbesar risiko kebocoran data rahasia perbendaharaan dan perpajakan negara. Kode etik mewajibkan pegawai menjaga keamanan pekerjaan dan mengamankan data kedinasan. Dengan demikian, kedaulatan data pemerintah tetap terlindungi.",
+        "bedah_pengecoh": {
+          "A": "Membocorkan draf rahasia negara merupakan pelanggaran pidana jabatan.",
+          "B": "Berbagi akun kepada pihak luar melanggar protokol keamanan informasi.",
+          "C": "Menyalahgunakan aset dinas untuk keuntungan komersial pribadi.",
+          "E": "Menyimpan data dinas pada komputasi awan bebas memicu pencurian data."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 9,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "Etika Sosial dan Kesopanan Digital"
+      ],
+      "topik_materi": "Kesopanan Digital dalam Forum Virtual",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perwujudan etika sosial dan kesopanan digital pegawai saat berinteraksi dalam rapat daring resmi ditunjukkan dengan...",
+      "pilihan": {
+        "A": "Menyalakan musik latar belakang yang keras selama rapat",
+        "B": "Menyela pembicaraan pimpinan rapat tanpa mengangkat tangan",
+        "C": "Mengenakan pakaian rumah santai saat kamera aktif menyala",
+        "D": "Menutup pandangan mata dari arah kamera selama rapat",
+        "E": "Menjaga penampilan rapi dan menghormati tata cara rapat resmi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Etika sosial diwujudkan melalui **kesopanan dalam forum virtual, menjaga penampilan, serta menghormati tata cara kegiatan resmi**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Etika pergaulan di ruang rapat virtual menuntut kesantunan dan kerapian busana yang setara dengan rapat fisik. Sikap santun ditunjukkan dengan busana rapi, tertib berbicara, dan mematuhi tata tertib pertemuan. Dengan demikian, suasana rapat berlangsung khidmat dan produktif.",
+        "bedah_pengecoh": {
+          "A": "Suara bising mengganggu ketertiban jalannya koordinasi rapat dinas.",
+          "B": "Menyela tanpa izin pemandu acara melanggar kesopanan komunikasi rapat.",
+          "C": "Pakaian tidak pantas merendahkan martabat institusi dalam forum resmi.",
+          "D": "Mengabaikan komunikasi mencerminkan sikap tidak responsif dan pasif."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 10,
+      "halaman_sumber": 24,
+      "kata_kunci_modul": [
+        "Pelaporan hasil kerja yang jujur dan valid"
+      ],
+      "topik_materi": "Akuntabilitas Pelaporan Hasil Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bentuk akuntabilitas etis aparatur dalam mempertanggungjawabkan kinerja harian saat bekerja fleksibel adalah...",
+      "pilihan": {
+        "A": "Pelaporan hasil kerja yang jujur dan valid pada sistem",
+        "B": "Pencatatan target capaian fiktif agar dinilai berkinerja tinggi",
+        "C": "Pengiriman bukti pekerjaan milik rekan kerja sebagai tugas sendiri",
+        "D": "Penundaan pengunggahan laporan hingga akhir triwulan berjalan",
+        "E": "Penyusunan laporan ringkas tanpa menyertakan dokumen bukti kerja"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "**Pelaporan hasil kerja yang jujur dan valid merupakan bentuk akuntabilitas etis dalam bekerja** pada pelaksanaan sistem kerja fleksibel.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Sistem kerja modern menuntut kejujuran input laporan hasil kerja sebagai basis evaluasi kinerja atasan. Pelaporan yang jujur dan valid membuktikan dedikasi profesional pegawai selama bekerja jarak jauh. Dengan demikian, penilaian kinerja mencerminkan prestasi riil pegawai.",
+        "bedah_pengecoh": {
+          "B": "Laporan fiktif merupakan penipuan data kinerja yang melanggar disiplin.",
+          "C": "Mengklaim hasil kerja orang lain merupakan pelanggaran integritas hak cipta.",
+          "D": "Penundaan laporan menghambat monitoring pencapaian kinerja organisasi.",
+          "E": "Laporan tanpa bukti eviden menyulitkan verifikasi akuntabilitas pekerjaan."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 11,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "Penggunaan Sarana dan Prasarana Secara Etis"
+      ],
+      "topik_materi": "Etika Pemanfaatan Sarana TIK",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Prinsip etis yang wajib dipedomani pegawai dalam memanfaatkan sarana teknologi informasi dinas adalah...",
+      "pilihan": {
+        "A": "Boleh digunakan anggota keluarga untuk keperluan bermain game",
+        "B": "Dapat dipinjamkan kepada pihak ketiga untuk kegiatan komersial",
+        "C": "Digunakan bertanggung jawab dan tidak untuk kepentingan pribadi",
+        "D": "Bebas dimodifikasi perangkat lunaknya tanpa izin unit TIK",
+        "E": "Ditinggalkan di ruang publik tanpa pengawasan demi kemudahan akses"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Sarana TIK dinas harus **digunakan secara bertanggung jawab, tidak disalahgunakan untuk kepentingan pribadi, dan memenuhi standar keamanan siber**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Laptop dan aset TIK instansi dibiayai anggaran negara khusus untuk menunjang tugas kedinasan. Penggunaan etis mewajibkan pemanfaatan sarana dinas secara bertanggung jawab dan bersih dari urusan privat. Dengan demikian, aset negara terpelihara optimal.",
+        "bedah_pengecoh": {
+          "A": "Pemanfaatan aset dinas untuk hiburan keluarga menyalahi peruntukan.",
+          "B": "Meminjamkan sarana kantor kepada pihak luar melanggar pengamanan BMN.",
+          "D": "Modifikasi tanpa izin berisiko merusak sistem keamanan informasi kantor.",
+          "E": "Meninggalkan gawai tanpa pengawasan memicu pencurian data rahasia."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 12,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "terbuka terhadap pemantauan dan evaluasi kinerja"
+      ],
+      "topik_materi": "Kepatuhan Pengawasan Kinerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sikap pegawai dalam memenuhi kewajiban pengawasan dan evaluasi kinerja saat bekerja jarak jauh adalah...",
+      "pilihan": {
+        "A": "Menunda tanggapan atas panggilan koordinasi atasan terkait progres",
+        "B": "Mematikan status keaktifan pada aplikasi kolaborasi kementerian",
+        "C": "Menyampaikan laporan kerja sewaktu ada inspeksi unit pemeriksa",
+        "D": "Terbuka terhadap pemantauan dan evaluasi kinerja oleh atasan",
+        "E": "Meminta rekan kerja mewakili saat evaluasi kinerja harian berlangsung"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pegawai memiliki kewajiban melaporkan kehadiran dan hasil kerja serta **terbuka terhadap pemantauan dan evaluasi kinerja oleh atasan langsung**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Keterbukaan evaluasi mencerminkan kesiapan pegawai mempertanggungjawabkan hasil kerja secara transparan. Pegawai wajib bersikap kooperatif saat atasan atau unit pengawas memantau progres tugas dinas. Dengan demikian, kualitas hasil kerja tetap terkendali baik.",
+        "bedah_pengecoh": {
+          "A": "Menghindar dari komunikasi atasan melanggar kewajiban responsivitas.",
+          "B": "Mematikan status daring menyulitkan koordinasi tugas tim kerja dinas.",
+          "C": "Pelaporan kerja wajib diinput rutin tanpa menunggu teguran pemeriksa.",
+          "E": "Tanggung jawab kinerja melekat personal dan tidak boleh diwakilkan."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 13,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "komunikasi yang efektif, jelas, sopan, dan responsif"
+      ],
+      "topik_materi": "Etika Komunikasi Kerja Digital",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Di lingkungan kerja digital, integritas profesional aparatur dalam berkomunikasi ditunjukkan melalui...",
+      "pilihan": {
+        "A": "Penggunaan singkatan bahasa gaul dalam surat dinas elektronik",
+        "B": "Pemberian respon pesan dinas setelah melewati beberapa hari kerja",
+        "C": "Pengabaian pesan koordinasi dari staf unit kerja yang berbeda",
+        "D": "Penyampaian informasi penting melalui panggilan telepon lisan",
+        "E": "Komunikasi yang efektif, jelas, sopan, dan senantiasa responsif"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Di lingkungan kerja digital, **komunikasi yang efektif, jelas, sopan, dan responsif menjadi bagian dari integritas profesional** aparatur.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Komunikasi virtual yang cepat dan santun mencegah kesalahpahaman koordinasi tugas antar-lokasi. Standar etika komunikasi digital menuntut penyampaian pesan yang jelas, sopan, dan cepat ditanggapi. Dengan demikian, kelancaran tugas tim lintas tempat terjamin.",
+        "bedah_pengecoh": {
+          "A": "Tata naskah dinas resmi wajib mematuhi kaidah bahasa baku kedinasan.",
+          "B": "Keterlambatan merespon koordinasi mendesak menghambat kinerja kantor.",
+          "C": "Mengabaikan pesan rekan unit lain mencerminkan ego sektoral negatif.",
+          "D": "Informasi kedinasan resmi memerlukan jejak rekam tertulis yang valid."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 14,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "mengisi daftar hadir melalui sistem aplikasi presensi"
+      ],
+      "topik_materi": "Kewajiban Presensi Digital",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban pertama pegawai dalam pelaksanaan Sistem Kerja Fleksibel menurut KMK 416 Tahun 2023 adalah...",
+      "pilihan": {
+        "A": "Mengisi daftar hadir melalui aplikasi presensi otomasi perkantoran",
+        "B": "Menghubungi pimpinan unit melalui sambungan panggilan video",
+        "C": "Membuat ringkasan berita acara kehadiran manual di atas kertas",
+        "D": "Mengirimkan foto selfie di depan rumah ke grup percakapan dinas",
+        "E": "Menyerahkan kartu identitas pegawai kepada petugas keamanan kantor"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kewajiban pertama pegawai adalah **mengisi daftar hadir melalui sistem aplikasi presensi pada aplikasi otomasi perkantoran (office automation)**.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Presensi digital merupakan bukti keabsahan kedisiplinan jam kerja harian pegawai selama bertugas. Regulasi mewajibkan pengisian presensi tepat waktu melalui aplikasi resmi kementerian. Dengan demikian, hak tunjangan kinerja dan kepatuhan jam kerja terekam akurat.",
+        "bedah_pengecoh": {
+          "B": "Panggilan video bukan mekanisme resmi pencatatan kehadiran kedinasan.",
+          "C": "Pencatatan manual bertentangan dengan sistem otomasi digital kementerian.",
+          "D": "Foto selfie informal bukan standar instrumen presensi kedinasan sah.",
+          "E": "Penyerahan kartu tanda pengenal menyalahi tertib pengamanan identitas."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 15,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "memastikan ketersediaan sarana dan prasarana pendukung kerja"
+      ],
+      "topik_materi": "Kesiapan Sarana Mandiri",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Sebelum memulai jadwal tugas bekerja dari rumah (WFH), tindakan persiapan yang wajib dipastikan oleh pegawai adalah...",
+      "pilihan": {
+        "A": "Menyiapkan hidangan konsumsi untuk rekan kerja yang berkunjung",
+        "B": "Memastikan ketersediaan sarana pendukung kerja dan koneksi internet",
+        "C": "Mengajukan permohonan penggantian biaya listrik rumah ke bendahara",
+        "D": "Meminta izin kepada ketua rukun tetangga setempat secara formal",
+        "E": "Menyewa ruang pertemuan komersial atas beban anggaran kantor"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pegawai berkewajiban **memastikan ketersediaan sarana dan prasarana pendukung kerja** sebelum melaksanakan penugasan SKF.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Kelancaran tugas jarak jauh menuntut kesiapan perangkat gawai dan jaringan internet yang stabil. Pegawai wajib memastikan sarana kerja berfungsi baik agar pelayanan tidak terhenti karena kendala teknis. Dengan demikian, produktivitas kerja jarak jauh tetap terjaga.",
+        "bedah_pengecoh": {
+          "A": "Urusan konsumsi privat tidak berkaitan dengan kesiapan teknis dinas.",
+          "C": "Biaya listrik rumah tinggal tidak ditanggung oleh bendahara pengeluaran.",
+          "D": "Pemberitahuan warga bukan prosedur administratif kedinasan instansi.",
+          "E": "Sewa ruangan komersial tanpa alokasi DIPA melanggar aturan anggaran."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 16,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "responsif dan dapat dihubungi"
+      ],
+      "topik_materi": "Responsivitas dan Status Online",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan butir 5 kewajiban KMK 416/2023, sikap pegawai selama jam kerja fleksibel berlangsung adalah...",
+      "pilihan": {
+        "A": "Bebas menonaktifkan gawai dinas di luar agenda pertemuan resmi",
+        "B": "Merespons pesan tertulis dari atasan langsung seorang diri",
+        "C": "Menyerahkan nomor ponsel pribadi kepada masyarakat pemohon layanan",
+        "D": "Responsif, dapat dihubungi, dan mengupayakan online pada aplikasi",
+        "E": "Memasang balasan pesan otomatis bahwa pegawai sedang tidak di kantor"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pegawai wajib **responsif dan dapat dihubungi serta mengupayakan untuk online dalam peralatan kolaborasi Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Koordinasi tanggap darurat dan dinamika tugas mendesak menuntut ketersediaan komunikasi pegawai setiap saat. Kewajiban SKF menegaskan pegawai harus responsif dan menjaga status aktif pada platform kerja resmi. Dengan demikian, hambatan komunikasi tim dapat ditiadakan.",
+        "bedah_pengecoh": {
+          "A": "Menonaktifkan gawai dinas pada jam kerja melanggar kewajiban tugas.",
+          "B": "Koordinasi kerja melibatkan rekan tim dan pemangku kepentingan unit.",
+          "C": "Pemberian kontak pribadi berisiko keamanan dan privasi aparatur.",
+          "E": "Pesan otomatis tidak di kantor mengesankan pengabaian tugas dinas."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 17,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "menggunakan pakaian kerja sesuai ketentuan"
+      ],
+      "topik_materi": "Ketentuan Pakaian Kerja SKF",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Standar berpakaian yang wajib dikenakan pegawai saat melaksanakan tugas kedinasan secara fleksibel (SKF) adalah...",
+      "pilihan": {
+        "A": "Pakaian santai rumah tangga demi kenyamanan suasana kerja mandiri",
+        "B": "Busana pesta resmi lengkap dengan atribut organisasi kemasyarakatan",
+        "C": "Pakaian olahraga santai sepanjang tidak ada agenda pertemuan video",
+        "D": "Busana bebas tanpa batas asalkan rapi menurut penilaian pribadi",
+        "E": "Pakaian kerja sesuai ketentuan resmi seragam Kementerian Keuangan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pegawai berkewajiban **menggunakan pakaian kerja sesuai ketentuan mengenai pakaian kerja pegawai di lingkungan Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Kedisiplinan berseragam mencerminkan profesionalitas dan kehormatan korps aparatur negara di manapun bertugas. Bekerja fleksibel tetap mewajibkan pakaian dinas yang diatur resmi oleh regulasi menteri. Dengan demikian, identitas dan wibawa aparatur tetap terpancar teguh.",
+        "bedah_pengecoh": {
+          "A": "Pakaian rumah tangga merendahkan standar profesionalisme kedinasan.",
+          "B": "Atribut organisasi non-pemerintah dilarang dikenakan saat dinas aktif.",
+          "C": "Pakaian olahraga hanya diperkenankan pada agenda senam kesegaran dinas.",
+          "D": "Standar kerapian dinas mengacu pada regulasi pakaian kerja kementerian."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 18,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "menghindari penggunaan internet yang tidak terjamin keamanannya"
+      ],
+      "topik_materi": "Keamanan Jaringan Internet",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Ketika harus mengakses dokumen anggaran negara di tempat umum, tindakan pengamanan jaringan internet yang etis adalah...",
+      "pilihan": {
+        "A": "Memilih koneksi aman dan memakai jaringan resmi instansi",
+        "B": "Menghubungkan laptop ke fasilitas jaringan nirkabel gratis tanpa sandi",
+        "C": "Mematikan fitur firewall sistem operasi agar unduhan data berjalan cepat",
+        "D": "Meminjam sambungan hotspot milik pengunjung lain yang tidak dikenal",
+        "E": "Membagikan kata sandi VPN kantor kepada staf tempat umum setempat"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Dalam menjaga keamanan informasi, pegawai wajib **menghindari penggunaan internet yang tidak terjamin keamanannya** (seperti wifi publik gratis tanpa proteksi).",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Jaringan publik tanpa enkripsi rentan disusupi peretas yang dapat mencegat data rahasia kementerian. Protokol keamanan siber mewajibkan penghindaran wifi publik tidak aman dan mengutamakan jaringan privat dinas. Dengan demikian, integritas data keuangan negara terlindungi.",
+        "bedah_pengecoh": {
+          "B": "Wifi publik gratis tanpa proteksi adalah sarang penyadapan data siber.",
+          "C": "Mematikan firewall membuka celah masuknya malware berbahaya ke laptop.",
+          "D": "Menghubungkan ke gawai orang asing berisiko tinggi penyalinan dokumen.",
+          "E": "Membocorkan kredensial VPN negara merupakan pelanggaran keamanan berat."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 19,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "selektif dalam mengakses/mengunduh informasi"
+      ],
+      "topik_materi": "Ketelitian Akses Situs Internet",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban aparatur dalam menjaga perangkat laptop dinas dari ancaman perangkat perusak (malware) diwujudkan melalui...",
+      "pilihan": {
+        "A": "Pengunduhan seluruh aplikasi gratis yang tersedia di mesin pencari",
+        "B": "Sikap selektif dalam mengakses atau mengunduh dari situs internet",
+        "C": "Penyimpanan data kantor pada flashdisk temuan tanpa pemindaian virus",
+        "D": "Penonaktifan fitur pembaruan otomatis peramban situs komputer kantor",
+        "E": "Pemasangan aplikasi bajakan untuk menghemat anggaran operasional"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pegawai wajib **selektif dalam mengakses/mengunduh informasi pada situs internet yang terpercaya (internet sehat dan aman)**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Situs yang tidak terpercaya sering kali menyisipkan virus, trojan, atau spyware pencuri berkas dinas. Sikap selektif saat berselancar di dunia maya mencegah infeksi perangkat kerja oleh malware berbahaya. Dengan demikian, kelaikan perangkat gawai dinas tetap terjaga prima.",
+        "bedah_pengecoh": {
+          "A": "Mengunduh sembarang aplikasi memicu kerusakan sistem operasi dinas.",
+          "C": "Media eksternal tanpa pemindaian virus berisiko tinggi menularkan malware.",
+          "D": "Menonaktifkan pembaruan peramban membiarkan celah kerentanan keamanan.",
+          "E": "Penggunaan perangkat lunak bajakan melanggar hak cipta dan hukum siber."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 20,
+      "halaman_sumber": 25,
+      "kata_kunci_modul": [
+        "pelaporan hasil kerja pada aplikasi otomasi perkantoran"
+      ],
+      "topik_materi": "Mekanisme Pelaporan Hasil Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kanal resmi yang wajib digunakan pegawai dalam melaporkan hasil pelaksanaan pekerjaan kepada atasan langsung adalah...",
+      "pilihan": {
+        "A": "Buku catatan harian pribadi yang disimpan di meja kerja rumah",
+        "B": "Surat elektronik personal yang dikirimkan ke alamat email pribadi atasan",
+        "C": "Aplikasi pelaporan hasil kerja pada otomasi perkantoran instansi",
+        "D": "Pesan singkat obrolan informal pada aplikasi percakapan ponsel",
+        "E": "Kuitansi lembar kerja mingguan yang ditandatangani rekan sejawat"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pegawai berkewajiban **melaporkan hasil pelaksanaan pekerjaan kepada atasan langsung melalui aplikasi pelaporan hasil kerja pada aplikasi otomasi perkantoran**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Pelaporan terintegrasi pada sistem otomasi menjamin data kinerja tercatat resmi dan dapat diuji akuntabilitasnya. Regulasi mewajibkan pelaporan melalui modul laporan kinerja resmi kementerian. Dengan demikian, bukti capaian kerja tersimpan secara sistematis dan aman.",
+        "bedah_pengecoh": {
+          "A": "Catatan buku privat tidak memiliki keabsahan dalam evaluasi kinerja dinas.",
+          "B": "Surel pribadi rentan kebocoran data dan menyalahi prosedur naskah dinas.",
+          "D": "Pesan chat informal bukan saluran resmi perekaman akuntabilitas output.",
+          "E": "Tanda tangan rekan sejawat tidak memiliki legalitas penilaian atasan."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 21,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "pencadangan data penting secara berkala"
+      ],
+      "topik_materi": "Prosedur Pencadangan Data Dinas",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Langkah preventif yang wajib dilaksanakan pegawai untuk mencegah kehilangan data kedinasan akibat kerusakan perangkat adalah...",
+      "pilihan": {
+        "A": "Mencetak seluruh berkas sistem ke dalam dokumen kertas tebal",
+        "B": "Menyimpan seluruh data pada satu partisi cakram keras laptop",
+        "C": "Menghapus berkas lama setiap akhir bulan agar ruang cakram lega",
+        "D": "Mengirimkan data dinas ke akun media sosial publik milik pribadi",
+        "E": "Melakukan pencadangan data penting secara berkala pada media sah"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pegawai berkewajiban **melakukan pencadangan data penting secara berkala dan memastikan sistem operasi, antivirus, dan aplikasi pendukung telah mutakhir**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Pencadangan berkala (backup) menjamin kelangsungan proses bisnis kedinasan saat terjadi bencana kerusakan hardware. Protokol TIK mewajibkan backup rutin pada media penyimpanan cloud resmi kementerian. Dengan demikian, risiko kehilangan data strategis negara teratasi.",
+        "bedah_pengecoh": {
+          "A": "Mencetak seluruh data bertentangan dengan kebijakan paperless birokrasi.",
+          "B": "Menyimpan pada satu partisi berisiko hilang total saat perangkat rusak.",
+          "C": "Menghapus data sembarangan melanggar jadwal retensi arsip negara.",
+          "D": "Mengunggah data dinas ke media sosial merupakan pelanggaran rahasia dinas."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 22,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "memastikan perangkat digunakan secara pribadi"
+      ],
+      "topik_materi": "Penggunaan Perangkat oleh Pihak Berwenang",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan pengamanan gawai dinas mewajibkan aparatur untuk memastikan bahwa perangkat kerja...",
+      "pilihan": {
+        "A": "Digunakan secara pribadi atau pengguna yang memiliki wewenang",
+        "B": "Boleh dipinjamkan kepada tetangga untuk mencetak dokumen warga",
+        "C": "Dibiarkan menyala tanpa kunci pengaman layar saat ditinggal pergi",
+        "D": "Diserahkan kepada pihak teknisi tidak resmi di luar instansi",
+        "E": "Dapat diakses bersama oleh seluruh anggota keluarga di rumah tinggal"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pegawai wajib **memastikan perangkat digunakan secara pribadi atau pengguna yang memiliki kewenangan** yang sah demi perlindungan informasi.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Pembatasan akses gawai mencegah penyalahgunaan akun dinas dan pencurian informasi rahasia perbendaharaan. Perangkat kerja kedinasan hanya boleh dioperasikan oleh pegawai yang berwenang. Dengan demikian, akuntabilitas digital aparatur tetap terjaga kokoh.",
+        "bedah_pengecoh": {
+          "B": "Meminjamkan aset TIK dinas melanggar ketentuan tata kelola BMN.",
+          "C": "Layar tanpa kunci pengaman membuka celah pencurian data oleh pihak lain.",
+          "D": "Perbaikan gawai dinas wajib melalui unit layanan TIK resmi kementerian.",
+          "E": "Akses bersama oleh keluarga berisiko menghapus berkas penting dinas."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 23,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "waspada atas informasi yang berpotensi phising"
+      ],
+      "topik_materi": "Kewaspadaan Serangan Phising",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Saat menerima surel mencurigakan berisi tautan pembaruan kata sandi dari pengirim tidak dikenal, respon etis pegawai adalah...",
+      "pilihan": {
+        "A": "Segera mengklik tautan tersebut agar akun surat dinas tidak terblokir",
+        "B": "Waspada terhadap phising dan segera melapor ke unit pengelola siber",
+        "C": "Meneruskan surel tersebut kepada seluruh rekan kerja di kantor",
+        "D": "Memasukkan nama pengguna dan kata sandi untuk menguji keaslian situs",
+        "E": "Membuka tautan tanpa verifikasi pengirim dan mematikan antivirus"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pegawai wajib senantiasa **waspada atas informasi yang berpotensi phising maupun serangan keamanan siber lainnya**.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Phising adalah rekayasa sosial yang dirancang untuk merampas kredensial akses sistem keuangan negara. Sikap waspada ditunjukkan dengan tidak mengklik tautan asing dan segera melaporkan ke unit keamanan siber. Dengan demikian, intrusi jaringan kementerian dapat digagalkan.",
+        "bedah_pengecoh": {
+          "A": "Mengklik tautan asing berakibat langsung pada peretasan akun kedinasan.",
+          "C": "Menyebarkan surel phising memperbesar risiko rekan lain menjadi korban.",
+          "D": "Memasukkan kredensial menyerahkan kata sandi langsung ke tangan peretas.",
+          "E": "Menghapus antivirus melumpuhkan pertahanan perlindungan laptop dinas."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 24,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "memperbarui data HRIS Kemenkeu secara berkala"
+      ],
+      "topik_materi": "Kewajiban Pembaruan Data HRIS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban ketertiban administrasi kepegawaian bagi seluruh aparatur di lingkungan kementerian diwujudkan melalui...",
+      "pilihan": {
+        "A": "Pencetakan berkas biodata keluarga ke dalam buku arsip manual",
+        "B": "Penyerahan berkas fotokopi ijazah secara langsung setiap pekan",
+        "C": "Melengkapi dan memperbarui data HRIS Kemenkeu secara berkala",
+        "D": "Penyimpanan data riwayat hidup pada media penyimpanan pribadi",
+        "E": "Pemberian kuasa pembaruan profil data diri kepada staf honorer"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pegawai berkewajiban **harus melengkapi dan memperbarui data HRIS Kemenkeu secara berkala** agar data kepegawaian valid.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. Validitas data kepegawaian menjadi dasar penentuan hak remunerasi, mutasi, dan promosi berbasis meritokrasi. Pembaruan data HRIS secara berkala memastikan profil kepegawaian selalu akurat dan mutakhir. Dengan demikian, administrasi kepegawaian kementerian berjalan rapi.",
+        "bedah_pengecoh": {
+          "A": "Arsip manual telah digantikan oleh basis data digital terintegrasi HRIS.",
+          "B": "Pembaruan ijazah dilakukan melalui mekanisme daring verifikasi kepegawaian.",
+          "D": "Penyimpanan pribadi tidak memperbarui basis data resmi kementerian.",
+          "E": "Data privasi kepegawaian wajib dikelola langsung oleh pegawai bersangkutan."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 25,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "Surat Edaran (SE) Menteri Keuangan Nomor SE22/MK.1/2020"
+      ],
+      "topik_materi": "Dasar Regulasi Transisi Kerja Normal Baru",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pedoman sistem kerja dalam masa transisi tatanan normal baru di Kementerian Keuangan diatur dalam...",
+      "pilihan": {
+        "A": "Surat Edaran Nomor 44/MK.01/2017",
+        "B": "Peraturan Pemerintah Nomor 42 Tahun 2004",
+        "C": "Keputusan Menteri Keuangan Nomor 416/2023",
+        "D": "Surat Edaran Menteri Keuangan Nomor SE-22/MK.1/2020",
+        "E": "Peraturan Menteri Keuangan Nomor 190/2018"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pelaksanaan sistem kerja pada masa transisi normal baru mengacu pada **Surat Edaran Menteri Keuangan Nomor SE-22/MK.1/2020**.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Regulasi ini mengatur perpaduan kerja di kantor dan kerja fleksibel dengan standar protokol kesehatan dan keselamatan. SE Nomor 22/MK.1/2020 menjadi payung hukum operasional masa transisi kerja aparatur. Dengan demikian, produktivitas dan keselamatan pegawai terlindungi.",
+        "bedah_pengecoh": {
+          "A": "Merupakan SE tentang penerapan nilai dasar ASN di lingkungan Kemenkeu.",
+          "B": "Merupakan PP tentang pembinaan jiwa korps dan kode etik PNS nasional.",
+          "C": "Merupakan KMK tentang penerapan sistem kerja fleksibel di Kemenkeu.",
+          "E": "Merupakan PMK tentang kode etik dan kode perilaku PNS Kemenkeu."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 26,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "melaksanakan pedoman acara dan kegiatan kedinasan secara virtual"
+      ],
+      "topik_materi": "Kewajiban Mematuhi Pedoman Acara Virtual",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Berdasarkan butir 10 kewajiban pelaksanaan SKF, seluruh pegawai Kementerian Keuangan diwajibkan untuk...",
+      "pilihan": {
+        "A": "Melaksanakan pedoman acara kedinasan yang diadakan virtual",
+        "B": "Merekam seluruh jalannya rapat virtual untuk diunggah ke YouTube",
+        "C": "Mengikuti rapat virtual tanpa kewajiban mengenakan pakaian dinas",
+        "D": "Mewakilkan kehadiran rapat dinas virtual kepada asisten pribadi",
+        "E": "Membatalkan seluruh agenda rapat yang tidak diselenggarakan fisik"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pegawai berkewajiban **melaksanakan pedoman acara dan kegiatan kedinasan secara virtual** sesuai aturan resmi yang berlaku.",
+        "alasan_kunci": "Opsi A merupakan jawaban yang tepat. Pertemuan kedinasan virtual tetap memiliki kekuatan hukum dan tata tertib protokoler yang mengikat. Kepatuhan pada pedoman acara virtual menjaga keseragaman dan ketertiban seluruh kegiatan kedinasan daring. Dengan demikian, martabat acara resmi pemerintah tetap terjaga.",
+        "bedah_pengecoh": {
+          "B": "Mengunggah rekaman rapat internal ke platform publik melanggar kerahasiaan.",
+          "C": "Peserta rapat virtual wajib mematuhi ketentuan pakaian dinas resmi.",
+          "D": "Kehadiran rapat adalah kewajiban kedinasan yang tidak boleh dialihkan.",
+          "E": "Rapat virtual diakui sah dan resmi sebagai media koordinasi birokrasi."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 27,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "operasi, antivirus, dan aplikasi pendukung telah mutakhir"
+      ],
+      "topik_materi": "Pembaruan Perangkat Lunak Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tindakan teknis yang wajib dilakukan pegawai agar sistem komputer kerja terhindar dari celah keamanan adalah...",
+      "pilihan": {
+        "A": "Menghapus perangkat lunak antivirus agar memori kerja tidak penuh",
+        "B": "Memastikan sistem operasi dan antivirus telah diperbarui mutakhir",
+        "C": "Mengunduh berkas pembaruan sistem dari situs bajakan pihak luar",
+        "D": "Mematikan sistem operasi secara paksa saat pembaruan berlangsung",
+        "E": "Menggunakan sistem operasi lawas yang sudah tidak didukung pabrikan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pegawai wajib **memastikan sistem operasi, antivirus, dan aplikasi pendukung telah mutakhir** dengan pembaruan resmi berkala.",
+        "alasan_kunci": "Opsi B merupakan jawaban yang tepat. Pembaruan berkala menambal celah keamanan sistem dari serangan virus dan eksploitasi siber global. Memastikan sistem operasi dan antivirus selalu mutakhir adalah kewajiban keamanan informasi pegawai. Dengan demikian, laptop kerja terlindungi dari infeksi program jahat.",
+        "bedah_pengecoh": {
+          "A": "Menghilangkan antivirus meruntuhkan sistem pertahanan dasar gawai.",
+          "C": "Sumber pembaruan bajakan sering disusupi trojan berbahaya peretas.",
+          "D": "Mematikan paksa merusak berkas sistem operasi komputer kedinasan.",
+          "E": "Sistem operasi usang sangat rentan disusupi peretas tanpa pelindung."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 28,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "mengenai sistem kerja dalam masa transisi normal baru dan SE Kepala"
+      ],
+      "topik_materi": "Pelantikan Melalui Media Elektronik",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ketentuan mengenai tata cara pelantikan pegawai melalui media elektronik secara nasional diatur oleh...",
+      "pilihan": {
+        "A": "Surat Edaran Menteri PANRB Nomor 1 Tahun 2021",
+        "B": "Peraturan Pemerintah Nomor 94 Tahun 2021",
+        "C": "SE Kepala BKN Nomor 10/SE/IV/2020",
+        "D": "Keputusan Menteri Keuangan Nomor 416 Tahun 2023",
+        "E": "Undang-Undang Nomor 20 Tahun 2023"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pelantikan dengan media elektronik berpedoman pada **Surat Edaran Kepala Badan Kepegawaian Negara Nomor 10/SE/IV/2020**.",
+        "alasan_kunci": "Opsi C merupakan jawaban yang tepat. BKN sebagai instansi pembina manajemen kepegawaian menerbitkan pedoman pelantikan daring resmi nasional. SE Kepala BKN Nomor 10/SE/IV/2020 menjadi rujukan hukum acara pelantikan dan sumpah janji jabatan virtual. Dengan demikian, keabsahan hukum pelantikan daring diakui sah.",
+        "bedah_pengecoh": {
+          "A": "Bukan instrumen spesifik tata cara pelantikan jabatan daring.",
+          "B": "Merupakan regulasi tentang disiplin aparatur sipil negara.",
+          "D": "Merupakan KMK pelaksanaan sistem kerja fleksibel di kementerian.",
+          "E": "Merupakan undang-undang payung pokok aparatur sipil negara."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 29,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "internet sehat dan aman"
+      ],
+      "topik_materi": "Prinsip Internet Sehat dan Aman",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsep internet sehat dan aman yang diterapkan di lingkungan kerja kementerian menuntut pegawai untuk...",
+      "pilihan": {
+        "A": "Menggunakan jaringan dinas untuk mengunduh film hiburan komersial",
+        "B": "Mengakses situs judi daring dan platform perjudian internasional",
+        "C": "Membuka media sosial sepanjang hari kerja tanpa batasan tugas",
+        "D": "Mengakses konten positif terpercaya demi menunjang tugas negara",
+        "E": "Menyebarluaskan tautan unduhan program bajakan ke rekan sejawat"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Penerapan **internet sehat dan aman** mewajibkan pegawai hanya mengakses situs terpercaya yang relevan dan bernilai positif bagi tugas.",
+        "alasan_kunci": "Opsi D merupakan jawaban yang tepat. Fasilitas kuota dan jaringan dinas disediakan semata-mata untuk mendukung kelancaran tugas pemerintahan. Internet sehat dan aman menuntut pemanfaatan web positif serta menghindari situs terlarang dan merusak. Dengan demikian, bandwidth dan integritas kantor terpelihara.",
+        "bedah_pengecoh": {
+          "A": "Mengunduh film komersial memboroskan kapasitas jaringan kantor.",
+          "B": "Perjudian daring merupakan tindak pidana dan pelanggaran disiplin berat.",
+          "C": "Akses media sosial berlebihan menurunkan produktivitas jam kerja.",
+          "E": "Membagikan tautan bajakan melanggar hukum hak atas kekayaan intelektual."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 30,
+      "halaman_sumber": 26,
+      "kata_kunci_modul": [
+        "pengelolaan keamanan"
+      ],
+      "topik_materi": "Kepatuhan Pengelolaan Keamanan Informasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Setiap pegawai yang menjalankan tugas kedinasan secara fleksibel wajib mematuhi panduan mengenai...",
+      "pilihan": {
+        "A": "Strategi promosi pemasaran produk komersial pihak ketiga",
+        "B": "Pengelolaan investasi pasar modal spekulatif berisiko tinggi",
+        "C": "Penyelenggaraan acara hiburan musik akhir tahun satker",
+        "D": "Tata cara pengajuan gugatan kepegawaian ke meja hijau",
+        "E": "Pengelolaan keamanan informasi di lingkungan kementerian"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pegawai wajib memperhatikan panduan sesuai dengan ketentuan mengenai **pengelolaan keamanan informasi di lingkungan Kementerian Keuangan**.",
+        "alasan_kunci": "Opsi E merupakan jawaban yang tepat. Keamanan data negara adalah tanggung jawab bersama setiap individu aparatur yang memegang akses sistem. Kepatuhan pada standar pengelolaan keamanan informasi menjaga kedaulatan data dari serangan spionase dan kebocoran. Dengan demikian, sistem keuangan negara aman terlindungi.",
+        "bedah_pengecoh": {
+          "A": "Pemasaran komersial bukan bidang tugas aparatur perbendaharaan negara.",
+          "B": "Investasi spekulatif pribadi tidak berkaitan dengan tata kelola dinas.",
+          "C": "Kegiatan hiburan internal bukan standar wajib pengamanan informasi.",
+          "D": "Prosedur sengketa kepegawaian merupakan ranah hukum tata usaha negara."
+        },
+        "sumber_rujukan": "Etika Pegawai Negeri Sipil"
+      }
+    },
+    {
+      "nomor": 31,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "Surat Edaran Menteri Keuangan nomor: SE-42/MK.01/2020"
+      ],
+      "topik_materi": "Dasar Regulasi Acara Resmi Virtual Kedinasan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pedoman etika dalam acara resmi kedinasan yang diselenggarakan secara virtual diatur melalui...",
+      "pilihan": {
+        "A": "Surat Edaran Menteri Pendayagunaan Aparatur Negara Nomor 15/2020",
+        "B": "Surat Edaran Menteri Keuangan nomor: SE-42/MK.01/2020",
+        "C": "Peraturan Pemerintah Republik Indonesia Nomor 94 Tahun 2021",
+        "D": "Keputusan Kepala Badan Kepegawaian Negara Nomor 21/2020",
+        "E": "Instruksi Presiden Republik Indonesia Nomor 2 Tahun 2020"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Pedoman etika acara resmi kedinasan virtual ditetapkan melalui **Surat Edaran Menteri Keuangan nomor: SE-42/MK.01/2020**.",
+        "alasan_kunci": "Opsi B tepat karena SE-42/MK.01/2020 merupakan payung hukum khusus di lingkungan kementerian yang mengatur standar etika keprotokolan virtual. Edaran ini memandu seluruh pejabat dan pegawai agar tetap memelihara kehormatan dinas, kekhidmatan acara, dan ketertiban tata cara kedinasan meski dilaksanakan melalui media elektronik. Regulasi ini menjadi acuan seragam bagi seluruh unit kerja. Oleh sebab itu, SE-42/MK.01/2020 adalah dasar aturan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena SE PAN-RB Nomor 15/2020 mengatur pedoman umum penyesuaian sistem kerja ASN di masa pandemi.",
+          "C": "Kurang tepat karena PP 94/2021 mengatur substansi disiplin pegawai negeri sipil secara umum, bukan teknis acara virtual.",
+          "D": "Kurang tepat karena Keputusan BKN 21/2020 memuat petunjuk pelaksanaan pembinaan kepegawaian, bukan etika protokol kementerian.",
+          "E": "Kurang tepat karena Inpres 2/2020 berkaitan dengan aksi nasional pencegahan tindak pidana korupsi aparatur."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 32,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "upacara bendera dan bukan upacara bendera"
+      ],
+      "topik_materi": "Bentuk Acara Resmi Kedinasan Virtual",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sesuai SE-42/MK.01/2020, acara resmi kedinasan di lingkungan kementerian terbagi menjadi dua bentuk, yaitu...",
+      "pilihan": {
+        "A": "Pertemuan formal pleno dan rapat koordinasi komisi kerja",
+        "B": "Seminar ilmiah kedinasan dan lokakarya pelatihan kompetensi pegawai",
+        "C": "Upacara bendera dan bukan upacara bendera di lingkungan kedinasan",
+        "D": "Sosialisasi kebijakan internal dan konsultasi pelayanan publik masyarakat",
+        "E": "Dialog pimpinan kementerian dan sarasehan budaya organisasi kantor"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Acara resmi kedinasan di kementerian dapat berbentuk **upacara bendera dan bukan upacara bendera** yang diatur keprotokolannya.",
+        "alasan_kunci": "Opsi C tepat karena regulasi mengklasifikasikan agenda resmi ke dalam dua kelompok utama untuk membedakan perlakuan keprotokolan dan derajat kekhidmatannya. Upacara bendera menuntut tata upacara kenegaraan lengkap, sedangkan kegiatan bukan upacara bendera tetap memiliki format protokoler resmi yang melibatkan pejabat negara atau pelantikan jabatan. Pembedaan ini memudahkan teknis penyelenggaraan di ruang digital. Maka, upacara bendera dan bukan upacara bendera adalah klasifikasi resmi yang benar.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena rapat pleno dan komisi merupakan forum pembahasan substansi teknis kerja, bukan bentuk upacara resmi.",
+          "B": "Kurang tepat karena seminar dan workshop masuk dalam kategori kegiatan pembelajaran, bukan seremoni resmi keprotokolan.",
+          "D": "Kurang tepat karena sosialisasi regulasi adalah kegiatan edukasi publik, bukan format upacara resmi kedinasan.",
+          "E": "Kurang tepat karena dialog pimpinan tergolong forum komunikasi pimpinan-bawahan tanpa tata upacara formal bendera."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 33,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "penganugerahan tanda jasa dan tanda kehormatan"
+      ],
+      "topik_materi": "Bukan Upacara Bendera: Penganugerahan Kehormatan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Salah satu agenda resmi kedinasan yang termasuk dalam kategori kegiatan bukan upacara bendera adalah...",
+      "pilihan": {
+        "A": "Peringatan detik-detik proklamasi kemerdekaan Republik Indonesia",
+        "B": "Upacara bendera peringatan Hari Oeang Republik Indonesia",
+        "C": "Upacara bendera memperingati Hari Lahir Pancasila nasional",
+        "D": "Penganugerahan tanda jasa dan tanda kehormatan bagi aparatur",
+        "E": "Upacara bendera rutin tanggal tujuh belas setiap bulannya"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Kegiatan resmi bukan upacara bendera antara lain meliputi **penganugerahan tanda jasa dan tanda kehormatan** kepada pegawai atau tokoh.",
+        "alasan_kunci": "Opsi D tepat karena penganugerahan penghargaan kedinasan merupakan seremonial resmi yang tidak melibatkan penaikan bendera sang saka merah putih secara fisik maupun digital. Acara ini diselenggarakan dengan tata keprotokolan khusus untuk menghormati jasa dan dedikasi aparatur berprestasi. Format ini menjadi contoh baku kegiatan resmi bukan upacara bendera. Oleh sebab itu, penganugerahan tanda jasa merupakan jawaban yang benar.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena peringatan detik-detik proklamasi merupakan upacara bendera kenegaraan tingkat tertinggi.",
+          "B": "Kurang tepat karena Hari Oeang diselenggarakan dalam bentuk upacara bendera resmi kementerian.",
+          "C": "Kurang tepat karena Hari Lahir Pancasila diperingati secara nasional dengan tata cara upacara bendera.",
+          "E": "Kurang tepat karena upacara bulanan tanggal 17 adalah bentuk upacara bendera rutin aparatur sipil negara."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 34,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "pelantikan dan pengambilan sumpah/janji pegawai negeri sipil atau"
+      ],
+      "topik_materi": "Bukan Upacara Bendera: Pelantikan dan Sumpah",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kegiatan resmi kedinasan bukan upacara bendera yang mengikat janji suci pengabdian pegawai adalah...",
+      "pilihan": {
+        "A": "Rapat kerja penyusunan target rencana strategis lima tahunan",
+        "B": "Evaluasi pencapaian target kinerja triwulanan unit vertikal",
+        "C": "Uji kepatutan dan kelayakan calon pejabat pimpinan tinggi",
+        "D": "Sidang dewan pertimbangan kepegawaian mengenai banding hukuman",
+        "E": "Pelantikan dan pengambilan sumpah/janji pegawai negeri sipil atau jabatan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Kegiatan bukan upacara bendera mencakup **pelantikan dan pengambilan sumpah/janji pegawai negeri sipil atau sumpah/janji jabatan**.",
+        "alasan_kunci": "Opsi E tepat karena prosesi pengambilan sumpah pegawai negeri sipil atau pejabat struktural/fungsional merupakan momen hukum kedinasan yang sakral. Acara ini mengikuti pedoman tata keprotokolan resmi dan disaksikan oleh rohaniwan serta pimpinan instansi tanpa memerlukan rangkaian penaikan bendera. Kegiatan ini menegaskan ikatan moral pengabdian aparatur sipil. Dengan demikian, pelantikan dan sumpah jabatan adalah contoh agenda bukan upacara bendera yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena raker renstra adalah rapat pembahasan substansi manajerial, bukan seremoni sumpah dinas.",
+          "B": "Kurang tepat karena evaluasi kinerja triwulanan bersifat pemantauan capaian tugas rutin kantor.",
+          "C": "Kurang tepat karena uji kepatutan (fit and proper test) merupakan tahapan seleksi kompetensi SDM.",
+          "D": "Kurang tepat karena sidang disiplin adalah forum penegakan hukum internal kepegawaian yang tertutup."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 35,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "kunjungan tamu negara, tamu pemerintah, dan/atau tamu lembaga negara"
+      ],
+      "topik_materi": "Bukan Upacara Bendera: Penerimaan Tamu Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Agenda kedinasan bukan upacara bendera yang melibatkan delegasi resmi pihak eksternal pemerintah adalah...",
+      "pilihan": {
+        "A": "Kunjungan tamu negara, tamu pemerintah, atau tamu lembaga negara",
+        "B": "Penerimaan audiensi masyarakat umum terkait pengaduan layanan loket",
+        "C": "Kunjungan studi lapangan mahasiswa perguruan tinggi ke kantor",
+        "D": "Sosialisasi regulasi perpajakan kepada para pelaku usaha mikro",
+        "E": "Pertemuan tahunan dengan mitra penyedia jasa sarana perkantoran"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Format acara resmi bukan upacara bendera meliputi **kunjungan tamu negara, tamu pemerintah, dan/atau tamu lembaga negara lainnya**.",
+        "alasan_kunci": "Opsi A tepat karena penerimaan kunjungan pimpinan atau delegasi lembaga tinggi negara dan pemerintah asing tunduk pada aturan keprotokolan resmi kenegaraan. Forum virtual yang mempertemukan pejabat kementerian dengan tamu lembaga negara menuntut penghormatan simbolik yang setara dengan kunjungan fisik. Rangkaian acara ini menjaga wibawa diplomatik dan hubungan kelembagaan institusi. Oleh karenanya, kunjungan tamu kenegaraan adalah bentuk kegiatan resmi yang dimaksud.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena penerimaan aspirasi masyarakat merupakan fungsi operasional pengaduan masyarakat, bukan seremoni protokoler.",
+          "C": "Kurang tepat karena kunjungan edukasi mahasiswa tergolong kegiatan kehumasan dan pengenalan kelembagaan.",
+          "D": "Kurang tepat karena edukasi wajib pajak merupakan program penyuluhan dan pembinaan teknis perpajakan.",
+          "E": "Kurang tepat karena koordinasi dengan rekanan pengadaan tunduk pada tata kelola pengadaan barang dan jasa."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 36,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "tetap melakukan penghormatan sesuai tata cara dalam keprotokolan bagi pejabat"
+      ],
+      "topik_materi": "Kewajiban Penghormatan Keprotokolan Virtual",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban utama bagi pegawai yang menghadiri acara resmi kedinasan secara virtual adalah...",
+      "pilihan": {
+        "A": "Menyiapkan berkas nota pembelaan terkait kinerja unit kerja",
+        "B": "Menyusun ringkasan berita acara untuk dibagikan ke media massa",
+        "C": "Tetap melakukan penghormatan sesuai tata cara keprotokolan pejabat",
+        "D": "Mengatur resolusi kamera pada posisi paling rendah untuk koneksi",
+        "E": "Mengirimkan ucapan selamat melalui fitur pesan siaran massal"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Pegawai yang hadir secara virtual wajib **tetap melakukan penghormatan sesuai tata cara dalam keprotokolan bagi pejabat negara, pejabat pemerintahan, dan/atau pihak tertentu**.",
+        "alasan_kunci": "Opsi C tepat karena peralihan medium fisik ke platform digital tidak melunturkan kewajiban kepatuhan terhadap aturan protokoler kedinasan. Penghormatan terhadap pejabat negara dan simbol kebangsaan mencerminkan disiplin korps serta ketertiban hierarki birokrasi pemerintahan. Sikap tertib ini menjamin wibawa forum kenegaraan tetap terjaga secara sempurna. Maka dari itu, melaksanakan penghormatan sesuai keprotokolan adalah kewajiban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pembuatan nota dinas merupakan ranah administrasi laporan berkala, bukan etika keprotokolan.",
+          "B": "Kurang tepat karena membagikan siaran pers ke wartawan merupakan wewenang unit komunikasi publik dan humas.",
+          "D": "Kurang tepat karena penurunan kualitas video secara sepihak dapat mengganggu kejernihan tampilan peserta resmi.",
+          "E": "Kurang tepat karena pengiriman pesan siaran massal saat acara dapat mengalihkan fokus dan mengganggu ketenangan."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 37,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "penghormatan menggunakan bendera negara Republik Indonesia"
+      ],
+      "topik_materi": "Bentuk Penghormatan Simbol Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bentuk penghormatan resmi yang diatur dalam keprotokolan acara virtual kedinasan mencakup...",
+      "pilihan": {
+        "A": "Pemberian cinderamata komersial bernilai tinggi kepada para peserta",
+        "B": "Penayangan dokumentasi video profil pimpinan satker berdurasi lama",
+        "C": "Pembacaan riwayat prestasi akademik seluruh panitia pelaksana acara",
+        "D": "Penghormatan menggunakan bendera negara dan lagu kebangsaan Indonesia",
+        "E": "Pengibaran spanduk organisasi non-pemerintah pada tampilan layar gawai"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Bentuk penghormatan protokoler resmi dapat berupa **penghormatan menggunakan bendera negara Republik Indonesia** dan/atau lagu kebangsaan.",
+        "alasan_kunci": "Opsi D tepat karena bendera merah putih dan lagu Indonesia Raya merupakan simbol kedaulatan negara tertinggi yang wajib dihormati oleh seluruh aparatur dalam acara resmi. Penggunaan kedua simbol negara ini menegaskan identitas nasional dan menumbuhkan semangat patriotisme pegawai sipil dalam menjalankan tugas konstitusional. Ketentuan keprotokolan mengaturnya secara baku dan terikat aturan perundang-undangan. Oleh karena itu, penghormatan bendera dan lagu kebangsaan adalah bentuk resmi yang diatur.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pembagian cendera mata berharga tinggi menyalahi prinsip kesederhanaan dan rawan gratifikasi.",
+          "B": "Kurang tepat karena pemutaran profil pribadi pimpinan bukan unsur pokok dalam penghormatan simbol resmi kenegaraan.",
+          "C": "Kurang tepat karena paparan prestasi panitia tidak termasuk dalam tata cara keprotokolan resmi kenegaraan.",
+          "E": "Kurang tepat karena pemasangan atribut organisasi luar dilarang dalam forum resmi institusi pemerintah."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 38,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "acara untuk peserta menyalakan kamera ketika pimpinan/pejabat pemerintah"
+      ],
+      "topik_materi": "Penghormatan Khusus Saat Pejabat Hadir",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Bentuk penghormatan lainnya yang dipandu oleh pewara saat pimpinan atau pejabat memasuki acara virtual adalah...",
+      "pilihan": {
+        "A": "Membacakan pantun jenaka sambutan melalui pengeras suara mikrofon",
+        "B": "Mematikan sambungan internet selama lima menit demi ketenangan ruang",
+        "C": "Mengunggah ucapan selamat datang secara serentak ke media sosial",
+        "D": "Meminta seluruh pegawai berdiri di atas kursi tempat bekerja",
+        "E": "Pengumuman peserta menyalakan kamera ketika pimpinan/pejabat hadir"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Penghormatan lainnya dapat berupa **pengumuman oleh pemandu/pembawa acara untuk peserta menyalakan kamera ketika pimpinan/pejabat pemerintah hadir/memasuki acara**.",
+        "alasan_kunci": "Opsi E tepat karena instruksi mengaktifkan kamera secara serentak saat pejabat memasuki ruang pertemuan virtual setara dengan sikap berdiri menyambut pimpinan pada pertemuan fisik. Pemandangan visual seluruh aparatur yang bersiap rapi di layar mencerminkan kesiapan korps dan penghormatan tulus atas kehadiran pimpinan. Tata tertib ini menjaga etika hubungan dinas di dunia maya. Maka dari itu, menyalakan kamera saat pejabat hadir merupakan arahan penghormatan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pembacaan pantun jenaka dapat mengurangi keseriusan dan wibawa prosesi kehadiran pejabat tinggi.",
+          "B": "Kurang tepat karena memutus koneksi internet justru menghentikan partisipasi pegawai dalam jalannya agenda dinas.",
+          "C": "Kurang tepat karena mengalihkan perhatian ke media sosial pribadi melanggar konsentrasi rapat kedinasan.",
+          "D": "Kurang tepat karena berdiri di atas kursi membahayakan keselamatan fisik dan tidak sesuai etika kepantasan."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 39,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "dan khidmat di tempat masing-masing dengan pandangan lurus ke depan dan wajah"
+      ],
+      "topik_materi": "Sikap Hormat Saat Lagu Kebangsaan dan Penaikan Bendera",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sikap tubuh aparatur saat diperdengarkan lagu kebangsaan atau penaikan bendera secara virtual adalah...",
+      "pilihan": {
+        "A": "Berdiri tegak khidmat dengan pandangan lurus dan wajah menghadap kamera",
+        "B": "Duduk bersandar santai di kursi kerja sambil bersenandung lirih",
+        "C": "Membungkukkan badan ke arah meja sambil mencatat butir sambutan",
+        "D": "Menundukkan kepala ke arah lantai ruangan tanpa melihat layar monitor",
+        "E": "Berdiri menghadap ke arah jendela luar gedung tempat bekerja"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Saat lagu kebangsaan atau penaikan bendera, pegawai diimbau memberi hormat dengan **posisi berdiri tegak dan khidmat di tempat masing-masing dengan pandangan lurus ke depan dan wajah terlihat/menghadap kamera/layar gawai**.",
+        "alasan_kunci": "Opsi A tepat karena sikap berdiri tegak dengan pandangan terarah ke lensa kamera mencerminkan penghormatan tertinggi seorang aparatur sipil terhadap kehormatan bangsa dan negara. Posisi kamera yang tetap aktif memastikan seluruh peserta berpartisipasi secara khidmat dan seragam meski terpisah lokasi fisik. Kepatuhan ini menjadi bukti disiplin nasionalisme pegawai negeri. Dengan demikian, berdiri tegak menghadap kamera adalah sikap keprotokolan yang benar.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena duduk santai saat lagu kebangsaan berkumandang mencederai tata krama dan penghormatan negara.",
+          "C": "Kurang tepat karena menulis saat prosesi bendera menunjukkan sikap mengabaikan keutamaan momen sakral kenegaraan.",
+          "D": "Kurang tepat karena menunduk ke lantai menyalahi ketentuan pandangan tegak lurus ke arah simbol penghormatan.",
+          "E": "Kurang tepat karena membelakangi layar kamera tidak memenuhi ketentuan visual keprotokolan acara virtual."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 40,
+      "halaman_sumber": 27,
+      "kata_kunci_modul": [
+        "memimpin mengambil posisi berdiri selama acara berlangsung, maka seluruh"
+      ],
+      "topik_materi": "Sikap Peserta dan Undangan pada Pelantikan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam acara virtual pelantikan, jika pimpinan yang memimpin mengambil posisi berdiri, sikap peserta dan undangan adalah...",
+      "pilihan": {
+        "A": "Tetap duduk tertib di tempat duduk masing-masing demi efisiensi energi",
+        "B": "Seluruh peserta yang dilantik dan undangan ikut mengambil posisi berdiri",
+        "C": "Mematikan kamera monitor sejenak hingga prosesi pembacaan doa dimulai",
+        "D": "Berdiri secara bergantian antarsatuan kerja sesuai panggilan moderator",
+        "E": "Mengatur sudut sorotan lensa ke arah meja kerja pimpinan satker"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Dalam pelantikan pegawai/pejabat, apabila pimpinan negara yang **memimpin mengambil posisi berdiri selama acara berlangsung, maka seluruh pegawai/pejabat yang dilantik dan undangan yang hadir juga mengambil posisi berdiri**.",
+        "alasan_kunci": "Opsi B tepat karena keselarasan sikap tubuh antara pemimpin upacara, pihak yang dilantik, dan para undangan mencerminkan kesatuan rasa hormat serta keseriusan prosesi pengucapan sumpah. Mengikuti sikap berdiri pemimpin menegaskan kepatuhan hierarkis dan solidaritas korps aparatur dalam upacara resmi kenegaraan. Keseragaman posisi ini menciptakan kekhidmatan visual di layar virtual bersama. Oleh sebab itu, seluruh pihak wajib turut mengambil posisi berdiri selama acara berlangsung.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena tetap duduk saat pimpinan upacara berdiri melanggar tata kesopanan dan aturan keprotokolan.",
+          "C": "Kurang tepat karena menonaktifkan kamera saat prosesi penting mengaburkan kehadiran peserta upacara resmi.",
+          "D": "Kurang tepat karena berdiri secara bergiliran tidak sesuai dengan keserempakan tata upacara pelantikan dinas.",
+          "E": "Kurang tepat karena mengubah arah sudut sorot kamera mengganggu kerapian susunan visual peserta di layar."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 41,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "kendala jaringan dan/atau kondisi gawai yang tidak"
+      ],
+      "topik_materi": "Pengecualian Kewajiban Kamera Saat Kendala Teknis",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pegawai dapat dikecualikan dari kewajiban menyalakan kamera saat acara virtual jika mengalami...",
+      "pilihan": {
+        "A": "Beban kerja mendesak yang harus diselesaikan segera",
+        "B": "Penugasan dinas luar kota dari atasan langsung",
+        "C": "Perbedaan zona waktu pelaksanaan kegiatan kedinasan resmi",
+        "D": "Kendala jaringan dan/atau kondisi gawai yang tidak memungkinkan",
+        "E": "Ketiadaan ruangan kerja privat di lingkungan kantor"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pengecualian kewajiban visual acara virtual diberikan dalam kondisi tertentu seperti **kendala jaringan dan/atau kondisi gawai yang tidak memungkinkan**.",
+        "alasan_kunci": "Opsi D tepat karena ketentuan kedinasan virtual mengatur bahwa dispensasi mematikan kamera hanya diakomodasi saat aparatur menghadapi gangguan konektivitas atau keterbatasan perangkat teknis. Pegawai tetap diwajibkan mengikuti jalannya acara secara khidmat dan tertib meskipun tanpa tayangan video aktif. Ketentuan ini menjamin fleksibilitas operasional tanpa mengorbankan esensi penghormatan acara kedinasan. Dengan demikian, kendala jaringan dan keterbatasan gawai merupakan dasar resmi pengecualian visual.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penyelesaian tugas kedinasan rutin bukan alasan sah untuk menonaktifkan kamera saat mengikuti agenda resmi.",
+          "B": "Kurang tepat karena penugasan luar kota tetap menuntut kepatuhan protokol virtual selama pegawai tercatat menghadiri forum.",
+          "C": "Kurang tepat karena perbedaan zona waktu operasional tidak membatalkan kewajiban visual peserta pertemuan kedinasan.",
+          "E": "Kurang tepat karena keterbatasan ruang privat diatasi dengan pemilihan latar belakang netral, bukan mematikan kamera."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 42,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "meminta izin/menginformasikan kondisinya kepada"
+      ],
+      "topik_materi": "Tata Cara Penyampaian Kendala Teknis Acara Virtual",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Langkah etis pegawai yang mengalami kendala teknis saat menghadiri acara virtual resmi adalah...",
+      "pilihan": {
+        "A": "Menghubungi pimpinan unit melalui saluran telepon seluler pribadi",
+        "B": "Menunggu konfirmasi presensi otomatis dari sistem kepegawaian",
+        "C": "Menyampaikan nota dinas permohonan dispensasi pasca-kegiatan selesai",
+        "D": "Menitipkan presensi kehadiran kepada rekan kerja satu ruangan",
+        "E": "Meminta izin/menginformasikan kondisinya kepada pembawa acara via chat"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Saat terkendala teknis, pegawai wajib **meminta izin/menginformasikan kondisinya kepada** pembawa/pemandu acara paling kurang melalui **fitur chat dalam aplikasi**.",
+        "alasan_kunci": "Opsi E tepat karena prosedur etika menuntut transparansi seketika saat pegawai tidak dapat mengaktifkan kamera atau mikrofon dalam forum virtual. Pemberitahuan langsung melalui kolom pesan instan aplikasi mempermudah pewara melakukan verifikasi status keikutsertaan tanpa menginterupsi jalannya pemaparan narasumber. Langkah proaktif ini mencerminkan tanggung jawab aparatur dalam menjaga ketertiban forum kedinasan. Oleh sebab itu, penyampaian izin tertulis melalui fitur obrolan merupakan tindakan yang paling tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena menghubungi pimpinan secara personal saat acara berlangsung dapat mengganggu konsentrasi jalannya agenda rapat.",
+          "B": "Kurang tepat karena sikap menunggu tanpa konfirmasi aktif mencerminkan ketidakpedulian terhadap tata tertib forum kedinasan.",
+          "C": "Kurang tepat karena penyampaian keterangan susulan setelah acara usai menyalahi prinsip komunikasi real-time pada pertemuan virtual.",
+          "D": "Kurang tepat karena menitipkan presensi kepada rekan kerja melanggar prinsip akuntabilitas personal kehadiran aparatur sipil."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 43,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "free internet (free wifi) yang tidak terjamin stabilitas"
+      ],
+      "topik_materi": "Etika Penggunaan Akses Internet Acara Kedinasan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Aparatur diimbau menghindari koneksi internet publik gratis (free wifi) demi menjaga...",
+      "pilihan": {
+        "A": "Stabilitas koneksi dan keamanannya selama pertemuan kedinasan berlangsung",
+        "B": "Kecepatan unggah dokumen kerja berkapasitas besar ke peladen",
+        "C": "Efisiensi alokasi kuota data internet operasional instansi pemerintah",
+        "D": "Kepatuhan terhadap batas waktu akses jaringan lokal perkantoran",
+        "E": "Standarisasi alamat protokol internet pada komputer kerja kedinasan"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Pegawai wajib menghindari fasilitas free internet publik yang tidak terjamin **stabilitas koneksi dan keamanannya** guna mencegah risiko siber.",
+        "alasan_kunci": "Opsi A tepat karena panduan penggunaan sarana komunikasi kedinasan menegaskan larangan penggunaan jaringan nirkabel publik terbuka yang rentan penyadapan data. Jalur komunikasi yang stabil dan aman mutlak diperlukan agar interaksi rapat kedinasan berjalan lancar serta kerahasiaan informasi jabatan tetap terlindungi secara optimal. Keamanan digital merupakan pilar integritas dalam lingkungan kerja modern. Dengan demikian, jaminan stabilitas koneksi dan keamanan data menjadi tujuan utama arahan tersebut.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena kecepatan transmisi data kapasitas besar bukan fokus utama mitigasi risiko keamanan koneksi nirkabel.",
+          "C": "Kurang tepat karena efisiensi kuota dinas bukan alasan keamanan siber di balik pembatasan jaringan nirkabel terbuka.",
+          "D": "Kurang tepat karena jam operasional jaringan lokal instansi tidak berkaitan langsung dengan bahaya koneksi nirkabel publik.",
+          "E": "Kurang tepat karena penyeragaman alamat protokol internet merupakan tugas administrator jaringan, bukan protokol etika pengguna."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 44,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "melakukan log masuk (login) lebih awal"
+      ],
+      "topik_materi": "Disiplin Waktu Masuk Ruang Virtual",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tindakan awal yang wajib dilakukan pegawai saat bergabung dalam rapat virtual kedinasan adalah...",
+      "pilihan": {
+        "A": "Mengunggah bahan tayang paparan langsung ke layar utama",
+        "B": "Melakukan log masuk (login) lebih awal melalui verifikasi pewara",
+        "C": "Menyapa seluruh peserta rapat melalui pengeras suara mikrofon",
+        "D": "Mengatur resolusi video pada pengaturan tertinggi aplikasi pertemuan",
+        "E": "Membagikan tautan ruang pertemuan ke grup percakapan eksternal"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Setiap peserta rapat virtual kedinasan diarahkan untuk **melakukan log masuk (login) lebih awal dan melalui verifikasi pewara (host)**.",
+        "alasan_kunci": "Opsi B tepat karena hadir lebih awal di ruang tunggu virtual memungkinkan penyelenggara melakukan verifikasi identitas dan unit kerja peserta sebelum agenda dimulai. Prosedur ini mencegah masuknya pihak tidak berkepentingan sekaligus memastikan kesiapan teknis audio-visual pegawai. Kepatuhan masuk ruang digital tepat waktu mencerminkan penghormatan terhadap jadwal dinas bersama. Karena itu, login lebih awal melalui proses verifikasi pewara merupakan langkah yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pembagian materi tayang di layar utama harus menunggu instruksi resmi dari moderator atau ketua rapat.",
+          "C": "Kurang tepat karena menyapa lewat mikrofon secara terbuka dapat mengganggu ketenangan peserta lain yang sedang bersiap.",
+          "D": "Kurang tepat karena memaksimalkan resolusi video justru berisiko membebani lebar pita jaringan internet peserta.",
+          "E": "Kurang tepat karena menyebarkan tautan rapat ke pihak luar tanpa izin melanggar kerahasiaan dan keamanan acara kedinasan."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 45,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "bergabung paling lambat 3 (tiga) menit"
+      ],
+      "topik_materi": "Batas Waktu Toleransi Masuk Acara Virtual",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Sesuai panduan etika kedinasan virtual, pegawai diharapkan sudah bergabung ke aplikasi paling lambat...",
+      "pilihan": {
+        "A": "Tepat pada saat lagu kebangsaan Indonesia Raya dikumandangkan",
+        "B": "1 (satu) menit sebelum pembacaan susunan acara oleh pewara",
+        "C": "3 (tiga) menit sebelum acara pertemuan kedinasan resmi dimulai",
+        "D": "5 (lima) menit pasca-narasumber utama memasuki ruangan rapat",
+        "E": "10 (sepuluh) menit setelah sambutan pembukaan pimpinan selesai"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Panduan resmi etika virtual mewajibkan peserta **bergabung paling lambat 3 (tiga) menit sebelum acara dimulai**.",
+        "alasan_kunci": "Opsi C tepat karena batas waktu kehadiran 3 menit sebelum jadwal pembukaan menjamin ketertiban transisi acara dan kelengkapan kuorum rapat. Jeda waktu singkat tersebut dialokasikan bagi panitia untuk menertibkan nama akun, menata posisi tampilan video, dan memastikan fungsi mikrofon seluruh peserta berada dalam keadaan hening. Disiplin waktu ini mencerminkan etos kerja aparatur sipil yang menghargai waktu kerja produktif. Oleh karena itu, hadir paling lambat 3 menit sebelum agenda dibuka adalah ketentuan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena bergabung saat lagu kebangsaan dimulai sudah tergolong terlambat dan mengganggu kekhidmatan upacara.",
+          "B": "Kurang tepat karena toleransi 1 menit terlalu mepet dan berpotensi menimbulkan kendala teknis antrean ruang tunggu.",
+          "D": "Kurang tepat karena bergabung 5 menit setelah narasumber masuk mencerminkan tindakan indisipliner kehadiran aparatur.",
+          "E": "Kurang tepat karena hadir 10 menit setelah sambutan pimpinan menunjukkan kelalaian serius terhadap komitmen jadwal kedinasan."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 46,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "mencantumkan nama asli dan unit kerja"
+      ],
+      "topik_materi": "Standar Identitas Akun Acara Virtual",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Format penulisan identitas akun pengguna yang benar saat menghadiri rapat virtual dinas adalah...",
+      "pilihan": {
+        "A": "Menggunakan nomor induk pegawai disertai tanggal lahir resmi",
+        "B": "Menuliskan inisial nama lengkap beserta nomor ruangan kerja",
+        "C": "Menampilkan nama jabatan struktural tanpa mencantumkan nama diri",
+        "D": "Menggunakan nama perangkat elektronik yang digunakan saat pertemuan",
+        "E": "Mencantumkan nama asli dan unit kerja secara jelas dan lengkap"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dalam mengikuti kegiatan virtual resmi, seluruh peserta wajib **mencantumkan nama asli dan unit kerja** pada profil pertemuan.",
+        "alasan_kunci": "Opsi E tepat karena kejelasan nama asli dan instansi/unit kerja memudahkan moderator dalam memverifikasi kehadiran serta memberikan giliran berbicara saat sesi tanggapan. Penulisan identitas yang transparan mencerminkan sikap profesional dan tanggung jawab representasi unit kerja dalam forum resmi. Kebiasaan ini juga mencegah potensi masuknya peserta gelap yang tidak memiliki otoritas kedinasan. Dengan demikian, penulisan nama lengkap dan unit kerja merupakan format baku yang ditentukan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena NIP dan tanggal lahir bersifat data pribadi sensitif yang tidak efisien dibaca sebagai tanda pengenal layar.",
+          "B": "Kurang tepat karena penggunaan inisial nama menyulitkan panitia dan pimpinan dalam mengenali identitas penanya.",
+          "C": "Kurang tepat karena pencantuman jabatan tanpa nama pribadi mengaburkan akuntabilitas personal pegawai yang hadir.",
+          "D": "Kurang tepat karena memakai nama bawaan perangkat gawai mencerminkan kelalaian dalam menaati etika forum virtual."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 47,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "tidak dapat menampilkan wajah karena"
+      ],
+      "topik_materi": "Etika Visual dalam Acara Kedinasan Virtual",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban visual utama aparatur selama berlangsungnya kegiatan seminar atau dialog virtual adalah...",
+      "pilihan": {
+        "A": "Menampilkan wajah selama kegiatan berlangsung secara tertib",
+        "B": "Mengunggah pasfoto resmi ukuran kartu identitas ke papan obrolan",
+        "C": "Mengaktifkan filter animasi formal pada aplikasi konferensi video",
+        "D": "Menyorot lingkungan ruang kerja kantor secara berkesinambungan",
+        "E": "Menyematkan rekaman video berulang saat pemaparan materi panjang"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Panduan acara kedinasan virtual menginstruksikan peserta agar senantiasa **menampilkan wajah selama kegiatan** berlangsung.",
+        "alasan_kunci": "Opsi A tepat karena menyalakan kamera secara langsung memperlihatkan kehadiran, kesiapan, dan perhatian penuh pegawai terhadap substansi materi yang dibahas. Interaksi tatap layar langsung membangun konektivitas komunikasi yang setara dengan pertemuan tatap muka di ruang rapat fisik. Kepatuhan ini juga mencerminkan etika saling menghargai antara narasumber dan peserta forum. Maka dari itu, menampilkan wajah secara langsung sepanjang forum merupakan kewajiban pokok peserta.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena pengunggahan pasfoto statis tidak mewakili keaktifan kehadiran fisik aparatur selama acara berjalan.",
+          "C": "Kurang tepat karena penerapan filter animasi tidak mencerminkan keseriusan dan martabat forum kedinasan resmi.",
+          "D": "Kurang tepat karena sorotan kamera difokuskan pada wajah aparatur, bukan eksplorasi tata ruang fisik kantor.",
+          "E": "Kurang tepat karena pemutaran rekaman video berulang merupakan tindakan manipulatif yang menciderai integritas kehadiran."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 48,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "disiplin dalam mematikan mikrofon"
+      ],
+      "topik_materi": "Pengelolaan Audio dalam Pertemuan Virtual",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerapan disiplin audio peserta saat pimpinan atau narasumber menyampaikan materi dilakukan dengan cara...",
+      "pilihan": {
+        "A": "Menyalakan pengeras suara eksternal dengan volume suara maksimal",
+        "B": "Disiplin dalam mematikan mikrofon agar forum tetap tenang dan tertib",
+        "C": "Mengatur mikrofon pada posisi jeda otomatis setiap sepuluh menit",
+        "D": "Menyela paparan materi saat terdapat perbedaan sudut pandang kerja",
+        "E": "Mengalihkan jalur komunikasi suara ke saluran panggilan pribadi"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Seluruh pegawai wajib mempraktikkan **disiplin dalam mematikan mikrofon saat pimpinan/narasumber menyampaikan materi**.",
+        "alasan_kunci": "Opsi B tepat karena menonaktifkan suara mikrofon (mute) mencegah kebocoran suara latar (background noise) yang berpotensi memecah konsentrasi pembicara dan peserta lainnya. Kepatuhan ini menciptakan ekosistem rapat virtual yang tenang, profesional, dan kondusif bagi penerimaan informasi penting. Aparatur baru membuka mikrofon apabila telah dipersilakan oleh moderator atau pemimpin forum. Oleh sebab itu, mematikan mikrofon secara sadar merupakan cerminan etika audio yang benar.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena memaksimalkan volume pengeras eksternal dapat menimbulkan gema dan dengung suara yang mengganggu.",
+          "C": "Kurang tepat karena pengaturan jeda otomatis tidak menjamin mikrofon tertutup saat pembicara sedang memaparkan materi.",
+          "D": "Kurang tepat karena memotong pembicaraan pimpinan secara mendadak menyalahi tata krama komunikasi kedinasan.",
+          "E": "Kurang tepat karena pengalihan sambungan suara ke ponsel pribadi tidak relevan dengan ketertiban tata suara forum virtual."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 49,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "menggunakan fasilitas obrolan dalam aplikasi pesan instan"
+      ],
+      "topik_materi": "Etika Penggunaan Fitur Chat Virtual",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Pemanfaatan kolom percakapan teks (chat) dalam aplikasi pertemuan kedinasan wajib diarahkan untuk...",
+      "pilihan": {
+        "A": "Menyampaikan promosi program kesejahteraan luar dinas",
+        "B": "Menyebarkan candaan informal guna mencairkan suasana rapat",
+        "C": "Menggunakan fasilitas obrolan secara sopan, bijaksana, dan substantif",
+        "D": "Mendiskusikan urusan pribadi di luar pokok bahasan pertemuan",
+        "E": "Menyampaikan kritik terbuka yang menyerang kepribadian rekan kerja"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Ketentuan etika virtual mewajibkan pegawai **menggunakan fasilitas obrolan dalam aplikasi pesan instan (chat) dengan sopan dan bijaksana**.",
+        "alasan_kunci": "Opsi C tepat karena kolom pesan dalam forum kedinasan berfungsi sebagai media interaksi formal untuk mengajukan pertanyaan, mencatat presensi, atau menyampaikan izin teknis. Penggunaan bahasa yang santun, lugas, dan relevan dengan materi bahasan menjaga wibawa institusi serta ketertiban jalannya komunikasi digital. Saluran dinas dilarang disalahgunakan untuk percakapan informal yang mengaburkan pesan utama. Maka dari itu, memanfaatkan obrolan secara bijaksana dan sopan merupakan wujud kepatuhan etika.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena mempromosikan kegiatan di luar kedinasan menyalahi peruntukan sarana komunikasi instansi.",
+          "B": "Kurang tepat karena candaan berlebihan dalam forum formal berpotensi menurunkan keseriusan pembahasan dinas.",
+          "D": "Kurang tepat karena percakapan pribadi di kolom publik mengaburkan catatan resmi jalannya persidangan rapat.",
+          "E": "Kurang tepat karena kritik personal yang menyerang individu melanggar nilai kesopanan dan kode perilaku aparatur sipil."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 50,
+      "halaman_sumber": 28,
+      "kata_kunci_modul": [
+        "merepresentasikan institusi atau virtual background"
+      ],
+      "topik_materi": "Standar Latar Belakang Layar Virtual",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Jika penyelenggara tidak menetapkan latar virtual khusus, pilihan latar layar yang tepat bagi pegawai adalah...",
+      "pilihan": {
+        "A": "Pemandangan destinasi wisata alam mancanegara yang populer",
+        "B": "Poster kegiatan promosi komersial organisasi kemasyarakatan",
+        "C": "Warna-warni abstrak cerah yang memantulkan efek cahaya bergerak",
+        "D": "Virtual background lain yang merepresentasikan institusi dan estetika",
+        "E": "Tampilan ruang pribadi santai tanpa memperhatikan kerapian visual"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Apabila panitia tidak menetapkan latar khusus, peserta dapat memakai **virtual background lain yang merepresentasikan institusi atau virtual background yang sesuai estetika dan etika**.",
+        "alasan_kunci": "Opsi D tepat karena latar belakang layar digital berfungsi sebagai identitas visual instansi yang menjaga citra profesional aparatur pemerintah. Pemilihan gambar gedung kantor, logo resmi, atau latar bernuansa rapi dan teduh mencerminkan sikap hormat terhadap forum kedinasan. Standar estetika ini menjamin tampilan peserta tetap pantas dipandang masyarakat maupun pejabat negara yang hadir. Dengan demikian, latar representasi institusi yang etis adalah pilihan yang paling tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pemandangan wisata santai tidak merepresentasikan lingkungan kerja formal instansi pemerintah.",
+          "B": "Kurang tepat karena pemajangan poster komersial organisasi luar mencampurkan kepentingan dinas dengan urusan eksternal.",
+          "C": "Kurang tepat karena warna abstrak mencolok dan efek gerak berpotensi mengaburkan fokus peserta terhadap pemaparan.",
+          "E": "Kurang tepat karena tampilan ruang santai yang berantakan mencederai citra kerapian dan profesionalitas aparatur sipil."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 51,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "substansi/materinya hanya boleh didistribusikan secara"
+      ],
+      "topik_materi": "Pengamanan Rapat Virtual Materi Rahasia",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Kewajiban aparatur saat menghadiri rapat virtual yang substansi materinya bersifat rahasia adalah...",
+      "pilihan": {
+        "A": "Didistribusikan secara terbatas sesuai ketentuan kerahasiaan dinas",
+        "B": "Membagikan salinan ringkasan kepada media massa untuk transparansi",
+        "C": "Menyimpan salinan paparan dalam media penyimpanan komersial terbuka",
+        "D": "Meneruskan dokumen materi rapat kepada seluruh rekan sejawat",
+        "E": "Mempublikasikan intisari rapat pada linimasa media sosial personal"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Materi rapat yang **hanya boleh didistribusikan secara terbatas dan/atau perlu dijaga kerahasiaannya** wajib dijaga dengan ketat oleh seluruh peserta.",
+        "alasan_kunci": "Opsi A tepat karena dokumen dan isu strategis pemerintahan menuntut kepatuhan mutlak atas pembatasan akses informasi sesuai klasifikasi keamanan negara. Pegawai dilarang menyebarkan, membagikan, atau memperlihatkan bahan rapat kepada pihak luar yang tidak memiliki hak akses sah secara kedinasan. Pelanggaran terhadap kerahasiaan rapat virtual dapat menimbulkan kerugian negara dan merusak kepercayaan publik. Oleh sebab itu, pembatasan distribusi materi merupakan kewajiban yang tidak dapat ditawar.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena memberikan materi rahasia kepada pers tanpa mandat resmi merupakan bentuk kebocoran rahasia negara.",
+          "C": "Kurang tepat karena mengunggah dokumen terbatas ke penyimpanan awan publik berisiko tinggi terhadap peretasan data.",
+          "D": "Kurang tepat karena membagikan dokumen rahasia kepada rekan tanpa relevansi tugas menyalahi asas pembatasan akses.",
+          "E": "Kurang tepat karena mempublikasikan intisari rapat terbatas di media sosial merupakan pelanggaran berat kode etik ASN."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 52,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "wajib melaksanakan ketentuan pembatasan distribusi"
+      ],
+      "topik_materi": "Tanggung Jawab Distribusi Dokumen Rapat",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Konsekuensi etis bagi pegawai yang menerima materi rapat virtual berkategori terbatas adalah...",
+      "pilihan": {
+        "A": "Berhak menggandakan materi untuk kepentingan kajian umum",
+        "B": "Wajib melaksanakan ketentuan pembatasan distribusi dokumen rapat",
+        "C": "Dapat memberikan akses materi kepada mitra kerja perorangan",
+        "D": "Bebas memaparkan materi dalam forum diskusi terbuka lintas instansi",
+        "E": "Menyusun arsip digital pribadi pada peladen di luar pengawasan dinas"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Setiap pegawai yang hadir **wajib melaksanakan ketentuan pembatasan distribusi dan/atau kerahasiaan materi rapat** sesuai arahan kedinasan.",
+        "alasan_kunci": "Opsi B tepat karena hak menerima informasi jabatan diimbangi dengan kewajiban membatasi penyebarannya hanya pada pihak berwenang. Sikap amanah dalam menjaga integritas dokumen negara mencerminkan kedewasaan kepemimpinan dan loyalitas terhadap institusi kementerian. Aparatur tidak boleh memanfaatkan data internal untuk kepentingan di luar mandat pelaksanaan tugas kedinasan. Oleh karena itu, menegakkan pembatasan distribusi adalah tindakan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena perbanyakan dokumen rahasia untuk konsumsi umum dilarang keras tanpa persetujuan pimpinan.",
+          "C": "Kurang tepat karena memberikan akses informasi rahasia kepada pihak mitra perorangan berisiko kebocoran rahasia jabatan.",
+          "D": "Kurang tepat karena mendiskusikan materi terbatas dalam forum publik melanggar batas kepatutan informasi kedinasan.",
+          "E": "Kurang tepat karena pengarsipan pada peladen mandiri tanpa kendali instansi membahayakan kedaulatan data pemerintah."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 53,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "memprioritaskan perhatian pada salah satu kegiatan"
+      ],
+      "topik_materi": "Etika Saat Jadwal Acara Virtual Bersamaan",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Sikap yang diimbau apabila pegawai harus mengikuti lebih dari satu acara virtual kedinasan dalam waktu bersamaan adalah...",
+      "pilihan": {
+        "A": "Menutup seluruh tautan pertemuan dan melapor kendala kepada pimpinan",
+        "B": "Membuka seluruh gawai secara bersamaan dengan mematikan suara mikrofon",
+        "C": "Memprioritaskan perhatian pada salah satu kegiatan sesuai tingkat urgensi",
+        "D": "Mengalihkan tanggung jawab kehadiran sepenuhnya kepada staf honorer",
+        "E": "Memilih acara virtual yang memiliki durasi pelaksanaan paling singkat"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Dalam situasi jadwal bentrok, pegawai diimbau agar dapat **memprioritaskan perhatian pada salah satu kegiatan (sesuai tingkat urgensi dan kepentingannya)**.",
+        "alasan_kunci": "Opsi C tepat karena perhatian yang terbagi pada banyak layar dalam satu waktu menurunkan fokus analisis serta kualitas keterlibatan pegawai dalam proses pengambilan keputusan. Dengan menimbang tingkat kepentingan strategis dan urgensi penugasan, aparatur dapat berpartisipasi secara maksimal pada forum utama sambil mengomunikasikan izin ketidakhadiran di forum pendamping. Pendekatan rasional ini menjaga profesionalisme aparatur sipil. Dengan demikian, menentukan prioritas kegiatan berdasarkan urgensi adalah panduan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena meninggalkan seluruh agenda dinas menunjukkan sikap lepas tanggung jawab atas kewajiban kedinasan.",
+          "B": "Kurang tepat karena membuka banyak forum secara simultan menurunkan efektivitas perhatian dan mengaburkan partisipasi nyata.",
+          "D": "Kurang tepat karena mengalihkan kehadiran kepada pihak yang tidak memiliki kompetensi jabatan melanggar tata kelola birokrasi.",
+          "E": "Kurang tepat karena durasi waktu bukan parameter objektif dalam menentukan bobot kepentingan agenda kenegaraan."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 54,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "dalam acara resmi yang melibatkan pejabat negara"
+      ],
+      "topik_materi": "Penghormatan Acara Resmi Pejabat Negara",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penghormatan protokoler virtual wajib diupayakan secara optimal terutama saat menghadiri agenda yang...",
+      "pilihan": {
+        "A": "Dilaksanakan di luar hari kerja operasional kantor pelayanan publik",
+        "B": "Menyediakan alokasi anggaran konsumsi dan fasilitas akomodasi",
+        "C": "Menghadirkan narasumber dari kalangan akademisi luar negeri",
+        "D": "Terutama dalam acara resmi yang melibatkan pejabat negara Republik Indonesia",
+        "E": "Diikuti oleh mitra kerja komersial tingkat multinasional"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pegawai berupaya tetap melakukan penghormatan **terutama dalam acara resmi yang melibatkan pejabat negara** sebagai wujud etika birokrasi.",
+        "alasan_kunci": "Opsi D tepat karena kehadiran pemimpin lembaga tinggi negara dalam forum virtual merepresentasikan wibawa konstitusional dan integritas pemerintahan. Sikap tertib, khidmat, serta kepatuhan pada tata cara keprotokolan mencerminkan penghormatan aparatur terhadap simbol negara. Hal ini memperkuat kultur birokrasi yang tertib asas dan bermartabat tinggi di hadapan publik. Oleh sebab itu, acara resmi yang melibatkan pejabat negara menuntut prioritas penghormatan paling tinggi.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena waktu pelaksanaan di luar jam kantor bukan parameter utama dalam penetapan derajat keprotokolan resmi.",
+          "B": "Kurang tepat karena ketersediaan fasilitas materiil tidak menjadi tolok ukur kesungguhan penghormatan tata upacara dinas.",
+          "C": "Kurang tepat karena kehadiran pemateri luar negeri dihormati sebagai narasumber ilmiah, bukan simbol keprotokolan negara.",
+          "E": "Kurang tepat karena keterlibatan mitra korporasi swasta tunduk pada etika kemitraan, bukan tata upacara pejabat negara."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 55,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "kelompok/beberapa pegawai yang akan dilantik dalam 1 (satu) gawai/kamera"
+      ],
+      "topik_materi": "Tata Tertib Acara Virtual Berkelompok",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Ketentuan penataan posisi pada acara virtual pelantikan pegawai yang menggunakan satu kamera bersama adalah...",
+      "pilihan": {
+        "A": "Menempatkan pejabat penilai di tengah tanpa melibatkan pegawai bersangkutan",
+        "B": "Mengatur sorotan video secara bergantian setiap lima menit sekali",
+        "C": "Menempatkan sebagian pegawai di luar jangkauan pandang layar lensa",
+        "D": "Memosisikan pegawai pelaksana di deretan depan menghadap arah samping",
+        "E": "Menampilkan kelompok pegawai yang akan dilantik dalam satu frame rapi"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Dalam acara pelantikan bersama, satuan kerja wajib **menampilkan kelompok/beberapa pegawai yang akan dilantik dalam 1 (satu) gawai/kamera** secara tertib.",
+        "alasan_kunci": "Opsi E tepat karena penyelenggaraan upacara resmi seperti pelantikan menuntut kerapian formasi barisan agar seluruh aparatur yang diambil sumpahnya terpantau dengan jelas oleh pejabat pengambil sumpah. Penataan posisi tubuh yang seragam, jarak yang proporsional, serta pencahayaan yang memadai mencerminkan kekhidmatan prosesi sakral kenegaraan. Hal ini membuktikan keteraturan administrasi satker di ruang digital. Maka, memposisikan seluruh pegawai dalam satu bidang pandang kamera yang proporsional adalah langkah yang benar.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena fokus utama sorotan prosesi pelantikan adalah para pejabat atau pegawai yang sedang dilantik.",
+          "B": "Kurang tepat karena perpindahan sudut sorotan secara manual dapat mengganggu stabilitas visual prosesi pengambilan sumpah.",
+          "C": "Kurang tepat karena membiarkan pegawai di luar jangkauan lensa menyalahi verifikasi keabsahan kehadiran fisik pelantikan.",
+          "D": "Kurang tepat karena posisi menghadap samping tidak memenuhi etika pandangan lurus ke arah pembawa sumpah jabatan."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 56,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "melaksanakan budaya (corporate culture)"
+      ],
+      "topik_materi": "Fondasi Budaya Organisasi dalam SKF",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pelaksanaan sistem kerja fleksibel di lingkungan birokrasi wajib berlandaskan pada...",
+      "pilihan": {
+        "A": "Ketersediaan insentif kinerja finansial tambahan bagi aparatur",
+        "B": "Kecepatan akses data pada aplikasi absensi sidik jari nirkabel",
+        "C": "Melaksanakan budaya (corporate culture) berdasarkan Nilai-Nilai Kemenkeu",
+        "D": "Kelonggaran pengawasan jam operasional kerja oleh pimpinan satker",
+        "E": "Penurunan target capaian kinerja bulanan unit kantor vertikal"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Seluruh pegawai wajib beradaptasi dan **melaksanakan budaya (corporate culture) yang berdasarkan pada Nilai-Nilai Kemenkeu** dalam penerapan sistem kerja fleksibel.",
+        "alasan_kunci": "Opsi C tepat karena transformasi pola kerja modern berbasis fleksibilitas tempat dan waktu hanya dapat berhasil apabila ditopang oleh nilai budaya organisasi yang kokoh. Nilai-nilai kementerian menjadi kompas perilaku yang menjaga standar integritas dan etos kerja aparatur meski bertugas dari kediaman masing-masing. Tanpa fondasi nilai yang dihayati, fleksibilitas berisiko menurunkan produktivitas layanan. Oleh karena itu, penerapan budaya organisasi berbasis nilai institusi adalah pilar utama.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penerapan kerja fleksibel bukan didorong oleh pemberian insentif moneter tambahan.",
+          "B": "Kurang tepat karena kecepatan perangkat absensi digital sekadar sarana pencatatan administrasi, bukan fondasi nilai.",
+          "D": "Kurang tepat karena sistem kerja fleksibel tetap menghendaki akuntabilitas pengawasan yang terukur dan disiplin.",
+          "E": "Kurang tepat karena fleksibilitas metode kerja tidak boleh menurunkan standar capaian target kinerja instansi."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 57,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Integritas, yang berarti seluruh pegawai harus berpikir"
+      ],
+      "topik_materi": "Definisi Nilai Integritas dalam SKF",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Makna substantif dari nilai integritas dalam pelaksanaan pola kerja fleksibel adalah keharusan...",
+      "pilihan": {
+        "A": "Menyelesaikan dokumen administrasi anggaran tanpa koreksi atasan",
+        "B": "Mencapai target kepuasan pengguna jasa di atas standar minimum",
+        "C": "Membangun hubungan koordinasi kerja secara intensif antar-lembaga",
+        "D": "Berpikir, berkata, berperilaku, dan bertindak baik dan benar serta taat kode etik",
+        "E": "Mengembangkan sarana kerja digital termutakhir bagi pelayanan publik"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Integritas berarti aparatur harus **berpikir, berkata, berperilaku, dan bertindak baik dan benar serta selalu memegang teguh kode etik dan prinsip-prinsip moral**.",
+        "alasan_kunci": "Opsi D tepat karena rumusan resmi integritas menuntut keselarasan utuh antara olah pikir, lisan, sikap batin, dan perbuatan nyata aparatur sipil negara. Dalam sistem kerja jarak jauh, nilai ini menjadi pengingat mandiri agar pegawai senantiasa berbuat jujur dan patuh pada aturan hukum kendati tanpa supervisi tatap mata langsung dari atasan. Integritas merupakan mahkota moral birokrasi berkelas dunia. Maka dari itu, konsistensi berpikir, berkata, dan bertindak benar adalah definisi hakiki integritas.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penyelesaian naskah dinas tanpa koreksi mencerminkan ketelitian teknis, bukan definisi utuh integritas.",
+          "B": "Kurang tepat karena capaian standar kepuasan pemangku kepentingan merupakan muatan pokok dari nilai Pelayanan.",
+          "C": "Kurang tepat karena penguatan koordinasi lintas sektor adalah wujud implementasi dari nilai Sinergi.",
+          "E": "Kurang tepat karena inovasi sarana digital modern merupakan perwujudan komitmen dari nilai Kesempurnaan."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 58,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "jujur dalam menggunakan/melaporkan waktu bekerja"
+      ],
+      "topik_materi": "Penerapan Integritas Pelaporan Waktu Kerja",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Penerapan nyata nilai integritas bagi pegawai yang melaksanakan tugas kedinasan dari rumah (WFH) adalah...",
+      "pilihan": {
+        "A": "Menyelesaikan urusan keluarga terlebih dahulu sebelum mengisi daftar hadir",
+        "B": "Mendelegasikan penulisan laporan kegiatan harian kepada staf pendukung",
+        "C": "Menyunting lokasi presensi digital agar sesuai dengan radius kantor",
+        "D": "Menggunakan waktu jam kerja untuk aktivitas komersial daring pribadi",
+        "E": "Jujur dalam menggunakan/melaporkan waktu bekerja dan kondisi kesehatan"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Contoh perilaku integritas saat fleksibilitas kerja mencakup sikap **jujur dalam menggunakan/melaporkan waktu bekerja** serta tidak menyebarkan berita bohong.",
+        "alasan_kunci": "Opsi E tepat karena esensi akuntabilitas WFH bertumpu pada kejujuran aparatur dalam mendedikasikan waktu kerja efektifnya sesuai jam kantor kedinasan resmi. Menyampaikan laporan logbook secara faktual serta melaporkan status kesehatan riil mencerminkan kejujuran moral pegawai di hadapan institusi dan negara. Kepatuhan ini mencegah penyalahgunaan hak fleksibilitas demi kepentingan non-kedinasan. Oleh sebab itu, bersikap jujur atas pemanfaatan waktu kerja adalah wujud integritas yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena mendahulukan urusan privat di jam kerja dinas menciderai komitmen jam pelayanan aparatur sipil.",
+          "B": "Kurang tepat karena pembuatan laporan kinerja harian merupakan kewajiban personal yang tidak boleh dilimpahkan ke pihak lain.",
+          "C": "Kurang tepat karena memanipulasi koordinat lokasi presensi digital tergolong perbuatan tercela dan pelanggaran integritas.",
+          "D": "Kurang tepat karena berbisnis komersial selama jam dinas aktif melanggar sumpah jabatan dan ketentuan disiplin pegawai."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 59,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "Profesionalisme, yang berarti seluruh pegawai harus bekerja dengan tuntas"
+      ],
+      "topik_materi": "Definisi Nilai Profesionalisme dalam SKF",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Perwujudan nilai profesionalisme pegawai aparatur sipil dalam lingkungan tugas kedinasan ditandai oleh...",
+      "pilihan": {
+        "A": "Bekerja dengan tuntas dan akurat berdasarkan kompetensi terbaik",
+        "B": "Mengutamakan kepentingan kelompok kerja di atas kepentingan umum",
+        "C": "Menunggu instruksi tertulis dari atasan sebelum memproses berkas",
+        "D": "Membatasi penerimaan tugas baru di luar uraian jabatan pokok",
+        "E": "Menyerahkan penyusunan keputusan dinas kepada pihak ketiga eksternal"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Profesionalisme menuntut setiap aparatur **bekerja dengan tuntas dan akurat berdasarkan kompetensi terbaik dan penuh tanggung jawab serta komitmen tinggi**.",
+        "alasan_kunci": "Opsi A tepat karena profesionalisme menghendaki penguasaan keahlian teknis yang dipadukan dengan tanggung jawab penyelesaian tugas secara sempurna dan tepat waktu. Hasil kerja aparatur yang profesional memiliki akurasi data tinggi, minim galat, serta dapat dipertanggungjawabkan secara hukum dan metodologis. Sikap ini memastikan pelayanan birokrasi tetap bermutu prima tanpa terpengaruh jarak fisik ruang kerja. Dengan demikian, menuntaskan pekerjaan secara akurat sesuai keahlian adalah ciri pokok profesionalisme.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena mengutamakan kelompok kerja internal di atas kepentingan umum menyalahi asas netralitas aparatur.",
+          "C": "Kurang tepat karena sikap menunggu tanpa inisiatif profesional menunjukkan rendahnya komitmen dan kemandirian kerja.",
+          "D": "Kurang tepat karena aparatur wajib memiliki fleksibilitas dalam menerima penugasan pimpinan demi sasaran strategis.",
+          "E": "Kurang tepat karena penyerahan wewenang perumusan keputusan dinas ke pihak luar melanggar asas kedaulatan birokrasi."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 60,
+      "halaman_sumber": 29,
+      "kata_kunci_modul": [
+        "meskipun WFH tugas/layanan tetap dapat dituntaskan tepat waktu"
+      ],
+      "topik_materi": "Penerapan Profesionalisme Saat Bekerja dari Rumah",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Cerminan perilaku profesional aparatur sipil negara yang menjalankan tugas secara fleksibel dari rumah adalah...",
+      "pilihan": {
+        "A": "Menunda pengiriman laporan berkala hingga jadwal bekerja dari kantor tiba",
+        "B": "Meskipun WFH tugas/layanan tetap dapat dituntaskan tepat waktu dan akurat",
+        "C": "Meminta perpanjangan batas waktu penyerahan hasil verifikasi dokumen",
+        "D": "Membatasi komunikasi koordinasi dengan pimpinan kerja pada pagi hari",
+        "E": "Melimpahkan verifikasi berkas sulit kepada pegawai yang bertugas di kantor"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Penerapan nilai profesionalisme menegaskan bahwa **meskipun WFH tugas/layanan tetap dapat dituntaskan tepat waktu** secara mandiri.",
+        "alasan_kunci": "Opsi B tepat karena aparatur profesional tidak menjadikan lokasi kerja fleksibel sebagai penghalang tercapainya target keluaran kerja (output). Pengelolaan waktu yang mandiri, kedisiplinan diri yang kuat, dan fokus terhadap kualitas penyelesaian tugas membuktikan bahwa produktivitas ASN tetap terjaga tinggi di era digital. Hal ini mematahkan persepsi bahwa bekerja dari rumah menurunkan kecepatan layanan dinas. Karena itu, ketuntasan layanan tepat waktu saat WFH adalah implementasi profesionalisme yang sahih.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena menunda penyampaian laporan kinerja mengabaikan standar kecepatan dan ketepatan waktu birokrasi.",
+          "C": "Kurang tepat karena sering meminta relaksasi batas waktu mencerminkan manajemen kerja mandiri yang belum optimal.",
+          "D": "Kurang tepat karena membatasi koordinasi dinas menghambat aliran komunikasi penugasan mendesak dari pimpinan satker.",
+          "E": "Kurang tepat karena melempar tugas berbobot berat kepada rekan WFO menunjukkan lemahnya rasa tanggung jawab pribadi."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 61,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "bermanfaat dan berkualitas"
+      ],
+      "topik_materi": "Tujuan Substantif Nilai Sinergi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Tujuan utama penguatan kemitraan harmonis dan kerja sama internal pada nilai Sinergi adalah menghasilkan...",
+      "pilihan": {
+        "A": "Sistem birokrasi berjenjang yang menitikberatkan kepatuhan hierarkis",
+        "B": "Karya yang bermanfaat dan berkualitas tinggi bagi bangsa dan negara",
+        "C": "Efisiensi pengeluaran belanja dinas pegawai melalui pembatasan rapat",
+        "D": "Laporan pengawasan formal guna memenuhi kewajiban administratif satker",
+        "E": "Keseragaman latar belakang pendidikan seluruh pengelola keuangan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Nilai Sinergi bertujuan membangun hubungan kemitraan internal dan eksternal secara produktif **untuk menghasilkan karya yang bermanfaat dan berkualitas**.",
+        "alasan_kunci": "Opsi B tepat karena kolaborasi lintas unit kerja dan pemangku kepentingan dirancang untuk menciptakan daya ungkit kinerja yang melampaui capaian kerja individual. Karya berkualitas dan memberi kemanfaatan luas bagi masyarakat merupakan muara akhir dari seluruh komunikasi dan koordinasi yang dibangun aparatur sipil. Dengan menyatukan beragam potensi keahlian, organisasi mampu menghasilkan solusi kebijakan publik yang kokoh. Maka, menghasilkan karya bermanfaat dan berkualitas adalah tujuan pokok sinergi.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena pembentukan rantai birokrasi berjenjang yang kaku justru berpotensi memperlambat proses sinergi modern.",
+          "C": "Kurang tepat karena efisiensi anggaran merupakan dampak samping tata kelola keuangan, bukan tujuan filosofis sinergi.",
+          "D": "Kurang tepat karena pemenuhan laporan administratif formal semata mengabaikan dampak kemanfaatan riil bagi publik.",
+          "E": "Kurang tepat karena keseragaman latar belakang akademik tidak diperlukan, keberagaman keahlian justru memperkaya sinergi."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 62,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "koordinasi dan kerja sama antar rekan kerja/unit"
+      ],
+      "topik_materi": "Sinergi Kerja Jarak Jauh Tanpa Tatap Muka",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Penerapan nilai sinergi dalam pelaksanaan sistem kerja fleksibel tercermin dari sikap pegawai yang...",
+      "pilihan": {
+        "A": "Menyelesaikan seluruh target pekerjaan mandiri tanpa melibatkan rekan",
+        "B": "Menunggu arahan tertulis dari unit pusat sebelum melakukan kontak",
+        "C": "Meskipun tidak ada tatap muka namun koordinasi kerja tetap berjalan optimal",
+        "D": "Membatasi interaksi kerja sama pada pegawai satu angkatan diklat",
+        "E": "Mengalihkan tanggung jawab koordinasi kepada pejabat fungsional perencana"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Wujud sinergi pada sistem kerja fleksibel menegaskan bahwa **meskipun tidak ada tatap muka namun koordinasi dan kerja sama antar rekan kerja/unit** tetap dilaksanakan sebaik-baiknya.",
+        "alasan_kunci": "Opsi C tepat karena ketiadaan interaksi fisik secara langsung tidak boleh menjadi alasan terputusnya komunikasi dan kolaborasi penuntasan target kinerja satker. Melalui pemanfaatan media digital secara aktif, proaktif menyapa rekan setim, dan saling berbagi data, koordinasi kerja tetap dapat terjalin secara tangkas dan solid. Hal ini membuktikan bahwa sinergi birokrasi melampaui batasan ruang geografis. Dengan demikian, menjaga koordinasi tanpa hambatan tatap muka adalah implementasi sinergi yang benar.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena bekerja sendiri secara eksklusif tanpa berbagi informasi mencerminkan sikap ego fungsional.",
+          "B": "Kurang tepat karena sikap pasif menunggu perintah menghambat kelancaran koordinasi horizontal antarseksi di unit kerja.",
+          "D": "Kurang tepat karena membatasi pergaulan kedinasan pada kelompok tertentu merusak kerukunan dan inklusivitas organisasi.",
+          "E": "Kurang tepat karena koordinasi dan kemitraan kerja merupakan kewajiban kolektif seluruh jenjang pegawai tanpa terkecuali."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 63,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "tidak membangun opini dan/atau menyebarkan"
+      ],
+      "topik_materi": "Komitmen Sinergi Mencegah Polarisasi Informasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam menjaga keutuhan sinergi lingkungan kerja, aparatur negara memiliki kewajiban moral untuk...",
+      "pilihan": {
+        "A": "Menyampaikan seluruh keluhan operasional internal kepada forum terbuka",
+        "B": "Mendukung salah satu kubu dalam perbedaan pandangan politik praktis",
+        "C": "Menyebarluaskan rumor kebijakan yang belum disahkan oleh pimpinan satker",
+        "D": "Tidak membangun opini dan/atau menyebarkan informasi yang memecah belah",
+        "E": "Membuat analisis tandingan atas keputusan kedinasan yang telah berkekuatan hukum"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Komitmen sinergi mengamanatkan pegawai agar **tidak membangun opini dan/atau menyebarkan informasi yang dapat memecah belah** persatuan korps.",
+        "alasan_kunci": "Opsi D tepat karena keharmonisan organisasi birokrasi sangat bergantung pada iklim komunikasi yang sehat, objektif, dan berlandaskan fakta kedinasan. Menghembuskan narasi yang bersifat adu domba atau membagikan konten polaritatif di grup percakapan internal merusak rasa saling percaya antarpegawai dan meruntuhkan fondasi kerja tim. ASN berkewajiban menjadi perekat dan pemersatu bangsa. Oleh sebab itu, menjauhi opini pemecah belah merupakan kewajiban moral aparatur.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena keluhan teknis wajib disampaikan melalui mekanisme saluran evaluasi internal yang sah dan konstruktif.",
+          "B": "Kurang tepat karena keterlibatan dalam kubu politik praktis melanggar asas netralitas aparatur sipil negara.",
+          "C": "Kurang tepat karena menyebarkan desas-desus draf kebijakan dapat menimbulkan kepanikan dan disinformasi publik.",
+          "E": "Kurang tepat karena menyusun opini tandingan terhadap regulasi sah mencederai kepatuhan hukum dan tertib organisasi."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 64,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "memenuhi kepuasan para pemangku kepentingan"
+      ],
+      "topik_materi": "Definisi Nilai Pelayanan dalam SKF",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Hakikat utama dari implementasi nilai Pelayanan di lingkungan birokrasi adalah memberikan layanan demi...",
+      "pilihan": {
+        "A": "Mendapatkan penghargaan predikat kantor pelayanan teladan nasional",
+        "B": "Mengantisipasi catatan evaluasi dari instansi pemeriksa eksternal",
+        "C": "Mempercepat penyerapan anggaran belanja operasional kantor di akhir tahun",
+        "D": "Memenuhi target jumlah jam layanan tatap muka bagi para pegawai kantor",
+        "E": "Memenuhi kepuasan para pemangku kepentingan secara tulus dan berkualitas"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Pelayanan diartikan sebagai komitmen aparatur untuk **memenuhi kepuasan para pemangku kepentingan** dan dilaksanakan dengan sepenuh hati.",
+        "alasan_kunci": "Opsi E tepat karena orientasi keberadaan birokrasi pemerintah adalah memberikan kemanfaatan dan kepuasan pelayanan bagi masyarakat serta seluruh pemangku kepentingan. Standar kepuasan dicapai bukan sekadar menggugurkan kewajiban formal atau mengejar piala penghargaan, melainkan memberikan solusi nyata atas kebutuhan publik secara ramah dan profesional. Ketulusan dalam melayani membangun legitimasi sosial institusi negara. Dengan demikian, memenuhi kepuasan pemangku kepentingan adalah hakikat nilai pelayanan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena perolehan plakat penghargaan hanyalah apresiasi luaran, bukan niat dasar pelayanan publik.",
+          "B": "Kurang tepat karena motif menghindari audit pengawas mencerminkan kepatuhan semu yang bersifat defensif.",
+          "C": "Kurang tepat karena realisasi belanja anggaran berkaitan dengan pengelolaan fiskal, bukan tolok ukur kepuasan pengguna jasa.",
+          "D": "Kurang tepat karena pemenuhan kuota jam kerja semata mengabaikan mutu empati dan kepuasan penerima layanan."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 65,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "sepenuh hati, transparan, cepat, akurat, dan aman"
+      ],
+      "topik_materi": "Karakteristik Pelaksanaan Nilai Pelayanan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Lima karakteristik baku dalam pelaksanaan nilai Pelayanan menurut pedoman perilaku kementerian adalah...",
+      "pilihan": {
+        "A": "Dilaksanakan dengan sepenuh hati, transparan, cepat, akurat, dan aman",
+        "B": "Bersifat rahasia, bertahap, selektif, ekonomis, dan terencana",
+        "C": "Berorientasi komersial, terukur, mandiri, fleksibel, dan tertutup",
+        "D": "Dilakukan secara berkala, serentak, terpusat, formal, dan bersyarat",
+        "E": "Mengutamakan kuantitas, fleksibilitas, kenyamanan, kesetaraan, dan profit"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Nilai Pelayanan dilaksanakan dengan lima kriteria utama: **dilaksanakan dengan sepenuh hati, transparan, cepat, akurat, dan aman**.",
+        "alasan_kunci": "Opsi A tepat karena pedoman etika pelayanan merumuskan lima kata sifat kunci yang menjadi tolok ukur interaksi aparatur dengan pengguna layanan. Keikhlasan (sepenuh hati), keterbukaan prosedur (transparan), responsivitas waktu (cepat), ketepatan solusi (akurat), serta perlindungan hukum dan fisik (aman) menjamin kualitas pelayanan berstandar unggul. Kelima unsur ini saling melengkapi dalam mewujudkan tata kelola birokrasi modern. Oleh karenanya, kelima karakter tersebut merupakan rumusan resmi yang benar.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena pelayanan publik berlandaskan keterbukaan informasi, bukan kerahasiaan dan sifat selektif tertutup.",
+          "C": "Kurang tepat karena orientasi komersial bertentangan langsung dengan fungsi pelayanan publik non-profit abdi negara.",
+          "D": "Kurang tepat karena pelayanan prima diberikan secara berkesinambungan setiap hari kerja, bukan sekadar agenda berkala.",
+          "E": "Kurang tepat karena mengejar keuntungan finansial (profit) menyalahi mandat konstitusi tugas pelayanan ASN."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 66,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "berupaya mencari berbagai alternatif dalam rangka"
+      ],
+      "topik_materi": "Komitmen Pelayanan Publik pada Saat WFH",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Sikap etis petugas pelayanan saat menjalankan sistem kerja fleksibel dari kediaman adalah...",
+      "pilihan": {
+        "A": "Mengarahkan seluruh pemohon izin untuk datang kembali pekan depan",
+        "B": "Mematikan gawai layanan interaktif setelah menyelesaikan jam kerja wajib",
+        "C": "Menyampaikan kepada pemohon bahwa verifikasi dokumen dialihkan ke loket",
+        "D": "Tetap melayani kebutuhan pemangku kepentingan tanpa menjadikan WFH kendala",
+        "E": "Menunda berkas permohonan yang diajukan mendekati batas jam kerja dinas"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Pegawai wajib menjaga integritas layanan dengan **tidak menggunakan alasan WFH sebagai alasan untuk tidak melayani kepentingan masyarakat/stakeholders**.",
+        "alasan_kunci": "Opsi D tepat karena penerapan sistem kerja fleksibel sama sekali tidak boleh mengurangi mutu, kecepatan, maupun ketersediaan layanan publik yang menjadi hak pemangku kepentingan. Aparatur dituntut mencari solusi kreatif dan memanfaatkan saluran layanan elektronik secara prima agar kebutuhan masyarakat tetap terakomodasi dengan baik. Dedikasi ini membuktikan profesionalisme birokrasi yang responsif terhadap situasi adaptif. Maka dari itu, pantang menjadikan status WFH sebagai alasan kelambanan layanan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena menunda pemrosesan berkas masyarakat merugikan kepastian hukum dan waktu pengguna layanan.",
+          "B": "Kurang tepat karena memutus akses komunikasi tanpa alternatif bantuan menunjukkan rendahnya empati pelayanan dinas.",
+          "C": "Kurang tepat karena melempar urusan perizinan daring kembali ke loket fisik bertentangan dengan kemudahan layanan.",
+          "E": "Kurang tepat karena menolak berkas pemohon yang masuk dalam jam operasional menyalahi janji standar pelayanan publik."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 67,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "menerapkan prosedur kesehatan/keselamatan dalam"
+      ],
+      "topik_materi": "Standar Keselamatan dalam Pelayanan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam memberikan pelayanan langsung kepada masyarakat pada masa penyesuaian tatanan kerja, pegawai wajib...",
+      "pilihan": {
+        "A": "Membatasi pemberian informasi teknis melalui media selebaran kantor",
+        "B": "Mengharuskan masyarakat membawa surat rekomendasi dari aparat lingkungan",
+        "C": "Menyerahkan proses penerimaan berkas kepada pihak keamanan kantor depan",
+        "D": "Mengalihkan operasional loket fisik sepenuhnya ke saluran surel khusus",
+        "E": "Menerapkan prosedur kesehatan/keselamatan dalam pelayanan secara konsisten"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Setiap pegawai wajib **menerapkan prosedur kesehatan/keselamatan dalam pelayanan** demi menjaga kenyamanan bersama.",
+        "alasan_kunci": "Opsi E tepat karena penyelenggaraan pelayanan publik yang unggul harus menjamin perlindungan fisik, kesehatan, dan keselamatan bagi pemohon jasa maupun petugas loket. Kepatuhan pada standar higienitas dan protokol keselamatan di area kantor mencerminkan kepedulian institusi terhadap keselamatan jiwa manusia. Rasa aman ini menciptakan ketenangan interaksi dalam pemberian layanan kedinasan. Oleh sebab itu, menerapkan prosedur kesehatan dan keselamatan secara konsisten adalah tindakan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena membatasi penjelasan lisan menurunkan kejelasan informasi yang dibutuhkan pemohon layanan.",
+          "B": "Kurang tepat karena menambah persyaratan surat rekomendasi liar menciptakan birokrasi berbelit yang membebani warga.",
+          "C": "Kurang tepat karena petugas keamanan tidak berwenang melakukan verifikasi materiil berkas permohonan dinas.",
+          "D": "Kurang tepat karena memungut biaya atas saluran surat elektronik melanggar asas pelayanan publik yang bebas pungli."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 68,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "perbaikan di segala bidang untuk menjadi dan memberikan yang terbaik"
+      ],
+      "topik_materi": "Definisi Nilai Kesempurnaan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Makna substantif dari nilai Kesempurnaan dalam tatanan nilai kementerian menuntut aparatur agar...",
+      "pilihan": {
+        "A": "Senantiasa melakukan upaya perbaikan di segala bidang untuk hasil terbaik",
+        "B": "Mempertahankan metode kerja konvensional yang dinilai telah mapan",
+        "C": "Mempertahankan prosedur kerja warisan masa lalu tanpa perlu evaluasi",
+        "D": "Merasa puas atas pencapaian kinerja tahunan yang telah melampaui target",
+        "E": "Membatasi diri dari partisipasi program inovasi dan perbaikan mutu"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Nilai Kesempurnaan menegaskan komitmen seluruh pegawai untuk **senantiasa melakukan upaya perbaikan di segala bidang untuk menjadi dan memberikan yang terbaik**.",
+        "alasan_kunci": "Opsi A tepat karena kesempurnaan bukanlah kondisi statis tanpa cela, melainkan semangat pantang menyerah untuk terus berevolusi melakukan continuous improvement. Aparatur yang menjiwai nilai ini selalu mengevaluasi proses kerja yang ada, menciptakan inovasi penyederhanaan layanan, dan memperbarui kompetensi diri agar relevan dengan tuntutan zaman. Nilai ini menjadi lokomotif kemajuan organisasi. Dengan demikian, senantiasa melakukan perbaikan di segala bidang adalah esensi nilai kesempurnaan.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena menolak inovasi baru bertentangan langsung dengan semangat adaptabilitas organisasi modern.",
+          "C": "Kurang tepat karena melestarikan tata cara usang tanpa perbaikan menciptakan stagnasi dan inefisiensi birokrasi.",
+          "D": "Kurang tepat karena cepat berpuas diri menghambat dorongan untuk mencapai keunggulan kerja yang lebih tinggi.",
+          "E": "Kurang tepat karena enggan berpartisipasi dalam inovasi mencerminkan resistensi terhadap budaya kemajuan institusi."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 69,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "tanggung terhadap keluarga/pribadi dengan baik/work-life harmony"
+      ],
+      "topik_materi": "Penerapan Work-Life Harmony dalam Kesempurnaan",
+      "level_kognitif": "C3 - Aplikasi",
+      "pertanyaan": "Salah satu bentuk penerapan nilai Kesempurnaan dalam keseimbangan hidup aparatur saat bekerja fleksibel adalah...",
+      "pilihan": {
+        "A": "Mengutamakan hobi pribadi di atas pemenuhan target sasaran kinerja",
+        "B": "Mengharmonisasikan tanggung jawab dinas dan keluarga (work-life harmony)",
+        "C": "Membawa seluruh beban pekerjaan kantor ke dalam waktu istirahat tidur",
+        "D": "Mengorbankan kesehatan jasmani demi menyelesaikan tugas melampaui jam",
+        "E": "Menyerahkan pengasuhan keluarga sepenuhnya kepada pihak lembaga asuhan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Penerapan nilai Kesempurnaan mencakup upaya **mengintegrasikan/mengharmonisasikan tanggung jawab terhadap kantor dan tanggung terhadap keluarga/pribadi dengan baik/work-life harmony**.",
+        "alasan_kunci": "Opsi B tepat karena keseimbangan antara tuntutan profesionalitas kantor dan kebahagiaan kehidupan rumah tangga melahirkan kesehatan mental yang prima dan energi kerja berkelanjutan. Pegawai yang mampu mengelola batasan waktu secara bijak akan bekerja dengan produktivitas tinggi saat jam dinas tanpa mengabaikan pemenuhan hak keluarga tercinta. Harmoni hidup ini mendukung performa kerja jangka panjang yang unggul. Oleh karenanya, membangun work-life harmony adalah cerminan nilai kesempurnaan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena menomorsatukan hobi pribadi saat jam kerja dinas melanggar disiplin dan kontrak kinerja ASN.",
+          "C": "Kurang tepat karena membiarkan beban kantor mengikis waktu istirahat berisiko menimbulkan kejenuhan (burnout) kerja.",
+          "D": "Kurang tepat karena merusak kesehatan fisik demi lembur berlebihan bertentangan dengan prinsip keselamatan kerja terpadu.",
+          "E": "Kurang tepat karena melepaskan tanggung jawab domestik secara total bukan solusi bijak dalam mencapai keselarasan hidup."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 70,
+      "halaman_sumber": 30,
+      "kata_kunci_modul": [
+        "memberikan integritas yang terbaik, menunjukkan profesionalisme yang terbaik"
+      ],
+      "topik_materi": "Integrasi Holistik Nilai-Nilai Kemenkeu",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Puncak dari penghayatan nilai Kesempurnaan tercapai apabila setiap aparatur negara mampu...",
+      "pilihan": {
+        "A": "Mengumpulkan gelar akademik tertinggi dari perguruan tinggi ternama",
+        "B": "Mencapai promosi jabatan struktural pada usia karier paling muda",
+        "C": "Memberikan integritas, profesionalisme, sinergi, dan pelayanan terbaik",
+        "D": "Membatasi eksposur risiko perubahan tata kelola di unit kerja",
+        "E": "Mencatatkan kehadiran presensi finger print tanpa pernah terlambat"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Kesempurnaan mewadahi komitmen holistik: **memberikan integritas yang terbaik, menunjukkan profesionalisme yang terbaik, melakukan sinergi yang terbaik, memberikan pelayanan yang terbaik**.",
+        "alasan_kunci": "Opsi C tepat karena nilai Kesempurnaan bertindak sebagai akselerator sekaligus payung mutu bagi keempat nilai dasar kementerian lainnya. Dengan bertekad memberikan standar integritas, keahlian profesional, kemitraan sinergi, dan pelayanan publik pada tingkat terbaiknya, pegawai menghidupkan budaya organisasi berkelas dunia secara utuh dan terpadu. Dedikasi total ini menjadi motor kemajuan institusi. Dengan demikian, mengoptimalkan seluruh nilai dasar ke level terbaik adalah puncak kesempurnaan.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena banyaknya gelar pendidikan formal tidak otomatis mencerminkan kualitas pengamalan nilai organisasi.",
+          "B": "Kurang tepat karena kecepatan promosi jabatan bersifat capaian karier individual, bukan tolok ukur nilai kesempurnaan.",
+          "D": "Kurang tepat karena menjauhi risiko secara ekstrem justru mematikan inovasi dan perbaikan mutu berkelanjutan.",
+          "E": "Kurang tepat karena ketepatan presensi mesin semata bersifat pemenuhan syarat fisik tanpa mencerminkan mutu karya."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 71,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "merupakan landasan moral dan profesional yang harus"
+      ],
+      "topik_materi": "Kedudukan Etika dan Kode Etik bagi PNS",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagi setiap aparatur sipil negara, etika, kode etik, dan kode perilaku berkedudukan sebagai...",
+      "pilihan": {
+        "A": "Persyaratan formal kelulusan masa prajabatan calon pegawai negeri",
+        "B": "Pedoman opsional yang dapat disesuaikan dengan kepentingan pribadi",
+        "C": "Landasan moral dan profesional yang harus dipegang teguh abdi negara",
+        "D": "Rangkaian sanksi administratif dalam peraturan internal kepegawaian",
+        "E": "Dokumen pelengkap dalam penyusunan laporan sasaran kinerja pegawai"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Etika, kode etik, dan kode perilaku merupakan **landasan moral dan profesional yang harus dipegang teguh oleh setiap PNS** dalam tugasnya.",
+        "alasan_kunci": "Opsi C tepat karena etika bukan sekadar pelengkap administratif, melainkan fondasi batin dan standar kompetensi moral yang menjiwai setiap pembuatan keputusan dinas. Sebagai pelayan masyarakat dan abdi negara, aparatur terikat secara etis untuk menjaga integritas pelaksanaan tugasnya dari segala bentuk penyimpangan moral. Landasan inilah yang menjaga marwah dan kepercayaan publik terhadap birokrasi pemerintah. Oleh karena itu, berkedudukan sebagai landasan moral dan profesional adalah rumusan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena etika berlaku seumur hidup selama masa bakti dinas, bukan sekadar syarat lulus masa prajabatan.",
+          "B": "Kurang tepat karena norma kode etik bersifat mengikat secara mutlak, bukan pedoman alternatif yang dapat ditawar.",
+          "D": "Kurang tepat karena etika berfokus pada panduan kebajikan internal, bukan semata daftar hukuman disiplin.",
+          "E": "Kurang tepat karena etika merupakan pedoman karakter hidup, bukan sekadar lampiran berkas Sasaran Kinerja Pegawai."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 72,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "membentuk birokrasi yang bersih, berintegritas, dan"
+      ],
+      "topik_materi": "Tujuan Internalisasi Nilai Etika Organisasi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pemahaman dan internalisasi nilai-nilai etika menjadi kunci utama bagi pemerintah untuk...",
+      "pilihan": {
+        "A": "Memperluas struktur organisasi kantor vertikal di seluruh wilayah daerah",
+        "B": "Menaikkan perolehan pendapatan negara dari sektor penerimaan non-pajak",
+        "C": "Mengurangi alokasi belanja modal pada sarana teknologi perkantoran",
+        "D": "Membentuk birokrasi yang bersih, berintegritas, dan berorientasi publik",
+        "E": "Membatasi interaksi komunikasi langsung antara pimpinan dan staf bawahan"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Internalisasi etika menjadi kunci untuk **membentuk birokrasi yang bersih, berintegritas, dan berorientasi pada kepentingan publik**.",
+        "alasan_kunci": "Opsi D tepat karena keberhasilan reformasi birokrasi tidak hanya ditentukan oleh modernisasi sarana fisik atau digital, melainkan transformasi watak manusia aparatur pelaksananya. Birokrasi yang bersih dari praktik curang, berintegritas tinggi dalam pengelolaan keuangan negara, dan mengutamakan kesejahteraan umum adalah cita-cita luhur pelayanan publik. Fondasi etika yang kuat menjadi benteng utama terwujudnya tata kelola tersebut. Oleh sebab itu, melahirkan birokrasi bersih dan berorientasi publik adalah tujuan utamanya.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penambahan kantor vertikal merupakan kebijakan struktur organisasi, bukan sasaran internalisasi etika.",
+          "B": "Kurang tepat karena target pendapatan negara merupakan fungsi teknis fiskal, bukan fokus langsung internalisasi nilai etis.",
+          "C": "Kurang tepat karena pemotongan anggaran teknologi informasi tidak berkaitan dengan substansi penanaman integritas moral.",
+          "E": "Kurang tepat karena membatasi dialog hierarki kerja bertentangan dengan prinsip keterbukaan dan kepemimpinan suportif."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 73,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "Kode etik dan kode perilaku bukanlah sekadar aturan formal"
+      ],
+      "topik_materi": "Hakikat Kode Etik Bukan Formalitas",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Pernyataan yang tepat mengenai hakikat keberadaan kode etik dan kode perilaku aparatur adalah...",
+      "pilihan": {
+        "A": "Merupakan instrumen penyeragaman busana kedinasan harian para pegawai",
+        "B": "Pedoman teknis penyusunan standar operasional prosedur unit kerja",
+        "C": "Bentuk pembatasan hak berpendapat aparatur dalam ruang publik masyarakat",
+        "D": "Dokumen pelengkap yang wajib diperbarui pada setiap pergantian menteri",
+        "E": "Kode etik dan kode perilaku bukanlah sekadar aturan formal belaka"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "**Kode etik dan kode perilaku bukanlah sekadar aturan formal**, melainkan pedoman sikap hidup yang mencerminkan nilai dasar dan budaya luhur.",
+        "alasan_kunci": "Opsi E tepat karena norma etik tidak boleh direduksi menjadi sekadar deretan pasal teks mati di atas kertas dokumen hukum. Kode etik menuntut internalisasi mendalam ke dalam lubuk sanubari setiap aparatur agar mewujud menjadi dorongan moral spontan dalam membedakan hal yang patut dan tidak patut dilakukan. Penghayatan ini membedakan ketaatan tulus dari kepatuhan semu. Maka, menegaskan bahwa kode etik bukan sekadar formalitas adalah pernyataan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penyeragaman seragam kerja diatur dalam regulasi tata tertib pakaian, bukan esensi kode etik.",
+          "B": "Kurang tepat karena penyusunan SOP merupakan instrumen ketatalaksanaan teknis proses bisnis kelembagaan.",
+          "C": "Kurang tepat karena kode etik membimbing tata krama komunikasi yang sehat, bukan memasung kebebasan berpendapat yang sah.",
+          "D": "Kurang tepat karena keluhuran norma etika bersifat universal dan abadi, tidak bergantung pada siklus pergantian pejabat politik."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 74,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "mencerminkan nilai dasar ASN dan budaya organisasi"
+      ],
+      "topik_materi": "Kode Etik sebagai Cerminan Nilai Dasar ASN",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Fungsi mendasar kode etik dan kode perilaku adalah sebagai pedoman sikap dan perilaku yang...",
+      "pilihan": {
+        "A": "Mencerminkan nilai dasar ASN dan budaya organisasi secara utuh",
+        "B": "Mengatur mekanisme kenaikan pangkat otomatis bagi seluruh staf",
+        "C": "Menetapkan besaran tunjangan kinerja jabatan fungsional kementerian",
+        "D": "Membatasi mobilitas karier aparatur sipil antardaerah penugasan",
+        "E": "Mengatur tata cara pemberian sanksi pidana umum bagi warga sipil"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kode etik berfungsi sebagai pedoman sikap dan perilaku yang **mencerminkan nilai dasar ASN dan budaya organisasi** dalam melayani bangsa.",
+        "alasan_kunci": "Opsi A tepat karena setiap butir panduan perilaku etis diturunkan langsung dari nilai-nilai luhur korps aparatur dan budaya kerja institusi. Kode etik menjadi jembatan praktis yang mengubah filosofi nilai abstrak menjadi tindakan nyata yang dapat diamati dan dievaluasi dalam dinamika kerja kedinasan sehari-hari. Cerminan ini menegaskan identitas moral abdi negara. Oleh sebab itu, merefleksikan nilai dasar dan budaya kerja organisasi adalah fungsi pokoknya.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena tata cara kenaikan pangkat diatur dalam regulasi pola karier dan manajemen kepegawaian BKN.",
+          "C": "Kurang tepat karena penetapan nominal tunjangan kinerja merupakan domain peraturan presiden mengenai remunerasi.",
+          "D": "Kurang tepat karena pola mutasi dan perpindahan tugas daerah diatur dalam manajemen talenta nasional.",
+          "E": "Kurang tepat karena sanksi pidana warga negara diatur dalam Kitab Undang-Undang Hukum Pidana, bukan kode etik dinas."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 75,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "kedisiplinan, tanggung jawab, dan integritas justru menjadi semakin"
+      ],
+      "topik_materi": "Relevansi Etika dalam Perubahan Zaman",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dalam situasi kerja birokrasi modern yang terus berkembang dinamis, nilai-nilai etis seperti...",
+      "pilihan": {
+        "A": "Sentralisasi wewenang justru semakin digalakkan oleh jajaran pimpinan",
+        "B": "Kedisiplinan, tanggung jawab, dan integritas justru menjadi semakin penting",
+        "C": "Kepatuhan prosedural formalitas diutamakan melampaui hasil kerja",
+        "D": "Senioritas masa kerja menjadi pertimbangan mutlak penentuan promosi",
+        "E": "Kerahasiaan data kepegawaian ditiadakan demi keterbukaan publik bebas"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "Di era perkembangan situasi kerja, **kedisiplinan, tanggung jawab, dan integritas justru menjadi semakin penting** bagi setiap aparatur.",
+        "alasan_kunci": "Opsi B tepat karena perkembangan teknologi dan fleksibilitas pola kerja modern menghadirkan tantangan baru berupa berkurangnya pengawasan fisik langsung oleh atasan. Dalam kondisi otonomi kerja yang luas ini, komitmen disiplin diri, tanggung jawab hasil keluaran, dan keteguhan integritas menjadi faktor penentu utama agar integritas organisasi tidak runtuh. Nilai-nilai inilah yang menjamin produktivitas tetap prima di era digital. Karena itu, ketiga nilai tersebut menjadi semakin krusial dalam birokrasi modern.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena era modern menuntut desentralisasi wewenang yang tangkas (agile), bukan pemusatan kaku.",
+          "C": "Kurang tepat karena birokrasi kekinian berorientasi pada pencapaian dampak (outcome) nyata, bukan kekakuan tata cara semata.",
+          "D": "Kurang tepat karena manajemen talenta masa kini berbasis meritokrasi kompetensi kinerja, bukan urutan masa kerja.",
+          "E": "Kurang tepat karena data personal pegawai tetap dilindungi secara ketat oleh hukum perlindungan data pribadi."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 76,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "tercermin dalam cara berpikir, bersikap, dan bertindak"
+      ],
+      "topik_materi": "Tiga Dimensi Penerapan Etika Kerja",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Penerapan etika aparatur sipil negara yang utuh dan seimbang wajib tercermin dalam...",
+      "pilihan": {
+        "A": "Kemampuan menguasai beragam bahasa asing dan bahasa pemrograman",
+        "B": "Kepemilikan aset kekayaan pribadi yang dilaporkan tepat pada waktunya",
+        "C": "Jumlah sertifikat keikutsertaan bimbingan teknis yang dikumpulkan staf",
+        "D": "Kerapian tata naskah dinas persuratan yang terkirim ke unit wilayah",
+        "E": "Cara berpikir, bersikap, dan bertindak dalam rutinitas kerja harian"
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": {
+        "konsep_materi": "Prinsip etika kepegawaian harus **tercermin dalam cara berpikir, bersikap, dan bertindak** aparatur di setiap saat.",
+        "alasan_kunci": "Opsi E tepat karena integritas moral menuntut keselarasan tiga ranah personal aparatur: kognitif (pola pikir yang objektif dan bersih), afektif (sikap batin yang penuh integritas dan empati), serta psikomotorik (tindakan nyata yang patuh pada aturan hukum). Pemisahan salah satu dimensi akan melahirkan kepatuhan semu atau kemunafikan perilaku. Keterpaduan cipta, rasa, dan karsa inilah yang membentuk karakter unggul abdi negara. Dengan demikian, tercermin dalam pola pikir, sikap, dan tindakan nyata adalah rumusan yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena penguasaan bahasa asing merupakan keahlian teknis individual, bukan cerminan langsung etika batiniah.",
+          "B": "Kurang tepat karena laporan harta kekayaan (LHKPN) adalah instrumen kepatuhan, bukan cerminan komprehensif seluruh ranah etika.",
+          "C": "Kurang tepat karena sertifikat pelatihan sekadar bukti administratif diklat tanpa menjamin perubahan sikap nyata.",
+          "D": "Kurang tepat karena kerapian tata naskah merupakan kompetensi kesekretariatan yang bersifat prosedural teknis."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 77,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "dalam lingkungan kerja fisik maupun digital"
+      ],
+      "topik_materi": "Ruang Lingkup Penerapan Etika Modern",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ruang lingkup penegakan etika aparatur sipil negara di era transformasi digital berlaku pada...",
+      "pilihan": {
+        "A": "Baik saat berada dalam lingkungan kerja fisik maupun ruang digital",
+        "B": "Saat pegawai bertugas langsung di dalam gedung perkantoran dinas",
+        "C": "Khusus saat berlangsung audit kepatuhan oleh instansi pengawas intern",
+        "D": "Terbatas pada jam operasional pelayanan tatap muka dengan warga",
+        "E": "Saat menghadiri kegiatan seremonial peringatan hari besar nasional"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": {
+        "konsep_materi": "Kepatuhan etika harus dijaga secara konsisten **baik saat berada dalam lingkungan kerja fisik maupun digital** di setiap waktu.",
+        "alasan_kunci": "Opsi A tepat karena kehadiran teknologi informasi tidak menghapus batasan etis perilaku seorang abdi negara. Sikap sopan, kejujuran dalam pelaporan data, kerahasiaan informasi jabatan, serta penghormatan martabat sesama berlaku setara di dalam gedung kantor maupun saat berinteraksi di ruang rapat virtual dan media sosial. Integritas aparatur melekat erat tanpa batas sekat medium komunikasi. Oleh sebab itu, berlaku pada lingkungan fisik maupun digital adalah ketetapan yang benar.",
+        "bedah_pengecoh": {
+          "B": "Kurang tepat karena membatasi etika hanya di dalam gedung kantor melegalkan perilaku tidak pantas di ruang maya.",
+          "C": "Kurang tepat karena penegakan etika merupakan panggilan jiwa harian, bukan sekadar respons kepatuhan saat diaudit.",
+          "D": "Kurang tepat karena aparatur tetap terikat kode etik dalam pelaksanaan tugas back-office di luar loket pelayanan.",
+          "E": "Kurang tepat karena etika bukan pakaian pesta yang hanya dikenakan saat momen seremonial upacara kenegaraan."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 78,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "kematangan pribadi dan profesionalisme seorang pegawai"
+      ],
+      "topik_materi": "Etika sebagai Ukuran Kematangan Pribadi",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Bagi seorang pegawai aparatur sipil negara, derajat kepatuhan terhadap etika mencerminkan...",
+      "pilihan": {
+        "A": "Keberhasilan menempuh pendidikan penjenjangan karier pamong praja",
+        "B": "Ukuran kematangan pribadi dan tingkat profesionalisme seorang pegawai",
+        "C": "Tingginya pengaruh kekuasaan informal dalam jejaring birokrasi lokal",
+        "D": "Kemampuan melakukan lobi strategis demi percepatan promosi jabatan",
+        "E": "Besarnya jumlah relasi kerja dengan kalangan pengusaha komersial"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": {
+        "konsep_materi": "**Kepatuhan terhadap etika menjadi ukuran kematangan pribadi dan profesionalisme seorang pegawai** dalam menjalankan amanah publik.",
+        "alasan_kunci": "Opsi B tepat karena kepatuhan etika yang konsisten membuktikan penguasaan diri yang matang serta kedewasaan emosional aparatur dalam menghadapi godaan kekuasaan atau materi. Pegawai yang profesional menempatkan kehormatan institusi dan aturan hukum di atas hawa nafsu dan kepentingan kelompok. Ukuran kematangan inilah yang membedakan aparatur berintegritas sejati dari individu yang sekadar mengejar status kedinasan. Maka dari itu, tolok ukur kematangan pribadi dan profesionalitas adalah jawaban yang tepat.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena kelulusan diklat kepemimpinan tidak selalu berbanding lurus dengan kematangan karakter etis.",
+          "C": "Kurang tepat karena pengaruh lobi informal tidak mencerminkan integritas moral aparatur sesuai kaidah etika.",
+          "D": "Kurang tepat karena lobi politik demi promosi jabatan kilat justru menciderai prinsip meritokrasi dan netralitas.",
+          "E": "Kurang tepat karena keakraban dengan mitra pengusaha swasta berpotensi menimbulkan benturan kepentingan tugas kedinasan."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 79,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "kompas moral dalam bertugas"
+      ],
+      "topik_materi": "Peran Etika sebagai Kompas Moral",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Ajakan luhur dalam penutup modul etika mengimbau seluruh aparatur agar menjadikan etika sebagai...",
+      "pilihan": {
+        "A": "Instrumen proteksi diri dari jeratan pemeriksaan aparat penegak hukum",
+        "B": "Alat seleksi penentuan besaran potongan iuran korps pegawai negeri",
+        "C": "Kompas moral dalam bertugas dan pedoman penguat karakter birokrasi",
+        "D": "Media diplomasi dalam memperjuangkan kenaikan alokasi anggaran satker",
+        "E": "Sarana formalitas administrasi demi melengkapi dokumen akreditasi unit"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": {
+        "konsep_materi": "Setiap abdi negara diajak untuk **menjadikan etika sebagai kompas moral dalam bertugas, dan kode etik sebagai pedoman sikap yang memperkuat karakter birokrasi**.",
+        "alasan_kunci": "Opsi C tepat karena metafora kompas moral menegaskan fungsi pemandu arah bagi pegawai ketika berada dalam persimpangan dilema etika atau tekanan kepentingan yang membingungkan. Berpegang pada kompas moral memastikan setiap langkah, kebijakan, dan keputusan dinas selalu mengarah pada kebenaran hukum, kemaslahatan masyarakat, dan keluhuran martabat bangsa. Hal ini memperkokoh jatidiri birokrasi berwibawa. Dengan demikian, etika sebagai kompas moral adalah rumusan yang benar.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena etika bukan tameng hukum untuk membela diri, melainkan bimbingan pencegahan berbuat salah.",
+          "B": "Kurang tepat karena iuran korps diatur dalam anggaran dasar dan anggaran rumah tangga organisasi kepegawaian.",
+          "D": "Kurang tepat karena negosiasi pagu anggaran merupakan tata kelola keuangan negara, bukan peran hakiki etika moral.",
+          "E": "Kurang tepat karena mereduksi etika menjadi sekadar syarat akreditasi mengabaikan nilai keluhuran akhlak aparatur."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    },
+    {
+      "nomor": 80,
+      "halaman_sumber": 31,
+      "kata_kunci_modul": [
+        "bermartabat dan dapat dipercaya"
+      ],
+      "topik_materi": "Visi Birokrasi Masa Depan",
+      "level_kognitif": "C2 - Pemahaman",
+      "pertanyaan": "Dengan menjunjung tinggi nilai-nilai etika, kementerian membangun organisasi yang tidak hanya cerdas dan adaptif, tetapi juga...",
+      "pilihan": {
+        "A": "Mampu memonopoli seluruh kewenangan regulasi ekonomi nasional",
+        "B": "Memiliki kekuasaan mutlak dalam mengendalikan lembaga penegak hukum",
+        "C": "Terbebas dari kewajiban pertanggungjawaban kepada dewan perwakilan",
+        "D": "Bermartabat dan dapat dipercaya oleh seluruh lapisan masyarakat luas",
+        "E": "Menjadi instansi dengan alokasi belanja operasional terbesar negara"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": {
+        "konsep_materi": "Penerapan etika bertujuan membangun organisasi yang **tidak hanya cerdas dan adaptif, tetapi juga bermartabat dan dapat dipercaya** oleh publik.",
+        "alasan_kunci": "Opsi D tepat karena kecerdasan intelektual dan ketangkasan digital suatu institusi pemerintah menjadi tidak bernilai tanpa disertai martabat moral dan legitimasi kepercayaan publik. Kepercayaan (public trust) adalah modal sosial paling berharga bagi kementerian dalam menjalankan tugas pengelolaan fiskal dan pembangunan nasional. Dengan menjunjung etika luhur, institusi berdiri kokoh dan dihormati oleh seluruh rakyat. Oleh sebab itu, mewujudkan organisasi bermartabat dan dapat dipercaya adalah visi mulia penutup modul.",
+        "bedah_pengecoh": {
+          "A": "Kurang tepat karena memonopoli kekuasaan regulasi bertentangan dengan prinsip demokrasi dan pembagian wewenang.",
+          "B": "Kurang tepat karena lembaga eksekutif tidak boleh mengintervensi atau mendominasi otoritas yudikatif negara.",
+          "C": "Kurang tepat karena setiap instansi pemerintah wajib tunduk pada akuntabilitas pengawasan wakil rakyat.",
+          "E": "Kurang tepat karena besaran belanja operasional kantor bukan indikator kehormatan dan kemuliaan tata kelola birokrasi."
+        },
+        "sumber_rujukan": "Etika PNS"
+      }
+    }
+  ]
+}
