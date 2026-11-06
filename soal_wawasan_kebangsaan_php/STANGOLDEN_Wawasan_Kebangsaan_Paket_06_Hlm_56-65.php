@@ -1208,7 +1208,7 @@ header('Cache-Control: private, no-store, no-cache, must-revalidate');
     <span class="start-badge">BOOTCAMP UPKP 2026</span>
 
     <h1 class="start-title">
-      Latihan Nilai-Nilai Kemenkeu
+      Latihan Wawasan Kebangsaan
       <span class="series-tag">Paket 06 • Hlm. 56–65</span>
     </h1>
 
@@ -1251,7 +1251,7 @@ header('Cache-Control: private, no-store, no-cache, must-revalidate');
 <div class="topbar"><div class="brand"><div class="brandmark">S</div> STANGOLDEN<span>.exam</span></div><div class="top-actions"><button class="btn" onclick="openLeaderboard()">🏆 Lihat Ranking</button><button class="btn" onclick="openSubmit()">Selesai ujian</button></div></div>
 <section class="hero">
 <span class="eyebrow">BOOTCAMP UPKP 2026</span>
-<h1>Latihan Nilai-Nilai Kemenkeu <span class="series-tag">Paket 06 • Hlm. 56–65</span></h1>
+<h1>Latihan Wawasan Kebangsaan <span class="series-tag">Paket 06 • Hlm. 56–65</span></h1>
 </section>
 <div class="status"><div class="subject" id="subject" style="display:none"></div><div class="progress-wrap"><div class="progress-meta"><span id="progText">0 dari 100 dijawab</span><span id="progPct">0%</span></div><div class="track"><div class="fill" id="progFill"></div></div></div><div class="timer" id="timer">65:00</div></div>
 <div class="grid" id="examQuestionGrid"><button type="button" class="map-toggle map-reopen" id="mapReopenButton" onclick="toggleQuestionMap(true)" aria-controls="questionMapPanel" aria-expanded="false">☷ Tampilkan Peta Soal</button><main class="card qcard"><div class="qmeta"><span class="badge no" id="qNo">Soal 1</span></div><div id="passage"></div><div class="qtext" id="qText"></div><div id="figArea" class="fig-wrap"></div><div class="options" id="options"></div><div class="qnav"><button class="btn" id="prevBtn" onclick="prevQ()">← Sebelumnya</button><button class="btn primary" id="nextBtn" onclick="nextQ()">Berikutnya →</button></div></main><aside class="sidebar" id="questionMapPanel"><div class="card side"><div class="map-head"><h3>Peta Soal</h3><button type="button" class="map-toggle" id="mapHideButton" onclick="toggleQuestionMap(false)" aria-controls="questionMapPanel" aria-expanded="true">Sembunyikan ✕</button></div><div class="numgrid" id="numGrid"></div></div><button class="btn dark" onclick="openSubmit()">Kumpulkan Jawaban</button><button type="button" class="btn primary" onclick="openSubmit()" style="width:100%;">Selesai Ujian →</button></aside></div>
